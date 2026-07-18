@@ -43,6 +43,7 @@ COLUMNS = [
     "nameplate_capacity_gwh", "capacity_ref_year", "capacity_by_year_json",
     "chemistry", "cell_format", "end_market", "jv_partners",
     "source_url", "source_date", "confidence",
+    "is_cell_manufacturer", "research_notes",
 ]
 
 INT_FIELDS = {"announced_year", "start_year", "capacity_ref_year"}
@@ -99,6 +100,23 @@ def coerce(obj):
             out["capacity_by_year_json"] = None
     else:
         out["capacity_by_year_json"] = None
+
+    # is_cell_manufacturer -> bool or None
+    icm = out.get("is_cell_manufacturer")
+    if isinstance(icm, str):
+        out["is_cell_manufacturer"] = icm.strip().lower() in ("true", "1", "yes")
+    elif icm is not None:
+        out["is_cell_manufacturer"] = bool(icm)
+
+    # Rule 2 repair: capacity present but no reference year. Rather than drop a
+    # real plant, infer capacity_ref_year from the source_date year so the
+    # figure stays anchored to a year, and flag it in research_notes.
+    if out.get("nameplate_capacity_gwh") is not None and out.get("capacity_ref_year") is None:
+        sd = out.get("source_date")
+        if isinstance(sd, str) and len(sd) >= 4 and sd[:4].isdigit():
+            out["capacity_ref_year"] = int(sd[:4])
+            note = out.get("research_notes") or ""
+            out["research_notes"] = (note + " [loader: capacity_ref_year inferred from source_date]").strip()
 
     return out, errors
 
