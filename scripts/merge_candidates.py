@@ -58,9 +58,19 @@ def main():
     per_region = {}
     dropped_dupes = 0
 
+    def region_for(base):
+        # exact match first, then longest known-prefix match (handles
+        # wave-2 filenames like china_wave2a, europe_extra, etc.)
+        if base in REGION_FROM_FILE:
+            return REGION_FROM_FILE[base]
+        for token in sorted(REGION_FROM_FILE, key=len, reverse=True):
+            if base.startswith(token):
+                return REGION_FROM_FILE[token]
+        return base
+
     for fp in files:
         base = os.path.splitext(os.path.basename(fp))[0]
-        region = REGION_FROM_FILE.get(base, base)
+        region = region_for(base)
         with open(fp, newline="") as fh:
             reader = csv.reader(fh)
             for raw in reader:
