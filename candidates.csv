@@ -67,6 +67,82 @@ Lishen Wuxi plant,Tianjin Lishen,China,China
 Great Power Guangzhou plant,Great Power,China,China
 Great Power Liuzhou plant,Great Power,China,China
 Great Power Quzhou plant,Great Power,China,China
+CATL Fuding,CATL,China,China
+BYD FinDreams Changsha plant,BYD FinDreams,China,China
+BYD FinDreams Wuwei plant,BYD FinDreams,China,China
+BYD FinDreams Fuzhou plant,BYD FinDreams,China,China
+BYD FinDreams Jinan plant,BYD FinDreams,China,China
+BYD FinDreams Shaoxing plant,BYD FinDreams,China,China
+BYD FinDreams Huizhou plant,BYD FinDreams,China,China
+BYD FinDreams Changzhou plant,BYD FinDreams,China,China
+FAW-FinDreams Changchun plant,FAW-FinDreams,China,China
+Weichai-FinDreams Yantai plant,Weichai-FinDreams,China,China
+EVE Energy Yuxi plant,EVE Energy,China,China
+EVE Energy Qujing plant,EVE Energy,China,China
+EVE Energy Qidong plant,EVE Energy,China,China
+EVE Energy Yancheng plant,EVE Energy,China,China
+EVE Energy Ningbo plant,EVE Energy,China,China
+EVE Energy Shenyang plant,EVE Energy,China,China
+Gotion Tongcheng plant,Gotion,China,China
+Gotion Chuzhou plant,Gotion,China,China
+Gotion Yichun plant,Gotion,China,China
+Gotion Wuhu plant,Gotion,China,China
+CALB Xinyang plant,CALB,China,China
+CALB Handan plant,CALB,China,China
+CALB Jinhua plant,CALB,China,China
+Sunwoda Nanchang plant,Sunwoda,China,China
+Sunwoda Yiwu plant,Sunwoda,China,China
+Sunwoda Zhuhai plant,Sunwoda,China,China
+Farasis Wuhu plant,Farasis,China,China
+Lishen Mianyang plant,Lishen,China,China
+Great Power Zhumadian plant,Great Power,China,China
+Great Power Guangde plant,Great Power,China,China
+Great Power Qingdao plant,Great Power,China,China
+Envision AESC Wuxi Plant,Envision AESC,China,China
+Envision AESC Ordos Plant,Envision AESC,China,China
+Envision AESC Cangzhou Plant,Envision AESC,China,China
+Envision AESC Shiyan Plant,Envision AESC,China,China
+Highstar Qidong Plant,Highstar Battery,China,China
+Highstar Zhuhai Plant,Highstar Battery,China,China
+Tianneng Changxing Gigafactory,Tianneng Battery,China,China
+Narada Hangzhou Lin'an Plant,Narada Power,China,China
+Ganfeng LiEnergy Xinyu Plant,Ganfeng LiEnergy,China,China
+Ganfeng LiEnergy Chongqing Plant,Ganfeng LiEnergy,China,China
+Ganfeng LiEnergy Dongguan Plant,Ganfeng LiEnergy,China,China
+CosMX Zhuhai Plant,Zhuhai CosMX Battery,China,China
+CosMX Chongqing Plant,Zhuhai CosMX Battery,China,China
+Penghui Liuzhou Base,Penghui Energy,China,China
+BAK Zhengzhou Plant,BAK Battery,China,China
+BAK Shenzhen Plant,BAK Battery,China,China
+Microvast Huzhou Plant,Microvast,China,China
+Zenergy Changshu Plant,Jiangsu Zenergy,China,China
+Phylion Suzhou Plant,Phylion Battery,China,China
+Phylion Chuzhou Plant,Phylion Battery,China,China
+Camel Xiangyang New Energy Plant,Camel Group,China,China
+Wanxiang A123 Hangzhou Plant,Wanxiang A123,China,China
+Desay Huizhou Plant,Huizhou Desay Battery,China,China
+Hina Fuyang Plant,Hina Battery,China,China
+DFD Jiaozuo Plant,DFD New Energy,China,China
+DFD Nanning Plant,DFD New Energy,China,China
+Li-FUN Zhuzhou Plant,Li-FUN Technology,China,China
+Zhuoneng Shenzhen Plant,Zhuoneng New Energy,China,China
+Coslight Harbin Plant,Coslight,China,China
+Zoolnasm Guangde sodium-ion gigafactory,Zoolnasm,China,China
+Yangquan sodium-ion battery line,Huayang Group / Zhongke Haina,China,China
+Zhongna Energy Guangde sodium-ion base,Zhongna Energy,China,China
+Zhongna Energy Storage Yangzhou base,Zhongna Energy,China,China
+Jiangsu Transimage sodium-ion plant Gaoyou,Transimage / Jiangsu Chuanyi,China,China
+Suining sodium-ion plant,Guangde Qingna Technology,China,China
+BenAn Energy Taicang sodium-ion plant,BenAn Energy,China,China
+Veken Ningbo sodium-ion plant,Veken,China,China
+Veken Nanchang industrial park,Veken,China,China
+Great Power Ulanqab sodium-ion and storage cell plant,Great Power,China,China
+Pylontech Hefei Feixi LFP cell plant,Pylontech,China,China
+Pylontech Shanghai LFP cell base,Pylontech,China,China
+Narada Wuxi LFP cell plant,Narada Power,China,China
+Narada Jiuquan storage cell base,Narada Power,China,China
+Trina Storage Changzhou LFP cell gigafactory,Trina Storage,China,China
+Envision AESC Yichang storage super factory,Envision AESC,China,China
 Northvolt Drei,Northvolt,Germany,Europe
 CATL Erfurt,CATL,Germany,Europe
 Tesla Grünheide,Tesla,Germany,Europe
@@ -95,6 +171,30 @@ InoBat Šurany,InoBat,Slovakia,Europe
 InoBat Ćuprija,InoBat,Serbia,Europe
 Siro Gemlik,Siro,Turkey,Europe
 YİĞİT AKÜ-Ganfeng gigafactory,YİĞİT AKÜ-Ganfeng JV,Turkey,Europe
+CALB Sines,CALB,Portugal,Europe
+Hithium Navarra,Hithium,Spain,Europe
+ProLogium Dunkirk,ProLogium,France,Europe
+Tiamat Amiens,Tiamat,France,Europe
+Blue Solutions Quimper,Blue Solutions,France,Europe
+Saft Nersac,Saft,France,Europe
+FREYR Mo i Rana,FREYR Battery,Norway,Europe
+Beyonder,Beyonder,Norway,Europe
+Elinor Batteries,Elinor Batteries,Norway,Europe
+Customcells Itzehoe,Customcells,Germany,Europe
+Customcells Tübingen,Customcells,Germany,Europe
+Leclanché Willstätt,Leclanché,Germany,Europe
+Blackstone Resources Döbeln,Blackstone Resources,Germany,Europe
+Liacon Itzehoe,Liacon,Germany,Europe
+Basquevolt Vitoria-Gasteiz,Basquevolt,Spain,Europe
+FAAM Teverola,Seri Industrial,Italy,Europe
+Volklec Coventry,Volklec,United Kingdom,Europe
+AMTE Power Thurso,AMTE Power,United Kingdom,Europe
+Britishvolt Blyth,Britishvolt,United Kingdom,Europe
+Nyobolt Sunderland,Nyobolt,United Kingdom,Europe
+ElevenES Subotica,ElevenES,Serbia,Europe
+Altris Sandviken,Altris,Sweden,Europe
+Pomega Samsun,Pomega Energy,Turkey,Europe
+Ford-LG Kocaeli,Ford Otosan,Turkey,Europe
 Agratas Sanand Gigafactory,Agratas Energy Storage Solutions,India,India
 Ola Gigafactory,Ola Cell Technologies,India,India
 Exide Energy Solutions Bengaluru Gigafactory,Exide Energy Solutions,India,India
@@ -107,6 +207,15 @@ Amperex Technology Sohna Cell Plant,Amperex Technology Limited,India,India
 JSW Energy Cell Gigafactory,JSW Energy,India,India
 Godi Energy Hyderabad Gigafactory,Godi India,India,India
 Lucas TVS Thervoy Kandigai Cell Plant,Lucas TVS,India,India
+TDS Lithium-Ion Battery Gujarat (Hansalpur),TDSG (Suzuki-Toshiba-Denso),India,India
+Munoth Lithium Cell Plant (Tirupati),Munoth Industries,India,India
+Waaree Lithium-Ion Gigafactory (Rambili),Waaree Energies,India,India
+Waaree ESS Cell Plant (Rola),Waaree ESS,India,India
+ChemVolt Lithium-Ion Cell Gigafactory (Andhra Pradesh),ChemVolt Global,India,India
+Naxion Sodium-Ion Cell Plant (Coimbatore),Naxion Energy,India,India
+Macsen Sodium-Ion Cell Pilot Line (Udaipur),Macsen Labs,India,India
+Trentar Sodium-Ion Cell Plant,Trentar Energy (KPIT tech),India,India
+e-TRNL Cell Pilot Line (Bengaluru),e-TRNL Energy,India,India
 Panasonic Energy Suminoe Factory,Panasonic Energy,Japan,Japan
 Panasonic Energy Kaizuka Factory,Panasonic Energy,Japan,Japan
 Panasonic Energy Wakayama Factory,Panasonic Energy,Japan,Japan
@@ -124,6 +233,21 @@ Honda GS Yuasa New Battery Plant,Blue Energy (Honda / GS Yuasa),Japan,Japan
 Toshiba Kashiwazaki Plant,Toshiba,Japan,Japan
 Toshiba Yokohama Plant,Toshiba,Japan,Japan
 Murata Yasu Plant,Murata,Japan,Japan
+Kusatsu Plant (Lithium Energy Japan),GS Yuasa,Japan,Japan
+Ono Works,Maxell,Japan,Japan
+Kawasaki Plant,Eliiy Power,Japan,Japan
+Echizen Plant,APB Corporation,Japan,Japan
+Washizu Plant (Kosai),FDK,Japan,Japan
+Ritto film battery pilot line,Sekisui Chemical,Japan,Japan
+Daejeon all-solid-state pilot line,SK On,South Korea,South Korea
+Suwon S-Line all-solid-state pilot,Samsung SDI,South Korea,South Korea
+Siheung Plant,Kokam,South Korea,South Korea
+Sella 2 (Eumseong),Kokam,South Korea,South Korea
+Chungju Plant,Enertech International,South Korea,South Korea
+Gijang Plant (Busan),Kumyang,South Korea,South Korea
+Cheonan Plant,EIG,South Korea,South Korea
+Nonsan Plant,Vitzrocell,South Korea,South Korea
+Daejeon flexible battery pilot,LiBEST,South Korea,South Korea
 NextStar Energy,NextStar Energy,Canada,Rest of World
 Northvolt Six,Northvolt,Canada,Rest of World
 PowerCo St. Thomas gigafactory,PowerCo,Canada,Rest of World
@@ -174,3 +298,28 @@ Gotion Manteno (Illinois),Gotion,United States,USA
 ONE Circle (Van Buren Township Michigan),Our Next Energy,United States,USA
 Amprius Colorado (Brighton),Amprius Technologies,United States,USA
 Microvast Clarksville (Tennessee),Microvast,United States,USA
+Electrovaya Jamestown,Electrovaya,United States,USA
+QuantumScape San Jose,QuantumScape,United States,USA
+Factorial Energy Methuen,Factorial Energy,United States,USA
+Solid Power Louisville,Solid Power,United States,USA
+Enovix Fremont,Enovix,United States,USA
+Amprius Fremont,Amprius Technologies,United States,USA
+Natron Energy Holland,Natron Energy,United States,USA
+Peak Energy Sacramento,Peak Energy,United States,USA
+Eos Energy Turtle Creek,Eos Energy Enterprises,United States,USA
+ESS Inc Wilsonville,ESS Inc,United States,USA
+Form Energy Weirton,Form Energy,United States,USA
+Ambri Marlborough,Ambri,United States,USA
+Statevolt Imperial Valley,Statevolt,United States,USA
+Lyten San Jose,Lyten,United States,USA
+SES AI Woburn,SES AI,United States,USA
+24M Technologies Cambridge,24M Technologies,United States,USA
+UNIGRID San Diego,UNIGRID Battery,United States,USA
+Inlyte Energy Hayward,Inlyte Energy,United States,USA
+Coreshell San Leandro,Coreshell,United States,USA
+Zeta Energy Houston,Zeta Energy,United States,USA
+"BlueOval Battery Park Michigan, Marshall",Ford,United States,USA
+Dragonfly Energy Reno,Dragonfly Energy,United States,USA
+Nanotech Energy Chico,Nanotech Energy,United States,USA
+Sakuu Silicon Valley,Sakuu,United States,USA
+EnerVenue Shelby County,EnerVenue,United States,USA
