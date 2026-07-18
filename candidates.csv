@@ -1,0 +1,176 @@
+plant_name,operator,country,region
+CATL Ningde plant,CATL,China,China
+CATL Liyang plant,CATL,China,China
+CATL Yibin plant,CATL,China,China
+CATL Zhaoqing plant,CATL,China,China
+CATL Xiamen plant,CATL,China,China
+CATL Yichun plant,CATL,China,China
+CATL Xining plant,CATL,China,China
+CATL Luoyang plant,CATL,China,China
+CATL Jining plant,CATL,China,China
+CATL Guiyang plant,CATL,China,China
+CATL Nanhui New City plant,CATL,China,China
+CALB Changzhou plant,CALB,China,China
+CALB Chengdu plant,CALB,China,China
+CALB Wuhan plant,CALB,China,China
+CALB Jiangmen plant,CALB,China,China
+CALB Xiamen plant,CALB,China,China
+CALB Hefei plant,CALB,China,China
+CALB Meishan plant,CALB,China,China
+BYD FinDreams Chongqing plant,BYD,China,China
+BYD FinDreams Xuzhou plant,BYD,China,China
+BYD FinDreams Wenzhou plant,BYD,China,China
+BYD FinDreams Zhengzhou plant,BYD,China,China
+BYD FinDreams Xining plant,BYD,China,China
+BYD FinDreams Shenzhen plant,BYD,China,China
+BYD FinDreams Bengbu plant,BYD,China,China
+BYD FinDreams Xi'an plant,BYD,China,China
+EVE Energy Huizhou plant,EVE Energy,China,China
+EVE Energy Jingmen plant,EVE Energy,China,China
+EVE Energy Wuhan plant,EVE Energy,China,China
+EVE Energy Chengdu plant,EVE Energy,China,China
+Gotion Hefei plant,Gotion High-tech,China,China
+Gotion Lujiang plant,Gotion High-tech,China,China
+Gotion Nanjing plant,Gotion High-tech,China,China
+Gotion Qingdao plant,Gotion High-tech,China,China
+Gotion Tangshan plant,Gotion High-tech,China,China
+Gotion Nantong plant,Gotion High-tech,China,China
+Gotion Liuzhou plant,Gotion High-tech,China,China
+SVOLT Jintan plant,SVOLT,China,China
+SVOLT Baoding plant,SVOLT,China,China
+SVOLT Suining plant,SVOLT,China,China
+SVOLT Chengdu plant,SVOLT,China,China
+SVOLT Huzhou plant,SVOLT,China,China
+SVOLT Ma'anshan plant,SVOLT,China,China
+SVOLT Shangrao plant,SVOLT,China,China
+SVOLT Taizhou plant,SVOLT,China,China
+SVOLT Nanjing plant,SVOLT,China,China
+SVOLT Yancheng plant,SVOLT,China,China
+Hithium Xiamen plant,Hithium,China,China
+Hithium Chongqing plant,Hithium,China,China
+Hithium Heze plant,Hithium,China,China
+REPT Battero Wenzhou plant,REPT Battero,China,China
+REPT Battero Jiaxing plant,REPT Battero,China,China
+REPT Battero Liuzhou plant,REPT Battero,China,China
+REPT Battero Foshan plant,REPT Battero,China,China
+REPT Battero Chongqing plant,REPT Battero,China,China
+Sunwoda Shenzhen plant,Sunwoda,China,China
+Sunwoda Zaozhuang plant,Sunwoda,China,China
+Farasis Energy Ganzhou plant,Farasis Energy,China,China
+Farasis Energy Zhenjiang plant,Farasis Energy,China,China
+Farasis Energy Guangzhou plant,Farasis Energy,China,China
+Lishen Tianjin plant,Tianjin Lishen,China,China
+Lishen Qingdao plant,Tianjin Lishen,China,China
+Lishen Suzhou plant,Tianjin Lishen,China,China
+Lishen Chuzhou plant,Tianjin Lishen,China,China
+Lishen Wuxi plant,Tianjin Lishen,China,China
+Great Power Guangzhou plant,Great Power,China,China
+Great Power Liuzhou plant,Great Power,China,China
+Great Power Quzhou plant,Great Power,China,China
+Northvolt Drei,Northvolt,Germany,Europe
+CATL Erfurt,CATL,Germany,Europe
+Tesla Grünheide,Tesla,Germany,Europe
+PowerCo Salzgitter,PowerCo,Germany,Europe
+ACC Kaiserslautern,Automotive Cells Company,Germany,Europe
+Cellforce Kirchentellinsfurt,Cellforce Group,Germany,Europe
+Verkor Dunkirk,Verkor,France,Europe
+ACC Douvrin,Automotive Cells Company,France,Europe
+Envision AESC Douai,Envision AESC,France,Europe
+CATL Debrecen,CATL,Hungary,Europe
+Samsung SDI Göd,Samsung SDI,Hungary,Europe
+SK On Komárom,SK On,Hungary,Europe
+SK On Iváncsa,SK On,Hungary,Europe
+LG Energy Solution Wrocław,LG Energy Solution,Poland,Europe
+PowerCo Sagunto,PowerCo,Spain,Europe
+CATL Stellantis Zaragoza,CATL-Stellantis JV,Spain,Europe
+Envision AESC Navalmoral de la Mata,Envision AESC,Spain,Europe
+ACC Termoli,Automotive Cells Company,Italy,Europe
+Italvolt Scarmagno,Italvolt,Italy,Europe
+Eni Storage Systems Gigafactory,Eni Storage Systems,Italy,Europe
+Northvolt Ett Skellefteå,Northvolt,Sweden,Europe
+Morrow Batteries Arendal,Morrow Batteries,Norway,Europe
+Envision AESC Sunderland,Envision AESC,UK,Europe
+Agratas Somerset,Agratas,UK,Europe
+InoBat Šurany,InoBat,Slovakia,Europe
+InoBat Ćuprija,InoBat,Serbia,Europe
+Siro Gemlik,Siro,Turkey,Europe
+YİĞİT AKÜ-Ganfeng gigafactory,YİĞİT AKÜ-Ganfeng JV,Turkey,Europe
+Agratas Sanand Gigafactory,Agratas Energy Storage Solutions,India,India
+Ola Gigafactory,Ola Cell Technologies,India,India
+Exide Energy Solutions Bengaluru Gigafactory,Exide Energy Solutions,India,India
+Amara Raja Giga Corridor,Amara Raja Advanced Cell Technologies,India,India
+Reliance Dhirubhai Ambani Green Energy Giga Complex Battery Gigafactory,Reliance New Energy,India,India
+Rajesh Exports Dharwad Cell Factory,ACC Energy Storage (Rajesh Exports),India,India
+International Battery Company Bengaluru Gigafactory,International Battery Company,India,India
+Log9 Materials Bengaluru Cell Facility,Log9 Materials,India,India
+Amperex Technology Sohna Cell Plant,Amperex Technology Limited,India,India
+JSW Energy Cell Gigafactory,JSW Energy,India,India
+Godi Energy Hyderabad Gigafactory,Godi India,India,India
+Lucas TVS Thervoy Kandigai Cell Plant,Lucas TVS,India,India
+Panasonic Energy Suminoe Factory,Panasonic Energy,Japan,Japan
+Panasonic Energy Kaizuka Factory,Panasonic Energy,Japan,Japan
+Panasonic Energy Wakayama Factory,Panasonic Energy,Japan,Japan
+Panasonic Energy Oizumi Factory,Panasonic Energy / Subaru,Japan,Japan
+PPES Himeji Plant,Prime Planet Energy & Solutions,Japan,Japan
+PPES Tokushima Plant,Prime Planet Energy & Solutions,Japan,Japan
+Toyota Fukuoka (Kanda) Battery Plant,Toyota,Japan,Japan
+Toyota Teiho Plant,Toyota,Japan,Japan
+Toyota Battery (PEVE) Kosai Plant,Toyota Battery / Primearth EV Energy,Japan,Japan
+Toyota Battery (PEVE) Miyagi Plant,Toyota Battery / Primearth EV Energy,Japan,Japan
+AESC Zama Plant,AESC,Japan,Japan
+AESC Ibaraki Plant,AESC (Envision AESC),Japan,Japan
+Blue Energy Fukuchiyama (Osadano) Plant,Blue Energy (Honda / GS Yuasa),Japan,Japan
+Honda GS Yuasa New Battery Plant,Blue Energy (Honda / GS Yuasa),Japan,Japan
+Toshiba Kashiwazaki Plant,Toshiba,Japan,Japan
+Toshiba Yokohama Plant,Toshiba,Japan,Japan
+Murata Yasu Plant,Murata,Japan,Japan
+NextStar Energy,NextStar Energy,Canada,Rest of World
+Northvolt Six,Northvolt,Canada,Rest of World
+PowerCo St. Thomas gigafactory,PowerCo,Canada,Rest of World
+Honda Alliston battery plant,Honda,Canada,Rest of World
+E-One Moli Maple Ridge,E-One Moli Energy,Canada,Rest of World
+Gotion Kenitra gigafactory,Gotion High-Tech,Morocco,Rest of World
+LG Energy Solution Morocco,LG Energy Solution,Morocco,Rest of World
+Statevolt Ras Al Khaimah,Statevolt,United Arab Emirates,Rest of World
+Recharge Industries Geelong,Recharge Industries,Australia,Rest of World
+Energy Renaissance Tomago,Energy Renaissance,Australia,Rest of World
+Bravo Motor Company gigafactory,Bravo Motor Company,Brazil,Rest of World
+LG Energy Solution Ochang Plant,LG Energy Solution,South Korea,South Korea
+Samsung SDI Cheonan Plant,Samsung SDI,South Korea,South Korea
+Samsung SDI Ulsan Plant,Samsung SDI,South Korea,South Korea
+Samsung SDI Giheung Plant,Samsung SDI,South Korea,South Korea
+SK On Seosan Plant,SK On,South Korea,South Korea
+HLI Green Power,HLI Green Power (Hyundai Motor Group-LG Energy Solution),Indonesia,Southeast Asia
+CATL CATIB Karawang,PT CATL Indonesia Battery (CATIB),Indonesia,Southeast Asia
+REPT Battero Indonesia Battery Factory,PT REPT Battero Indonesia,Indonesia,Southeast Asia
+EVE Energy Malaysia (Kulim/Kedah),EVE Energy,Malaysia,Southeast Asia
+Gotion-VinES LFP gigafactory (Ha Tinh),Gotion High-Tech-VinES JV,Vietnam,Southeast Asia
+Amita Technology Gigafactory (EEC),Amita Technology (Energy Absolute),Thailand,Southeast Asia
+Sunwoda Chonburi cell plant,Sunwoda Automotive Energy (Thailand),Thailand,Southeast Asia
+SVOLT Thailand (Sriracha),SVOLT Energy-Banpu NEXT JV,Thailand,Southeast Asia
+NV Gotion Thailand,NV Gotion (Nuovo Plus-Gotion High-Tech JV),Thailand,Southeast Asia
+Durapower Singapore,Durapower,Singapore,Southeast Asia
+Gigafactory Nevada,Panasonic Energy,United States,USA
+Tesla Giga Texas 4680 Cell Plant,Tesla,United States,USA
+Panasonic Energy De Soto,Panasonic Energy,United States,USA
+LG Energy Solution Michigan (Holland),LG Energy Solution,United States,USA
+LG Energy Solution Arizona (Queen Creek),LG Energy Solution,United States,USA
+Ultium Cells Warren (Lordstown Ohio),Ultium Cells,United States,USA
+Ultium Cells Spring Hill (Tennessee),Ultium Cells,United States,USA
+Ultium Cells Lansing (Michigan),LG Energy Solution,United States,USA
+L-H Battery Company (Jeffersonville Ohio),Honda-LG Energy Solution JV,United States,USA
+BlueOval SK Battery Park Kentucky,BlueOval SK,United States,USA
+BlueOval City Battery Plant (Stanton Tennessee),SK On,United States,USA
+SK Battery America (Commerce Georgia),SK On,United States,USA
+StarPlus Energy (Kokomo Indiana),StarPlus Energy,United States,USA
+Samsung SDI-GM Battery Plant (New Carlisle Indiana),Samsung SDI-GM JV,United States,USA
+Toyota Battery Manufacturing North Carolina (Liberty),Toyota,United States,USA
+AESC Kentucky (Bowling Green),AESC,United States,USA
+AESC South Carolina (Florence),AESC,United States,USA
+AESC Smyrna (Tennessee),AESC,United States,USA
+American Battery Factory (Tucson Arizona),American Battery Factory,United States,USA
+iM3NY Gigafactory (Endicott New York),iM3NY,United States,USA
+Gotion Manteno (Illinois),Gotion,United States,USA
+ONE Circle (Van Buren Township Michigan),Our Next Energy,United States,USA
+Amprius Colorado (Brighton),Amprius Technologies,United States,USA
+Microvast Clarksville (Tennessee),Microvast,United States,USA
