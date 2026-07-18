@@ -5,7 +5,12 @@ export const meta = {
 }
 
 // args = array of { plant_name, operator, country, region }
-const candidates = Array.isArray(args) ? args : []
+// (the runtime may deliver args as a JSON string; parse defensively)
+let _args = args
+if (typeof _args === 'string') {
+  try { _args = JSON.parse(_args) } catch (e) { _args = [] }
+}
+const candidates = Array.isArray(_args) ? _args : []
 
 // JSON schema matching the factories table (nullable everywhere except the
 // three identity fields + required source). The agent is FORCED to return this.
