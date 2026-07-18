@@ -1,0 +1,13 @@
+# DuckDB database is rebuildable from the pipeline; don't commit the binary.
+factories.db
+factories.db.wal
+*.db.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scratch
+logs/*.log
