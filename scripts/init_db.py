@@ -37,6 +37,7 @@ CREATE TABLE IF NOT EXISTS factories (
     capacity_ref_year       INTEGER,               -- year nameplate_capacity_gwh refers to
     is_cell_manufacturer    BOOLEAN,               -- false = pack/material/recycling only (kept, flagged)
     research_notes          VARCHAR,               -- researcher provenance / caveats
+    capacity_timeline       VARCHAR,               -- JSON array of dated, sourced capacity observations (real data)
     inserted_at             TIMESTAMP DEFAULT now(),
     CHECK (status IN ('announced','under_construction','operational') OR status IS NULL),
     CHECK (confidence IS NULL OR (confidence >= 0 AND confidence <= 1))
