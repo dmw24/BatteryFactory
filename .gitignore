@@ -11,3 +11,6 @@ venv/
 
 # Scratch
 logs/*.log
+
+# intermediate wave-3 raw agent output
+data/seed/china_w3/
