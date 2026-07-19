@@ -1,6 +1,6 @@
 # Battery Gigafactory Database — QA report
 
-Generated from `factories.db`. Total rows: **341**. Confirmed cell manufacturers: **318**. Flagged non-cell (pack/material/recycling, kept and tagged): **23**.
+Generated from `factories.db`. Total rows: **378**. Confirmed cell manufacturers: **354**. Flagged non-cell (pack/material/recycling, kept and tagged): **24**.
 
 > Capacity is annual GWh/year at nameplate. Totals are grouped by status and are **never summed across statuses** — announced, under-construction and operational capacity are distinct and must not be added together.
 
@@ -9,9 +9,9 @@ Generated from `factories.db`. Total rows: **341**. Confirmed cell manufacturers
 
 | status | plants | Σ nameplate GWh/yr |
 |---|---:|---:|
-| operational | 233 | 5193.0 |
-| under_construction | 59 | 1791.0 |
-| announced | 35 | 611.0 |
+| operational | 266 | 5808.0 |
+| under_construction | 62 | 1881.0 |
+| announced | 36 | 614.0 |
 | (unknown) | 14 | 30.0 |
 
 ### Region × status matrix
@@ -19,9 +19,9 @@ Generated from `factories.db`. Total rows: **341**. Confirmed cell manufacturers
 | region | status | plants | Σ nameplate GWh/yr |
 |---|---|---:|---:|
 | China | (unknown) | 8 | — |
-| China | announced | 7 | 114.0 |
-| China | operational | 116 | 3861.0 |
-| China | under_construction | 13 | 398.0 |
+| China | announced | 8 | 117.0 |
+| China | operational | 149 | 4454.0 |
+| China | under_construction | 16 | 488.0 |
 | Europe | (unknown) | 3 | 30.0 |
 | Europe | announced | 7 | 202.0 |
 | Europe | operational | 25 | 436.0 |
@@ -30,20 +30,20 @@ Generated from `factories.db`. Total rows: **341**. Confirmed cell manufacturers
 | India | operational | 6 | 23.0 |
 | India | under_construction | 8 | 192.0 |
 | Japan | announced | 1 | — |
-| Japan | operational | 19 | 60.0 |
+| Japan | operational | 19 | 80.0 |
 | Japan | under_construction | 3 | 46.0 |
 | Rest of World | announced | 8 | 151.0 |
 | Rest of World | operational | 11 | 55.0 |
 | Rest of World | under_construction | 3 | 250.0 |
 | South Korea | (unknown) | 2 | — |
-| South Korea | operational | 11 | 67.0 |
+| South Korea | operational | 11 | 68.0 |
 | South Korea | under_construction | 1 | 16.0 |
 | Southeast Asia | (unknown) | 1 | — |
 | Southeast Asia | announced | 1 | 8.0 |
 | Southeast Asia | operational | 11 | 83.0 |
 | Southeast Asia | under_construction | 3 | 37.0 |
 | USA | announced | 4 | 64.0 |
-| USA | operational | 34 | 609.0 |
+| USA | operational | 34 | 610.0 |
 | USA | under_construction | 11 | 327.0 |
 
 ## 1. Suspected duplicate sites (1 pair/group)
@@ -52,9 +52,9 @@ Review these — they may be the same physical site under different names, or le
 
 | signal | plants | ids |
 |---|---|---|
-| same operator + shared location token 'guangde' | Zoolnasm Guangde sodium-ion battery manufacturing base ⟷ Zoolnasm (Zhongna Energy) Guangde sodium-ion battery base | zoolnasm-zoolnasm-guangde-sodium-ion-battery-manufacturing-base-china, zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china |
+| same operator + shared location token 'hangzhou' | Narada Hangzhou Lin'an Plant ⟷ Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | narada-power-zhejiang-narada-power-source-co-ltd-narada-hangzhou-lin-an-plant-china, narada-power-nandu-power-nandu-power-narada-hangzhou-fuyang-lithium-cell-base-china |
 
-## 2. Capacity double-count / consistency flags (19 rows)
+## 2. Capacity double-count / consistency flags (20 rows)
 
 | plant | operator | region | nameplate GWh | flag |
 |---|---|---|---:|---|
@@ -77,8 +77,9 @@ Review these — they may be the same physical site under different names, or le
 | JSW Energy Cell Gigafactory | JSW Energy | India | 30.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Eos Energy Turtle Creek | Eos Energy Enterprises | USA | 1.25 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | EnerVenue Shelby County | EnerVenue | USA | 1.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| Talent New Energy Chongqing Solid-State Plant | Talent New Energy | China | 2.2 | capacity may be a hub/company-wide aggregate (double-count risk) |
 
-### Live cell sites missing a nameplate figure (51)
+### Live cell sites missing a nameplate figure (55)
 
 Genuine cell plants (operational/under-construction) with no sourced capacity — capacity left null per the no-guessing rule.
 
@@ -86,11 +87,8 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 |---|---|---|---|
 | EVE Energy Huizhou plant (Zhongkai High-tech Zone production base) | EVE Energy | China | operational |
 | SVOLT Baoding plant (R&D centre) | SVOLT (Honeycomb Energy / 蜂巢能源) | China | operational |
-| Hithium Xiamen plant (Xiamen production base) | Hithium | China | operational |
-| REPT Battero Wenzhou plant | REPT Battero | China | operational |
 | EVE Energy Ningbo plant | EVE Energy | China | operational |
 | Gotion New Energy (Chuzhou) high-end manufacturing base | Gotion (Chuzhou Gotion New Energy Power Co., Ltd.) | China | under_construction |
-| Great Power Zhumadian plant (Zhumadian production base) | Great Power (Guangzhou Great Power Energy & Technology Co., Ltd. / Penghui Energy) | China | operational |
 | Lishen Mianyang Southwest Production Base | Tianjin Lishen Battery | China | operational |
 | Narada Hangzhou Lin'an Plant | Narada Power (Zhejiang Narada Power Source Co., Ltd.) | China | operational |
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | operational |
@@ -101,7 +99,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Beyonder Battery Center (Forus/Sandnes) | Beyonder AS | Europe | operational |
 | Customcells Itzehoe | Customcells | Europe | operational |
 | Customcells Tübingen | CustomCells | Europe | operational |
-| Blue Energy Fukuchiyama (Osadano) Plant | Blue Energy Co., Ltd. | Japan | operational |
 | Toshiba Kashiwazaki Operations (SCiB) | Toshiba Infrastructure Systems & Solutions Corporation | Japan | operational |
 | Murata Yasu Plant | Murata Manufacturing | Japan | operational |
 | Toshiba Yokohama Plant (SCiB) | Toshiba Infrastructure Systems & Solutions Corporation | Japan | operational |
@@ -111,7 +108,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Daejeon all-solid-state pilot line | SK On | South Korea | operational |
 | Suwon S-Line all-solid-state pilot | Samsung SDI | South Korea | operational |
 | Siheung Plant | Kokam | South Korea | operational |
-| Chungju Plant | Enertech International | South Korea | operational |
 | Cheonan Plant | EIG (Energy Innovation Group Ltd.) | South Korea | operational |
 | Daejeon flexible battery pilot | LiBEST | South Korea | operational |
 | Amperex Technology Sohna Cell Plant | Amperex Technology Limited (ATL India Technology Pvt Ltd) | India | operational |
@@ -134,9 +130,18 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | UNIGRID San Diego | UNIGRID Battery | USA | under_construction |
 | Inlyte Energy Hayward | Inlyte Energy | USA | operational |
 | Zeta Energy Houston | Zeta Energy | USA | operational |
-| Sakuu Silicon Valley | Sakuu | USA | operational |
+| Sunwoda Huizhou plant (Huizhou Liwei New Energy) | Huizhou Liwei New Energy Technology Co., Ltd. (Sunwoda) | China | operational |
+| Sunwoda Quzhou plant | Sunwoda | China | operational |
+| Gotion Sodium Plant Tangshan | Gotion High-tech | China | operational |
+| Gotion Gnascent Sodium-Ion Plant Hefei | Gotion High-tech | China | operational |
+| Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | Narada Power (Nandu Power) | China | operational |
+| Shenzhen BetterPower Shenzhen Plant (Longhua base) | Shenzhen BetterPower Battery Co., Ltd | China | operational |
+| Chilwee Changxing Lithium Cell Plant | Chilwee (Chaowei Group) | China | operational |
+| Gree Titan Zhuhai LTO Cell Plant | Gree Titan (Gree Titanium New Energy, formerly Yinlong New Energy) | China | operational |
+| Deligreen Shanghai Cylindrical Cell Plant | Shanghai Deligreen Power | China | operational |
+| Tianpeng Power Zhangjiagang Cell Plant | Jiangsu Tianpeng Power Supply Co. (Tenpower) | China | operational |
 
-## 3. Rows with confidence < 0.5 (34)
+## 3. Rows with confidence < 0.5 (36)
 
 | plant | operator | country | conf | is_cell | note |
 |---|---|---|---:|:---:|---|
@@ -169,13 +174,15 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | JSW Energy Cell Gigafactory | JSW Energy | India | 0.4 | Y | Announced-stage Li-ion battery CELL manufacturing plan by JSW (JSW Group, via JSW Energy /… |
 | Sodium Batteries Australia pilot manufacturing facility | Sodium Batteries Australia | Australia | 0.4 | Y | Sodium Batteries Australia describes itself as a sovereign Australian manufacturer of sodi… |
 | Peak Energy Sacramento | Peak Energy | United States | 0.4 | N | NOT a cell manufacturer — out of scope for a battery-cell database. Announced 9 July 2026,… |
+| Deligreen Shanghai Cylindrical Cell Plant | Shanghai Deligreen Power | China | 0.4 | Y | Best real-world match for the candidate is 上海德朗能动力电池有限公司 (Shanghai DLG Power Battery Co., … |
 | Farasis Wuhu plant | Farasis Energy | China | 0.45 | Y | Announced Aug/Sep 2021: Farasis Energy signed an investment cooperation agreement with the… |
 | Ritto film battery pilot line | Sekisui Chemical | Japan | 0.45 | N | MISCLASSIFICATION — this is NOT a battery cell plant. The "Ritto film battery pilot line" … |
 | Cheonan Plant | EIG (Energy Innovation Group Ltd.) | South Korea | 0.45 | Y | EIG (Energy Innovation Group Ltd.) is a South Korean manufacturer of large-format pouch li… |
 | Toyota Teiho Plant | Toyota Motor Corporation | Japan | 0.45 | Y | The Teiho Plant is Toyota's production-engineering / "startup" hub in Teihocho, Toyota Cit… |
 | Statevolt Imperial Valley Gigafactory | Statevolt | United States | 0.45 | Y | Statevolt (founder/CEO Lars Carlstrom, also behind the collapsed Britishvolt and Italvolt … |
+| Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | Narada Power (Nandu Power) | China | 0.45 | Y | Nandu Power = Narada Power (Zhejiang Narada Power Source Co., Ltd., SZSE 300068), HQ in Fu… |
 
-## Appendix — non-cell sites flagged by researchers (23)
+## Appendix — non-cell sites flagged by researchers (24)
 
 Kept in the DB and tagged `is_cell_manufacturer = false`. Filter these out for a pure cell-manufacturing view; they are pack-assembly, material or corporate-HQ entries surfaced by the wide-net seed list.
 
@@ -204,3 +211,4 @@ Kept in the DB and tagged `is_cell_manufacturer = false`. Filter these out for a
 | Amprius Colorado (Brighton) | Amprius Technologies | United States | CANCELLED — never built. Announced March 2023: Amprius Technologies selected Brighton, Colorado for its first … |
 | Peak Energy Sacramento | Peak Energy | United States | NOT a cell manufacturer — out of scope for a battery-cell database. Announced 9 July 2026, this 183,000 sq ft … |
 | SES AI Woburn | SES AI | United States | SES AI's Woburn, MA site is the company's global headquarters and human R&D centre, home to its "Electrolyte F… |
+| Sunwoda Maoming (Dianbai) automotive electronics base | Sunwoda | China | This site is NOT a battery cell plant. The Sunwoda base in Dianbai district, Maoming (Guangdong) is an automot… |

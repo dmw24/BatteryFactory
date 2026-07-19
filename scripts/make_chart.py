@@ -96,7 +96,7 @@ html = f"""<div class="wrap">
   <div class="legend">{legend}</div>
   {svg}
   <p class="foot">2026 onward (paler bars, right of the divider) reflects announced and under-construction plants placed in their expected first-production year &ndash; a coverage floor, not a forecast. Capacity is placed in the year each plant comes online, so a given year only includes plants online by then; this is not a cross-status nameplate sum.</p>
-  <p class="src">Source: Ember Futures battery gigafactory database (340 plants); Ember analysis.</p>
+  <p class="src">Source: Ember Futures battery gigafactory database (378 plants); Ember analysis.</p>
 </div>
 <style>
   :root {{

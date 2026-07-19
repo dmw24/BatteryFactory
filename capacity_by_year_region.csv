@@ -28,30 +28,30 @@ year,region,gwh_online
 2018,Japan,27.0
 2018,South Korea,51.0
 2018,USA,44.0
-2019,China,472.0
+2019,China,473.0
 2019,Europe,88.0
 2019,Japan,27.0
 2019,South Korea,51.0
 2019,USA,44.0
-2020,China,509.0
+2020,China,511.0
 2020,Europe,96.0
 2020,Japan,27.0
 2020,South Korea,51.0
 2020,USA,44.0
-2021,China,834.0
+2021,China,841.0
 2021,Europe,96.0
 2021,Japan,27.0
 2021,South Korea,51.0
 2021,Southeast Asia,1.0
 2021,USA,44.0
-2022,China,1395.0
+2022,China,1452.0
 2022,Europe,106.0
 2022,Japan,27.0
 2022,Rest of World,5.0
 2022,South Korea,53.0
 2022,Southeast Asia,1.0
 2022,USA,92.0
-2023,China,1980.0
+2023,China,2148.0
 2023,Europe,130.0
 2023,India,5.0
 2023,Japan,27.0
@@ -59,7 +59,7 @@ year,region,gwh_online
 2023,South Korea,53.0
 2023,Southeast Asia,1.0
 2023,USA,131.0
-2024,China,2433.0
+2024,China,2666.0
 2024,Europe,243.0
 2024,India,19.0
 2024,Japan,33.0
@@ -67,7 +67,7 @@ year,region,gwh_online
 2024,South Korea,53.0
 2024,Southeast Asia,37.0
 2024,USA,170.0
-2025,China,2837.0
+2025,China,3110.0
 2025,Europe,369.0
 2025,India,25.0
 2025,Japan,73.0
@@ -75,7 +75,7 @@ year,region,gwh_online
 2025,South Korea,58.0
 2025,Southeast Asia,67.0
 2025,USA,422.0
-2026,China,3332.0
+2026,China,3705.0
 2026,Europe,542.0
 2026,India,103.0
 2026,Japan,73.0
@@ -83,7 +83,7 @@ year,region,gwh_online
 2026,South Korea,62.0
 2026,Southeast Asia,100.0
 2026,USA,688.0
-2027,China,3517.0
+2027,China,3890.0
 2027,Europe,672.0
 2027,India,147.0
 2027,Japan,93.0
@@ -91,7 +91,7 @@ year,region,gwh_online
 2027,South Korea,74.0
 2027,Southeast Asia,117.0
 2027,USA,850.0
-2028,China,3532.0
+2028,China,3905.0
 2028,Europe,782.0
 2028,India,155.0
 2028,Japan,93.0
@@ -99,7 +99,7 @@ year,region,gwh_online
 2028,South Korea,84.0
 2028,Southeast Asia,117.0
 2028,USA,898.0
-2029,China,3532.0
+2029,China,3905.0
 2029,Europe,842.0
 2029,India,159.0
 2029,Japan,93.0
@@ -107,7 +107,7 @@ year,region,gwh_online
 2029,South Korea,84.0
 2029,Southeast Asia,117.0
 2029,USA,898.0
-2030,China,3532.0
+2030,China,3905.0
 2030,Europe,1049.0
 2030,India,159.0
 2030,Japan,109.0
