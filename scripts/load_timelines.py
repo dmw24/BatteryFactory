@@ -1,13 +1,43 @@
 #!/usr/bin/env python3
-"""Load capacity_timeline results from a capacity-history workflow journal.
+"""Load capacity_timeline results into factories.db.
 
-Usage: python scripts/load_timelines.py <journal.jsonl>
+Usage: python scripts/load_timelines.py <source>
+  <source> is either
+    * a capacity-history workflow journal (.jsonl, one {"type":"result",...} per line), or
+    * the committed data/timelines.json snapshot (a plain JSON array of
+      {id, is_single_site, capacity_timeline}). This is the rebuild path: the
+      DuckDB binary is gitignored, so data/timelines.json is the durable,
+      in-repo source of truth for the real sourced capacity histories.
+
 Validates that every datapoint carries a source_url + source_date (drops those
 that don't), stores the timeline JSON and is_single_site on each row by id.
 """
 import json
 import sys
 import duckdb
+
+
+def _records(source):
+    """Yield {id, timeline, is_single_physical_site} dicts from either format."""
+    if source.endswith(".json"):
+        arr = json.load(open(source))
+        for r in arr if isinstance(arr, list) else []:
+            if isinstance(r, dict):
+                yield {"id": r.get("id"),
+                       "timeline": r.get("capacity_timeline") or r.get("timeline"),
+                       "is_single_physical_site": r.get("is_single_site",
+                                                        r.get("is_single_physical_site", True))}
+        return
+    for line in open(source):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            o = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if o.get("type") == "result" and isinstance(o.get("result"), dict):
+            yield o["result"]
 
 
 def main():
@@ -18,17 +48,7 @@ def main():
         con.execute("ALTER TABLE factories ADD COLUMN is_single_site BOOLEAN")
 
     loaded = pts = bad = skipped = 0
-    for line in open(journal):
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            o = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        if o.get("type") != "result":
-            continue
-        r = o.get("result")
+    for r in _records(journal):
         if not isinstance(r, dict):
             continue
         rid, tl = r.get("id"), r.get("timeline")

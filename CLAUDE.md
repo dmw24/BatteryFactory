@@ -99,10 +99,17 @@ achieved-vs-nameplate distinction.
 
 ## Files
 
-- `factories.db` — the DuckDB database (gitignored; rebuildable).
+- `factories.db` — the DuckDB database (gitignored; rebuildable from the files below).
 - `candidates.csv` — seed list of plants (Step 2 output).
 - `scripts/init_db.py` — create the DB.
 - `scripts/orchestrator.py` — validate researcher JSON and load rows.
-- `data/researched/*.json` — raw per-plant researcher outputs.
+- `data/researched/*.json` — raw per-plant researcher outputs (base rows).
+- `data/timelines.json` — durable, in-repo snapshot of the real sourced capacity
+  histories (`id`, `is_single_site`, `capacity_timeline`). The DB binary is
+  gitignored, so this is the source of truth for the timelines; reload with
+  `python3 scripts/load_timelines.py data/timelines.json`.
+- `scripts/build_timeseries.py` — build the year-by-year series (Series A/B) and exports.
+- `scripts/make_chart_png.py` / `scripts/make_chart.py` — reconciliation chart (PNG / HTML).
+- `scripts/benchmarks.csv` — published IEA/BNEF nameplate reference points (overlay only).
 - `failures.csv` — plants that failed validation, with reason.
 - `qa_report.md` — Step 4 quality report.

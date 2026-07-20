@@ -21,104 +21,104 @@ year,region,gwh_online_firm,gwh_pipeline
 2016,Japan,27.0,0.0
 2016,South Korea,1.0,0.0
 2016,USA,3.0,0.0
-2017,China,34.0,0.0
+2017,China,42.0,0.0
 2017,Europe,2.0,0.0
 2017,Japan,27.0,0.0
 2017,South Korea,1.0,0.0
 2017,USA,3.0,0.0
-2018,China,56.0,155.0
+2018,China,58.0,155.0
 2018,Europe,2.0,0.0
 2018,Japan,27.0,0.0
 2018,South Korea,6.0,0.0
 2018,USA,26.0,0.0
-2019,China,74.0,200.0
+2019,China,86.0,170.0
 2019,Europe,2.0,16.0
 2019,Japan,27.0,0.0
 2019,South Korea,6.0,0.0
 2019,USA,41.0,30.0
-2020,China,125.0,211.0
+2020,China,131.0,161.0
 2020,Europe,45.0,116.0
 2020,Japan,27.0,0.0
 2020,Rest of World,0.0,0.0
 2020,South Korea,6.0,0.0
 2020,USA,41.0,30.0
-2021,China,390.0,762.0
-2021,Europe,91.0,213.0
+2021,China,466.0,722.0
+2021,Europe,91.0,184.0
 2021,India,0.0,10.0
 2021,Japan,27.0,6.0
 2021,Rest of World,0.0,0.0
 2021,South Korea,16.0,0.0
 2021,Southeast Asia,1.0,0.0
-2021,USA,45.0,151.0
-2022,China,872.0,1324.0
-2022,Europe,149.0,468.0
+2021,USA,45.0,65.0
+2022,China,983.0,1269.0
+2022,Europe,149.0,464.0
 2022,India,0.0,10.0
-2022,Japan,27.0,16.0
-2022,Rest of World,5.0,45.0
+2022,Japan,27.0,23.0
+2022,Rest of World,5.0,0.0
 2022,South Korea,29.0,0.0
-2022,Southeast Asia,1.0,0.0
-2022,USA,60.0,433.0
-2023,China,1441.0,1211.0
-2023,Europe,187.0,468.0
+2022,Southeast Asia,1.0,15.0
+2022,USA,60.0,311.0
+2023,China,1602.0,1198.0
+2023,Europe,193.0,464.0
 2023,India,5.0,52.0
-2023,Japan,27.0,16.0
-2023,Rest of World,5.0,45.0
+2023,Japan,27.0,23.0
+2023,Rest of World,5.0,0.0
 2023,South Korea,39.0,16.0
-2023,Southeast Asia,1.0,10.0
-2023,USA,114.0,585.0
-2024,China,1870.0,850.0
-2024,Europe,220.0,434.0
+2023,Southeast Asia,1.0,15.0
+2023,USA,114.0,473.0
+2024,China,2056.0,914.0
+2024,Europe,226.0,415.0
 2024,India,8.0,55.0
 2024,Japan,33.0,17.0
 2024,Rest of World,5.0,2.0
 2024,South Korea,48.0,16.0
-2024,Southeast Asia,17.0,20.0
-2024,USA,166.0,631.0
-2025,China,2698.0,957.0
-2025,Europe,287.0,442.0
+2024,Southeast Asia,32.0,0.0
+2024,USA,166.0,519.0
+2025,China,2808.0,862.0
+2025,Europe,293.0,415.0
 2025,India,13.0,57.0
-2025,Japan,46.0,10.0
-2025,Rest of World,5.0,53.0
+2025,Japan,40.0,10.0
+2025,Rest of World,55.0,3.0
 2025,South Korea,52.0,3.0
-2025,Southeast Asia,47.0,41.0
-2025,USA,296.0,524.0
-2026,China,2853.0,1524.0
-2026,Europe,287.0,491.0
+2025,Southeast Asia,62.0,25.0
+2025,USA,294.0,422.0
+2026,China,2963.0,1297.0
+2026,Europe,293.0,464.0
 2026,India,19.0,194.0
-2026,Japan,46.0,39.0
-2026,Rest of World,5.0,152.0
+2026,Japan,40.0,45.0
+2026,Rest of World,55.0,102.0
 2026,South Korea,52.0,3.0
-2026,Southeast Asia,65.0,48.0
-2026,USA,356.0,460.0
-2027,China,2853.0,1664.0
-2027,Europe,287.0,444.0
+2026,Southeast Asia,80.0,32.0
+2026,USA,354.0,378.0
+2027,China,2963.0,1437.0
+2027,Europe,293.0,418.0
 2027,India,19.0,231.0
-2027,Japan,46.0,39.0
-2027,Rest of World,5.0,152.0
+2027,Japan,40.0,45.0
+2027,Rest of World,55.0,102.0
 2027,South Korea,52.0,4.0
-2027,Southeast Asia,65.0,48.0
-2027,USA,356.0,497.0
-2028,China,2853.0,1730.0
-2028,Europe,287.0,475.0
+2027,Southeast Asia,80.0,32.0
+2027,USA,354.0,508.0
+2028,China,2963.0,1567.0
+2028,Europe,293.0,449.0
 2028,India,19.0,239.0
-2028,Japan,46.0,39.0
-2028,Rest of World,5.0,256.0
+2028,Japan,40.0,45.0
+2028,Rest of World,55.0,207.0
 2028,South Korea,52.0,19.0
-2028,Southeast Asia,65.0,48.0
-2028,USA,356.0,527.0
-2029,China,2853.0,1730.0
-2029,Europe,287.0,475.0
+2028,Southeast Asia,80.0,32.0
+2028,USA,354.0,538.0
+2029,China,2963.0,1567.0
+2029,Europe,293.0,449.0
 2029,India,19.0,243.0
-2029,Japan,46.0,39.0
-2029,Rest of World,5.0,256.0
+2029,Japan,40.0,45.0
+2029,Rest of World,55.0,207.0
 2029,South Korea,52.0,19.0
-2029,Southeast Asia,65.0,48.0
-2029,USA,356.0,527.0
-2030,China,2853.0,1730.0
-2030,Europe,287.0,641.0
+2029,Southeast Asia,80.0,32.0
+2029,USA,354.0,538.0
+2030,China,2963.0,1567.0
+2030,Europe,293.0,616.0
 2030,India,19.0,277.0
-2030,Japan,46.0,75.0
-2030,Rest of World,5.0,346.0
+2030,Japan,40.0,81.0
+2030,Rest of World,55.0,297.0
 2030,South Korea,52.0,19.0
-2030,Southeast Asia,65.0,56.0
-2030,USA,356.0,557.0
+2030,Southeast Asia,80.0,40.0
+2030,USA,354.0,568.0
