@@ -105,10 +105,14 @@ achieved-vs-nameplate distinction.
 - `scripts/orchestrator.py` — validate researcher JSON and load rows.
 - `data/researched/*.json` — raw per-plant researcher outputs (base rows).
 - `data/coordinates.csv` — durable in-repo store of site coordinates (`id`, `latitude`,
-  `longitude`, `geo_note`). 33 are verified (from researchers); the rest are **city-centroid
-  approximations** produced by `scripts/geocode_sites.py` (offline geonamescache gazetteer),
-  each flagged in `research_notes` with a `[GEO=city:<city>]` note — NOT verified plant
-  locations. Reload with `python3 scripts/load_coordinates.py`.
+  `longitude`, `geo_note`). 374 of 378 sites are covered, in three flagged tiers: **verified**
+  (from researchers, 33); **city-centroid approximations** from `scripts/geocode_sites.py`
+  (offline geonamescache gazetteer, `[GEO=city:...]`); and **research-found** site/town points
+  from `scripts/coord_workflow.js` (`[GEO=site:...]`/`[GEO=town:...]`, with source). Every
+  approximate/derived coordinate is flagged in `research_notes`; none are exact unless marked
+  `site`. The 4 uncovered sites have no publicly disclosed location (MoU/speculative). Reload
+  with `python3 scripts/load_coordinates.py` (city tier) and `scripts/load_coord_research.py`
+  (research tier), or just from `data/coordinates.csv`.
 - `data/timelines.json` — durable, in-repo snapshot of the real sourced capacity
   histories (`id`, `is_single_site`, `capacity_timeline`). The DB binary is
   gitignored, so this is the source of truth for the timelines; reload with
