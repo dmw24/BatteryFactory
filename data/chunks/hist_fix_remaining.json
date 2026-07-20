@@ -1,0 +1,389 @@
+[
+ {
+  "id": "byd-findreams-battery-byd-findreams-bengbu-plant-china",
+  "plant_name": "BYD FinDreams Bengbu plant",
+  "operator": "BYD (FinDreams Battery)",
+  "country": "China",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2022,
+  "current_start_year": 2022
+ },
+ {
+  "id": "findreams-battery-byd-byd-findreams-shenzhen-plant-kengzi-pingshan-base-china",
+  "plant_name": "BYD FinDreams Shenzhen plant (Kengzi/Pingshan base)",
+  "operator": "FinDreams Battery (BYD)",
+  "country": "China",
+  "current_nameplate_gwh": 50.0,
+  "current_ref_year": 2026,
+  "current_start_year": null
+ },
+ {
+  "id": "findreams-battery-byd-byd-findreams-xi-an-plant-china",
+  "plant_name": "BYD FinDreams Xi'an plant",
+  "operator": "FinDreams Battery (BYD)",
+  "country": "China",
+  "current_nameplate_gwh": 50.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2022
+ },
+ {
+  "id": "hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china",
+  "plant_name": "Gotion Hefei plant (VW unified/standard cell base, Xinzhan district)",
+  "operator": "Hefei Gotion High-tech Power Energy Co., Ltd",
+  "country": "China",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2023
+ },
+ {
+  "id": "gotion-high-tech-gotion-lujiang-plant-lujiang-high-tech-zone-base-china",
+  "plant_name": "Gotion Lujiang plant (Lujiang High-tech Zone base)",
+  "operator": "Gotion High-tech",
+  "country": "China",
+  "current_nameplate_gwh": 10.0,
+  "current_ref_year": 2025,
+  "current_start_year": null
+ },
+ {
+  "id": "svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china",
+  "plant_name": "SVOLT Huzhou plant (South Taihu New Area)",
+  "operator": "SVOLT (Honeycomb Energy / 蜂巢能源)",
+  "country": "China",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2023
+ },
+ {
+  "id": "svolt-svolt-energy-technology-svolt-ma-anshan-plant-china",
+  "plant_name": "SVOLT Ma'anshan plant",
+  "operator": "SVOLT (Svolt Energy Technology / 蜂巢能源)",
+  "country": "China",
+  "current_nameplate_gwh": 28.0,
+  "current_ref_year": 2021,
+  "current_start_year": 2021
+ },
+ {
+  "id": "farasis-energy-farasis-energy-ganzhou-plant-30-gwh-new-energy-battery-project-china",
+  "plant_name": "Farasis Energy Ganzhou plant (30 GWh new energy battery project)",
+  "operator": "Farasis Energy",
+  "country": "China",
+  "current_nameplate_gwh": 30.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2024
+ },
+ {
+  "id": "tianjin-lishen-battery-joint-stock-co-ltd-lishen-tianjin-plant-tianjin-binhai-new-energy-industry-base-china",
+  "plant_name": "Lishen Tianjin plant (Tianjin Binhai New Energy Industry Base)",
+  "operator": "Tianjin Lishen Battery Joint-Stock Co., Ltd.",
+  "country": "China",
+  "current_nameplate_gwh": 24.0,
+  "current_ref_year": 2022,
+  "current_start_year": 2023
+ },
+ {
+  "id": "catl-catl-fuding-fuding-shidai-production-base-china",
+  "plant_name": "CATL Fuding (Fuding Shidai) production base",
+  "operator": "CATL",
+  "country": "China",
+  "current_nameplate_gwh": 120.0,
+  "current_ref_year": 2022,
+  "current_start_year": 2021
+ },
+ {
+  "id": "changsha-findreams-battery-findreams-battery-byd-findreams-changsha-plant-ningxiang-china",
+  "plant_name": "BYD FinDreams Changsha plant (Ningxiang)",
+  "operator": "Changsha FinDreams Battery (FinDreams Battery)",
+  "country": "China",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2022,
+  "current_start_year": 2021
+ },
+ {
+  "id": "weichai-findreams-weichai-findreams-yantai-new-energy-power-industrial-park-china",
+  "plant_name": "Weichai-FinDreams (Yantai) New Energy Power Industrial Park",
+  "operator": "Weichai-FinDreams",
+  "country": "China",
+  "current_nameplate_gwh": 50.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2025
+ },
+ {
+  "id": "eve-energy-eve-energy-qujing-plant-23gwh-cylindrical-lfp-energy-storage-power-battery-project-china",
+  "plant_name": "EVE Energy Qujing plant (23GWh cylindrical LFP energy storage & power battery project)",
+  "operator": "EVE Energy",
+  "country": "China",
+  "current_nameplate_gwh": 23.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2024
+ },
+ {
+  "id": "eve-energy-eve-energy-shenyang-base-china",
+  "plant_name": "EVE Energy Shenyang Base",
+  "operator": "EVE Energy",
+  "country": "China",
+  "current_nameplate_gwh": 40.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2025
+ },
+ {
+  "id": "great-power-qingdao-great-power-qingdao-energy-storage-battery-zero-carbon-manufacturing-base-china",
+  "plant_name": "Great Power Qingdao Energy Storage Battery Zero-Carbon Manufacturing Base",
+  "operator": "Great Power (Qingdao)",
+  "country": "China",
+  "current_nameplate_gwh": 36.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2024
+ },
+ {
+  "id": "envision-aesc-envision-aesc-ordos-plant-ordos-envision-net-zero-industrial-park-china",
+  "plant_name": "Envision AESC Ordos Plant (Ordos-Envision Net Zero Industrial Park)",
+  "operator": "Envision AESC",
+  "country": "China",
+  "current_nameplate_gwh": 30.5,
+  "current_ref_year": 2023,
+  "current_start_year": 2022
+ },
+ {
+  "id": "ganfeng-lienergy-ganfeng-lienergy-dongguan-base-10gwh-new-type-lithium-battery-ess-hq-base-china",
+  "plant_name": "Ganfeng LiEnergy Dongguan Base (赣锋锂电东莞科技 10GWh new-type lithium battery & ESS HQ base)",
+  "operator": "Ganfeng LiEnergy",
+  "country": "China",
+  "current_nameplate_gwh": 10.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2026
+ },
+ {
+  "id": "bak-battery-bak-zhengzhou-plant-china",
+  "plant_name": "BAK Zhengzhou Plant",
+  "operator": "BAK Battery",
+  "country": "China",
+  "current_nameplate_gwh": 30.0,
+  "current_ref_year": 2028,
+  "current_start_year": 2024
+ },
+ {
+  "id": "zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china",
+  "plant_name": "Zoolnasm (Zhongna Energy) Guangde sodium-ion battery base",
+  "operator": "Zoolnasm (Zhongna Energy)",
+  "country": "China",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2024
+ },
+ {
+  "id": "basquevolt-basquevolt-vitoria-gasteiz-spain",
+  "plant_name": "Basquevolt Vitoria-Gasteiz",
+  "operator": "Basquevolt",
+  "country": "Spain",
+  "current_nameplate_gwh": 10.0,
+  "current_ref_year": 2027,
+  "current_start_year": 2025
+ },
+ {
+  "id": "faam-faam-teverola-teverola-1-teverola-2-gigafactory-italy",
+  "plant_name": "FAAM Teverola (Teverola 1 & Teverola 2 gigafactory)",
+  "operator": "FAAM",
+  "country": "Italy",
+  "current_nameplate_gwh": 8.0,
+  "current_ref_year": 2027,
+  "current_start_year": 2027
+ },
+ {
+  "id": "nextstar-energy-nextstar-energy-windsor-canada",
+  "plant_name": "NextStar Energy (Windsor)",
+  "operator": "NextStar Energy",
+  "country": "Canada",
+  "current_nameplate_gwh": 49.5,
+  "current_ref_year": 2026,
+  "current_start_year": 2025
+ },
+ {
+  "id": "samsung-sdi-samsung-sdi-seremban-plant-2-malaysia",
+  "plant_name": "Samsung SDI Seremban Plant 2",
+  "operator": "Samsung SDI",
+  "country": "Malaysia",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2024
+ },
+ {
+  "id": "panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states",
+  "plant_name": "Panasonic Energy De Soto (Kansas Factory)",
+  "operator": "Panasonic Energy",
+  "country": "United States",
+  "current_nameplate_gwh": 32.0,
+  "current_ref_year": 2025,
+  "current_start_year": 2025
+ },
+ {
+  "id": "blueoval-sk-blueoval-sk-battery-park-kentucky-united-states",
+  "plant_name": "BlueOval SK Battery Park Kentucky",
+  "operator": "BlueOval SK",
+  "country": "United States",
+  "current_nameplate_gwh": 86.0,
+  "current_ref_year": 2027,
+  "current_start_year": 2025
+ },
+ {
+  "id": "l-h-battery-company-inc-l-h-battery-company-jeffersonville-ohio-united-states",
+  "plant_name": "L-H Battery Company (Jeffersonville, Ohio)",
+  "operator": "L-H Battery Company, Inc.",
+  "country": "United States",
+  "current_nameplate_gwh": 40.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2026
+ },
+ {
+  "id": "toyota-battery-manufacturing-north-carolina-tbmnc-toyota-battery-manufacturing-north-carolina-liberty-united-states",
+  "plant_name": "Toyota Battery Manufacturing North Carolina (Liberty)",
+  "operator": "Toyota Battery Manufacturing, North Carolina (TBMNC)",
+  "country": "United States",
+  "current_nameplate_gwh": 30.0,
+  "current_ref_year": 2030,
+  "current_start_year": 2025
+ },
+ {
+  "id": "envision-aesc-envision-aesc-yichang-storage-super-factory-china",
+  "plant_name": "Envision AESC Yichang storage super factory",
+  "operator": "Envision AESC",
+  "country": "China",
+  "current_nameplate_gwh": 100.0,
+  "current_ref_year": 2027,
+  "current_start_year": 2026
+ },
+ {
+  "id": "catl-contemporary-amperex-technology-thuringia-gmbh-catl-thuringia-arnstadt-erfurter-kreuz-germany",
+  "plant_name": "CATL Thuringia (Arnstadt / Erfurter Kreuz)",
+  "operator": "CATL (Contemporary Amperex Technology Thuringia GmbH)",
+  "country": "Germany",
+  "current_nameplate_gwh": 14.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2022
+ },
+ {
+  "id": "powerco-powerco-salzgitter-gigafactory-germany",
+  "plant_name": "PowerCo Salzgitter Gigafactory",
+  "operator": "PowerCo",
+  "country": "Germany",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2025
+ },
+ {
+  "id": "verkor-verkor-gigafactory-bourbourg-dunkirk-france",
+  "plant_name": "Verkor Gigafactory (Bourbourg, Dunkirk)",
+  "operator": "Verkor",
+  "country": "France",
+  "current_nameplate_gwh": 50.0,
+  "current_ref_year": 2030,
+  "current_start_year": 2025
+ },
+ {
+  "id": "envision-aesc-envision-aesc-douai-france",
+  "plant_name": "Envision AESC Douai",
+  "operator": "Envision AESC",
+  "country": "France",
+  "current_nameplate_gwh": 24.0,
+  "current_ref_year": 2030,
+  "current_start_year": 2025
+ },
+ {
+  "id": "envision-aesc-envision-aesc-sunderland-gigafactory-united-kingdom",
+  "plant_name": "Envision AESC Sunderland Gigafactory",
+  "operator": "Envision AESC",
+  "country": "United Kingdom",
+  "current_nameplate_gwh": 15.8,
+  "current_ref_year": 2025,
+  "current_start_year": 2025
+ },
+ {
+  "id": "prime-planet-energy-solutions-ppes-himeji-plant-japan",
+  "plant_name": "PPES Himeji Plant",
+  "operator": "Prime Planet Energy & Solutions",
+  "country": "Japan",
+  "current_nameplate_gwh": 30.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2025
+ },
+ {
+  "id": "sk-on-sk-on-seosan-plant-south-korea",
+  "plant_name": "SK On Seosan Plant",
+  "operator": "SK On",
+  "country": "South Korea",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2028,
+  "current_start_year": 2012
+ },
+ {
+  "id": "eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia",
+  "plant_name": "EVE Energy Malaysia (Kulim, Kedah)",
+  "operator": "EVE Energy Malaysia Sdn. Bhd.",
+  "country": "Malaysia",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2025
+ },
+ {
+  "id": "pt-rept-battero-indonesia-rept-battero-indonesia-battery-factory-indonesia",
+  "plant_name": "REPT Battero Indonesia Battery Factory",
+  "operator": "PT REPT Battero Indonesia",
+  "country": "Indonesia",
+  "current_nameplate_gwh": 8.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2026
+ },
+ {
+  "id": "gotion-gotion-manteno-illinois-united-states",
+  "plant_name": "Gotion Manteno (Illinois)",
+  "operator": "Gotion",
+  "country": "United States",
+  "current_nameplate_gwh": 40.0,
+  "current_ref_year": 2034,
+  "current_start_year": 2025
+ },
+ {
+  "id": "our-next-energy-one-circle-united-states",
+  "plant_name": "ONE Circle",
+  "operator": "Our Next Energy",
+  "country": "United States",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2027,
+  "current_start_year": 2023
+ },
+ {
+  "id": "form-energy-form-factory-1-weirton-united-states",
+  "plant_name": "Form Factory 1 (Weirton)",
+  "operator": "Form Energy",
+  "country": "United States",
+  "current_nameplate_gwh": 50.0,
+  "current_ref_year": 2028,
+  "current_start_year": 2025
+ },
+ {
+  "id": "ford-blueoval-battery-park-michigan-blueoval-battery-park-michigan-marshall-united-states",
+  "plant_name": "BlueOval Battery Park Michigan, Marshall",
+  "operator": "Ford (BlueOval Battery Park Michigan)",
+  "country": "United States",
+  "current_nameplate_gwh": 20.0,
+  "current_ref_year": 2026,
+  "current_start_year": 2026
+ },
+ {
+  "id": "sunwoda-automotive-battery-sunwoda-evb-sunwoda-deyang-shifang-power-and-energy-storage-battery-base-china",
+  "plant_name": "Sunwoda Deyang (Shifang) power and energy storage battery base",
+  "operator": "Sunwoda Automotive Battery (Sunwoda EVB)",
+  "country": "China",
+  "current_nameplate_gwh": 25.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2023
+ },
+ {
+  "id": "sunwoda-sunwoda-nanjing-power-battery-base-lishui-china",
+  "plant_name": "Sunwoda Nanjing power battery base (Lishui)",
+  "operator": "Sunwoda",
+  "country": "China",
+  "current_nameplate_gwh": 30.0,
+  "current_ref_year": 2023,
+  "current_start_year": 2022
+ }
+]

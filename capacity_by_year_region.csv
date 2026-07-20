@@ -16,33 +16,33 @@ year,region,gwh_online_firm,gwh_pipeline
 2015,Japan,27.0,0.0
 2015,South Korea,1.0,0.0
 2015,USA,3.0,0.0
-2016,China,30.0,13.0
+2016,China,30.0,0.0
 2016,Europe,2.0,0.0
 2016,Japan,27.0,0.0
 2016,South Korea,1.0,0.0
 2016,USA,3.0,0.0
-2017,China,34.0,13.0
+2017,China,34.0,0.0
 2017,Europe,2.0,0.0
 2017,Japan,27.0,0.0
 2017,South Korea,1.0,0.0
 2017,USA,3.0,0.0
-2018,China,52.0,168.0
+2018,China,56.0,155.0
 2018,Europe,2.0,0.0
 2018,Japan,27.0,0.0
 2018,South Korea,6.0,0.0
 2018,USA,26.0,0.0
-2019,China,65.0,217.0
+2019,China,74.0,200.0
 2019,Europe,2.0,16.0
 2019,Japan,27.0,0.0
 2019,South Korea,6.0,0.0
 2019,USA,41.0,30.0
-2020,China,116.0,228.0
+2020,China,125.0,211.0
 2020,Europe,45.0,116.0
 2020,Japan,27.0,0.0
 2020,Rest of World,0.0,0.0
 2020,South Korea,6.0,0.0
 2020,USA,41.0,30.0
-2021,China,263.0,919.0
+2021,China,390.0,762.0
 2021,Europe,91.0,213.0
 2021,India,0.0,10.0
 2021,Japan,27.0,6.0
@@ -50,7 +50,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2021,South Korea,16.0,0.0
 2021,Southeast Asia,1.0,0.0
 2021,USA,45.0,151.0
-2022,China,759.0,1465.0
+2022,China,872.0,1324.0
 2022,Europe,149.0,468.0
 2022,India,0.0,10.0
 2022,Japan,27.0,16.0
@@ -58,7 +58,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2022,South Korea,29.0,0.0
 2022,Southeast Asia,1.0,0.0
 2022,USA,60.0,433.0
-2023,China,1327.0,1352.0
+2023,China,1441.0,1211.0
 2023,Europe,187.0,468.0
 2023,India,5.0,52.0
 2023,Japan,27.0,16.0
@@ -66,7 +66,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2023,South Korea,39.0,16.0
 2023,Southeast Asia,1.0,10.0
 2023,USA,114.0,585.0
-2024,China,1737.0,966.0
+2024,China,1870.0,850.0
 2024,Europe,220.0,434.0
 2024,India,8.0,55.0
 2024,Japan,33.0,17.0
@@ -74,7 +74,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2024,South Korea,48.0,16.0
 2024,Southeast Asia,17.0,20.0
 2024,USA,166.0,631.0
-2025,China,2465.0,1211.0
+2025,China,2698.0,957.0
 2025,Europe,287.0,442.0
 2025,India,13.0,57.0
 2025,Japan,46.0,10.0
@@ -82,7 +82,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2025,South Korea,52.0,3.0
 2025,Southeast Asia,47.0,41.0
 2025,USA,296.0,524.0
-2026,China,2620.0,1808.0
+2026,China,2853.0,1524.0
 2026,Europe,287.0,491.0
 2026,India,19.0,194.0
 2026,Japan,46.0,39.0
@@ -90,7 +90,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2026,South Korea,52.0,3.0
 2026,Southeast Asia,65.0,48.0
 2026,USA,356.0,460.0
-2027,China,2620.0,1948.0
+2027,China,2853.0,1664.0
 2027,Europe,287.0,444.0
 2027,India,19.0,231.0
 2027,Japan,46.0,39.0
@@ -98,7 +98,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2027,South Korea,52.0,4.0
 2027,Southeast Asia,65.0,48.0
 2027,USA,356.0,497.0
-2028,China,2620.0,2014.0
+2028,China,2853.0,1730.0
 2028,Europe,287.0,475.0
 2028,India,19.0,239.0
 2028,Japan,46.0,39.0
@@ -106,7 +106,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2028,South Korea,52.0,19.0
 2028,Southeast Asia,65.0,48.0
 2028,USA,356.0,527.0
-2029,China,2620.0,2014.0
+2029,China,2853.0,1730.0
 2029,Europe,287.0,475.0
 2029,India,19.0,243.0
 2029,Japan,46.0,39.0
@@ -114,7 +114,7 @@ year,region,gwh_online_firm,gwh_pipeline
 2029,South Korea,52.0,19.0
 2029,Southeast Asia,65.0,48.0
 2029,USA,356.0,527.0
-2030,China,2620.0,2014.0
+2030,China,2853.0,1730.0
 2030,Europe,287.0,641.0
 2030,India,19.0,277.0
 2030,Japan,46.0,75.0
