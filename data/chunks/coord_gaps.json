@@ -1,0 +1,122 @@
+[
+ {
+  "id": "energy-renaissance-energy-renaissance-tomago-renaissance-one-australia",
+  "plant_name": "Energy Renaissance Tomago (Renaissance One)",
+  "operator": "Energy Renaissance",
+  "country": "Australia"
+ },
+ {
+  "id": "sodium-batteries-australia-sodium-batteries-australia-pilot-manufacturing-facility-australia",
+  "plant_name": "Sodium Batteries Australia pilot manufacturing facility",
+  "operator": "Sodium Batteries Australia",
+  "country": "Australia"
+ },
+ {
+  "id": "allegro-energy-allegro-energy-warners-bay-pilot-line-at-the-melt-dashworks-australia",
+  "plant_name": "Allegro Energy Warners Bay (pilot line at The Melt, Dashworks)",
+  "operator": "Allegro Energy",
+  "country": "Australia"
+ },
+ {
+  "id": "powerco-se-powerco-st-thomas-gigafactory-canada",
+  "plant_name": "PowerCo St. Thomas gigafactory",
+  "operator": "PowerCo SE",
+  "country": "Canada"
+ },
+ {
+  "id": "automotive-cells-company-acc-acc-billy-berclau-douvrin-gigafactory-france",
+  "plant_name": "ACC Billy-Berclau/Douvrin Gigafactory",
+  "operator": "Automotive Cells Company (ACC)",
+  "country": "France"
+ },
+ {
+  "id": "acc-energy-storage-pvt-ltd-rajesh-exports-rajesh-exports-dharwad-cell-factory-india",
+  "plant_name": "Rajesh Exports Dharwad Cell Factory",
+  "operator": "ACC Energy Storage Pvt Ltd (Rajesh Exports)",
+  "country": "India"
+ },
+ {
+  "id": "chemvolt-global-chemvolt-lithium-ion-cell-gigafactory-andhra-pradesh-india",
+  "plant_name": "ChemVolt Lithium-Ion Cell Gigafactory (Andhra Pradesh)",
+  "operator": "ChemVolt Global",
+  "country": "India"
+ },
+ {
+  "id": "trentar-energy-solutions-trentar-sodium-ion-cell-plant-india",
+  "plant_name": "Trentar Sodium-Ion Cell Plant",
+  "operator": "Trentar Energy Solutions",
+  "country": "India"
+ },
+ {
+  "id": "pt-contemporary-amperex-technology-indonesia-battery-catib-catl-catib-karawang-battery-cell-plant-indonesia",
+  "plant_name": "CATL CATIB Karawang Battery Cell Plant",
+  "operator": "PT Contemporary Amperex Technology Indonesia Battery (CATIB)",
+  "country": "Indonesia"
+ },
+ {
+  "id": "hli-green-power-hli-green-power-karawang-battery-cell-plant-indonesia",
+  "plant_name": "HLI Green Power Karawang Battery Cell Plant",
+  "operator": "HLI Green Power",
+  "country": "Indonesia"
+ },
+ {
+  "id": "blue-energy-co-ltd-honda-gs-yuasa-new-battery-plant-blue-energy-bev-lithium-ion-plant-japan",
+  "plant_name": "Honda GS Yuasa New Battery Plant (Blue Energy BEV lithium-ion plant)",
+  "operator": "Blue Energy Co., Ltd.",
+  "country": "Japan"
+ },
+ {
+  "id": "maxell-ono-works-japan",
+  "plant_name": "Ono Works",
+  "operator": "Maxell",
+  "country": "Japan"
+ },
+ {
+  "id": "lg-energy-solution-lg-energy-solution-morocco-morocco",
+  "plant_name": "LG Energy Solution Morocco",
+  "operator": "LG Energy Solution",
+  "country": "Morocco"
+ },
+ {
+  "id": "gotion-inobat-batteries-gib-energyx-slovakia-inobat-urany-gib-energyx-slovakia-gigafactory-slovakia",
+  "plant_name": "InoBat Šurany (GIB EnergyX Slovakia Gigafactory)",
+  "operator": "Gotion InoBat Batteries (GIB) EnergyX Slovakia",
+  "country": "Slovakia"
+ },
+ {
+  "id": "kokam-sella-2-eumseong-south-korea",
+  "plant_name": "Sella 2 (Eumseong)",
+  "operator": "Kokam",
+  "country": "South Korea"
+ },
+ {
+  "id": "kokam-siheung-plant-south-korea",
+  "plant_name": "Siheung Plant",
+  "operator": "Kokam",
+  "country": "South Korea"
+ },
+ {
+  "id": "amte-power-amte-power-thurso-united-kingdom",
+  "plant_name": "AMTE Power Thurso",
+  "operator": "AMTE Power",
+  "country": "United Kingdom"
+ },
+ {
+  "id": "panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states",
+  "plant_name": "Panasonic Energy De Soto (Kansas Factory)",
+  "operator": "Panasonic Energy",
+  "country": "United States"
+ },
+ {
+  "id": "sk-on-blueoval-city-battery-plant-stanton-tennessee-united-states",
+  "plant_name": "BlueOval City Battery Plant (Stanton, Tennessee)",
+  "operator": "SK On",
+  "country": "United States"
+ },
+ {
+  "id": "enervenue-enervenue-shelby-county-united-states",
+  "plant_name": "EnerVenue Shelby County",
+  "operator": "EnerVenue",
+  "country": "United States"
+ }
+]
