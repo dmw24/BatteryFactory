@@ -119,6 +119,9 @@ achieved-vs-nameplate distinction.
   `python3 scripts/load_timelines.py data/timelines.json`.
 - `scripts/build_timeseries.py` — build the year-by-year series (Series A/B) and exports.
 - `scripts/make_chart_png.py` / `scripts/make_chart.py` — reconciliation chart (PNG / HTML).
+- `scripts/make_map.py` — global bubble map of sites (`capacity_map.png`); bubble area =
+  nameplate GWh/yr, colour = status. Fully offline: uses `data/world.geo.json` (bundled low-res
+  world outline) and matplotlib, no map tiles/CDN.
 - `scripts/benchmarks.csv` — published IEA/BNEF nameplate reference points (overlay only).
 - `failures.csv` — plants that failed validation, with reason.
 - `qa_report.md` — Step 4 quality report.
