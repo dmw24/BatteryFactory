@@ -132,39 +132,75 @@ def main():
     con.execute("DROP TABLE IF EXISTS capacity_by_year")
     con.execute("""CREATE TABLE capacity_by_year (
         id VARCHAR, year INTEGER, gwh_firm DOUBLE, gwh_pipeline DOUBLE,
-        region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN)""")
+        gwh_nameplate DOUBLE, region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN)""")
+
+    def online_year(r):
+        """First operational/commissioned timeline year, else start/ref/announced."""
+        tl = r["capacity_timeline"]
+        if tl:
+            try:
+                pts = [p for p in json.loads(tl)
+                       if isinstance(p, dict) and p.get("basis") in FIRM_BASIS and p.get("year")]
+                if pts:
+                    return min(int(p["year"]) for p in pts)
+            except (json.JSONDecodeError, TypeError):
+                pass
+        for k in ("start_year", "capacity_ref_year", "announced_year"):
+            if r[k] is not None:
+                return int(r[k])
+        return None
 
     ins = []
-    kinds = {"real": 0, "phased": 0, "modelled": 0, "undated": 0}
+    kinds = {"real": 0, "phased": 0, "modelled": 0, "online_unquantified": 0, "undated": 0}
     for r in R:
         firm, pipe, kind = series_for(r)
         if firm is None:
             if r["nameplate_capacity_gwh"] is not None:
                 kinds["undated"] += 1
             continue
+        # Coverage bucket: operational-status plant with a timeline but no firm capacity
+        # anywhere through the current year => we know it is online but cannot quantify it.
+        if (kind == "real" and r["status"] == "operational"
+                and max([firm[y] for y in firm if y <= LAST_ACTUAL] or [0]) == 0):
+            kind = "online_unquantified"
         kinds[kind] += 1
         hub = (r["is_single_site"] is False) or bool(HUBRE.search(r["research_notes"] or ""))
+        # Series B — installed nameplate (IEA/BNEF basis): full nameplate of an
+        # OPERATIONAL plant credited from the year it came online, held to HORIZON.
+        np = r["nameplate_capacity_gwh"]
+        oy = online_year(r)
         for y in firm:
-            ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), r["region"], r["status"], kind, hub))
-    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?)", ins)
+            npl = (np if (np is not None and r["status"] == "operational"
+                          and oy is not None and y >= oy) else 0.0)
+            ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), npl,
+                        r["region"], r["status"], kind, hub))
+    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?)", ins)
 
     print("plants by data source:", kinds)
-    print("\n=== Capacity ONLINE (firm) by year (GWh/yr) — real vs modelled split ===")
-    print(f"{'year':>6} | {'ONLINE':>7} | {'real':>7} | {'phased':>7} | {'modelled':>8} | {'% real':>6} | {'China':>7} | {'+pipeline':>9}")
+    # external benchmarks for side-by-side
+    bench = {}
+    try:
+        import csv as _csv
+        for row in _csv.DictReader(l for l in open("scripts/benchmarks.csv") if not l.startswith("#")):
+            bench.setdefault(int(row["year"]), {})[row["source"]] = float(row["gwh"])
+    except OSError:
+        pass
+    print("\n=== Capacity by year (GWh/yr): A=achieved online (floor) · B=installed nameplate (IEA/BNEF basis) · benchmarks ===")
+    print(f"{'year':>6} | {'A online':>8} | {'%real':>5} | {'B nameplate':>11} | {'IEA':>5} | {'BNEF':>5} | {'China A':>7} | {'+pipe':>6}")
     for y in range(2018, HORIZON + 1):
         def s(col="gwh_firm", where=""):
-            q = f"SELECT round(sum({col}),0) FROM capacity_by_year WHERE year={y} {where}"
-            return con.execute(q).fetchone()[0] or 0
-        tot = s(); real = s("gwh_firm", "AND source_kind='real'")
-        ph = s("gwh_firm", "AND source_kind='phased'"); mod = s("gwh_firm", "AND source_kind='modelled'")
-        chn = s("gwh_firm", "AND region='China'"); pipe = s("gwh_pipeline")
-        pct = (100 * real / tot) if tot else 0
-        print(f"{y:>6} | {tot:>7,.0f} | {real:>7,.0f} | {ph:>7,.0f} | {mod:>8,.0f} | {pct:>5.0f}% | {chn:>7,.0f} | {pipe:>9,.0f}")
+            return con.execute(f"SELECT round(sum({col}),0) FROM capacity_by_year WHERE year={y} {where}").fetchone()[0] or 0
+        a = s(); real = s("gwh_firm", "AND source_kind IN ('real','online_unquantified')")
+        b = s("gwh_nameplate"); chn = s("gwh_firm", "AND region='China'"); pipe = s("gwh_pipeline")
+        pct = (100 * real / a) if a else 0
+        iea = bench.get(y, {}).get("IEA", ""); bnef = bench.get(y, {}).get("BNEF", "")
+        print(f"{y:>6} | {a:>8,.0f} | {pct:>4.0f}% | {b:>11,.0f} | {str(int(iea)) if iea else '-':>5} | {str(int(bnef)) if bnef else '-':>5} | {chn:>7,.0f} | {pipe:>6,.0f}")
 
     con.execute("""COPY (
         SELECT year,
-               round(sum(gwh_firm),0) AS gwh_online_firm,
-               round(sum(gwh_firm) FILTER (WHERE source_kind='real'),0) AS gwh_online_real_sourced,
+               round(sum(gwh_firm),0) AS gwh_online_achieved,
+               round(sum(gwh_firm) FILTER (WHERE source_kind IN ('real','online_unquantified')),0) AS gwh_online_real_sourced,
+               round(sum(gwh_nameplate),0) AS gwh_installed_nameplate,
                round(sum(gwh_pipeline),0) AS gwh_pipeline_additional,
                round(sum(gwh_firm) FILTER (WHERE region='China'),0) AS gwh_online_china
         FROM capacity_by_year GROUP BY year ORDER BY year)

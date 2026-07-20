@@ -1,0 +1,19 @@
+# Published external battery cell MANUFACTURING CAPACITY benchmarks, for chart overlay only.
+# NOT our data. All figures are NAMEPLATE and credit commissioned lines at full nameplate
+# (IEA notes it can take 5+ years to reach nominal output; real utilisation ~40-50%).
+# Sources:
+#   IEA — Batteries and Secure Energy Transitions (Apr 2024): 2023 = 2.5 TWh, +780 GWh vs 2022; China ~85%.
+#     https://www.iea.org/reports/batteries-and-secure-energy-transitions/status-of-battery-demand-and-supply
+#   IEA — Global EV Outlook 2025 (May 2025): 2024 > 3 TWh (grew ~30%), ~85% China; committed pipeline 3.3 TWh (2024).
+#     https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries
+#   IEA — Global EV Outlook 2026: 2025 > 4 TWh nameplate, >80% China.
+#     https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries
+#   BNEF — "China Already Makes as Many Batteries as the Entire World Wants" (12 Apr 2024): 2023 ~2.6 TWh commissioned.
+#     https://about.bnef.com/insights/clean-transport/china-already-makes-as-many-batteries-as-the-entire-world-wants/
+# 2022 IEA value (1.72 TWh) is arithmetic from IEA's "2.5 TWh 2023 minus 780 GWh added" — flagged approximate.
+source,year,gwh,basis,note
+IEA,2022,1720,nameplate,implied (2.5 TWh 2023 minus 780 GWh added)
+IEA,2023,2500,nameplate,Batteries and Secure Energy Transitions
+IEA,2024,3000,nameplate,GEVO 2025 (>3 TWh; chart ~3.3)
+IEA,2025,4000,nameplate,GEVO 2026 (>4 TWh)
+BNEF,2023,2600,commissioned,China Already Makes as Many Batteries

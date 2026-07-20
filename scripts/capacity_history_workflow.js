@@ -51,6 +51,8 @@ PLANT (id must be returned EXACTLY): ${c.id}
 
 GOAL: a timeline of how this ONE physical site's annual manufacturing capacity (GWh/year) grew over time, as a list of dated observations EACH backed by a specific source.
 
+PRIORITY FOR THIS PASS: find the MOST RECENT (2024 or 2025) dated, sourced OPERATIONAL cumulative-GWh figure for this site, and attach the GWh number to the operational/commissioned datapoint itself — do NOT leave the operational point's numbers null with the figure sitting only on an announced/planned point. If the site genuinely only commissioned in 2025 (or is not yet operational), say so and give the real dated operational point; do not invent a 2024 figure.
+
 ABSOLUTE RULES — this must be real data, not modelling:
 1. Only record a datapoint if a SPECIFIC, DATED source states the plant's capacity or a phase/line commissioning at that time. Every datapoint needs source_url + source_date (YYYY-MM-DD).
 2. NEVER interpolate, ramp, extrapolate, or invent intermediate years. If a source says "15 GWh phase 1 online June 2021" and "reached 55 GWh in 2023", record exactly those two points — do NOT fabricate a 2022 value.

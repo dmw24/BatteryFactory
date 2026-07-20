@@ -74,6 +74,29 @@ loads results into DuckDB.
 - `0.3–0.5` — inferred, dated, or conflicting sources.
 - `< 0.3` — weak/speculative; most fields null.
 
+## Capacity-over-time methodology
+
+`capacity_timeline` (per plant) holds **real, dated, individually-sourced** capacity
+observations — no interpolation or modelled ramps. `scripts/build_timeseries.py` turns these
+into a year-by-year build-out (`capacity_by_year` table) using two measures:
+
+- **Series A — capacity online (achieved).** Sums only `operational`/`commissioned` sourced
+  datapoints, carried flat between sourced points. Plants without a sourced number contribute 0.
+  This is the honest **floor** and is what the chart bars show.
+- **Series B — installed nameplate (IEA/BNEF basis).** Credits an operational plant's full
+  nameplate from the year it came online. This mirrors how IEA/BNEF/Benchmark count — they credit
+  a commissioned line at full nameplate immediately (IEA notes it can take 5+ years to reach
+  nominal output; real utilisation is ~40–50%). This is the **upper** comparator.
+
+**Reconciliation:** external benchmarks are *nameplate* and sit **between** our two series —
+Series A (achieved) ≤ IEA/BNEF ≤ Series B (installed nameplate). Published points for overlay are
+in `scripts/benchmarks.csv` (IEA 2023=2.5, 2024≈3.0, 2025>4 TWh; BNEF 2023≈2.6 TWh; ~85% China).
+`source_kind` on each row marks whether a plant-year is `real` (sourced timeline), `phased`,
+`modelled` (nameplate step, no timeline), or `online_unquantified` (operational but no sourced
+number — counted at 0, surfaced not hidden). Pipeline = announced/under-construction capacity
+above what is online. Never present Series A head-to-head with IEA/BNEF without noting the
+achieved-vs-nameplate distinction.
+
 ## Files
 
 - `factories.db` — the DuckDB database (gitignored; rebuildable).
