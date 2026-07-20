@@ -8,113 +8,117 @@ year,region,gwh_online_firm,gwh_pipeline
 2013,China,3.0,0.0
 2013,Japan,0.0,0.0
 2013,South Korea,0.0,0.0
-2014,China,11.0,0.0
+2014,China,13.0,0.0
 2014,Japan,0.0,0.0
 2014,South Korea,0.0,0.0
-2015,China,23.0,0.0
+2015,China,25.0,0.0
 2015,Europe,2.0,0.0
 2015,Japan,27.0,0.0
-2015,South Korea,46.0,0.0
+2015,South Korea,1.0,0.0
 2015,USA,3.0,0.0
-2016,China,25.0,13.0
+2016,China,30.0,13.0
 2016,Europe,2.0,0.0
 2016,Japan,27.0,0.0
-2016,South Korea,46.0,0.0
+2016,South Korea,1.0,0.0
 2016,USA,3.0,0.0
-2017,China,25.0,13.0
+2017,China,34.0,13.0
 2017,Europe,2.0,0.0
 2017,Japan,27.0,0.0
-2017,South Korea,46.0,0.0
+2017,South Korea,1.0,0.0
 2017,USA,3.0,0.0
-2018,China,41.0,123.0
+2018,China,52.0,168.0
 2018,Europe,2.0,0.0
 2018,Japan,27.0,0.0
-2018,South Korea,51.0,0.0
-2018,USA,23.0,0.0
-2019,China,84.0,123.0
+2018,South Korea,6.0,0.0
+2018,USA,26.0,0.0
+2019,China,65.0,217.0
 2019,Europe,2.0,16.0
 2019,Japan,27.0,0.0
-2019,South Korea,51.0,0.0
-2019,USA,38.0,0.0
-2020,China,132.0,123.0
-2020,Europe,45.0,16.0
+2019,South Korea,6.0,0.0
+2019,USA,41.0,30.0
+2020,China,116.0,228.0
+2020,Europe,45.0,116.0
 2020,Japan,27.0,0.0
-2020,South Korea,51.0,0.0
-2020,USA,38.0,0.0
-2021,China,318.0,576.0
-2021,Europe,91.0,45.0
-2021,Japan,27.0,0.0
-2021,South Korea,51.0,0.0
+2020,Rest of World,0.0,0.0
+2020,South Korea,6.0,0.0
+2020,USA,41.0,30.0
+2021,China,263.0,919.0
+2021,Europe,91.0,213.0
+2021,India,0.0,10.0
+2021,Japan,27.0,6.0
+2021,Rest of World,0.0,0.0
+2021,South Korea,16.0,0.0
 2021,Southeast Asia,1.0,0.0
-2021,USA,42.0,121.0
-2022,China,903.0,786.0
-2022,Europe,141.0,205.0
-2022,Japan,27.0,0.0
+2021,USA,45.0,151.0
+2022,China,759.0,1465.0
+2022,Europe,149.0,468.0
+2022,India,0.0,10.0
+2022,Japan,27.0,16.0
 2022,Rest of World,5.0,45.0
-2022,South Korea,53.0,0.0
+2022,South Korea,29.0,0.0
 2022,Southeast Asia,1.0,0.0
-2022,USA,90.0,270.0
-2023,China,1520.0,653.0
-2023,Europe,186.0,205.0
-2023,India,5.0,0.0
-2023,Japan,27.0,0.0
+2022,USA,60.0,433.0
+2023,China,1327.0,1352.0
+2023,Europe,187.0,468.0
+2023,India,5.0,52.0
+2023,Japan,27.0,16.0
 2023,Rest of World,5.0,45.0
-2023,South Korea,53.0,0.0
-2023,Southeast Asia,1.0,0.0
-2023,USA,129.0,399.0
-2024,China,2150.0,434.0
-2024,Europe,254.0,255.0
-2024,India,19.0,0.0
-2024,Japan,33.0,0.0
-2024,Rest of World,5.0,0.0
-2024,South Korea,53.0,0.0
-2024,Southeast Asia,37.0,0.0
-2024,USA,181.0,439.0
-2025,China,3000.0,620.0
-2025,Europe,340.0,239.0
-2025,India,25.0,0.0
-2025,Japan,73.0,0.0
-2025,Rest of World,5.0,50.0
-2025,South Korea,58.0,0.0
-2025,Southeast Asia,67.0,0.0
-2025,USA,379.0,330.0
-2026,China,3110.0,1233.0
-2026,Europe,340.0,221.0
-2026,India,25.0,157.0
-2026,Japan,73.0,0.0
-2026,Rest of World,5.0,141.0
-2026,South Korea,58.0,4.0
-2026,Southeast Asia,67.0,33.0
-2026,USA,379.0,416.0
-2027,China,3110.0,1368.0
-2027,Europe,340.0,336.0
-2027,India,25.0,202.0
-2027,Japan,73.0,20.0
-2027,Rest of World,5.0,141.0
-2027,South Korea,58.0,16.0
-2027,Southeast Asia,67.0,50.0
-2027,USA,379.0,499.0
-2028,China,3110.0,1434.0
-2028,Europe,340.0,446.0
-2028,India,25.0,210.0
-2028,Japan,73.0,20.0
-2028,Rest of World,5.0,246.0
-2028,South Korea,58.0,26.0
-2028,Southeast Asia,67.0,50.0
-2028,USA,379.0,535.0
-2029,China,3110.0,1434.0
-2029,Europe,340.0,446.0
-2029,India,25.0,214.0
-2029,Japan,73.0,20.0
-2029,Rest of World,5.0,246.0
-2029,South Korea,58.0,26.0
-2029,Southeast Asia,67.0,50.0
-2029,USA,379.0,535.0
-2030,China,3110.0,1434.0
-2030,Europe,340.0,653.0
-2030,India,25.0,214.0
-2030,Japan,73.0,36.0
-2030,Rest of World,5.0,336.0
-2030,South Korea,58.0,26.0
-2030,Southeast Asia,67.0,50.0
-2030,USA,379.0,535.0
+2023,South Korea,39.0,16.0
+2023,Southeast Asia,1.0,10.0
+2023,USA,114.0,585.0
+2024,China,1737.0,966.0
+2024,Europe,220.0,434.0
+2024,India,8.0,55.0
+2024,Japan,33.0,17.0
+2024,Rest of World,5.0,2.0
+2024,South Korea,48.0,16.0
+2024,Southeast Asia,17.0,20.0
+2024,USA,166.0,631.0
+2025,China,2465.0,1211.0
+2025,Europe,287.0,442.0
+2025,India,13.0,57.0
+2025,Japan,46.0,10.0
+2025,Rest of World,5.0,53.0
+2025,South Korea,52.0,3.0
+2025,Southeast Asia,47.0,41.0
+2025,USA,296.0,524.0
+2026,China,2620.0,1808.0
+2026,Europe,287.0,491.0
+2026,India,19.0,194.0
+2026,Japan,46.0,39.0
+2026,Rest of World,5.0,152.0
+2026,South Korea,52.0,3.0
+2026,Southeast Asia,65.0,48.0
+2026,USA,356.0,460.0
+2027,China,2620.0,1948.0
+2027,Europe,287.0,444.0
+2027,India,19.0,231.0
+2027,Japan,46.0,39.0
+2027,Rest of World,5.0,152.0
+2027,South Korea,52.0,4.0
+2027,Southeast Asia,65.0,48.0
+2027,USA,356.0,497.0
+2028,China,2620.0,2014.0
+2028,Europe,287.0,475.0
+2028,India,19.0,239.0
+2028,Japan,46.0,39.0
+2028,Rest of World,5.0,256.0
+2028,South Korea,52.0,19.0
+2028,Southeast Asia,65.0,48.0
+2028,USA,356.0,527.0
+2029,China,2620.0,2014.0
+2029,Europe,287.0,475.0
+2029,India,19.0,243.0
+2029,Japan,46.0,39.0
+2029,Rest of World,5.0,256.0
+2029,South Korea,52.0,19.0
+2029,Southeast Asia,65.0,48.0
+2029,USA,356.0,527.0
+2030,China,2620.0,2014.0
+2030,Europe,287.0,641.0
+2030,India,19.0,277.0
+2030,Japan,46.0,75.0
+2030,Rest of World,5.0,346.0
+2030,South Korea,52.0,19.0
+2030,Southeast Asia,65.0,56.0
+2030,USA,356.0,557.0
