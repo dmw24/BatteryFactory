@@ -81,43 +81,46 @@ for i, yr in enumerate(YEARS):
     svg.append(f'<text x="{xc(i):.1f}" y="{yo(online_top)-5:.1f}" class="tot" text-anchor="middle">{online_top/1000:.1f}</text>')
     svg.append(f'<text x="{xc(i):.1f}" y="{MT+plot_h+20:.1f}" class="xtick" text-anchor="middle">{yr}</text>')
 
-# Series B — installed nameplate (IEA/BNEF basis): dashed line
+# Series B — installed nameplate (full-nameplate basis): DEMOTED to a faint
+# background reference (back-dates each plant's final nameplate to commissioning;
+# over-counts early years, so no longer the headline).
 pts = " ".join(f"{xc(i):.1f},{yo(min(B[yr], ymax)):.1f}" for i, yr in enumerate(YEARS))
-svg.append(f'<polyline points="{pts}" fill="none" stroke="#192238" stroke-width="2" '
-           f'stroke-dasharray="5 3" opacity="0.75"/>')
-for i, yr in enumerate(YEARS):
-    if B[yr] > 0 and B[yr] <= ymax:
-        svg.append(f'<circle cx="{xc(i):.1f}" cy="{yo(B[yr]):.1f}" r="2.4" fill="#192238" opacity="0.75">'
-                   f'<title>Installed nameplate (IEA/BNEF basis) — {yr}: {B[yr]:,.0f} GWh/yr</title></circle>')
+svg.append(f'<polyline points="{pts}" fill="none" stroke="#B0B7C6" stroke-width="1.3" '
+           f'stroke-dasharray="2 2" opacity="0.85"/>')
 
-# IEA / BNEF published benchmarks — gold markers
-def marker(x, y, kind):
-    if kind == "IEA":
-        return (f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="#E9A21B" stroke="#7a5300" stroke-width="1">')
-    return (f'<rect x="{x-4.5:.1f}" y="{y-4.5:.1f}" width="9" height="9" fill="none" '
-            f'stroke="#E9A21B" stroke-width="2" transform="rotate(45 {x:.1f} {y:.1f})">')
-for src in ("IEA", "BNEF"):
-    for yr, g in BENCH[src].items():
-        if yr in YEARS and g <= ymax:
-            i = YEARS.index(yr)
-            x, y = xc(i), yo(g)
-            svg.append(marker(x, y, src) + f'<title>{src} {yr}: {g:,.0f} GWh/yr (published nameplate)</title>'
-                       + ('</circle>' if src == "IEA" else '</rect>'))
+# IEA / BNEF published nameplate — the lead comparison, drawn as connected amber
+# lines across their sourced years, distinguished by marker (never colour alone).
+GOLD = "#E9A21B"
+def bench_line(src, marker_svg):
+    ys = sorted((YEARS.index(y), g) for y, g in BENCH[src].items() if y in YEARS and g <= ymax)
+    if not ys:
+        return
+    if len(ys) > 1:
+        poly = " ".join(f"{xc(i):.1f},{yo(g):.1f}" for i, g in ys)
+        svg.append(f'<polyline points="{poly}" fill="none" stroke="{GOLD}" stroke-width="2"/>')
+    for i, g in ys:
+        x, y = xc(i), yo(g)
+        svg.append(marker_svg(x, y) + f'<title>{src} {YEARS[i]}: {g:,.0f} GWh/yr (published nameplate)</title>'
+                   + ('</circle>' if 'circle' in marker_svg(x, y) else '</rect>'))
+    lx, lg = ys[-1]
+    svg.append(f'<text x="{xc(lx)+8:.1f}" y="{yo(lg)+4:.1f}" class="blab">{src}</text>')
+bench_line("BNEF", lambda x, y: f'<rect x="{x-4.5:.1f}" y="{y-4.5:.1f}" width="9" height="9" fill="none" stroke="{GOLD}" stroke-width="2" transform="rotate(45 {x:.1f} {y:.1f})">')
+bench_line("IEA", lambda x, y: f'<circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="{GOLD}" stroke="#7a5300" stroke-width="1">')
 svg.append('</svg>')
 svg = "\n".join(svg)
 
 legend = "".join(f'<span class="chip"><i style="background:{COLOURS[r]}"></i>{r}</span>' for r in REGIONS)
-legend += ('<span class="chip"><i class="dash"></i>Installed nameplate (IEA/BNEF basis)</span>'
-           '<span class="chip"><i class="iea"></i>IEA (published)</span>'
-           '<span class="chip"><i class="bnef"></i>BNEF (published)</span>')
+legend += ('<span class="chip"><i class="bnef"></i>BNEF reported nameplate</span>'
+           '<span class="chip"><i class="iea"></i>IEA reported nameplate</span>'
+           '<span class="chip"><i class="dash"></i>Installed nameplate (full-nameplate basis)</span>')
 
 html = f"""<div class="wrap">
   <div class="topbar"></div>
-  <h1>IEA and BNEF sit between the capacity actually online and the full installed nameplate</h1>
-  <p class="sub">Battery cell manufacturing capacity, GWh per year, 2018&ndash;2030. Bars show capacity <b>online</b> (dated, sourced operational figures), stacked by region &ndash; TWh labels are the online total. The dashed line credits each operational plant&rsquo;s <b>full nameplate</b> from the year it came online (the IEA/BNEF basis). Published IEA and BNEF nameplate figures fall between the two.</p>
+  <h1>The cell capacity we can source as online is a floor below IEA and BNEF&rsquo;s nameplate &ndash; and far below full nameplate</h1>
+  <p class="sub">Global battery cell manufacturing capacity, GWh per year, 2018&ndash;2030. Bars show capacity <b>online</b> (dated, sourced operational figures), stacked by region &ndash; TWh labels are the online total. Amber lines are IEA and BNEF&rsquo;s published <b>reported nameplate</b>; our online floor runs below them, converging in recent years. The faint dotted line back-dates each plant&rsquo;s <b>full nameplate</b> to its commissioning year &ndash; an upper bound that over-counts early years.</p>
   <div class="legend">{legend}</div>
   {svg}
-  <p class="foot">Series A (bars) &ndash; capacity <b>online / achieved</b>: operational-source figures placed in the year each came online and held flat between sourced points; no ramps modelled. The honest floor. Series B (dashed) &ndash; <b>installed nameplate</b>: an operational plant&rsquo;s full nameplate credited from its commissioning year, as trackers count it (IEA notes a line can take 5+ years to reach nominal output; real utilisation ~40&ndash;50%). The upper comparator. IEA/BNEF report nameplate and therefore land <b>between</b> the two &ndash; the reconciliation. ~95% of the online curve is real, individually-sourced data.</p>
+  <p class="foot">Bars &ndash; capacity <b>online / achieved</b>: operational-source figures placed in the year each came online, held flat between sourced points; no ramps modelled. IEA/BNEF lines &ndash; their published <b>reported nameplate</b> (IEA from 2021; 2021&ndash;22 derived from IEA&rsquo;s stated annual additions). No credible primary 2018&ndash;20 benchmark could be sourced, so those years are blank. The faint dotted line credits each plant&rsquo;s full nameplate from commissioning &ndash; an upper bound (IEA notes a line can take 5+ years to reach nominal output; utilisation ~40&ndash;50%). ~95% of the online bars are real, individually-sourced data.</p>
   <p class="src">Source: Ember Futures battery gigafactory database ({N} plants); IEA (Batteries and Secure Energy Transitions 2024, Global EV Outlook 2025/2026); BloombergNEF (Apr 2024). Ember analysis.</p>
 </div>
 <style>
@@ -134,7 +137,8 @@ html = f"""<div class="wrap">
   .legend {{ display:flex; flex-wrap:wrap; gap:6px 16px; margin:0 0 8px; }}
   .chip {{ display:inline-flex; align-items:center; gap:6px; color:var(--sub); font-size:12px; }}
   .chip i {{ width:11px; height:11px; border-radius:2px; display:inline-block; }}
-  .chip i.dash {{ width:20px; height:0; border-top:2px dashed var(--title); border-radius:0; }}
+  .chip i.dash {{ width:20px; height:0; border-top:1.5px dashed #B0B7C6; border-radius:0; }}
+  .blab {{ fill:#8a6300; font-size:11px; font-weight:700; }}
   .chip i.iea {{ width:11px; height:11px; border-radius:50%; background:#E9A21B; border:1px solid #7a5300; }}
   .chip i.bnef {{ width:9px; height:9px; border-radius:1px; background:transparent; border:2px solid #E9A21B; transform:rotate(45deg); }}
   svg {{ display:block; }}

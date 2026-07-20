@@ -156,14 +156,14 @@ def main():
         t.set_color(UI["title"])
 
     add_header(fig,
-               "The battery cell capacity we can source as online tracks\nBNEF's reported nameplate – both far below full nameplate",
+               "The cell capacity we can source as online is a floor below\nIEA and BNEF's nameplate – and far below full nameplate",
                "Global battery cell manufacturing capacity (TWh per year), by region, 2018–2030",
                title_y=0.97, subtitle_y=0.84)
     add_footer(fig,
                source="Ember Futures battery gigafactory database; IEA; BloombergNEF; Ember analysis",
-               note="Bars: capacity online – dated, sourced operational figures held flat between sourced points. BNEF and IEA lines are\n"
-                    "their published reported nameplate (IEA available from 2022 only). The faint dotted line back-dates each plant's full\n"
-                    "nameplate to its commissioning year – an upper bound that over-counts early years. ~95% of the online curve is real, sourced data.")
+               note="Bars: capacity online – dated, sourced operational figures held flat between sourced points (the floor). IEA/BNEF lines are\n"
+                    "their reported nameplate (IEA from 2021; 2021–22 derived from IEA's stated additions). No credible primary 2018–20 benchmark\n"
+                    "could be sourced. The faint dotted line back-dates each plant's full nameplate to commissioning – an upper bound. ~95% of bars are sourced.")
 
     fig.savefig(OUT, dpi=200, facecolor=UI["background"], bbox_inches="tight")
     print(f"wrote {OUT}")

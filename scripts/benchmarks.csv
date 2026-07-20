@@ -10,9 +10,23 @@
 #     https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries
 #   BNEF — "China Already Makes as Many Batteries as the Entire World Wants" (12 Apr 2024): 2023 ~2.6 TWh commissioned.
 #     https://about.bnef.com/insights/clean-transport/china-already-makes-as-many-batteries-as-the-entire-world-wants/
-# 2022 IEA value (1.72 TWh) is arithmetic from IEA's "2.5 TWh 2023 minus 780 GWh added" — flagged approximate.
+# Derived (arithmetic from IEA's own stated annual additions, flagged approximate):
+#   2022 IEA (1.72 TWh) = 2.5 TWh (2023) minus 780 GWh added in 2023.
+#   2021 IEA (1.14 TWh) = 1.72 TWh (2022) minus 580 GWh added in 2022 (IEA: 580 GWh added 2022, ~85% above 2021 additions).
+#
+# PRE-2021 BENCHMARKS NOT INCLUDED — honest sourcing gap (2026-07 research pass):
+#   - IEA published NO contemporaneous global manufacturing-capacity figure before 2022. A retrospective
+#     IEA series "Commissioned EV and storage Li-ion cell production capacity by region, 2010-2022" DOES
+#     exist and would give 2018-2020, but its values could not be read (every IEA / gov / BNEF primary page
+#     returned HTTP 403 in this environment). Add once the chart data file can be opened.
+#   - The widely-quoted BNEF series 2018=249 / 2019=352 / 2020=470 GWh is snippet-attributed only, never
+#     verbatim-verified against a primary BNEF page here.
+#   - The DOE National Blueprint (Jun 2021) "~745 GWh" figure is Benchmark Mineral Intelligence (Mar 2021)
+#     and a 2020 figure, NOT BNEF 2021 — do NOT splice it into a BNEF line.
+#   Per the project rule (never invent a figure; a null beats a guess), 2018-2020 is left blank.
 source,year,gwh,basis,note
-IEA,2022,1720,nameplate,implied (2.5 TWh 2023 minus 780 GWh added)
+IEA,2021,1140,nameplate,implied (1.72 TWh 2022 minus 580 GWh added in 2022) - derived approximate
+IEA,2022,1720,nameplate,implied (2.5 TWh 2023 minus 780 GWh added in 2023) - derived approximate
 IEA,2023,2500,nameplate,Batteries and Secure Energy Transitions
 IEA,2024,3000,nameplate,GEVO 2025 (>3 TWh; chart ~3.3)
 IEA,2025,4000,nameplate,GEVO 2026 (>4 TWh)
