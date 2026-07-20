@@ -104,6 +104,11 @@ achieved-vs-nameplate distinction.
 - `scripts/init_db.py` — create the DB.
 - `scripts/orchestrator.py` — validate researcher JSON and load rows.
 - `data/researched/*.json` — raw per-plant researcher outputs (base rows).
+- `data/coordinates.csv` — durable in-repo store of site coordinates (`id`, `latitude`,
+  `longitude`, `geo_note`). 33 are verified (from researchers); the rest are **city-centroid
+  approximations** produced by `scripts/geocode_sites.py` (offline geonamescache gazetteer),
+  each flagged in `research_notes` with a `[GEO=city:<city>]` note — NOT verified plant
+  locations. Reload with `python3 scripts/load_coordinates.py`.
 - `data/timelines.json` — durable, in-repo snapshot of the real sourced capacity
   histories (`id`, `is_single_site`, `capacity_timeline`). The DB binary is
   gitignored, so this is the source of truth for the timelines; reload with
