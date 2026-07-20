@@ -96,21 +96,37 @@ def main():
         ax.text(x[i], v + 0.06, f"{v:.1f}", ha="center", va="bottom",
                 fontsize=9, family=BOLD_FAMILY, color=UI["title"], zorder=6)
 
-    # Series B — installed nameplate (IEA/BNEF basis): dashed line
+    # Series B — installed nameplate (IEA/BNEF basis): DEMOTED to a faint
+    # background reference. The 2018 comparison shows BNEF's real reported
+    # nameplate tracks the achieved bars, not this back-dated full-nameplate line.
     bvals = np.array([B[y] / 1000.0 for y in YEARS])
-    ax.plot(x, bvals, color=UI["title"], linewidth=2, linestyle=(0, (5, 3)),
-            zorder=4)
+    ax.plot(x, bvals, color=UI["gridline"], linewidth=1.2, linestyle=(0, (2, 2)),
+            zorder=2)
+    ax.text(x[-1], bvals[-1] + 0.05, "Installed nameplate\n(full-nameplate basis)",
+            ha="right", va="bottom", fontsize=8.5, color=UI["axis_label"], zorder=6)
 
-    # IEA / BNEF published benchmarks — gold markers
+    # IEA / BNEF published benchmarks — the lead comparison. Both amber, drawn as
+    # connected lines across their sourced years and distinguished by marker +
+    # direct label (never colour alone).
     gold = COLOR["highlight_yellow"]
-    for yr, g in bench["IEA"].items():
-        if yr in YEARS:
-            ax.scatter([YEARS.index(yr)], [g], s=70, color=gold, edgecolor="#7a5300",
-                       linewidth=1, zorder=7)
-    for yr, g in bench["BNEF"].items():
-        if yr in YEARS:
-            ax.scatter([YEARS.index(yr)], [g], s=70, marker="D", facecolor="none",
-                       edgecolor=gold, linewidth=2, zorder=7)
+
+    def bench_line(series, marker, filled, label):
+        pts = sorted((YEARS.index(y), g) for y, g in series.items() if y in YEARS)
+        if not pts:
+            return
+        xs = [p[0] for p in pts]
+        ys = [p[1] for p in pts]
+        if len(pts) > 1:
+            ax.plot(xs, ys, color=gold, linewidth=2, zorder=7)
+        ax.scatter(xs, ys, s=64, marker=marker, zorder=8,
+                   facecolor=(gold if filled else "none"),
+                   edgecolor=("#7a5300" if filled else gold),
+                   linewidth=(1 if filled else 2))
+        ax.text(xs[-1] + 0.15, ys[-1], label, ha="left", va="center",
+                fontsize=10.5, color="#8a6300", family=BOLD_FAMILY, zorder=8)
+
+    bench_line(bench["BNEF"], "D", False, "BNEF")
+    bench_line(bench["IEA"], "o", True, "IEA")
 
     ax.set_xticks(x)
     ax.set_xticklabels([str(y) for y in YEARS], rotation=0, fontsize=10)
@@ -125,12 +141,13 @@ def main():
                for lab, (_n, _l, c) in zip(
                    ["China", "Europe", "United States", "Rest of world"], GROUPS)]
     handles += [
-        Line2D([0], [0], color=UI["title"], linewidth=2, linestyle=(0, (5, 3)),
-               label="Installed nameplate (IEA/BNEF basis)"),
-        Line2D([0], [0], marker="o", linestyle="", markersize=9, markerfacecolor=gold,
-               markeredgecolor="#7a5300", label="IEA (published)"),
-        Line2D([0], [0], marker="D", linestyle="", markersize=8, markerfacecolor="none",
-               markeredgecolor=gold, markeredgewidth=2, label="BNEF (published)"),
+        Line2D([0], [0], marker="D", linestyle="-", color=gold, markersize=8,
+               markerfacecolor="none", markeredgecolor=gold, markeredgewidth=2,
+               label="BNEF reported nameplate"),
+        Line2D([0], [0], marker="o", linestyle="-", color=gold, markersize=9,
+               markerfacecolor=gold, markeredgecolor="#7a5300", label="IEA reported nameplate"),
+        Line2D([0], [0], color=UI["gridline"], linewidth=1.2, linestyle=(0, (2, 2)),
+               label="Installed nameplate (full-nameplate basis)"),
     ]
     leg = ax.legend(handles=handles, loc="upper left", bbox_to_anchor=(0.0, 1.27),
                     ncol=3, frameon=False, handletextpad=0.5, columnspacing=1.4,
@@ -139,14 +156,14 @@ def main():
         t.set_color(UI["title"])
 
     add_header(fig,
-               "IEA and BNEF sit between the cell capacity actually online\nand the full installed nameplate",
+               "The battery cell capacity we can source as online tracks\nBNEF's reported nameplate – both far below full nameplate",
                "Global battery cell manufacturing capacity (TWh per year), by region, 2018–2030",
                title_y=0.97, subtitle_y=0.84)
     add_footer(fig,
                source="Ember Futures battery gigafactory database; IEA; BloombergNEF; Ember analysis",
-               note="Bars show capacity online – dated, sourced operational figures held flat between sourced points (the floor). The\n"
-                    "dashed line credits each operational plant's full nameplate from its commissioning year (the IEA/BNEF basis; real\n"
-                    "utilisation ~40–50%). IEA and BNEF report nameplate and land between the two. ~95% of the online curve is real, sourced data.")
+               note="Bars: capacity online – dated, sourced operational figures held flat between sourced points. BNEF and IEA lines are\n"
+                    "their published reported nameplate (IEA available from 2022 only). The faint dotted line back-dates each plant's full\n"
+                    "nameplate to its commissioning year – an upper bound that over-counts early years. ~95% of the online curve is real, sourced data.")
 
     fig.savefig(OUT, dpi=200, facecolor=UI["background"], bbox_inches="tight")
     print(f"wrote {OUT}")
