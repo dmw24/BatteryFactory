@@ -100,3 +100,6 @@ VERDICT fail · capability+diligence. 24/24 quotes; adds real. Blocking: Jinglan
 T020 – lead verification → merged (Megamillion 1 GWh, D-020 statuses, S4 trimmed by lead to verbatim-confirmed fragments).
 T022 – lead verification → merged (ref years, Tafel nulls, Veken cap; new quotes FOUND).
 T023 – lead verification → merged (Pylontech Shanghai restored, Narada Nandu Power operational ≤0.4 with AR evidence, Alxa quote).
+
+## T024 (China tail 4) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 21/21 quotes. Blocking: Qingtao 10.5 arithmetic vs source's 10; Wanxiang 80 vision (2019–2035) as nameplate with ref 2024 (stated phases 24+32=56). Spec gap → D-021.
