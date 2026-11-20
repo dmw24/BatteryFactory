@@ -42,6 +42,6 @@ C by region: China 2,342 · USA 289 · Europe 275 · Southeast Asia 69 · Rest o
 - Never sum across statuses; pipeline (under construction / announced) is reported separately.
 
 ## Open items affecting these totals
-See `team/ESCALATIONS.md`: Lishen Qingdao (40 GWh likely ~10), SVOLT Ma'anshan (28 GWh prismatic likely ~1 GWh
-(cylindrical); CALB Jintan 70 GWh confirmed as a six-phase plan; low-confidence BYD rows remain. These corrections did not change
+See `team/ESCALATIONS.md`: Lishen Qingdao corrected 40→10 GWh (T060); SVOLT Ma'anshan format corrected to
+cylindrical, its 28 GWh plan still unconfirmed; CALB Jintan 70 GWh confirmed as a six-phase plan; low-confidence BYD rows remain. These corrections did not change
 the 2025 totals (affected rows were already counted at their confirmed installed figures).
