@@ -142,27 +142,31 @@ def apply_patches(df):
                 df.at[rid, "research_notes"] = f"[{task} {vdate}] {r['notes']}"
             df.at[rid, "last_verified"] = vdate
             df.at[rid, "verified_by_task"] = task
+            rep_now = []
             for f, sids in (r.get("evidence") or {}).items():
+                tiers = []
                 for sid in sids:
                     s = sources.get(sid, {})
+                    t = "reported" if s.get("tier") == "reported" else "confirmed"
+                    tiers.append(t)
                     evidence_rows.append(dict(id=rid, field=f, task=task, source_id=f"{task}:{sid}",
                                               url=s.get("url"), publisher=s.get("publisher"),
                                               published=s.get("published"), accessed=s.get("accessed"),
-                                              language=s.get("language"), quote=s.get("quote"),
-                                              tier="confirmed"))
+                                              language=s.get("language"), quote=s.get("quote") or s.get("snippet"),
+                                              tier=t))
+                if tiers and all(t == "reported" for t in tiers):
+                    rep_now.append(f)
+            # a field re-evidenced in this patch takes the tier of its new evidence
+            prev = df.at[rid, "reported_fields"] if "reported_fields" in df.columns else None
+            prev = json.loads(prev) if isinstance(prev, str) else []
+            new_rep = sorted((set(prev) - set((r.get("evidence") or {}).keys())) | set(rep_now))
+            df.at[rid, "reported_fields"] = json.dumps(new_rep) if new_rep else None
             log.append(f"{task}: {action} {rid} ({len(fields)} fields)")
     return df, pd.DataFrame(evidence_rows), pd.DataFrame(removed_rows), log
 
 
 def main():
     df, ev, removed, log = apply_patches(load_baseline())
-    def _tier(rf):
-        try:
-            fl = json.loads(rf) if isinstance(rf, str) else []
-        except json.JSONDecodeError:
-            fl = []
-        return "reported" if set(fl) & {"status", "nameplate_capacity_gwh", "installed_capacity_gwh"} else "confirmed"
-    df["evidence_tier"] = df["reported_fields"].map(_tier)
     def _tier(rf):
         try:
             fl = json.loads(rf) if isinstance(rf, str) else []
