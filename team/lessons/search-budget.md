@@ -1,1 +1,2 @@
 Workers can exhaust their web-search budget on large batches (T034: ran out after ~70 tool uses). Keep fill batches ≤15 rows or pre-load filings; lead extracts PDFs (curl+pdftotext) for public filings but must not bypass WAFs.
+The web-search budget (~200 calls) appears to be shared across concurrently running sub-agents; launching 13 workers at once starved most of them (T034/T036/T037 yields 0-2 rows). Run ≤4 research workers at a time and give each ≤15 rows.

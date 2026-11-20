@@ -139,7 +139,12 @@ def apply_patches(df):
             if "confidence" in r:
                 df.at[rid, "confidence"] = r["confidence"]
             if r.get("notes"):
-                df.at[rid, "research_notes"] = f"[{task} {vdate}] {r['notes']}"
+                prev = df.at[rid, "research_notes"]
+                # first v2 verification replaces the v1 notes; later tasks append (keep the audit trail)
+                if isinstance(prev, str) and re.match(r"\[T0\d\d", prev):
+                    df.at[rid, "research_notes"] = f"{prev} || [{task} {vdate}] {r['notes']}"
+                else:
+                    df.at[rid, "research_notes"] = f"[{task} {vdate}] {r['notes']}"
             df.at[rid, "last_verified"] = vdate
             df.at[rid, "verified_by_task"] = task
             rep_now = []

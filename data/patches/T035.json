@@ -1,0 +1,45 @@
+{
+  "task": "T035",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225251835.PDF",
+      "publisher": "ST Narada (300068) 2025 annual report",
+      "published": "2026-04-29",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "公司现有锂电电芯产能 10GWh，新型电力储能集成产能 10GWh，已形成稳定的储能业务产能基础。"
+    },
+    "S2": {
+      "url": "https://news.metal.com/en/newscontent/102762571-Gansu-Jiuquan-Nandu-Power-Supply-Completes-Equipment-Installation-for-24-GWh-Lithium-Iron-Phosphate-Battery-Project-Ente",
+      "publisher": "SMM (Shanghai Metals Market) news, Jiuquan Nandu Power project",
+      "published": "2024-05-21",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "annual output of 4GWh lithium iron phosphate energy storage battery cells ... equipment worth more than 600 million yuan has been fully installed ... have entered the material commissioning stage"
+    },
+    "S3": {
+      "url": "https://www.news.cn/fortune/20251213/fee522e99e904724a7f0a922d297fa9a/c.html",
+      "publisher": "Xinhua News Agency (photo caption)",
+      "published": "2025-12-13",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "这是12月1日在酒泉南都电源有限公司拍摄的磷酸铁锂储能电池电芯。"
+    }
+  },
+  "rows": [
+    {
+      "id": "narada-power-jiuquan-narada-wholly-owned-subsidiary-narada-jiuquan-storage-cell-base-jiuquan-narada-smart-energy-storage-manufacturing-base-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 4.0,
+        "installed_as_of": "2025-12-01"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S2", "S3", "S1"]
+      },
+      "confidence": 0.55,
+      "notes": "Fill pass T035. Installed 4 GWh/yr as of 2025-12-01 is a PROJECT-LEVEL inference, not a stated installed figure: the 4 GWh/yr LFP ESS cell project had all equipment (> RMB 600m) installed and was in material commissioning by 2024-05-21 (S2), and Xinhua photographed LFP storage cells made at Jiuquan Narada on 2025-12-01 (S3), so the project's lines are taken as commissioned and producing. installed basis: company (project design capacity, via press). No source gives a Jiuquan-specific installed GWh; the 2025 annual report gives only the company-wide cell capacity of 10 GWh (S1), which cannot be split by site (T023 arithmetic leaves ~3 GWh unattributed). Lead: if the audit treats installed=project nameplate as unsupported, null installed_capacity_gwh and installed_as_of. Unchanged from T022: status operational, nameplate 4 GWh, ref_year 2024 (fallback: design commissioning H1 2024), start_year null (18 Jun 2024 launch ceremony page desn.com.cn not re-fetchable), chemistry LFP, end_market ESS, v1 cell_format/announced_year still reported (not re-confirmed). Note the SMM headline says 2.4 GWh while its body says 4GWh; body and the company's 2023 project name (annual 4 GWh) agree on 4."
+    }
+  ]
+}
