@@ -1,0 +1,329 @@
+{
+  "task": "T056",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "http://www.xinhuanet.com/english/2018-06/27/c_137285051.htm",
+      "publisher": "Xinhua (English), BYD Qinghai plant opening, Xining dateline 2018-06-27",
+      "published": "2018-06-27",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "currently has an annual production capacity of 10 GWh of lithium batteries ... With seven production lines in total ... designed to have an annual production capacity of 24 GWh of lithium batteries by 2019"
+    },
+    "S2": {
+      "url": "https://www.peopleapp.com/column/30051345722-500007335369",
+      "publisher": "People's Daily client (人民日报客户端)",
+      "published": "2026-02-01",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "弗迪公司于2023年投产，当年就满产。 ... 每4秒钟就产出一块锂电池电芯。"
+    },
+    "S3": {
+      "url": "https://autonews.gasgoo.com/articles/ev/byd-scales-up-battery-production-capacity-to-support-fast-growing-nev-sales-70019325",
+      "publisher": "Gasgoo, 'BYD scales up battery production capacity to support fast-growing NEV sales'",
+      "published": "2021-12-13",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "The first phase of 10GWh ternary-lithium batteries was put into production in 2019."
+    },
+    "S4": {
+      "url": "https://www.yicai.com/news/102941141.html",
+      "publisher": "Yicai (第一财经), 湖北这个县级市为什么吸引比亚迪电池项目落户？",
+      "published": "2025-12-04",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "比亚迪襄阳产业园规划50GWh动储电池产能 ... 一期建成30GWh动力电池及零部件项目 ... 今年产值有望达到160亿元"
+    },
+    "S5": {
+      "url": "https://cnevpost.com/?p=55762",
+      "publisher": "CnEVPost, BYD Xiangyang first production line (citing Hubei Daily)",
+      "published": "2022-12-20",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "went into operation on December 15 ... The production line has a capacity of 1.9 GWh ... all 16 production lines expected to be in operation by May 2023 ... The site will have a capacity of 30 GWh."
+    },
+    "S6": {
+      "url": "https://www.energytrend.com/print/48392",
+      "publisher": "EnergyTrend (TrendForce), 'BYD puts another lithium project into production'",
+      "published": "2024-09-12",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "The 10 GWh power battery expansion project has already been fully operational ... partially operational ... the 45 GWh power battery and energy storage system project in the East New City Lingli Industrial Zone ... Together, these projects will achieve a total capacity of 70 GWh"
+    },
+    "S7": {
+      "url": "https://autonews.gasgoo.com/articles/ev/byd-partners-with-guiyang-government-for-new-type-battery-project-battery-assembly-lines-70020038",
+      "publisher": "Gasgoo, 'BYD partners with Guiyang government for new-type battery project, battery assembly lines' (project manager of Guiyang Fudi quoted)",
+      "published": "2022-04-02",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "It currently has six battery lines with a total production capacity of 15GWh per year ... BYD's Guiyang battery base has already started operation"
+    },
+    "S8": {
+      "url": "https://laoyaoba.com/n/814355",
+      "publisher": "iJiwei / 爱集微, 比亚迪拟140亿元在广西南宁投建45GWh动力电池及储能系统项目",
+      "published": "2022-04-13",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "广西弗迪年产45GWh动力电池及储能系统项目 ... 南宁市青秀区伶俐工业园 ... 计划投资约140亿元"
+    },
+    "S9": {
+      "url": "https://cn.solarbe.com/news/20250219/50000541.html",
+      "publisher": "碳索储能网 (SolarBE; reprint of 电池网), 新增7GWh！弗迪电池又一基地扩建动力电池",
+      "published": "2025-02-19",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "项目于2023年5月投产"
+    },
+    "S10": {
+      "url": "https://finance.sina.com.cn/roll/2025-08-06/doc-infiztfs8370820.shtml",
+      "publisher": "Sina Finance (from 电池工业网), 弗迪电池扩产！18.4万件磷酸铁锂电池包",
+      "published": "2025-08-06",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "其中一期位于无为经济开发区通江大道与福东路交叉口东北侧，投资28亿元，年产刀片电池10GWh； ... 二期总建筑面积约32万平方米，主要生产汽车动力电池产品，规划产能15GWh；"
+    },
+    "S11": {
+      "url": "https://www.peopleapp.com/column/30050686940-500007186067",
+      "publisher": "People's Daily client (人民日报客户端), 豫见·郑州 解码“郑州造”新能源汽车如何走向世界",
+      "published": "2025-11-10",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "自2023年投产以来，这里已累计生产整车超100万辆，贡献产值突破1700亿元。 ... 每3秒，会有一支动力电池电芯诞生。"
+    },
+    "S12": {
+      "url": "https://www.cls.cn/detail/1129466",
+      "publisher": "Cailian Press (财联社), 粮草先行 比亚迪广西三大电池项目产能超60GWh",
+      "published": "2022-09-13",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "广西东盟弗迪电池10GWh混合动力电池及5GWh新型电池项目 ... 上述三个动力电池项目的新建产能将超过60GWh。"
+    },
+    "S13": {
+      "url": "https://mcn.solarbe.com/news/20250819/50006385.html",
+      "publisher": "碳索储能网 (SolarBE; attributed to 维科网储能), 弗迪电池再落子，15GWh磷酸铁锂电池项目获批在即",
+      "published": "2025-08-19",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "在广东省汕尾市海丰县梅陇镇的新建动力电池生产基地即将获得审批 ... 规划年产能达15GWh磷酸铁锂电池"
+    },
+    "S14": {
+      "url": "https://paper.people.com.cn/zgnyb/pc/content/202508/25/content_30099940.html",
+      "publisher": "中国能源报 (China Energy News), 头部电池企业掀起新一轮扩产热潮",
+      "published": "2025-08-25",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "项目建成后可生产动力电池5088万只/年，总容量为15吉瓦时/年"
+    }
+  },
+  "rows": [
+    {
+      "id": "byd-byd-findreams-xining-plant-qinghai-findreams-battery-co-ltd-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 10,
+        "installed_as_of": "2018-06-27",
+        "nameplate_capacity_gwh": 24,
+        "capacity_ref_year": 2019,
+        "capacity_by_year_json": "{\"2018\":10,\"2019\":24}",
+        "site_type": "single_site",
+        "source_url": "http://www.xinhuanet.com/english/2018-06/27/c_137285051.htm",
+        "source_date": "2026-11-20",
+        "source_published_date": "2018-06-27"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1"],
+        "nameplate_capacity_gwh": ["S1"],
+        "capacity_by_year_json": ["S1"]
+      },
+      "confidence": 0.45,
+      "notes": "[T056] dated floor (D-025): Xinhua 2018-06-27 (opening day, company event) says the plant 'currently has' 10 GWh/yr with seven lines and is designed for 24 GWh by 2019 (S1). installed basis: company (opening statement, reported by Xinhua). Series A carries 10 GWh from 2018; current installed is almost certainly higher (24 GWh design, 2019 target) but no later source states it. Nameplate 24 now confirmed by S1 (was CleanTechnica 2018); ref_year changed from publication-year fallback 2018 to the dated phase target 2019 (S1). capacity_by_year_json = the two stated steps (2018 in operation, 2019 target), no interpolation. CONFLICT: People's Daily client 2026-02-01 (S2) says '弗迪公司于2023年投产，当年就满产' for the Qinghai Fudi cell workshop in Nanchuan, Xining (a cell every 4 s) - this contradicts a 2018 start and may refer to a separate/new Qinghai Fudi line; status operational is supported by S2 as well. start_year (2018, v1 reported) left untouched. Other fields (chemistry, format, end_market) untouched, remain reported per T031. ESCALATE: >=10 GWh below 0.6 (dated and conflicting sources)."
+    },
+    {
+      "id": "findreams-battery-byd-byd-findreams-xi-an-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "start_year": 2019,
+        "installed_capacity_gwh": 10,
+        "installed_as_of": "2019-12-31",
+        "site_type": "single_site",
+        "source_url": "https://autonews.gasgoo.com/articles/ev/byd-scales-up-battery-production-capacity-to-support-fast-growing-nev-sales-70019325",
+        "source_date": "2026-11-20",
+        "source_published_date": "2021-12-13"
+      },
+      "evidence": {
+        "status": ["S3"],
+        "start_year": ["S3"],
+        "installed_capacity_gwh": ["S3"]
+      },
+      "confidence": 0.45,
+      "notes": "[T056] dated floor (D-025): Gasgoo 2021-12-13 states the first phase of 10 GWh (ternary lithium) of the Xi'an plant 'was put into production in 2019' (S3); installed_as_of 2019-12-31 is the end of the stated year (source gives no day). installed basis: press (Gasgoo). Status operational now confirmed (was reported tier / D-016 only); start_year corrected 2022 -> 2019 on the same quote. Gasgoo also says the second phase (reportedly blade) was still under construction as of an official reply in Nov 2020; no later page found stating its completion, so installed stays at the 10 GWh floor. Nameplate 30 (Xueqiu aggregator, weak) and ref_year 2025 left untouched; Shaanxi S&T dept page 2026-01-23 cited by v1 (full production of 30 GWh) returned HTTP 503 - not verified. Separate Xixian/Qinhan base (16 GWh) is another row. ESCALATE: >=10 GWh below 0.6."
+    },
+    {
+      "id": "guiyang-findreams-battery-findreams-guiyang-gui-an-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 15,
+        "installed_as_of": "2022-04-02",
+        "site_type": "single_site",
+        "source_url": "https://autonews.gasgoo.com/articles/ev/byd-partners-with-guiyang-government-for-new-type-battery-project-battery-assembly-lines-70020038",
+        "source_date": "2026-11-20",
+        "source_published_date": "2022-04-02"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S7"],
+        "status": ["S7"]
+      },
+      "confidence": 0.5,
+      "notes": "[T056] dated floor (D-025): Gasgoo 2022-04-02 quotes the Guiyang Fudi project manager: six battery lines, 15 GWh/yr, base already in operation (S7). installed basis: company (project manager quoted by press). Floor dated 2022-04; likely higher/lower today unknown. Nameplate 20 GWh (Xueqiu aggregator 'full output', T003) is not confirmed by any page I could fetch and is left untouched; Gasgoo 2021-12-13 (S3 page) described the Guiyang project as 10 GWh blade, so 10 -> 15 -> 20 plan figures conflict; the same S7 article announces a new-type battery project with no GWh figure (not counted). Guiyang Fudi (贵阳弗迪电池) and Gui'an (贵安新区弗迪电池) both appear in BYD's 2025 filing lists; still stored as one row. ESCALATE: 20 GWh nameplate weak; >=10 GWh below 0.6."
+    },
+    {
+      "id": "xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "start_year": 2022,
+        "installed_capacity_gwh": 30,
+        "installed_as_of": "2025-12-04",
+        "nameplate_capacity_gwh": 50,
+        "capacity_ref_year": 2025,
+        "site_type": "single_site",
+        "source_url": "https://www.yicai.com/news/102941141.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2025-12-04"
+      },
+      "evidence": {
+        "status": ["S4", "S5"],
+        "start_year": ["S5"],
+        "installed_capacity_gwh": ["S4", "S5"],
+        "nameplate_capacity_gwh": ["S4"]
+      },
+      "confidence": 0.65,
+      "notes": "[T056] Yicai 2025-12-04 (S4): 一期建成30GWh动力电池及零部件项目, whole park planned at 50 GWh, output value expected RMB16bn in 2025; products supply Dongfeng/BYD plants and exports. CnEVPost 2022-12-20 citing Hubei Daily (S5): first line (1.9 GWh) started 2022-12-15, all 16 lines due May 2023, site 30 GWh (cell lines). installed 30 GWh as of publication date 2025-12-04; installed basis: press (Yicai, 'built' capacity; the Yicai phrase bundles cells with parts, the 30 GWh matches the cell-line figure in S5). Nameplate raised 30 -> 50 (D-014: stated site plan 50 GWh 动储电池; remaining 20 GWh undated; ref_year: fallback, searched = publication year 2025). Earlier row said 'status unconfirmed, 30 GWh stale' - now confirmed operational. Other fields untouched."
+    },
+    {
+      "id": "nanning-findreams-battery-findreams-nanning-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "installed_capacity_gwh": 10,
+        "installed_as_of": "2024-09-12",
+        "nameplate_capacity_gwh": 10,
+        "capacity_ref_year": 2024,
+        "site_type": "single_site",
+        "source_url": "https://www.energytrend.com/print/48392",
+        "source_date": "2026-11-20",
+        "source_published_date": "2024-09-12"
+      },
+      "evidence": {
+        "status": ["S6"],
+        "installed_capacity_gwh": ["S6"],
+        "nameplate_capacity_gwh": ["S6"]
+      },
+      "confidence": 0.4,
+      "notes": "[T056] EnergyTrend 2024-09-12 (S6) lists three Nanning BYD battery projects totalling 70 GWh: Yongning Industrial Park 10 GWh power-battery expansion ('fully operational'), East New City Lingli 45 GWh and ASEAN zone (Wuming) 10+5 GWh (both 'partially operational'). I map this row (南宁弗迪电池有限公司) to the Yongning 10 GWh expansion; the mapping is an inference from the entity names (Guangxi Fudi = Lingli 45 GWh per S8/filing, Guangxi-ASEAN Fudi = Wuming) and is not stated by the source, hence confidence 0.4. installed basis: press (EnergyTrend, no company/government text seen). The 10 GWh is both installed and full plan (nameplate); ref_year: fallback, searched = 2024 publication year. A 2022 snippet mentioning a 'Nanning Yongzhou' expansion with a 1 GWh figure (10亿瓦时?) could not be opened; unit conflict unresolved. If the mapping is wrong the 10 GWh still belongs to a real BYD Nanning site that has no other row."
+    },
+    {
+      "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "start_year": 2023,
+        "nameplate_capacity_gwh": 45,
+        "capacity_ref_year": 2024,
+        "site_type": "single_site",
+        "source_url": "https://www.energytrend.com/print/48392",
+        "source_date": "2026-11-20",
+        "source_published_date": "2024-09-12"
+      },
+      "evidence": {
+        "status": ["S6", "S9"],
+        "start_year": ["S9"],
+        "nameplate_capacity_gwh": ["S8", "S6"]
+      },
+      "confidence": 0.5,
+      "notes": "[T056] Guangxi Fudi (Nanning, Lingli Industrial Park; BYD's 2025 filing lists 广西弗迪电池有限公司 under Nanning): project '广西弗迪年产45GWh动力电池及储能系统项目', RMB14bn (S8, 2022-04-13); production started 2023-05 ('项目于2023年5月投产', S9, 2025-02-19); EnergyTrend 2024-09-12 calls the 45 GWh Lingli project 'partially operational' (S6). Installed not quantified: no source states how many GWh are producing -> installed null (do not assume). Nameplate 45 GWh (S8 plan, repeated in S6; full plan, ref_year: fallback, searched = 2024 publication of S6; S8 says full capacity within ~3 years of start, not a dated phase). Row bundles power-battery cells and ESS systems per S8 title; 45 GWh is quoted as battery capacity - treat with care. Also S9: a 2025-02-18 '三模块' project adds ~7 GWh (module-type, not clearly cells; not counted). Companion rows: Nanning (10 GWh Yongning) and Guangxi-ASEAN (15 GWh)."
+    },
+    {
+      "id": "guangxi-asean-findreams-battery-findreams-guangxi-asean-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "nameplate_capacity_gwh": 15,
+        "capacity_ref_year": 2024,
+        "site_type": "single_site",
+        "source_url": "https://www.energytrend.com/print/48392",
+        "source_date": "2026-11-20",
+        "source_published_date": "2024-09-12"
+      },
+      "evidence": {
+        "status": ["S6"],
+        "nameplate_capacity_gwh": ["S12", "S6"]
+      },
+      "confidence": 0.4,
+      "notes": "[T056] Cailian 2022-09-13 (S12): 10 GWh hybrid-vehicle battery + 5 GWh new-type battery = 15 GWh planned, construction from 2022-09-09. EnergyTrend 2024-09-12 (S6) lists the ASEAN-zone (Wuming) 10+5 GWh projects among the three Nanning projects (70 GWh in total) and says the 45 GWh and ASEAN projects are 'partially operational' - quote fragment in S6 is the page's sentence for the two non-expansion projects; the page text naming Wuming/ASEAN was summarised by the fetch tool, not copied verbatim, hence confidence 0.4. Status operational (partial) from S6; installed not quantified -> null. ref_year changed 2022 -> 2024 (publication year of latest source stating the plan; ref_year: fallback, searched)."
+    },
+    {
+      "id": "byd-findreams-battery-wuwei-findreams-battery-plant-byd-new-energy-power-battery-yangtze-river-delta-manufacturing-center-china",
+      "action": "update",
+      "fields": {
+        "nameplate_capacity_gwh": 25,
+        "capacity_ref_year": 2025,
+        "site_type": "single_site",
+        "source_url": "https://finance.sina.com.cn/roll/2025-08-06/doc-infiztfs8370820.shtml",
+        "source_date": "2026-11-20",
+        "source_published_date": "2025-08-06"
+      },
+      "evidence": {
+        "nameplate_capacity_gwh": ["S10"]
+      },
+      "confidence": 0.4,
+      "notes": "[T056] Sina Finance / 电池工业网 2025-08-06 (S10): 'BYD New Energy Power Battery Yangtze River Delta Manufacturing Center' is advancing in phases: 一期 RMB2.8bn, 年产刀片电池10GWh; 二期 规划产能15GWh; 三期 (EIA pre-approval notice Aug 2025) RMB2.4bn makes battery packs 184,800/yr, steel/aluminium trays and cooling plates - no GWh, pack/parts, excluded (D-026). Nameplate set 25 GWh = 10 + 15 (D-014, planned phases stated for this site; phase dates not stated, ref_year: fallback, searched = 2025). The page does not state that phases 1-2 are in production or give an acceptance date (v1 timeline claims phase 1 online Jan 2022 / phase 2 accepted May 2023 from the same URL, which I could not confirm), so installed stays null and status stays at the D-016 entity-list level (<=0.4). The 无为弗迪 entity carries RMB-bn bank guarantees dated 2023-12 to 2025-03 in BYD's 2025 report (company is a going concern). start_year 2024 (v1 reported) untouched/unconfirmed. Same page (S10) also says: 截至目前，比亚迪已通过弗迪电池在国内布局了12大电池基地，合计规划产能超500GWh (planned, not installed; network total, not used for any row)."
+    },
+    {
+      "id": "byd-findreams-battery-zhengzhou-fudi-battery-co-ltd-byd-findreams-fudi-zhengzhou-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S11"]
+      },
+      "confidence": 0.45,
+      "notes": "[T056] People's Daily client 2025-11-10 (S11): BYD's Zhengzhou airport-zone park has produced since 2023 and '每3秒，会有一支动力电池电芯诞生' - cell production confirmed for the park (the only BYD cell maker there is Zhengzhou Fudi; the page does not name the entity, so the attribution is inferred). Status operational upgraded from reported to confirmed-with-inference. No installed GWh found: the Reuters/mining.com report of the 40 GWh EIA (2023-02) returned HTTP 403; the 40 GWh nameplate and ref_year 2023 remain v1-reported (T031). The park's 2023 output was 7 GWh (battery + ESS, v1 timeline, a production figure not capacity). EnergyTrend 2025-09-01 (cited in v1) reports a further RMB5bn expansion EIA with no GWh. Confidence capped 0.5 (nameplate reported). ESCALATE: 40 GWh >=10 GWh below 0.6."
+    },
+    {
+      "action": "add",
+      "id": "shanwei-findreams-battery-shanwei-fudi-haifeng-meilong-battery-plant-china",
+      "fields": {
+        "plant_name": "Shanwei FinDreams (汕尾弗迪) Haifeng Meilong battery plant (Shenshan cooperation zone)",
+        "operator": "Shanwei FinDreams Battery Co., Ltd. (汕尾弗迪电池有限公司)",
+        "parent_company": "BYD Co., Ltd.",
+        "country": "China",
+        "region": "China",
+        "latitude": null,
+        "longitude": null,
+        "status": "announced",
+        "announced_year": 2025,
+        "start_year": null,
+        "nameplate_capacity_gwh": 15,
+        "capacity_ref_year": 2025,
+        "chemistry": "LFP",
+        "cell_format": null,
+        "end_market": null,
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://mcn.solarbe.com/news/20250819/50006385.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2025-08-19"
+      },
+      "evidence": {
+        "status": ["S13"],
+        "nameplate_capacity_gwh": ["S13", "S14"]
+      },
+      "confidence": 0.6,
+      "notes": "[T056] New plant, not in DB or removed.csv (checked 汕尾/Shanwei/Haifeng/深汕). Haifeng County government published the pre-approval EIA notice for the 'Shenshan cooperation expansion zone BYD project' on 2025-08-07 (comment period 8-13 Aug); builder 汕尾弗迪电池有限公司 (ex 汕尾众迪锂电池, founded 2019-06, moved from Lufeng to Haifeng 2024-12, wholly owned by BYD Energy Storage), site in Meilong town, Haifeng (S13); capacity 15 GWh/yr = 50.88 million cells/yr (S14, China Energy News 2025-08-25). Status announced: approval pending and construction 'about to start' per S13, no groundbreaking evidence (D-020). Nameplate 15 GWh, no phase structure; ref_year: fallback, searched = 2025 publication year. Chemistry LFP per S13 only. NOT counted: the existing Shenshan complex phases 3 and 4 (RMB6.5bn, PACK and blade-battery assembly lines) which S13 says started production in H1 2025 - pack/assembly, no GWh cell figure. Coordinates not located (Meilong town named only). Freshness: latest news Aug 2025; later progress not found."
+    }
+  ]
+}

@@ -1748,15 +1748,15 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "merged",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
       "audit": {
-        "verdict": null,
-        "by": null,
-        "notes": null
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "5 installed fills (Xiangyang 30, Guiyang 15, Xining 10, Xi'an 10, Nanning 10), 1 add (Shanwei 15 announced); quotes 12/13 + S5 manually confirmed"
       }
     },
     {
