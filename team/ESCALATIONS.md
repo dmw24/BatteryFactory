@@ -9,3 +9,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T002 non-blocking: CATL Xiamen phase 1/2 and Xining capacity unconfirmed in open sources (null, conf 0.4). HKEX 2025 prospectus text might settle it.
 - [ ] T005 non-blocking: Gotion stale/conflicting large plants kept below 0.6 by rule D-015 (Slovakia 8.4 vs 20, Morocco ph1 20 vs 10, Tongcheng/Liuzhou/Tangshan stale installed). Need fresher open sources; G4 will list them.
 - [ ] T007/T009 cross-task duplicate: lanjun-new-energy-lanjun-new-energy-jiashan-base-china (T009) and rept-battero-rept-battero-jiaxing-plant-china (T007, renamed Jiashan) are the same site (16+16+45). Resolve in T007 rework: remove T007 row as duplicate_of the Lanjun id.
+- [ ] T030 (lead): v1 researcher-supplied coordinates (geo_precision=site_unflagged, 33 rows) are unvalidated — Great Power Guangde carries the Shenzhen centroid. Distance-check each against its named city; null outliers.
