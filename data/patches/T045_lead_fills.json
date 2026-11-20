@@ -48,6 +48,27 @@
    "id": "hefei-high-tech-zone-operator-not-named-hefei-advanced-optical-storage-industry-base-china",
    "action": "remove",
    "reason": "not_a_plant: industrial-park plan with no named operator (T040 escalation); cannot be one physical cell site under CLAUDE.md scope"
+  },
+  {
+   "id": "ampace-xiamen-ampace-xiamen-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.45,
+    "reported_fields": "[\"nameplate_capacity_gwh\"]"
+   },
+   "reported_evidence": {
+    "nameplate_capacity_gwh": "https://en.wikipedia.org/wiki/Ampace"
+   },
+   "notes": "lead: 32 GWh site total rests on Wikipedia only (pointer, not a source) → reported tier; phase II 18 GWh is confirmed (EnergyTrend Dec 2025)."
+  },
+  {
+   "id": "yunshi-weilan-jiangning-solid-state-lithium-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "nameplate_capacity_gwh": null,
+    "capacity_ref_year": null
+   },
+   "notes": "lead (T038): 15 GWh covers cells + packs + equipment; cell share unstated → nameplate nulled, figure in notes only (D-015)."
   }
  ]
 }
