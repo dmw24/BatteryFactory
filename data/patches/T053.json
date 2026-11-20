@@ -1,0 +1,56 @@
+{
+  "task": "T053",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://www.energytrend.com/print/49362",
+      "publisher": "EnergyTrend (TrendForce), Tianpeng Power Malaysia plant news (URL slug dated 2025-05-06)",
+      "published": "2025-05-06",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "Tianpeng Power's first officially operational overseas factory ... Located in the Bandar Indah Industrial Park in Selangor, Malaysia ... Upon commencement of production, the project will establish an annual production capacity of 10GWh for 21/46/50 series lithium batteries."
+    },
+    "S2": {
+      "url": "https://news.metal.com/newscontent/104048730-lithium-battery-tianpeng-powers-malaysia-all-tab-production-line-commences-operation",
+      "publisher": "Shanghai Metals Market (SMM)",
+      "published": "2026-08-07",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "the two new all-tab production lines at Tianpeng Power's Malaysia facility have both achieved mass production"
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "tianpeng-power-supply-tenpower-malaysia-bandar-indah-cell-plant-malaysia",
+      "fields": {
+        "plant_name": "Tenpower (Tianpeng Power) Malaysia Cylindrical Cell Plant (Bandar Indah, Banting, Selangor)",
+        "operator": "Tenpower / Jiangsu Tianpeng Power Supply Co., Ltd. (Malaysia plant)",
+        "parent_company": "Jiangsu Azure Corporation (蔚蓝锂芯)",
+        "country": "Malaysia",
+        "region": "Southeast Asia",
+        "latitude": null,
+        "longitude": null,
+        "status": "operational",
+        "start_year": 2025,
+        "nameplate_capacity_gwh": 10,
+        "capacity_ref_year": 2025,
+        "chemistry": "mixed",
+        "cell_format": "cylindrical",
+        "end_market": "mixed",
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://www.energytrend.com/print/49362",
+        "source_date": "2026-11-20",
+        "source_published_date": "2025-05-06"
+      },
+      "evidence": {
+        "status": ["S1", "S2"],
+        "start_year": ["S1"],
+        "nameplate_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.65,
+      "notes": "New plant, not in v1 DB or data/removed.csv (checked: Tianpeng row in DB is the Zhangjiagang China plant only). Operational: EnergyTrend 2025-05-06 calls it Tianpeng's first officially operational overseas factory (S1); SMM 2026-08-07 reports two new all-tab (tabless) lines at the Malaysia facility reached mass production, ~500,000 cells/day, 18650/21700 (S2). Nameplate 10 GWh/yr = full project plan of 21/46/50-series cylindrical cells stated in S1 (same 10 GWh/USD 280m figure appears in older Azure/Tenpower plan coverage; EnergyTrend /print/30065, plan date unclear). Phase breakdown: first phase ~400 million cells/yr per S1 (cell count; no GWh conversion given, so installed_capacity_gwh left null); remainder to 10 GWh undated. ref_year: fallback, searched (publication year of S1; no dated phase). MIDA/The Star 2024-06-04 report a topping-out ceremony at Banting, Selangor (Tenpower, China-owned; no capacity). Chemistry NMC+LFP and 400M+ cells/yr per a sponsored EVReporter piece dated 2025-05-27 (sponsored by Tenpower; not used as evidence). End market mixed: power tools, e-bikes, AI-data-centre BBU per SMM; not an EV-only plant. Coordinates not located (Bandar Indah Industrial Park, Banting named only). Installed basis: none sourced. Freshness: latest news 2026-08."
+    }
+  ]
+}

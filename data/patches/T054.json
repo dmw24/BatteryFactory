@@ -1,0 +1,45 @@
+{
+  "task": "T054",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "H1": {"url": "https://stock.10jqka.com.cn/20260809/c678792636.shtml", "publisher": "10jqka (Tonghuashun) news, 海辰储能菏泽基地正式量产", "published": "2026-08-09", "accessed": "2026-11-20", "language": "zh",
+           "quote": "目前产业园一、二期已全面投入运营"},
+    "H2": {"url": "https://paper.people.com.cn/zgnyb/pc/content/202608/17/content_30175931.html", "publisher": "China Energy News (中国能源报, People's Daily Online e-paper)", "published": "2026-08-17", "accessed": "2026-11-20", "language": "zh",
+           "quote": "具备年产30吉瓦时长时储能电芯与20吉瓦时长时储能系统集成的产能规模"},
+    "H3": {"url": "https://www.stdaily.com/web/gdxw/2026-08/07/content_561044.html", "publisher": "Science and Technology Daily (科技日报)", "published": "2026-08-07", "accessed": "2026-11-20", "language": "zh",
+           "quote": "8月7日，海辰储能菏泽基地量产下线。"},
+    "X1": {"url": "https://www.news.cn/local/20260814/8fec4087eaaa465eaae7ae9fcf5d29b7/c.html", "publisher": "Xinhua News Agency (local, Jinan dateline)", "published": "2026-08-14", "accessed": "2026-11-20", "language": "zh",
+           "quote": "拥有枣庄单体投资最大的锂电项目：一期已形成16吉瓦时产能，二期50吉瓦时产能加快建设，将成为欣旺达在全国布局最大的生产基地。"},
+    "X2": {"url": "https://www.news.cn/local/20260814/8fec4087eaaa465eaae7ae9fcf5d29b7/c.html", "publisher": "Xinhua News Agency (local, Jinan dateline)", "published": "2026-08-14", "accessed": "2026-11-20", "language": "zh",
+           "quote": "位于枣庄高新区的山东欣旺达新能源有限公司智能化车间内，自动化产线全速运转，一批批动力电池电芯正依次下线。"},
+    "N1": {"url": "https://tech.sina.com.cn/roll/2020-07-10/doc-iirczymm1616591.shtml", "publisher": "Sina Tech (republishing 电车汇)", "published": "2020-07-10", "accessed": "2026-11-20", "language": "zh",
+           "quote": "7月10日上午，欣旺达南京新能源项目一期工厂量产交付仪式在溧水举行。...现已建成两条HEV线和一条BEV线...具备年产4 Gwh动力电池量产能力"},
+    "Z1": {"url": "https://autonews.gasgoo.com/articles/ev/catl-starts-production-at-phase-i-of-zhaoqing-battery-base-70020474", "publisher": "Gasgoo Automotive News", "published": "2022-05-31", "accessed": "2026-11-20", "language": "en",
+           "quote": "CATL starts production at Phase I of Zhaoqing battery base ... with an annual capacity of 25 GWh in Zhaoqing"}
+  },
+  "rows": [
+    {"id": "hithium-hithium-heze-plant-china", "action": "update",
+     "fields": {"installed_capacity_gwh": 30, "installed_as_of": "2026-08-09", "site_type": "single_site"},
+     "evidence": {"installed_capacity_gwh": ["H1", "H2"], "status": ["H3", "H1"]},
+     "notes": "T054: installed 30 GWh/yr cells as of 2026-08-09 (installed basis: press). 10jqka 2026-08-09 says park phases 1 and 2 are 'fully in operation'; China Energy News 2026-08-17 says the base 'has' the capacity scale of 30 GWh cells + 20 GWh systems (only the 30 GWh cell figure used). Caveat: 10jqka and Sci-Tech Daily phrase the 30 GWh as 'after reaching full production (达产后)', and mass-production roll-off was only 2026-08-07, so 30 is commissioned design capacity, not demonstrated output; no per-phase GWh published (single lines >15 GWh). Nameplate unchanged (30)."},
+
+    {"id": "sunwoda-evb-sunwoda-electronic-sunwoda-zaozhuang-plant-china", "action": "update",
+     "fields": {"installed_capacity_gwh": 16, "installed_as_of": "2026-08-14",
+                "nameplate_capacity_gwh": 66, "capacity_ref_year": 2026,
+                "source_url": "https://www.news.cn/local/20260814/8fec4087eaaa465eaae7ae9fcf5d29b7/c.html", "source_date": "2026-11-20", "source_published_date": "2026-08-14",
+                "site_type": "single_site"},
+     "evidence": {"installed_capacity_gwh": ["X1"], "nameplate_capacity_gwh": ["X1"], "status": ["X2"]},
+     "confidence": 0.65,
+     "notes": "T054: Xinhua 2026-08-14 (state press, installed basis: government/press): Sunwoda New Energy (山东欣旺达新能源有限公司, Zaozhuang High-tech Zone) 'phase 1 has formed 16 GWh capacity, phase 2 of 50 GWh is under accelerated construction' and cells are rolling off the lines (X2). Installed = 16 GWh at 2026-08-14. Nameplate raised from the 2021-23 figure of 30 GWh to 16 + 50 = 66 GWh (later source wins, D-014/D-017; phase 2 'under construction' = 加快建设; phase 2 has no due date, so ref_year 2026 is a publication-year fallback: 'ref_year: fallback, searched'). CONFLICT/UNRESOLVED: the earlier 30 GWh (20 lines, RMB20bn) came from an undated Dazhong Daily page and the 2021 agreement; Xinhua does not say whether the 30 GWh was re-scoped into 16 + 50. Also unclear whether the Geely-Sunwoda hybrid-cell project (RMB5bn, 800k sets, separate entity 山东吉利欣旺达) is inside the 16 GWh; a May-2026 EIA for 'Xinbang New Energy (Shandong)' ultra-fast-charge project (~52 GWh plant-wide, search snippet only) may be the phase 2. Lead should decide whether to keep 66. jv_partners left null."},
+
+    {"id": "sunwoda-sunwoda-nanjing-power-battery-base-lishui-china", "action": "update",
+     "fields": {"installed_capacity_gwh": 4, "installed_as_of": "2020-07-10", "capacity_by_year_json": {"2020": 4}, "site_type": "single_site"},
+     "evidence": {"installed_capacity_gwh": ["N1"], "capacity_by_year_json": ["N1"]},
+     "notes": "T054: DATED FLOOR (D-025). At the 2020-07-10 phase-1 mass-production handover the project owner stated two HEV lines + one BEV line built, 'capable of 4 GWh/yr' (installed basis: company via press, republished by Sina Tech). The same page also states the phase-1 construction scope as ~8 GWh cells, so 4 GWh is the lines then built, not the phase-1 plan. Phase 2 was partly delivered by Aug 2023 (see earlier note) but no GWh was found, so the true current installed is higher than 4 GWh; this is a 6-year-old floor, entered with its true installed_as_of. Nameplate (30) and confidence unchanged."},
+
+    {"id": "catl-catl-zhaoqing-plant-china", "action": "update",
+     "fields": {"installed_capacity_gwh": 25, "installed_as_of": "2022-05-30", "site_type": "single_site"},
+     "evidence": {"installed_capacity_gwh": ["Z1"]},
+     "notes": "T054: DATED FLOOR (D-025). Phase I ('factory one') entered production 2022-05-30 (Gasgoo 2022-05-31; CATL's own news page confirms the ceremony and 14-month build but gives no GWh). Gasgoo ties the Phase I base to 'an annual capacity of 25 GWh' (installed basis: press; the 25 GWh is the Feb-2021 Phase I design figure, not a stated measured installed figure, and 'factory one' may be only part of Phase I). CATL's Mar-2026 fundraising notice (via press, see earlier note) says stage 1 built/in production and stage 2 partly built, so 25 GWh is retained as a floor dated to commissioning. CAUTION: row confidence left at its prior 0.6 (not raised); the installed figure is a design-capacity paraphrase and the lead may prefer to lower it to <=0.5 and drop the installed value if design != installed is judged disqualifying."}
+  ]
+}
