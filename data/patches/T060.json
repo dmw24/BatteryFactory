@@ -1,0 +1,142 @@
+{
+  "task": "T060",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://www.energytrend.cn/news/20190430-68244.html",
+      "publisher": "EnergyTrend (TrendForce China), Lishen Qingdao phase 1 production start",
+      "published": "2019-04-30",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "一期项目总投资15.7亿元人民币，设计年产能4 GWh ... 总体规划年产能10GWh。"
+    },
+    "S2": {
+      "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf",
+      "publisher": "SVOLT Energy Technology STAR Market IPO inquiry-reply prospectus (SSE, 2023-06-30), product mix",
+      "published": "2023-06-30",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "设备用电芯主要为发行人马鞍山子公司生产的 21700 三元圆柱电芯"
+    },
+    "S3": {
+      "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf",
+      "publisher": "SVOLT Energy Technology STAR Market IPO inquiry-reply prospectus (SSE, 2023-06-30), base status at end of reporting period",
+      "published": "2023-06-30",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "截至报告期末，公司南京、马鞍山、 ... 盐城、上饶的生产基地均在建设中，并已有部分产线投入试运行"
+    },
+    "S4": {
+      "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf",
+      "publisher": "SVOLT Energy Technology STAR Market IPO inquiry-reply prospectus (SSE, 2023-06-30), related-party sales",
+      "published": "2023-06-30",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "2021 年及 2022 年，发行人主要向苏州新式力销售发行人马鞍山子公司生 ... 产的 21700 圆柱产品，各期占比均超过 99%"
+    },
+    "S5": {
+      "url": "https://autonews.gasgoo.com/articles/ev/calb-vigorously-expanding-battery-production-capacity-to-hit-500gwh-target-for-2025-70019529",
+      "publisher": "Gasgoo Auto News, CALB expanding capacity to hit 500GWh target for 2025",
+      "published": "2022-01-11",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "plans six phases of manufacturing projects, aiming to form a total capacity of 70GWh per year"
+    },
+    "S6": {
+      "url": "https://news.metal.com/newscontent/103387719/CALBs-New-Battery-Project-Commences-in-Changzhou-Base",
+      "publisher": "SMM (Shanghai Metals Market) news, CALB's New Battery Project Commences in Changzhou Base",
+      "published": "2025-06-20",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "The Changzhou base project has already completed three phases of construction ... It is planned to have a designed capacity of 25 GWh ... is expected to commence production within 2026"
+    },
+    "S7": {
+      "url": "https://www.electrive.com/2023/02/14/byd-to-build-new-factory-in-china/",
+      "publisher": "electrive.com, BYD to build new factory in China (citing the plant's environmental audit report)",
+      "published": "2023-02-14",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "However, the 40 GWh production capacity refers to the final expansion stage."
+    },
+    "S8": {
+      "url": "https://www.peopleapp.com/column/30050686940-500007186067",
+      "publisher": "People's Daily client (人民日报客户端), 豫见·郑州 解码“郑州造”新能源汽车如何走向世界",
+      "published": "2025-11-10",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "自2023年投产以来，这里已累计生产整车超100万辆，贡献产值突破1700亿元。 ... 每3秒，会有一支动力电池电芯诞生。"
+    }
+  },
+  "rows": [
+    {
+      "id": "lishen-qingdao-new-energy-co-ltd-now-china-auto-new-energy-qingdao-battery-technology-co-ltd-lishen-qingdao-plant-lishen-qingdao-new-energy-renamed-china-auto-new-energy-qingdao-battery-technology-july-2025-china",
+      "action": "update",
+      "fields": {
+        "nameplate_capacity_gwh": 10,
+        "capacity_ref_year": 2019,
+        "source_url": "https://www.energytrend.cn/news/20190430-68244.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2019-04-30",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "nameplate_capacity_gwh": ["S1"],
+        "capacity_ref_year": ["S1"]
+      },
+      "confidence": 0.45,
+      "notes": "[T060] nameplate 40 -> 10 GWh/yr; ref_year 2023 -> 2019. Basis: the only phased site plan with a GWh figure is EnergyTrend 2019-04-30 (S1): phase 1 design 4 GWh, whole base 'planned annual capacity 10GWh' (phase 2 brings the total to 10 GWh, phase 2 undated). ref_year: fallback, searched (2019 = publication year of the plan; phase 2 undated). The prior 40 GWh came from Solarbe 2023-10-17 (https://cn.solarbe.com/news/20231017/81238.html, fetched): '目前具备40GWh的年生产能力' - an undated-phase, compiled (碳索储能网整理) statement. CHECKED the suspected unit slip: the page writes GWh, not 亿瓦时, so it is NOT a 4 GWh (40亿瓦时) misread; the page does not name Xinhua. The 40 GWh claim ('currently has') is contradicted by Tianjin Lishen's own site as quoted by Jiemian 2024-09-27 (https://www.jiemian.com/article/11775781.html, fetched): '其动力和储能板块现有8 GWh的产能，规划电池产能为110 GWh。其中天津、山东青岛的产能已建成投产' - 8 GWh existing for Tianjin AND Qingdao combined, so 40 GWh at Qingdao alone is ~5x implausible; later company figure wins (CONVENTIONS) and 40 is not carried. The v1 timeline claim that a 2025 plan lists Qingdao at 10 GWh was NOT confirmed: the Qingdao News 2025-07-18 page (fetched) has the rename/ownership text but no capacity. No phase-2 commissioning found between 2019 and 2024; installed 4 GWh (2019-04-29, T057 dated floor) left unchanged. Remaining uncertainty: 10 GWh is a 2019 plan; phase 2 may not be built; a 40 GWh press figure and 8 GWh combined company figure disagree >15% unresolved -> confidence 0.45 (<=0.5, D-015). ESCALATE: >=10 GWh below 0.6; needs a company/EIA source for phase 2 (Lishen Qingdao is unlisted; no open filing found). Fields not touched: chemistry/end_market/start_year (reported, T031)."
+    },
+    {
+      "id": "svolt-svolt-energy-technology-svolt-ma-anshan-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "cell_format": "cylindrical",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "cell_format": ["S2", "S4"],
+        "status": ["S3", "S4"]
+      },
+      "confidence": 0.4,
+      "notes": "[T060] cell_format prismatic (v1, reported, unconfirmed) -> cylindrical. SVOLT's June-2023 prospectus (S2, S4; local copy team/evidence/filings/SVOLT_prospectus_202306.txt) says the cells made by the Ma'anshan subsidiary are 21700 ternary cylindrical cells (small-ESS and mobile-ESS customers), sold in 2021-2022 (>99% of the Suzhou Xinshili cylindrical purchases; 2022 volume only ~13 MWh in that related-party table, a sales figure not capacity). Elsewhere the same filing says all mass-production lines except Ma'anshan and Shangrao use high-speed stacking, so Ma'anshan is not a stacked (prismatic) line. Cylindrical is the ONLY format evidenced at this site; whether the planned 28 GWh build-out is cylindrical, prismatic or mixed is undisclosed. The suspicion that Ma'anshan is only ~1 GWh of 21700 lines (combined with Shangrao) was NOT confirmed: neither SVOLT prospectus (2022-11, 2023-06) gives a site GWh figure for Ma'anshan (only: Nanjing+Ma'anshan+Yancheng+Shangrao together forecast ~14/32/43 GWh for 2023/2024/2025, S3, all 'under construction with some lines in trial run' at the end of 2022). Status operational kept: commercial 21700 cell sales in 2021-2022 (S4) and phase 1 'completed and in production' / phase 2 'under construction' at 2022-12-31 per the prospectus project table (T008). nameplate 28 GWh (2021 project plan, CNY 11bn cell+PACK base; T008) left UNCHANGED: still the only site-specific plan, but it bundles cells and PACK and is 3+ years old; the 2023 four-base forecast (43 GWh by 2025 for four bases whose individual plans sum to far more) suggests the Ma'anshan build-out was scaled back, though no site figure supersedes it (D-017 not met). installed null (no sourced figure). No 2024+ page on this base found (searches repeated the 2021 signing). Confidence lowered 0.5 -> 0.4. ESCALATE: 28 GWh at 0.4 for a >=10 GWh plant; needs a 2024+ company or Ma'anshan-government source."
+    },
+    {
+      "id": "calb-calb-changzhou-jintan-battery-base-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "nameplate_capacity_gwh": 70,
+        "capacity_ref_year": 2026,
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S6"],
+        "nameplate_capacity_gwh": ["S5", "S6"],
+        "capacity_ref_year": ["S6"]
+      },
+      "confidence": 0.5,
+      "notes": "[T060] nameplate 70 kept but now confirmed as a sourced plan (was reported v1): Gasgoo 2022-01-11 (S5): in Jintan CALB 'plans six phases of manufacturing projects, aiming to form a total capacity of 70GWh per year' (the page also says phase 4 agreement = 25 GWh and phase 3 topped out). ref_year 2025 (v1 Changzhou-government 'by 2025', an unmet target) -> 2026: ref_year: latest dated phase; remainder undated. The only dated milestone is SMM 2025-06-20 (S6): three phases completed, new project designed 25 GWh, 'expected to commence production within 2026' - this is start of production, not 达产, so 2026 is a lower bound; phases 5-6 of the six-phase plan are undated. Phase breakdown: phases 1-3 built (S6; no per-phase GWh obtained; the 40 GWh three-phase total in v1 is NOT supported by any page I could open; Sina 2025-06-19 returned HTTP 503 here); phase 4 = 25 GWh (S5 signing 2021/22; S6 2025) or 30 GWh/RMB12bn tender 2025-11 (T004 S8, not re-opened) - possibly the same project, conflict unresolved; phases 5-6 not stated. 70 = 'full six-phase plan', and 40 (built) + 25-30 (phase 4) ~ 65-70 is arithmetically consistent but that is inference, not stated. Status operational (S6: three phases completed; CALB's HQ production base) - 'completed construction' is the wording, not 'in production'; the AR 2025 text in team/evidence/filings gives no site data. installed_capacity_gwh left null (no sourced figure). The jintan.gov.cn page cited in v1 timeline could not be fetched (host not allowed in this session: ENOTFOUND). Chemistry 'solid-state' (v1 reported) looks WRONG for a 40-70 GWh base (CALB's volume products are LFP/NMC; a separate 0.2 GWh solid-state pilot project in Jintan appeared in a Changzhou-government EIA page) - not changed here, flagged for the lead. Confidence 0.5. ESCALATE: >=10 GWh at 0.5; needs a CALB filing or Jintan government phase table with installed GWh."
+    },
+    {
+      "id": "byd-findreams-battery-zhengzhou-fudi-battery-co-ltd-byd-findreams-fudi-zhengzhou-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "operational",
+        "nameplate_capacity_gwh": 40,
+        "capacity_ref_year": 2023,
+        "source_url": "https://www.electrive.com/2023/02/14/byd-to-build-new-factory-in-china/",
+        "source_date": "2026-11-20",
+        "source_published_date": "2023-02-14",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S8"],
+        "nameplate_capacity_gwh": ["S7"],
+        "capacity_ref_year": ["S7"]
+      },
+      "confidence": 0.55,
+      "notes": "[T060] nameplate 40 GWh/yr upgraded from reported (v1) to confirmed: electrive.com 2023-02-14 (S7, English, open page) reports from the plant's environmental audit report that the 40 GWh capacity 'refers to the final expansion stage' of the FinDreams facility in Zhengzhou (115 ha site); no production start given. The article gives no phase dates, so ref_year 2023: fallback, searched (publication year of the source stating the full plan). Status operational: People's Daily client 2025-11-10 (S8) says the Zhengzhou airport-zone park has produced since 2023 and makes a power-battery cell every 3 s; the page does not name the cell entity (inference that it is Zhengzhou Fudi, the only BYD cell maker there; T056). A further RMB5bn Zhengzhou power-battery expansion (EIA acceptance disclosed 2025-08-25, EnergyTrend 2025-09-01, per T056) has no stated GWh, so it is excluded from nameplate (D-015) - nameplate may understate. No installed GWh found (Reuters/mining.com EIA story returned 403 earlier; BYD AR 2025 gives no site capacity; 2023 output 7 GWh in the v1 timeline is production, not capacity). start_year 2024 (v1, reported) is inconsistent with 'production since 2023 / April 2023' in the v1 timeline and S8 - not changed, flagged. Confidence 0.55: one reputable source for the 40 GWh plan (itself relayed from an EIA document, 3+ years old), status inferred. ESCALATE: >=10 GWh below 0.6; needs a BYD or Zhengzhou government source for installed GWh."
+    }
+  ]
+}

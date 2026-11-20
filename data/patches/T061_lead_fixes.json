@@ -1,0 +1,15 @@
+{
+ "task": "T061",
+ "verified_on": "2026-11-20",
+ "sources": {},
+ "rows": [
+  {
+   "id": "calb-calb-changzhou-jintan-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "chemistry": null
+   },
+   "notes": "lead fix: v1 reported chemistry 'solid-state' nulled — T060 found it refers to a separate ~0.2 GWh solid-state pilot (Changzhou EIA page), not the 70 GWh base; base chemistry unconfirmed"
+  }
+ ]
+}
