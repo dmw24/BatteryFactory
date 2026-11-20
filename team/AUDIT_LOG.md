@@ -84,3 +84,6 @@ T018 – waived (sampled out); quotes 24/30; India v1 city coords found wrong on
 VERDICT fail · diligence. 20/20 quotes. Blocking: installed=0 instead of null on closed rows (D-018); Eos Turtle Creek still active/2 GWh though Line 1 dismantled; 2 unchecked v1 fields. Spec gap: long-duration non-Li 'GWh' (Form iron-air 500 MW x 100 h) not comparable → D-019.
 T016 – lead verification → merged (no installed=0 left; Eos paused; Form via D-019).
 T019 – waived (sampled out); APB chemistry vocab fix before merge.
+
+## T021 (China tail 1) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 15/15 quotes. Blocking: Zhongna storage line counted as cells; Camel Xiangyang operational on low-voltage lines while AR shows 2 GWh storage-cell phase at 54.76%; Chuanhong parked at 0.6. Integration note: build_timeseries online_year falls back to capacity_ref_year for operational rows without start_year (T030).
