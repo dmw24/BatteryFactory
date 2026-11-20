@@ -64,8 +64,24 @@ def fetch(code):
     print(f"OK {code} {name} {a['announcementTitle']} -> {txt} ({sum(1 for _ in open(txt))} lines)")
 
 
+def fetch_url(url, name):
+    """Fetch an arbitrary filing PDF (e.g. HKEX) by URL: --url <pdf-url> <name>."""
+    pdf, txt = os.path.join(OUT, f"{name}.pdf"), os.path.join(OUT, f"{name}.txt")
+    subprocess.run(["curl", "-sL", "-m", "240", "-o", pdf, url], check=True)
+    subprocess.run(["pdftotext", "-layout", pdf, txt], check=True)
+    os.remove(pdf)
+    with open(txt, "r+", encoding="utf-8", errors="ignore") as f:
+        body = f.read(); f.seek(0)
+        f.write(f"SOURCE: {url}\nTITLE: {name}\nFETCHED: {datetime.date.today()}\n\n" + body)
+    with open(os.path.join(OUT, "MANIFEST.csv"), "a", newline="") as f:
+        csv.writer(f).writerow(["", name, name, url, datetime.date.today(), os.path.basename(txt)])
+    print(f"OK {name} -> {txt} ({sum(1 for _ in open(txt))} lines)")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
+    if sys.argv[1:2] == ["--url"]:
+        fetch_url(sys.argv[2], sys.argv[3]); sys.exit(0)
     codes = [c for c in CODES if "skip" not in CODES[c]] if "--all" in sys.argv else sys.argv[1:]
     for c in codes:
         try:
