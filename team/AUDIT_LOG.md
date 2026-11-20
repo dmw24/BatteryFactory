@@ -87,3 +87,6 @@ T019 – waived (sampled out); APB chemistry vocab fix before merge.
 
 ## T021 (China tail 1) – audit 1 – 2026-11-20
 VERDICT fail · diligence. 15/15 quotes. Blocking: Zhongna storage line counted as cells; Camel Xiangyang operational on low-voltage lines while AR shows 2 GWh storage-cell phase at 54.76%; Chuanhong parked at 0.6. Integration note: build_timeseries online_year falls back to capacity_ref_year for operational rows without start_year (T030).
+
+## T020 (Rest of World) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 26/26 quotes on page; 4 removals hold. Blocking: Megamillion 32 GWh undated aspiration as nameplate; no ESCALATE for Statevolt/Megamillion; E-One Moli status contradicts its quote. Spec: D-020 (site works vs ceremony).
