@@ -21,7 +21,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def norm(s):
     s = html.unescape(re.sub(r"<[^>]+>", " ", s))
-    return re.sub(r"[\s　]+", " ", s).lower().strip()
+    # drop all whitespace: PDF layout text and Chinese pages insert spaces between characters and numbers
+    return re.sub(r"[\s　]+", "", s).lower()
 
 
 def local_filing(url):

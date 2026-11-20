@@ -36,3 +36,6 @@ SAMPLED FROM SOURCE: 15 checked, 13 confirmed, 2 mismatches (both carried-forwar
 ASSUMPTIONS REVIEWED: A-012 (hydro includes pumped storage) – consequential for totals; should have been escalated
 NOT CHECKED: source C values (raw data not in repo by licence)
 ```
+
+## Example (T002): a quote that is on the page but doesn't support the field
+S23 "项目预计于2026年6月完成主体建设，达产后…" was cited for capacity_ref_year 2026. The quote is verbatim, so the string-match passes, but 主体建设完成 (structure complete) is not the year full capacity is reached. Correct verdict: blocking R1 finding. Lesson: string-match FOUND ≠ supported; read every sampled quote against the meaning of its field.

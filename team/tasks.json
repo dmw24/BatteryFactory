@@ -58,22 +58,22 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_review",
+      "status": "changes_requested",
       "branch": null,
       "pr": null,
       "attempts": 0,
       "assumptions": [],
       "audit": {
-        "verdict": null,
-        "by": null,
-        "notes": null
+        "verdict": "fail",
+        "by": "auditor-opus",
+        "notes": "see AUDIT_LOG T002 audit 1"
       }
     },
     {
       "id": "T003",
       "title": "Re-verify: BYD / FinDreams (17 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T003.json",
         "data/reference/operator_sites/T003.csv"
@@ -94,10 +94,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -109,7 +109,7 @@
       "id": "T004",
       "title": "Re-verify: CALB + Chuneng (12 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T004.json",
         "data/reference/operator_sites/T004.csv"
@@ -130,10 +130,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -145,7 +145,7 @@
       "id": "T005",
       "title": "Re-verify: Gotion (18 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T005.json",
         "data/reference/operator_sites/T005.csv"
@@ -166,10 +166,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -181,7 +181,7 @@
       "id": "T006",
       "title": "Re-verify: EVE Energy + Hithium (14 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T006.json",
         "data/reference/operator_sites/T006.csv"
@@ -202,10 +202,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
