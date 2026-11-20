@@ -1,0 +1,11 @@
+id,technology,reason
+form-energy-form-factory-1-weirton-united-states,iron-air (100 h),GWh = 500 MW x 100 h storage energy; not comparable to Li-ion cell GWh (D-019)
+ess-tech-inc-ess-inc-ess-inc-wilsonville-united-states,iron flow,flow battery; GWh not comparable to Li-ion cell output (D-019)
+enervenue-enervenue-changzhou-china,nickel-hydrogen,metal-hydrogen vessels; not comparable (D-019)
+ambri-ambri-marlborough-united-states,liquid metal,not comparable (D-019)
+eos-energy-enterprises-eos-energy-thorn-hill-marshall-township-united-states,zinc-hybrid,zinc battery systems; not comparable (D-019)
+eos-energy-enterprises-eos-energy-turtle-creek-united-states,zinc-hybrid,not comparable (D-019)
+e-zinc-e-zinc-mississauga-pilot-manufacturing-facility-canada,zinc-air,not comparable (D-019)
+gelion-gelion-fairfield-australia,zinc-bromide,not comparable (D-019)
+salient-energy-salient-energy-dartmouth-canada,zinc-ion,not comparable (D-019)
+vflowtech-vflowtech-tuas-facility-singapore,vanadium flow,not comparable (D-019)

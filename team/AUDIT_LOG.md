@@ -79,3 +79,6 @@ T015 – waived (sampled out); D-018 applied before merge.
 T011 – lead verification → merged (D-018 applied; StarPlus 33; R6 nulls).
 T017 – waived (sampled out); lead quote spot-check 26/40 FOUND, 4 MISSING, 10 FETCH_FAIL.
 T018 – waived (sampled out); quotes 24/30; India v1 city coords found wrong on 4 rows and nulled by worker.
+
+## T016 (USA tail A) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 20/20 quotes. Blocking: installed=0 instead of null on closed rows (D-018); Eos Turtle Creek still active/2 GWh though Line 1 dismantled; 2 unchecked v1 fields. Spec gap: long-duration non-Li 'GWh' (Form iron-air 500 MW x 100 h) not comparable → D-019.

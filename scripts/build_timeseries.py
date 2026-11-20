@@ -150,6 +150,14 @@ def main():
     """).fetchall()
     cols = [d[0] for d in con.description]
     R = [dict(zip(cols, r)) for r in rows]
+    # D-019: long-duration / non-Li chemistries are excluded from headline totals
+    import csv as _csv, os as _os
+    nc_path = "data/reference/non_comparable.csv"
+    non_comparable = {row["id"] for row in _csv.DictReader(open(nc_path))} if _os.path.exists(nc_path) else set()
+    excluded = [r for r in R if r["id"] in non_comparable]
+    R = [r for r in R if r["id"] not in non_comparable]
+    print(f"excluded {len(excluded)} non-comparable rows (D-019), nameplate "
+          f"{sum(r['nameplate_capacity_gwh'] or 0 for r in excluded):.1f} GWh")
 
     con.execute("DROP TABLE IF EXISTS capacity_by_year")
     con.execute("""CREATE TABLE capacity_by_year (

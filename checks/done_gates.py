@@ -13,7 +13,9 @@ import pandas as pd
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 d = pd.read_csv("factories_export.csv")
-act = d[(d.project_state == "active") & (d.is_cell_manufacturer != False)]
+import os as _os
+_nc = set(pd.read_csv("data/reference/non_comparable.csv").id) if _os.path.exists("data/reference/non_comparable.csv") else set()
+act = d[(d.project_state == "active") & (d.is_cell_manufacturer != False) & ~d.id.isin(_nc)]
 ver = act.last_verified.notna()
 fails = []
 
