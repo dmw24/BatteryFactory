@@ -1,0 +1,43 @@
+{
+  "task": "T044",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S01": {"url": "https://www.solarpowerworldonline.com/2023/02/kontrolmatiks-pomega-breaks-ground-on-3-gwh-lithium-battery-factory-in-south-carolina/", "publisher": "Solar Power World", "published": "2023-02-07", "accessed": "2026-11-20", "language": "en", "quote": "hosted a groundbreaking ceremony for its previously announced 3-GWh lithium-ion battery manufacturing plant"},
+    "S02": {"url": "https://www.solarpowerworldonline.com/2023/02/kontrolmatiks-pomega-breaks-ground-on-3-gwh-lithium-battery-factory-in-south-carolina/", "publisher": "Solar Power World", "published": "2023-02-07", "accessed": "2026-11-20", "language": "en", "quote": "The company plans to later increase capacity to 6 GWh and has secured land to expand operations."},
+    "S03": {"url": "https://governor.sc.gov/node/2116", "publisher": "Office of the Governor of South Carolina (press release)", "published": "2022-12-08", "accessed": "2026-11-20", "language": "en", "quote": "The factory’s 3GWh capacity will exclusively target the grid-scale energy storage market."},
+    "S04": {"url": "https://www.solarpowerworldonline.com/2023/02/kontrolmatiks-pomega-breaks-ground-on-3-gwh-lithium-battery-factory-in-south-carolina/", "publisher": "Solar Power World", "published": "2023-02-07", "accessed": "2026-11-20", "language": "en", "quote": "lithium-iron phosphate cells designed exclusively for North American grid-scale energy storage applications"},
+    "S05": {"url": "https://www.marklines.com/en/news/280063", "publisher": "MarkLines (teaser; quoted text visible without login)", "published": "2022-12-08", "accessed": "2026-11-20", "language": "en", "quote": "started mass production of rechargeable lithium-ion cylindrical cells at its facility in Kayseri"},
+    "S06": {"url": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/aspilsan-commences-mass-production-lithium-ion-battery-cell.aspx", "publisher": "Republic of Türkiye Investment Office (invest.gov.tr)", "published": "2022-09-13", "accessed": "2026-11-20", "language": "en", "quote": "is projected to produce approximately 22 million batteries per year with a total capacity of 220 megawatt-hours"},
+    "S07": {"url": "https://www.marklines.com/en/news/280063", "publisher": "MarkLines (teaser; quoted text visible without login)", "published": "2022-12-08", "accessed": "2026-11-20", "language": "en", "quote": "The annual production capacity is 220 MWh"},
+    "S08": {"url": "https://battery-tech.net/company/aspilsan-enerji/", "publisher": "battery-tech.net (trade site company profile, undated)", "published": null, "accessed": "2026-11-20", "language": "en", "quote": "ASPILSAN launched a Kayseri lithium-ion facility with 220MWh annual capacity"},
+    "S09": {"url": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/aspilsan-commences-mass-production-lithium-ion-battery-cell.aspx", "publisher": "Republic of Türkiye Investment Office (invest.gov.tr)", "published": "2022-09-13", "accessed": "2026-11-20", "language": "en", "quote": "the first cylindrical lithium-ion battery factory in Europe"}
+  },
+  "rows": [
+    {"id": "aspilsan-enerji-aspilsan-kayseri-turkey", "action": "add",
+     "fields": {"plant_name": "ASPILSAN Kayseri lithium-ion cell plant (Mimarsinan Industrial Zone)", "operator": "ASPILSAN Enerji", "parent_company": null,
+                "country": "Turkey", "region": "Europe",
+                "status": "operational", "project_state": "active", "start_year": 2022, "announced_year": null,
+                "installed_capacity_gwh": null, "installed_as_of": null,
+                "nameplate_capacity_gwh": 0.22, "capacity_ref_year": 2022,
+                "chemistry": null, "cell_format": "cylindrical", "end_market": null, "jv_partners": null, "site_type": "single_site",
+                "latitude": null, "longitude": null,
+                "source_url": "https://www.invest.gov.tr/en/news/news-from-turkey/pages/aspilsan-commences-mass-production-lithium-ion-battery-cell.aspx",
+                "source_date": "2026-11-20", "source_published_date": "2022-09-13"},
+     "evidence": {"status": ["S05"], "start_year": ["S05"], "nameplate_capacity_gwh": ["S06", "S07"], "cell_format": ["S05"]},
+     "confidence": 0.55,
+     "notes": "Discovery add (T044, Europe/Turkey sweep). Turkey's first Li-ion cell plant, Kayseri (Mimarsinan Industrial Zone per S08). Small: 220 MWh/yr = 0.22 GWh (~22 million 18650 cells/yr per invest.gov.tr S06; MarkLines S05/S07 'annual production capacity is 220 MWh'). Kept because it is a real commercial cell plant, but sub-0.5 GWh. Cylindrical per S05; cell chemistry (cells shown as INR18650A28 2,800 mAh and 21700) and end market (defence/aviation, civil) not stated on opened pages -> null. Status operational: MarkLines (visible text, 2022-12-08) says the company 'started mass production ... at its facility in Kayseri' (start_year 2022). Conflicts: invest.gov.tr page is dated 2022-09-13 yet describes mass production, MarkLines dates it 7 Dec 2022; battery-tech.net profile (undated, S08) says the facility was launched in 2024. start_year 2022 follows the two dated sources; ref_year 2022 = publication-year fallback, searched (no expansion with a GWh figure found; a Feb 2025 TUSAS aviation-cell localisation partnership per S08 gives no capacity). installed_capacity_gwh left null: the 220 MWh is a plant capacity figure, no dated installed figure. parent_company not stated on opened pages (ASPILSAN is understood to be an ASELSAN-group company but not confirmed) -> null. No 2025-26 production or output data found, so confidence 0.55. Coordinates not located (industrial-zone level only); left null. ASPILSAN's own site returned 503."},
+    {"id": "pomega-energy-storage-technologies-pomega-colleton-county-south-carolina-united-states", "action": "add",
+     "fields": {"plant_name": "Pomega South Carolina LFP cell factory (Colleton Industrial Campus, near Walterboro)", "operator": "Pomega Energy Storage Technologies", "parent_company": "Kontrolmatik Technologies",
+                "country": "United States", "region": "USA",
+                "status": "announced", "project_state": "active", "start_year": null, "announced_year": 2022,
+                "installed_capacity_gwh": null, "installed_as_of": null,
+                "nameplate_capacity_gwh": 6, "capacity_ref_year": 2023,
+                "chemistry": "LFP", "cell_format": null, "end_market": "ESS", "jv_partners": null, "site_type": "single_site",
+                "latitude": null, "longitude": null,
+                "source_url": "https://www.solarpowerworldonline.com/2023/02/kontrolmatiks-pomega-breaks-ground-on-3-gwh-lithium-battery-factory-in-south-carolina/",
+                "source_date": "2026-11-20", "source_published_date": "2023-02-07"},
+     "evidence": {"status": ["S01"], "nameplate_capacity_gwh": ["S01", "S02", "S03"], "chemistry": ["S04"], "end_market": ["S03", "S04"]},
+     "confidence": 0.35,
+     "notes": "Discovery add (T044, USA sweep). Kontrolmatik's US subsidiary Pomega: LFP cell plant for grid-scale storage in Colleton County, SC. Announced 8 Dec 2022 (S03: 3 GWh, USD 279m, operations expected 2024). Feb 2023 article (S01): 'hosted a groundbreaking ceremony'; production 'expected ... in mid-2024'; phase 1 3 GWh, 'plans to later increase capacity to 6 GWh' (S02). Phase breakdown: 3 GWh initial (planned) + 3 GWh later (planned, undated) -> nameplate 6 GWh per D-014, ref_year 2023 = publication-year fallback, searched (no phase dates in opened sources; an undated profile snippet seen only in search results, not opened, says phase 2 end-2025 and 6 GWh by 2027). Status stays announced (D-020): only a ceremonial groundbreaking is evidenced, no later site works found. Freshness: nothing dated after 2024 about this site found in the sources I could open; 2025-26 coverage (ONE offtake, May 2025) concerns Pomega's Ankara plant (existing row pomega-...-polatl-ankara-turkey), not South Carolina; the 2024 start target has evidently passed with no production report, so the project may be stalled - project_state left active (no source says paused/cancelled), confidence 0.35. An energy-storage.news piece on Pomega's US cell-production scepticism returned 403 and is not cited. Cell format not stated -> null. Coordinates not located (Colleton Industrial Campus, Walterboro area) -> null. Possible follow-up: SC Commerce / Colleton County records or Kontrolmatik KAP filings for current status."}
+  ]
+}

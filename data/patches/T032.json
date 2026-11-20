@@ -1,0 +1,184 @@
+{
+  "task": "T032",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://english.jinan.gov.cn/col/col108325/art/2026/art_7564bc5176a54ba98cf145cb78f9cbbd.html",
+      "publisher": "Jinan Municipal People's Government (english.jinan.gov.cn), 'Jinan base empowers BYD's record-breaking flash-charging battery'",
+      "published": "2026-03-11",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "Jinan base empowers BYD's record-breaking flash-charging battery ... With an annual production capacity of 30 gigawatt hours"
+    },
+    "S2": {
+      "url": "https://finance.sina.com.cn/wm/2026-04-21/doc-inhvfytk4964952.shtml",
+      "publisher": "Sina Finance (新浪财经), 2026-04-21 article on CALB Xiamen phase 3",
+      "published": "2026-04-21",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "目前厦门基地已建成投产30GWh"
+    },
+    "S3": {
+      "url": "https://finance.sina.com.cn/roll/2026-01-29/doc-inhiympu4167988.shtml",
+      "publisher": "Sina Finance (新浪财经), 2026-01-29 article on CALB new Sichuan company / Meishan base",
+      "published": "2026-01-29",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "眉山工厂规划总产能40GWh，总投资150亿元，其中一期20GWh产能已于2023年投产。"
+    },
+    "S4": {
+      "url": "https://cnevpost.com/2024/02/02/byd-faw-battery-project-goes-into-production/",
+      "publisher": "CnEVPost, 'BYD-FAW battery project goes into production' (reports FAW-FinDreams statement)",
+      "published": "2024-02-02",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "Its initial production capacity is 15 GWh ... went into production on February 2 ... total planned capacity of 45 GWh"
+    },
+    "S5": {
+      "url": "http://gxt.hunan.gov.cn/xxgk_71033/gzdt/qyzx/202302/t20230204_29239491.html",
+      "publisher": "Hunan Provincial Department of Industry and Information Technology (gxt.hunan.gov.cn), reprint of Hunan Daily 2023-02-03",
+      "published": "2023-02-04",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "长沙弗迪工厂2020年底投产，日规划产量7万片，具备年产10吉瓦时锂离子电池及配套材料能力。 ... 目前，工厂一期生产线基本实现满产，二期项目建设快马加鞭。"
+    },
+    "S6": {
+      "url": "https://epaper.cqrb.cn/cqrb/2023-11/20/025/cqrb20231120025.pdf",
+      "publisher": "Chongqing Daily (重庆日报) e-paper, 2023-11-20 (PDF >10 MB, could not be fetched here; text seen only in a web-search result summary)",
+      "published": "2023-11-20",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "tier": "reported",
+      "snippet": "2020年弗迪实施15GWH动力电池扩能项目，形成35GWH动力电池生产能力"
+    },
+    "S7": {
+      "url": "https://finance.sina.cn/tech/2026-07-17/detail-inihzrtq7546110.d.html",
+      "publisher": "Sina Finance (新浪财经) mobile, article byline 07.17 (year from URL path: 2026)",
+      "published": "2026-07-17",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "弗迪锂电池在璧山产出的比亚迪刀片电池占全市动力电池市场份额超90%。"
+    }
+  },
+  "rows": [
+    {
+      "id": "findreams-battery-byd-byd-findreams-jinan-battery-plant-jinan-high-tech-zone-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 30,
+        "installed_as_of": "2026-03-11",
+        "site_type": "single_site",
+        "source_url": "https://english.jinan.gov.cn/col/col108325/art/2026/art_7564bc5176a54ba98cf145cb78f9cbbd.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2026-03-11"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1"],
+        "nameplate_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.7,
+      "notes": "[T032] installed 30 GWh/yr as of 2026-03-11: Jinan municipal government (English site) states the base has 'an annual production capacity of 30 gigawatt hours' and presents it as the producer of BYD's second-generation flash-charging blade cells (title; producing inferred from title + capacity wording, the page gives no per-phase commissioning dates). installed basis: government (built design capacity; may run ~20% above company effective capacity). Equals the v2 nameplate 30 (two 15 GWh phases per v1 timeline, 2022 and Feb 2023, not re-confirmed here), so no unbuilt phase remains; nameplate and ref_year unchanged. Confidence raised 0.5 -> 0.7 because a government source now states the 30 GWh as built capacity."
+    },
+    {
+      "id": "calb-calb-xiamen-battery-base-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 30,
+        "installed_as_of": "2026-04-21",
+        "site_type": "single_site",
+        "source_url": "https://finance.sina.com.cn/wm/2026-04-21/doc-inhvfytk4964952.shtml",
+        "source_date": "2026-11-20",
+        "source_published_date": "2026-04-21"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S2"]
+      },
+      "confidence": 0.65,
+      "notes": "[T032] installed 30 GWh/yr as of 2026-04-21: Sina Finance (2026-04-21) 'currently the Xiamen base has 30 GWh built and in production' (phases 1-2 plus phase 3 stage 1, consistent with 10+10+10). installed basis: press (apparently relaying company/Xiamen project information). Phase 3 stage 2 (20 GWh, 5 lines) was in trial production in April 2026 with formal start expected May 2026 (same article; EnergyTrend 2026-04-21 says the same) and is NOT counted; stage 3 (10 GWh) under construction, production expected 2027-03. Nameplate 60 / ref_year 2027 unchanged. CONFLICT: a 2026-09-05 10jqka article says CALB is 'building a 70GWh base' in Xiamen (https://news.10jqka.com.cn/20260905/c679625562.shtml, no phase detail) vs 60 GWh (Xiamen DRC via MarkLines/OFweek, Feb 2025); not resolved here, nameplate left at 60. capacity_by_year_json (v1 reported {2023:10, 2027:60}) left as is; 2023:10 is inconsistent with 30 built and should be reviewed by the lead."
+    },
+    {
+      "id": "calb-calb-meishan-power-battery-and-energy-storage-base-pengshan-meishan-sichuan-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 20,
+        "installed_as_of": "2026-01-29",
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 20}",
+        "site_type": "single_site",
+        "source_url": "https://finance.sina.com.cn/roll/2026-01-29/doc-inhiympu4167988.shtml",
+        "source_date": "2026-11-20",
+        "source_published_date": "2026-01-29"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S3"],
+        "start_year": ["S3"],
+        "capacity_by_year_json": ["S3"],
+        "nameplate_capacity_gwh": ["S3"]
+      },
+      "confidence": 0.65,
+      "notes": "[T032] installed 20 GWh/yr: Sina Finance 2026-01-29: 'total planned capacity 40GWh, investment RMB15bn, of which phase 1 20GWh capacity has gone into production in 2023' (the 2026-02-04 Sina roundup used by T004 says the same without the GWh figure). installed_as_of = article date (no later commissioning event found; capacity stated as in production). installed basis: press (company-capacity roundup). Phase 2 (20 GWh) undated; no 2025-26 news of phase 2 found; nameplate 40 / ref_year 2026 (fallback) unchanged. capacity_by_year_json now {2023:20} confirmed by this source (v1 reported value restored by T031 is now backed). The 2026-06-16 roundup's '20GWh' for Meishan is phase 1 only."
+    },
+    {
+      "id": "faw-findreams-new-energy-technology-co-ltd-faw-findreams-changchun-plant-changchun-power-battery-base-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 15,
+        "installed_as_of": "2024-02-02",
+        "start_year": 2024,
+        "capacity_by_year_json": "{\"2024\": 15}",
+        "site_type": "single_site",
+        "source_url": "https://cnevpost.com/2024/02/02/byd-faw-battery-project-goes-into-production/",
+        "source_date": "2026-11-20",
+        "source_published_date": "2024-02-02"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S4"],
+        "start_year": ["S4"],
+        "capacity_by_year_json": ["S4"],
+        "nameplate_capacity_gwh": ["S4"]
+      },
+      "confidence": 0.5,
+      "notes": "[T032] installed 15 GWh/yr (phase 1) as of 2024-02-02: CnEVPost relaying the FAW-FinDreams statement - the plant 'went into production on February 2' (2024) with 'initial production capacity 15 GWh'; total plan 45 GWh. installed basis: company statement via press. start_year set to 2024 (production start; v1 2023 was the July 2023 first-pack trial). Figure is older than 18 months, so confidence capped at 0.5 (D-015) although the plant is 45 GWh (G4 will flag: ESCALATE, needs a 2025-26 company or Changchun government statement). A 2026-05-09 Eastmoney piece (caifuhao.eastmoney.com/news/20260509164923372581040) repeats 2024-02-02 start and 45 GWh (3x15) plan but gives no current output; its title only 'hopes' phase 2 will make 2nd-gen blade cells, so phase 2 not counted. Nameplate 45 / ref_year 2024 unchanged (phases 2-3 undated)."
+    },
+    {
+      "id": "changsha-findreams-battery-findreams-battery-byd-findreams-changsha-plant-ningxiang-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 10,
+        "installed_as_of": "2023-02-03",
+        "start_year": 2020,
+        "capacity_by_year_json": "{\"2023\": 10}",
+        "site_type": "single_site",
+        "source_url": "http://gxt.hunan.gov.cn/xxgk_71033/gzdt/qyzx/202302/t20230204_29239491.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2023-02-04"
+      },
+      "evidence": {
+        "status": ["S5"],
+        "installed_capacity_gwh": ["S5"],
+        "start_year": ["S5"],
+        "capacity_by_year_json": ["S5"]
+      },
+      "confidence": 0.45,
+      "notes": "[T032] installed 10 GWh/yr as of 2023-02-03: Hunan provincial industry department (reprint of Hunan Daily 2023-02-03): factory 'put into production end-2020 ... capable of 10 GWh/yr lithium-ion cells', 'phase-1 lines basically at full output, phase 2 under construction'. installed basis: government. Figure is >18 months old -> confidence <=0.5 (D-015); phase 2 (second 10 GWh, nameplate 20 from a weak Xueqiu post, not re-confirmed) may be online since; no 2025-26 source found. start_year changed 2021 -> 2020 (end-2020 production per S5). v1 reported ramp {2021:10, 2022:20} replaced by {2023:10}: it contradicted S5 (phase 2 still under construction Feb 2023). The 19 GWh Changsha line (EIA 2025, EnergyTrend/SMM) is PACK, excluded. Nameplate 20 / ref_year 2025 unchanged; ESCALATE: 20 GWh nameplate rests on a single weak aggregator, large plant below 0.6."
+    },
+    {
+      "id": "findreams-battery-co-ltd-byd-findreams-chongqing-bishan-blade-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 35,
+        "installed_as_of": "2023-11-20",
+        "site_type": "single_site",
+        "source_url": "https://epaper.cqrb.cn/cqrb/2023-11/20/025/cqrb20231120025.pdf",
+        "source_date": "2026-11-20",
+        "source_published_date": "2023-11-20"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S6"],
+        "status": ["S7"]
+      },
+      "confidence": 0.45,
+      "notes": "[T032] installed 35 GWh/yr as of 2023-11-20, REPORTED tier: Chongqing Daily e-paper 2023-11-20 (PDF >10 MB, not fetchable here) - text 'in 2020 FinDreams implemented a 15 GWh expansion, forming 35 GWh power-battery production capacity' was seen only in a web-search result summary of that PDF. installed basis: press (local newspaper). Consistent with v1/T003 phases (phase 1 20 GWh 2020 + phase 2 15 GWh 2022, Bishan gov page bishan.gov.cn/sy_241/ywdt/202307/t20230731_12197812.html returned 503). Status operational: Sina Finance 2026-07-17 (S7): 'FinDreams Bishan blade batteries >90% of the city's power-battery market' (year of byline not printed; taken from URL path). Figure >18 months old and reported -> confidence <=0.5. The 20 GWh phase 3 (to 55 GWh, 2022-23 plans) is undated/unconfirmed and not in nameplate 35; nothing found on whether it is built. Nameplate 35 / ref_year 2021 unchanged (stale, flagged by T003)."
+    }
+  ]
+}

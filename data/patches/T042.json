@@ -1,0 +1,42 @@
+{
+  "task": "T042",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {"url": "https://finance.sina.com.cn/roll/2026-08-07/doc-inimmayv4475552.shtml", "publisher": "Sina Finance (originally 锂电江湖), H1 2026 sodium-ion cell project roundup", "published": "2026-08-07", "accessed": "2026-11-20", "language": "zh",
+           "quote": "九续钠电（阿拉善）新能源科技有限公司于5月27日在内蒙古落地产业项目，计划总投资200亿元，在阿拉善高新技术产业开发区孵化园建设“内蒙古阿拉善50GWh钠电池全产业链项目”。"},
+    "S2": {"url": "https://news.metal.com/newscontent/103817840-Tianpu-Techs-105B-Yuan-Lithium-Ion-Battery-Project-in-Ordos-to-Start-Production-50-GWh-Capacity", "publisher": "SMM (Shanghai Metals Market) news", "published": "2026-03-17", "accessed": "2026-11-20", "language": "en",
+           "tier": "reported",
+           "snippet": "Tianpu Technology's lithium-ion battery and system intelligent manufacturing project ... located in Ordos, Inner Mongolia ... annual capacity of 50 Gwh for lithium-ion batteries and energy storage container systems"},
+    "S3": {"url": "https://news.metal.com/en/newscontent/103307988-RMB-1-Billion-Project-for-1-GWh-Solid-State-Lithium-Battery-Signed-in-Hebei", "publisher": "SMM (Shanghai Metals Market) news", "published": "2025-04-30", "accessed": "2026-11-20", "language": "en",
+           "quote": "the Nanshan Automotive Industry Base in Zhangjiakou, Hebei ... Upon completion, it will add a production capacity of 1 GWh for 3D solid-state lithium batteries."}
+  },
+  "rows": [
+    {"action": "add", "id": "jiuxu-sodium-alxa-jiuxu-sodium-alxa-50gwh-sodium-battery-project-china",
+     "fields": {"plant_name": "Jiuxu Sodium (Alxa) 50 GWh sodium-battery full-chain project (Alxa High-tech Zone incubation park)",
+                "operator": "Jiuxu Sodium Battery (Alxa) New Energy Technology Co., Ltd. (九续钠电（阿拉善）新能源科技有限公司)",
+                "country": "China", "region": "China", "status": "announced", "nameplate_capacity_gwh": 50, "capacity_ref_year": 2026,
+                "announced_year": 2026, "chemistry": "sodium-ion", "site_type": "single_site", "project_state": "active",
+                "source_url": "https://finance.sina.com.cn/roll/2026-08-07/doc-inimmayv4475552.shtml", "source_date": "2026-11-20", "source_published_date": "2026-08-07"},
+     "evidence": {"status": ["S1"], "nameplate_capacity_gwh": ["S1"], "announced_year": ["S1"]},
+     "confidence": 0.3,
+     "notes": "NEW (T042 sweep, Inner Mongolia). Project 'landed' 27 May (2026, per article dated 2026-08-07) in the Alxa High-tech Industrial Development Zone incubation park, planned investment RMB 20 bn (200亿元). Stated scope is a '50GWh钠电池全产业链项目' (full industry chain): the 50 GWh figure may include materials/system stages, not only cells - cell share unverified, so nameplate is an upper bound for cells. Status announced: no construction start, filing, EIA or later news found (nothing after 2026-08-07 located; the web search budget ran out during this sweep so follow-up searches were not possible). Early stage -> confidence 0.3. ref_year: fallback, searched (publication year 2026; no phase dates). Distinct from existing row inner-mongolia-zhilian-huitong-logistics-alxa-30gwh-cell-project-china (different company; same city Alxa) - lead may want to check whether the two are related. No coordinates (site not located). Quote taken from the fetched page via the fetch tool's extraction, not hand-copied from raw HTML."},
+    {"action": "add", "id": "tianpu-technology-tianpu-ordos-lithium-ion-battery-and-system-project-china",
+     "fields": {"plant_name": "Tianpu Technology Ordos lithium-ion battery and system intelligent manufacturing project (50 GWh)",
+                "operator": "Tianpu Technology",
+                "country": "China", "region": "China", "status": "announced", "nameplate_capacity_gwh": 50, "capacity_ref_year": 2026,
+                "chemistry": "other", "site_type": "single_site", "project_state": "active",
+                "source_url": "https://news.metal.com/newscontent/103817840-Tianpu-Techs-105B-Yuan-Lithium-Ion-Battery-Project-in-Ordos-to-Start-Production-50-GWh-Capacity", "source_date": "2026-11-20", "source_published_date": "2026-03-17"},
+     "evidence": {"status": ["S2"], "nameplate_capacity_gwh": ["S2"]},
+     "confidence": 0.3,
+     "notes": "NEW (T042 sweep, Inner Mongolia). REPORTED tier: only an SMM news item (2026-03-17) was read; the snippet was assembled from the fetch tool's extraction (the page text cannot be copied verbatim per SMM terms), so it is recorded as reported, not confirmed. Project: total investment RMB 10.5 bn, 'will build production lines' with 50 GWh/yr for lithium-ion batteries AND energy-storage container systems in Ordos, Inner Mongolia; headline says 'to start production' but the body gives no start date, no phases, no construction evidence -> status announced. The article never uses the word 'cells'; cell manufacturing is implied (lithium-ion battery production lines) but not confirmed, and the 50 GWh may include system integration. Operator's Chinese name, parent, exact district and chemistry not stated (chemistry set to 'other' as unspecified lithium-ion; update if LFP confirmed). Not the Envision AESC Ordos row (different operator, 10.5 GWh phase 1 in production). ref_year: fallback, searched (publication year 2026). No later news found (search budget exhausted). Confidence 0.3. No coordinates."},
+    {"action": "add", "id": "3d-shaanxi-battery-technology-3d-zhangjiakou-solid-state-battery-project-china",
+     "fields": {"plant_name": "3D (Shaanxi) Battery Zhangjiakou 1 GWh solid-state lithium battery project (Nanshan Automotive Industry Base)",
+                "operator": "3D (Shaanxi) Battery Technology Co., Ltd.",
+                "country": "China", "region": "China", "status": "announced", "nameplate_capacity_gwh": 1, "capacity_ref_year": 2025,
+                "announced_year": 2025, "chemistry": "solid-state", "site_type": "single_site", "project_state": "active",
+                "source_url": "https://news.metal.com/en/newscontent/103307988-RMB-1-Billion-Project-for-1-GWh-Solid-State-Lithium-Battery-Signed-in-Hebei", "source_date": "2026-11-20", "source_published_date": "2025-04-30"},
+     "evidence": {"status": ["S3"], "nameplate_capacity_gwh": ["S3"], "announced_year": ["S3"]},
+     "confidence": 0.3,
+     "notes": "NEW (T042 sweep, Hebei). SMM item 2025-04-30: signing ceremony at the Nanshan Automotive Industry Base, Zhangjiakou, Hebei with 3D (Shaanxi) Battery Technology Co., Ltd.; project in two phases (phase I RMB 600 m, phase II RMB 400 m; total RMB 1 bn), adding 1 GWh of 3D solid-state lithium battery capacity. Phase GWh split and target year not stated. Site-specific and capacity stated, so kept as announced, but it is a signing only: no construction, EIA or later news found (nothing after 2025-04-30 located; freshness rule: silence suggests stalled; the search budget ran out so this could not be probed further). The local project company may be a new subsidiary of the signatory; operator recorded as the signatory. ref_year: fallback, searched (publication year 2025). Small (1 GWh). Confidence 0.3. No coordinates."}
+  ]
+}

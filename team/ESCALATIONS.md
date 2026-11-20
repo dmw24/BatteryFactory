@@ -12,3 +12,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T030 (lead): v1 researcher-supplied coordinates (geo_precision=site_unflagged, 33 rows) are unvalidated — Great Power Guangde carries the Shenzhen centroid. Distance-check each against its named city; null outliers.
 - [ ] T017 non-blocking: Statevolt Imperial Valley (54 GWh announced, conf 0.35) — newest evidence 2023-01; AMS Oct 2024 reports the US project 'temporarily on hold' (T020 S11). Recommend project_state paused; owner to confirm.
 - [ ] T041 follow-up: west-China sweep truncated by search budget (Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Tibet unsearched). Puer Dianna (Yunnan, 2 GWh) cell vs pack unresolved.
+- [ ] T044 follow-up: sweep truncated — rerun Canada, Mexico, South America, Africa, Oceania, Russia secondary makers, US small LFP/ESS, Poland/Baltics/Nordics. Leads: Saft Bordeaux solid-state lines, Ruien Inđija (Serbia), Liotech Novosibirsk.
