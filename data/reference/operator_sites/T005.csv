@@ -1,7 +1,7 @@
 operator,site_name,city,country,source_url,matched_id,excluded_reason
 Gotion High-tech,Hefei Xinzhan VW unified/standard cell base,Hefei,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china,
-Gotion High-tech,Hefei Gotion Battery Technology 20GWh power battery project (annual report CIP),Hefei,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,unresolved_possible_overlap_with_Hefei_Xinzhan_row_no_separate_location_or_open_quote
-Gotion High-tech,Jingkai Gotion 4GWh LFP pouch battery and new-energy battery base (annual report CIP),Hefei,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,unresolved_not_verified_only_in_CIP_table_73.98pct_progress
+Gotion High-tech,Hefei Gotion Battery Technology 20GWh power battery project (annual report CIP),Hefei,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_CIP_line_item_only_possible_overlap_with_Hefei_Xinzhan_row
+Gotion High-tech,Jingkai Gotion 4GWh LFP pouch battery and new-energy battery base (annual report CIP),Hefei,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_CIP_line_item_only_73.98pct_progress
 Gotion High-tech,Tongcheng base,Tongcheng (Anqing),China,https://www.marklines.com/cn/news/273865,tongcheng-gotion-high-tech-gotion-tongcheng-battery-base-40-gwh-power-battery-project-china,
 Gotion High-tech,Lu'an / Jinzhai Gotion storage cell base,Jinzhai (Lu'an),China,https://www.ahjinzhai.gov.cn/zwzx/jzyw/37746163.html,gotion-jinzhai-gotion-new-energy-jinzhai-storage-cell-base-china,
 Gotion High-tech,Chuzhou base,Chuzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,gotion-chuzhou-gotion-new-energy-power-co-ltd-gotion-new-energy-chuzhou-high-end-manufacturing-base-china,
@@ -9,13 +9,13 @@ Gotion High-tech,Nanjing Liuhe base (incl. new 20GWh project),Nanjing,China,http
 Gotion High-tech,Tangshan base,Tangshan,China,https://www.sohu.com/a/907995313_491253,tangshan-guoxuan-battery-co-ltd-wholly-owned-subsidiary-of-hefei-gotion-high-tech-power-energy-gotion-tangshan-plant-tangshan-guoxuan-battery-co-ltd-china,
 Gotion High-tech,Qingdao (Laixi) base,Qingdao,China,https://auto.qingdaonews.com/content/2024-02/01/content_23536749.htm,gotion-high-tech-qingdao-gotion-battery-plant-laixi-china,
 Gotion High-tech,Yichun base,Yichun,China,https://www.itdcw.com/news/focus/12031522362025.html,yichun-gotion-yichun-gotion-battery-plant-china,
-Gotion High-tech,Yichun 10GWh lithium battery and pack base (annual report CIP),Yichun,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,unresolved_probably_part_of_Yichun_expansion_not_separately_sourced
-Gotion High-tech,Jiangxi Gotion 30GWh lithium battery base expansion (annual report CIP),Jiangxi (site not stated),China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,unresolved_location_not_stated_possible_Yichun_expansion_25.76pct_progress
+Gotion High-tech,Yichun 10GWh lithium battery and pack base (annual report CIP),Yichun,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_CIP_line_item_only_cell_vs_pack_unclear_possibly_Yichun_expansion
+Gotion High-tech,Jiangxi Gotion 30GWh lithium battery base expansion (annual report CIP),Jiangxi (site not stated),China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_CIP_line_item_only_location_not_stated_25.76pct_progress
 Gotion High-tech,Liuzhou base,Liuzhou,China,https://www.parkworld.net/post/8dc72b0515f936c,liuzhou-gotion-battery-co-ltd-gotion-high-tech-subsidiary-gotion-liuzhou-power-battery-base-china,
 Gotion High-tech,Wuhu 20GWh new energy battery base,Wuhu,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,wuhu-gotion-power-technology-co-ltd-wuhu-gotion-20gwh-new-energy-battery-base-gotion-wuhu-plant-china,
 Gotion High-tech,Lujiang base (materials plus small-power cell project),Lujiang (Hefei),China,https://caifuhao.eastmoney.com/news/20260824083524003997350,gotion-high-tech-gotion-lujiang-plant-lujiang-high-tech-zone-base-china,
 Gotion High-tech,Wuhai (Inner Mongolia) anode material plant,Wuhai,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,materials
-Gotion High-tech,Shanghai Electric Gotion Nantong ESS base (associate),Nantong,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,associate_not_Gotion_operated_status_not_verifiable_row_removed_not_found
+Gotion High-tech,Shanghai Electric Gotion Nantong ESS base (associate),Nantong,China,https://wap.stockstar.com/detail/IG2026091800037465,shanghai-electric-gotion-new-energy-technology-nantong-co-ltd-shanghai-electric-gotion-new-energy-nantong-energy-storage-battery-base-china,
 Gotion High-tech,Gnascent sodium-ion lines Hefei and Tangshan,Hefei / Tangshan,China,https://www.battery-energy-storage-system.com/news/gotion-gnascent-sodium-ion-batteries.html,,lines_inside_existing_plants_rows_removed_as_duplicates
 Gotion High-tech,Gotion Illinois (Manteno),Manteno (IL),United States,https://gotionillinois.com/faq/,gotion-gotion-manteno-illinois-united-states,
 Gotion High-tech,Big Rapids / Green Charter Township battery plant,Big Rapids (MI),United States,https://insideevs.com/news/776936/gotion-battery-factory-michigan-dead/,,cancelled_Oct_2025_state_terminated_not_in_DB_search_snippets_only
@@ -30,4 +30,6 @@ Gotion High-tech,NV Gotion Rayong,Rayong,Thailand,https://technode.com/2023/12/0
 Gotion High-tech,Gotion Indonesia green energy application plant,Indonesia (site not stated),Indonesia,https://caifuhao.eastmoney.com/news/20260824083524003997350,,pack_only
 Gotion High-tech,Tata AutoComp Gotion Green Energy Solutions (40% associate),Pune,India,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,unverified_no_open_source_on_cell_vs_pack
 Gotion High-tech,Sakura Takasaki storage station (associate),Chiba,Japan,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,not_cell_storage_station
+Gotion High-tech,天津国轩新能源科技有限公司 (subsidiary named only in tax-status note),Tianjin,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_not_shown_to_make_cells
+Gotion High-tech,南通国轩新能源科技有限公司 (subsidiary named only in tax-status note; distinct from Shanghai Electric Gotion Nantong),Nantong,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf,,no_open_source_not_shown_to_make_cells
 Anhui Guoke Energy (not Gotion),Lanzhou New Area 30GWh base,Lanzhou,China,https://news.metal.com/newscontent/103435476,,not_Gotion_operated_Guoke_Energy_confusion

@@ -7,3 +7,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 
 - [ ] T004 non-blocking: CALB Changzhou Jintan base – no open page gives built capacity; CALB 2025 annual report (HKEX, extracted to team/evidence/filings/CALB_3931_AR2025.txt) has no per-base GWh. Capacity left null, confidence 0.5. Would need a Jintan government phase table or company IR answer.
 - [ ] T002 non-blocking: CATL Xiamen phase 1/2 and Xining capacity unconfirmed in open sources (null, conf 0.4). HKEX 2025 prospectus text might settle it.
+- [ ] T005 non-blocking: Gotion stale/conflicting large plants kept below 0.6 by rule D-015 (Slovakia 8.4 vs 20, Morocco ph1 20 vs 10, Tongcheng/Liuzhou/Tangshan stale installed). Need fresher open sources; G4 will list them.

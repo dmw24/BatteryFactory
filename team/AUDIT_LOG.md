@@ -34,3 +34,6 @@ Caught by: auditor independent search (Nantong, Lujiang) — checks could not.
 
 ## T006 – lead verification of audit-1 fixes – 2026-11-20 → merged
 All 3 blockers fixed and new quotes FOUND (J4, JM2, SY4, CD1, M2, A7); G2 hand-confirmed (punctuation). Jingmen ref year 2025 is a fallback (phase-2 due date not public).
+
+## T005 – lead verification of audit-1 fixes – 2026-11-20 → merged
+Nantong restored as operational 5/10 (S50 FOUND), Lujiang is_cell true with 6 GWh stale line (S51, cited by auditor; fetch blocked here), Jinzhai installed 5 as of 2025-02, D-015 applied (Morocco 20, Slovakia 8.4 per latest company filing), confidence caps applied.
