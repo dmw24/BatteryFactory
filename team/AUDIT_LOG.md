@@ -65,3 +65,9 @@ T008 – lead verification → merged: caps, Suining, Huzhou D-016, Chengdu D-01
 
 ## T012 (Envision AESC) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence. 21/23 quotes on page (1 paraphrase). Blocking: Ordos nameplate 30.5 vs company 10.5 on the cited page (D-015/017), parked at 0.62; Ibaraki 20 is an undated 'eventually' total. Minor: Smyrna 3 vs AESC 7; Shiyan supersession weak; Sunderland Plant 1 status; Cangzhou ramp step.
+
+## T013 (Japan majors + Tesla) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · capability + diligence. 41/41 quotes on page. Blocking: Tesla Nevada LFP 'Early Ramp' 7 GWh stored as installed though footnote says it includes expected capacity; Blue Energy ref year (Honda: ramp through 2030); TBMNC cell question resolvable from open press; Kaizuka/Miyagi status from plan/2018 quotes; NCA applied from a non-site source.
+
+T012 – lead verification → merged (Ordos 10.5 company figure, Ibaraki 6, Smyrna 7, Sunderland P1 status null).
+T014 – waived (sampled out, normal risk); lead fixed one id typo in patch (integration fix); FAAM start_year nulled after C3.
