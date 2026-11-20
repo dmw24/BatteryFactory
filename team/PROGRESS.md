@@ -43,3 +43,8 @@ Format:
 
 ## 2026-11-20 – lead – T030 close-out
 - All 29 work tasks merged. FINAL sweep found Series A inflated by v1 timeline points → rewritten (D-023): 2025 A 2,083 / B 2,755 GWh vs IEA >4,000. Lead fix patch T030_fixes.json (Reliance 40, Ola ref 2027, 2 coords, SKOJ name). CLAUDE.md methodology rewritten. team/FINAL_REPORT.md written. Awaiting owner sign-off; G2a and G4 open.
+
+## 2026-11-20 – lead – T031 confirmed vs reported (owner request)
+- rebuild: reported_fields/evidence_tier columns, reported evidence tier; C4 accepts reported (url only) and caps confidence ≤0.5. scripts/restore_reported.py → data/patches/T031_reported.json (idempotent; paywalled v1 sources skipped). Opus review of 182 capacity values: 75 RESTORE / 107 KEEP_NULL.
+- Series C best estimate added. 2025: A 2,083 / C 2,996 / B 3,511 GWh vs IEA 4,000.
+- Open: C uses v1 capacity_timeline history for unquantified plants without a per-point review (FINAL sweep listed some as over v2's picture, e.g. CATL Yichun 70 incl. planned phase 2); flagged as reported.

@@ -228,6 +228,15 @@ def main():
                                        if isinstance(p, dict) and p.get("basis") in FIRM_BASIS and p.get("year")])
             except (json.JSONDecodeError, TypeError):
                 reported_hist = {}
+        if kind != "real" and not reported_hist and r["capacity_by_year_json"]:
+            try:  # reported/phased ramp, carried flat; only years up to the current year count as online
+                m = {int(k): float(v) for k, v in json.loads(r["capacity_by_year_json"]).items() if v is not None}
+                last = 0.0
+                for yy in range(min(m), HORIZON + 1):
+                    last = m.get(yy, last) if yy <= LAST_ACTUAL + 1 else last
+                    reported_hist[yy] = last
+            except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
+                reported_hist = {}
         has_sourced = kind in ("real", "phased")
         for y in firm:
             if kind == "real":

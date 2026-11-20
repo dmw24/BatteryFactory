@@ -101,10 +101,20 @@ non-comparable long-duration chemistries in `data/reference/non_comparable.csv` 
 - **Series B — A plus nameplate fill (upper-bound fill).** A, plus the full `nameplate_capacity_gwh` of
   operational plants that lack a sourced installed figure, from their online year. B ≥ A by construction;
   because nameplate is the full site plan (D-014), the fill overstates those plants.
+- **Series C — best estimate (D-024, confirmed vs reported).** Confirmed (A) where a sourced installed figure
+  exists; otherwise the plant's *reported* history (v1 `capacity_timeline` or a reported `capacity_by_year_json`
+  ramp, capped at nameplate); otherwise the B nameplate fill. A ≤ C ≤ B. `best_basis` in `capacity_by_year`
+  says which applied. This is the series to set against IEA/BNEF; quote A as the confirmed floor.
 - **Pipeline** = nameplate at `capacity_ref_year` above what is online.
 
+**Confirmed vs reported (D-024).** `reported_fields` (JSON list) marks values carried from v1 sources that v2
+could not re-confirm (dead/blocked link, snippet-only) — evidence tier `reported` in `data/field_evidence.csv`
+(v1 `source_url`, no re-confirmed quote). Values that v2 research contradicted or superseded stay null
+(review: `data/reference/reported/capacity_decisions.csv`). `evidence_tier = reported` on a row means its
+status or capacity rests on a reported value (confidence ≤ 0.5).
+
 **Reconciliation.** External benchmarks (IEA/BNEF, `scripts/benchmarks.csv`) are commissioned nameplate. In
-v2 both A and B sit **below** IEA for 2025 (≈2.1 and ≈2.8 TWh vs >4 TWh): open, site-level sources do not
+v2 the 2025 figures are A ≈2.1, C ≈3.0 and B ≈3.5 TWh vs IEA >4 TWh: open, site-level sources do not
 disclose installed capacity for many large Chinese bases (e.g. BYD: ~285 GWh of 2025 installations vs 123 GWh
 of sourced site capacity). The gap is coverage, not evidence of over-reporting by IEA. Never present A as
 comparable to IEA without this caveat; never sum capacity across statuses.

@@ -17,7 +17,9 @@ Status: **awaiting owner sign-off** (two done-gates open by design — see "Deci
 | under construction | 64 | 1,613 | – |
 | announced | 44 | 761 | – |
 
-2025 capacity online: **Series A (sourced) 2,083 GWh**, **Series B (A + nameplate fill) 2,755 GWh**, vs IEA >4,000 GWh. China 83% of A. v1 had claimed 5,518 (Series B) — that overshoot came from future targets counted as online and unsupported timeline points.
+2025 capacity online (D-023/D-024): **A confirmed 2,083 GWh** (52% of IEA) · **C best estimate 2,996 GWh** (75%: confirmed + 832 reported v1 history + 81 nameplate fill) · **B upper fill 3,511 GWh** (88%) · IEA >4,000 GWh. China 83% of A, 75% of C.
+
+**Confirmed vs reported (owner request, D-024):** v1 values that v2 blanked only because they could not be re-confirmed were restored as *reported* (flagged, v1 source, confidence ≤0.5 where status/capacity): 18 nameplates, 14 statuses, 42 ramps (after an Opus review of each row's notes; 107 capacity values stayed null because v2 contradicted/superseded them) plus ~600 descriptive values (chemistry, format, end market, years) by rule. 29 rows have evidence_tier = reported. v1 had claimed 5,518 (Series B) — that overshoot came from future targets counted as online and unsupported timeline points.
 
 ## How it was verified
 Each task: worker (Sonnet) → integrity checks → independent auditor (Opus, fresh context) re-fetching sources and judging value-vs-quote meaning → fixes → lead verification. 24 Opus audits + a FINAL sweep; 5 tail tasks waived by the 50% sampling rule, then spot-checked in the FINAL sweep (85% of their sampled quotes confirmed — below the 90% bar; residual misses are mostly 403/geo-blocked pages).

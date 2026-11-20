@@ -93,17 +93,19 @@
    "id": "catl-catl-luoyang-zhongzhou-times-new-energy-battery-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2024\":30,\"2025\":60,\"2026\":120}",
     "chemistry": "LFP",
     "end_market": "mixed",
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"chemistry\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.energytrend.com/news/20250723-49921.html",
     "chemistry": "https://www.energytrend.com/news/20250723-49921.html",
     "end_market": "https://www.energytrend.com/news/20250723-49921.html",
     "announced_year": "https://www.energytrend.com/news/20250723-49921.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, end_market, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent with phase dates (2024-12, 2025-09, end-Oct 2026); \"v1 value confirmed\" for 120 nameplate"
   },
   {
    "id": "catl-catl-xiamen-battery-base-xiamen-times-new-energy-china",
@@ -173,17 +175,21 @@
    "id": "calb-calb-changzhou-jintan-battery-base-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 70.0,
+    "capacity_ref_year": 2025,
     "chemistry": "solid-state",
     "start_year": 2017,
     "announced_year": 2015,
-    "reported_fields": "[\"announced_year\", \"chemistry\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_ref_year\", \"chemistry\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "http://www.changzhou.gov.cn/ns_news/165163780452770",
+    "capacity_ref_year": "http://www.changzhou.gov.cn/ns_news/165163780452770",
     "chemistry": "http://www.changzhou.gov.cn/ns_news/165163780452770",
     "start_year": "http://www.changzhou.gov.cn/ns_news/165163780452770",
     "announced_year": "http://www.changzhou.gov.cn/ns_news/165163780452770"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, start_year, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"NOT supported by any page I could open\"; no contrary figure. Restore ref_year 2025"
   },
   {
    "id": "calb-calb-jiangmen-base-xinhui-china",
@@ -233,19 +239,21 @@
    "id": "calb-calb-xiamen-battery-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":10,\"2027\":60}",
     "chemistry": "mixed",
     "end_market": "mixed",
     "start_year": 2023,
     "announced_year": 2021,
-    "reported_fields": "[\"announced_year\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"chemistry\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://autonews.gasgoo.com/articles/market-industry/70019680",
     "chemistry": "https://autonews.gasgoo.com/articles/market-industry/70019680",
     "end_market": "https://autonews.gasgoo.com/articles/market-industry/70019680",
     "start_year": "https://autonews.gasgoo.com/articles/market-industry/70019680",
     "announced_year": "https://autonews.gasgoo.com/articles/market-industry/70019680"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: \"Earlier phases (v1: 10+10+10) running per v1 timeline, but I did not open a page\""
   },
   {
    "id": "calb-technology-handan-co-ltd-calb-power-battery-and-energy-storage-battery-system-handan-base-china",
@@ -309,19 +317,21 @@
    "id": "weichai-findreams-weichai-findreams-yantai-new-energy-power-industrial-park-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2025\":20}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "start_year": 2025,
     "announced_year": 2023,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "http://shandong.chinadaily.com.cn/yantai/2025-03/31/c_1082153.htm",
     "chemistry": "http://shandong.chinadaily.com.cn/yantai/2025-03/31/c_1082153.htm",
     "cell_format": "http://shandong.chinadaily.com.cn/yantai/2025-03/31/c_1082153.htm",
     "start_year": "http://shandong.chinadaily.com.cn/yantai/2025-03/31/c_1082153.htm",
     "announced_year": "http://shandong.chinadaily.com.cn/yantai/2025-03/31/c_1082153.htm"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"20 GWh cell+PACK lines built, first cell off line 28 March 2025\""
   },
   {
    "id": "findreams-battery-byd-byd-findreams-shenzhen-plant-kengzi-pingshan-base-china",
@@ -345,17 +355,21 @@
    "id": "findreams-battery-byd-byd-findreams-xi-an-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "EV",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "start_year": 2022,
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657",
     "chemistry": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657",
     "cell_format": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657",
-    "end_market": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657"
+    "end_market": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657",
+    "start_year": "https://baike.baidu.com/en/item/FinDreams%20Battery/940657"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"status unconfirmed (D-016)\"; entity exists in AR, no contrary evidence"
   },
   {
    "id": "calb-calb-chengdu-plant-sichuan-base-china",
@@ -391,17 +405,19 @@
    "id": "calb-calb-hefei-plant-changfeng-xiatang-battery-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":10,\"2023\":20}",
     "chemistry": "mixed",
     "cell_format": "prismatic",
     "start_year": 2022,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"start_year\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.electrive.com/2022/10/10/calb-starts-manufacturing-batteries-at-new-hefei-plant/",
     "chemistry": "https://www.electrive.com/2022/10/10/calb-starts-manufacturing-batteries-at-new-hefei-plant/",
     "cell_format": "https://www.electrive.com/2022/10/10/calb-starts-manufacturing-batteries-at-new-hefei-plant/",
     "start_year": "https://www.electrive.com/2022/10/10/calb-starts-manufacturing-batteries-at-new-hefei-plant/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, start_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"v1 10+10 from unfetched pages\"; phases 1-2 built and producing"
   },
   {
    "id": "catl-catl-yichun-battery-production-base-china",
@@ -419,19 +435,21 @@
    "id": "zeekr-vremt-weirui-jidian-factory-zeekr-golden-brick-quzhou-cell-plant-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2024\":24}",
     "chemistry": "mixed",
     "cell_format": "prismatic",
     "start_year": 2023,
     "announced_year": 2023,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/",
     "chemistry": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/",
     "cell_format": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/",
     "start_year": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/",
     "announced_year": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent with S18: \"24 GWh annual capacity in 2024\"; operating since Nov 2023"
   },
   {
    "id": "faw-findreams-new-energy-technology-co-ltd-faw-findreams-changchun-plant-changchun-power-battery-base-china",
@@ -473,27 +491,43 @@
    "id": "quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":11}",
     "cell_format": "prismatic",
-    "reported_fields": "[\"cell_format\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://finance.sina.com.cn/wm/2024-11-22/doc-incwycqa3726500.shtml",
     "cell_format": "https://finance.sina.com.cn/wm/2024-11-22/doc-incwycqa3726500.shtml"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"reported 11 GWh in company materials\" but page \"returned 503, so not quoted\""
+  },
+  {
+   "id": "catl-catl-dongying-zero-carbon-industrial-park-lithium-battery-manufacturing-base-china",
+   "action": "fix",
+   "fields": {
+    "capacity_by_year_json": "{\"2026\":40}",
+    "reported_fields": "[\"capacity_by_year_json\"]"
+   },
+   "reported_evidence": {
+    "capacity_by_year_json": "https://www.energytrend.com/news/20250729-49941.html"
+   },
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: phase 1 40 GWh \"expected to be completed and put into operation next year\" (2026)"
   },
   {
    "id": "calb-calb-meishan-power-battery-and-energy-storage-base-pengshan-meishan-sichuan-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":20}",
     "chemistry": "LFP",
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"chemistry\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"chemistry\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.autothinker.net/Home/Publicsentiment/daily_express_details/id/179998/date/index.html",
     "chemistry": "https://www.autothinker.net/Home/Publicsentiment/daily_express_details/id/179998/date/index.html",
     "announced_year": "https://www.autothinker.net/Home/Publicsentiment/daily_express_details/id/179998/date/index.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"Phase 1 GWh online not stated in an opened page\"; phase 1 producing since 2023"
   },
   {
    "id": "calb-calb-wuhan-base-zhonghang-xinhang-wuhan-power-and-energy-storage-battery-base-china",
@@ -559,17 +593,25 @@
    "id": "byd-findreams-battery-zhengzhou-fudi-battery-co-ltd-byd-findreams-fudi-zhengzhou-battery-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 40.0,
+    "capacity_ref_year": 2023,
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "start_year": 2024,
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
+    "nameplate_capacity_gwh": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
+    "capacity_ref_year": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
     "chemistry": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
     "cell_format": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
-    "end_market": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply"
+    "end_market": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply",
+    "start_year": "https://www.scmp.com/business/china-business/article/3211817/chinas-byd-breaks-ground-ev-battery-plant-betting-nearly-us1-billion-despite-concerns-oversupply"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"status unconfirmed (D-016)\"; entity in AR, no contrary evidence; nameplate_capacity_gwh: electrive says \"40 GWh final phase - paraphrase only, not stored\". Restore ref_year 2023"
   },
   {
    "id": "great-power-qingdao-great-power-qingdao-energy-storage-battery-zero-carbon-manufacturing-base-china",
@@ -589,15 +631,17 @@
    "id": "tianjin-lishen-battery-lishen-chuzhou-base-quanjiao-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":16}",
     "chemistry": "LFP",
     "end_market": "mixed",
-    "reported_fields": "[\"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"chemistry\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://news.metal.com/newscontent/101689270/152-billion-yuan-36gwh-lishen-lithium-battery-production-base-located-in-chuzhou-anhui-province",
     "chemistry": "https://news.metal.com/newscontent/101689270/152-billion-yuan-36gwh-lishen-lithium-battery-production-base-located-in-chuzhou-anhui-province",
     "end_market": "https://news.metal.com/newscontent/101689270/152-billion-yuan-36gwh-lishen-lithium-battery-production-base-located-in-chuzhou-anhui-province"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Snippet-only: \"search snippets say 一期 16 GWh\"; consistent with the 36 GWh basis kept"
   },
   {
    "id": "calb-calb-leapmotor-wuyi-cell-plant-jinhua-china",
@@ -649,19 +693,21 @@
    "id": "tangshan-guoxuan-battery-co-ltd-wholly-owned-subsidiary-of-hefei-gotion-high-tech-power-energy-gotion-tangshan-plant-tangshan-guoxuan-battery-co-ltd-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2016\":1,\"2024\":20,\"2025\":30}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "mixed",
     "start_year": 2016,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://tangshan.huanbohainews.com.cn/2025-06/15/content_50443603.html",
     "chemistry": "https://tangshan.huanbohainews.com.cn/2025-06/15/content_50443603.html",
     "cell_format": "https://tangshan.huanbohainews.com.cn/2025-06/15/content_50443603.html",
     "end_market": "https://tangshan.huanbohainews.com.cn/2025-06/15/content_50443603.html",
     "start_year": "https://tangshan.huanbohainews.com.cn/2025-06/15/content_50443603.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: ramp \"unverified (huanbohai page returned 503), nulled\"; 2024 20 GWh confirmed"
   },
   {
    "id": "sunwoda-sunwoda-evb-sunwoda-power-sunwoda-zhuhai-plant-china",
@@ -679,17 +725,19 @@
    "id": "findreams-battery-byd-byd-findreams-jinan-battery-plant-jinan-high-tech-zone-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":15,\"2023\":30}",
     "end_market": "EV",
     "start_year": 2022,
     "announced_year": 2021,
-    "reported_fields": "[\"announced_year\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://libattery.ofweek.com/2022-07/ART-36001-8120-30568847.html",
     "end_market": "https://libattery.ofweek.com/2022-07/ART-36001-8120-30568847.html",
     "start_year": "https://libattery.ofweek.com/2022-07/ART-36001-8120-30568847.html",
     "announced_year": "https://libattery.ofweek.com/2022-07/ART-36001-8120-30568847.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"2021 press says two phases of 15 GWh (not fetched as quote)\""
   },
   {
    "id": "liuzhou-gotion-battery-co-ltd-gotion-high-tech-subsidiary-gotion-liuzhou-power-battery-base-china",
@@ -751,19 +799,21 @@
    "id": "yichun-gotion-yichun-gotion-battery-plant-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":10,\"2025\":30}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "EV",
     "start_year": 2022,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://cnevpost.com/2022/05/31/gotion-high-tech-adds-30-gwh-to-battery-capacity-as-two-new-sites-come-online/",
     "chemistry": "https://cnevpost.com/2022/05/31/gotion-high-tech-adds-30-gwh-to-battery-capacity-as-two-new-sites-come-online/",
     "cell_format": "https://cnevpost.com/2022/05/31/gotion-high-tech-adds-30-gwh-to-battery-capacity-as-two-new-sites-come-online/",
     "end_market": "https://cnevpost.com/2022/05/31/gotion-high-tech-adds-30-gwh-to-battery-capacity-as-two-new-sites-come-online/",
     "start_year": "https://cnevpost.com/2022/05/31/gotion-high-tech-adds-30-gwh-to-battery-capacity-as-two-new-sites-come-online/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"Phase I came online May 2022\"; phase II full operation Nov 2025 = 30"
   },
   {
    "id": "svolt-svolt-energy-technology-svolt-ma-anshan-plant-china",
@@ -785,15 +835,17 @@
    "id": "sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2021\": 10, \"2022\": 27}",
     "cell_format": "pouch",
     "end_market": "EV",
-    "reported_fields": "[\"cell_format\", \"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.thelec.net/news/articleView.html?idxno=11553",
     "cell_format": "https://www.thelec.net/news/articleView.html?idxno=11553",
     "end_market": "https://www.thelec.net/news/articleView.html?idxno=11553"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Snippet-only: \"Plant 1 10 GWh (Q1 2021) + Plant 2 17 GWh ... from search results\""
   },
   {
    "id": "catl-catl-zhaoqing-plant-china",
@@ -813,21 +865,27 @@
    "id": "phylion-battery-xingheng-power-phylion-chuzhou-plant-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 25.0,
+    "capacity_ref_year": 2025,
+    "capacity_by_year_json": "{\"2019\":3.5,\"2020\":8,\"2025\":12}",
     "chemistry": "LMFP",
     "cell_format": "prismatic",
     "end_market": "mixed",
     "start_year": 2019,
     "announced_year": 2018,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.phylion.com/news_21/149.html",
+    "capacity_ref_year": "https://www.phylion.com/news_21/149.html",
+    "capacity_by_year_json": "https://www.phylion.com/news_21/149.html",
     "chemistry": "https://www.phylion.com/news_21/149.html",
     "cell_format": "https://www.phylion.com/news_21/149.html",
     "end_market": "https://www.phylion.com/news_21/149.html",
     "start_year": "https://www.phylion.com/news_21/149.html",
     "announced_year": "https://www.phylion.com/news_21/149.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: pages \"could not be fetched (404 / blocked)\"; 2018 master plan. Restore ref_year 2025; capacity_by_year_json: Only unconfirmable: \"8 GWh phase 1 / 12 GWh 'ramp' ... could not be fetched (404 / blocked)\""
   },
   {
    "id": "sunwoda-automotive-battery-sunwoda-evb-sunwoda-deyang-shifang-power-and-energy-storage-battery-base-china",
@@ -997,15 +1055,21 @@
    "id": "byd-findreams-battery-byd-findreams-bengbu-plant-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 20.0,
+    "capacity_ref_year": 2022,
+    "capacity_by_year_json": "{\"2022\":10,\"2023\":20}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "EV",
     "start_year": 2022,
     "announced_year": 2020,
     "jv_partners": "Bengbu municipal government (site/investment partner; BYD is sole operator)",
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"jv_partners\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"jv_partners\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
+    "capacity_ref_year": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
+    "capacity_by_year_json": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
     "chemistry": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
     "cell_format": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
     "end_market": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
@@ -1013,7 +1077,7 @@
     "announced_year": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/",
     "jv_partners": "https://www.electrive.com/2020/12/22/china-byd-to-build-20-gwh-battery-plant-in-bengbu/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year, announced_year, jv_partners — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, chemistry, cell_format, end_market, start_year, announced_year, jv_partners — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: electrive 20 GWh \"Spanish page, no quotable GWh\" - \"not storable\". Restore ref_year 2022; capacity_by_year_json: Same unquotable electrive source; no contrary evidence; entity on environmental-disclosure list"
   },
   {
    "id": "great-power-guangzhou-great-power-energy-technology-great-power-liuzhou-smart-energy-storage-and-power-battery-manufacturing-base-china",
@@ -1037,53 +1101,59 @@
    "id": "changsha-findreams-battery-findreams-battery-byd-findreams-changsha-plant-ningxiang-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2021\":10,\"2022\":20}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "EV",
     "start_year": 2021,
     "announced_year": 2019,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://autonews.gasgoo.com/china_news/70016563.html",
     "chemistry": "https://autonews.gasgoo.com/china_news/70016563.html",
     "cell_format": "https://autonews.gasgoo.com/china_news/70016563.html",
     "end_market": "https://autonews.gasgoo.com/china_news/70016563.html",
     "start_year": "https://autonews.gasgoo.com/china_news/70016563.html",
     "announced_year": "https://autonews.gasgoo.com/china_news/70016563.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent with \"phase 1 and 2 each 10 GWh\"; years unconfirmed, no contrary evidence"
   },
   {
    "id": "dfd-new-energy-guangxi-ningfu-new-energy-technology-co-ltd-dfd-nanning-plant-guangxi-ningfu-new-energy-20gwh-lithium-battery-project-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":6}",
     "end_market": "mixed",
     "start_year": 2022,
     "announced_year": 2021,
-    "reported_fields": "[\"announced_year\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://m.bjx.com.cn/mnews/20230928/1334910.shtml",
     "end_market": "https://m.bjx.com.cn/mnews/20230928/1334910.shtml",
     "start_year": "https://m.bjx.com.cn/mnews/20230928/1334910.shtml",
     "announced_year": "https://m.bjx.com.cn/mnews/20230928/1334910.shtml"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"v1's 6 GWh Nov 2022 phase 1 not re-sourced\"; plan phase 1 = 6 GWh"
   },
   {
    "id": "svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "cell_format": "prismatic",
     "end_market": "EV",
     "announced_year": 2021,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"cell_format\", \"end_market\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "http://regional.chinadaily.com.cn/huzhou/2021-02/22/c_593733.htm",
     "cell_format": "http://regional.chinadaily.com.cn/huzhou/2021-02/22/c_593733.htm",
     "end_market": "http://regional.chinadaily.com.cn/huzhou/2021-02/22/c_593733.htm",
     "announced_year": "http://regional.chinadaily.com.cn/huzhou/2021-02/22/c_593733.htm"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, cell_format, end_market, announced_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"The site is probably producing, but that is not evidenced\""
   },
   {
    "id": "beijing-welion-new-energy-welion-new-energy-huzhou-semi-solid-plant-china",
@@ -1115,13 +1185,15 @@
    "id": "envision-aesc-envision-aesc-wuxi-plant-jiangyin-battery-manufacturing-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2021\":5,\"2023\":20}",
     "chemistry": "NMC",
-    "reported_fields": "[\"chemistry\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"chemistry\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "http://en.wuxi.gov.cn/2022-02/08/c_706067.htm",
     "chemistry": "http://en.wuxi.gov.cn/2022-02/08/c_706067.htm"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: phase 1 ~5 GWh \"not confirmed in fetched pages\"; phase 2 due 2023"
   },
   {
    "id": "zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china",
@@ -1207,21 +1279,23 @@
    "id": "svolt-svolt-jintan-plant-changzhou-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2019\":4,\"2020\":12,\"2022\":18}",
     "chemistry": "mixed",
     "cell_format": "prismatic",
     "end_market": "EV",
     "start_year": 2019,
     "announced_year": 2018,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://en.wikipedia.org/wiki/SVOLT",
     "chemistry": "https://en.wikipedia.org/wiki/SVOLT",
     "cell_format": "https://en.wikipedia.org/wiki/SVOLT",
     "end_market": "https://en.wikipedia.org/wiki/SVOLT",
     "start_year": "https://en.wikipedia.org/wiki/SVOLT",
     "announced_year": "https://en.wikipedia.org/wiki/SVOLT"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: phases \"4 + 8 + 6 = 18 GWh\"; phases 1-3 \"completed and in production\" by 2022"
   },
   {
    "id": "dalian-cbak-power-battery-co-ltd-dalian-cbak-power-battery-plant-huayuankou-base-china",
@@ -1253,35 +1327,41 @@
    "id": "findreams-battery-fuzhou-findreams-battery-plant-jiangxi-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 15.0,
+    "capacity_ref_year": 2023,
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "EV",
     "announced_year": 2021,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml",
+    "capacity_ref_year": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml",
     "chemistry": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml",
     "cell_format": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml",
     "end_market": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml",
     "announced_year": "https://m.bjx.com.cn/mnews/20231009/1335837.shtml"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"not confirmed (bjx page WAF-blocked)\". Restore ref_year 2023"
   },
   {
    "id": "lishen-battery-suzhou-co-ltd-lishen-battery-suzhou-plant-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2018\":4}",
     "end_market": "mixed",
     "start_year": 2018,
     "announced_year": 2017,
-    "reported_fields": "[\"announced_year\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://cn.solarbe.com/news/20231119/82471.html",
     "end_market": "https://cn.solarbe.com/news/20231119/82471.html",
     "start_year": "https://cn.solarbe.com/news/20231119/82471.html",
     "announced_year": "https://cn.solarbe.com/news/20231119/82471.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"older Phase I (~4 GWh, 2018 per v1) could not be re-sourced\""
   },
   {
    "id": "tianneng-new-energy-huzhou-co-ltd-zhejiang-tianneng-energy-storage-co-tianneng-changxing-south-taihu-lithium-battery-base-china",
@@ -1333,33 +1413,41 @@
    "id": "wuhu-tianyi-energy-technology-co-ltd-etc-battery-rongjie-energy-wuhu-cell-plant-wuhu-tianyi-energy-etc-battery-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 12.0,
+    "capacity_ref_year": 2025,
+    "capacity_by_year_json": "{\"2023\":6,\"2025\":12}",
     "chemistry": "mixed",
     "cell_format": "mixed",
     "announced_year": 2014,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"capacity_ref_year\", \"cell_format\", \"chemistry\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "http://www.gev.org.cn/news/1299.html",
+    "capacity_ref_year": "http://www.gev.org.cn/news/1299.html",
+    "capacity_by_year_json": "http://www.gev.org.cn/news/1299.html",
     "chemistry": "http://www.gev.org.cn/news/1299.html",
     "cell_format": "http://www.gev.org.cn/news/1299.html",
     "announced_year": "http://www.gev.org.cn/news/1299.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, chemistry, cell_format, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: gev.org.cn \"returned 503 on three attempts\". Restore ref_year 2025; capacity_by_year_json: Only unconfirmable: \"6 GWh (2023) -> 12 GWh by 2025\" source \"returned 503\""
   },
   {
    "id": "trina-storage-trina-storage-chuzhou-lfp-cell-gigafactory-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":12}",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\", \"chemistry\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.energytrend.com/news/20260626-51664.html",
     "chemistry": "https://www.energytrend.com/news/20260626-51664.html",
     "cell_format": "https://www.energytrend.com/news/20260626-51664.html",
     "announced_year": "https://www.energytrend.com/news/20260626-51664.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, cell_format, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: 12 GWh confirmed (\"possessing 12GWh\"); 2023 year \"not confirmed by fetched pages\" only"
   },
   {
    "id": "great-power-great-power-ulanqab-energy-storage-and-semi-solid-state-cell-plant-china",
@@ -1377,17 +1465,23 @@
    "id": "catl-catl-xining-plant-qinghai-times-new-energy-technology-co-ltd-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 10.5,
+    "capacity_ref_year": 2024,
+    "capacity_by_year_json": "{\"2024\":10.5}",
     "chemistry": "mixed",
     "end_market": "mixed",
     "announced_year": 2012,
-    "reported_fields": "[\"announced_year\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"capacity_ref_year\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml",
+    "capacity_ref_year": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml",
+    "capacity_by_year_json": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml",
     "chemistry": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml",
     "end_market": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml",
     "announced_year": "http://www.qinghai.gov.cn/zwgk/system/2024/01/08/030034239.shtml"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, chemistry, end_market, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"could not be re-opened (503 three times)\". Restore ref_year 2024; capacity_by_year_json: Only unconfirmable: Qinghai government 10.5 GWh page \"503 three times\""
   },
   {
    "id": "jiangsu-chuanyi-sodium-ion-technology-co-ltd-jiangsu-transimage-chuanyi-sodium-ion-battery-plant-gaoyou-china",
@@ -1497,31 +1591,37 @@
    "id": "pylontech-pylon-technologies-pylontech-hefei-feixi-lfp-cell-plant-10gwh-lithium-battery-r-d-and-manufacturing-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":5,\"2027\":10}",
     "start_year": 2023,
-    "reported_fields": "[\"start_year\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.energytrend.com/news/20221104-30341.html",
     "start_year": "https://www.energytrend.com/news/20221104-30341.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, start_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: ramp \"unconfirmed by a fetched page -> nulled\"; two 5 GWh phases"
   },
   {
    "id": "eve-energy-eve-energy-qidong-plant-eve-linyang-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 10.0,
+    "capacity_ref_year": 2022,
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "ESS",
     "start_year": 2022,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://news.91jinshu.com/lidian/202211/51857.html",
+    "capacity_ref_year": "https://news.91jinshu.com/lidian/202211/51857.html",
     "chemistry": "https://news.91jinshu.com/lidian/202211/51857.html",
     "cell_format": "https://news.91jinshu.com/lidian/202211/51857.html",
     "end_market": "https://news.91jinshu.com/lidian/202211/51857.html",
     "start_year": "https://news.91jinshu.com/lidian/202211/51857.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"91jinshu returned 503\"; Yicai \"plan 10 GWh\". Restore ref_year 2022"
   },
   {
    "id": "do-fluoride-new-energy-technology-co-ltd-dfd-dfd-jiaozuo-plant-do-fluoride-new-energy-henan-base-china",
@@ -1555,15 +1655,17 @@
    "id": "greater-bay-technology-guangzhou-juwan-technology-research-greater-bay-technology-nansha-plant-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2024\":4}",
     "start_year": 2023,
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.just-auto.com/news/greater-bay-begins-production-of-first-xfc-battery-for-evs/",
     "start_year": "https://www.just-auto.com/news/greater-bay-begins-production-of-first-xfc-battery-for-evs/",
     "announced_year": "https://www.just-auto.com/news/greater-bay-begins-production-of-first-xfc-battery-for-evs/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"plant opened 30 Oct 2023 with 4 GWh in use\""
   },
   {
    "id": "jiangsu-tafel-new-energy-jiangsu-tafel-new-energy-nanjing-plant-china",
@@ -1633,17 +1735,19 @@
    "id": "harbin-coslight-power-co-ltd-coslight-harbin-plant-harbin-coslight-power-lithium-battery-base-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "mixed",
     "cell_format": "prismatic",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "http://www.cncoslight.com/hady/channels/186.html?id=6",
     "chemistry": "http://www.cncoslight.com/hady/channels/186.html?id=6",
     "cell_format": "http://www.cncoslight.com/hady/channels/186.html?id=6",
     "end_market": "http://www.cncoslight.com/hady/channels/186.html?id=6"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market — v1 source not re-confirmed in v2; review: status: Only unconfirmable: company page \"503 on repeated fetch attempts\"; company exists, no closure evidence"
   },
   {
    "id": "shanxi-huana-xinneng-technology-huayang-yangquan-sodium-ion-battery-line-huana-xinneng-china",
@@ -1663,13 +1767,15 @@
    "id": "zhongna-energy-yangzhou-co-ltd-zhongna-energy-storage-yangzhou-base-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2024\":1,\"2025\":3,\"2026\":5}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://zhuanlan.zhihu.com/p/1924047186641032583",
     "end_market": "https://zhuanlan.zhihu.com/p/1924047186641032583"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Matches S23 plan: 1 GWh running, \"3 GWh by end-2025\", \"5 GWh planned in 2026\""
   },
   {
    "id": "hina-battery-hina-fuyang-plant-china",
@@ -1691,17 +1797,21 @@
    "id": "great-power-guangzhou-great-power-energy-technology-co-ltd-penghui-energy-great-power-zhumadian-plant-zhumadian-production-base-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 5.0,
+    "capacity_ref_year": 2023,
     "chemistry": "sodium-ion",
     "cell_format": "prismatic",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.greatpower.net/en/about/",
+    "capacity_ref_year": "https://www.greatpower.net/en/about/",
     "chemistry": "https://www.greatpower.net/en/about/",
     "cell_format": "https://www.greatpower.net/en/about/",
     "end_market": "https://www.greatpower.net/en/about/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"5 GWh came from an unverified brokerage summary\"; no contrary figure. Restore ref_year 2023"
   },
   {
    "id": "easton-east-group-easton-sodium-ion-cell-plant-dongguan-songshan-lake-china",
@@ -1751,35 +1861,41 @@
    "id": "bak-battery-shenzhen-bak-power-battery-bak-shenzhen-plant-bak-industrial-park-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 3.5,
+    "capacity_ref_year": 2018,
     "chemistry": "NMC",
     "cell_format": "cylindrical",
     "end_market": "mixed",
     "start_year": 2005,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883",
+    "capacity_ref_year": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883",
     "chemistry": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883",
     "cell_format": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883",
     "end_market": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883",
     "start_year": "https://baike.baidu.com/en/item/Shenzhen%20BAK%20Battery%20Co.,%20Ltd./659883"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"not confirmed by any fetched page\"; no contrary site figure. Restore ref_year 2018"
   },
   {
    "id": "gotion-high-tech-qingdao-gotion-battery-plant-laixi-china",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2016\":1,\"2018\":3,\"2024\":3}",
     "cell_format": "mixed",
     "end_market": "EV",
     "jv_partners": "None (wholly owned subsidiary of Hefei Gotion)",
-    "reported_fields": "[\"cell_format\", \"end_market\", \"jv_partners\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"end_market\", \"jv_partners\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://auto.qingdaonews.com/content/2024-02/01/content_23536749.htm",
     "cell_format": "https://auto.qingdaonews.com/content/2024-02/01/content_23536749.htm",
     "end_market": "https://auto.qingdaonews.com/content/2024-02/01/content_23536749.htm",
     "jv_partners": "https://auto.qingdaonews.com/content/2024-02/01/content_23536749.htm"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market, jv_partners — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format, end_market, jv_partners — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: ramp \"not re-confirmed (page does not mention them)\"; 2024 3 GWh confirmed"
   },
   {
    "id": "huizhou-highpower-technology-highpower-international-huizhou-plant-longhu-tonghu-industrial-park-china",
@@ -1801,17 +1917,25 @@
    "id": "li-fun-technology-li-fun-zhuzhou-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 2.5,
+    "capacity_ref_year": 2024,
     "chemistry": "sodium-ion",
     "cell_format": "mixed",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "start_year": 2013,
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://www.lifuntech.com/mobile/en-US/about.html",
+    "nameplate_capacity_gwh": "https://www.lifuntech.com/mobile/en-US/about.html",
+    "capacity_ref_year": "https://www.lifuntech.com/mobile/en-US/about.html",
     "chemistry": "https://www.lifuntech.com/mobile/en-US/about.html",
     "cell_format": "https://www.lifuntech.com/mobile/en-US/about.html",
-    "end_market": "https://www.lifuntech.com/mobile/en-US/about.html"
+    "end_market": "https://www.lifuntech.com/mobile/en-US/about.html",
+    "start_year": "https://www.lifuntech.com/mobile/en-US/about.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"Status unconfirmed\" (D-016); company profile supports existence, no contrary evidence; nameplate_capacity_gwh: Only unconfirmable: \"could not be re-found ... (company site lifuntech.com 404)\". Restore ref_year 2024"
   },
   {
    "id": "talent-new-energy-talent-new-energy-chongqing-solid-state-plant-china",
@@ -1845,35 +1969,43 @@
    "id": "great-power-great-power-guangzhou-panyu-plant-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 2.0,
+    "capacity_ref_year": 2023,
     "cell_format": "mixed",
     "end_market": "consumer",
-    "reported_fields": "[\"cell_format\", \"end_market\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.greatpower.net/en/about/",
+    "capacity_ref_year": "https://www.greatpower.net/en/about/",
     "cell_format": "https://www.greatpower.net/en/about/",
     "end_market": "https://www.greatpower.net/en/about/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, cell_format, end_market — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"could not be confirmed with an open page\". Restore ref_year 2023"
   },
   {
    "id": "byd-findreams-byd-findreams-huizhou-plant-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 2.0,
+    "capacity_ref_year": 2020,
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "mixed",
     "start_year": 2007,
     "announced_year": 2006,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://hs.bianmachaxun.com/qcc_company/details/351403",
+    "capacity_ref_year": "https://hs.bianmachaxun.com/qcc_company/details/351403",
     "chemistry": "https://hs.bianmachaxun.com/qcc_company/details/351403",
     "cell_format": "https://hs.bianmachaxun.com/qcc_company/details/351403",
     "end_market": "https://hs.bianmachaxun.com/qcc_company/details/351403",
     "start_year": "https://hs.bianmachaxun.com/qcc_company/details/351403",
     "announced_year": "https://hs.bianmachaxun.com/qcc_company/details/351403"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"from a company-registry page, unconfirmed, nulled\". Restore ref_year 2020"
   },
   {
    "id": "nanchang-veken-battery-co-ltd-veken-nanchang-industrial-park-nanchang-veken-sodium-battery-base-china",
@@ -1895,19 +2027,23 @@
    "id": "phylion-battery-xingheng-power-co-ltd-phylion-suzhou-plant-suzhou-manufacturing-base-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 2.0,
+    "capacity_ref_year": 2025,
     "chemistry": "mixed",
     "cell_format": "prismatic",
     "end_market": "mixed",
     "start_year": 2003,
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.inewenergy.com/newsn/gongsi/43500.html",
+    "capacity_ref_year": "https://www.inewenergy.com/newsn/gongsi/43500.html",
     "chemistry": "https://www.inewenergy.com/newsn/gongsi/43500.html",
     "cell_format": "https://www.inewenergy.com/newsn/gongsi/43500.html",
     "end_market": "https://www.inewenergy.com/newsn/gongsi/43500.html",
     "start_year": "https://www.inewenergy.com/newsn/gongsi/43500.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: v1 source \"returned HTTP 404 and could not be re-fetched\". Restore ref_year 2025"
   },
   {
    "id": "shandong-sacred-sun-power-sources-co-ltd-sacred-sun-qufu-lithium-cell-plant-china",
@@ -1927,29 +2063,42 @@
    "id": "jiangsu-sunpower-co-ltd-changhong-sanjie-jiangsu-sunpower-changhong-sanjie-taixing-cell-plant-china",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 1.5,
+    "capacity_ref_year": 2024,
+    "capacity_by_year_json": "{\"2022\":1,\"2024\":1.5}",
     "end_market": "mixed",
     "announced_year": 2014,
-    "reported_fields": "[\"announced_year\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"capacity_ref_year\", \"end_market\", \"nameplate_capacity_gwh\"]",
+    "confidence": 0.5
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.jssanjie.com/en/about/introduce/",
+    "capacity_ref_year": "https://www.jssanjie.com/en/about/introduce/",
+    "capacity_by_year_json": "https://www.jssanjie.com/en/about/introduce/",
     "end_market": "https://www.jssanjie.com/en/about/introduce/",
     "announced_year": "https://www.jssanjie.com/en/about/introduce/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, end_market, announced_year — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Snippet-only: \"seen only as a search snippet; fetch 403\"; stale (pre-phase IV). Restore ref_year 2024; capacity_by_year_json: Snippet-only: same Taixing release \"could not be re-fetched\"; no contrary figure"
   },
   {
    "id": "benan-energy-technology-jiangsu-co-ltd-benan-energy-taicang-sodium-ion-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 0.1,
+    "capacity_ref_year": 2020,
     "end_market": "ESS",
-    "announced_year": 2024,
-    "reported_fields": "[\"announced_year\", \"end_market\"]"
+    "start_year": 2020,
+    "reported_fields": "[\"capacity_ref_year\", \"end_market\", \"nameplate_capacity_gwh\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang",
+    "nameplate_capacity_gwh": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang",
+    "capacity_ref_year": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang",
     "end_market": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang",
-    "announced_year": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang"
+    "start_year": "https://news.metal.com/newscontent/103076940/Benan-Energys-Sodium-Battery-Project-Enters-EIA-Stage-in-Taicang"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, nameplate_capacity_gwh, capacity_ref_year, end_market, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"not supported by any fetched page\"; EIA expansion notice, no contrary evidence; nameplate_capacity_gwh: Only unconfirmable: 0.1 GWh \"not supported by any fetched page\". Restore ref_year 2020"
   },
   {
    "id": "huizhou-liwei-new-energy-technology-co-ltd-sunwoda-sunwoda-huizhou-plant-huizhou-liwei-new-energy-china",
@@ -1971,19 +2120,23 @@
    "id": "sunwoda-sunwoda-quzhou-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "LFP",
     "cell_format": "prismatic",
     "end_market": "ESS",
+    "start_year": 2025,
     "announced_year": 2024,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"cell_format\", \"chemistry\", \"end_market\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/",
     "chemistry": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/",
     "cell_format": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/",
     "end_market": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/",
+    "start_year": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/",
     "announced_year": "https://www.pv-magazine.com/2025/08/27/sunwoda-debuts-684-ah-storage-cell-targets-mass-production-in-early-2026/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"not re-confirmed\"; ESS News says Quzhou 684Ah cell production planned"
   },
   {
    "id": "zhuhai-cosmx-battery-co-ltd-cosmx-zhuhai-plant-zhuhai-headquarters-polymer-lithium-ion-battery-base-china",
@@ -2045,33 +2198,41 @@
    "id": "chilwee-chaowei-group-chilwee-changxing-lithium-cell-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "sodium-ion",
     "cell_format": "mixed",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "start_year": 2016,
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://chaoweigroup.goldsupplier.com/about.html",
     "chemistry": "https://chaoweigroup.goldsupplier.com/about.html",
     "cell_format": "https://chaoweigroup.goldsupplier.com/about.html",
-    "end_market": "https://chaoweigroup.goldsupplier.com/about.html"
+    "end_market": "https://chaoweigroup.goldsupplier.com/about.html",
+    "start_year": "https://chaoweigroup.goldsupplier.com/about.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: v1 claims \"were not re-found\"; company makes Li-ion at Changxing, no contrary"
   },
   {
    "id": "gree-titan-gree-titanium-new-energy-formerly-yinlong-new-energy-gree-titan-zhuhai-lto-cell-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "cell_format": "mixed",
     "end_market": "mixed",
+    "start_year": 2008,
     "announced_year": 2008,
-    "reported_fields": "[\"announced_year\", \"cell_format\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"cell_format\", \"end_market\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://news.metal.com/newscontent/101664635/help-lithium-titanate-battery-development-into-the-fast-lane-yinlong-new-energy-officially-changed-its-name-to-%22gree-titanium%22/",
     "cell_format": "https://news.metal.com/newscontent/101664635/help-lithium-titanate-battery-development-into-the-fast-lane-yinlong-new-energy-officially-changed-its-name-to-%22gree-titanium%22/",
     "end_market": "https://news.metal.com/newscontent/101664635/help-lithium-titanate-battery-development-into-the-fast-lane-yinlong-new-energy-officially-changed-its-name-to-%22gree-titanium%22/",
+    "start_year": "https://news.metal.com/newscontent/101664635/help-lithium-titanate-battery-development-into-the-fast-lane-yinlong-new-energy-officially-changed-its-name-to-%22gree-titanium%22/",
     "announced_year": "https://news.metal.com/newscontent/101664635/help-lithium-titanate-battery-development-into-the-fast-lane-yinlong-new-energy-officially-changed-its-name-to-%22gree-titanium%22/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, cell_format, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"status unconfirmed at site level\"; company-level production evidence, no contrary"
   },
   {
    "id": "tianjin-lishen-battery-lishen-mianyang-southwest-production-base-china",
@@ -2134,6 +2295,18 @@
    "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market — v1 source not re-confirmed in v2"
   },
   {
+   "id": "sunwoda-sunwoda-shenzhen-plant-china",
+   "action": "fix",
+   "fields": {
+    "status": "operational",
+    "reported_fields": "[\"status\"]"
+   },
+   "reported_evidence": {
+    "status": "https://www.sunwoda.com"
+   },
+   "notes": "REPORTED (D-024): restored v1 value(s) for status — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"No source saying they are pack-only\"; bases exist in AR CIP table"
+  },
+  {
    "id": "eve-energy-eve-energy-huizhou-plant-zhongkai-high-tech-zone-production-base-china",
    "action": "fix",
    "fields": {
@@ -2167,17 +2340,21 @@
    "id": "shenzhen-zhuoneng-new-energy-co-ltd-zhuoneng-shenzhen-plant-china",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "LFP",
     "cell_format": "cylindrical",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "start_year": 2011,
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf",
     "chemistry": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf",
     "cell_format": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf",
-    "end_market": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf"
+    "end_market": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf",
+    "start_year": "https://pdf.dfcfw.com/pdf/H2_AN201604260014549623_1.pdf"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: status: Furthest stage: 2016 report gives ~700,000 cells/day; \"no delisting notice\" or closure found"
   },
   {
    "id": "zhuhai-cosmx-battery-cosmx-chongqing-plant-china",
@@ -2339,15 +2516,17 @@
    "id": "automotive-cells-company-acc-acc-billy-berclau-douvrin-gigafactory-france",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":13,\"2030\":40}",
     "cell_format": "pouch",
     "announced_year": 2020,
-    "reported_fields": "[\"announced_year\", \"cell_format\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"cell_format\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.stellantis.com/en/news/press-releases/2023/may/stellantis-electrification-transition-in-full-swing-with-first-acc-battery-gigafactory-inaugurated-in-france",
     "cell_format": "https://www.stellantis.com/en/news/press-releases/2023/may/stellantis-electrification-transition-in-full-swing-with-first-acc-battery-gigafactory-inaugurated-in-france",
     "announced_year": "https://www.stellantis.com/en/news/press-releases/2023/may/stellantis-electrification-transition-in-full-swing-with-first-acc-battery-gigafactory-inaugurated-in-france"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"not re-sourced year by year\"; 13.4 GWh from 2023, 40 GWh ref 2030"
   },
   {
    "id": "powerco-powerco-sagunto-gigafactory-valencia-spain",
@@ -2527,17 +2706,19 @@
    "id": "sk-on-sk-on-kom-rom-hungary",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2020\":7.5,\"2022\":17}",
     "cell_format": "pouch",
     "end_market": "EV",
     "start_year": 2020,
-    "reported_fields": "[\"cell_format\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.businesskorea.co.kr/news/articleView.html?idxno=267322",
     "cell_format": "https://www.businesskorea.co.kr/news/articleView.html?idxno=267322",
     "end_market": "https://www.businesskorea.co.kr/news/articleView.html?idxno=267322",
     "start_year": "https://www.businesskorea.co.kr/news/articleView.html?idxno=267322"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market, start_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format, end_market, start_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"7.5 + 9.8 = 17.3 (SK On Hungary 2021)\"; phase 2 mass production Q1 2022"
   },
   {
    "id": "envision-aesc-envision-aesc-sunderland-gigafactory-united-kingdom",
@@ -2687,13 +2868,19 @@
    "id": "blue-solutions-blue-solutions-quimper-ergu-gab-ric-odet-mother-plant-france",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 1.5,
+    "capacity_ref_year": 2025,
+    "capacity_by_year_json": "{\"2024\":0.5,\"2025\":1.5}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"capacity_ref_year\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://franceforbatteries.fr/blue-solutions/",
+    "capacity_ref_year": "https://franceforbatteries.fr/blue-solutions/",
+    "capacity_by_year_json": "https://franceforbatteries.fr/blue-solutions/",
     "end_market": "https://franceforbatteries.fr/blue-solutions/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: \"franceforbatteries.fr returned 503\"; \"could not re-open\". Restore ref_year 2025; capacity_by_year_json: Only unconfirmable: 0.5/1.5 GWh from \"2024 trade sources I could not re-open\""
   },
   {
    "id": "morrow-batteries-morrow-cell-factory-mcf-1-arendal-norway",
@@ -2957,41 +3144,47 @@
    "id": "munoth-industries-limited-munoth-lithium-cell-plant-tirupati-india",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":0.27}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1859601",
     "end_market": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1859601"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"Phase I installed capacity 270 MWh\"; commercial production slated late 2022"
   },
   {
    "id": "e-trnl-energy-e-trnl-cell-pilot-line-bengaluru-india",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2027\":0.25}",
     "announced_year": 2026,
-    "reported_fields": "[\"announced_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.mercomindia.com/e-trnl-energy-secures-%E2%82%B9274-million-to-scale-next-generation-battery-cell-innovation",
     "announced_year": "https://www.mercomindia.com/e-trnl-energy-secures-%E2%82%B9274-million-to-scale-next-generation-battery-cell-innovation"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"plans to establish a 250 MWh pilot manufacturing facility by 2027\""
   },
   {
    "id": "log9-materials-log9-materials-bengaluru-cell-facility-india",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2023\":0.05}",
     "end_market": "mixed",
     "start_year": 2023,
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"end_market\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"end_market\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.pv-magazine-india.com/2023/04/24/log9-materials-opens-lithium-battery-cell-factory/",
     "end_market": "https://www.pv-magazine-india.com/2023/04/24/log9-materials-opens-lithium-battery-cell-factory/",
     "start_year": "https://www.pv-magazine-india.com/2023/04/24/log9-materials-opens-lithium-battery-cell-factory/",
     "announced_year": "https://www.pv-magazine-india.com/2023/04/24/log9-materials-opens-lithium-battery-cell-factory/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market, start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"initial cell production capacity of 50 MWh\" launched April 2023"
   },
   {
    "id": "tds-lithium-ion-battery-gujarat-pvt-ltd-tdsg-tds-lithium-ion-battery-gujarat-hansalpur-india",
@@ -3186,6 +3379,20 @@
    "notes": "REPORTED (D-024): restored v1 value(s) for cell_format, end_market — v1 source not re-confirmed in v2"
   },
   {
+   "id": "panasonic-energy-kaizuka-co-ltd-panasonic-energy-kaizuka-factory-japan",
+   "action": "fix",
+   "fields": {
+    "status": "operational",
+    "start_year": 2003,
+    "reported_fields": "[\"start_year\", \"status\"]"
+   },
+   "reported_evidence": {
+    "status": "https://news.panasonic.com/jp/press/jn240906-3",
+    "start_year": "https://news.panasonic.com/jp/press/jn240906-3"
+   },
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: site list \"403, snippet only\" names Kaizuka cylindrical Li-ion; no contrary"
+  },
+  {
    "id": "toyota-battery-co-ltd-formerly-primearth-ev-energy-peve-toyota-battery-peve-kosai-plant-japan",
    "action": "fix",
    "fields": {
@@ -3203,15 +3410,19 @@
    "id": "toyota-battery-co-ltd-formerly-primearth-ev-energy-toyota-battery-peve-miyagi-plant-japan",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "mixed",
     "cell_format": "prismatic",
-    "reported_fields": "[\"cell_format\", \"chemistry\"]"
+    "start_year": 2010,
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"start_year\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://en.wikipedia.org/wiki/Primearth_EV_Energy",
     "chemistry": "https://en.wikipedia.org/wiki/Primearth_EV_Energy",
-    "cell_format": "https://en.wikipedia.org/wiki/Primearth_EV_Energy"
+    "cell_format": "https://en.wikipedia.org/wiki/Primearth_EV_Energy",
+    "start_year": "https://en.wikipedia.org/wiki/Primearth_EV_Energy"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, start_year — v1 source not re-confirmed in v2; review: status: Only unconfirmable: \"no current site-level confirmation\"; Toyota says PEVE mass-produces HEV batteries"
   },
   {
    "id": "gotion-power-morocco-gotion-kenitra-gigafactory-morocco",
@@ -3271,13 +3482,15 @@
    "id": "statevolt-emirates-statevolt-ras-al-khaimah-united-arab-emirates",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2026\":6}",
     "chemistry": "semi-solid-state",
-    "reported_fields": "[\"chemistry\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"chemistry\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.investmentmonitor.ai/news/statevolt-to-build-new-battery-cell-gigafactory-in-uae/",
     "chemistry": "https://www.investmentmonitor.ai/news/statevolt-to-build-new-battery-cell-gigafactory-in-uae/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry — v1 source not re-confirmed in v2; review: capacity_by_year_json: Only unconfirmable: \"6 GWh first-phase ramp ... not confirmed in fetched pages\"; project active"
   },
   {
    "id": "recharge-industries-recharge-industries-geelong-avalon-gigafactory-australia",
@@ -3295,13 +3508,15 @@
    "id": "bravo-motor-company-brasil-energy-bravo-motor-company-gigafactory-colossus-cluster-brazil",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2028\":5}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://batteryindustry.net/bravo-motor-company-signs-agreement-to-build-a-gigafactory-in-brazil/",
     "end_market": "https://batteryindustry.net/bravo-motor-company-signs-agreement-to-build-a-gigafactory-in-brazil/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"5 GWh in 2028 (S17)\"; matches v2 nameplate 5"
   },
   {
    "id": "e-one-moli-energy-canada-ltd-e-one-moli-maple-ridge-canada",
@@ -3461,17 +3676,21 @@
    "id": "enertech-international-chungju-plant-south-korea",
    "action": "fix",
    "fields": {
+    "nameplate_capacity_gwh": 1.0,
+    "capacity_ref_year": 2024,
     "chemistry": "NMC",
     "cell_format": "pouch",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"capacity_ref_year\", \"cell_format\", \"chemistry\", \"end_market\", \"nameplate_capacity_gwh\"]"
    },
    "reported_evidence": {
+    "nameplate_capacity_gwh": "https://www.energy-storage.news/russias-rosatom-buys-stake-in-south-korean-battery-and-ess-manufacturer-enertech-international/",
+    "capacity_ref_year": "https://www.energy-storage.news/russias-rosatom-buys-stake-in-south-korean-battery-and-ess-manufacturer-enertech-international/",
     "chemistry": "https://www.energy-storage.news/russias-rosatom-buys-stake-in-south-korean-battery-and-ess-manufacturer-enertech-international/",
     "cell_format": "https://www.energy-storage.news/russias-rosatom-buys-stake-in-south-korean-battery-and-ess-manufacturer-enertech-international/",
     "end_market": "https://www.energy-storage.news/russias-rosatom-buys-stake-in-south-korean-battery-and-ess-manufacturer-enertech-international/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for nameplate_capacity_gwh, capacity_ref_year, chemistry, cell_format, end_market — v1 source not re-confirmed in v2; review: nameplate_capacity_gwh: Only unconfirmable: etnews \"not reachable\" and article \"returned 403\". Restore ref_year 2024"
   },
   {
    "id": "kokam-siheung-plant-south-korea",
@@ -3505,17 +3724,19 @@
    "id": "eig-energy-innovation-group-ltd-cheonan-plant-south-korea",
    "action": "fix",
    "fields": {
+    "status": "operational",
     "chemistry": "mixed",
     "cell_format": "pouch",
     "end_market": "mixed",
-    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"cell_format\", \"chemistry\", \"end_market\", \"status\"]"
    },
    "reported_evidence": {
+    "status": "https://www.komachine.com/en/companies/eig",
     "chemistry": "https://www.komachine.com/en/companies/eig",
     "cell_format": "https://www.komachine.com/en/companies/eig",
     "end_market": "https://www.komachine.com/en/companies/eig"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, cell_format, end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for status, chemistry, cell_format, end_market — v1 source not re-confirmed in v2; review: status: Only unconfirmable: v1 directory \"I could not open\"; paused project keeps furthest status"
   },
   {
    "id": "libest-daejeon-flexible-battery-pilot-south-korea",
@@ -3595,17 +3816,19 @@
    "id": "pt-contemporary-amperex-technology-indonesia-battery-catib-catl-catib-karawang-battery-cell-plant-indonesia",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2026\":6.9}",
     "chemistry": "NMC",
     "end_market": "EV",
     "announced_year": 2022,
-    "reported_fields": "[\"announced_year\", \"chemistry\", \"end_market\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"chemistry\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.catl.com/en/news/6481.html",
     "chemistry": "https://www.catl.com/en/news/6481.html",
     "end_market": "https://www.catl.com/en/news/6481.html",
     "announced_year": "https://www.catl.com/en/news/6481.html"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for chemistry, end_market, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, chemistry, end_market, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"initial phase 6.9 GWh/yr\"; phased commercial operations in 2026"
   },
   {
    "id": "pt-rept-battero-indonesia-rept-battero-indonesia-battery-factory-indonesia",
@@ -3649,25 +3872,29 @@
    "id": "amita-technology-thailand-amita-technology-gigafactory-eec-thailand",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2021\":1}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.nationthailand.com/pr-news/business/40009916",
     "end_market": "https://www.nationthailand.com/pr-news/business/40009916"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: EA 2021 release \"initial capacity of 1 GWh per year\"; opened Dec 2021"
   },
   {
    "id": "stb-giga-factory-inc-stb-giga-factory-philippines",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2024\":0.3}",
     "announced_year": 2023,
-    "reported_fields": "[\"announced_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.energy-storage.news/philippines-president-on-hand-at-inauguration-of-countrys-first-lfp-gigafactory/",
     "announced_year": "https://www.energy-storage.news/philippines-president-on-hand-at-inauguration-of-countrys-first-lfp-gigafactory/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"production capacity of 300 MWh annually\", line started Oct 2024"
   },
   {
    "id": "nuovo-plus-g-cell-semisolid-battery-plant-thailand",
@@ -3685,15 +3912,17 @@
    "id": "gigafactory-malaysia-sdn-bhd-gigafactory-malaysia-malaysia",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2026\":0.001}",
     "start_year": 2026,
     "announced_year": 2026,
-    "reported_fields": "[\"announced_year\", \"start_year\"]"
+    "reported_fields": "[\"announced_year\", \"capacity_by_year_json\", \"start_year\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://theedgemalaysia.com/node/810403",
     "start_year": "https://theedgemalaysia.com/node/810403",
     "announced_year": "https://theedgemalaysia.com/node/810403"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for start_year, announced_year — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, start_year, announced_year — v1 source not re-confirmed in v2; review: capacity_by_year_json: Consistent: \"~1 MWh/yr ... at full scale\", 2026 production statement"
   },
   {
    "id": "tesla-tesla-giga-texas-4680-cell-plant-united-states",
@@ -3923,13 +4152,15 @@
    "id": "im3ny-imperium3-new-york-im3ny-gigafactory-endicott-new-york-united-states",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":1,\"2023\":1.8}",
     "end_market": "mixed",
-    "reported_fields": "[\"end_market\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"end_market\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://im3ny.com/gigafactory/",
     "end_market": "https://im3ny.com/gigafactory/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for end_market — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, end_market — v1 source not re-confirmed in v2; review: capacity_by_year_json: Historic only: ramp \"could not be confirmed on pages I could open\"; 1.8 GWh confirmed 2022"
   },
   {
    "id": "electrovaya-electrovaya-jamestown-gigafactory-united-states",
@@ -3947,13 +4178,15 @@
    "id": "ess-tech-inc-ess-inc-ess-inc-wilsonville-united-states",
    "action": "fix",
    "fields": {
+    "capacity_by_year_json": "{\"2022\":0.8,\"2025\":1.0}",
     "cell_format": "mixed",
-    "reported_fields": "[\"cell_format\"]"
+    "reported_fields": "[\"capacity_by_year_json\", \"cell_format\"]"
    },
    "reported_evidence": {
+    "capacity_by_year_json": "https://www.solarpowerworldonline.com/2025/06/ess-inc-almost-closed-its-oregon-battery-manufacturing-plant-last-week/",
     "cell_format": "https://www.solarpowerworldonline.com/2025/06/ess-inc-almost-closed-its-oregon-battery-manufacturing-plant-last-week/"
    },
-   "notes": "REPORTED (D-024): restored v1 value(s) for cell_format — v1 source not re-confirmed in v2"
+   "notes": "REPORTED (D-024): restored v1 value(s) for capacity_by_year_json, cell_format — v1 source not re-confirmed in v2; review: capacity_by_year_json: Historic only: \"(2022: 0.8) unconfirmed -> nulled\"; CEO \"just shy of a gigawatt-hour\" 2025"
   },
   {
    "id": "enervenue-enervenue-shelby-county-united-states",
