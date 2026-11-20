@@ -27,3 +27,7 @@ Xiangyang 100, Zaozhuang 100 (ref 2028 estimated from 2-year build, noted), Wuha
 
 ## T006 (EVE + Hithium) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence. Quotes 15/15 on page; Hithium figures site-level and confirmed (v1 Xiamen 56 was Chongqing's). Blocking: Jingmen nameplate = installed though own source says 212 GWh after super-factory phase 2; Shenyang operational on trial-production + pack-factory quotes; Qidong 50 GWh announced project matched to a null-capacity JV row (uncounted). Minor: Malaysia quote lacks number; Qujing ref year available in AR.
+
+## T005 (Gotion) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence + spec gap. 23/23 quotes on page, 3 don't support their use. Blocking: Nantong removed as not_found though operating (stockstar 2026-09-18: phase 1 5 GWh 达产 2020) — partly induced by the lead's rework hint (lesson filed); Lujiang is_cell=false on a building name though autohome 2021 shows a 6 GWh line; Jinzhai installed/nameplate inconsistent; 4 large rows parked at 0.6 despite stale/conflicting data; v1 chemistry carried unquoted. Spec gap: undated "over time" targets under D-014 → D-015.
+Caught by: auditor independent search (Nantong, Lujiang) — checks could not.

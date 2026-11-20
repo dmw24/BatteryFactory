@@ -47,7 +47,7 @@ Only pages anyone can read without a subscription. Never cite Bloomberg/BNEF, FT
 ## Capacity semantics
 - All capacity is **GWh per year** of cell output.
 - `installed_capacity_gwh` = capacity of lines **commissioned and producing** at `installed_as_of`. Prefer the company's own figure; local-government 建成产能 (built design capacity) is acceptable but runs ~20% above company 'effective' capacity — say which basis in notes (`installed basis: company|government|press`). Only for operational plants (or partially operational phases). Null if no source states it — do not assume installed = nameplate.
-- `nameplate_capacity_gwh` = the site's **full current plan**: built + under construction + every further phase the operator or authorities publicly state **for this site with a GWh figure** (dated or not). Exclude only vague aspirations without a site-specific figure ("up to", "reserved land for expansion", company-wide targets). Same rule for single sites and hubs (D-014).
+- `nameplate_capacity_gwh` = the site's **full current plan**: built + under construction + every further phase the operator or authorities publicly state **for this site with a GWh figure** (dated or not). Exclude vague aspirations: company-wide targets, "up to", "reserved land for expansion", and undated site totals with no phase structure ("expand to 100 GWh over time", "can later be doubled") — put those in notes (D-015). If a later company filing/announcement states a different figure than earlier press, the later company figure wins and the conflict goes in notes. Same rule for single sites and hubs (D-014).
 - `capacity_ref_year` = year the last included phase is due to reach full capacity (达产 / 全部建成投产). **Required whenever nameplate is non-null** (CLAUDE.md rule 2, check C3). If no included phase has a target year, use the publication year of the source stating the full plan and write `ref_year: fallback, searched` in notes. Never use groundbreaking, topping-out or 主体建设完成 dates.
 - Record the phase breakdown in notes (一期 X built / 二期 Y under construction / 三期 Z planned), each with its source id.
 - Chinese sources: 规划/计划 = planned, 在建 = under construction, 投产/建成 = in production/built, 一期/二期 = phase 1/2. Map carefully; this is the most common error.
@@ -69,6 +69,8 @@ Only pages anyone can read without a subscription. Never cite Bloomberg/BNEF, FT
 - Coordinates: only change if you found the site itself; append `[GEO=site:<how found>]` to notes. Otherwise leave existing coordinates.
 
 ## Confidence
+Hard caps (D-015): installed figure older than 18 months, or two sources disagreeing by >15% without resolution → confidence ≤ 0.5. Do not set confidence to exactly the 0.6 gate to get past G4; if a large plant can't honestly reach 0.6, list it on an ESCALATE line.
+Never remove a row or change `is_cell_manufacturer` to make a check pass. Remove only with positive evidence (duplicate, not a cell plant, never existed); a plant that exists but is poorly documented stays as an update with low confidence.
 0.9+ needs two independent open sources agreeing on status and capacity (check C4). 0.6–0.8 one reputable source. ≤ 0.5 conflicting/dated. Large plant (≥ 10 GWh) below 0.6 fails gate G4 — dig further or escalate.
 
 ## IDs

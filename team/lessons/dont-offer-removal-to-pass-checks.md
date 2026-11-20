@@ -1,0 +1,1 @@
+Never offer 'remove the row' as a way out of a failing check in a rework message: workers take it. Offer only evidence-backed options; a poorly documented plant stays with low confidence (T005 Nantong, 2026-11-20).
