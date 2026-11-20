@@ -40,3 +40,6 @@ Format:
 - All 436 rows re-verified (G1a 158/158, G1b 100%); G2b 86%, G3, G5 pass. Open: G2a (as defined it sums undated installed figures: 2,774 GWh; dated Series A 2025 = ~3.7 TWh) and G4 (87 large plants <0.6 — open-source limit). Both go to owner at close-out.
 - rebuild.py: view `factories_active` (cell, active, comparable). build_report.py/qa.py now aggregate on it; removed a cross-status nameplate sum in build_report (rule 1) and switched China share to sourced installed.
 - PNG chart/map scripts import `ember_style`, which is not in the repo or this environment → PNGs not regenerated (capacity_chart.png, capacity_map.png are stale v1 images). report.html, qa_report.md and CSVs are regenerated.
+
+## 2026-11-20 – lead – T030 close-out
+- All 29 work tasks merged. FINAL sweep found Series A inflated by v1 timeline points → rewritten (D-023): 2025 A 2,083 / B 2,755 GWh vs IEA >4,000. Lead fix patch T030_fixes.json (Reliance 40, Ola ref 2027, 2 coords, SKOJ name). CLAUDE.md methodology rewritten. team/FINAL_REPORT.md written. Awaiting owner sign-off; G2a and G4 open.
