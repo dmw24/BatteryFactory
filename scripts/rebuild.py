@@ -83,6 +83,19 @@ def apply_patches(df):
             action = r["action"]
             rid = r.get("id")
             fields = dict(r.get("fields") or {})
+            if action == "fix":
+                # lead-only integration fix: change fields without stamping re-verification
+                if rid not in df.index:
+                    sys.exit(f"ERROR {os.path.basename(path)}: fix of unknown id {rid}")
+                for f, v in fields.items():
+                    if f not in COLUMNS or f == "id":
+                        sys.exit(f"ERROR {os.path.basename(path)}: {rid} fixes unknown field {f}")
+                    df.at[rid, f] = json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
+                if r.get("notes"):
+                    prev = df.at[rid, "research_notes"]
+                    df.at[rid, "research_notes"] = f"{prev} [{task} fix {vdate}] {r['notes']}" if isinstance(prev, str) else f"[{task} fix {vdate}] {r['notes']}"
+                log.append(f"{task}: fix {rid} ({len(fields)} fields)")
+                continue
             if action == "remove":
                 if rid not in df.index:
                     sys.exit(f"ERROR {os.path.basename(path)}: remove of unknown id {rid}")

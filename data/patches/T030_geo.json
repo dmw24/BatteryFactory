@@ -1,0 +1,6 @@
+{"task": "T030", "verified_on": "2026-11-20", "sources": {},
+ "rows": [
+  {"id": "zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china", "action": "fix",
+   "fields": {"latitude": null, "longitude": null, "geo_precision": "none"},
+   "notes": "coordinates nulled: v1 city-tier point was Yangzhou (32.40N, 119.44E) but the plant is in Guangde, Xuancheng, Anhui (~30.9N); flagged by scripts/geo_check.py. No site point found; left null rather than guessed."}
+ ]}

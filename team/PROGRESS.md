@@ -27,3 +27,7 @@ Format:
 - Done gates: G1a 61/159 top plants verified; G1b 24%; G2a installed 1,871 GWh but only 34/256 operational rows carry installed_capacity_gwh → G2 as defined will undercount; T030 must define the 2025 online measure (installed where sourced; else a flagged estimate) and possibly revise G2 with owner awareness. G4 19, G5 5 open.
 - Added C7 (reference CSVs parse) after T002.csv broke done_gates.
 - Spend so far (subagent tokens, approx): workers ~2.3M, auditors ~0.8M.
+
+## 2026-11-20 – lead – T030 prep (geo QA)
+- scripts/geo_check.py: 295 rows testable against the city in their name; 16 flagged >150 km, of which 15 are US homonym false positives (Florence SC/AL etc. — checker lacks state disambiguation) and 1 real error (Zoolnasm Guangde at Yangzhou) → lead `fix` patch data/patches/T030_geo.json. Chinese GEO=city tags vs names: 5 mismatches, 4 legitimate (county→prefecture), 1 the same Zoolnasm row. Great Power Guangde (v1 site_unflagged at Shenzhen) already nulled by T008.
+- rebuild.py: new lead-only `fix` action (changes fields without stamping re-verification).
