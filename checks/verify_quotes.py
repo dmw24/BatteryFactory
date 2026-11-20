@@ -24,7 +24,20 @@ def norm(s):
     return re.sub(r"[\s　]+", " ", s).lower().strip()
 
 
+def local_filing(url):
+    import glob
+    for f in glob.glob(os.path.join(ROOT, "team/evidence/filings/*.txt")):
+        with open(f, encoding="utf-8", errors="ignore") as fh:
+            if fh.readline().strip() == f"SOURCE: {url}":
+                return fh.read()
+    return None
+
+
 def fetch(url):
+    if url.lower().endswith(".pdf"):
+        txt = local_filing(url)
+        if txt is not None:
+            return txt
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (dataset verification)"})
     with urllib.request.urlopen(req, timeout=25) as r:
         raw = r.read()
