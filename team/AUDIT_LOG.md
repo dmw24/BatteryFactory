@@ -77,3 +77,4 @@ T013 – lead verification → merged (fixes verified; S49–S51 FOUND; 8 misses
 VERDICT fail · diligence. 21/23 sources confirmed. Blocking: StarPlus Plant 2 (34 GWh) on hold per Samsung SDI CEO 2026-03-18 but still in nameplate; v1 chemistry/format carried unquoted on 7 rows; Komárom Plant 1 possibly idle. Spec gap: idle/retooling plants → D-018.
 T015 – waived (sampled out); D-018 applied before merge.
 T011 – lead verification → merged (D-018 applied; StarPlus 33; R6 nulls).
+T017 – waived (sampled out); lead quote spot-check 26/40 FOUND, 4 MISSING, 10 FETCH_FAIL.
