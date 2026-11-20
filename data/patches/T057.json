@@ -1,0 +1,73 @@
+{
+  "task": "T057",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://www.energytrend.cn/news/20190430-68244.html",
+      "publisher": "EnergyTrend (TrendForce China), Lishen Qingdao phase 1 production start",
+      "published": "2019-04-30",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "4月29日，力神青岛基地一期正式宣布投产"
+    },
+    "S2": {
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900019.pdf",
+      "publisher": "CALB Group Co., Ltd. Annual Report 2025 (HKEX 03931), Directors' Report - continuing connected transactions",
+      "published": "2026-04-29",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "Luoyang Company has a mature and stable production line"
+    },
+    "S3": {
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900019.pdf",
+      "publisher": "CALB Group Co., Ltd. Annual Report 2025 (HKEX 03931), Directors' Report - Entrusted Processing Framework Agreement",
+      "published": "2026-04-29",
+      "accessed": "2026-11-20",
+      "language": "en",
+      "quote": "the actual transaction amount for the year ended 31 December 2025 was approximately RMB3,575.80 million"
+    }
+  },
+  "rows": [
+    {
+      "id": "lishen-qingdao-new-energy-co-ltd-now-china-auto-new-energy-qingdao-battery-technology-co-ltd-lishen-qingdao-plant-lishen-qingdao-new-energy-renamed-china-auto-new-energy-qingdao-battery-technology-july-2025-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 4,
+        "installed_as_of": "2019-04-29"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.4,
+      "notes": "[T057] dated floor (D-025): phase 1 of the Qingdao base declared in production on 2019-04-29, design annual capacity 4 GWh (EnergyTrend 2019-04-30, S1; page also states overall plan 10 GWh/yr - fetch-tool rendering of the text: '一期项目...设计年产能4 GWh', '总体规划年产能10GWh'). installed basis: press (design capacity of phase 1). Current installed is probably higher or equal: Jiemian 2024-09-27 (https://www.jiemian.com/article/11775781.html, open page) quotes Tianjin Lishen's website 'its power and energy-storage segment currently has 8 GWh capacity, planned 110 GWh' and says 'Tianjin and Qingdao (Shandong) capacity has been built and put into production' - 8 GWh is a Tianjin+Qingdao combined figure with no per-site split, so it is NOT assigned to this row. UNRESOLVED CONFLICT (nameplate untouched, confidence kept 0.4): nameplate 40 GWh rests on Xinhua-Shandong via Solarbe 2023-10-17 ('目前具备40GWh的年生产能力') and is ~5x the company's own 2024 combined 8 GWh existing and ~4x the 2019 full-site plan of 10 GWh; 2019 '40亿瓦时' (=4 GWh) could have been misread as 40 GWh. ESCALATE: nameplate 40 likely overstated; evidence supports 10 GWh (2019 plan, S1) unless a later source shows phase-2+ expansion. Not changed here because both figures are sourced and the later company number (8 GWh) is existing capacity, not plan."
+    },
+    {
+      "action": "add",
+      "id": "china-lithium-battery-technology-luoyang-co-ltd-calb-luoyang-lithium-battery-plant-china",
+      "fields": {
+        "plant_name": "China Lithium Battery Technology (Luoyang) Co., Ltd. (中航锂电（洛阳）, 'Luoyang Company') cell plant, Luoyang",
+        "operator": "China Lithium Battery Technology (Luoyang) Co., Ltd.",
+        "parent_company": "Jintan Holding group (51% Jincheng Technology, wholly owned by Jintan Holding; 49% Jinhang Holding) - not owned by CALB",
+        "country": "China",
+        "region": "China",
+        "latitude": null,
+        "longitude": null,
+        "status": "operational",
+        "start_year": null,
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "end_market": null,
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0429/2026042900019.pdf",
+        "source_date": "2026-11-20",
+        "source_published_date": "2026-04-29"
+      },
+      "evidence": {
+        "status": ["S2", "S3"]
+      },
+      "confidence": 0.4,
+      "notes": "[T057] New row (lead from data/reference/operator_sites/T004.csv, excluded there as 'no_open_source'; added because the AR shows a large operating cell-processing site). CALB AR 2025 (S2, S3): Luoyang Company is a connected person (owned 49% Jinhang Holding / 51% Jincheng Technology, the latter wholly owned by Jintan Holding), provides entrusted processing of lithium batteries for CALB under a framework agreement renewed through 31 Dec 2026, 'has a mature and stable production line', and was one of CALB's five largest suppliers; actual 2025 processing transactions ~RMB3,575.80 million (annual cap RMB3,800m). This is the historic AVIC Lithium (中航锂电) Luoyang base; it is a separate legal entity from CALB Group, so no double-count with the CALB rows (CALB Luoyang is not in the DB; the CATL Luoyang row is a different company). Capacity not disclosed in the AR; nameplate/installed/start_year/chemistry/coordinates left null (older press, not opened/verified, cites ~10 GWh for Luoyang in 2019-2021 and a 1.5 GWh phase-3 EPC case; not used). Status rests on the AR statement of an operating line and RMB3.6bn of 2025 processing fees (no 'cell' wording beyond 'lithium batteries' processing; assumed cell-level production). Freshness: AR published 2026-04-29."
+    }
+  ]
+}

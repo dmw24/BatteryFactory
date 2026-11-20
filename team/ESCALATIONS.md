@@ -17,3 +17,5 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T040 follow-up: Hubei and Henan prefecture sweeps not run (search budget); itdcw.com unreachable.
 - [ ] T038 follow-up: Shanghai + Zhejiang prefectures + Wuxi/Zhenjiang/Suqian/Lianyungang unsearched; Pengcheng Wuxian location conflict (Yibin vs Xuzhou New District) — check whether there are two sites.
 - [ ] T059: SVOLT Ma'anshan row says prismatic / 28 GWh nameplate; SVOLT June-2023 prospectus (lines ~9633-9637, ~10782) shows 21700 cylindrical winding lines of ~1 GWh combined with Shangrao. Re-check and correct.
+- [ ] T057: Lishen Qingdao nameplate 40 GWh (Solarbe/Xinhua 2023 "40GWh的年生产能力") likely overstated — company 2024: Tianjin+Qingdao combined 8 GWh existing; 2019 full-site plan 10 GWh (EnergyTrend). Possible 40亿瓦时 (=4 GWh) misread. Recommend 10 GWh after confirming.
+- [ ] T057: CALB Jintan nameplate 70 (reported) — no open phase GWh table; Sina 2025-06 says 三期 built + 25 GWh planned for 2026. Needs Jintan gov or HKEX source. CALB 2025 shipments ~116 GWh vs our C ~185 GWh.
