@@ -1,0 +1,30 @@
+{
+  "task": "T058",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://www.sohu.com/a/917606519_120952561",
+      "publisher": "Sohu (reprint of a local Shifang/Deyang press feature, 'hundred days, ten billion' retrospective)",
+      "published": "2025-07-25",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "欣旺达投资百亿元建设的25GWh动力电池生产线已于2023年投产"
+    }
+  },
+  "rows": [
+    {
+      "id": "sunwoda-automotive-battery-sunwoda-evb-sunwoda-deyang-shifang-power-and-energy-storage-battery-base-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 25,
+        "installed_as_of": "2025-07-25",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.65,
+      "notes": "[T058] Installed fill: Sohu/local press dated 2025-07-25 says the 25 GWh power-battery line (CNY 10bn) 'was put into production in 2023', so 25 GWh/yr commissioned and producing as of 2025-07-25 (dated floor, D-025; the page is 16 months old at 2026-11-20, inside the 18-month window). installed basis: press (local-government/company feature, not a company filing; wording is 'put into production', no effective-capacity statement). Nameplate 28 GWh and ref_year 2026 are unchanged from T007 (Chuanguan News, 2026-07-31, https://cbgc.scol.com.cn/news/7811813: lines 4 and 5 in commissioning, 'all in production in H2 2026', total capacity to reach 28 GWh; original lines run at 110-120% of rated target). Unresolved inconsistency (not a conflict between two stated figures): the same 2025-07 Sohu feature says a further 7.4 GWh ESS-cell line was under construction, which would give 25 + 7.4 = 32.4 GWh, above the 28 GWh later company figure; the newer company figure is kept as nameplate per CONVENTIONS and the 7.4 is not added. Whether the 2025 '25 GWh' already includes any of lines 4-5 is not stated. The Sohu quote was read through the fetch tool's extraction, not a raw HTML copy; the auditor should string-match it."
+    }
+  ]
+}
