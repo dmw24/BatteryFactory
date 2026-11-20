@@ -182,8 +182,8 @@
      "notes": "Cancelled/abandoned. Announced Feb 2021: 'initial capacity of 45 GWh ... could later be expanded to 70 GWh' (S39; 70 GWh is an aspiration, excluded per D-015). Founder Lars Carlstrom 'has given up trying to build a gigafactory in Italy' and moved to a UAE project (S38, BEST Magazine 3 Apr 2024); Milan court crisis proceedings/liquidation plan Jan 2024 (bestmag 25 Jan 2024 and automoto.it 10 Jan 2024 pages opened). The Scarmagno (ex-Olivetti) site was reportedly ruled out (suspected asbestos, grid) and the lease with Prelios lapsed (search snippet). No 2025-26 news on the site found (searched) - nothing suggests revival. Never built -> status announced. capacity_ref_year 2021 = publication-year fallback, ref_year: fallback, searched (v1 'inferred' year dropped). v1 chemistry/format/end_market (NMC, mixed, mixed) were announcements only and unconfirmed in opened pages -> null. Coordinates unchanged (town-level). The UAE successor (Statevolt Emirates, Ras Al Khaimah, 40 GWh) is outside Europe - see Discoveries."},
 
     {"id": "lyten-formerly-northvolt-northvolt-ett-skellefte-sweden", "action": "update",
-     "fields": {"status": "operational", "project_state": "active", "start_year": 2021, "announced_year": null,
-                "installed_capacity_gwh": 16, "installed_as_of": "2026-02-26",
+     "fields": {"status": "operational", "project_state": "paused", "start_year": 2021, "announced_year": null,
+                "installed_capacity_gwh": null, "installed_as_of": null,
                 "nameplate_capacity_gwh": 16, "capacity_ref_year": 2026, "capacity_by_year_json": null,
                 "chemistry": "NMC", "cell_format": "prismatic", "end_market": "mixed", "jv_partners": null, "site_type": "single_site",
                 "source_url": "https://lyten.com/2026/02/26/lyten-completes-acquisition-of-northvolt-sweden/", "source_date": "2026-11-20", "source_published_date": "2026-02-26"},
