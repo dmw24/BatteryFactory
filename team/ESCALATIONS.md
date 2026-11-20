@@ -14,3 +14,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T041 follow-up: west-China sweep truncated by search budget (Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Tibet unsearched). Puer Dianna (Yunnan, 2 GWh) cell vs pack unresolved.
 - [ ] T044 follow-up: sweep truncated — rerun Canada, Mexico, South America, Africa, Oceania, Russia secondary makers, US small LFP/ESS, Poland/Baltics/Nordics. Leads: Saft Bordeaux solid-state lines, Ruien Inđija (Serbia), Liotech Novosibirsk.
 - [ ] T042 follow-up: north-China sweep truncated — rerun Shandong (Weifang, Linyi, Dezhou, Liaocheng, Weihai, Taian, Zibo, Binzhou), Hebei, Shanxi, Tianjin, Beijing, NE China. Leads: Qingtao Wuhai (cell GWh?), Zhongbei Runliang location, Gotion Baotou (brochure only).
+- [ ] T040 follow-up: Hubei and Henan prefecture sweeps not run (search budget); itdcw.com unreachable.

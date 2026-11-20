@@ -1325,15 +1325,15 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "merged",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
       "audit": {
-        "verdict": null,
-        "by": null,
-        "notes": null
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "9 adds (1 operator-less park removed by lead); quotes 20/21; truncated by search budget for Hubei/Henan"
       }
     },
     {
