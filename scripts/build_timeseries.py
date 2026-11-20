@@ -76,21 +76,35 @@ def timeline_series(tl):
 
 
 def _with_installed(r):
-    """v2: add the re-verified installed_capacity_gwh (dated by installed_as_of) as a sourced
-    'operational' point, and the full nameplate at capacity_ref_year as a 'planned' point."""
-    pts = []
-    if r["capacity_timeline"]:
-        try:
-            pts = [p for p in json.loads(r["capacity_timeline"]) if isinstance(p, dict)]
-        except (json.JSONDecodeError, TypeError):
-            pts = []
-    inst, asof = r.get("installed_capacity_gwh"), r.get("installed_as_of")
-    if inst is not None and asof:
+    """v2 (post-FINAL sweep): Series A uses only data the re-verification supports.
+    - Plant must be operational. Otherwise no online capacity.
+    - The anchor is installed_capacity_gwh at installed_as_of (v2, sourced). With no anchor the plant is
+      'online_unquantified' (counted 0), never filled from v1 timelines.
+    - v1 capacity_timeline firm points are kept only BEFORE the anchor year and capped at the anchor
+      (sourced history), never after it.
+    - The full nameplate at capacity_ref_year is a 'planned' point (pipeline only)."""
+    if r.get("status") != "operational":
+        pts = []
+    else:
+        inst, asof = r.get("installed_capacity_gwh"), r.get("installed_as_of")
+        if inst is None or not asof:
+            return json.dumps([{"year": int(r["start_year"] or 2025), "cumulative_gwh": 0.0, "basis": "operational"}]) \
+                if r.get("start_year") else None
         y = int(str(asof)[:4])
-        pts = [p for p in pts if not (p.get("basis") in FIRM_BASIS and int(p.get("year", 0)) >= y)]
-        pts.append({"year": y, "cumulative_gwh": float(inst), "basis": "operational"})
+        hist = []
+        if r["capacity_timeline"]:
+            try:
+                hist = [p for p in json.loads(r["capacity_timeline"]) if isinstance(p, dict)
+                        and p.get("basis") in FIRM_BASIS and p.get("year") and int(p["year"]) < y]
+            except (json.JSONDecodeError, TypeError):
+                hist = []
+        for p in hist:
+            if p.get("cumulative_gwh") is not None:
+                p["cumulative_gwh"] = min(float(p["cumulative_gwh"]), float(inst))
+        pts = [p for p in hist if p.get("cumulative_gwh") is not None] + \
+              [{"year": y, "cumulative_gwh": float(inst), "basis": "operational"}]
     np, ry = r["nameplate_capacity_gwh"], r["capacity_ref_year"]
-    if pts and np is not None and ry is not None:
+    if np is not None and ry is not None:
         pts.append({"year": int(ry), "cumulative_gwh": float(np), "basis": "planned"})
     return json.dumps(pts) if pts else None
 
@@ -108,7 +122,7 @@ def series_for(r):
             if s:
                 return ({y: v[0] for y, v in s.items()},
                         {y: v[1] for y, v in s.items()}, "real")
-    cby = r["capacity_by_year_json"]
+    cby = None  # v2: phased/modelled firm paths disabled; pipeline-only rows handled below
     if cby:
         try:
             m = {int(y): float(v) for y, v in json.loads(cby).items()}
@@ -125,7 +139,7 @@ def series_for(r):
             pipe = {y: max(0.0, carried[y] - firm[y]) for y in carried}
             return firm, pipe, "phased"
     np = r["nameplate_capacity_gwh"]
-    if np is not None:
+    if np is not None and r.get("status") != "operational":
         oy = next((int(r[k]) for k in ("start_year", "capacity_ref_year", "announced_year")
                    if r[k] is not None), None)
         if oy is None:
@@ -196,7 +210,7 @@ def main():
         if (r.get("project_state") or "active") != "active":
             # D-018 / cancelled: no online capacity from the current year on, no pipeline
             for y in list(firm):
-                if y > LAST_ACTUAL:
+                if y >= LAST_ACTUAL:
                     firm[y] = 0.0
                     pipe[y] = 0.0
         kinds[kind] += 1
@@ -208,7 +222,7 @@ def main():
         active = (r.get("project_state") or "active") == "active"
         has_sourced = kind in ("real", "phased")
         for y in firm:
-            if has_sourced:
+            if kind == "real":
                 npl = firm[y]                       # v2: sourced installed level
             else:
                 npl = (np if (np is not None and r["status"] == "operational" and (active or y <= LAST_ACTUAL)

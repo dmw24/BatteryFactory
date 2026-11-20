@@ -91,26 +91,23 @@ quote) lives in `data/field_evidence.csv`. Use the DuckDB view **`factories_acti
 
 ## Capacity-over-time methodology
 
-`capacity_timeline` (per plant) holds **real, dated, individually-sourced** capacity
-observations — no interpolation or modelled ramps. `scripts/build_timeseries.py` turns these
-into a year-by-year build-out (`capacity_by_year` table) using two measures:
+v2 (D-023, after the FINAL audit sweep). `scripts/build_timeseries.py` builds the `capacity_by_year` table
+from **active, comparable cell plants** only (non-cell rows, paused/cancelled projects from 2025 on, and the
+non-comparable long-duration chemistries in `data/reference/non_comparable.csv` contribute 0).
 
-- **Series A — capacity online (achieved).** Sums only `operational`/`commissioned` sourced
-  datapoints, carried flat between sourced points. Plants without a sourced number contribute 0.
-  This is the honest **floor** and is what the chart bars show.
-- **Series B — installed nameplate (IEA/BNEF basis).** Credits an operational plant's full
-  nameplate from the year it came online. This mirrors how IEA/BNEF/Benchmark count — they credit
-  a commissioned line at full nameplate immediately (IEA notes it can take 5+ years to reach
-  nominal output; real utilisation is ~40–50%). This is the **upper** comparator.
+- **Series A — sourced online capacity (floor).** Only re-verified `installed_capacity_gwh` figures, dated by
+  `installed_as_of`, carried flat afterwards. v1 `capacity_timeline` history is kept only for years before that
+  anchor and capped at it. Operational plants with no sourced installed figure count 0 (`online_unquantified`).
+- **Series B — A plus nameplate fill (upper-bound fill).** A, plus the full `nameplate_capacity_gwh` of
+  operational plants that lack a sourced installed figure, from their online year. B ≥ A by construction;
+  because nameplate is the full site plan (D-014), the fill overstates those plants.
+- **Pipeline** = nameplate at `capacity_ref_year` above what is online.
 
-**Reconciliation:** external benchmarks are *nameplate* and sit **between** our two series —
-Series A (achieved) ≤ IEA/BNEF ≤ Series B (installed nameplate). Published points for overlay are
-in `scripts/benchmarks.csv` (IEA 2023=2.5, 2024≈3.0, 2025>4 TWh; BNEF 2023≈2.6 TWh; ~85% China).
-`source_kind` on each row marks whether a plant-year is `real` (sourced timeline), `phased`,
-`modelled` (nameplate step, no timeline), or `online_unquantified` (operational but no sourced
-number — counted at 0, surfaced not hidden). Pipeline = announced/under-construction capacity
-above what is online. Never present Series A head-to-head with IEA/BNEF without noting the
-achieved-vs-nameplate distinction.
+**Reconciliation.** External benchmarks (IEA/BNEF, `scripts/benchmarks.csv`) are commissioned nameplate. In
+v2 both A and B sit **below** IEA for 2025 (≈2.1 and ≈2.8 TWh vs >4 TWh): open, site-level sources do not
+disclose installed capacity for many large Chinese bases (e.g. BYD: ~285 GWh of 2025 installations vs 123 GWh
+of sourced site capacity). The gap is coverage, not evidence of over-reporting by IEA. Never present A as
+comparable to IEA without this caveat; never sum capacity across statuses.
 
 ## Files
 

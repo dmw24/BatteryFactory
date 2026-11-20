@@ -1,0 +1,19 @@
+{"task": "T030", "verified_on": "2026-11-20",
+ "sources": {},
+ "rows": [
+  {"id": "reliance-new-energy-reliance-dhirubhai-ambani-green-energy-giga-complex-battery-gigafactory-india", "action": "fix",
+   "fields": {"nameplate_capacity_gwh": 40, "capacity_ref_year": 2026, "confidence": 0.6},
+   "notes": "FINAL sweep (D-015/D-021): T018 S6 states a dated 40 GWh first phase ('on track to be commissioned this year'); the 120 GWh is an undated 'committed to scale this up' aspiration → notes only. S9 says phase 1 'initially' assembles battery packs; cell output unconfirmed."},
+  {"id": "ola-cell-technologies-ola-gigafactory-krishnagiri-india", "action": "fix",
+   "fields": {"capacity_ref_year": 2027},
+   "notes": "FINAL sweep: capacity_ref_year 2027 from T018 S13 (pv-magazine-india 2026-05-29: '6 GWh to 20 GWh by next year'); the earlier 2031 was the PLI incentive window (S14), not a capacity date."},
+  {"id": "panasonic-energy-panasonic-energy-suminoe-factory-japan", "action": "fix",
+   "fields": {"latitude": null, "longitude": null, "geo_precision": "none"},
+   "notes": "coordinates nulled: v1 point was Oizumi, Gunma; Suminoe factory is in Suminoe-ku, Osaka (FINAL sweep)."},
+  {"id": "toyota-battery-co-ltd-formerly-primearth-ev-energy-toyota-battery-peve-miyagi-plant-japan", "action": "fix",
+   "fields": {"latitude": null, "longitude": null, "geo_precision": "none"},
+   "notes": "coordinates nulled: v1 point was Toyota City, Aichi, not Miyagi (FINAL sweep)."},
+  {"id": "sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china", "action": "fix",
+   "fields": {"plant_name": "SKOJ Yancheng battery plant (SK On; formerly SK On–EVE Energy JV)"},
+   "notes": "name updated: SK On holds 100% per T011 notes (FINAL sweep)."}
+ ]}

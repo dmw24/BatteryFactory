@@ -1,6 +1,6 @@
 # Battery Gigafactory Database — QA report
 
-Generated from `factories.db`. Total rows: **437**. Confirmed cell manufacturers: **345**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
+Generated from `factories.db`. Total rows: **438**. Confirmed cell manufacturers: **345**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
 
 > Capacity is annual GWh/year at nameplate. Totals are grouped by status and are **never summed across statuses** — announced, under-construction and operational capacity are distinct and must not be added together.
 
@@ -11,8 +11,8 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 247 | 6219.0 | 2767.0 |
-| under_construction | 64 | 1693.0 | — |
+| operational | 248 | 6204.0 | 2767.0 |
+| under_construction | 64 | 1613.0 | — |
 | announced | 44 | 761.0 | — |
 | (unknown) | 28 | 62.0 | — |
 
@@ -35,7 +35,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---|---:|---:|
 | China | (unknown) | 16 | 60.0 |
 | China | announced | 18 | 472.0 |
-| China | operational | 161 | 5085.0 |
+| China | operational | 162 | 5070.0 |
 | China | under_construction | 35 | 896.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 6 | 70.0 |
@@ -44,7 +44,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | India | (unknown) | 1 | — |
 | India | announced | 10 | 81.0 |
 | India | operational | 5 | 33.0 |
-| India | under_construction | 5 | 171.0 |
+| India | under_construction | 5 | 91.0 |
 | Japan | (unknown) | 3 | — |
 | Japan | announced | 1 | 16.0 |
 | Japan | operational | 14 | 43.0 |
@@ -62,7 +62,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | USA | operational | 23 | 477.0 |
 | USA | under_construction | 7 | 162.0 |
 
-## 1. Suspected duplicate sites (56 pairs/groups)
+## 1. Suspected duplicate sites (54 pairs/groups)
 
 Review these — they may be the same physical site under different names, or legitimately distinct sites of the same operator.
 
@@ -108,12 +108,10 @@ Review these — they may be the same physical site under different names, or le
 | same coordinates ~(37.3, -121.9) | Lyten San Jose ⟷ QuantumScape San Jose (Eagle Line / QS-0) ⟷ Sakuu Silicon Valley | lyten-lyten-san-jose-united-states, quantumscape-quantumscape-san-jose-eagle-line-qs-0-united-states, sakuu-sakuu-silicon-valley-united-states |
 | same coordinates ~(28.7, 115.9) | Veken Nanchang Industrial Park (Nanchang Veken sodium battery base) ⟷ Sunwoda Nanchang power battery production base | nanchang-veken-battery-co-ltd-veken-nanchang-industrial-park-nanchang-veken-sodium-battery-base-china, sunwoda-sunwoda-nanchang-power-battery-production-base-china |
 | same coordinates ~(30.3, 120.2) | Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base ⟷ Narada Hangzhou Lin'an Plant ⟷ Wanxiang A123 Hangzhou Plant (Wanxiang Innovation Energy City) | narada-power-nandu-power-nandu-power-narada-hangzhou-fuyang-lithium-cell-base-china, narada-power-zhejiang-narada-power-source-co-ltd-narada-hangzhou-lin-an-plant-china, wanxiang-a123-wanxiang-a123-hangzhou-plant-wanxiang-innovation-energy-city-china |
-| same coordinates ~(36.3, 139.4) | Panasonic Energy Oizumi Factory ⟷ Panasonic Energy Suminoe Factory | panasonic-energy-panasonic-energy-oizumi-factory-japan, panasonic-energy-panasonic-energy-suminoe-factory-japan |
 | same coordinates ~(51.0, 2.4) | ProLogium Dunkirk Gigafactory ⟷ Verkor Gigafactory (Bourbourg, Dunkirk) | prologium-prologium-dunkirk-gigafactory-france, verkor-verkor-gigafactory-bourbourg-dunkirk-france |
 | same coordinates ~(29.0, 118.9) | Great Power Quzhou energy storage battery base (Quzhou Smart Manufacturing New City) ⟷ Sunwoda Quzhou plant ⟷ Zeekr Golden Brick Quzhou Cell Plant | quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china, sunwoda-sunwoda-quzhou-plant-china, zeekr-vremt-weirui-jidian-factory-zeekr-golden-brick-quzhou-cell-plant-china |
 | same coordinates ~(28.0, 120.7) | REPT Battero Wenzhou plant ⟷ BYD FinDreams Wenzhou battery base (Qiaotou, Yongjia) | rept-battero-rept-battero-wenzhou-plant-china, wenzhou-findreams-battery-co-ltd-byd-findreams-wenzhou-battery-base-qiaotou-yongjia-china |
-| same coordinates ~(33.4, 120.2) | SKOJ Yancheng battery plant (SK On–EVE Energy JV) ⟷ SVOLT Yancheng plant ⟷ Yaoning New Energy Jianhu (Shanggang) Base | sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china, svolt-svolt-energy-technology-svolt-yancheng-plant-china, yao-ning-new-energy-jianhu-yaoning-new-energy-technology-yaoning-new-energy-jianhu-shanggang-base-china |
-| same coordinates ~(35.1, 137.2) | Toyota Battery (PEVE) Miyagi Plant ⟷ Toyota Teiho Plant | toyota-battery-co-ltd-formerly-primearth-ev-energy-toyota-battery-peve-miyagi-plant-japan, toyota-motor-corporation-toyota-teiho-plant-japan |
+| same coordinates ~(33.4, 120.2) | SKOJ Yancheng battery plant (SK On; formerly SK On–EVE Energy JV) ⟷ SVOLT Yancheng plant ⟷ Yaoning New Energy Jianhu (Shanggang) Base | sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china, svolt-svolt-energy-technology-svolt-yancheng-plant-china, yao-ning-new-energy-jianhu-yaoning-new-energy-technology-yaoning-new-energy-jianhu-shanggang-base-china |
 | same operator + shared location token 'xiamen' | CATL Xiamen battery base (Xiamen Times New Energy) ⟷ CATL Xiamen Times high-performance lithium battery project (Tongxiang, Dongliao section) | catl-catl-xiamen-battery-base-xiamen-times-new-energy-china, catl-catl-xiamen-times-high-performance-lithium-battery-project-china |
 | same operator + shared location token 'sunderland' | AESC Sunderland Plant 1 (original gigafactory) ⟷ Envision AESC Sunderland Gigafactory | envision-aesc-aesc-sunderland-plant-1-united-kingdom, envision-aesc-envision-aesc-sunderland-gigafactory-united-kingdom |
 | same operator + shared location token 'zhongkai' | EVE Energy Huizhou plant (Zhongkai High-tech Zone production base) ⟷ EVE Energy Huizhou Zhongkai 60GWh energy storage (power) battery project | eve-energy-eve-energy-huizhou-plant-zhongkai-high-tech-zone-production-base-china, eve-energy-huizhou-tonghu-zhongkai-60gwh-china |
@@ -389,7 +387,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Trentar Sodium-Ion Cell Plant | Trentar Energy Solutions | India | 0.45 | Y | [T018 2026-11-20] KPIT release 2025-02-12 (S52): Trentar to commercialise KPIT's sodium-io… |
 | UNIGRID San Diego | UNIGRID Battery | United States | 0.45 | Y | [T017 2026-11-20] 12,000 sq ft Sorrento Valley pilot/LRIP sodium-ion cell line funded by a… |
 | Waaree ESS Cell Plant (Rola) | Waaree ESS (Waaree Energy Storage Solutions) | India | 0.45 | Y | [T018 2026-11-20] Changed vs v1: under_construction -> announced (no source says cell-line… |
-| Wanxiang A123 Hangzhou Plant (Wanxiang Innovation Energy City) | Wanxiang A123 | China | 0.45 | Y | [T024 2026-11-20] EnergyTrend CN 2024-04-12: first 3.85 GWh line officially in production … |
+| Wanxiang A123 Hangzhou Plant (Wanxiang Innovation Energy City) | Wanxiang A123 | China | 0.45 | Y | [T024 2026-11-20] CHANGED after audit (D-015/D-021). EnergyTrend CN 2024-04-12: 一期 24 GWh … |
 | UniLiB La Plata | Y-TEC | Argentina | 0.45 | Y | [T020 2026-11-20] UniLiB pilot/development plant (Y-TEC + Universidad Nacional de La Plata… |
 | YİĞİT AKÜ-Ganfeng gigafactory | YİĞİT AKÜ-Ganfeng LiEnergy JV | Turkey | 0.45 | Y | [T009 2026-11-20] Announced Aug 2024 (5 GWh design capacity, USD 500m, JV with Yigit Aku).… |
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | 0.45 | Y | [T024 2026-11-20] Operator is Zhuhai CosMX (珠海冠宇, 688772); 2025 annual report (S31, p.12) … |
