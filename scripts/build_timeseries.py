@@ -168,6 +168,13 @@ def main():
     import csv as _csv, os as _os
     nc_path = "data/reference/non_comparable.csv"
     non_comparable = {row["id"] for row in _csv.DictReader(open(nc_path))} if _os.path.exists(nc_path) else set()
+    # v1 timeline points whose cited page does not contain the number (scripts/check_timeline_sources.py)
+    tc_path = "data/reference/reported/timeline_check.csv"
+    bad_hist = set()
+    if _os.path.exists(tc_path):
+        tc = list(_csv.DictReader(open(tc_path)))
+        ids_ = {x["id"] for x in tc}
+        bad_hist = {i for i in ids_ if all(x["result"] == "NUMBER_MISSING" for x in tc if x["id"] == i)}
     excluded = [r for r in R if r["id"] in non_comparable]
     R = [r for r in R if r["id"] not in non_comparable]
     print(f"excluded {len(excluded)} non-comparable rows (D-019), nameplate "
@@ -248,6 +255,8 @@ def main():
             # (capped at nameplate); else the nameplate fill used by B.
             if kind == "real":
                 best, basis = firm[y], "confirmed"
+            elif r["id"] in bad_hist:
+                best, basis = 0.0, "unsupported_v1_timeline"
             elif npl and reported_hist:
                 best, basis = min(reported_hist.get(y, 0.0), np or 1e9), "reported_v1_timeline"
             else:

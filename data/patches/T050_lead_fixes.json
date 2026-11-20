@@ -29,6 +29,22 @@
     "capacity_ref_year": null
    },
    "notes": "lead (D-026): 15 GWh spans 'battery cells to system integration' with no cell split → nameplate null, figure in notes."
+  },
+  {
+   "id": "renera-renera-kaliningrad-gigafactory-russia",
+   "action": "fix",
+   "fields": {
+    "region": "Europe"
+   },
+   "notes": "lead: region aligned — Russian plants classed as Europe (consistent with T044/T052 and the Turkey/UK convention)."
+  },
+  {
+   "id": "rosatom-rosatom-moscow-gigafactory-russia",
+   "action": "fix",
+   "fields": {
+    "region": "Europe"
+   },
+   "notes": "lead: region aligned — Russian plants classed as Europe (consistent with T044/T052 and the Turkey/UK convention)."
   }
  ]
 }
