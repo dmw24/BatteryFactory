@@ -24,3 +24,6 @@ Times-FAW Xiapu capacity nulled (inside Ningde hub); Luoyuan/Dongying cite AR202
 
 ## T004 – lead verification of audit-1 fixes – 2026-11-20 → merged
 Xiangyang 100, Zaozhuang 100 (ref 2028 estimated from 2-year build, noted), Wuhan 50, Yichang 195; Zigong quote now contains 50GWh (S44 FOUND); Sines → announced; CALB Fujian/Luoyang/Thailand in site list. verify_quotes 41/42 FOUND. Open: CALB Changzhou capacity null (escalated); many CALB operational rows lack installed figures (G2 undercount risk).
+
+## T006 (EVE + Hithium) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence. Quotes 15/15 on page; Hithium figures site-level and confirmed (v1 Xiamen 56 was Chongqing's). Blocking: Jingmen nameplate = installed though own source says 212 GWh after super-factory phase 2; Shenyang operational on trial-production + pack-factory quotes; Qidong 50 GWh announced project matched to a null-capacity JV row (uncounted). Minor: Malaysia quote lacks number; Qujing ref year available in AR.
