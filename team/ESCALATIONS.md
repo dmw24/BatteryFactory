@@ -15,3 +15,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T044 follow-up: sweep truncated — rerun Canada, Mexico, South America, Africa, Oceania, Russia secondary makers, US small LFP/ESS, Poland/Baltics/Nordics. Leads: Saft Bordeaux solid-state lines, Ruien Inđija (Serbia), Liotech Novosibirsk.
 - [ ] T042 follow-up: north-China sweep truncated — rerun Shandong (Weifang, Linyi, Dezhou, Liaocheng, Weihai, Taian, Zibo, Binzhou), Hebei, Shanxi, Tianjin, Beijing, NE China. Leads: Qingtao Wuhai (cell GWh?), Zhongbei Runliang location, Gotion Baotou (brochure only).
 - [ ] T040 follow-up: Hubei and Henan prefecture sweeps not run (search budget); itdcw.com unreachable.
+- [ ] T038 follow-up: Shanghai + Zhejiang prefectures + Wuxi/Zhenjiang/Suqian/Lianyungang unsearched; Pengcheng Wuxian location conflict (Yibin vs Xuzhou New District) — check whether there are two sites.
