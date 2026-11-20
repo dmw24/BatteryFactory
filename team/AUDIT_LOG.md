@@ -71,3 +71,4 @@ VERDICT fail · capability + diligence. 41/41 quotes on page. Blocking: Tesla Ne
 
 T012 – lead verification → merged (Ordos 10.5 company figure, Ibaraki 6, Smyrna 7, Sunderland P1 status null).
 T014 – waived (sampled out, normal risk); lead fixed one id typo in patch (integration fix); FAAM start_year nulled after C3.
+T013 – lead verification → merged (fixes verified; S49–S51 FOUND; 8 misses were hand-confirmed in audit 1).
