@@ -103,3 +103,4 @@ T023 – lead verification → merged (Pylontech Shanghai restored, Narada Nandu
 
 ## T024 (China tail 4) – audit 1 – 2026-11-20
 VERDICT fail · diligence. 21/21 quotes. Blocking: Qingtao 10.5 arithmetic vs source's 10; Wanxiang 80 vision (2019–2035) as nameplate with ref 2024 (stated phases 24+32=56). Spec gap → D-021.
+T024 – lead verification → merged.

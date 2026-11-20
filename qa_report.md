@@ -1,6 +1,6 @@
 # Battery Gigafactory Database — QA report
 
-Generated from `factories.db`. Total rows: **436**. Confirmed cell manufacturers: **344**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
+Generated from `factories.db`. Total rows: **437**. Confirmed cell manufacturers: **345**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
 
 > Capacity is annual GWh/year at nameplate. Totals are grouped by status and are **never summed across statuses** — announced, under-construction and operational capacity are distinct and must not be added together.
 
@@ -11,9 +11,9 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 247 | 6245.0 | 2774.0 |
-| under_construction | 63 | 1691.0 | — |
-| announced | 44 | 792.0 | — |
+| operational | 247 | 6219.0 | 2767.0 |
+| under_construction | 64 | 1693.0 | — |
+| announced | 44 | 761.0 | — |
 | (unknown) | 28 | 62.0 | — |
 
 ### Paused and cancelled projects (excluded from the totals above)
@@ -21,13 +21,13 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | project_state | furthest status | plants | Σ nameplate GWh/yr (not counted) |
 |---|---|---:|---:|
 | cancelled | (unknown) | 1 | — |
-| cancelled | announced | 10 | 165.0 |
+| cancelled | announced | 9 | 105.0 |
 | cancelled | operational | 5 | 2.0 |
-| cancelled | under_construction | 4 | 59.0 |
+| cancelled | under_construction | 5 | 89.0 |
 | paused | (unknown) | 1 | — |
-| paused | announced | 6 | 71.0 |
+| paused | announced | 5 | 71.0 |
 | paused | operational | 7 | 39.0 |
-| paused | under_construction | 7 | 145.0 |
+| paused | under_construction | 8 | 145.0 |
 
 ### Region × status matrix
 
@@ -35,8 +35,8 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---|---:|---:|
 | China | (unknown) | 16 | 60.0 |
 | China | announced | 18 | 472.0 |
-| China | operational | 161 | 5111.0 |
-| China | under_construction | 34 | 894.0 |
+| China | operational | 161 | 5085.0 |
+| China | under_construction | 35 | 896.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 6 | 70.0 |
 | Europe | operational | 18 | 358.0 |
@@ -49,7 +49,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | Japan | announced | 1 | 16.0 |
 | Japan | operational | 14 | 43.0 |
 | Japan | under_construction | 1 | 20.0 |
-| Rest of World | announced | 4 | 82.0 |
+| Rest of World | announced | 4 | 51.0 |
 | Rest of World | operational | 6 | 58.0 |
 | Rest of World | under_construction | 2 | 110.0 |
 | South Korea | (unknown) | 1 | — |
@@ -77,7 +77,7 @@ Review these — they may be the same physical site under different names, or le
 | same coordinates ~(30.7, 104.1) | CALB Chengdu plant (Sichuan base) ⟷ EVE Energy Chengdu power and energy storage battery base ⟷ SVOLT Chengdu plant (Chengdu Eastern New Area base) | calb-calb-chengdu-plant-sichuan-base-china, eve-energy-eve-energy-chengdu-power-and-energy-storage-battery-base-china, svolt-energy-technology-honeycomb-energy-svolt-chengdu-plant-chengdu-eastern-new-area-base-china |
 | same coordinates ~(31.9, 117.3) | CALB Hefei plant (Changfeng/Xiatang battery base) ⟷ Gotion Hefei plant (VW unified/standard cell base, Xinzhan district) ⟷ Pylontech Hefei Feixi LFP cell plant (10GWh lithium battery R&D and manufacturing base) | calb-calb-hefei-plant-changfeng-xiatang-battery-base-china, hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china, pylontech-pylon-technologies-pylontech-hefei-feixi-lfp-cell-plant-10gwh-lithium-battery-r-d-and-manufacturing-base-china |
 | same coordinates ~(24.5, 118.1) | CALB Xiamen battery base ⟷ CATL Xiamen battery base (Xiamen Times New Energy) ⟷ Hithium Xiamen plant (Xiamen production base) | calb-calb-xiamen-battery-base-china, catl-catl-xiamen-battery-base-xiamen-times-new-energy-china, hithium-hithium-xiamen-plant-xiamen-production-base-china |
-| same coordinates ~(31.2, 121.5) | CATL Shanghai Lingang battery base (Nanhui New City) ⟷ Deligreen Shanghai Cylindrical Cell Plant | catl-catl-shanghai-lingang-battery-base-nanhui-new-city-china, shanghai-deligreen-power-deligreen-shanghai-cylindrical-cell-plant-china |
+| same coordinates ~(31.2, 121.5) | CATL Shanghai Lingang battery base (Nanhui New City) ⟷ Pylontech Shanghai LFP cell base ⟷ Deligreen Shanghai Cylindrical Cell Plant | catl-catl-shanghai-lingang-battery-base-nanhui-new-city-china, pylontech-pylon-technologies-co-ltd-pylontech-shanghai-lfp-cell-base-china, shanghai-deligreen-power-deligreen-shanghai-cylindrical-cell-plant-china |
 | same coordinates ~(27.8, 114.4) | CATL Yichun battery production base ⟷ Yichun Gotion Battery plant | catl-catl-yichun-battery-production-base-china, yichun-gotion-yichun-gotion-battery-plant-china |
 | same coordinates ~(48.5, 9.1) | Cellforce Kirchentellinsfurt ⟷ Customcells Tübingen | cellforce-group-cellforce-kirchentellinsfurt-germany, customcells-customcells-t-bingen-germany |
 | same coordinates ~(53.9, 9.5) | Customcells Itzehoe ⟷ Liacon Itzehoe | customcells-customcells-itzehoe-germany, liacon-liacon-itzehoe-germany |
@@ -147,7 +147,7 @@ Review these — they may be the same physical site under different names, or le
 | Tianneng Changxing (South Taihu) Lithium Battery Base | Tianneng New Energy (Huzhou) Co., Ltd. (Zhejiang Tianneng Energy Storage Co.) | China | 10.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Waaree ESS Cell Plant (Rola) | Waaree ESS (Waaree Energy Storage Solutions) | India | 3.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
 
-### Live cell sites missing a nameplate figure (62)
+### Live cell sites missing a nameplate figure (66)
 
 Genuine cell plants (operational/under-construction) with no sourced capacity — capacity left null per the no-guessing rule.
 
@@ -169,6 +169,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Customcells Itzehoe | Customcells | Europe | operational |
 | Customcells Tübingen | CustomCells | Europe | operational |
 | DFD Jiaozuo Plant (Do-Fluoride New Energy, Henan base) | Do-Fluoride New Energy Technology Co., Ltd. (DFD) | China | operational |
+| E-One Moli Maple Ridge | E-One Moli Energy (Canada) Ltd. | Rest of World | under_construction |
 | e-Zinc Mississauga Pilot Manufacturing Facility | e-Zinc | Rest of World | operational |
 | Kawasaki Plant | Eliiy Power | Japan | operational |
 | Chungju Plant | Enertech International | South Korea | operational |
@@ -184,15 +185,18 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Gotion New Energy (Chuzhou) high-end manufacturing base | Gotion (Chuzhou Gotion New Energy Power Co., Ltd.) | China | operational |
 | Great Power Guangzhou (Panyu) plant | Great Power | China | operational |
 | Great Power Zhumadian plant (Zhumadian production base) | Great Power (Guangzhou Great Power Energy & Technology Co., Ltd. / Penghui Energy) | China | operational |
+| Highpower International Huizhou Plant (Longhu/Tonghu Industrial Park) | Huizhou Highpower Technology | China | operational |
 | Sunwoda Huizhou plant (Huizhou Liwei New Energy) | Huizhou Liwei New Energy Technology Co., Ltd. (Sunwoda) | China | operational |
 | Highstar Qidong Plant | Jiangsu Highstar Battery Manufacturing Co., Ltd. (Highstar Battery) | China | operational |
 | Jiangsu Sunpower (Changhong Sanjie) Taixing Cell Plant | Jiangsu Sunpower Co., Ltd. (Changhong Sanjie / 长虹三杰新能源) | China | operational |
+| Jiangsu Tafel New Energy Nanjing Plant | Jiangsu Tafel New Energy | China | operational |
 | Tianpeng Power Zhangjiagang Cell Plant | Jiangsu Tianpeng Power Supply Co. (Tenpower) | China | operational |
 | Daejeon flexible battery pilot | LiBEST | South Korea | operational |
 | Lyten San Jose | Lyten | USA | operational |
 | Ono Works | Maxell | Japan | operational |
 | Murata Yasu Plant | Murata Manufacturing | Japan | operational |
 | Nanotech Energy Chico 2 | Nanotech Energy | USA | operational |
+| Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | Narada Power (Nandu Power) | China | operational |
 | Natron Energy Holland | Natron Energy | USA | operational |
 | ONE Circle | Our Next Energy | USA | operational |
 | Phylion Suzhou Plant (Suzhou manufacturing base) | Phylion Battery (Xingheng Power Co., Ltd.) | China | operational |
@@ -216,16 +220,16 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | operational |
 | CosMX Chongqing Plant | Zhuhai CosMX Battery | China | operational |
 
-## 3. Rows with confidence < 0.5 (168)
+## 3. Rows with confidence < 0.5 (170)
 
 | plant | operator | country | conf | is_cell | note |
 |---|---|---|---:|:---:|---|
 | Liacon Itzehoe | Liacon | Germany | 0.2 | N | [T014 2026-11-20] status unconfirmed. No open source shows cell production at Itzehoe: the… |
-| Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | Narada Power (Nandu Power) | China | 0.2 | Y | [T023 2026-11-20] status unconfirmed. v1 'Fuyang (Yinhu), Hangzhou HQ' claim could not be … |
 | Narada Hangzhou Lin'an Plant | Narada Power (Zhejiang Narada Power Source Co., Ltd.) | China | 0.2 | Y | [T023 2026-11-20] status unconfirmed. Lin'an (Qingshan Lake) is the registered HQ address … |
 | Deligreen Shanghai Cylindrical Cell Plant | Shanghai Deligreen Power | China | 0.2 | Y | [T023 2026-11-20] status unconfirmed. Entity identity (上海德朗能动力电池有限公司 / DLG, Fengxian) rest… |
 | Coslight Harbin Plant (Harbin Coslight Power lithium battery base) | Harbin Coslight Power Co., Ltd. | China | 0.25 | Y | [T021 2026-11-20] status unconfirmed. The only source for v1's 6 GWh / operational claim i… |
 | Siheung Plant | Kokam | South Korea | 0.25 | Y | [T019 2026-11-20] Status unconfirmed. Only v1 source was a supplier directory (not re-open… |
+| Pylontech Shanghai LFP cell base | Pylontech (Pylon Technologies Co., Ltd.) | China | 0.25 | Y | [T023 2026-11-20] REVERSED after audit: restored as update (removal withdrawn; S5b only sa… |
 | Zhuoneng Shenzhen Plant | Shenzhen Zhuoneng New Energy Co., Ltd | China | 0.25 | Y | [T023 2026-11-20] status unconfirmed. The only evidence is the company's 2016 NEEQ annual … |
 | 24M Technologies Cambridge | 24M Technologies | United States | 0.3 | Y | [T016 2026-11-20] Status unconfirmed. v1 0.2 GWh (cited to a Businesswire page it could no… |
 | Amperex Technology Sohna Cell Plant | Amperex Technology Limited (ATL India Technology Pvt Ltd) | India | 0.3 | Y | [T018 2026-11-20] Status unconfirmed. PIB release 2163723 (S39, 2025-09-04): minister inau… |
@@ -247,7 +251,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | FinDreams Guangxi-ASEAN battery plant (广西东盟弗迪电池) | Guangxi ASEAN FinDreams Battery | China | 0.3 | N | [T003 2026-11-20] Cailian 2022-09-13: 广西东盟弗迪电池 project of 10 GWh hybrid-vehicle battery + … |
 | FinDreams Guangxi battery plant (广西弗迪电池) | Guangxi FinDreams Battery | China | 0.3 | N | [T003 2026-11-20] Entity on BYD's 2025 environmental-disclosure list (D-016, <=0.4). The t… |
 | InoBat Ćuprija (Project Lion) | InoBat | Serbia | 0.3 | Y | [T015 2026-11-20] Stalled MoU-stage project; no news after Jan 2024 found (searched Englis… |
-| Jiangsu Tafel New Energy Nanjing Plant | Jiangsu Tafel New Energy | China | 0.3 | Y | [T022 2026-11-20] CHANGED vs v1 (7.5 GWh, phase I 1.5). The only open source found is the … |
+| Jiangsu Tafel New Energy Nanjing Plant | Jiangsu Tafel New Energy | China | 0.3 | Y | [T022 2026-11-20] CHANGED vs v1 (7.5 GWh -> null): the 4 GWh / 10 GWh figures below are CO… |
 | Li-FUN Zhuzhou Plant | Li-FUN Technology | China | 0.3 | Y | [T022 2026-11-20] Status unconfirmed. Only open source fetched: 36Kr company profile - Hun… |
 | Lucas TVS Thervoy Kandigai Cell Plant | Lucas TVS (TVS Indeon Ltd) | India | 0.3 | Y | [T018 2026-11-20] Changed vs v1: under_construction -> announced; v1 start_year 2024 and c… |
 | FinDreams Nanning battery plant (南宁弗迪电池) | Nanning FinDreams Battery | China | 0.3 | N | [T003 2026-11-20] Entity on BYD's 2025 environmental-disclosure list (D-016, <=0.4). Possi… |
@@ -274,10 +278,11 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Fuzhou FinDreams Battery Plant (Jiangxi) | FinDreams Battery | China | 0.35 | Y | [T003 2026-11-20] Coordinates nulled: v1 26.06N/119.31E is Fuzhou, FUJIAN; the plant is in… |
 | Ganfeng LiEnergy Dongguan Base (赣锋锂电东莞科技 10GWh new-type lithium battery & ESS HQ base) | Ganfeng LiEnergy | China | 0.35 | N | [T009 2026-11-20] Restored (not removed): site exists and commenced operation 25 Feb 2026 … |
 | Gelion Fairfield | Gelion | Australia | 0.35 | Y | [T020 2026-11-20] Pilot zinc-bromide (Endure) line at partner Battery Energy Power Solutio… |
-| Alxa 30 GWh cell and energy-storage equipment project (Zhilian Huitong) | Inner Mongolia Zhilian Huitong Logistics Co., Ltd. | China | 0.35 | N | [T023 2026-11-20] Candidate T023 routing row verified on the EnergyTrend page: the industr… |
+| Alxa 30 GWh cell and energy-storage equipment project (Zhilian Huitong) | Inner Mongolia Zhilian Huitong Logistics Co., Ltd. | China | 0.35 | N | [T023 2026-11-20] REVISED after audit: nameplate now cited to S19d (page wording: workshop… |
 | Kusatsu Plant (Lithium Energy Japan) | Lithium Energy Japan (LEJ) | Japan | 0.35 | Y | [T019 2026-11-20] Kusatsu plant (Shiga) began shipping June 2009 with capacity ~110 MWh/yr… |
 | Log9 Materials Bengaluru Cell Facility | Log9 Materials | India | 0.35 | Y | [T018 2026-11-20] pv magazine India 2023-04-24 (S41): Log9 'has launched the production' a… |
-| Megamillion Energy gigafactory (Giga-Africa 1) | Megamillion Energy Group | South Africa | 0.35 | Y | [T020 2026-11-20] Giga-Africa 1: Feb 2025 JV announcement with Dr Henry Mao, 1 GWh initial… |
+| Megamillion Energy gigafactory (Giga-Africa 1) | Megamillion Energy Group | South Africa | 0.35 | Y | [T020 2026-11-20] Giga-Africa 1: Feb 2025 JV announcement with Dr Henry Mao, start at 1 GW… |
+| Nandu Power (Narada) Hangzhou/Fuyang Lithium Cell Base | Narada Power (Nandu Power) | China | 0.35 | Y | [T023 2026-11-20] REVISED after audit (D-016): status operational at <=0.4. Narada's 2025 … |
 | Panasonic Energy Kaizuka Factory | Panasonic Energy Kaizuka Co., Ltd. | Japan | 0.35 | Y | [T013 2026-11-20] Status unconfirmed (D-016): no open source shows current cell production… |
 | Phylion Chuzhou Plant | Phylion Battery (Xingheng Power) | China | 0.35 | Y | [T023 2026-11-20] ESCALATE-type row (v1 nameplate 25 GWh, now null). Evidence: S3 (company… |
 | PPES Dalian Plant | Prime Planet Energy Dalian Co., Ltd. | China | 0.35 | N | [T013 2026-11-20] Found while mining the PPES locations page (S22 lists 'Dalian, China - R… |
@@ -294,7 +299,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | WeLion New Energy Huzhou Semi-Solid Plant | Beijing WeLion New Energy | China | 0.4 | Y | [T021 2026-11-20] MAJOR CORRECTION vs v1: v1 gave 20 GWh operational with phase 1 complete… |
 | Blue Solutions Quimper (Ergué-Gabéric / Odet mother plant) | Blue Solutions | France | 0.4 | Y | [T014 2026-11-20] Status unconfirmed beyond 2024: Blue Solutions (17 May 2024 release) say… |
 | BYD FinDreams (XCMG-FinDreams) Xuzhou Blade Battery Plant | BYD (FinDreams Battery) | China | 0.4 | Y | [T003 2026-11-20] Timeline: iFeng 2023-11-20 structures topped out, trial production plann… |
-| Camel Xiangyang New Energy Low-Carbon Industrial Park | Camel Group | China | 0.4 | Y | [T021 2026-11-20] Camel's 2025 annual report (S8, p.12): park phase 1 started construction… |
+| Camel Xiangyang New Energy Low-Carbon Industrial Park | Camel Group | China | 0.4 | Y | [T021 2026-11-20] REVISED after audit. Camel's 2025 annual report (cninfo) construction-in… |
 | CATL Xiamen battery base (Xiamen Times New Energy) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (unresolved after 3 further Chinese searches and 2 opened pages… |
 | CATL Xining plant (Qinghai Times New Energy Technology Co., Ltd.) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (capacity). Qinghai Times is named in CATL's 2025 annual report… |
 | BYD FinDreams Changsha plant (Ningxiang) | Changsha FinDreams Battery (FinDreams Battery) | China | 0.4 | Y | [T003 2026-11-20] Status: 长沙弗迪电池有限公司 on the 2025 environmental-disclosure list (D-016, <=0… |
@@ -346,6 +351,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Afrivolt Atlantis gigafactory | Afrivolt | South Africa | 0.45 | Y | [T020 2026-11-20] Planned Atlantis SEZ (Cape Town) Li-ion cell plant: 1.5 GWh initial, 5 G… |
 | BYD FinDreams Xining plant (Qinghai FinDreams Battery Co., Ltd.) | BYD | China | 0.45 | Y | [T003 2026-11-20] Nameplate 24 GWh is a 2018 figure (CleanTechnica; plant opened June 2018… |
 | Changhong Malaysia High-Rate Lithium Battery Base | Changhong Sanjie New Energy Co., Ltd. | Malaysia | 0.45 | N | [T019 2026-11-20] Discovery candidate (T027). Board approved on 2026-04-03; Mianyang SASAC… |
+| Chuanhong New Energy Southwest Battery Production Base (Longchang, Neijiang) | Chuanhong New Energy (川宏新能源) | China | 0.45 | N | [T021 2026-11-20] ESCALATE: 10 GWh at 0.45 - the 10 GWh is stated for 'battery cells and s… |
 | DFD Jiaozuo Plant (Do-Fluoride New Energy, Henan base) | Do-Fluoride New Energy Technology Co., Ltd. (DFD) | China | 0.45 | Y | [T021 2026-11-20] MAJOR CORRECTION vs v1: the '10 GWh Jiaozuo' figure came from a 2017 BES… |
 | ElevenES Subotica | ElevenEs | Serbia | 0.45 | Y | [T015 2026-11-20] Pilot/pre-series LFP line in Subotica opened Apr 2023, 'fully operationa… |
 | Elinor Batteries Gigafactory (Eiktyr Industrial Park, Orkland) | Elinor Batteries | Norway | 0.45 | Y | [T015 2026-11-20] Still announced/pre-FID; no groundbreaking or FID found. Investor page (… |
