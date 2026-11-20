@@ -20,6 +20,7 @@ You are a research worker on the battery cell gigafactory database v2. Today is 
    - start_year, announced_year, chemistry, cell_format, end_market, jv_partners, site_type (single_site / hub) where sources allow.
 3. **Resolve overlaps**: same site under two names, a city/hub total plus its component plants, company-wide figures stored as one site. Use `remove` with `duplicate_of:<id>` or `merged_into_hub:<id>` and explain.
 4. **Add** missing cell sites the operator itself discloses (open source required).
+4b. **Discovery candidates**: rows of `team/candidate_routing.csv` whose `task` column is your task. They are unverified leads (some cite only search links). For each: if it has `existing_id`, use the news when verifying that row; otherwise verify it with a fetched open page and `add` it, or mention in your hand-off why you rejected it (already present under another id, pack-only, no open source, speculative MoU). Never add a candidate on the strength of the candidate CSV alone.
 5. Anything you cannot confirm → `null` in `fields` + lower confidence. A null is better than a guess. If a large plant (≥10 GWh) cannot reach confidence 0.6, say why in notes.
 
 ## Efficiency
