@@ -16,3 +16,4 @@ logs/*.log
 data/seed/china_w3/
 team/logs/
 team/evidence/filings/*.txt
+*.tmp.*
