@@ -156,7 +156,7 @@
                 "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF", "source_date": "2026-11-20", "source_published_date": "2026-03-28"},
      "evidence": {"status": ["A1"], "jv_partners": ["QD1"]},
      "confidence": 0.45,
-     "notes": "CAVEAT: A1 lists 'Jiangsu' as a production base - not site-specific (does not name Qidong). The new 50 GWh Qidong project is now its OWN announced row (see added row), not matched to this JV row. EVE-Linyang JV (EVE 65% / Linyang 35%, Yicai 2021-06-11; ~CNY 3bn, plan 10 GWh per the same article and v1). I could not open a page confirming the 10 GWh capacity, the 2022-11-18 first-line start, chemistry or format (the v1 source 91jinshu returned 503; asianmetal returned an error page), so those are nulled rather than carried. Status operational is inferred from the annual report listing Jiangsu as a production base (weak: not Qidong-specific) plus the 2022 first-line report seen only as a search snippet. NEW: 2026-04-07 company announcement of a separate 50 GWh storage (power) battery base in Qidong Economic Development Zone (CNY 5bn, 332 mu, needs shareholder vote) - announcement only; recorded in operator_sites, not added as a row (same city/zone as this site). Per-site nameplate left null: if the lead wants 10 GWh back, a quote from Linyang Energy's 2022 announcement is needed."},
+     "notes": "CAVEAT: A1 lists 'Jiangsu' as a production base - not site-specific (does not name Qidong). The new 50 GWh Qidong project is now its OWN announced row (see added row), not matched to this JV row. EVE-Linyang JV (EVE 65% / Linyang 35%, Yicai 2021-06-11; ~CNY 3bn, plan 10 GWh per the same article and v1). I could not open a page confirming the 10 GWh capacity, the 2022-11-18 first-line start, chemistry or format (the v1 source 91jinshu returned 503; asianmetal returned an error page), so those are nulled rather than carried. Status operational is inferred from the annual report listing Jiangsu as a production base (weak: not Qidong-specific) plus the 2022 first-line report seen only as a search snippet. NEW: 2026-04-07 company announcement of a separate 50 GWh storage (power) battery base in Qidong Economic Development Zone (CNY 5bn, 332 mu, needs shareholder vote) - announcement only; now added as its own row (no source says it is the same site as the JV plant). Per-site nameplate left null: if the lead wants 10 GWh back, a quote from Linyang Energy's 2022 announcement is needed."},
 
     {"id": "eve-energy-eve-energy-qujing-plant-23gwh-cylindrical-lfp-energy-storage-power-battery-project-china", "action": "update",
      "fields": {"status": "operational", "project_state": "active", "start_year": null,
@@ -295,6 +295,28 @@
                 "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF", "source_date": "2026-11-20", "source_published_date": "2026-03-28"},
      "evidence": {"status": ["A6"], "nameplate_capacity_gwh": ["A6"]},
      "confidence": 0.6,
-     "notes": "Company discloses in its 2025 annual report that the sodium-ion HQ project (亿纬钠能总部, Huizhou Zhongkai, ~CNY 1bn) broke ground in 2025 with 2 GWh/yr planned capacity. End-market: annual report says it serves storage and AIDC; labelled ESS. ref year 2026 = report-year fallback. Small (<10 GWh)."}
+     "notes": "Company discloses in its 2025 annual report that the sodium-ion HQ project (亿纬钠能总部, Huizhou Zhongkai, ~CNY 1bn) broke ground in 2025 with 2 GWh/yr planned capacity. End-market: annual report says it serves storage and AIDC; labelled ESS. ref year 2026 = report-year fallback. Small (<10 GWh)."},
+
+    {"action": "add", "id": "eve-energy-qidong-economic-development-zone-50gwh-china",
+     "fields": {"plant_name": "EVE Energy Qidong 50GWh storage (power) battery base", "operator": "EVE Energy", "parent_company": "EVE Energy Co., Ltd.", "country": "China", "region": "China",
+                "status": "announced", "project_state": "active", "announced_year": 2026, "start_year": null,
+                "installed_capacity_gwh": null, "installed_as_of": null,
+                "nameplate_capacity_gwh": 50, "capacity_ref_year": 2026,
+                "chemistry": null, "cell_format": null, "end_market": "ESS", "site_type": "single_site",
+                "source_url": "https://finance.eastmoney.com/a/202604073696801379.html", "source_date": "2026-11-20", "source_published_date": "2026-04-07"},
+     "evidence": {"status": ["QD2"], "nameplate_capacity_gwh": ["QD2", "QD3"]},
+     "confidence": 0.65,
+     "notes": "Added per audit. Company announcement 2026-04-07: agreement with Qidong government for a 50 GWh storage (power) battery base in Qidong Economic Development Zone, ~CNY 5bn, ~332 mu, needs shareholder approval. Wholly EVE (no JV partner named). Separate from the EVE-Linyang 10 GWh JV plant (~203 mu, 2022); no source says same site. One June 2026 report cites 80 GWh for Qidong (conflict, not used; the announcement says 50). ref_year: fallback, searched (2026 = announcement year). Investor remarks: two of four 2026 projects could deliver from Q2 2027, others 2028 (search summary; not opened, not attributed to Qidong)."},
+
+    {"action": "add", "id": "eve-energy-jingmen-shayang-60gwh-power-storage-china",
+     "fields": {"plant_name": "EVE Power Jingmen (Shayang) 60GWh power and storage battery project", "operator": "Hubei EVE Power Co., Ltd. (亿纬动力)", "parent_company": "EVE Energy Co., Ltd.", "country": "China", "region": "China",
+                "status": "announced", "project_state": "active", "announced_year": 2026, "start_year": null,
+                "installed_capacity_gwh": null, "installed_as_of": null,
+                "nameplate_capacity_gwh": 60, "capacity_ref_year": 2026,
+                "chemistry": null, "cell_format": null, "end_market": "mixed", "site_type": "single_site",
+                "source_url": "https://finance.eastmoney.com/a/202604073696815541.html", "source_date": "2026-11-20", "source_published_date": "2026-04-08"},
+     "evidence": {"status": ["JM2"], "nameplate_capacity_gwh": ["JM2"]},
+     "confidence": 0.6,
+     "notes": "Added per audit. Announcement 2026-03-30/31: 亿纬动力 to sign a contract with Shayang County government and the Jingmen High-tech Zone committee for a 60 GWh power/storage battery project in Jingmen, planned investment CNY 6bn; contract needs approvals and a new project company within 30 days of signing (search summary of the cninfo notice; PDF not machine-readable). Treated as a separate site from the Jingmen hub row (the 2023 60 GWh super factory, CNY 10.8bn, was signed with the High-tech Zone only: JM3); no source says they are the same site. Location within Jingmen (Shayang county vs High-tech Zone) not determined. ref_year: fallback, searched. Not included in the hub's 212 GWh."}
   ]
 }

@@ -31,3 +31,6 @@ VERDICT fail · diligence. Quotes 15/15 on page; Hithium figures site-level and 
 ## T005 (Gotion) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence + spec gap. 23/23 quotes on page, 3 don't support their use. Blocking: Nantong removed as not_found though operating (stockstar 2026-09-18: phase 1 5 GWh 达产 2020) — partly induced by the lead's rework hint (lesson filed); Lujiang is_cell=false on a building name though autohome 2021 shows a 6 GWh line; Jinzhai installed/nameplate inconsistent; 4 large rows parked at 0.6 despite stale/conflicting data; v1 chemistry carried unquoted. Spec gap: undated "over time" targets under D-014 → D-015.
 Caught by: auditor independent search (Nantong, Lujiang) — checks could not.
+
+## T006 – lead verification of audit-1 fixes – 2026-11-20 → merged
+All 3 blockers fixed and new quotes FOUND (J4, JM2, SY4, CD1, M2, A7); G2 hand-confirmed (punctuation). Jingmen ref year 2025 is a fallback (phase-2 due date not public).

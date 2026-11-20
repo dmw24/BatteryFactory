@@ -58,6 +58,8 @@ Only pages anyone can read without a subscription. Never cite Bloomberg/BNEF, FT
 ## Status and project_state
 - `status` = furthest stage reached: `announced` (no construction start), `under_construction` (groundbreaking/construction confirmed), `operational` (commercial cell production, even partial).
 - `project_state`: `active`, `paused` (company/press says suspended, delayed indefinitely, construction halted), `cancelled` (officially scrapped, bankrupt without buyer, site sold for other use). Requires evidence.
+- Evidence strength for status (D-016): a production-site entity on a company's environmental-disclosure (重点排污/环境信息披露) list whose name marks it as a battery/cell maker supports `operational` at confidence ≤ 0.4; tax-rate lists, subsidiary tables and company names alone support existence only. If no status is supported, leave `status` null with confidence ≤ 0.4 and "status unconfirmed" in notes (C2 allows this). Apply the same evidence rule to every entity of the operator: if env-list entities count for one row, the unlisted ones get rows too.
+- Teaser pages (e.g. MarkLines news): acceptable only if the quoted text is visible without login; note "teaser" in the source publisher.
 - Freshness: for active non-operational rows, find the most recent news (target: dated 2025-06 or later). If nothing after 2024, say so in notes and lower confidence — silence often means stalled.
 
 ## Vocabulary (verified rows)

@@ -87,8 +87,9 @@ def main():
     for c, allowed in [("cell_format", FORMATS), ("end_market", MARKETS), ("chemistry", CHEMS)]:
         m = ver & d[c].notna() & ~d[c].isin(allowed)
         bad += [f"{i}: {c}={v!r} not in vocab" for i, v in zip(d.id[m], d[c][m])]
-    m = ver & d.status.isna() & (d.is_cell_manufacturer != False)
-    bad += [f"{i}: verified cell plant with null status" for i in d.id[m]]
+    # D-016: null status allowed only when honestly unconfirmed (confidence <= 0.4)
+    m = ver & d.status.isna() & (d.is_cell_manufacturer != False) & (d.confidence > 0.4)
+    bad += [f"{i}: verified cell plant with null status needs confidence <= 0.4 (status unconfirmed)" for i in d.id[m]]
     m = ver & d.site_type.isna()
     bad += [f"{i}: verified row needs site_type single_site|hub" for i in d.id[m]]
     report("C2", not bad, f"vocabulary on verified rows: {len(bad)} problems (see team/CONVENTIONS.md vocab)", bad)
