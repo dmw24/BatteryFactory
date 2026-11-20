@@ -1728,6 +1728,126 @@
         "by": null,
         "notes": null
       }
+    },
+    {
+      "id": "T056",
+      "title": "Operator gap fill: BYD/FinDreams \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T056.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_progress",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T057",
+      "title": "Operator gap fill: CALB + Lishen \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T057.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_progress",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T058",
+      "title": "Operator gap fill: EVE + Sunwoda \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T058.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_progress",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T059",
+      "title": "Operator gap fill: SVOLT + Gotion + Envision AESC \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T059.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_progress",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
     }
   ]
 }
