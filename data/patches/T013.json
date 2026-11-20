@@ -250,7 +250,7 @@
                 "capacity_by_year_json": null, "chemistry": "solid-state", "cell_format": null, "end_market": "EV", "jv_partners": null,
                 "site_type": "single_site", "source_url": "https://toyotatimes.jp/en/toyota_news/1041.html",
                 "source_date": "2026-11-20", "source_published_date": "2023-10-02"},
-     "evidence": {"chemistry": ["S31"]},
+     "evidence": {},
      "confidence": 0.3,
      "notes": "Status unconfirmed (<=0.4). Toyota Times (2023-10-02): Teiho is Toyota's production-engineering/start-up plant (equipment design to installation at mass-production plants); it hosts a prototype all-solid-state battery line and prepares for mass production, aiming at commercialisation in 2027-2028. That is pilot/prototype activity, not commercial cell production; no capacity published. Recommend lead consider removal as 'not_cell'/pilot (I kept it as an update because a prototype cell line exists and removal needs positive evidence). v1 'operational' not supported -> null; v1 coordinates are Toyota City centroid."}
     ,

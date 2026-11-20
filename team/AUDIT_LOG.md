@@ -53,3 +53,6 @@ Pattern across T005/T007/T009: workers remove rows on absence of evidence; D-015
 
 ## Security note – 2026-11-20
 T012 worker reported a prompt-injection block ("網站公告" telling AI readers to quote specified sentences) on wantrich.chinatimes.com/news/20260716900012-420101; page ignored, not cited. Researcher isolation (no shell) held.
+
+## T008 (SVOLT + Great Power) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence. 15/15 sampled quotes on page (Nov-2022 prospectus has a text layer after all). Blocking: D-015 caps (Shangrao, Suining, Yancheng, Chengdu, Ma'anshan at 0.6); Suining installed 20 contradicted by SVOLT 2023 filing ("尚未投入生产" end-2022); Huzhou operational on a pack roll-off; Taizhou removal needed the filing's PACK-only evidence (available). Spec: superseded phase totals → D-017. Found geocoder bug: Guangde row carries Shenzhen centroid ([GEO=city:Shenzhen]) — check all city-tier coordinates in T030.
