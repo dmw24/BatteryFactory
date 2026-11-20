@@ -1061,7 +1061,7 @@
       "id": "T032",
       "title": "Fill installed capacity (China batch 1, 25 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T032.json"
       ],
@@ -1077,10 +1077,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1092,7 +1092,7 @@
       "id": "T033",
       "title": "Fill installed capacity (China batch 2, 25 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T033.json"
       ],
@@ -1108,10 +1108,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1123,7 +1123,7 @@
       "id": "T034",
       "title": "Fill installed capacity (China batch 3, 25 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T034.json"
       ],
@@ -1139,10 +1139,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1154,7 +1154,7 @@
       "id": "T035",
       "title": "Fill installed capacity (China batch 4, 22 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T035.json"
       ],
@@ -1170,10 +1170,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1185,7 +1185,7 @@
       "id": "T036",
       "title": "Fill installed capacity (non-China batch 1, 30 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T036.json"
       ],
@@ -1201,10 +1201,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1216,7 +1216,7 @@
       "id": "T037",
       "title": "Fill installed capacity (non-China batch 2, 30 rows)",
       "workstream": "E. Capacity fill",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T037.json"
       ],
@@ -1232,10 +1232,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1247,7 +1247,7 @@
       "id": "T038",
       "title": "Discovery sweep: China: Jiangsu, Shanghai, Zhejiang",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T038.json"
       ],
@@ -1263,10 +1263,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1278,7 +1278,7 @@
       "id": "T039",
       "title": "Discovery sweep: China: Fujian, Jiangxi, Guangdong, Guangxi, Hainan",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T039.json"
       ],
@@ -1294,10 +1294,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1309,7 +1309,7 @@
       "id": "T040",
       "title": "Discovery sweep: China: Anhui, Hubei, Hunan, Henan",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T040.json"
       ],
@@ -1325,10 +1325,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1340,7 +1340,7 @@
       "id": "T041",
       "title": "Discovery sweep: China: Sichuan, Chongqing, Guizhou, Yunnan, Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang, Tibet",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T041.json"
       ],
@@ -1356,10 +1356,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1371,7 +1371,7 @@
       "id": "T042",
       "title": "Discovery sweep: China: Shandong, Hebei, Beijing, Tianjin, Shanxi, Inner Mongolia, Liaoning, Jilin, Heilongjiang",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T042.json"
       ],
@@ -1387,10 +1387,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1402,7 +1402,7 @@
       "id": "T043",
       "title": "Discovery sweep: Asia ex-China: South Korea, Japan, Taiwan, Southeast Asia, India, Middle East, Central Asia",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T043.json"
       ],
@@ -1418,10 +1418,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -1433,7 +1433,7 @@
       "id": "T044",
       "title": "Discovery sweep: Europe (incl. Turkey, UK, Russia), Americas, Africa, Oceania",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T044.json"
       ],
@@ -1449,10 +1449,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
