@@ -1,0 +1,9 @@
+{"task": "T050", "verified_on": "2026-11-20", "sources": {},
+ "rows": [
+  {"id": "welion-haibo-zibo-semi-solid-state-base-china", "action": "fix",
+   "fields": {"nameplate_capacity_gwh": 20, "capacity_ref_year": 2022},
+   "notes": "lead (T048 escalation, D-015/D-017): nameplate = stated phase 1 (20 GWh, CnEVPost 2022); the 100 GWh park total is a 2022 plan far above WeLion's company-wide built capacity (~11–28 GWh in 2026 reports) → notes only."},
+  {"id": "hubei-wocheng-new-energy-shiyan-zhangwan-20gwh-sodium-ion-base-china", "action": "fix",
+   "fields": {"nameplate_capacity_gwh": null, "capacity_ref_year": null},
+   "notes": "lead (D-026): 20 GWh described as lines for sodium-ion energy-storage systems (cell share unstated, RMB 1.2bn implausible for 20 GWh of cells) → nameplate null, figure in notes."}
+ ]}

@@ -31,7 +31,13 @@
     "S14": {"url": "https://news.metal.com/newscontent/103361674", "publisher": "SMM (Shanghai Metals Market) news", "published": "2025-06-05", "accessed": "2026-11-20", "language": "en",
             "quote": "Jueshi New Energy's 5GWh Sodium-ion Battery Project Approved in Zhangye Economic Zone"},
     "S15": {"url": "https://news.metal.com/newscontent/103361674", "publisher": "SMM (Shanghai Metals Market) news", "published": "2025-06-05", "accessed": "2026-11-20", "language": "en",
-            "quote": "was approved and licensed by the Economic Development Bureau of Zhangye Economic and Technological Development Zone"}
+            "quote": "was approved and licensed by the Economic Development Bureau of Zhangye Economic and Technological Development Zone"},
+    "S16": {"url": "https://cn.chinadaily.com.cn/a/202112/25/WS61c6ce3fa3107be4979fefa8.html", "publisher": "China Daily (Chinese edition) news", "published": "2021-12-25", "accessed": "2026-11-20", "language": "zh",
+            "quote": "将在苏银产业园建设年产200GWh电池及储能集装系统"},
+    "S17": {"url": "https://cn.solarbe.com/news/20250428/50002043.html", "publisher": "Solarbe (索比光伏网 / 碳索储能网), reprint of China News Service", "published": "2025-04-28", "accessed": "2026-11-20", "language": "zh",
+            "quote": "100GWh 锂电池及储能系统和储能电站项目建设达产"},
+    "S18": {"url": "https://cn.solarbe.com/news/20250428/50002043.html", "publisher": "Solarbe (索比光伏网 / 碳索储能网), reprint of China News Service", "published": "2025-04-28", "accessed": "2026-11-20", "language": "zh",
+            "quote": "宝丰储能正极、负极、电解液厂暨宝丰能源四期烯烃新材料项目集中开工现场推进会"}
   },
   "rows": [
     {"action": "add", "id": "gansu-yingao-energy-storage-technology-yingao-baiyin-8gwh-lfp-battery-project-china",
@@ -84,11 +90,22 @@
      "fields": {"plant_name": "Jueshi New Energy Zhangye 5 GWh sodium-ion battery manufacturing project (Zhangye Economic and Technological Development Zone)",
                 "operator": "Jueshi New Energy (name as transliterated by SMM; Chinese name unconfirmed)",
                 "country": "China", "region": "China", "status": "announced", "project_state": "active",
-                "announced_year": 2025, "nameplate_capacity_gwh": 5, "capacity_ref_year": 2025, "chemistry": "sodium-ion",
+                "announced_year": 2025, "nameplate_capacity_gwh": null, "capacity_ref_year": null, "chemistry": "sodium-ion",
                 "site_type": "single_site",
                 "source_url": "https://news.metal.com/newscontent/103361674", "source_date": "2026-11-20", "source_published_date": "2025-06-05"},
-     "evidence": {"status": ["S15"], "nameplate_capacity_gwh": ["S14"], "announced_year": ["S14"], "capacity_ref_year": ["S14"], "chemistry": ["S14"]},
+     "evidence": {"status": ["S15"], "announced_year": ["S14"], "chemistry": ["S14"]},
      "confidence": 0.3,
-     "notes": "NEW but weak (T049 sweep, Gansu; not in DB; distinct from the Easton Zhangye and Zhongna Zhengning rows). SMM 2025-06-05 reports the 5 GWh sodium-ion battery manufacturing project of 'Jueshi New Energy' was approved and licensed (filing/approval, 备案) by the Economic Development Bureau of the Zhangye Economic and Technological Development Zone, Gansu (S14, S15). Investment not stated; the page does not say whether the 5 GWh is cells or battery systems - treat 5 GWh as an upper bound for cells. Status announced: approval only, no construction evidence; a follow-up search (绝世/觉世新能源 张掖 开工) found nothing. FRESHNESS: nothing after 2025-06 -> 0.3. ref_year 2025 = publication-year fallback (ref_year: fallback, searched). Operator's Chinese name could not be confirmed (SMM transliteration only). Quotes via fetch-tool extraction. No coordinates located. No injected instructions seen."}
+     "notes": "NEW but weak (T049 sweep, Gansu; not in DB; distinct from the Easton Zhangye and Zhongna Zhengning rows). SMM 2025-06-05 reports the 5 GWh sodium-ion battery manufacturing project of 'Jueshi New Energy' was approved and licensed (filing/approval, 备案) by the Economic Development Bureau of the Zhangye Economic and Technological Development Zone, Gansu (S14, S15). Investment not stated; the page does not say whether the 5 GWh is cells or battery systems - so nameplate and capacity_ref_year are set to null per lead rule (figure kept here: 5 GWh/yr headline, 2025 publication year). Status announced: approval only, no construction evidence; a follow-up search (绝世/觉世新能源 张掖 开工) found nothing. FRESHNESS: nothing after 2025-06 -> 0.3. ref_year 2025 = publication-year fallback (ref_year: fallback, searched). Operator's Chinese name could not be confirmed (SMM transliteration only). Quotes via fetch-tool extraction. No coordinates located. No injected instructions seen."},
+
+    {"action": "add", "id": "ningxia-baofeng-group-baofeng-energy-ningdong-storage-battery-project-china",
+     "fields": {"plant_name": "Baofeng Energy (宝丰能源) Ningdong lithium battery and energy-storage project (Ningdong Energy and Chemical Base / Su-Yin Industrial Park, Ningxia)",
+                "operator": "Ningxia Baofeng Group / Baofeng Energy (宁夏宝丰集团 / 宝丰能源)",
+                "country": "China", "region": "China", "status": "announced", "project_state": "active",
+                "announced_year": 2021, "nameplate_capacity_gwh": null, "capacity_ref_year": null,
+                "site_type": "single_site",
+                "source_url": "https://cn.solarbe.com/news/20250428/50002043.html", "source_date": "2026-11-20", "source_published_date": "2025-04-28"},
+     "evidence": {"status": ["S17", "S16"], "announced_year": ["S16"]},
+     "confidence": 0.3,
+     "notes": "NEW (T049 sweep, Ningxia; not in DB; the only Ningxia lead found). Bundled-figure row per lead rule: nameplate and capacity_ref_year are null because every stated figure mixes cells with storage systems (and a power station); figures kept here. (1) Dec 2021 signing (China Daily, 2021-12-25, S16): Baofeng Group and Yinchuan signed an RMB 69.2 bn energy-storage battery full-industry-chain project, 'will build annual 200GWh of batteries and energy-storage container systems' at the Su-Yin Industrial Park, with cell manufacturing listed among the chain stages (also PV, cathode, anode, electrolyte, integrated systems); no schedule. (2) 27 Apr 2025 (China News Service via Solarbe, S17/S18): at the Ningdong Energy and Chemical Base (Lingwu, Yinchuan) the Baofeng storage cathode/anode/electrolyte plants and the Baofeng Energy phase-4 olefin project broke ground (total RMB 310 bn; storage items RMB 10.5 bn); the page lists a '100GWh lithium battery and energy-storage system and storage power station project' among the items being pushed to 达产. The later (2025) 100 GWh figure supersedes 200 GWh but is also bundled. IMPORTANT: it was the MATERIALS plants (25 万吨 LFP cathode, 15 万吨 anode, 17 万吨 electrolyte) that broke ground in Apr 2025; no cell-plant construction start, filing, equipment move-in or production is confirmed, hence status announced. FRESHNESS: no 2026 progress found for the cell project (one search, only the Apr 2025 reports and a Sept-2025 statement that applies to the olefin project). Single-source status, scope ambiguous -> 0.3. Quotes via fetch-tool extraction (spacing around digits as returned). No coordinates located. No injected instructions seen."}
   ]
 }
