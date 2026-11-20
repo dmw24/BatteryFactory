@@ -1,0 +1,9 @@
+{"task": "T045", "verified_on": "2026-11-20",
+ "sources": {"S1": {"url": "https://www.marklines.com/en/news/284140", "publisher": "MarkLines (news teaser, visible without login)", "published": "2023-03-02", "accessed": "2026-11-20", "language": "en",
+   "quote": "REPT BATTERO has already completed the construction of the first and second phases with a total capacity of 26GWh"}},
+ "rows": [
+  {"id": "rept-battero-rept-battero-wenzhou-plant-china", "action": "update",
+   "fields": {"installed_capacity_gwh": 26, "installed_as_of": "2023-03-02"},
+   "evidence": {"installed_capacity_gwh": ["S1"]},
+   "notes": "dated floor (D-025): phases 1+2 = 26 GWh built as of 2023-03 (MarkLines teaser, via T035); phase III passed completion acceptance Jul 2025, so current installed is likely higher (up to 50). installed basis: press."}
+ ]}

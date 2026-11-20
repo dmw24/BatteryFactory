@@ -72,7 +72,7 @@ Only pages anyone can read without a subscription. Never cite Bloomberg/BNEF, FT
 - Coordinates: only change if you found the site itself; append `[GEO=site:<how found>]` to notes. Otherwise leave existing coordinates.
 
 ## Confidence
-Hard caps (D-015): installed figure older than 18 months, or two sources disagreeing by >15% without resolution → confidence ≤ 0.5. Do not set confidence to exactly the 0.6 gate to get past G4; if a large plant can't honestly reach 0.6, list it on an ESCALATE line.
+Hard caps (D-015): installed figure older than 18 months *presented as the current figure* (a clearly dated historical floor with its true `installed_as_of` and a note 'dated floor' does not trigger the cap, D-025), or two sources disagreeing by >15% without resolution → confidence ≤ 0.5. Do not set confidence to exactly the 0.6 gate to get past G4; if a large plant can't honestly reach 0.6, list it on an ESCALATE line.
 Never remove a row or change `is_cell_manufacturer` to make a check pass. Remove only with positive evidence (duplicate, not a cell plant, never existed); a plant that exists but is poorly documented stays as an update with low confidence.
 0.9+ needs two independent open sources agreeing on status and capacity (check C4). 0.6–0.8 one reputable source. ≤ 0.5 conflicting/dated. Large plant (≥ 10 GWh) below 0.6 fails gate G4 — dig further or escalate.
 
