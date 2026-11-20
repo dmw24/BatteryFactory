@@ -72,3 +72,6 @@ VERDICT fail · capability + diligence. 41/41 quotes on page. Blocking: Tesla Ne
 T012 – lead verification → merged (Ordos 10.5 company figure, Ibaraki 6, Smyrna 7, Sunderland P1 status null).
 T014 – waived (sampled out, normal risk); lead fixed one id typo in patch (integration fix); FAAM start_year nulled after C3.
 T013 – lead verification → merged (fixes verified; S49–S51 FOUND; 8 misses were hand-confirmed in audit 1).
+
+## T011 (SK On + Samsung SDI) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 21/23 sources confirmed. Blocking: StarPlus Plant 2 (34 GWh) on hold per Samsung SDI CEO 2026-03-18 but still in nameplate; v1 chemistry/format carried unquoted on 7 rows; Komárom Plant 1 possibly idle. Spec gap: idle/retooling plants → D-018.
