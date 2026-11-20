@@ -56,3 +56,8 @@ T012 worker reported a prompt-injection block ("網站公告" telling AI readers
 
 ## T008 (SVOLT + Great Power) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence. 15/15 sampled quotes on page (Nov-2022 prospectus has a text layer after all). Blocking: D-015 caps (Shangrao, Suining, Yancheng, Chengdu, Ma'anshan at 0.6); Suining installed 20 contradicted by SVOLT 2023 filing ("尚未投入生产" end-2022); Huzhou operational on a pack roll-off; Taizhou removal needed the filing's PACK-only evidence (available). Spec: superseded phase totals → D-017. Found geocoder bug: Guangde row carries Shenzhen centroid ([GEO=city:Shenzhen]) — check all city-tier coordinates in T030.
+
+## T007, T009, T010 – lead verification of audit-1 fixes – 2026-11-20 → merged
+T007: Quzhou/Shenzhen restored (null status, 0.3); Jiashan removed as duplicate_of Lanjun row (T009); Nanchang capped; Huizhou Liwei S51 (county energy review); escalations filed. Quotes 33/40 FOUND (misses hand-confirmed in audit). Foshan source host szb.nanhaitoday.com unreachable from this environment.
+T009: Mianyang/Dongguan restored; Tianjin HQ row added; Zenergy Changshu = company basis (all sites), nameplate 70.5 ref 2027, Nanjing row added; Lanjun installed 16 (phase 1 only); CBAK aspirations moved to notes. Quotes 54/54 FOUND.
+T010: D-015 caps applied (HLI, Arizona, Ochang, Holland, Nanjing floor, Spring Hill mixed); ESG 2025 site-table citations; NextStar 100% LGES. Quotes 54/71 FOUND; misses largely hand-confirmed in audit 1.

@@ -5,7 +5,7 @@ Great Power,Zhumadian base (Yicheng district),Zhumadian,China,http://static.cnin
 Great Power,Zhengyang County 120Ah cell project (Zhumadian),Zhengyang (Zhumadian),China,https://www.stdaily.com/web/gdxw/2026-02/13/content_474265.html,great-power-great-power-zhengyang-120ah-cell-plant-china,
 Great Power,Changzhou base,Changzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-changzhou-plant-china,
 Great Power,Liuzhou base (smart energy storage and power battery manufacturing base),Liuzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-guangzhou-great-power-energy-technology-great-power-liuzhou-smart-energy-storage-and-power-battery-manufacturing-base-china,
-Great Power,Foshan base (Shida),Foshan,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,,no_open_source (listed as an operating base but product - cells vs packs/consumer - and capacity not found on any open page)
+Great Power,Foshan base (Shida),Foshan,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-foshan-plant-china,
 Great Power,Quzhou base (zero-carbon factory),Quzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china,
 Great Power,Qingdao base,Qingdao,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-qingdao-great-power-qingdao-energy-storage-battery-zero-carbon-manufacturing-base-china,
 Great Power,Vietnam base,(location not found),Vietnam,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-vietnam-plant-vietnam,
@@ -14,8 +14,8 @@ Great Power,Ulanqab energy storage + semi-solid-state project (announced 2024),U
 Great Power,Zhumadian Yicheng 587Ah/120Ah project (announced 2026-02),Zhumadian,China,https://finance.eastmoney.com/a/202602163651173633.html,great-power-guangzhou-great-power-energy-technology-co-ltd-penghui-energy-great-power-zhumadian-plant-zhumadian-production-base-china,
 Great Power,Henan Penghui recycling (河南鹏辉循环科技),Henan,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,,materials (battery recycling subsidiary - outside scope)
 SVOLT,Jintan HQ base (Changzhou),Changzhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,svolt-svolt-jintan-plant-changzhou-china,
-SVOLT,Baoding R&D and pilot base,Baoding,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,,pilot_only (cell pilot line 0.045 GWh; removed row svolt-honeycomb-energy-svolt-baoding-plant-r-d-centre-china)
-SVOLT,Taizhou base (GWM Taizhou site),Taizhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,,pack_only (unconfirmed - v1 note says module/PACK; removed row svolt-honeycomb-energy-svolt-taizhou-plant-china)
+SVOLT,Baoding R&D and pilot base,Baoding,China,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,,pilot_only (trial line for R&D; module/PACK lines process cells from other bases - June-2023 filing p.8-1-735; removed row svolt-honeycomb-energy-svolt-baoding-plant-r-d-centre-china)
+SVOLT,Taizhou base (GWM Taizhou site),Taizhou,China,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,,pack_only (June-2023 filing p.8-1-734/737: PACK lines only; removed row svolt-honeycomb-energy-svolt-taizhou-plant-china)
 SVOLT,Nanjing Lishui base,Nanjing,China,https://m.energytrend.cn/news/20210624-96608.html,svolt-svolt-nanjing-plant-lishui-base-china,
 SVOLT,Ma'anshan base,Ma'anshan,China,https://www.jiemian.com/article/6029720.html,svolt-svolt-energy-technology-svolt-ma-anshan-plant-china,
 SVOLT,Huzhou base (South Taihu New Area),Huzhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china,
