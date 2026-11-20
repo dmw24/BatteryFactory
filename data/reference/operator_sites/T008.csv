@@ -1,0 +1,30 @@
+operator,site_name,city,country,source_url,matched_id,excluded_reason
+Great Power,Guangzhou (Panyu) base,Guangzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-guangzhou-panyu-plant-china,
+Great Power,Zhuhai base,Zhuhai,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-zhuhai-plant-china,
+Great Power,Zhumadian base (Yicheng district),Zhumadian,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-guangzhou-great-power-energy-technology-co-ltd-penghui-energy-great-power-zhumadian-plant-zhumadian-production-base-china,
+Great Power,Zhengyang County 120Ah cell project (Zhumadian),Zhengyang (Zhumadian),China,https://www.stdaily.com/web/gdxw/2026-02/13/content_474265.html,great-power-great-power-zhengyang-120ah-cell-plant-china,
+Great Power,Changzhou base,Changzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-changzhou-plant-china,
+Great Power,Liuzhou base (smart energy storage and power battery manufacturing base),Liuzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-guangzhou-great-power-energy-technology-great-power-liuzhou-smart-energy-storage-and-power-battery-manufacturing-base-china,
+Great Power,Foshan base (Shida),Foshan,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,,no_open_source (listed as an operating base but product - cells vs packs/consumer - and capacity not found on any open page)
+Great Power,Quzhou base (zero-carbon factory),Quzhou,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china,
+Great Power,Qingdao base,Qingdao,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-qingdao-great-power-qingdao-energy-storage-battery-zero-carbon-manufacturing-base-china,
+Great Power,Vietnam base,(location not found),Vietnam,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,great-power-great-power-vietnam-plant-vietnam,
+Great Power,Guangde energy storage project (announced 2024),Guangde,China,https://www.cls.cn/detail/1863583,great-power-great-power-guangde-plant-china,
+Great Power,Ulanqab energy storage + semi-solid-state project (announced 2024),Ulanqab,China,https://www.energytrend.com/print/47965,great-power-great-power-ulanqab-energy-storage-and-semi-solid-state-cell-plant-china,
+Great Power,Zhumadian Yicheng 587Ah/120Ah project (announced 2026-02),Zhumadian,China,https://finance.eastmoney.com/a/202602163651173633.html,great-power-guangzhou-great-power-energy-technology-co-ltd-penghui-energy-great-power-zhumadian-plant-zhumadian-production-base-china,
+Great Power,Henan Penghui recycling (河南鹏辉循环科技),Henan,China,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,,materials (battery recycling subsidiary - outside scope)
+SVOLT,Jintan HQ base (Changzhou),Changzhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,svolt-svolt-jintan-plant-changzhou-china,
+SVOLT,Baoding R&D and pilot base,Baoding,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,,pilot_only (cell pilot line 0.045 GWh; removed row svolt-honeycomb-energy-svolt-baoding-plant-r-d-centre-china)
+SVOLT,Taizhou base (GWM Taizhou site),Taizhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,,pack_only (unconfirmed - v1 note says module/PACK; removed row svolt-honeycomb-energy-svolt-taizhou-plant-china)
+SVOLT,Nanjing Lishui base,Nanjing,China,https://m.energytrend.cn/news/20210624-96608.html,svolt-svolt-nanjing-plant-lishui-base-china,
+SVOLT,Ma'anshan base,Ma'anshan,China,https://www.jiemian.com/article/6029720.html,svolt-svolt-energy-technology-svolt-ma-anshan-plant-china,
+SVOLT,Huzhou base (South Taihu New Area),Huzhou,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china,
+SVOLT,Suining base,Suining,China,https://www.electrive.com/2022/11/04/svolt-kicks-off-production-in-suining/,svolt-svolt-energy-technology-svolt-suining-plant-china,
+SVOLT,Yancheng base (Dafeng),Yancheng,China,https://cnevpost.com/2022/01/07/svolt-energy-begins-construction-of-new-1-57-billion-battery-plant/,svolt-svolt-energy-technology-svolt-yancheng-plant-china,
+SVOLT,Shangrao base,Shangrao,China,https://www.itdcw.com/news/focus/0HG363K2023.html,svolt-energy-technology-svolt-shangrao-base-china,
+SVOLT,Chengdu base (Eastern New Area),Chengdu,China,https://www.nbd.com.cn/articles/2024-10-26/3609630.html,svolt-energy-technology-honeycomb-energy-svolt-chengdu-plant-chengdu-eastern-new-area-base-china,
+SVOLT,Sriracha plant (Banpu NEXT JV),Sriracha (Chonburi),Thailand,https://cnevpost.com/2024/02/28/svolt-battery-plant-thailand-begins-production/,,pack_only (modules and pack assembly; removed row svolt-energy-technology-thailand-svolt-thailand-sriracha-thailand)
+SVOLT,Lauchhammer cell plant (Brandenburg; 16 GWh planned),Lauchhammer,Germany,https://www.thepaper.cn/newsDetail_forward_33605598,,cancelled_never_built (SVOLT said in July 2026 its European factories are closed; no row in DB)
+SVOLT,Heusweiler pack/module plant (Saarland; 24 GWh cell+pack plan),Heusweiler,Germany,https://www.thepaper.cn/newsDetail_forward_33605598,,cancelled_never_built (European operations closed; no row in DB)
+SVOLT,Ueberherrn site (Saarland; planned cell plant),Ueberherrn,Germany,https://www.thepaper.cn/newsDetail_forward_33605598,,cancelled_never_built (European operations closed; no row in DB)
+SVOLT,Wuxi R&D centre,Wuxi,China,https://pdf.dfcfw.com/pdf/H2_AN202211181580371136_1.PDF,,outside_scope (R&D centre funded in prospectus; no cell production)

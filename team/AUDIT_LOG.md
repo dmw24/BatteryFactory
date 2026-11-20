@@ -37,3 +37,6 @@ All 3 blockers fixed and new quotes FOUND (J4, JM2, SY4, CD1, M2, A7); G2 hand-c
 
 ## T005 – lead verification of audit-1 fixes – 2026-11-20 → merged
 Nantong restored as operational 5/10 (S50 FOUND), Lujiang is_cell true with 6 GWh stale line (S51, cited by auditor; fetch blocked here), Jinzhai installed 5 as of 2025-02, D-015 applied (Morocco 20, Slovakia 8.4 per latest company filing), confidence caps applied.
+
+## T003 – lead verification of audit-1 fixes – 2026-11-20 → merged
+D-016 applied (Zhengzhou/Shenzhen/Xi'an null status at 0.3; env-list rows ≤0.4; 6 FinDreams entities added), Jinan/Xining capped, Wuwei/Fuzhou coords nulled, FAW installed nulled, Changzhou removal re-cited. Verifier bug found and fixed (HTML tag stripping ate PDF text containing '<'); quotes 51/54 FOUND. Open minor: Shaoxing installed 45 rests on 通线 (lines connected) 2025-12-30 – production not yet stated; T030 sweep. BYD rows' installed (123) ≪ BYD 2025 installations (285.6 GWh): structural undercount from undisclosed per-site capacity.

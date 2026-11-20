@@ -19,8 +19,9 @@ import pandas as pd
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def norm(s):
-    s = html.unescape(re.sub(r"<[^>]+>", " ", s))
+def norm(s, is_html=True):
+    if is_html:  # PDF text can contain '<' in tables; only strip tags from HTML
+        s = html.unescape(re.sub(r"<[^>]+>", " ", s))
     # drop all whitespace: PDF layout text and Chinese pages insert spaces between characters and numbers
     return re.sub(r"[\s　]+", "", s).lower()
 
@@ -65,7 +66,10 @@ def main():
     cache, counts = {}, {"FOUND": 0, "MISSING": 0, "FETCH_FAIL": 0}
     for _, r in rows.iterrows():
         try:
-            page = cache.setdefault(r.url, norm(fetch(r.url)))
+            if r.url not in cache:
+                raw = fetch(r.url)
+                cache[r.url] = norm(raw, is_html=not (r.url.lower().endswith(".pdf") and local_filing(r.url) is not None))
+            page = cache[r.url]
             q = norm(str(r.quote))
             # tolerate ellipses in quotes: every fragment must be present
             ok = all(frag.strip() in page for frag in re.split(r"\s*(?:\.\.\.|…)\s*", q) if frag.strip())
