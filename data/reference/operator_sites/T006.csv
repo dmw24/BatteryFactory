@@ -1,0 +1,27 @@
+operator,site_name,city,country,source_url,matched_id,excluded_reason
+EVE Energy,Huizhou Zhongkai production base (HQ plants),Huizhou,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF,eve-energy-eve-energy-huizhou-plant-zhongkai-high-tech-zone-production-base-china,
+EVE Energy,Huizhou Zhongkai 60GWh storage (power) battery project (announced 2026-03-27),Huizhou,China,https://finance.eastmoney.com/a/202603273687464228.html,eve-energy-huizhou-tonghu-zhongkai-60gwh-china,
+EVE Energy,EVE Sodium Energy HQ (2 GWh),Huizhou,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF,eve-energy-eve-sodium-energy-huizhou-hq-china,
+EVE Energy,Jingmen production base (18 factories; incl. 60GWh super factory),Jingmen,China,https://m.thepaper.cn/baijiahao_31252471,eve-energy-eve-energy-jingmen-production-base-china,
+EVE Energy,Jingmen new 60GWh power/storage project (announced 2026-03-31),Jingmen,China,https://finance.eastmoney.com/a/202604073696801379.html,eve-energy-eve-energy-jingmen-production-base-china,
+EVE Energy,Qidong EVE-Linyang plant (10 GWh JV),Qidong,China,https://yicaiglobal.com/news/china-eve-energy-soars-on-plan-to-lift-lithium-ion-battery-output-by-925-gwh,eve-energy-eve-energy-qidong-plant-eve-linyang-china,
+EVE Energy,Qidong 50GWh storage (power) base (announced 2026-04-07; same city/zone as EVE-Linyang),Qidong,China,https://finance.eastmoney.com/a/202604073696801379.html,eve-energy-eve-energy-qidong-plant-eve-linyang-china,
+EVE Energy,Shanghang Baisha 60GWh storage base (EVE 80%/Longking 20%),Shanghang,China,https://finance.eastmoney.com/a/202604073696801379.html,eve-energy-shanghang-baisha-fujian-china,
+EVE Energy,Chengdu power and storage base (50GWh plan; 9 GWh in production),Chengdu,China,https://www.jiemian.com/article/14131861.html,eve-energy-eve-energy-chengdu-power-and-energy-storage-battery-base-china,
+EVE Energy,Chengdu solid-state battery mass-production base (100 MWh pilot),Chengdu,China,https://www.jiemian.com/article/14131861.html,,outside_scope (pilot line ~0.1 GWh)
+EVE Energy,Qujing cylindrical LFP storage/power battery project (23 GWh plan),Qujing,China,https://stock.10jqka.com.cn/20250322/c666908506.shtml,eve-energy-eve-energy-qujing-plant-23gwh-cylindrical-lfp-energy-storage-power-battery-project-china,
+EVE Energy,Shenyang base (40 GWh plan; BMW large-cylindrical pilot),Shenyang,China,https://wallstreetcn.com/articles/3671321,eve-energy-eve-energy-shenyang-base-china,
+EVE Energy,Yuxi 10GWh power/storage battery project,Yuxi,China,https://www.itdcw.com/news/focus/04161550N2026.html,eve-energy-yuxi-eve-energy-co-ltd-eve-energy-yuxi-plant-yuxi-power-energy-storage-battery-project-china,
+EVE Energy,Ningbo Chuangneng (Zhejiang) lithium battery plant,Ningbo,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF,eve-energy-eve-energy-ningbo-plant-china,
+EVE Energy,Wuhan R&D branch / Energy Storage Institute,Wuhan,China,https://www.energytrend.com/news/20260202-50883.html,,not_cell (R&D only; row removed)
+EVE Energy,Kulim (Kedah) Malaysia - phase 1 cylindrical and phase 2 plus storage expansion,Kulim,Malaysia,https://battery-news.de/en/2025/02/20/eve-energy-launches-battery-production-in-malaysia/,eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia,
+EVE Energy,Debrecen (EVE Power Hungary),Debrecen,Hungary,https://theevreport.com/eve-energy-hungary-battery-plant-eu-compliance,eve-energy-eve-power-hungary-kft-eve-energy-debrecen-hungary,
+EVE Energy,Amplify Cell Technologies (10% technology partner; not EVE-operated),Byhalia,United States,https://www.electrive.com/2025/10/22/us-cell-production-by-truck-alliance-delayed-til-2028,amplify-cell-technologies-byhalia-mississippi-united-states,
+EVE Energy,SK On-EVE JV Yancheng (SKOJ) - listed in another task,Yancheng,China,,sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china,
+EVE Energy,Titan Battery Project Karawang (Huayou/EVE consortium) - continuation of the Omega/HLI Karawang site,Karawang,Indonesia,https://jakartaglobe.id/business/indonesia-targets-h1-2026-groundbreaking-for-titan-battery-project-led-by-huayou-eve,hli-green-power-hli-green-power-karawang-battery-cell-plant-indonesia,
+Hithium,Xiamen headquarters production base (phase 1 15 GWh + phase 2 30 GWh),Xiamen,China,https://en.hithium.com/about/plants.html,hithium-hithium-xiamen-plant-xiamen-production-base-china,
+Hithium,Chongqing Southwest Intelligent Manufacturing Center (Tongliang),Chongqing,China,https://en.hithium.com/about/plants.html,hithium-hithium-chongqing-plant-china,
+Hithium,Heze LDES integrated zero-carbon industrial park,Heze,China,https://en.hithium.com/about/plants.html,hithium-hithium-heze-plant-china,
+Hithium,Navarra gigafactory (Spain),Pamplona area,Spain,https://www.investinspain.org/en/news/2026/hithium,hithium-hithium-navarra-spain,
+Hithium,Mesquite Texas manufacturing center (10 GWh module/system assembly),Mesquite,United States,https://en.hithium.com/about/plants.html,,pack_only (module and system assembly; no cell lines)
+Hithium,Shenzhen application innovation base,Shenzhen,China,https://m.thepaper.cn/newsDetail_forward_30593340,,outside_scope (R&D/application base; no cell capacity disclosed)

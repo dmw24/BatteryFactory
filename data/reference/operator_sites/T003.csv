@@ -3,7 +3,7 @@ FinDreams Battery (BYD),Qinghai FinDreams Battery (Nanchuan),Xining,China,https:
 FinDreams Battery (BYD),Changzhou BYD vehicle branch,Changzhou,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,,not_cell (vehicle entity only; v1 row removed)
 FinDreams Battery (BYD),Bengbu FinDreams Battery,Bengbu,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,byd-findreams-battery-byd-findreams-bengbu-plant-china,
 FinDreams Battery (BYD),XCMG-FinDreams Xuzhou power battery,Xuzhou,China,https://tech.ifeng.com/c/8UrXowF2BeJ,byd-findreams-battery-byd-findreams-xcmg-findreams-xuzhou-blade-battery-plant-china,
-FinDreams Battery (BYD),Huaihai-FinDreams Xuzhou sodium-ion base (30 GWh),Xuzhou,China,https://finance.sina.com.cn/roll/2026-08-07/doc-inimmayv4475552.shtml,,candidate routed to T025 (sodium-ion); not added here to avoid double add
+FinDreams Battery (BYD),Huaihai-FinDreams Xuzhou sodium-ion base (30 GWh),Xuzhou,China,https://finance.sina.com.cn/roll/2026-08-07/doc-inimmayv4475552.shtml,byd-findreams-huaihai-findreams-xuzhou-sodium-ion-base-china,
 FinDreams Battery (BYD),Wuwei FinDreams Battery,Wuwei,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,byd-findreams-battery-wuwei-findreams-battery-plant-byd-new-energy-power-battery-yangtze-river-delta-manufacturing-center-china,
 FinDreams Battery (BYD),Zhengzhou Fudi Battery,Zhengzhou,China,https://www.marklines.com/cn/news/283376,byd-findreams-battery-zhengzhou-fudi-battery-co-ltd-byd-findreams-fudi-zhengzhou-battery-plant-china,
 FinDreams Battery (BYD),Huizhou BYD Battery (phase 1 and 2 parks),Huizhou,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,byd-findreams-byd-findreams-huizhou-plant-china,
@@ -12,24 +12,24 @@ FinDreams Battery (BYD),FAW-FinDreams,Changchun,China,https://www.marklines.com/
 FinDreams Battery (BYD),Jinan FinDreams Battery,Jinan,China,https://m.dzplus.dzng.com/share/general/0/NEWS3654948VPPXKLAYFRWTA,findreams-battery-byd-byd-findreams-jinan-battery-plant-jinan-high-tech-zone-china,
 FinDreams Battery (BYD),Shenzhen Kengzi/Pingshan base,Shenzhen,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,findreams-battery-byd-byd-findreams-shenzhen-plant-kengzi-pingshan-base-china,
 FinDreams Battery (BYD),Xi'an FinDreams Battery (Hi-tech Zone),Xi'an,China,https://xueqiu.com/8704550738/360053767,findreams-battery-byd-byd-findreams-xi-an-plant-china,
-FinDreams Battery (BYD),Xixian base (Qinhan New Town),Xi'an,China,https://finance.sina.com.cn/roll/2026-09-30/doc-initppix2769767.shtml,NEW:add row 'BYD Xixian base (Qinhan New Town, Xi'an)',
+FinDreams Battery (BYD),Xixian base (Qinhan New Town),Xi'an,China,https://finance.sina.com.cn/roll/2026-09-30/doc-initppix2769767.shtml,findreams-battery-byd-byd-xixian-base-qinhan-new-town-xi-an-second-gen-blade-china,
 FinDreams Battery (BYD),Shaoxing FinDreams Battery (Shengzhou),Shaoxing,China,https://finance.sina.cn/2025-07-20/detail-infharny9336472.d.html?vt=4,findreams-battery-byd-findreams-shaoxing-shengzhou-battery-base-china,
 FinDreams Battery (BYD),Chongqing FinDreams Lithium Battery (Bishan),Chongqing,China,https://www.marklines.com/cn/news/252525,findreams-battery-co-ltd-byd-findreams-chongqing-bishan-blade-battery-plant-china,
 FinDreams Battery (BYD),Chongqing Liangjiang FinDreams-Changan JV 10 GWh,Chongqing,China,https://xueqiu.com/8704550738/360053767,,no_open_source (single aggregator mention; JV with Changan - check T-owner of Changan)
 FinDreams Battery (BYD),Fuzhou (Jiangxi) FinDreams Battery,Fuzhou (抚州),China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,findreams-battery-fuzhou-findreams-battery-plant-jiangxi-china,
 FinDreams Battery (BYD),Weichai-FinDreams Yantai,Yantai,China,https://cn.solarbe.com/news/20250331/50001426.html,weichai-findreams-weichai-findreams-yantai-new-energy-power-industrial-park-china,
 FinDreams Battery (BYD),Wenzhou FinDreams Battery (Yongjia),Wenzhou,China,https://www.marklines.com/cn/news/279367,wenzhou-findreams-battery-co-ltd-byd-findreams-wenzhou-battery-base-qiaotou-yongjia-china,
-FinDreams Battery (BYD),Taizhou FinDreams (Xianju),Taizhou,China,https://www.marklines.com/cn/news/334658,NEW:add row 'FinDreams Taizhou (Xianju) power battery plant',
-FinDreams Battery (BYD),Yancheng FinDreams (Sheyang),Yancheng,China,https://xueqiu.com/8704550738/360053767,NEW:add row 'FinDreams Yancheng (Sheyang) battery base',
-FinDreams Battery (BYD),Guiyang / Gui'an FinDreams,Guiyang,China,https://xueqiu.com/8704550738/360053767,NEW:add row 'FinDreams Guiyang / Gui'an battery plant',
+FinDreams Battery (BYD),Taizhou FinDreams (Xianju),Taizhou,China,https://www.marklines.com/cn/news/334658,taizhou-findreams-battery-findreams-taizhou-xianju-power-battery-plant-china,
+FinDreams Battery (BYD),Yancheng FinDreams (Sheyang),Yancheng,China,https://xueqiu.com/8704550738/360053767,yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china,
+FinDreams Battery (BYD),Guiyang / Gui'an FinDreams,Guiyang,China,https://xueqiu.com/8704550738/360053767,guiyang-findreams-battery-findreams-guiyang-gui-an-battery-plant-china,
 FinDreams Battery (BYD),Guangxi / Nanning / Guangxi-ASEAN FinDreams (3 entities),Nanning,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,,no_open_source (2022 filings give 10+5 GWh and 45 GWh plans; no current status fetched)
 FinDreams Battery (BYD),Xiangyang FinDreams Battery,Xiangyang,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,,no_open_source (entity only; v1-era lists say ~30 GWh)
 FinDreams Battery (BYD),Baotou BYD Battery,Baotou,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,,no_open_source (entity only)
 FinDreams Battery (BYD),Ningbo FinDreams Battery,Ningbo,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,,no_open_source (entity only)
-FinDreams Battery (BYD),Yancheng FinDreams Battery (second entity in annual report),Yancheng,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,NEW:add row 'FinDreams Yancheng (Sheyang) battery base',
+FinDreams Battery (BYD),Yancheng FinDreams Battery (second entity in annual report),Yancheng,China,http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF,yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china,
 FinDreams Battery (BYD),Shanwei FinDreams 15 GWh,Shanwei,China,https://xueqiu.com/8704550738/360053767,,no_open_source (project mention only; no status)
 FinDreams Battery (BYD),Chuzhou FinDreams 5 GWh,Chuzhou,China,https://xueqiu.com/8704550738/360053767,,no_open_source (small; no fetched source)
 FinDreams Battery (BYD),Yichun BYD 30 GWh,Yichun,China,https://www.marklines.com/cn/news/274252,,no_open_source (2022 signing only; no progress found)
 FinDreams Battery (BYD),Zhijiang FinDreams project,Yichang (Zhijiang),China,https://www.energytrend.com/print/50525,,no_open_source (signing Dec 2025 with no capacity - MoU)
 FinDreams Battery (BYD),Meishan Xingmei framework agreement,Meishan,China,https://news.metal.com/newscontent/103941032-lithium-battery-findreams-battery-and-sichuan-meishan-xingmei-investment-group-sign-framework-cooperation-agreement,,no_open_source (strategic cooperation agreement 2 June 2026; no capacity)
-Kim Long Motor (BYD technology),Kim Long-BYD battery plant,Hue,Vietnam,https://valuechainasia.com/articles/supply-chain-and-manufacturing/kim-long-byd-vietnam-ev-battery-plant-2026,,candidate routed to T027; not added here
+Kim Long Motor (BYD technology),Kim Long-BYD battery plant,Hue,Vietnam,https://valuechainasia.com/articles/supply-chain-and-manufacturing/kim-long-byd-vietnam-ev-battery-plant-2026,kim-long-motor-kim-long-byd-battery-plant-hue-vietnam,

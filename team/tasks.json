@@ -94,7 +94,7 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "in_review",
       "branch": null,
       "pr": null,
       "attempts": 1,
@@ -130,15 +130,15 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_review",
+      "status": "changes_requested",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
       "audit": {
-        "verdict": null,
-        "by": null,
-        "notes": null
+        "verdict": "fail",
+        "by": "auditor-opus",
+        "notes": "audit 1: nameplate convention (spec gap\u2192D-014), Zigong quote w/o number, Sines status, AR2025 sites missing"
       }
     },
     {
@@ -166,7 +166,7 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "changes_requested",
       "branch": null,
       "pr": null,
       "attempts": 1,
@@ -174,7 +174,7 @@
       "audit": {
         "verdict": null,
         "by": null,
-        "notes": null
+        "notes": "C2: Nantong null status; apply D-014"
       }
     },
     {
@@ -202,7 +202,7 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "in_review",
       "branch": null,
       "pr": null,
       "attempts": 1,
@@ -217,7 +217,7 @@
       "id": "T007",
       "title": "Re-verify: Sunwoda + REPT Battero (18 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T007.json",
         "data/reference/operator_sites/T007.csv"
@@ -238,10 +238,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -253,7 +253,7 @@
       "id": "T008",
       "title": "Re-verify: SVOLT + Great Power (19 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T008.json",
         "data/reference/operator_sites/T008.csv"
@@ -274,10 +274,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -289,7 +289,7 @@
       "id": "T009",
       "title": "Re-verify: China mid-tier: Lishen, Farasis, Ganfeng, Zenergy, Lanjun, BAK, Tianneng (21 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T009.json",
         "data/reference/operator_sites/T009.csv"
@@ -310,10 +310,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -325,7 +325,7 @@
       "id": "T010",
       "title": "Re-verify: LG Energy Solution (incl. Ultium, L-H JVs) (11 rows)",
       "workstream": "A. Majors",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T010.json",
         "data/reference/operator_sites/T010.csv"
@@ -346,10 +346,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,

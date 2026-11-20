@@ -42,6 +42,9 @@ def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (dataset verification)"})
     with urllib.request.urlopen(req, timeout=25) as r:
         raw = r.read()
+        if r.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+            import gzip
+            raw = gzip.decompress(raw)
     for enc in ("utf-8", "gb18030", "latin-1"):
         try:
             return raw.decode(enc)
