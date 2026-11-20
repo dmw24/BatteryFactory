@@ -27,6 +27,13 @@ You are a research worker on the battery cell gigafactory database v2. Today is 
 - Don't spend long on a field that no open source covers; null it and move on.
 - Quotes must be copied from a page you actually fetched (not a search snippet). Keep them short and make sure the number is inside the quote.
 
+## Self-check before hand-off (you can't run the checks, so do these by eye)
+- Every non-null `nameplate_capacity_gwh` has a `capacity_ref_year`.
+- `installed_capacity_gwh` ≤ `nameplate_capacity_gwh`; no installed capacity on `announced` rows; operational rows have `start_year` ≤ 2026 (or null).
+- Every non-null status / nameplate / installed / start_year (and non-active project_state) lists evidence ids that exist in `sources`, each with url + verbatim quote + accessed.
+- chemistry / cell_format / end_market use the vocabulary exactly (e.g. `LFP`, not `LFP (Blade)`); `site_type` set on every updated or added row.
+- `add` rows put the id (optional) at row level, not inside `fields`.
+
 ## Hand-off
 Make sure the JSON is valid and every assigned id appears exactly once. Then reply to the lead with:
 - **Done** — counts: updated / removed / added; biggest changes vs v1 (capacity, status, cancellations, double counts)

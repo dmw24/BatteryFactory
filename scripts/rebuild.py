@@ -94,6 +94,8 @@ def apply_patches(df):
                 log.append(f"{task}: remove {rid} ({r.get('reason')})")
                 continue
             if action == "add":
+                rid = rid or fields.pop("id", None)
+                fields.pop("id", None)
                 if not rid:
                     rid = slugify(fields.get("operator", ""), fields.get("plant_name", ""), fields.get("country", ""))
                 if rid in df.index:

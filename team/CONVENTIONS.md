@@ -47,7 +47,7 @@ Only pages anyone can read without a subscription. Never cite Bloomberg/BNEF, FT
 ## Capacity semantics
 - All capacity is **GWh per year** of cell output.
 - `installed_capacity_gwh` = capacity of lines **commissioned and producing** at `installed_as_of`. Only for operational plants (or partially operational phases). Null if no source states it — do not assume installed = nameplate.
-- `nameplate_capacity_gwh` = full eventual nameplate of the site as currently planned; `capacity_ref_year` = year that full capacity is targeted/reached.
+- `nameplate_capacity_gwh` = full eventual nameplate of the site as currently planned; `capacity_ref_year` = year that full capacity is targeted/reached. **Required whenever nameplate is non-null** (CLAUDE.md rule 2, check C3). If no source gives a target year, use the publication year of the source that states the nameplate and say so in notes.
 - Chinese sources: 规划/计划 = planned, 在建 = under construction, 投产/建成 = in production/built, 一期/二期 = phase 1/2. Map carefully; this is the most common error.
 - Company-wide or city-wide totals are never a single site's capacity. If a source only gives a hub total covering several adjacent plants, use **one** row with `site_type: "hub"`, remove or merge the component rows (`merged_into_hub:<id>`), and say which plants it covers in notes. Never keep a hub figure and its components both with capacity.
 - `capacity_by_year_json`: only sourced phase steps (`{"2024": 20, "2026": 40}`), no interpolation.
