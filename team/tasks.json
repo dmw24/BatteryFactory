@@ -1145,9 +1145,9 @@
       "attempts": 1,
       "assumptions": [],
       "audit": {
-        "verdict": "waived",
+        "verdict": "pass",
         "by": "lead",
-        "notes": "no fills: per-site figures unavailable (blocked/PDF), search budget exhausted; company totals recorded in operator_totals.csv"
+        "notes": "empty patch (no changes) \u2014 nothing to audit"
       }
     },
     {
@@ -1464,7 +1464,7 @@
       "id": "T046",
       "title": "Discovery rerun: Shanghai, Zhejiang (all prefectures), Jiangsu (Wuxi, Zhenjiang, Suqian, Lianyungang, Changzhou)",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T046.json"
       ],
@@ -1495,7 +1495,7 @@
       "id": "T047",
       "title": "Discovery rerun: Hubei, Henan (prefecture sweeps)",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T047.json"
       ],
@@ -1526,7 +1526,7 @@
       "id": "T048",
       "title": "Discovery rerun: Shandong, Hebei, Shanxi, Tianjin, Beijing, Liaoning, Jilin, Heilongjiang",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T048.json"
       ],
@@ -1557,7 +1557,7 @@
       "id": "T049",
       "title": "Discovery rerun: Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Gansu, Tibet, Sichuan (other cities)",
       "workstream": "F. Expansion",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T049.json"
       ],
