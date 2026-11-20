@@ -43,3 +43,6 @@ D-016 applied (Zhengzhou/Shenzhen/Xi'an null status at 0.3; env-list rows ≤0.4
 
 ## T010 (LGES) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence. Quotes fine (1 wording mismatch). Blocking: D-015 caps not applied (HLI stale installed at 0.7; Arizona 36/44/53 conflict at 0.65; Ochang/Holland/Nanjing parked at 0.6); Nanjing hub nameplate covers LGESNJ only; Spring Hill whole 50 labelled LFP/ESS; v1 Warren/Ochang vocab carried. LGES ESG 2025 (site table as of Jun 2026) confirms HL-GA operational, NextStar 100% LGES, no Morocco. Lead's fetch of the ESG PDF had failed silently — fixed by importing the auditor's extract.
+
+## T007 (Sunwoda + REPT) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence (worker started before D-015/D-016). 39/39 quotes on page; REPT AR quotes (read from page images) confirmed in text extract. Blocking: Quzhou/Shenzhen removed without positive evidence (AR lists Shenzhen production bases); Jiashan installed 32 = arithmetic (77−45), S7 says construction completed only; Nanchang/Jiashan above D-015 cap; Huizhou Liwei status from subsidiary table. Cross-task: Jiashan duplicates T009 Lanjun row → T007 row to be removed as duplicate.
