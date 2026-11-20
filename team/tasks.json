@@ -726,15 +726,15 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "changes_requested",
+      "status": "merged",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
       "audit": {
-        "verdict": "fail",
-        "by": "auditor-opus",
-        "notes": null
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Zhongna 1/3.2, Camel UC 2 GWh, Chuanhong 0.45, Seetao cited"
       }
     },
     {
