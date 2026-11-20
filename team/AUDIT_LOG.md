@@ -40,3 +40,6 @@ Nantong restored as operational 5/10 (S50 FOUND), Lujiang is_cell true with 6 GW
 
 ## T003 – lead verification of audit-1 fixes – 2026-11-20 → merged
 D-016 applied (Zhengzhou/Shenzhen/Xi'an null status at 0.3; env-list rows ≤0.4; 6 FinDreams entities added), Jinan/Xining capped, Wuwei/Fuzhou coords nulled, FAW installed nulled, Changzhou removal re-cited. Verifier bug found and fixed (HTML tag stripping ate PDF text containing '<'); quotes 51/54 FOUND. Open minor: Shaoxing installed 45 rests on 通线 (lines connected) 2025-12-30 – production not yet stated; T030 sweep. BYD rows' installed (123) ≪ BYD 2025 installations (285.6 GWh): structural undercount from undisclosed per-site capacity.
+
+## T010 (LGES) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence. Quotes fine (1 wording mismatch). Blocking: D-015 caps not applied (HLI stale installed at 0.7; Arizona 36/44/53 conflict at 0.65; Ochang/Holland/Nanjing parked at 0.6); Nanjing hub nameplate covers LGESNJ only; Spring Hill whole 50 labelled LFP/ESS; v1 Warren/Ochang vocab carried. LGES ESG 2025 (site table as of Jun 2026) confirms HL-GA operational, NextStar 100% LGES, no Morocco. Lead's fetch of the ESG PDF had failed silently — fixed by importing the auditor's extract.
