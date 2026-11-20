@@ -75,9 +75,29 @@ def timeline_series(tl):
     return out
 
 
+def _with_installed(r):
+    """v2: add the re-verified installed_capacity_gwh (dated by installed_as_of) as a sourced
+    'operational' point, and the full nameplate at capacity_ref_year as a 'planned' point."""
+    pts = []
+    if r["capacity_timeline"]:
+        try:
+            pts = [p for p in json.loads(r["capacity_timeline"]) if isinstance(p, dict)]
+        except (json.JSONDecodeError, TypeError):
+            pts = []
+    inst, asof = r.get("installed_capacity_gwh"), r.get("installed_as_of")
+    if inst is not None and asof:
+        y = int(str(asof)[:4])
+        pts = [p for p in pts if not (p.get("basis") in FIRM_BASIS and int(p.get("year", 0)) >= y)]
+        pts.append({"year": y, "cumulative_gwh": float(inst), "basis": "operational"})
+    np, ry = r["nameplate_capacity_gwh"], r["capacity_ref_year"]
+    if pts and np is not None and ry is not None:
+        pts.append({"year": int(ry), "cumulative_gwh": float(np), "basis": "planned"})
+    return json.dumps(pts) if pts else None
+
+
 def series_for(r):
     """Return ({year: firm_gwh}, {year: pipeline_gwh}, source_kind) or (None,)*3."""
-    tl = r["capacity_timeline"]
+    tl = _with_installed(r)
     if tl:
         try:
             arr = json.loads(tl)
@@ -123,8 +143,10 @@ def main():
     rows = con.execute("""
         SELECT id, region, status, nameplate_capacity_gwh, capacity_ref_year,
                start_year, announced_year, capacity_by_year_json, capacity_timeline,
-               research_notes, is_single_site
+               research_notes, is_single_site, installed_capacity_gwh, installed_as_of,
+               project_state, is_cell_manufacturer, site_type, chemistry
         FROM factories
+        WHERE coalesce(is_cell_manufacturer, true)
     """).fetchall()
     cols = [d[0] for d in con.description]
     R = [dict(zip(cols, r)) for r in rows]
@@ -163,15 +185,26 @@ def main():
         if (kind == "real" and r["status"] == "operational"
                 and max([firm[y] for y in firm if y <= LAST_ACTUAL] or [0]) == 0):
             kind = "online_unquantified"
+        if (r.get("project_state") or "active") != "active":
+            # D-018 / cancelled: no online capacity from the current year on, no pipeline
+            for y in list(firm):
+                if y > LAST_ACTUAL:
+                    firm[y] = 0.0
+                    pipe[y] = 0.0
         kinds[kind] += 1
         hub = (r["is_single_site"] is False) or bool(HUBRE.search(r["research_notes"] or ""))
         # Series B — installed nameplate (IEA/BNEF basis): full nameplate of an
         # OPERATIONAL plant credited from the year it came online, held to HORIZON.
         np = r["nameplate_capacity_gwh"]
         oy = online_year(r)
+        active = (r.get("project_state") or "active") == "active"
+        has_sourced = kind in ("real", "phased")
         for y in firm:
-            npl = (np if (np is not None and r["status"] == "operational"
-                          and oy is not None and y >= oy) else 0.0)
+            if has_sourced:
+                npl = firm[y]                       # v2: sourced installed level
+            else:
+                npl = (np if (np is not None and r["status"] == "operational" and (active or y <= LAST_ACTUAL)
+                              and oy is not None and y >= oy) else 0.0)
             ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), npl,
                         r["region"], r["status"], kind, hub))
     con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?)", ins)

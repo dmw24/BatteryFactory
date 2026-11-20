@@ -31,3 +31,7 @@ Format:
 ## 2026-11-20 – lead – T030 prep (geo QA)
 - scripts/geo_check.py: 295 rows testable against the city in their name; 16 flagged >150 km, of which 15 are US homonym false positives (Florence SC/AL etc. — checker lacks state disambiguation) and 1 real error (Zoolnasm Guangde at Yangzhou) → lead `fix` patch data/patches/T030_geo.json. Chinese GEO=city tags vs names: 5 mismatches, 4 legitimate (county→prefecture), 1 the same Zoolnasm row. Great Power Guangde (v1 site_unflagged at Shenzhen) already nulled by T008.
 - rebuild.py: new lead-only `fix` action (changes fields without stamping re-verification).
+
+## 2026-11-20 – lead – T030 prep (timeseries v2)
+- build_timeseries.py v2: excludes non-cell rows; merges re-verified installed_capacity_gwh (dated by installed_as_of) into each plant's sourced timeline and the full nameplate at capacity_ref_year as a planned point; inactive (paused/cancelled, D-018) plants stop counting after 2025; Series B = sourced level where it exists, else nameplate for active operational plants.
+- Interim result (mid-run, tails pending): 2025 Series A 3,731 GWh (90% from sourced points) vs IEA >4,000 (93%); Series B 3,746; China 78% of A. v1 Series B 2025 was 5,518.
