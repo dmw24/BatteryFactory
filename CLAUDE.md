@@ -46,6 +46,21 @@ loads results into DuckDB.
 | `source_url` | VARCHAR | primary source (required) |
 | `source_date` | VARCHAR | ISO date published/accessed (required) |
 | `confidence` | DOUBLE | 0–1 |
+| `project_state` | VARCHAR | `active` \| `paused` \| `cancelled` (v2, D-003/D-018). Aggregates use active rows only |
+| `installed_capacity_gwh` | DOUBLE | v2: GWh/yr commissioned **and producing** at `installed_as_of` (null if unsourced or idle) |
+| `installed_as_of` | VARCHAR | date of the installed figure |
+| `site_type` | VARCHAR | `single_site` \| `hub` |
+| `geo_precision` | VARCHAR | `site` \| `town` \| `city` \| `site_unflagged` (v1 researcher) \| `none` |
+| `source_published_date` | VARCHAR | publication date of `source_url` |
+| `last_verified`, `verified_by_task` | VARCHAR | v2 re-verification stamp (team task id) |
+
+v2 semantics (team/CONVENTIONS.md is binding): `status` = furthest stage reached;
+`nameplate_capacity_gwh` = full current site plan incl. every stated site-specific phase (D-014),
+excluding undated aspirations (D-015) and superseded totals (D-017); `capacity_ref_year` = year the last
+phase is due, else publication-year fallback noted in `research_notes`. Field-level evidence (url + verbatim
+quote) lives in `data/field_evidence.csv`. Use the DuckDB view **`factories_active`** (cell plants,
+`project_state=active`, excluding non-comparable long-duration chemistries listed in
+`data/reference/non_comparable.csv`, D-019) for any capacity aggregate.
 
 **Regions** (exactly these eight): `China`, `USA`, `Europe`, `South Korea`,
 `Japan`, `India`, `Southeast Asia`, `Rest of World`.
@@ -98,6 +113,14 @@ above what is online. Never present Series A head-to-head with IEA/BNEF without 
 achieved-vs-nameplate distinction.
 
 ## Files
+
+**v2 build (2026-11):** `python3 scripts/rebuild.py` = `data/baseline/factories_v1.csv` (frozen v1) +
+`data/patches/*.json` (one sourced patch per team task) → `factories.db`, `factories_export.csv`,
+`data/field_evidence.csv`, `data/removed.csv`. Then `scripts/build_timeseries.py`, `scripts/qa.py`,
+`scripts/build_report.py`. Checks: `python3 checks/run_all.py` (integrity), `checks/done_gates.py`
+(definition of done), `checks/verify_quotes.py --task T0xx` (re-fetches sources and string-matches quotes).
+Company filings used as evidence are fetched with `scripts/fetch_filings.py` into
+`team/evidence/filings/` (text gitignored; `MANIFEST.csv` committed). Older loaders below describe the v1 pipeline.
 
 - `factories.db` — the DuckDB database (gitignored; rebuildable from the files below).
 - `candidates.csv` — seed list of plants (Step 2 output).
