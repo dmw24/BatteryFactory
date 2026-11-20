@@ -1,0 +1,75 @@
+{
+  "objective": "Battery cell gigafactory DB v2: every row re-verified from open sources, current to Nov 2026, field-level provenance, installed vs nameplate split, bottom-up total within IEA/BNEF order of magnitude.",
+  "tier": "standard",
+  "profile": "dataset",
+  "check_command": "python3 checks/run_all.py",
+  "check_command_fast": "python3 checks/run_all.py",
+  "base_branch": "claude/inspiring-hypatia-c9j8ju",
+  "integration": "merge",
+  "workers": 4,
+  "audit": {
+    "rate": 0.5,
+    "first_n": 3,
+    "always_high_risk": true,
+    "always_with_assumptions": true
+  },
+  "limits": {
+    "max_turns": 40,
+    "max_attempts_per_task": 3,
+    "no_progress_rounds": 2,
+    "budget_usd": null,
+    "budget_tokens": null
+  },
+  "provenance": {
+    "enabled": true,
+    "paths": [
+      "**/*.md",
+      "**/*.csv",
+      "**/*.json"
+    ],
+    "exclude": [
+      "team/**",
+      ".claude/**",
+      ".github/**",
+      "node_modules/**"
+    ],
+    "id_pattern": "SRC-[A-Za-z0-9_-]+",
+    "evidence_dir": "team/evidence",
+    "require_citations_in": []
+  },
+  "model_tiers": [
+    "sonnet",
+    "opus"
+  ],
+  "models": {
+    "lead": {
+      "model": "opus",
+      "effort": "high"
+    },
+    "auditor": {
+      "model": "opus",
+      "effort": "high"
+    },
+    "worker": {
+      "model": "sonnet",
+      "effort": "high"
+    },
+    "researcher": {
+      "model": "sonnet",
+      "effort": "high"
+    },
+    "researcher_synthesis": {
+      "model": "opus",
+      "effort": "high"
+    },
+    "worker_overrides": {}
+  },
+  "capability_scores": {},
+  "contracts": {
+    "required_for": "high_risk"
+  },
+  "checkpoint_every_merges": 5,
+  "evidence": {
+    "require_review": true
+  }
+}

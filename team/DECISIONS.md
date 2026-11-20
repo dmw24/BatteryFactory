@@ -1,0 +1,21 @@
+# Decisions and assumptions
+
+Choices made and why, so no one relitigates them. Newest at the bottom.
+
+- **decision** – made or approved by the lead or a human.
+- **assumption** – made by any agent under the consequence test: a reasonable alternative would not materially change a deliverable and is cheap to undo. Record the alternative rejected. List the ID in the task's `assumptions` field. The auditor reviews assumptions; the lead batches open ones for the human at checkpoints.
+
+| ID | Date | Type | Task | Choice | Alternative rejected | Why | By | Reviewed |
+|---|---|---|---|---|---|---|---|---|
+
+| D-001 | 2026-11-20 | decision | – | Profile dataset, tier Standard | Full tier | ~35 tasks with strong executable checks; Full's every-task audit doubles Opus spend | lead (owner delegated choices in chat) | pending owner |
+| D-002 | 2026-11-20 | decision | – | Open data only: every row value must rest on a freely readable page; IEA/BNEF/Benchmark used only as benchmarks; hard-paywall domains blocked by C5 | allow paywalled trackers as sources | owner requirement (chat 2026-11-20) | owner | yes (owner stated) |
+| D-003 | 2026-11-20 | decision | – | Keep `status` 3-valued (furthest stage reached) and add `project_state` active/paused/cancelled | add cancelled/paused to status | keeps CLAUDE.md rule 1 intact and backwards compatible; aggregates filter project_state=active | lead | pending owner |
+| D-004 | 2026-11-20 | decision | – | No Haiku anywhere. Lead Opus/high, auditor Opus/high, workers Sonnet/high | Haiku for mechanical jobs | owner: "Sonnet and above, just in case" | owner | yes (owner stated) |
+| D-005 | 2026-11-20 | decision | – | Staged budget: pilot (T002 CATL) → wave 1 majors → owner check-in → tails/discovery | run everything at once | owner wants to limit usage; majors carry ~75% of capacity | lead | pending owner |
+| D-006 | 2026-11-20 | decision | – | Done-gate thresholds fixed before any v2 data: G2a 3.2–5.0 TWh installed, G2b China 75–90%, G1b 90% verified, G4 no ≥10 GWh plant below 0.6 | tighter IEA ±10% band | bottom-up from open sources legitimately undercounts small makers; band still catches the v1 5.8 TWh overshoot | lead | pending owner |
+| D-007 | 2026-11-20 | decision | – | v1 export frozen as data/baseline/factories_v1.csv; all changes via data/patches/<task>.json applied by scripts/rebuild.py | keep editing factories.db via ad-hoc loaders | v1 export was not reproducible from repo files (6 capacity values and 1 removed row existed only in the export) | lead | pending owner |
+| D-008 | 2026-11-20 | decision | – | Split capacity into installed_capacity_gwh (+installed_as_of) and nameplate_capacity_gwh | single nameplate | v1 operational nameplate 5.8 TWh vs IEA >4 TWh: future targets counted as operational | lead | pending owner |
+| D-009 | 2026-11-20 | decision | – | Workers are web+file subagents with no shell; lead runs rebuild/checks and commits | workers run scripts | untrusted web content + shell is the risky combination | lead | pending owner |
+| D-010 | 2026-11-20 | decision | – | Field-level provenance is enforced by checks/run_all.py C4 (url + verbatim quote per field) rather than the skill's SRC-ID evidence files; the skill's check_provenance.py stays enabled but has nothing to scan | SRC-ID evidence base in team/evidence | per-row web evidence fits patch files better than a shared evidence base | lead | pending owner |
+| D-011 | 2026-11-20 | decision | – | All re-verification tasks share one contract (team/CONVENTIONS.md) instead of per-task contracts | per-task contract drafted by each worker | tasks are identical in shape; per-task contracts would add ~23 Opus review rounds for no new information | lead | pending owner |

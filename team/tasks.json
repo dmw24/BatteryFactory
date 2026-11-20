@@ -1,0 +1,1061 @@
+{
+  "objective": "Battery cell gigafactory DB v2 (see team/SPEC.md)",
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "Contracts: baseline snapshot, rebuild.py, checks, CONVENTIONS",
+      "workstream": "D. Integration",
+      "owner": "lead",
+      "files": [
+        "scripts/rebuild.py",
+        "checks/**",
+        "team/CONVENTIONS.md",
+        "data/baseline/**"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "rebuild reproduces v1 capacity_by_year.csv exactly",
+        "checks/run_all.py exits 0 on baseline"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_review",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T002",
+      "title": "Re-verify: CATL (pilot) (18 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T002.json",
+        "data/reference/operator_sites/T002.csv"
+      ],
+      "depends_on": [
+        "T001"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T002.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T003",
+      "title": "Re-verify: BYD / FinDreams (17 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T003.json",
+        "data/reference/operator_sites/T003.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T003.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T004",
+      "title": "Re-verify: CALB + Chuneng (12 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T004.json",
+        "data/reference/operator_sites/T004.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T004.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T005",
+      "title": "Re-verify: Gotion (18 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T005.json",
+        "data/reference/operator_sites/T005.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T005.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T006",
+      "title": "Re-verify: EVE Energy + Hithium (14 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T006.json",
+        "data/reference/operator_sites/T006.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T006.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T007",
+      "title": "Re-verify: Sunwoda + REPT Battero (18 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T007.json",
+        "data/reference/operator_sites/T007.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T007.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T008",
+      "title": "Re-verify: SVOLT + Great Power (19 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T008.json",
+        "data/reference/operator_sites/T008.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T008.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T009",
+      "title": "Re-verify: China mid-tier: Lishen, Farasis, Ganfeng, Zenergy, Lanjun, BAK, Tianneng (21 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T009.json",
+        "data/reference/operator_sites/T009.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T009.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T010",
+      "title": "Re-verify: LG Energy Solution (incl. Ultium, L-H JVs) (11 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T010.json",
+        "data/reference/operator_sites/T010.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T010.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T011",
+      "title": "Re-verify: SK On + Samsung SDI (incl. BlueOval SK, StarPlus) (17 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T011.json",
+        "data/reference/operator_sites/T011.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T011.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T012",
+      "title": "Re-verify: Envision AESC (13 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T012.json",
+        "data/reference/operator_sites/T012.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T012.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T013",
+      "title": "Re-verify: Panasonic, Toyota, Tesla, Honda, PPES (17 rows)",
+      "workstream": "A. Majors",
+      "owner": null,
+      "files": [
+        "data/patches/T013.json",
+        "data/reference/operator_sites/T013.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T013.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T014",
+      "title": "Re-verify: Europe tail A (status & cancellation refresh) (18 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T014.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T015",
+      "title": "Re-verify: Europe tail B (status & cancellation refresh) (18 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T015.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T016",
+      "title": "Re-verify: USA tail A (status & cancellation refresh) (15 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T016.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T017",
+      "title": "Re-verify: USA tail B (status & cancellation refresh) (14 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T017.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T018",
+      "title": "Re-verify: India (21 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T018.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T019",
+      "title": "Re-verify: Japan / South Korea / Southeast Asia tail (24 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T019.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T020",
+      "title": "Re-verify: Rest of World (18 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T020.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T021",
+      "title": "Re-verify: China tail batch 1 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T021.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T022",
+      "title": "Re-verify: China tail batch 2 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T022.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T023",
+      "title": "Re-verify: China tail batch 3 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T023.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T024",
+      "title": "Re-verify: China tail batch 4 (13 rows)",
+      "workstream": "B. Tails",
+      "owner": null,
+      "files": [
+        "data/patches/T024.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T025",
+      "title": "Discovery: cell plants in China announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": null,
+      "files": [
+        "data/reference/candidates/T025.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T026",
+      "title": "Discovery: cell plants in Europe + USA announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": null,
+      "files": [
+        "data/reference/candidates/T026.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T027",
+      "title": "Discovery: cell plants in India, Japan, South Korea, Southeast Asia announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": null,
+      "files": [
+        "data/reference/candidates/T027.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T028",
+      "title": "Discovery: cell plants in Rest of World announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": null,
+      "files": [
+        "data/reference/candidates/T028.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T029",
+      "title": "Lead: turn discovery candidates into add-tasks",
+      "workstream": "D. Integration",
+      "owner": null,
+      "files": [
+        "team/tasks.json",
+        "team/assignments.json"
+      ],
+      "depends_on": [
+        "T025",
+        "T026",
+        "T027",
+        "T028"
+      ],
+      "acceptance": [
+        "Each candidate assigned to an add-task or rejected with reason"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T030",
+      "title": "Lead: benchmark reconciliation, installed-capacity timeseries, refresh QA/report/chart/map, CLAUDE.md schema",
+      "workstream": "D. Integration",
+      "owner": null,
+      "files": [
+        "scripts/build_timeseries.py",
+        "scripts/qa.py",
+        "scripts/build_report.py",
+        "scripts/make_chart_png.py",
+        "scripts/make_map.py",
+        "CLAUDE.md",
+        "qa_report.md",
+        "report.html"
+      ],
+      "depends_on": [
+        "T002",
+        "T003",
+        "T004",
+        "T005",
+        "T006",
+        "T007",
+        "T008",
+        "T009",
+        "T010",
+        "T011",
+        "T012",
+        "T013",
+        "T014",
+        "T015",
+        "T016",
+        "T017",
+        "T018",
+        "T019",
+        "T020",
+        "T021",
+        "T022",
+        "T023",
+        "T024"
+      ],
+      "acceptance": [
+        "checks/done_gates.py exits 0",
+        "Region and chemistry comparison vs IEA/BNEF documented in qa_report.md"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "pending",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    }
+  ]
+}
