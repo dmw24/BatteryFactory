@@ -94,3 +94,6 @@ VERDICT fail · diligence. 26/26 quotes on page; 4 removals hold. Blocking: Mega
 ## T023 (China tail 3) – audit 1 – 2026-11-20
 VERDICT fail · diligence. 29/29 quotes on page. Blocking: Pylontech Shanghai removed on MES-coverage quote while AR shows a manufacturing subsidiary; Narada Hangzhou evidence in AR ignored; Alxa nameplate quote lacks number; missing ESCALATE lines.
 T021 – lead verification → merged.
+
+## T022 (China tail 2) – audit 1 – 2026-11-20
+VERDICT fail · capability+diligence. 24/24 quotes; adds real. Blocking: Jinglan/Guoke ref years; Veken D-013 cap; Tafel company figure as site; Microvast pouch unsourced.
