@@ -157,6 +157,22 @@ def main():
     report("C6", not bad, f"duplicate sites: {len(bad)} suspected (merge with action=remove reason=duplicate_of:<id>)",
            bad, warn=True)
 
+    # C7 reference CSVs parse and have the contract columns
+    import glob
+    bad = []
+    need = {"operator_sites": ["operator", "site_name", "matched_id", "excluded_reason"],
+            "candidates": ["plant_name", "operator", "country", "source_url"]}
+    for kind, cols in need.items():
+        for f in sorted(glob.glob(f"data/reference/{kind}/*.csv")):
+            try:
+                t = pd.read_csv(f)
+                miss = [c for c in cols if c not in t.columns]
+                if miss:
+                    bad.append(f"{f}: missing columns {miss}")
+            except Exception as e:  # noqa: BLE001
+                bad.append(f"{f}: does not parse ({str(e)[:80]}) – quote fields containing commas")
+    report("C7", not bad, f"reference CSVs: {len(bad)} problems", bad)
+
     os.makedirs("logs", exist_ok=True)
     open("logs/checks_detail.log", "w").write("\n".join(detail) + "\n")
     fails = [c for c, t in results if t == "FAIL"]
