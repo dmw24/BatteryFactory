@@ -537,7 +537,7 @@
       "id": "T016",
       "title": "Re-verify: USA tail A (status & cancellation refresh) (15 rows)",
       "workstream": "B. Tails",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T016.json"
       ],
@@ -556,10 +556,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -571,7 +571,7 @@
       "id": "T017",
       "title": "Re-verify: USA tail B (status & cancellation refresh) (14 rows)",
       "workstream": "B. Tails",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T017.json"
       ],
@@ -590,10 +590,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
@@ -605,7 +605,7 @@
       "id": "T018",
       "title": "Re-verify: India (21 rows)",
       "workstream": "B. Tails",
-      "owner": null,
+      "owner": "worker",
       "files": [
         "data/patches/T018.json"
       ],
@@ -624,10 +624,10 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "pending",
+      "status": "in_progress",
       "branch": null,
       "pr": null,
-      "attempts": 0,
+      "attempts": 1,
       "assumptions": [],
       "audit": {
         "verdict": null,
