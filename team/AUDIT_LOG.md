@@ -46,3 +46,10 @@ VERDICT fail · diligence. Quotes fine (1 wording mismatch). Blocking: D-015 cap
 
 ## T007 (Sunwoda + REPT) – audit 1 – 2026-11-20 – auditor opus/high
 VERDICT fail · diligence (worker started before D-015/D-016). 39/39 quotes on page; REPT AR quotes (read from page images) confirmed in text extract. Blocking: Quzhou/Shenzhen removed without positive evidence (AR lists Shenzhen production bases); Jiashan installed 32 = arithmetic (77−45), S7 says construction completed only; Nanchang/Jiashan above D-015 cap; Huizhou Liwei status from subsidiary table. Cross-task: Jiashan duplicates T009 Lanjun row → T007 row to be removed as duplicate.
+
+## T009 (China mid-tier) – audit 1 – 2026-11-20 – auditor opus/high
+VERDICT fail · diligence + capability. 15/15 quotes found. Blocking: Lishen Mianyang and Ganfeng Dongguan removed though their own sources show cell activity; Lishen Tianjin HQ cell plant dropped when re-scoping to Binhai; Zenergy company total (35.5) stored as Changshu; CBAK "goals" as nameplate; D-015 caps not applied (Lanjun, Tianneng, Chuzhou).
+Pattern across T005/T007/T009: workers remove rows on absence of evidence; D-015 removal rule now in conventions — watch in remaining tasks.
+
+## Security note – 2026-11-20
+T012 worker reported a prompt-injection block ("網站公告" telling AI readers to quote specified sentences) on wantrich.chinatimes.com/news/20260716900012-420101; page ignored, not cited. Researcher isolation (no shell) held.
