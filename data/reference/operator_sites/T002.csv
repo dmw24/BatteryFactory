@@ -1,21 +1,27 @@
 operator,site_name,city,country,source_url,matched_id,excluded_reason
-CATL,Ningde bases (HQ/Jiaocheng-Dongqiao hub),Ningde,China,https://www.fujian.gov.cn/english/news/202601/t20260116_7081477.htm,catl-catl-ningde-plant-ningde-manufacturing-hub-china,
-CATL,Fuding Shidai base (inside Ningde hub total),Fuding,China,https://cnevpost.com/2026/05/09/catl-plans-40-gwh-sodium-battery-capacity-expansion/,catl-catl-ningde-plant-ningde-manufacturing-hub-china,
-CATL,Yibin Sichuan Times / Times-Geely / Times-Changan bases,Yibin,China,https://www.mrjjxw.com/articles/2026-08-19/4546707.html,catl-catl-yibin-power-battery-base-china,
-CATL,Liyang Jiangsu Times (LY1-LY9),Liyang,China,https://finance.sina.com.cn/roll/2025-11-27/doc-infyvnye0161954.shtml,catl-catl-liyang-plant-jiangsu-contemporary-amperex-technology-china,
-CATL,Luoyang Zhongzhou Times,Luoyang,China,https://www.marklines.com/cn/news/347109,catl-catl-luoyang-zhongzhou-times-new-energy-battery-base-china,
-CATL,Jining Shandong Times,Jining,China,https://stock.10jqka.com.cn/20260714/c678167263.shtml,catl-catl-jining-plant-shandong-times-energy-storage-and-power-battery-base-china,
+CATL,Ningde bases - 宁德福宁时代 / 宁德蕉城时代 (HQ and Jiaocheng-Dongqiao plants),Ningde,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-ningde-plant-ningde-manufacturing-hub-china,
+CATL,Fuding base - 福鼎时代 (inside Ningde hub total),Fuding,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-ningde-plant-ningde-manufacturing-hub-china,
+CATL,Yibin bases - 宜宾三江时代 / 四川时代 / 时代吉利 / 时代长安,Yibin,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-yibin-power-battery-base-china,
+CATL,Liyang - 江苏时代 north/south/LY7 plants,Liyang,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-liyang-plant-jiangsu-contemporary-amperex-technology-china,
+CATL-SAIC JV,Liyang - 时代上汽动力电池 (SAIC-CATL JV),Liyang,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,,no_open_source (separate JV site; capacity not found; lead for discovery/SAIC batch)
+CATL,Luoyang - 中州时代,Luoyang,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-luoyang-zhongzhou-times-new-energy-battery-base-china,
+CATL,Jining - 山东时代,Jining,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-jining-plant-shandong-times-energy-storage-and-power-battery-base-china,
 CATL,Guiyang Gui'an base,Guiyang,China,https://www.catl.com/en/news/6131.html,catl-catl-guiyang-gui-an-battery-production-base-china,
-CATL,Yichun base,Yichun,China,https://insideevs.com/news/544249/catl-new-50gwh-battery-plant/,catl-catl-yichun-battery-production-base-china,
-CATL,Zhaoqing Ruiqing Times base,Zhaoqing,China,https://autonews.gasgoo.com/articles/news/catl-starts-production-at-phase-i-of-zhaoqing-battery-base-70020474,catl-catl-zhaoqing-plant-china,
-CATL,Xiamen Times base (phase 1/2),Xiamen,China,https://finance.sina.com.cn/stock/relnews/cn/2026-05-18/doc-inhyimei2824660.shtml,catl-catl-xiamen-battery-base-xiamen-times-new-energy-china,
+CATL,Yichun - 宜春时代,Yichun,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-yichun-battery-production-base-china,
+CATL,Zhaoqing - 广东瑞庆时代,Zhaoqing,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-zhaoqing-plant-china,
+CATL,Xiamen Times phase 1/2 - 厦门时代,Xiamen,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-xiamen-battery-base-xiamen-times-new-energy-china,
 CATL,Xiamen Times high-performance lithium battery project (~80 GWh),Xiamen,China,https://finance.sina.com.cn/stock/relnews/cn/2026-05-18/doc-inhyimei2824660.shtml,catl-catl-xiamen-times-high-performance-lithium-battery-project-china,
-CATL,Xining Qinghai Times (Nanchuan),Xining,China,https://finance.sina.com.cn/roll/2025-07-24/doc-infhqhuw4133348.shtml,catl-catl-xining-plant-qinghai-times-new-energy-technology-co-ltd-china,
-CATL,Shanghai Lingang base,Shanghai,China,https://finance.sina.com.cn/stock/s/2021-12-20/doc-ikyakumx5304362.shtml,,pack_only (module base; no cell line found)
-CATL,Luoyuan Times base,Luoyuan (Fuzhou),China,https://www.energytrend.com/news/20250427-49330.html,catl-luoyuan-times-new-energy-battery-industrial-base-luoyuan-china,
+CATL,Ampace 厦门新能安 (Xiamen Tongxiang; consumer/ESS cells),Xiamen,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,,no_open_source (CATL-controlled; named in annual report entity list and on the May 2026 Sina page as starting phased acceptance; no capacity or site status found; needs its own task)
+CATL,Qinghai Times - 青海时代 (Nanchuan),Xining,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-xining-plant-qinghai-times-new-energy-technology-co-ltd-china,
+CATL,Shanghai Lingang base,Shanghai,China,https://cnevpost.com/2022/02/19/catl-breaks-ground-on-440-million-plant-near-tesla-giga-shanghai/,catl-catl-shanghai-lingang-battery-base-nanhui-new-city-china,
+CATL,Times-FAW - 时代一汽动力电池 (Xiapu),Xiapu (Ningde),China,https://mcn.solarbe.com/news/20250728/50004884.html,times-faw-power-battery-xiapu-plant-china,
+CATL,Luoyuan Times,Luoyuan (Fuzhou),China,https://www.energytrend.com/news/20250427-49330.html,catl-luoyuan-times-new-energy-battery-industrial-base-luoyuan-china,
 CATL,Dongying Times zero-carbon industrial park,Dongying,China,https://www.energytrend.com/news/20250729-49941.html,catl-catl-dongying-zero-carbon-industrial-park-lithium-battery-manufacturing-base-china,
-CATL,Kunming Dianzhong New Area lithium battery base,Kunming,China,https://autonews.gasgoo.com/articles/ev/catl-signs-yunnan-lithium-battery-base-agreement-construction-starts-in-q1-2026-2016871400461934593,catl-catl-kunming-dianzhong-lithium-battery-base-china,
-CATL,Thuringia (Arnstadt / Erfurter Kreuz),Arnstadt,Germany,https://www.bestmag.co.uk/chinese-battery-maker-catl-sees-german-arnstadt-as-new-european-bridgehead,catl-contemporary-amperex-technology-thuringia-gmbh-catl-thuringia-arnstadt-erfurter-kreuz-germany,
-CATL,Debrecen,Debrecen,Hungary,https://www.electrive.com/2026/09/23/catl-begins-test-production-of-battery-cells-in-debrecen/,catl-catl-debrecen-hungary,
+CATL,Kunming Dianzhong New Area lithium battery base,Kunming,China,https://autonews.gasgoo.com/articles/ev/catl-signs-yunnan-lithium-battery-base-agreement-construction-starts-in-q1-2026-2016871400461934593,,no_open_source (REMOVED from patch: announced only, no capacity or construction start; scope cell vs pack unknown)
+CATL,Thuringia (Arnstadt / Erfurter Kreuz),Arnstadt,Germany,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-contemporary-amperex-technology-thuringia-gmbh-catl-thuringia-arnstadt-erfurter-kreuz-germany,
+CATL,Debrecen,Debrecen,Hungary,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,catl-catl-debrecen-hungary,
 CATL-Stellantis JV,Zaragoza (Figueruelas),Zaragoza,Spain,https://www.catl.com/en/news/6614.html,catl-stellantis-jv-catl-stellantis-zaragoza-figueruelas-gigafactory-spain,
-PT CATIB (CATL/IBC),Karawang,Karawang,Indonesia,https://www.just-auto.com/news/catls-ev-battery-jv-in-indonesia-begins-operations/,pt-contemporary-amperex-technology-indonesia-battery-catib-catl-catib-karawang-battery-cell-plant-indonesia,
+PT CATIB (CATL/IBC),Karawang,Karawang,Indonesia,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,pt-contemporary-amperex-technology-indonesia-battery-catib-catl-catib-karawang-battery-cell-plant-indonesia,
+CATL,Jiangsu Lital 江苏力泰锂能,Jiangsu,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,,no_open_source (listed in annual report environmental list; product/site not identified)
+CATL,Bangpu (邦普) recycling and materials plants (Ningde / Yichang / Hunan),multiple,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,,materials (recycling/precursor; not cells)
+CATL,Pingnan / Longyan Sikang / Wanzai Times materials plants,multiple,China,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,,materials
