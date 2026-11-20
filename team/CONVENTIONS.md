@@ -90,3 +90,4 @@ Two evidence tiers. Prefer confirmed; use reported rather than leaving a real pl
 - Reported never overrides confirmed. If confirmed and reported sources conflict, use the confirmed value and note the conflict.
 - Paywalled sources (C5 list) are not allowed in either tier.
 - New plants may be added on reported evidence (status and capacity reported) when the source is a reputable outlet or a government/company listing, at confidence ≤ 0.5. Signings/MoUs with no site or no capacity are still not plants.
+- **Bundled scope (D-026):** when a project figure bundles cells with packs, modules, storage systems, equipment or a power station and gives no cell-only split, add the plant (if it is a real site-specific project) but leave `nameplate_capacity_gwh` and `capacity_ref_year` null, with the bundled figure in notes. Do not count it as cell capacity.
