@@ -1,0 +1,57 @@
+{
+  "task": "T059",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://www.jiemian.com/article/13986793.html",
+      "publisher": "Jiemian (界面新闻), citing National Business Daily, on Gotion High-tech's Feb 2026 private-placement plan",
+      "published": "2026-02-06",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "于安徽省合肥市新站区负责实施 ... 已取得合肥新站高新技术产业开发区经济发展局的备案 ... 项目涉及的土地出让、环评等手续正在办理中"
+    },
+    "S2": {
+      "url": "https://stock.10jqka.com.cn/20260206/c674598023.shtml",
+      "publisher": "10jqka (同花顺财经), report on Gotion High-tech private placement plan disclosed 2026-02-05",
+      "published": "2026-02-06",
+      "accessed": "2026-11-20",
+      "language": "zh",
+      "quote": "拟20亿元用于年产20GWh动力电池项目"
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "fields": {
+        "plant_name": "Gotion Hefei Xinzhan 20GWh power battery project (Hefei Gotion Green Energy)",
+        "operator": "Hefei Gotion Green Energy Co., Ltd. (合肥国轩绿色能源有限公司)",
+        "parent_company": "Gotion High-tech",
+        "country": "China",
+        "region": "China",
+        "latitude": null,
+        "longitude": null,
+        "status": "announced",
+        "project_state": "active",
+        "site_type": "single_site",
+        "announced_year": 2026,
+        "start_year": null,
+        "nameplate_capacity_gwh": 20,
+        "capacity_ref_year": 2026,
+        "installed_capacity_gwh": null,
+        "chemistry": null,
+        "cell_format": null,
+        "end_market": "EV",
+        "jv_partners": null,
+        "source_url": "https://www.jiemian.com/article/13986793.html",
+        "source_date": "2026-11-20",
+        "source_published_date": "2026-02-06"
+      },
+      "evidence": {
+        "status": ["S1"],
+        "nameplate_capacity_gwh": ["S2"]
+      },
+      "confidence": 0.65,
+      "notes": "[T059] New Gotion project in the Xinzhan High-tech zone, Hefei (Anhui), named in the Feb 2026 private-placement plan (up to CNY 5bn raise; three 20 GWh projects: this one, Wuhu 20 GWh and Nanjing Liuhe 20 GWh, the latter two already in the DB). Jiemian 2026-02-06 (S1): implemented by wholly owned subsidiary Hefei Gotion Green Energy (合肥国轩绿色能源有限公司), total investment 'over CNY 5bn' (CNY 2bn of raised funds), filing (备案) obtained from the Xinzhan zone economic development bureau, land transfer and EIA still in progress -> status announced (D-020: no works confirmed). Capacity 20 GWh per 10jqka (S2) and the project name '年产20GWh动力电池项目'; power-battery product -> end_market EV (chemistry/format not stated, null). ref_year: fallback, searched (publication year 2026; no construction period stated in any source found). DISTINCT from existing row hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china (VW standard cell base, 28 GWh, entity Hefei Gotion Battery Technology/合肥国轩电池科技, same district): the implementing entity Hefei Gotion Green Energy was newly established 2025-11-17 (Gotion 2025 annual report, subsidiary 'newly established' table, 100% held by 合肥国轩电池技术有限公司, registered capital CNY 1bn) and the project still lacks land/EIA, whereas the VW base is already operating (installed 20 GWh at 2025-11). Overlap risk: the annual-report CIP line '年产20GWh动力电池项目' (operator_sites T005, excluded no_open_source) may be the VW base, not this project; lead to confirm no double count. Evidence is a single reputable news chain (two outlets, both relaying the company's plan); not independently confirmed by the company filing text in this session. Coordinates not located (geo_precision none). Freshness OK (2026-02)."
+    }
+  ]
+}

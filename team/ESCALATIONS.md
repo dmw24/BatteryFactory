@@ -16,3 +16,4 @@ Mark blocking items with "blocking". The human ticks items and writes the answer
 - [ ] T042 follow-up: north-China sweep truncated — rerun Shandong (Weifang, Linyi, Dezhou, Liaocheng, Weihai, Taian, Zibo, Binzhou), Hebei, Shanxi, Tianjin, Beijing, NE China. Leads: Qingtao Wuhai (cell GWh?), Zhongbei Runliang location, Gotion Baotou (brochure only).
 - [ ] T040 follow-up: Hubei and Henan prefecture sweeps not run (search budget); itdcw.com unreachable.
 - [ ] T038 follow-up: Shanghai + Zhejiang prefectures + Wuxi/Zhenjiang/Suqian/Lianyungang unsearched; Pengcheng Wuxian location conflict (Yibin vs Xuzhou New District) — check whether there are two sites.
+- [ ] T059: SVOLT Ma'anshan row says prismatic / 28 GWh nameplate; SVOLT June-2023 prospectus (lines ~9633-9637, ~10782) shows 21700 cylindrical winding lines of ~1 GWh combined with Shangrao. Re-check and correct.
