@@ -176,7 +176,8 @@ def main():
     con.execute("DROP TABLE IF EXISTS capacity_by_year")
     con.execute("""CREATE TABLE capacity_by_year (
         id VARCHAR, year INTEGER, gwh_firm DOUBLE, gwh_pipeline DOUBLE,
-        gwh_nameplate DOUBLE, region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN)""")
+        gwh_nameplate DOUBLE, region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN,
+        gwh_best DOUBLE, best_basis VARCHAR)""")
 
     def online_year(r):
         """First operational/commissioned timeline year, else start/ref/announced."""
@@ -220,6 +221,13 @@ def main():
         np = r["nameplate_capacity_gwh"]
         oy = online_year(r)
         active = (r.get("project_state") or "active") == "active"
+        reported_hist = {}
+        if kind != "real" and r["capacity_timeline"]:
+            try:
+                reported_hist = _walk([p for p in json.loads(r["capacity_timeline"])
+                                       if isinstance(p, dict) and p.get("basis") in FIRM_BASIS and p.get("year")])
+            except (json.JSONDecodeError, TypeError):
+                reported_hist = {}
         has_sourced = kind in ("real", "phased")
         for y in firm:
             if kind == "real":
@@ -227,9 +235,17 @@ def main():
             else:
                 npl = (np if (np is not None and r["status"] == "operational" and (active or y <= LAST_ACTUAL)
                               and oy is not None and y >= oy) else 0.0)
+            # Series C (best estimate, D-024): confirmed level where sourced; else reported v1 history
+            # (capped at nameplate); else the nameplate fill used by B.
+            if kind == "real":
+                best, basis = firm[y], "confirmed"
+            elif npl and reported_hist:
+                best, basis = min(reported_hist.get(y, 0.0), np or 1e9), "reported_v1_timeline"
+            else:
+                best, basis = npl, ("nameplate_fill" if npl else "none")
             ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), npl,
-                        r["region"], r["status"], kind, hub))
-    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?)", ins)
+                        r["region"], r["status"], kind, hub, best, basis))
+    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?,?,?)", ins)
 
     print("plants by data source:", kinds)
     # external benchmarks for side-by-side
@@ -246,16 +262,17 @@ def main():
         def s(col="gwh_firm", where=""):
             return con.execute(f"SELECT round(sum({col}),0) FROM capacity_by_year WHERE year={y} {where}").fetchone()[0] or 0
         a = s(); real = s("gwh_firm", "AND source_kind IN ('real','online_unquantified')")
-        b = s("gwh_nameplate"); chn = s("gwh_firm", "AND region='China'"); pipe = s("gwh_pipeline")
+        b = s("gwh_nameplate"); chn = s("gwh_firm", "AND region='China'"); pipe = s("gwh_pipeline"); cbest = s("gwh_best")
         pct = (100 * real / a) if a else 0
         iea = bench.get(y, {}).get("IEA", ""); bnef = bench.get(y, {}).get("BNEF", "")
-        print(f"{y:>6} | {a:>8,.0f} | {pct:>4.0f}% | {b:>11,.0f} | {str(int(iea)) if iea else '-':>5} | {str(int(bnef)) if bnef else '-':>5} | {chn:>7,.0f} | {pipe:>6,.0f}")
+        print(f"{y:>6} | {a:>8,.0f} | C {cbest:>6,.0f} | {pct:>4.0f}% | {b:>11,.0f} | {str(int(iea)) if iea else '-':>5} | {str(int(bnef)) if bnef else '-':>5} | {chn:>7,.0f} | {pipe:>6,.0f}")
 
     con.execute("""COPY (
         SELECT year,
                round(sum(gwh_firm),0) AS gwh_online_achieved,
                round(sum(gwh_firm) FILTER (WHERE source_kind IN ('real','online_unquantified')),0) AS gwh_online_real_sourced,
                round(sum(gwh_nameplate),0) AS gwh_installed_nameplate,
+               round(sum(gwh_best),0) AS gwh_best_estimate,
                round(sum(gwh_pipeline),0) AS gwh_pipeline_additional,
                round(sum(gwh_firm) FILTER (WHERE region='China'),0) AS gwh_online_china
         FROM capacity_by_year GROUP BY year ORDER BY year)
@@ -263,7 +280,8 @@ def main():
     con.execute("""COPY (
         SELECT year, region,
                round(sum(gwh_firm),0) AS gwh_online_firm,
-               round(sum(gwh_pipeline),0) AS gwh_pipeline
+               round(sum(gwh_pipeline),0) AS gwh_pipeline,
+               round(sum(gwh_best),0) AS gwh_best_estimate
         FROM capacity_by_year GROUP BY year, region ORDER BY year, region)
         TO 'capacity_by_year_region.csv' (HEADER, DELIMITER ',')""")
     print("\nWrote capacity_by_year.csv and capacity_by_year_region.csv")

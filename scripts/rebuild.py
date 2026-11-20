@@ -44,6 +44,8 @@ NEW_COLUMNS = [
     "source_published_date",    # publication date of source_url (source_date = accessed/legacy)
     "last_verified",            # date of the team re-verification (null = v1, unverified)
     "verified_by_task",
+    "reported_fields",          # JSON list: fields whose value is REPORTED (v1 or snippet), not confirmed by a v2 quote
+    "evidence_tier",            # confirmed | reported (reported if status/capacity rests on a reported value)
 ]
 COLUMNS = V1_COLUMNS + NEW_COLUMNS
 
@@ -76,7 +78,10 @@ def load_baseline():
 
 def apply_patches(df):
     evidence_rows, removed_rows, log = [], [], []
+    skip = set(filter(None, os.environ.get("REBUILD_EXCLUDE", "").split(",")))
     for path in sorted(glob.glob(PATCH_GLOB)):
+        if os.path.basename(path) in skip:
+            continue
         p = json.load(open(path))
         task, vdate, sources = p["task"], p["verified_on"], p.get("sources", {})
         for r in p["rows"]:
@@ -91,6 +96,10 @@ def apply_patches(df):
                     if f not in COLUMNS or f == "id":
                         sys.exit(f"ERROR {os.path.basename(path)}: {rid} fixes unknown field {f}")
                     df.at[rid, f] = json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
+                for f, url in (r.get("reported_evidence") or {}).items():
+                    evidence_rows.append(dict(id=rid, field=f, task=task, source_id=f"{task}:reported", url=url,
+                                              publisher="v1 source (not re-confirmed in v2)", published=None,
+                                              accessed=None, language=None, quote=None, tier="reported"))
                 if r.get("notes"):
                     prev = df.at[rid, "research_notes"]
                     df.at[rid, "research_notes"] = f"{prev} [{task} fix {vdate}] {r['notes']}" if isinstance(prev, str) else f"[{task} fix {vdate}] {r['notes']}"
@@ -139,20 +148,35 @@ def apply_patches(df):
                     evidence_rows.append(dict(id=rid, field=f, task=task, source_id=f"{task}:{sid}",
                                               url=s.get("url"), publisher=s.get("publisher"),
                                               published=s.get("published"), accessed=s.get("accessed"),
-                                              language=s.get("language"), quote=s.get("quote")))
+                                              language=s.get("language"), quote=s.get("quote"),
+                                              tier="confirmed"))
             log.append(f"{task}: {action} {rid} ({len(fields)} fields)")
     return df, pd.DataFrame(evidence_rows), pd.DataFrame(removed_rows), log
 
 
 def main():
     df, ev, removed, log = apply_patches(load_baseline())
+    def _tier(rf):
+        try:
+            fl = json.loads(rf) if isinstance(rf, str) else []
+        except json.JSONDecodeError:
+            fl = []
+        return "reported" if set(fl) & {"status", "nameplate_capacity_gwh", "installed_capacity_gwh"} else "confirmed"
+    df["evidence_tier"] = df["reported_fields"].map(_tier)
+    def _tier(rf):
+        try:
+            fl = json.loads(rf) if isinstance(rf, str) else []
+        except json.JSONDecodeError:
+            fl = []
+        return "reported" if set(fl) & {"status", "nameplate_capacity_gwh", "installed_capacity_gwh"} else "confirmed"
+    df["evidence_tier"] = df["reported_fields"].map(_tier)
     df = df[COLUMNS].reset_index(drop=True).sort_values("id").reset_index(drop=True)
     for c in ["latitude", "longitude", "nameplate_capacity_gwh", "installed_capacity_gwh", "confidence"]:
         df[c] = pd.to_numeric(df[c], errors="coerce")
     for c in ["announced_year", "start_year", "capacity_ref_year"]:
         df[c] = pd.to_numeric(df[c], errors="coerce").astype("Int64")
     df.to_csv(os.path.join(ROOT, "factories_export.csv"), index=False)
-    ev_cols = ["id", "field", "task", "source_id", "url", "publisher", "published", "accessed", "language", "quote"]
+    ev_cols = ["id", "field", "task", "source_id", "url", "publisher", "published", "accessed", "language", "quote", "tier"]
     (ev if len(ev) else pd.DataFrame(columns=ev_cols)).to_csv(os.path.join(ROOT, "data/field_evidence.csv"), index=False)
     removed.to_csv(os.path.join(ROOT, "data/removed.csv"), index=False)
     if os.path.exists(DB):

@@ -128,12 +128,18 @@ def main():
 
     # C4 provenance on verified rows: every non-null key field has evidence with url+quote+accessed
     bad = []
-    evk = ev.assign(ok=ev.url.notna() & ev.quote.fillna("").str.strip().ne("") & ev.accessed.notna())
+    if "tier" not in ev.columns:
+        ev["tier"] = "confirmed"
+    rep = ev.tier.eq("reported")
+    # confirmed evidence: url + verbatim quote + accessed; reported evidence (v1 value carried): url only
+    evk = ev.assign(ok=(ev.url.notna() & ev.quote.fillna("").str.strip().ne("") & ev.accessed.notna()) | (rep & ev.url.notna()))
     good = set(zip(evk.id[evk.ok], evk.field[evk.ok]))
     for _, r in d[ver].iterrows():
         for f in KEY_FIELDS + (["project_state"] if r.project_state != "active" else []):
             if pd.notna(r[f]) and (r.id, f) not in good:
-                bad.append(f"{r.id}: {f}={r[f]} has no evidence (url+verbatim quote+accessed)")
+                bad.append(f"{r.id}: {f}={r[f]} has no evidence (url+verbatim quote+accessed, or reported tier with url)")
+        if r.get("evidence_tier") == "reported" and r.confidence > 0.5:
+            bad.append(f"{r.id}: status/capacity rests on a reported value, confidence {r.confidence} must be <= 0.5")
         if r.confidence >= 0.9:
             doms = {domain(u) for u in ev.url[(ev.id == r.id) & ev.field.isin(["status", "nameplate_capacity_gwh"])]}
             if len(doms) < 2:
