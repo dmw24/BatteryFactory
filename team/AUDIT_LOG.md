@@ -97,3 +97,6 @@ T021 – lead verification → merged.
 
 ## T022 (China tail 2) – audit 1 – 2026-11-20
 VERDICT fail · capability+diligence. 24/24 quotes; adds real. Blocking: Jinglan/Guoke ref years; Veken D-013 cap; Tafel company figure as site; Microvast pouch unsourced.
+T020 – lead verification → merged (Megamillion 1 GWh, D-020 statuses, S4 trimmed by lead to verbatim-confirmed fragments).
+T022 – lead verification → merged (ref years, Tafel nulls, Veken cap; new quotes FOUND).
+T023 – lead verification → merged (Pylontech Shanghai restored, Narada Nandu Power operational ≤0.4 with AR evidence, Alxa quote).
