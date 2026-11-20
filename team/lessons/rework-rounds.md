@@ -1,0 +1,1 @@
+After an Opus audit lists precise blockers, the lead can verify the fixes directly (checks + verify_quotes on new source ids + reading the changed rows) instead of a full second audit; reserve full re-audits for capability failures or many blockers (T002, T004, 2026-11-20).
