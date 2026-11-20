@@ -61,3 +61,4 @@ VERDICT fail · diligence. 15/15 sampled quotes on page (Nov-2022 prospectus has
 T007: Quzhou/Shenzhen restored (null status, 0.3); Jiashan removed as duplicate_of Lanjun row (T009); Nanchang capped; Huizhou Liwei S51 (county energy review); escalations filed. Quotes 33/40 FOUND (misses hand-confirmed in audit). Foshan source host szb.nanhaitoday.com unreachable from this environment.
 T009: Mianyang/Dongguan restored; Tianjin HQ row added; Zenergy Changshu = company basis (all sites), nameplate 70.5 ref 2027, Nanjing row added; Lanjun installed 16 (phase 1 only); CBAK aspirations moved to notes. Quotes 54/54 FOUND.
 T010: D-015 caps applied (HLI, Arizona, Ochang, Holland, Nanjing floor, Spring Hill mixed); ESG 2025 site-table citations; NextStar 100% LGES. Quotes 54/71 FOUND; misses largely hand-confirmed in audit 1.
+T008 – lead verification → merged: caps, Suining, Huzhou D-016, Chengdu D-017, filing-backed removals; quotes 35/38 FOUND.
