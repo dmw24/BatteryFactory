@@ -48,3 +48,6 @@ Format:
 - rebuild: reported_fields/evidence_tier columns, reported evidence tier; C4 accepts reported (url only) and caps confidence ≤0.5. scripts/restore_reported.py → data/patches/T031_reported.json (idempotent; paywalled v1 sources skipped). Opus review of 182 capacity values: 75 RESTORE / 107 KEEP_NULL.
 - Series C best estimate added. 2025: A 2,083 / C 2,996 / B 3,511 GWh vs IEA 4,000.
 - Open: C uses v1 capacity_timeline history for unquantified plants without a per-point review (FINAL sweep listed some as over v2's picture, e.g. CATL Yichun 70 incl. planned phase 2); flagged as reported.
+
+## 2026-11-20 – lead – owner: "keep searching until closer to IEA"
+- Plan: (1) T055 company-disclosed capacity totals for top ~25 operators → per-operator gap = company total − site-level C; (2) targeted fill/discovery for operators with the largest gaps (≤4 workers at a time, ≤15 rows each); (3) report an explicit "company capacity not yet allocated to a site" line in the reconciliation (not as DB rows).
