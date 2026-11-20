@@ -78,3 +78,4 @@ VERDICT fail · diligence. 21/23 sources confirmed. Blocking: StarPlus Plant 2 (
 T015 – waived (sampled out); D-018 applied before merge.
 T011 – lead verification → merged (D-018 applied; StarPlus 33; R6 nulls).
 T017 – waived (sampled out); lead quote spot-check 26/40 FOUND, 4 MISSING, 10 FETCH_FAIL.
+T018 – waived (sampled out); quotes 24/30; India v1 city coords found wrong on 4 rows and nulled by worker.
