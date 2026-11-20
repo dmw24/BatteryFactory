@@ -1,0 +1,1 @@
+Workers can exhaust their web-search budget on large batches (T034: ran out after ~70 tool uses). Keep fill batches ≤15 rows or pre-load filings; lead extracts PDFs (curl+pdftotext) for public filings but must not bypass WAFs.

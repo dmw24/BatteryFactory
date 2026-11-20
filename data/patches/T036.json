@@ -1,0 +1,67 @@
+{
+ "task": "T036",
+ "verified_on": "2026-11-20",
+ "sources": {
+  "S1": {
+   "url": "https://newswitch.jp/p/47287",
+   "publisher": "Newswitch (Nikkan Kogyo Shimbun, orig. 2025-10-17)",
+   "published": "2025-10-20",
+   "accessed": "2026-11-20",
+   "language": "ja",
+   "quote": "姫路工場の新ラインの生産能力は年間約７ギガワット時（ギガは１０億）。"
+  },
+  "S2": {
+   "url": "https://www.p2enesol.com/en/news/20251009/",
+   "publisher": "Prime Planet Energy & Solutions news release",
+   "published": "2025-10-09",
+   "accessed": "2026-11-20",
+   "language": "en",
+   "quote": "has started up a new production line at its Himeji Plant"
+  },
+  "S3": {
+   "url": "https://www.p2enesol.com/en/news/20220831/",
+   "publisher": "Prime Planet Energy & Solutions news release",
+   "published": "2022-08-31",
+   "accessed": "2026-11-20",
+   "language": "en",
+   "quote": "expanding production capacity by approximately 7GWh/year"
+  },
+  "S4": {
+   "url": "https://one.ai/one-partners-with-pomega-for-battery-cell-manufacturing-in-turkiye-to-strengthen",
+   "publisher": "ONE (Our Next Energy) press release on Pomega contract manufacturing (page returned 404 to fetch; text seen only in a web-search result summary)",
+   "published": "2025-05-19",
+   "accessed": "2026-11-20",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "the Ankara plant currently has 3 GWh of installed capacity and is undergoing qualification to serve global export markets (search-result summary wording, not a verbatim page quote; page date approximate = date of the ONE-Pomega announcement)"
+  }
+ },
+ "rows": [
+  {
+   "id": "prime-planet-energy-solutions-ppes-himeji-plant-japan",
+   "action": "update",
+   "fields": {
+    "installed_capacity_gwh": 7,
+    "installed_as_of": "2025-10-09"
+   },
+   "evidence": {
+    "installed_capacity_gwh": ["S1", "S2", "S3"]
+   },
+   "confidence": 0.65,
+   "notes": "T036 fill: installed 7 GWh/yr = the NEW BEV prismatic line only (S1: Nikkan Kogyo via Newswitch 2025-10-20, 'new line capacity approx 7 GWh per year'; S2: PPES release 2025-10-09, new line started up, mass production began Jan 2025 per the same release; S3: the Aug 2022 plan was +approx 7 GWh/yr, so company plan and press agree). installed basis: press (company figure for the new line only). This is a FLOOR for the site: older Himeji lines (80,000 BEVs/yr from 2021 per PPES history page) are stated in vehicles, not GWh, so they are not added; true installed >= 7. Carried from T013: PPES (Toyota 51% / Panasonic 49%) Himeji plant, prismatic Li-ion for BEV/PHEV; nameplate 30 GWh = PPES history page 'total capacity of Himeji expected to reach approx. 30GWh' after next-generation performance batteries start from 2026 (company, two pages), ref_year 2024 = fallback (publication year, no target year stated); Toyota/PPES METI plan lists 9 GWh/yr for next-gen batteries from 2026 (snippet-level, not used). chemistry and start_year null (v1 values unconfirmed)."
+  },
+  {
+   "id": "pomega-energy-storage-technologies-pomega-gigafactory-polatl-ankara-turkey",
+   "action": "update",
+   "fields": {
+    "installed_capacity_gwh": 3,
+    "installed_as_of": "2025-05-19"
+   },
+   "evidence": {
+    "installed_capacity_gwh": ["S4"]
+   },
+   "confidence": 0.45,
+   "notes": "T036 fill (REPORTED, confidence <= 0.5): installed 3 GWh/yr as of May 2025 per ONE's announcement of the Pomega contract-manufacturing deal as seen in a search-result summary (S4; page itself 404 to fetch; ONE is the offtaker, so installed basis: company/partner, not independently verified). Consistent with the earlier-noted '3 GWh total site capacity' in other coverage; conflicts with older figures (500 MWh by end-2023, 3 GWh by end-2024 as company targets; three-phase 2.25 GWh in older reports) and with Turkiye Today/Daily Sabah 2025-05-20 which only cite 2 GWh of ONE volume in 2026 rising to 5 GWh in 2027 (offtake, not installed). Carried from T015: Polatli (Ankara) LFP cell plant began operating Aug 2023, serial production per Bloomberg HT 27 Oct 2023; nameplate 5 GWh/ref_year 2027 = later company figure (ONE deal, 5 GWh/yr from 2027) over 3 GWh; no 2026 production news found; Kontrolmatik KAP filings not opened. cell_format/end_market/jv_partners/announced_year unconfirmed in v2 (see reported_fields). Coordinates unchanged."
+  }
+ ]
+}

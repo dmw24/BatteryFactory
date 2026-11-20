@@ -1,0 +1,40 @@
+{
+  "task": "T037",
+  "verified_on": "2026-11-20",
+  "sources": {
+    "S1": {
+      "url": "https://nguoiquansat.vn/lo-cell-pin-dau-tien-cho-xe-dien-vinfast-chinh-thuc-xuat-xuong-tu-nha-may-cua-lien-danh-vingroup-vic-210043.html",
+      "publisher": "Nguoi Quan Sat (Vietnamese business press)",
+      "published": "2025-04-08",
+      "accessed": "2026-11-20",
+      "language": "vi",
+      "quote": "Dự án có tổng vốn đầu tư gần 6.330 tỷ đồng (tương đương 275 triệu USD), quy mô 14ha và công suất thiết kế 5 GWh/năm"
+    },
+    "S2": {
+      "url": "https://nguoiquansat.vn/lo-cell-pin-dau-tien-cho-xe-dien-vinfast-chinh-thuc-xuat-xuong-tu-nha-may-cua-lien-danh-vingroup-vic-210043.html",
+      "publisher": "Nguoi Quan Sat (Vietnamese business press), citing Ha Tinh newspaper",
+      "published": "2025-04-08",
+      "accessed": "2026-11-20",
+      "language": "vi",
+      "quote": "Thông tin từ Báo Hà Tĩnh, đến quý I/2025, nhà máy đã chính thức đi vào vận hành"
+    }
+  },
+  "rows": [
+    {
+      "id": "gotion-high-tech-vines-jv-gotion-vines-lfp-gigafactory-ha-tinh-vietnam",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 5.0,
+        "installed_as_of": "2025-03-31",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1", "S2"],
+        "status": ["S2"],
+        "nameplate_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.5,
+      "notes": "[T037] installed 5.0 GWh/yr as of 2025-03-31. installed basis: press (design capacity of a single-phase 5 GWh plant that the same article says was officially in operation by Q1 2025 and had produced its first cells; S1, S2). Judgement call: the article gives no line count, so installed = the plant's design figure rests on 'single phase, whole plant in operation', not on a stated commissioned-GWh number; earlier T005 left this null. Confidence capped at 0.5 because the figure is older than 18 months (D-015) and there is no 2026 report. Status and nameplate unchanged (5 GWh design, S1). The article says the partners plan a later expansion stage but gives no GWh, so it is excluded (D-015). Other fields unchanged from T005."
+    }
+  ]
+}
