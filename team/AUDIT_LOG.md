@@ -90,3 +90,6 @@ VERDICT fail · diligence. 15/15 quotes. Blocking: Zhongna storage line counted 
 
 ## T020 (Rest of World) – audit 1 – 2026-11-20
 VERDICT fail · diligence. 26/26 quotes on page; 4 removals hold. Blocking: Megamillion 32 GWh undated aspiration as nameplate; no ESCALATE for Statevolt/Megamillion; E-One Moli status contradicts its quote. Spec: D-020 (site works vs ceremony).
+
+## T023 (China tail 3) – audit 1 – 2026-11-20
+VERDICT fail · diligence. 29/29 quotes on page. Blocking: Pylontech Shanghai removed on MES-coverage quote while AR shows a manufacturing subsidiary; Narada Hangzhou evidence in AR ignored; Alxa nameplate quote lacks number; missing ESCALATE lines.
