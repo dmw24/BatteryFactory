@@ -69,6 +69,30 @@
     "capacity_ref_year": null
    },
    "notes": "lead (T038): 15 GWh covers cells + packs + equipment; cell share unstated → nameplate nulled, figure in notes only (D-015)."
+  },
+  {
+   "id": "amperex-technology-limited-atl-dongguan-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "chemistry": null,
+    "reported_fields": "[\"status\"]"
+   },
+   "reported_evidence": {
+    "status": "https://en.wikipedia.org/wiki/Amperex_Technology_Limited"
+   },
+   "notes": "lead (T039 audit): status rests on Wikipedia → reported tier; chemistry nulled (unsourced); ATL likely runs several campuses here (possible hub) — unverified."
+  },
+  {
+   "id": "amperex-technology-limited-atl-ningde-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "chemistry": null,
+    "reported_fields": "[\"status\"]"
+   },
+   "reported_evidence": {
+    "status": "https://en.wikipedia.org/wiki/Amperex_Technology_Limited"
+   },
+   "notes": "lead (T039 audit): status rests on Wikipedia → reported tier; chemistry nulled (unsourced); ATL likely runs several campuses here (possible hub) — unverified."
   }
  ]
 }
