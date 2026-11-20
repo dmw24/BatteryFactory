@@ -147,7 +147,7 @@ def world_map():
             d = "M" + " L".join(f"{X(lon):.1f},{Y(lat):.1f}" for lon, lat in ring) + "Z"
             s.append(f'<path d="{d}" class="land"/>')
     rows = q("""SELECT plant_name, status, latitude, longitude, nameplate_capacity_gwh
-        FROM factories WHERE latitude IS NOT NULL AND longitude IS NOT NULL
+        FROM factories_active WHERE latitude IS NOT NULL AND longitude IS NOT NULL
         ORDER BY nameplate_capacity_gwh DESC NULLS LAST""")
     maxc = max((r[4] or 0) for r in rows)
     import math
@@ -164,18 +164,18 @@ def world_map():
 
 
 # ---------- gather stats ----------
-tot_sites = q("SELECT count(*) FROM factories")[0][0]
-by_status = dict(q("SELECT status, count(*) FROM factories GROUP BY 1"))
-op_cap = q("SELECT round(sum(nameplate_capacity_gwh)) FROM factories WHERE status='operational'")[0][0] or 0
-tot_cap = q("SELECT round(sum(nameplate_capacity_gwh)) FROM factories")[0][0] or 0
-n_countries = q("SELECT count(DISTINCT country) FROM factories")[0][0]
-china_share = q("""SELECT round(100.0*sum(CASE WHEN region='China' THEN nameplate_capacity_gwh ELSE 0 END)
-    / nullif(sum(nameplate_capacity_gwh),0)) FROM factories""")[0][0] or 0
+tot_sites = q("SELECT count(*) FROM factories_active")[0][0]
+by_status = dict(q("SELECT status, count(*) FROM factories_active GROUP BY 1"))
+op_cap = q("SELECT round(sum(nameplate_capacity_gwh)) FROM factories_active WHERE status='operational'")[0][0] or 0
+tot_cap = None  # never sum nameplate across statuses (CLAUDE.md rule 1)
+n_countries = q("SELECT count(DISTINCT country) FROM factories_active")[0][0]
+china_share = q("""SELECT round(100.0*sum(CASE WHEN region='China' THEN coalesce(installed_capacity_gwh, 0) ELSE 0 END)
+    / nullif(sum(coalesce(installed_capacity_gwh, 0)),0)) FROM factories_active WHERE status='operational'""")[0][0] or 0
 online25 = q("SELECT round(sum(gwh_firm)) FROM capacity_by_year WHERE year=2025")[0][0] or 0
 
 # owners
 own = {}
-for pc, cap in q("""SELECT coalesce(parent_company, operator), nameplate_capacity_gwh FROM factories
+for pc, cap in q("""SELECT coalesce(parent_company, operator), nameplate_capacity_gwh FROM factories_active
         WHERE nameplate_capacity_gwh IS NOT NULL"""):
     own[owner(pc)] = own.get(owner(pc), 0) + cap
 top_owners = sorted(own.items(), key=lambda kv: -kv[1])[:12]
@@ -197,7 +197,7 @@ def chem_bucket(c):
         return "NMC / NCA"
     return "Other / unspecified"
 chem = {}
-for c, cap in q("SELECT chemistry, nameplate_capacity_gwh FROM factories"):
+for c, cap in q("SELECT chemistry, nameplate_capacity_gwh FROM factories_active"):
     b = chem_bucket(c)
     chem[b] = chem.get(b, 0) + (cap or 0)
 chem_rows = sorted(chem.items(), key=lambda kv: -kv[1])
@@ -219,20 +219,20 @@ def em_bucket(e):
         return "Consumer"
     return "Other"
 em = {}
-for e, cap in q("SELECT end_market, nameplate_capacity_gwh FROM factories"):
+for e, cap in q("SELECT end_market, nameplate_capacity_gwh FROM factories_active"):
     b = em_bucket(e)
     em[b] = em.get(b, 0) + (cap or 0)
 em_rows = sorted(em.items(), key=lambda kv: -kv[1])
 
 # region x status matrix (nameplate)
 regmat = {}
-for r, st, cap in q("""SELECT region, status, sum(nameplate_capacity_gwh) FROM factories GROUP BY 1,2"""):
+for r, st, cap in q("""SELECT region, status, sum(nameplate_capacity_gwh) FROM factories_active GROUP BY 1,2"""):
     regmat.setdefault(r, {})[st] = cap or 0
 reg_order = sorted(regmat, key=lambda r: -sum(regmat[r].values()))
 
 # top plants
 top_plants = q("""SELECT plant_name, operator, country, status, round(nameplate_capacity_gwh)
-    FROM factories WHERE nameplate_capacity_gwh IS NOT NULL
+    FROM factories_active WHERE nameplate_capacity_gwh IS NOT NULL
     ORDER BY nameplate_capacity_gwh DESC LIMIT 15""")
 
 # ---------- render sections ----------
@@ -244,7 +244,7 @@ stats = "".join([
     stat(f"{n_countries}", "countries"),
     stat(f"{op_cap:,.0f}", "GWh/yr operational nameplate"),
     stat(f"{online25/1000:.1f} TWh", "online in 2025 (sourced floor)"),
-    stat(f"{china_share:.0f}%", "of nameplate is in China"),
+    stat(f"{china_share:.0f}%", "of sourced installed capacity is in China"),
 ])
 
 reg_legend = "".join(f'<span class="chip"><i style="background:{RCOL[r]}"></i>{r}</span>' for r in REGIONS)

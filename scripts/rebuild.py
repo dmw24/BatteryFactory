@@ -161,6 +161,14 @@ def main():
     con.register("df", df)
     con.execute("CREATE TABLE factories AS SELECT * FROM df")
     con.execute("ALTER TABLE factories ADD PRIMARY KEY (id)")
+    # Active, comparable cell plants: what every capacity aggregate should use (D-003, D-018, D-019)
+    nc = os.path.join(ROOT, "data/reference/non_comparable.csv")
+    nc_ids = list(pd.read_csv(nc).id) if os.path.exists(nc) else []
+    con.register("nc", pd.DataFrame({"id": nc_ids or ["__none__"]}))
+    con.execute("CREATE TABLE non_comparable AS SELECT * FROM nc")
+    con.execute("""CREATE VIEW factories_active AS SELECT * FROM factories
+                   WHERE coalesce(is_cell_manufacturer, true) AND coalesce(project_state, 'active') = 'active'
+                     AND id NOT IN (SELECT id FROM non_comparable)""")
     if len(ev):
         con.register("ev", ev)
         con.execute("CREATE TABLE field_evidence AS SELECT * FROM ev")

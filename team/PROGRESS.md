@@ -35,3 +35,8 @@ Format:
 ## 2026-11-20 – lead – T030 prep (timeseries v2)
 - build_timeseries.py v2: excludes non-cell rows; merges re-verified installed_capacity_gwh (dated by installed_as_of) into each plant's sourced timeline and the full nameplate at capacity_ref_year as a planned point; inactive (paused/cancelled, D-018) plants stop counting after 2025; Series B = sourced level where it exists, else nameplate for active operational plants.
 - Interim result (mid-run, tails pending): 2025 Series A 3,731 GWh (90% from sourced points) vs IEA >4,000 (93%); Series B 3,746; China 78% of A. v1 Series B 2025 was 5,518.
+
+## 2026-11-20 – lead – T030 integration (partial)
+- All 436 rows re-verified (G1a 158/158, G1b 100%); G2b 86%, G3, G5 pass. Open: G2a (as defined it sums undated installed figures: 2,774 GWh; dated Series A 2025 = ~3.7 TWh) and G4 (87 large plants <0.6 — open-source limit). Both go to owner at close-out.
+- rebuild.py: view `factories_active` (cell, active, comparable). build_report.py/qa.py now aggregate on it; removed a cross-status nameplate sum in build_report (rule 1) and switched China share to sourced installed.
+- PNG chart/map scripts import `ember_style`, which is not in the repo or this environment → PNGs not regenerated (capacity_chart.png, capacity_map.png are stale v1 images). report.html, qa_report.md and CSVs are regenerated.

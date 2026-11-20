@@ -141,13 +141,18 @@ def main():
     # ---- 4. Totals by status (capacity NEVER summed across status) ----
     status_tot = con.execute("""
         SELECT COALESCE(status,'(unknown)') s, count(*) n,
-               round(sum(nameplate_capacity_gwh),0) gwh
-        FROM factories GROUP BY 1 ORDER BY n DESC
+               round(sum(nameplate_capacity_gwh),0) gwh,
+               round(sum(installed_capacity_gwh),0) inst
+        FROM factories_active GROUP BY 1 ORDER BY n DESC
     """).fetchall()
+    inactive = con.execute("""
+        SELECT project_state, COALESCE(status,'(unknown)') s, count(*) n, round(sum(nameplate_capacity_gwh),0) gwh
+        FROM factories WHERE coalesce(project_state,'active') <> 'active'
+        GROUP BY 1,2 ORDER BY 1,2""").fetchall()
     region_status = con.execute("""
         SELECT region, COALESCE(status,'(unknown)') s, count(*) n,
                round(sum(nameplate_capacity_gwh),0) gwh
-        FROM factories GROUP BY 1,2 ORDER BY region, s
+        FROM factories_active GROUP BY 1,2 ORDER BY region, s
     """).fetchall()
 
     # ---- write report ----
@@ -162,10 +167,17 @@ def main():
       "operational capacity are distinct and must not be added together.\n")
 
     w("\n## 4. Totals by status (capacity never summed across status)\n")
-    w("| status | plants | Σ nameplate GWh/yr |")
-    w("|---|---:|---:|")
-    for s, n, g in status_tot:
-        w(f"| {s} | {n} | {g if g is not None else '—'} |")
+    w("Active, comparable cell plants only (view `factories_active`: excludes non-cell rows, "
+      "paused/cancelled projects and non-comparable long-duration chemistries, D-019).\n")
+    w("| status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |")
+    w("|---|---:|---:|---:|")
+    for s, n, g, inst in status_tot:
+        w(f"| {s} | {n} | {g if g is not None else '—'} | {inst if inst is not None else '—'} |")
+    w("\n### Paused and cancelled projects (excluded from the totals above)\n")
+    w("| project_state | furthest status | plants | Σ nameplate GWh/yr (not counted) |")
+    w("|---|---|---:|---:|")
+    for ps, s, n, g in inactive:
+        w(f"| {ps} | {s} | {n} | {g if g is not None else '—'} |")
     w("\n### Region × status matrix\n")
     w("| region | status | plants | Σ nameplate GWh/yr |")
     w("|---|---|---:|---:|")
