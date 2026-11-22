@@ -14,6 +14,19 @@ C by basis: confirmed 2,468 · reported v1 history 465 · nameplate fill 160 GWh
 C by region: China 2,342 · USA 289 · Europe 275 · Southeast Asia 69 · Rest of World 53 · South Korea 49 · Japan 16 · India 3.
 (Region values are capacity physically located there, so Korean firms' US/European plants count under USA/Europe.)
 
+## IEA-like definition (Series D, D-027)
+Design nameplate of commissioned lines, ignoring utilisation — the IEA basis.
+
+| year | C producing | D IEA-like | D-high | IEA |
+|---|---:|---:|---:|---:|
+| 2023 | 1,514 | 1,585 | 1,726 | 2,500 |
+| 2024 | 1,929 | 2,051 | 2,507 | >3,000 |
+| 2025 | 3,094 | 3,352 | 4,029 | >4,000 |
+
+D-high credits full plans whose completion year is undated (ref year = source publication year), so it is an upper
+bound and is inflated in 2025, when many such sources were published. The consistent ~25–35% shortfall in 2023–24
+suggests real missing capacity (plants or undated phases), mostly in China. Check in progress: T062.
+
 ## Why the gap is mostly definitional, not missing plants
 1. **Our series measure lines producing; the IEA credits full nameplate of every commissioned line.**
    Global cell output in 2025 was ~2.15 TWh — about 50–55% of the IEA's capacity figure. Our installed

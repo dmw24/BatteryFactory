@@ -34,3 +34,11 @@ Choices made and why, so no one relitigates them. Newest at the bottom.
 | D-024 | 2026-11-20 | decision | T031 | Confirmed vs reported: v1 values blanked only because they could not be re-confirmed are restored as REPORTED (reported_fields, evidence tier "reported" = v1 source_url, confidence ≤0.5 if status/capacity); values the v2 research contradicted/superseded stay null; paywalled v1 sources never restored. New Series C (best estimate) = confirmed where sourced, else reported v1 history capped at nameplate, else nameplate fill | keep strict nulls (owner: too strict) | owner request 2026-11-20 | owner | yes (owner stated) |
 | D-025 | 2026-11-20 | decision | T035 | Stale but sourced installed figures are entered with their true installed_as_of as a dated floor (Series A carries them forward as a minimum); a dated floor noted as such does not trigger the D-015 confidence cap | leave null / cap confidence | a dated floor is real data and strictly better than null for A; staleness is explicit in the date | lead | pending owner |
 | D-026 | 2026-11-20 | decision | T038/T042/T049 | Bundled-scope figures (cells + packs/systems/equipment/power station, no cell split) → row kept, nameplate null, figure in notes | count bundled GWh as cell capacity | Jiuxu 50, Tianpu 50, Yunshi Weilan 15, Baofeng 100–200 would inflate the pipeline with non-cell capacity | lead | pending owner |
+
+## D-027 — Series D: IEA-like commissioned nameplate (owner request 2026-11-22) — pending owner
+Owner wants one series on the IEA definition (design nameplate of commissioned lines, utilisation ignored) as a
+missing-plant check, alongside our sharper "producing" series. `capacity_by_year.gwh_iea` (D) = max(C, sourced dated
+phase steps from capacity_by_year_json, full site nameplate once a DATED capacity_ref_year ≤ year) for operational
+active plants; `gwh_iea_high` (D-high) also credits nameplate whose ref year is only the publication-year fallback
+(upper bound). 2025: D 3,352 / D-high 4,029 GWh vs IEA >4,000. Earlier years stay well below the IEA (2023 D-high 1,726
+vs 2,500; 2024 2,507 vs >3,000), so the 2025 match is partly a fallback-year artefact — treat D-high with care.

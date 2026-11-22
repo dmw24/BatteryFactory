@@ -29,6 +29,7 @@ LAST_ACTUAL = 2025          # years <= this are "firm/online" for non-timeline p
 HUBRE = re.compile(r"hub-?level|company-?wide|aggregate.{0,20}capacit|multi-?base|"
                    r"across (several|multiple|adjacent) (sites|bases|facilities)", re.I)
 FIRM_BASIS = {"operational", "commissioned"}
+REF_FALLBACK = re.compile(r"ref_?year[^.;|]{0,40}fallback|fallback[^.;|]{0,20}ref_?year", re.I)
 
 
 def _walk(pts):
@@ -184,7 +185,7 @@ def main():
     con.execute("""CREATE TABLE capacity_by_year (
         id VARCHAR, year INTEGER, gwh_firm DOUBLE, gwh_pipeline DOUBLE,
         gwh_nameplate DOUBLE, region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN,
-        gwh_best DOUBLE, best_basis VARCHAR)""")
+        gwh_best DOUBLE, best_basis VARCHAR, gwh_iea DOUBLE, iea_basis VARCHAR, gwh_iea_high DOUBLE)""")
 
     def online_year(r):
         """First operational/commissioned timeline year, else start/ref/announced."""
@@ -245,6 +246,17 @@ def main():
             except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
                 reported_hist = {}
         has_sourced = kind in ("real", "phased")
+        # Series D (IEA-like, D-027): design nameplate of commissioned lines. Credits the full site nameplate once
+        # its last phase is due (capacity_ref_year <= y) when that year is a DATED phase year (not the
+        # publication-year fallback), plus sourced dated phase steps (capacity_by_year_json); never less than C.
+        ry = r["capacity_ref_year"]
+        ry_fallback = bool(REF_FALLBACK.search(r["research_notes"] or ""))
+        steps = {}
+        if r["capacity_by_year_json"]:
+            try:
+                steps = {int(k): float(v) for k, v in json.loads(r["capacity_by_year_json"]).items() if v is not None}
+            except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
+                steps = {}
         for y in firm:
             if kind == "real":
                 npl = firm[y]                       # v2: sourced installed level
@@ -261,9 +273,23 @@ def main():
                 best, basis = min(reported_hist.get(y, 0.0), np or 1e9), "reported_v1_timeline"
             else:
                 best, basis = npl, ("nameplate_fill" if npl else "none")
+            iea, ibasis = best, "as_best"
+            if r["status"] == "operational" and (active or y < LAST_ACTUAL) and oy is not None and y >= oy:
+                step = max([v for k, v in steps.items() if k <= y] or [0.0])
+                if np is not None:
+                    step = min(step, np)
+                if step > iea:
+                    iea, ibasis = step, "dated_phase_step"
+                if np is not None and ry is not None and int(ry) <= y and not ry_fallback and np > iea:
+                    iea, ibasis = np, "full_nameplate_dated"
+            # D-high: also credits plans whose ref year is only the publication-year fallback (upper bound)
+            iea_high = iea
+            if (r["status"] == "operational" and (active or y < LAST_ACTUAL) and np is not None and ry is not None
+                    and int(ry) <= y and oy is not None and y >= oy):
+                iea_high = max(iea, np)
             ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), npl,
-                        r["region"], r["status"], kind, hub, best, basis))
-    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?,?,?)", ins)
+                        r["region"], r["status"], kind, hub, best, basis, iea, ibasis, iea_high))
+    con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", ins)
 
     print("plants by data source:", kinds)
     # external benchmarks for side-by-side
@@ -291,6 +317,8 @@ def main():
                round(sum(gwh_firm) FILTER (WHERE source_kind IN ('real','online_unquantified')),0) AS gwh_online_real_sourced,
                round(sum(gwh_nameplate),0) AS gwh_installed_nameplate,
                round(sum(gwh_best),0) AS gwh_best_estimate,
+               round(sum(gwh_iea),0) AS gwh_iea_like_commissioned,
+               round(sum(gwh_iea_high),0) AS gwh_iea_like_high,
                round(sum(gwh_pipeline),0) AS gwh_pipeline_additional,
                round(sum(gwh_firm) FILTER (WHERE region='China'),0) AS gwh_online_china
         FROM capacity_by_year GROUP BY year ORDER BY year)
@@ -299,7 +327,9 @@ def main():
         SELECT year, region,
                round(sum(gwh_firm),0) AS gwh_online_firm,
                round(sum(gwh_pipeline),0) AS gwh_pipeline,
-               round(sum(gwh_best),0) AS gwh_best_estimate
+               round(sum(gwh_best),0) AS gwh_best_estimate,
+               round(sum(gwh_iea),0) AS gwh_iea_like_commissioned,
+               round(sum(gwh_iea_high),0) AS gwh_iea_like_high
         FROM capacity_by_year GROUP BY year, region ORDER BY year, region)
         TO 'capacity_by_year_region.csv' (HEADER, DELIMITER ',')""")
     print("\nWrote capacity_by_year.csv and capacity_by_year_region.csv")
