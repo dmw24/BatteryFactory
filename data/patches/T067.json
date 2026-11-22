@@ -1,0 +1,296 @@
+{
+ "task": "T067",
+ "verified_on": "2026-11-22",
+ "sources": {
+  "S1": {
+   "url": "https://cbgc.scol.com.cn/news/7179781",
+   "publisher": "川观新闻 (Sichuan Daily group), 时代长安动力电池项目签约川渝高竹新区北碚板块",
+   "published": "2026-01-15",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "总投资约55亿元，计划用地约1000亩，新建年产25GWh动力电池生产基地。 ... 2027年下半年正式投产。"
+  },
+  "S2": {
+   "url": "https://electrive.com/2026/10/15/changan-and-catl-to-expand-battery-capacity-to-75-gwh",
+   "publisher": "electrive.com, Changan and CATL to expand battery capacity to 75 GWh (citing CarNewsChina)",
+   "published": "2026-10-15",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "The new site is scheduled to begin operations in 2027 and achieve the additional 25 GWh capacity within three years."
+  },
+  "S3": {
+   "url": "https://finance.sina.cn/tech/2026-07-17/detail-inihzrtq7546110.d.html",
+   "publisher": "Sina Tech (reprint of 重庆商报 report on Chongqing's battery industry)",
+   "published": "2026-07-17",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "今年2月，巴南与重庆特古工业科技集团有限公司等3家企业联合打造年产15GWh电化学储能全产业链智造基地"
+  },
+  "S4": {
+   "url": "https://www.energytrend.com/print/48077",
+   "publisher": "EnergyTrend (TrendForce), Hohhot 50GWh sodium-ion battery and energy storage industrial park started (English machine translation; page text carries no date, URL date 2024-08-01)",
+   "published": "2024-08-01",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "On July 28th, Inner Mongolia Great Power Zhengxin Energy Storage Technology Co., Ltd. (Great Power Technology) 50GWh sodium-ion batteries and energy storage industrial park project in Inner Mongolia Hohhot Economic and Technological Development Zone started."
+  },
+  "S5": {
+   "url": "https://www.mysteel.net/news/5059212-flash-50-gwh-sodium-ion-battery-project-starts",
+   "publisher": "Mysteel flash news, 50 GWh sodium-ion battery project starts",
+   "published": "2024-07-31",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "will build a 10 GWh sodium-ion battery production line, which is expected to be completed in December 2025; The total investment for the phase II of the project is Yuan 15 billion, with a planned production capacity of 40 GWh sodium-ion battery production line."
+  },
+  "S6": {
+   "url": "https://www.worldconstructionnetwork.com/marketdata/construction-hohhot-sodium-ion-battery-and-energy-storage-industrial-park/",
+   "publisher": "World Construction Network (GlobalData project database), Construction commences: Hohhot Sodium-Ion Battery and Energy Storage Industrial Park (updated 2026-11-22)",
+   "published": "2026-11-22",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "Hohhot, Inner Mongolia, China commenced in Q3 2024, after the project was announced in Q4 2023. ... Construction on the project, spread across 80 hectares, is expected to be completed by Q4 2026."
+  },
+  "S7": {
+   "url": "https://regional.chinadaily.com.cn/ordosen/en/2025-09/04/c_1122464.htm",
+   "publisher": "China Daily (Ordos regional channel), Ordos secures 20b-yuan sodium-ion battery project",
+   "published": "2025-09-04",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "Phase I involves an investment of 5 billion yuan with a planned capacity of 10 GWh, while Phase II will receive 15 billion yuan in investment and add 40 GWh of capacity."
+  },
+  "S8": {
+   "url": "https://www.mysteel.net/news/5118742-flash-inner-mongolia-approves-22-gwh-solid-state-battery-project-with-yuan-800-million-investment",
+   "publisher": "Mysteel flash news, Inner Mongolia approves 2.2 GWh solid-state battery project with yuan 800 million investment",
+   "published": "2026-04-07",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "2.2GWh High-Safety Solid-State Battery Construction Project ... located in Taigemu Town, Tumd Left Banner, Hohhot City ... from June to December 2026"
+  },
+  "S9": {
+   "url": "https://news.metal.com/en/newscontent/103426428-Inner-Mongolia-Jianheng-Aoneng-officially-starts-mass-production-of-720V-high-voltage-solid-state-sodium-salt-batteries-",
+   "publisher": "SMM (Shanghai Metals Market) news, Inner Mongolia Jianheng Aoneng officially starts mass production of 720V high voltage solid state sodium salt batteries",
+   "published": "2025-07-14",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "Phase III (2026-2027): 1.8 billion yuan investment to construct the entire industry chain from electrolytes, battery cells to ESS power stations, with a total production capacity of 3GWh"
+  },
+  "S10": {
+   "url": "https://cnsubsites.chinadaily.com.cn/investordos/2025-05/08/c_185154.htm",
+   "publisher": "China Daily (Invest Ordos subsite), World's first 720V sodium-ion battery starts production in Ordos",
+   "published": "2025-05-08",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "has started small-batch production of its high-voltage sodium-ion batteries"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "times-changan-chongqing-power-battery-times-changan-chongqing-beibei-gaozhu-plant-china",
+   "fields": {
+    "plant_name": "Times Changan (Chongqing) Beibei 25 GWh power battery plant (Chuan-Yu Gaozhu New Area, Beibei section)",
+    "operator": "Times Changan (Chongqing) Power Battery Co., Ltd. (时代长安(重庆)动力电池有限公司)",
+    "parent_company": "CATL / Changan Automobile (joint venture)",
+    "jv_partners": "CATL, Changan Automobile",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "nameplate_capacity_gwh": 25,
+    "capacity_ref_year": 2030,
+    "announced_year": 2026,
+    "start_year": 2027,
+    "end_market": "EV",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://cbgc.scol.com.cn/news/7179781",
+    "source_date": "2026-11-22",
+    "source_published_date": "2026-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "nameplate_capacity_gwh": [
+     "S1",
+     "S2"
+    ],
+    "capacity_ref_year": [
+     "S2"
+    ],
+    "start_year": [
+     "S1",
+     "S2"
+    ],
+    "announced_year": [
+     "S1"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T067] NEW (Chongqing sweep). CATL-Changan JV 时代长安动力电池有限公司; project signed 2026-01-14 and landed in the Beibei section of the Chuan-Yu Gaozhu New Area, Chongqing (S1: RMB ~5.5 bn, ~1000 mu, new 25 GWh/yr power-battery base, production from H2 2027; search results report the project company 时代长安(重庆)动力电池有限公司 registered 2026-02-04 in Beibei, Cizhu town, RMB 1 bn capital, and site levelling (平场) completed before signing - not opened as a page here). S2 (electrive 2026-10-15, citing CarNewsChina): JV capacity 50 -> 75 GWh with the extra 25 GWh at this ~700,000 m2 site, operations from 2027 and 25 GWh reached within three years (RMB ~5 bn; S1 says 5.5 bn - minor conflict, not capacity). Status announced: S1 expected a Q1 2026 construction start, but no groundbreaking/construction report was found (searched 'sign / 开工 / 奠基' - only Jan-Feb 2026 items), so D-020 not met; 'site levelling completed' is a pre-signing remark in search snippets only. ref_year 2030: ref_year: latest dated phase; S2 'within three years' of the 2027 start (inference 2027+3). Single phase, no per-phase GWh. Chemistry/format not stated (power battery; S2 says CATL latest technology) - left null. Separate from existing Yibin Times-Changan phases 7-8 (inside hub row catl-catl-yibin-power-battery-base-china) - different city/site, so not a duplicate; not the Seres-CATL 'factory-in-factory' (pack lines, excluded). No coordinates (site not located). Capacity cited in two independent open sources -> 0.65."
+  },
+  {
+   "action": "add",
+   "id": "inner-mongolia-juneng-zhengxin-energy-storage-technology-hohhot-50gwh-sodium-ion-park-china",
+   "fields": {
+    "plant_name": "Hohhot 50 GWh sodium-ion battery and energy storage industrial park (Hohhot Economic and Technological Development Zone)",
+    "operator": "Inner Mongolia Juneng Zhengxin Energy Storage Technology Co., Ltd. (Chinese name unconfirmed)",
+    "country": "China",
+    "region": "China",
+    "status": "under_construction",
+    "nameplate_capacity_gwh": 50,
+    "capacity_ref_year": 2026,
+    "announced_year": 2023,
+    "chemistry": "sodium-ion",
+    "end_market": "ESS",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://www.mysteel.net/news/5059212-flash-50-gwh-sodium-ion-battery-project-starts",
+    "source_date": "2026-11-22",
+    "source_published_date": "2024-07-31"
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S6"
+    ],
+    "nameplate_capacity_gwh": [
+     "S4",
+     "S5"
+    ],
+    "capacity_ref_year": [
+     "S6"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[T067] NEW (Inner Mongolia sweep). Launch ceremony 2024-07-28 (S4, S5): total ~RMB 20 bn, ~1,200 mu; phase I ~RMB 5 bn, ~430 mu, 10 GWh sodium-ion line 'expected to be completed in December 2025' (S5); phase II RMB 15 bn, +40 GWh, undated (S4/S5) -> 50 GWh. GlobalData record via World Construction Network (S6, page updated 2026-11-22): construction commenced Q3 2024, project completion expected Q4 2026 -> ref_year 2026: ref_year: latest dated phase; remainder undated (phase II has no date of its own; S6 gives a single whole-project date). Status under_construction rests on S6 (a database line, not a site visit) - D-020 'works confirmed' only weakly met; no phase-I commissioning report found (searches 2026: nothing; the December 2025 phase-I target appears missed or unreported) so confidence 0.4 and installed null. OPERATOR NAME CONFLICT: EnergyTrend's English text says 'Great Power Zhengxin ... (Great Power Technology)', Mysteel says 'Juneng Zhengxin'; a search result states the technical partner is 四川钜能储能技术有限公司 (Sichuan Juneng), so 'Juneng' is likely the right transliteration and this is NOT Great Power (鹏辉); not verified from a Chinese page. The same sponsor package (RMB 20 bn; 10+40 GWh) also appears for a 2025 Ordos (Juungar) project - separate row; check whether they are one developer. Scope wording 'sodium-ion battery and energy storage industrial park' includes batteries, materials, modules, systems and cabinets (search snippet) so 50 GWh may not be all cells -> upper bound. No coordinates. ESCALATE: >=10 GWh at 0.4; needs Chinese government/company page with phase-I commissioning."
+  },
+  {
+   "action": "add",
+   "id": "inner-mongolia-xinjing-new-energy-technology-ordos-juungar-sodium-ion-park-china",
+   "fields": {
+    "plant_name": "Ordos Juungar Banner sodium-ion battery and energy storage industrial park (Juungar Economic Development Zone)",
+    "operator": "Inner Mongolia Xinjing New Energy Technology Co. (name as transliterated by China Daily; Chinese name unconfirmed)",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "nameplate_capacity_gwh": 50,
+    "capacity_ref_year": 2025,
+    "announced_year": 2025,
+    "chemistry": "sodium-ion",
+    "end_market": "ESS",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://regional.chinadaily.com.cn/ordosen/en/2025-09/04/c_1122464.htm",
+    "source_date": "2026-11-22",
+    "source_published_date": "2025-09-04"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "nameplate_capacity_gwh": [
+     "S7"
+    ],
+    "announced_year": [
+     "S7"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[T067] NEW (Inner Mongolia sweep). China Daily 2025-09-04 (S7): investment cooperation agreement signed 2025-09-02 for a sodium-ion battery and energy storage industrial park in Juungar Banner, Ordos, total ~RMB 20 bn; phase I RMB 5 bn / 10 GWh, phase II RMB 15 bn / +40 GWh (the page does not state the 50 GWh sum; sum is mine). License registered on site; no construction start, filing, EIA or later news found in two searches (Chinese company name search returned nothing) -> status announced, freshness: nothing after 2025-09, likely early-stage. ref_year: fallback, searched (publication year 2025; no phase dates). The park scope covers batteries plus related chain, so 50 GWh is an upper bound for cells. Phase/investment structure is identical to the Hohhot project (separate row inner-mongolia-juneng-zhengxin-...-hohhot-...; possibly the same sponsor model) - kept separate because different city, entity and date. Not Envision AESC Ordos (existing row, also Junggar area; different operator/chemistry) nor Tianpu Ordos. No coordinates. ESCALATE: 50 GWh at 0.3."
+  },
+  {
+   "action": "add",
+   "id": "guyi-new-energy-inner-mongolia-technology-guyi-tumd-left-banner-2-2gwh-solid-state-china",
+   "fields": {
+    "plant_name": "Guyi New Energy Tumd Left Banner 2.2 GWh high-safety solid-state battery project (Taigemu Town, Hohhot)",
+    "operator": "Guyi New Energy (Inner Mongolia) Technology Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "nameplate_capacity_gwh": 2.2,
+    "capacity_ref_year": 2026,
+    "announced_year": 2026,
+    "chemistry": "semi-solid-state",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://www.mysteel.net/news/5118742-flash-inner-mongolia-approves-22-gwh-solid-state-battery-project-with-yuan-800-million-investment",
+    "source_date": "2026-11-22",
+    "source_published_date": "2026-04-07"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "nameplate_capacity_gwh": [
+     "S8"
+    ],
+    "capacity_ref_year": [
+     "S8"
+    ],
+    "announced_year": [
+     "S8"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[T067] NEW (Inner Mongolia sweep, Hohhot). Mysteel 2026-04-07 (S8): project filed for record on the Inner Mongolia online investment-approval platform on 2026-04-01; Taigemu Town, Tumd Left Banner, Hohhot; total RMB 800 m (150 m own funds, 650 m bank loans); '2.2GWh High-Safety Solid-State Battery Construction Project' (body: 2.2 GWh quasi-solid-state battery production line); construction period June-December 2026. Status announced: a filing with a planned schedule, no report that works have started (freshness: nothing after 2026-04-07 found). ref_year 2026 = end of the planned construction period (a schedule, not confirmed 达产); chemistry 'quasi-solid-state' mapped to semi-solid-state. Cell vs pack split not stated (production line of batteries) - treated as cells. Quote built from fetch-tool extraction. No coordinates (town only). Small (2.2 GWh)."
+  },
+  {
+   "action": "add",
+   "id": "inner-mongolia-jianheng-aoneng-technology-jianheng-aoneng-dalate-sodium-ion-base-china",
+   "fields": {
+    "plant_name": "Jianheng Aoneng Dalate Banner sodium-ion battery base (Ordos supply-chain area)",
+    "operator": "Inner Mongolia Jianheng Aoneng Technology Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "status": "under_construction",
+    "announced_year": 2023,
+    "chemistry": "sodium-ion",
+    "end_market": "ESS",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://news.metal.com/en/newscontent/103426428-Inner-Mongolia-Jianheng-Aoneng-officially-starts-mass-production-of-720V-high-voltage-solid-state-sodium-salt-batteries-",
+    "source_date": "2026-11-22",
+    "source_published_date": "2025-07-14"
+   },
+   "evidence": {
+    "status": [
+     "S9",
+     "S10"
+    ],
+    "announced_year": [
+     "S10"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[T067] NEW (Inner Mongolia sweep, Ordos). SMM 2025-07-14 (S9): phase I (2024-2025) = 300 MWh system-integration/assembly line; phase II (2025-2026) = 1.5 GWh annual capacity adding ceramic cells; phase III (2026-2027) = RMB 1.8 bn chain 'from electrolytes, battery cells to ESS power stations', total 3 GWh; total investment RMB 3.5 bn; Dalateqi Economic Development Zone. China Daily/Invest Ordos 2025-05-08 (S10): phase-I construction began August 2023, trial production Nov 2024, small-batch production of high-voltage (720V) sodium-ion batteries. BUNDLED (D-026): the 3 GWh/1.5 GWh figures cover electrolytes, cells and ESS power stations and phase I is a pack/system line; no cell-only split, and neither page says the 720V 'mass production' is cell production -> nameplate, ref_year and installed left null; operational NOT claimed (cell production unconfirmed). Status under_construction rests on phases II-III being scheduled (no 2026 progress report found), confidence 0.3. No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "chongqing-tegu-industrial-technology-group-banan-15gwh-electrochemical-storage-base-china",
+   "fields": {
+    "plant_name": "Banan 15 GWh electrochemical energy-storage full-chain manufacturing base (Chongqing Tegu Industrial Technology Group and two other firms)",
+    "operator": "Chongqing Tegu Industrial Technology Group Co., Ltd. (重庆特古工业科技集团有限公司) and two unnamed partners",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "announced_year": 2026,
+    "end_market": "ESS",
+    "site_type": "single_site",
+    "project_state": "active",
+    "source_url": "https://finance.sina.cn/tech/2026-07-17/detail-inihzrtq7546110.d.html",
+    "source_date": "2026-11-22",
+    "source_published_date": "2026-07-17"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "announced_year": [
+     "S3"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "[T067] NEW (Chongqing sweep, Banan district). One article only (S3, Sina reprint of Chongqing Commercial Daily, 2026-07-17): in February 2026 Banan and Chongqing Tegu Industrial Technology Group plus two other firms jointly build a base with annual capacity of 15GWh for an 'electrochemical energy-storage full industry chain' (电化学储能全产业链智造基地). BUNDLED (D-026): 'full industry chain' - the page does not say whether the 15 GWh is cells, systems or other stages, and no investment, site, schedule or technology is given (a second search found no other source) -> nameplate and ref_year left null, 15 GWh figure in notes only, and it must not be counted as cell capacity. Kept as a low-confidence lead because it is district-specific and dated; if the lead prefers, drop it as a 'bare signing' (CONVENTIONS: signings with no site or capacity do not count - here a district and a bundled GWh are given). Operator Chinese name from the article; the two other partners are unnamed. No coordinates."
+  }
+ ]
+}
