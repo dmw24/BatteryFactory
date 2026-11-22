@@ -1,0 +1,204 @@
+{
+  "task": "T065",
+  "verified_on": "2026-11-22",
+  "sources": {
+    "S1": {
+      "url": "https://m.voc.com.cn/rmt/article/17255555.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Changsha Economic and Technological Development Zone new-energy chain report",
+      "published": "2026-07-02",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "正有序推进设备安装调试 ... 预计12月正式投产。"
+    },
+    "S2": {
+      "url": "https://m.voc.com.cn/rmt/article/17255555.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Changsha Economic and Technological Development Zone new-energy chain report",
+      "published": "2026-07-02",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "新建1条锂电芯中试生产线。"
+    },
+    "S3": {
+      "url": "https://m.voc.com.cn/rmt/article/17255555.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Changsha Economic and Technological Development Zone new-energy chain report",
+      "published": "2026-07-02",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "产能将提升至5GWh"
+    },
+    "S4": {
+      "url": "https://caifuhao.eastmoney.com/news/20250711141604954728240",
+      "publisher": "Eastmoney Caifuhao (东方财富财富号) user-published industry article, 2025-07-11 (aggregator, not a primary source)",
+      "published": "2025-07-11",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "岳阳基地为钠方新能源，规划钠电芯产能10GWh。"
+    },
+    "S5": {
+      "url": "https://caifuhao.eastmoney.com/news/20250711141604954728240",
+      "publisher": "Eastmoney Caifuhao (东方财富财富号) user-published industry article, 2025-07-11 (aggregator, not a primary source)",
+      "published": "2025-07-11",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "株洲基地产能2GWh，包含消费类/动力储能用锂/钠电池"
+    },
+    "S5b": {
+      "url": "https://caifuhao.eastmoney.com/news/20250711141604954728240",
+      "publisher": "Eastmoney Caifuhao (东方财富财富号) user-published industry article, 2025-07-11 (aggregator, not a primary source)",
+      "published": "2025-07-11",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "立方新能源拥有2.5GWh新能源锂/钠离子电池的产能规模。"
+    },
+    "S6": {
+      "url": "https://m.voc.com.cn/rmt/article/17094185.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Linwu County media centre release on 安能旗胜",
+      "published": "2026-06-18",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "配套年产电池级碳酸锂15万吨、磷酸铁锂5万吨，储能电池产能达20GWh。"
+    },
+    "S7": {
+      "url": "https://m.voc.com.cn/xhn/news/202504/28262987.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Linwu lithium industry report",
+      "published": "2025-04-02",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "锂电池及正极材料项目试验线厂房搭建与设备调研工作也已完成。"
+    },
+    "S8": {
+      "url": "https://m.voc.com.cn/xhn/news/202504/28262987.html",
+      "publisher": "新湖南 (Hunan Daily new-media client), Linwu lithium industry report",
+      "published": "2025-04-02",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "50Gwh锂电池生产项目"
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "sany-redelephant-sany-redelephant-changsha-lithium-ion-power-battery-project-china",
+      "fields": {
+        "plant_name": "Sany Redelephant (三一红象) Changsha lithium-ion power battery project (Changsha Economic and Technological Development Zone)",
+        "operator": "Sany Redelephant (三一红象)",
+        "parent_company": "Sany Group",
+        "country": "China",
+        "region": "China",
+        "status": "under_construction",
+        "project_state": "active",
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "start_year": null,
+        "announced_year": null,
+        "chemistry": null,
+        "cell_format": null,
+        "end_market": "EV",
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://m.voc.com.cn/rmt/article/17255555.html",
+        "source_date": "2026-11-22",
+        "source_published_date": "2026-07-02"
+      },
+      "evidence": {
+        "status": ["S1"]
+      },
+      "confidence": 0.35,
+      "notes": "[T065] NEW (no Sany/三一/红象 row in factories_export.csv or removed.csv). Changsha Economic and Technological Development Zone, Hunan. Hunan Daily / 新湖南 2026-07-02 (S1, fetched; quotes taken from the page via the fetch tool): the 三一红象 lithium-ion power battery production project is in equipment installation and commissioning, formal production expected in December (2026) -> under_construction (D-020: equipment install = physical works). Scope: the project adds one lithium-cell PILOT line (S2, 新建1条锂电芯中试生产线) for engineering-vehicle and new-energy heavy-truck batteries; the page also says capacity 'will rise to 5GWh' (S3) with full output within one year of production start and annual output value RMB 1.3bn. Capacity left NULL (D-026 / D-015): a single cell pilot line cannot be 5 GWh, the page gives no cell-vs-pack split and does not say whether 5 GWh is the site total after expansion; the 5 GWh figure is recorded here only. If the lead judges 5 GWh a cell figure, candidate nameplate = 5 GWh, ref_year 2027 (production Dec 2026 + 'within 1 year of production' for 达产; inference). No investment figure, chemistry or format stated. end_market EV inferred from the target customers (engineering vehicles, heavy trucks). Only one source (a municipal-zone news item); nothing independent found, no company page found. Not a duplicate of Shengxi Ningxiang (Changsha, Zhejiang Shengxi) or BYD FinDreams Changsha rows (different operator and zone). Coordinates not located (null)."
+    },
+    {
+      "action": "add",
+      "id": "nafang-new-energy-nafang-yueyang-sodium-ion-cell-base-china",
+      "fields": {
+        "plant_name": "Nafang New Energy (钠方新能源, Li-FUN subsidiary) Yueyang sodium-ion cell base",
+        "operator": "Nafang New Energy (钠方新能源)",
+        "parent_company": "Li-FUN Technology (立方新能源)",
+        "country": "China",
+        "region": "China",
+        "status": "announced",
+        "project_state": "active",
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "nameplate_capacity_gwh": 10,
+        "capacity_ref_year": 2025,
+        "start_year": null,
+        "announced_year": 2025,
+        "chemistry": "sodium-ion",
+        "cell_format": null,
+        "end_market": null,
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://caifuhao.eastmoney.com/news/20250711141604954728240",
+        "source_date": "2026-11-22",
+        "source_published_date": "2025-07-11"
+      },
+      "evidence": {
+        "status": ["S4"],
+        "nameplate_capacity_gwh": ["S4"],
+        "capacity_ref_year": ["S4"]
+      },
+      "confidence": 0.3,
+      "notes": "[T065] NEW (Li-FUN's Zhuzhou plant is the existing row li-fun-technology-li-fun-zhuzhou-plant-china; the Yueyang base is a separate site, no Yueyang/岳阳/钠方 hit in factories_export.csv or removed.csv). Eastmoney Caifuhao user article 2025-07-11 (S4, fetched; an aggregator, not a company or government page): Li-FUN has two bases in Zhuzhou and Yueyang; 'the Yueyang base is Nafang New Energy and PLANS 10GWh of sodium cell capacity' -> status announced (规划). The same page gives Li-FUN total 2.5 GWh and Zhuzhou 2 GWh (S5, S5b), which implies at most ~0.5 GWh at Yueyang today, but the page does not say that and does not say whether any Yueyang line is producing; status could be operational at small scale (inference only). ref_year: fallback, searched (2025 = publication year; no phase or date given). Three further searches (company name, 岳阳 + 钠, 钠方 + 临港) found no registry, EIA, government or press item on this site, so no district, investment or schedule; freshness: nothing after 2025-07 found. Confidence 0.3 (single aggregator source, no site confirmation). Coordinates null. ESCALATE: needs a company/Yueyang-government source for site, phase and current status."
+    },
+    {
+      "action": "add",
+      "id": "anneng-qisheng-anneng-qisheng-linwu-lithium-battery-project-china",
+      "fields": {
+        "plant_name": "Anneng Qisheng (安能旗胜) Linwu lithium battery and energy-storage battery project (Linwu County, Chenzhou)",
+        "operator": "Anneng Qisheng (安能旗胜)",
+        "parent_company": null,
+        "country": "China",
+        "region": "China",
+        "status": "announced",
+        "project_state": "active",
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "nameplate_capacity_gwh": 20,
+        "capacity_ref_year": 2026,
+        "start_year": null,
+        "announced_year": 2025,
+        "chemistry": "LFP",
+        "cell_format": null,
+        "end_market": "ESS",
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://m.voc.com.cn/rmt/article/17094185.html",
+        "source_date": "2026-11-22",
+        "source_published_date": "2026-06-18"
+      },
+      "evidence": {
+        "status": ["S7"],
+        "nameplate_capacity_gwh": ["S6"],
+        "capacity_ref_year": ["S6"]
+      },
+      "confidence": 0.3,
+      "notes": "[T065] NEW (no Anneng/安能/Linwu/Chenzhou row in factories_export.csv or removed.csv). Linwu County, Chenzhou, Hunan; an integrated lithium-mica mining, lithium carbonate, LFP and battery project. Capacity: Xin Hunan 2026-06-18 (S6, fetched): once the whole project is complete it is expected to include 150,000 t battery-grade lithium carbonate, 50,000 t LFP and 'energy-storage battery capacity of 20GWh' -> nameplate 20 GWh (later figure). CONFLICT: Xin Hunan 2025-04-02 (S8, fetched) lists a '50Gwh锂电池生产项目' in the company's planned scope; the later (2026-06) company-linked statement says 20 GWh, so 20 is used (later figure wins), 50 is not carried; no official explanation of the change found. Status: announced. The 2025-04-02 article (S7) says the lithium battery and cathode-material TEST (pilot) line workshop is built and equipment survey done - a pilot, not the GWh plant; no construction of the 20 GWh lines found. Whether '储能电池' means cells or packs/systems is not stated (D-026 caveat); chemistry LFP and end_market ESS inferred from the LFP / 储能电池 wording only. ref_year: fallback, searched (2026 = publication year of the source stating the plan; no phase dates). Freshness: June 2026 statement is a forward-looking 'after full completion' target; upstream (lithium carbonate line 1) is producing, battery side is not. Another June-2025 article (m.voc.com.cn/xhn/news/202506/29694217.html, fetched) describes battery manufacturing only as a future expansion area. Confidence 0.3 (single regional-media source family; scope ambiguity). The related 2022 Linwu signings with 科力远 (Corun) and 威领股份 carry no capacity or site detail (not added). Coordinates null. ESCALATE: 20 GWh at 0.3; needs EIA or company disclosure to confirm cell scope."
+    },
+    {
+      "action": "update",
+      "id": "li-fun-technology-li-fun-zhuzhou-plant-china",
+      "fields": {
+        "status": "operational",
+        "nameplate_capacity_gwh": 2,
+        "capacity_ref_year": 2025,
+        "chemistry": "mixed",
+        "cell_format": null,
+        "end_market": "mixed",
+        "start_year": null,
+        "site_type": "single_site",
+        "source_url": "https://caifuhao.eastmoney.com/news/20250711141604954728240",
+        "source_date": "2026-11-22",
+        "source_published_date": "2025-07-11"
+      },
+      "evidence": {
+        "status": ["S5"],
+        "nameplate_capacity_gwh": ["S5", "S5b"],
+        "capacity_ref_year": ["S5"]
+      },
+      "confidence": 0.35,
+      "notes": "[T065] nameplate 2.5 -> 2.0 GWh/yr, ref_year 2024 -> 2025. Eastmoney Caifuhao 2025-07-11 (S5, S5b, fetched; aggregator): Li-FUN company total 2.5 GWh of lithium/sodium-ion capacity, of which 'Zhuzhou base capacity 2GWh, covering consumer and power/ESS-storage lithium/sodium batteries'; the remaining ~0.5 GWh is not attributed (Yueyang base is Nafang New Energy, planned 10 GWh sodium, see new row nafang-new-energy-nafang-yueyang-sodium-ion-cell-base-china). So the earlier 2.5 GWh was the company total, not the Zhuzhou site. Status operational: the page speaks of existing Zhuzhou 'capacity' for consumer and ESS cells (consistent with the v1/T022 row), at low confidence; the T022 note 'status unconfirmed' still stands in substance (no company or government page). chemistry sodium-ion -> mixed (lithium and sodium cells per S5); end_market mixed (consumer plus power/ESS per S5); cell_format mixed (v1, unconfirmed) -> null; start_year 2013 (v1, unconfirmed) -> null. installed_capacity null (the page's 'capacity' is not stated as commissioned-and-producing). Coordinates untouched. ref_year: fallback, searched (publication year; no phase data). Confidence 0.35."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "task": "T064",
+  "verified_on": "2026-11-22",
+  "sources": {
+    "S1": {
+      "url": "https://www.mysteel.net/news/5104335-flash-the-1-gwh-solid-state-battery-project-breaks-ground",
+      "publisher": "Mysteel (flash news), 1 GWh solid-state battery project breaks ground (Longbang (Fujian) Machinery, Longyan)",
+      "published": "2025-11-17",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "1 GWh of three-dimensional solid-state lithium-ion batteries"
+    },
+    "S2": {
+      "url": "https://news.metal.com/newscontent/103342121/35-GWh-Battery-Project-Breaks-Ground-at-Jiahang-New-Energy-Industrial-Park",
+      "publisher": "SMM (Shanghai Metals Market) news, 35 GWh Battery Project Breaks Ground at Jiahang New Energy Industrial Park",
+      "published": "2025-05-23",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "Upon completion, it will have a production capacity of 35 GWh of power batteries and ESS batteries annually."
+    },
+    "S3": {
+      "url": "https://www.energytrend.com/news/20250521-49645.html",
+      "publisher": "EnergyTrend, Jiahang New Energy Industrial Park A Project groundbreaking (citing WeChat account @EnergyStorage001)",
+      "published": "2025-05-21",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "will have an annual production capacity of 35GWh of power batteries and energy storage batteries"
+    },
+    "S4": {
+      "url": "https://news.metal.com/newscontent/102654448",
+      "publisher": "SMM (Shanghai Metals Market) news, Kexiang Stock Launches 8GWh Sodium Battery Project in Guangdong",
+      "published": "2024-03-11",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "the first 8GWh sodium-ion energy storage battery project landed in Guangdong Province"
+    },
+    "S5": {
+      "url": "https://www.cls.cn/detail/1624079",
+      "publisher": "Cailian Press (CLS, 财联社), Kexiang (科翔股份) 8GWh sodium-ion project reply on interactive platform",
+      "published": "2024-03-19",
+      "accessed": "2026-11-22",
+      "language": "zh",
+      "quote": "《科翔8GWH钠离子储能电池及相关产品项目投资协议》 ... 目前该项目在正常推进中。"
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "longbang-fujian-machinery-longbang-longyan-1gwh-3d-solid-state-battery-project-china",
+      "fields": {
+        "plant_name": "Longbang (Fujian) Longyan 1 GWh three-dimensional solid-state lithium-ion battery project (Gaobei, Longyan High-tech Zone)",
+        "operator": "Longbang (Fujian) Machinery Co., Ltd.",
+        "parent_company": null,
+        "country": "China",
+        "region": "China",
+        "status": "announced",
+        "project_state": "active",
+        "start_year": null,
+        "announced_year": 2025,
+        "nameplate_capacity_gwh": 1.0,
+        "capacity_ref_year": 2025,
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "capacity_by_year_json": null,
+        "chemistry": "solid-state",
+        "cell_format": null,
+        "end_market": null,
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://www.mysteel.net/news/5104335-flash-the-1-gwh-solid-state-battery-project-breaks-ground",
+        "source_date": "2026-11-22",
+        "source_published_date": "2025-11-17"
+      },
+      "evidence": {
+        "status": ["S1"],
+        "nameplate_capacity_gwh": ["S1"],
+        "capacity_ref_year": ["S1"]
+      },
+      "confidence": 0.4,
+      "notes": "[T064 NEW, Fujian/Longyan sweep] Mysteel flash news 2025-11-17 (S1, open page; text as returned by the fetch tool, quote not re-checked against the raw HTML): Longbang (Fujian) Machinery Co., Ltd. held a groundbreaking in the Gaobei area of Longyan High-tech Zone (Fujian) on 12 Nov (2025) for a RMB 580m project of 1 GWh of three-dimensional solid-state lithium-ion batteries; trial production anticipated Q3 2026. Status announced (D-020): the only evidence is a ceremonial groundbreaking; no later report of site works or trial production found (searched 2026-11-22; nothing after 2025-11-17, so freshness unknown, Q3 2026 trial production is unconfirmed). Capacity 1 GWh is the only stated figure (no phases); ref_year 2025: fallback, searched (publication year; trial production Q3 2026 is not a full-capacity date). Probable link (NOT confirmed): '三维/3D' naming and the Sanwei (Longyan) Battery Technology 1 GWh solid-state EIA subsidiary mentioned in T039's notes (Sanwei Battery, Shaanxi, also behind the Zhangjiakou and Yugan rows) suggest the project entity is Sanwei (Longyan) Battery Technology, with Longbang as the named owner/investor; a second search for the Sanwei (Longyan) EIA found nothing, so treated as one project and one row. Not a duplicate of any existing row (grepped factories_export.csv and removed.csv for Longbang/龙邦/Longyan/龙岩: none; T039 notes mention Sanwei Longyan but did not add it). Cell format and end market not stated. No coordinates. Source is a single trade-press item: confidence 0.4."
+    },
+    {
+      "action": "add",
+      "id": "jiahang-new-energy-jiahang-new-energy-industrial-park-xinhui-china",
+      "fields": {
+        "plant_name": "Jiahang New Energy Industrial Park (Phase A), Fengshan Lake Park, Xinhui Intelligent Manufacturing Industrial Park",
+        "operator": "Jiahang New Energy Industrial Park (operating entity not disclosed)",
+        "parent_company": null,
+        "country": "China",
+        "region": "China",
+        "status": "announced",
+        "project_state": "active",
+        "start_year": null,
+        "announced_year": 2025,
+        "nameplate_capacity_gwh": 35.0,
+        "capacity_ref_year": 2025,
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "capacity_by_year_json": null,
+        "chemistry": null,
+        "cell_format": null,
+        "end_market": "mixed",
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://news.metal.com/newscontent/103342121/35-GWh-Battery-Project-Breaks-Ground-at-Jiahang-New-Energy-Industrial-Park",
+        "source_date": "2026-11-22",
+        "source_published_date": "2025-05-23"
+      },
+      "evidence": {
+        "status": ["S2", "S3"],
+        "nameplate_capacity_gwh": ["S2", "S3"],
+        "capacity_ref_year": ["S2"]
+      },
+      "confidence": 0.3,
+      "notes": "[T064 NEW, Guangdong/Jiangmen sweep] SMM 2025-05-23 (S2) and EnergyTrend 2025-05-21 (S3), both open pages relaying WeChat account @EnergyStorage001: the groundbreaking of 'Jiahang New Energy Industrial Park A Project' was held on 16 May (2025) in Fengshan Lake Park, Guangdong Xinhui Intelligent (Manufacturing) Industrial Park, Xinhui, Jiangmen; contractor China Railway Guangzhou Bureau Bridge Company; two phases, ~630.78 mu, ~341,000 m2 floor area; 'upon completion' 35 GWh/yr of power and ESS batteries; the build list includes a cell workshop (so cells, not packs only; fetch-tool reading, the page is English). Investment, phase split, operator/shareholders and dates are NOT stated; the operating entity could not be identified (two searches). Status announced (D-020): ceremonial groundbreaking plus a named civil contractor, but no report of works progress; nothing after 2025-05 found. Capacity 35 GWh = whole park (two phases, no split); ref_year 2025: fallback, searched. OVERLAP RISK (ESCALATE): the existing CALB Jiangmen row (calb-calb-jiangmen-base-xinhui-china, 50-70 GWh, also in Xinhui) is a different named project (CALB signed Jan 2022; phase 1 35 GWh in production), and no source ties Jiahang to CALB (search found no link), but both lie in Xinhui and 35 GWh equals CALB phase 1/2 size; if the lead finds Jiahang is CALB phase 2 this row must be merged. A separate unattributed report (a RMB 12bn Fengshan Lake lithium-battery project due by June 2027) could not be tied to Jiahang. Quote text taken from fetch-tool extraction. No coordinates. Confidence 0.3."
+    },
+    {
+      "action": "add",
+      "id": "kexiang-kexiang-daya-bay-8gwh-sodium-ion-energy-storage-battery-project-china",
+      "fields": {
+        "plant_name": "Kexiang Sodium Energy Industrial Park, 8 GWh sodium-ion energy storage battery project (Daya Bay, Huizhou)",
+        "operator": "Kexiang Co., Ltd. (科翔股份)",
+        "parent_company": null,
+        "country": "China",
+        "region": "China",
+        "status": "announced",
+        "project_state": "active",
+        "start_year": null,
+        "announced_year": 2023,
+        "nameplate_capacity_gwh": 8.0,
+        "capacity_ref_year": 2024,
+        "installed_capacity_gwh": null,
+        "installed_as_of": null,
+        "capacity_by_year_json": null,
+        "chemistry": "sodium-ion",
+        "cell_format": null,
+        "end_market": "ESS",
+        "jv_partners": null,
+        "site_type": "single_site",
+        "source_url": "https://news.metal.com/newscontent/102654448",
+        "source_date": "2026-11-22",
+        "source_published_date": "2024-03-11"
+      },
+      "evidence": {
+        "status": ["S4", "S5"],
+        "nameplate_capacity_gwh": ["S4", "S5"],
+        "capacity_ref_year": ["S4"]
+      },
+      "confidence": 0.3,
+      "notes": "[T064 NEW, Guangdong/Huizhou sweep] CLS 2024-03-19 (S5): Kexiang (科翔股份, a Daya Bay, Huizhou listed company, PCB maker) signed the '科翔8GWH钠离子储能电池及相关产品项目投资协议' with the Huizhou Daya Bay Economic and Technological Development Zone in Oct 2023; company reply of 2024-02-21: project 'advancing normally'. SMM 2024-03-11 (S4): groundbreaking/construction ceremony 8 March 2024 for the Kexiang sodium energy industrial park, 'the first 8GWh sodium-ion energy storage battery project landed in Guangdong Province', described as a sodium-ion energy storage battery assembly production line. Status announced (D-020): ceremonial groundbreaking only; NO report of works, equipment or production after 2024-03 found in three searches (2026-11-22), so the project may be stalled (freshness rule: confidence lowered). SCOPE UNCERTAIN: the pages say 'energy storage battery ... assembly production line' and 'and related products'; they do not state cell-only capacity or phases, so 8 GWh may bundle cells with modules/systems (D-026 would then require nameplate null); kept at 8 GWh because the headline unit is 'sodium-ion energy storage battery' GWh, flagged for the lead. ref_year 2024: fallback, searched (publication year; no phase dates). Kexiang's separate 6 GWh Xinfeng (Jiangxi) sodium project was terminated in March 2024 (a different project). Not a duplicate: grepped factories_export.csv and removed.csv for Kexiang/科翔/Daya Bay/大亚湾: no match; EVE Huizhou sodium rows are Zhongkai, not Daya Bay. Quote text from fetch-tool extraction. No coordinates. Confidence 0.3."
+    }
+  ]
+}
