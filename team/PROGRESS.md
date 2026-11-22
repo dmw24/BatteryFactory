@@ -51,3 +51,7 @@ Format:
 
 ## 2026-11-20 – lead – owner: "keep searching until closer to IEA"
 - Plan: (1) T055 company-disclosed capacity totals for top ~25 operators → per-operator gap = company total − site-level C; (2) targeted fill/discovery for operators with the largest gaps (≤4 workers at a time, ≤15 rows each); (3) report an explicit "company capacity not yet allocated to a site" line in the reconciliation (not as DB rows).
+
+## 2026-11-22 lead — T062/T063 merged
+- T062 (aggregates + maker coverage): China capacity >2 TWh 2024 (CRU), output 2025 ~1.76 TWh (CABIA), utilisation ~50–60% sector — consistent with our China 2.6–3.2 TWh (2025). Top-15 CABIA installers covered except ENERGEE (Geely; partial: Tonglu, Ganzhou, Shangrao, Yingtan, Ningguo, Zaozhuang bases missing), Inpower (GAC, Guangzhou, missing), Yuanhang Jinli, Rongsheng Mengguli. Maker table moved to data/reference/maker_coverage_T062.csv (not the candidates schema).
+- T063 (JP/KR): 0 installed fills (no open per-site GWh), 3 adds (VEJ Ibaraki, GS Yuasa Ibaraki announced, LEJ Ritto). METI/DART not reachable.

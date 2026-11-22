@@ -1,0 +1,79 @@
+{
+  "task": "T063",
+  "verified_on": "2026-11-22",
+  "sources": {
+    "S1": {
+      "url": "https://monoist.itmedia.co.jp/mn/spv/1112/14/news019.html",
+      "publisher": "MONOist (ITmedia), Lithium Energy Japan Ritto plant (i-MiEV cells), 2011-12-14; fetched page text was garbled by an encoding error, wording below is as returned by the fetch tool",
+      "published": "2011-12-14",
+      "accessed": "2026-11-22",
+      "language": "ja",
+      "tier": "reported",
+      "snippet": "2012年4月には…約800MWh…出荷を開始する予定だ ... 2013年冬には、これが2倍以上の約2.3GWh…に増強されることになる"
+    },
+    "S2": {
+      "url": "https://newswitch.jp/p/33699",
+      "publisher": "Newswitch (Nikkan Kogyo Shimbun), Nissan to acquire Vehicle Energy Japan, what kind of company is it (2022-09-09)",
+      "published": "2022-09-09",
+      "accessed": "2026-11-22",
+      "language": "ja",
+      "quote": "現在は京都府、茨城県、岐阜県の３カ所で電池を生産。"
+    },
+    "S3": {
+      "url": "https://newswitch.jp/p/33699",
+      "publisher": "Newswitch (Nikkan Kogyo Shimbun), Nissan to acquire Vehicle Energy Japan, what kind of company is it (2022-09-09), capacity in HEV-vehicle equivalents",
+      "published": "2022-09-09",
+      "accessed": "2026-11-22",
+      "language": "ja",
+      "quote": "現在の生産能力はＨＶ換算で年５５万―７０万台。"
+    },
+    "S4": {
+      "url": "https://www.pv-magazine.de/unternehmensmeldungen/gs-yuasa-investiert-in-neue-2-gwh-produktionsstaette-fuer-stationaere-energiespeichersysteme-der-naechsten-generation/",
+      "publisher": "pv magazine Deutschland (company release), GS Yuasa invests in new 2 GWh production site for stationary energy storage systems (2026-09-24)",
+      "published": "2026-09-24",
+      "accessed": "2026-11-22",
+      "language": "de",
+      "quote": "in der japanischen Präfektur Ibaraki"
+    },
+    "S5": {
+      "url": "https://www.pv-magazine.de/unternehmensmeldungen/gs-yuasa-investiert-in-neue-2-gwh-produktionsstaette-fuer-stationaere-energiespeichersysteme-der-naechsten-generation/",
+      "publisher": "pv magazine Deutschland (company release), GS Yuasa 2 GWh stationary storage site: capacity and start date (2026-09-24)",
+      "published": "2026-09-24",
+      "accessed": "2026-11-22",
+      "language": "de",
+      "quote": "eine jährliche Produktionskapazität von 2 GWh ... Der Produktionsstart ist für Oktober 2028 vorgesehen."
+    }
+  },
+  "rows": [
+    {"action": "add", "id": "lithium-energy-japan-lej-ritto-plant-japan",
+     "fields": {"plant_name": "Ritto Plant (Lithium Energy Japan)", "operator": "Lithium Energy Japan (LEJ)", "parent_company": "GS Yuasa", "country": "Japan", "region": "Japan",
+                "status": null, "project_state": "active", "start_year": null, "announced_year": null,
+                "nameplate_capacity_gwh": 0.8, "capacity_ref_year": 2012, "installed_capacity_gwh": null, "installed_as_of": null,
+                "capacity_by_year_json": null, "chemistry": null, "cell_format": null, "end_market": null, "jv_partners": "GS Yuasa, Mitsubishi Corporation, Mitsubishi Motors",
+                "site_type": "single_site", "source_url": "https://monoist.itmedia.co.jp/mn/spv/1112/14/news019.html",
+                "source_date": "2026-11-22", "source_published_date": "2011-12-14"},
+     "evidence": {"nameplate_capacity_gwh": ["S1"]},
+     "confidence": 0.3,
+     "notes": "[T063 2026-11-22] NEW (Japan sweep). LEJ's main cell plant at Ritto, Shiga (a separate site from the Kusatsu row; the removed Sekisui Ritto row is unrelated). REPORTED tier only: the MONOist 2011-12-14 page text was garbled when fetched. It describes Ritto phase 1 as about 800 MWh with shipments planned from April 2012 (plan, not confirmed start) and a later expansion to about 2.3 GWh by winter 2013. The 2.3 GWh looks like the LEJ-wide total (three plants were then about 1,090 MWh combined, Kusatsu about 110 MWh, Kyoto about 180 MWh) rather than Ritto alone, so it is NOT used as nameplate; nameplate 0.8 = Ritto phase 1 only, ref_year 2012 = the planned phase-1 shipment year. Site total is therefore likely higher. Status left null: no source in hand says Ritto is producing today (13-year-old plan text only); LEJ is understood to still run it but this is not evidenced. No current capacity found. Coordinates not located -> null. Lead: fetch a current GS Yuasa integrated report for LEJ Ritto capacity."},
+    {"action": "add", "id": "vehicle-energy-japan-vehicle-energy-japan-ibaraki-plant-japan",
+     "fields": {"plant_name": "Vehicle Energy Japan Ibaraki plant", "operator": "Vehicle Energy Japan", "parent_company": null, "country": "Japan", "region": "Japan",
+                "status": "operational", "project_state": "active", "start_year": null, "announced_year": null,
+                "nameplate_capacity_gwh": null, "capacity_ref_year": null, "installed_capacity_gwh": null, "installed_as_of": null,
+                "capacity_by_year_json": null, "chemistry": null, "cell_format": null, "end_market": "EV", "jv_partners": null,
+                "site_type": "single_site", "source_url": "https://newswitch.jp/p/33699",
+                "source_date": "2026-11-22", "source_published_date": "2022-09-09"},
+     "evidence": {"status": ["S2"]},
+     "confidence": 0.4,
+     "notes": "[T063 2026-11-22] NEW (Japan sweep). Vehicle Energy Japan (ex-Hitachi Vehicle Energy; Nissan agreed in Sep 2022 to take it over, ownership today not verified, parent left null) makes automotive Li-ion cells to packs at three prefectures: Kyoto, Ibaraki and Gifu (S2, as of 2022-09). This row = the Ibaraki site (town not stated in the fetched page; the company HQ is reported at Hitachinaka, not verified here, so no coordinates). Kyoto and Gifu sites are NOT added (town/site not identified). Capacity: S3 gives only a company-wide figure of 550,000-700,000 HEV vehicles per year, no GWh and no per-site split, so nameplate and installed are null. Status operational rests on a 2022 statement (older than 18 months, confidence capped 0.4); no 2025-26 confirmation found. Chemistry/format not stated -> null; end_market EV from the automotive context."},
+    {"action": "add", "id": "gs-yuasa-corporation-gs-yuasa-ibaraki-stationary-storage-plant-japan",
+     "fields": {"plant_name": "GS Yuasa Ibaraki stationary storage plant", "operator": "GS Yuasa Corporation", "parent_company": "GS Yuasa Corporation", "country": "Japan", "region": "Japan",
+                "status": "announced", "project_state": "active", "start_year": null, "announced_year": 2026,
+                "nameplate_capacity_gwh": null, "capacity_ref_year": null, "installed_capacity_gwh": null, "installed_as_of": null,
+                "capacity_by_year_json": null, "chemistry": null, "cell_format": null, "end_market": "ESS", "jv_partners": null,
+                "site_type": "single_site", "source_url": "https://www.pv-magazine.de/unternehmensmeldungen/gs-yuasa-investiert-in-neue-2-gwh-produktionsstaette-fuer-stationaere-energiespeichersysteme-der-naechsten-generation/",
+                "source_date": "2026-11-22", "source_published_date": "2026-09-24"},
+     "evidence": {"status": ["S5"]},
+     "confidence": 0.4,
+     "notes": "[T063 2026-11-22] NEW (Japan sweep; lead from team/candidate_routing.csv, GS Yuasa northern-Tokyo ESS plant, which gave the site only as unspecified). GS Yuasa Corporation release carried by pv magazine Deutschland 2026-09-24: new production site in Ibaraki Prefecture (S4), building 44,394 m2, 'eine jaehrliche Produktionskapazitaet von 2 GWh', production start planned October 2028 (S5). The release speaks of stationary energy storage systems and does not say whether the 2 GWh is cells, modules or complete systems -> D-026 bundled scope: the plant is added but nameplate and ref_year are left null; 2 GWh/yr (bundled, cell share unknown) is NOT counted as cell capacity. Status announced: no construction start evidenced. Exact town not given, no coordinates. start_year left null (planned Oct 2028 only). Lead: confirm cell vs system scope from GS Yuasa's own release (Japanese) before treating as a cell plant; remove if systems only. Not yet found: GS Yuasa original Japanese release; the 2026-02-25 SMM item named in candidate_routing was not opened."}
+  ]
+}
