@@ -24,7 +24,7 @@ added nothing ≥1 GWh that we did not already have.
 | Top-10 global makers' own site lists | T002–T010 (operator_sites/*.csv) | done |
 | BYD, CALB, Lishen, EVE, Sunwoda, SVOLT, Gotion, AESC | T056–T059 | done |
 | China ranked makers (EV installs + ESS shipments) | T062 | top-15 covered except ENERGEE, Inpower, Yuanhang, Mengguli |
-| Follow-ups for missing/partial makers from T062 | — | pending |
+| Follow-ups for missing/partial makers from T062 + tier-2/3 | T066 | 7 adds (4 operational); Shangrao/Yingtan bases no open source; Yadea etc. unchecked |
 
 ## Axis 3 — aggregates (sanity)
 IEA-like Series D vs IEA by year and region (team/RECONCILIATION.md); China-wide open capacity statistic (T062).

@@ -1,0 +1,123 @@
+{
+  "task": "T069",
+  "verified_on": "2026-11-22",
+  "sources": {
+    "S1": {
+      "url": "https://www.wallonia.be/en/node/13621",
+      "publisher": "Wallonia.be (Walloon regional investment-promotion portal), AVESTA Holding / BE-VOLT gigafactory at Seneffe-Manage (page dated 06.08.2026, read as 6 Aug 2026)",
+      "published": "2026-08-06",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "The single permit for the factory at Seneffe-Manage was granted in August 2025 and construction work has begun."
+    },
+    "S1b": {
+      "url": "https://www.wallonia.be/en/node/13621",
+      "publisher": "Wallonia.be (Walloon regional investment-promotion portal), AVESTA Holding / BE-VOLT, chemistry and capacity wording",
+      "published": "2026-08-06",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "lithium iron phosphate (LFP) batteries in Europe without nickel or cobalt"
+    },
+    "S1c": {
+      "url": "https://www.wallonia.be/en/node/13621",
+      "publisher": "Wallonia.be (Walloon regional investment-promotion portal), AVESTA Holding / BE-VOLT, capacity statement",
+      "published": "2026-08-06",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "With an initial capacity of 3 GWh per year, the aim is to reach 10 GWh by 2030."
+    },
+    "S2": {
+      "url": "https://battery-news.de/en/2024/06/12/inobat-starts-battery-production-in-slovakia/",
+      "publisher": "Battery-News.de, InoBat Begins Battery Production in Slovakia",
+      "published": "2024-06-12",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "InoBat has begun battery cell production in Voderady, Slovakia."
+    },
+    "S3": {
+      "url": "https://www.mida.gov.my/media-release/enovix-corporation-inaugurates-its-usd1-2-billion-high-volume-manufacturing-facility-in-malaysia/",
+      "publisher": "MIDA (Malaysian Investment Development Authority) media release, Enovix inaugurates Fab2 (dateline 8 August 2024)",
+      "published": "2024-08-08",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "This state-of-the-art facility has already commenced the production of high-energy density batteries."
+    },
+    "S4": {
+      "url": "https://investpenang.gov.my/?p=26991",
+      "publisher": "InvestPenang (Penang state investment agency) press release, Enovix inaugurates Fab2 (8 August 2024)",
+      "published": "2024-08-08",
+      "accessed": "2026-11-22",
+      "language": "en",
+      "quote": "The State is honoured to be selected to house this esteemed facility."
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "enovix-enovix-fab2-penang-malaysia",
+      "fields": {
+        "plant_name": "Enovix Fab2 (Penang)",
+        "operator": "Enovix",
+        "parent_company": "Enovix Corporation",
+        "country": "Malaysia",
+        "region": "Southeast Asia",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://www.mida.gov.my/media-release/enovix-corporation-inaugurates-its-usd1-2-billion-high-volume-manufacturing-facility-in-malaysia/",
+        "source_date": "2026-11-22",
+        "source_published_date": "2024-08-08"
+      },
+      "evidence": {
+        "status": ["S3", "S4"]
+      },
+      "confidence": 0.55,
+      "notes": "[T069] ADD, found via the Enovix Fremont row (enovix-enovix-fremont-fab-1-united-states, T016) whose notes say Fab1 production was relocated to Malaysia and that 'Fab2 (Penang, Malaysia)' is an active cell plant handled by 'other tasks/rows' - but no Penang row exists in factories_export.csv or removed.csv (checked by Grep for enovix/penang), so Fab2 is a missing physical site. Evidence: MIDA media release dated 8 Aug 2024 (S3): Fab2 'has already commenced the production of high-energy density batteries' (Enovix makes silicon-anode lithium-ion CELLS; the release says 'batteries'); InvestPenang release of the same event (S4) shows Penang state hosting the facility. Both releases give only the investment (USD1.2bn / RM5.8bn over 15 years) and NO GWh/MWh figure, so nameplate, installed, capacity_ref_year, start_year, chemistry, format and end_market are left null (no unconfirmed value carried). Press snippets seen but not opened (not used): 'up to four lines', '9-12 million batteries a year' per line - not evidence. Coordinates not located (the releases name only the state, not the district) so latitude/longitude null. Status operational per 2024-08 release; no 2025-26 production data fetched here (the T016 note cites Enovix's FY2025 10-K / Q3 FY2026 10-Q listing Penang manufacturing leases - not re-fetched by this task). Out of geography note: Enovix's other active plant, Routejade (Nonsan, South Korea), has no row either - South Korea is outside this task, listed in hand-off."
+    },
+    {
+      "action": "add",
+      "id": "inobat-inobat-voderady-pilot-line-slovakia",
+      "fields": {
+        "plant_name": "InoBat Voderady pilot line",
+        "operator": "InoBat",
+        "country": "Slovakia",
+        "region": "Europe",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://battery-news.de/en/2024/06/12/inobat-starts-battery-production-in-slovakia/",
+        "source_date": "2026-11-22",
+        "source_published_date": "2024-06-12"
+      },
+      "evidence": {
+        "status": ["S2"]
+      },
+      "confidence": 0.5,
+      "notes": "[T069] ADD (notable pilot line, well below 0.5 GWh). Battery-News.de 2024-06-12 (S2): 'InoBat has begun battery cell production in Voderady, Slovakia'; the same page says the pilot line was opened at the end of 2023 and gives output as 'up to 50,000 cells per year' (a cell count, not GWh) and does not state chemistry or format. A search-result snippet (not opened, not used as evidence) mentioned a '100 MWh pilot production facility' in Voderady - unverified, so nameplate/installed/ref_year are null. The GWh-scale InoBat projects are separate sites already in the DB or listed elsewhere: Gotion InoBat Batteries Surany, Slovakia (id gotion-inobat-batteries-gib-energyx-slovakia-inobat-urany-gib-energyx-slovakia-gigafactory-slovakia) and InoBat Uprija, Serbia (inobat-inobat-uprija-project-lion-serbia); the Battery-News 'Battery Cell Production in Europe as of October 2025' map (reproduced on p.3 of the industriAll Europe mapping report of 2026-02-20, https://news.industriall-europe.eu/documents/upload/2026/3/639086545592497424_Mapping_report_European_battery_industry_20.02.26_EN.pdf) lists 'InoBat Voderady 2020, 10 GWh' - an old plan, not sourced as built here, NOT carried into nameplate. No 2025-26 page on the pilot line fetched. parent_company left null (not confirmed on a fetched page)."
+    },
+    {
+      "action": "add",
+      "id": "avesta-holding-be-volt-seneffe-manage-belgium",
+      "fields": {
+        "plant_name": "BE-VOLT gigafactory (Seneffe-Manage)",
+        "operator": "AVESTA Holding (BE-VOLT)",
+        "parent_company": "AVESTA Holding",
+        "country": "Belgium",
+        "region": "Europe",
+        "status": "under_construction",
+        "project_state": "active",
+        "chemistry": "LFP",
+        "site_type": "single_site",
+        "source_url": "https://www.wallonia.be/en/node/13621",
+        "source_date": "2026-11-22",
+        "source_published_date": "2026-08-06"
+      },
+      "evidence": {
+        "status": ["S1"],
+        "chemistry": ["S1b"]
+      },
+      "confidence": 0.4,
+      "notes": "[T069] ADD at low confidence; cell-vs-pack scope UNRESOLVED, so nameplate and capacity_ref_year are left null (D-026 logic). Wallonia.be (S1, page date 06.08.2026 read as 6 Aug 2026; day/month order inferred from Belgian format and the 'permit August 2025 ... construction has begun' context): single permit for the factory at Seneffe-Manage granted Aug 2025 and 'construction work has begun' -> under_construction (works confirmed). Same page (S1c): 'initial capacity of 3 GWh per year, the aim is to reach 10 GWh by 2030' - but it calls the product 'LFP batteries' (S1b), not cells. Earlier open/teaser reports (MarkLines 2022-24, not opened by me; seen only as search snippets) describe the Seneffe-Manage BE-VOLT site as the 'first battery PACK gigafactory in Belgium, 3GWh/year', while a June 2024 AVESTA announcement (snippet only) describes a separate LFP CELL gigafactory (5 GWh initial) - so the 3/10 GWh figures may be PACK capacity. Against that, the Battery-News 'Battery Cell Production in Europe as of October 2025' map (industriAll report 2026-02-20 p.3, link in the InoBat row) lists 'Seneffe-Manage, 202X, 3 GWh' among CELL sites - the map text is an image, not machine-quotable, so not used as a source. CLAUDE.md excludes pure pack plants: lead should keep this row only if a company/Walloon source confirms cell lines at Seneffe-Manage; otherwise remove as not_cell. 3 GWh (initial) / 10 GWh (aim by 2030) are recorded here only, not as nameplate. The earlier AVESTA/ABEE Romvolt Galati (Romania) row (abee-abee-romvolt-galati-romania, cancelled) is a different site. Coordinates null. ESCALATE: cell vs pack at Seneffe-Manage unresolved; needs AVESTA press release or the Walloon single-permit (permis unique) description."
+    }
+  ]
+}

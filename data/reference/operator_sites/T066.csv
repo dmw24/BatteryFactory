@@ -1,0 +1,53 @@
+operator,site_name,city,country,source_url,matched_id,excluded_reason
+ENERGEE (吉曜通行; Geely cell unit),Tonglu base,Tonglu (Hangzhou),China,https://www.xchuxing.com/article/50307,geely-technology-group-geely-tonglu-power-battery-project-china,
+ENERGEE (吉曜通行; Geely cell unit),Quzhou base (Zeekr / VREMT-Jidian),Quzhou,China,https://www.36kr.com/p/3313833305352201,zeekr-vremt-weirui-jidian-factory-zeekr-golden-brick-quzhou-cell-plant-china,
+ENERGEE (吉曜通行; Geely cell unit),Jianhu base (Yaoning Shanggang),Jianhu (Yancheng),China,https://www.36kr.com/p/3313833305352201,yao-ning-new-energy-jianhu-yaoning-new-energy-technology-yaoning-new-energy-jianhu-shanggang-base-china,
+ENERGEE (吉曜通行; Geely cell unit),Ganzhou base (Geely Ganzhou power battery project),Ganzhou,China,https://www.marklines.com/en/news/253909,geely-technology-group-geely-ganzhou-power-battery-project-china,
+ENERGEE (吉曜通行; Geely cell unit),Shangrao base,Shangrao,China,https://www.36kr.com/p/3313833305352201,,no_open_source (named as a base in 36Kr 2025-05-30 and Huxiu 2026-09-15; no project page/capacity found in 3 searches; SVOLT Shangrao is a different operator)
+ENERGEE (吉曜通行; Geely cell unit),Yingtan base,Yingtan,China,https://www.36kr.com/p/3313833305352201,,no_open_source (named as a base only; no project page/capacity found in 2 searches)
+ENERGEE (吉曜通行; Geely cell unit),Ningguo base (Ningguo Times New Energy),Ningguo (Xuancheng),China,https://www.xuancheng.gov.cn/OpennessContent/download/2751706.html,ningguo-times-new-energy-ningguo-12gwh-power-battery-plant-china,
+ENERGEE (吉曜通行; Geely cell unit),Zaozhuang base (Shandong Geely Sunwoda Power Battery; adjacent to Sunwoda Zaozhuang),Zaozhuang,China,https://www.news.cn/local/20260814/8fec4087eaaa465eaae7ae9fcf5d29b7/c.html,sunwoda-evb-sunwoda-electronic-sunwoda-zaozhuang-plant-china,
+ENERGEE (吉曜通行; Geely cell unit),Chongqing Yaoning plant (not among the eight named base cities; being sold to CATL),Chongqing,China,https://www.cls.cn/detail/2482822,chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china,
+Inpower Battery (因湃电池; GAC),Panyu Intelligent Manufacturing Base,Guangzhou (Panyu),China,https://www.bjnews.com.cn/detail/1782356902129555.html,inpower-battery-inpower-panyu-intelligent-manufacturing-base-china,
+Yuanhang Jinli (远航锦锂),Yancheng Yandu cell plant,Yancheng (Yandu),China,https://www.itdcw.com/news/qiye/0R013C232023.html,jiangsu-yuanhang-jinli-new-energy-yuanhang-jinli-yancheng-yandu-cell-plant-china,
+Rongsheng Mengguli (荣盛盟固利),Tianjin Baodi manufacturing base,Tianjin (Baodi),China,https://www.163.com/money/article/I897UMM4002590RK.html,tianjin-rongsheng-mengguli-new-energy-mengguli-tianjin-baodi-manufacturing-base-china,
+Rongsheng Mengguli (荣盛盟固利),Nanjing base (12 GWh phase 1; construction start Sept 2020),Nanjing,China,https://www.163.com/money/article/I897UMM4002590RK.html,,stalled_unverified (2023 analyst piece says planned production end-2021 and quotes staff that the project was divested; no open company/government source to establish status or project_state)
+Rongsheng Mengguli (荣盛盟固利),Chongqing power battery base (signed 2021),Chongqing,China,https://www.163.com/money/article/I897UMM4002590RK.html,,not_a_plant (signing only; no site works reported; staff quoted as saying cancelled)
+Rongsheng Mengguli (荣盛盟固利),Liuzhou (Guangxi) PACK factory 2 GWh,Liuzhou,China,https://www.163.com/money/article/I897UMM4002590RK.html,,pack_only
+Great Power (鹏辉能源),12 DB rows (T062 coverage check; no new site searched),various,China,,great-power-great-power-changzhou-plant-china,coverage_check_only (other Great Power ids listed in data/reference/maker_coverage_T062.csv)
+Higee / Jiangsu Higee Energy (海基新能源; Baichuan subsidiary),ESS lithium cell maker,,China,https://pitchhub.36kr.com/project/2060271990388614,,no_open_source (only a 36Kr project page stating cumulative shipments >2 GWh; no plant or capacity; below size threshold; not to be confused with Hithium 海辰)
+Narada Power (南都电源),Anhui Nandu Huatuo Jieshou plant,Jieshou,China,,narada-power-anhui-nandu-huatuo-jieshou-plant-china,
+Narada Power (南都电源),Jiuquan storage cell base,Jiuquan,China,,narada-power-jiuquan-narada-wholly-owned-subsidiary-narada-jiuquan-storage-cell-base-jiuquan-narada-smart-energy-storage-manufacturing-base-china,
+Narada Power (南都电源),Hangzhou/Fuyang lithium cell base,Hangzhou (Fuyang),China,,narada-power-nandu-power-nandu-power-narada-hangzhou-fuyang-lithium-cell-base-china,
+Narada Power (南都电源),Hangzhou Lin'an plant,Hangzhou (Lin'an),China,,narada-power-zhejiang-narada-power-source-co-ltd-narada-hangzhou-lin-an-plant-china,
+Shuangdeng (双登),Jiangyan (Taizhou) storage cell project,Taizhou (Jiangyan),China,,shuangdeng-group-co-ltd-shuangdeng-new-energy-storage-cell-project-jiangyan-taizhou-china,
+Shuangdeng (双登),Xuyi 12 GWh semi-solid AIDC cell project,Xuyi,China,,shuangdeng-group-co-ltd-shuangdeng-xuyi-semi-solid-aidc-cell-project-china,
+Tianneng (天能),Changxing (South Taihu) lithium battery base,Huzhou (Changxing),China,,tianneng-new-energy-huzhou-co-ltd-zhejiang-tianneng-energy-storage-co-tianneng-changxing-south-taihu-lithium-battery-base-china,
+Chilwee (超威),Changxing lithium cell plant,Huzhou (Changxing),China,,chilwee-chaowei-group-chilwee-changxing-lithium-cell-plant-china,
+Chilwee (超威),Anqing Chaoren sodium-ion plant phase I,Anqing,China,,anqing-chaoren-energy-technology-co-ltd-chaowei-anqing-chaoren-sodium-ion-battery-plant-phase-i-china,
+Phylion (星恒),Suzhou manufacturing base,Suzhou,China,,phylion-battery-xingheng-power-co-ltd-phylion-suzhou-plant-suzhou-manufacturing-base-china,
+Phylion (星恒),Chuzhou plant,Chuzhou,China,,phylion-battery-xingheng-power-phylion-chuzhou-plant-china,
+Cosmx (珠海冠宇),Zhuhai headquarters plant,Zhuhai,China,,zhuhai-cosmx-battery-co-ltd-cosmx-zhuhai-plant-zhuhai-headquarters-polymer-lithium-ion-battery-base-china,
+Cosmx (珠海冠宇),Chongqing plant,Chongqing,China,,zhuhai-cosmx-battery-cosmx-chongqing-plant-china,
+CBAK / BAK (中科锂电 / 比克),Nanjing plant (Phase I/II),Nanjing,China,,cbak-energy-nanjing-plant-china,
+CBAK / BAK (中科锂电 / 比克),Nanjing Gaochun 12 GWh sodium-ion project,Nanjing (Gaochun),China,,cbak-energy-nanjing-gaochun-sodium-ion-plant-china,
+Tenpower (天鹏),Zhangjiagang cell plant,Zhangjiagang,China,,jiangsu-tianpeng-power-supply-co-tenpower-tianpeng-power-zhangjiagang-cell-plant-china,
+DMEGC (横店东磁),Dongyang lithium cell plant,Dongyang,China,,hengdian-group-dmegc-magnetics-co-ltd-hengdian-dmegc-dongyang-lithium-cell-plant-china,
+Changhong Sanjie (长虹三杰),Taixing cell plant (Jiangsu Sunpower),Taixing,China,,jiangsu-sunpower-co-ltd-changhong-sanjie-jiangsu-sunpower-changhong-sanjie-taixing-cell-plant-china,
+Highstar (海四达),Zhuhai energy storage battery base (Fushan),Zhuhai,China,,guangdong-highstar-haisida-power-highstar-zhuhai-energy-storage-battery-base-fushan-industrial-park-china,
+Highstar (海四达),Qidong plant,Qidong,China,,jiangsu-highstar-battery-manufacturing-co-ltd-highstar-battery-highstar-qidong-plant-china,
+JEVE (捷威动力),Changxing (Huzhou) 12 GWh base,Huzhou (Changxing),China,,jeve-jeve-changxing-huzhou-battery-base-china,
+Tafel (塔菲尔),Nanjing plant,Nanjing,China,,jiangsu-tafel-new-energy-jiangsu-tafel-new-energy-nanjing-plant-china,
+HiNa Battery (中科海钠),Fuyang plant,Fuyang,China,,hina-battery-hina-fuyang-plant-china,
+HiNa Battery (中科海钠),Wuhan Jiangxia 10 GWh sodium-ion base,Wuhan (Jiangxia),China,,hina-battery-hina-wuhan-jiangxia-sodium-ion-base-china,
+Veken (维科技术),Nanchang industrial park sodium battery base,Nanchang,China,,nanchang-veken-battery-co-ltd-veken-nanchang-industrial-park-nanchang-veken-sodium-battery-base-china,
+Veken (维科技术),Ningbo sodium-ion plant,Ningbo,China,,veken-technology-veken-ningbo-sodium-ion-plant-china,
+Microvast (微宏动力),Huzhou plant,Huzhou,China,,microvast-power-systems-huzhou-co-ltd-microvast-huzhou-plant-china,
+DFD (多氟多),Nanning plant (Guangxi Ningfu 20 GWh),Nanning,China,,dfd-new-energy-guangxi-ningfu-new-energy-technology-co-ltd-dfd-nanning-plant-guangxi-ningfu-new-energy-20gwh-lithium-battery-project-china,
+DFD (多氟多),Jiaozuo plant,Jiaozuo,China,,do-fluoride-new-energy-technology-co-ltd-dfd-dfd-jiaozuo-plant-do-fluoride-new-energy-henan-base-china,
+Yadea (雅迪),lithium/sodium cell plants (if any),,China,,,not_checked_budget (DB has no Yadea row; no search run; Yadea is mainly a pack/vehicle maker)
+Carnet (卡耐新能源),cell plants,,China,,,no_open_source (one combined search with Lixin/Anchi/Zhongtian returned nothing on any of them; not otherwise checked)
+Lixin Energy (力信能源),cell plants,,China,,,no_open_source (as above)
+Anchi (安驰新能源),cell plants,,China,,,no_open_source (as above)
+Zhongtian Energy Storage (中天储能),cell plants,,China,,,no_open_source (as above)
+Xingchu Century / Rongjie / Guoxia (兴储世纪 / 融捷 / 果下),cell plants,,China,,,not_checked_budget (not searched; Guoxia likely pack-only)

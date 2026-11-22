@@ -1,0 +1,430 @@
+{
+ "task": "T066",
+ "verified_on": "2026-11-22",
+ "sources": {
+  "S1": {
+   "url": "https://www.36kr.com/p/3313833305352201",
+   "publisher": "36Kr (最前线), 吉曜通行郑鑫:到2027年公司将形成70GWh的产能规模",
+   "published": "2025-05-30",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "目前，这家公司已经拥有桐庐、衢州、建湖、赣州、上饶、鹰潭、宁国、枣庄8大生产基地。"
+  },
+  "S2": {
+   "url": "https://www.huxiu.com/article/4891456.html",
+   "publisher": "Huxiu (虎嗅), article on Geely cell unit ENERGEE / 吉曜通行 capacity cuts (page timestamp 2026-09-15)",
+   "published": "2026-09-15",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "吉曜通行在桐庐、衢州、建湖、赣州、上饶、鹰潭、宁国、枣庄8个城市的11个制造基地"
+  },
+  "S3": {
+   "url": "https://www.xuancheng.gov.cn/OpennessContent/download/2751706.html",
+   "publisher": "Xuancheng Municipal Ecology and Environment Bureau, pre-approval notice of the EIA report for the Ningguo Times New Energy Co., Ltd. Geely Ningguo 12GWh power battery project",
+   "published": "2023-06-16",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "项目建成达产后，可形成年产12GWh动力电池和模组PACK产品的生产规模。"
+  },
+  "S4": {
+   "url": "https://www.hnfvc.edu.cn/Upload/znzzyzbxy/pdf/2026/05/18/045bf16e3101476c86388de3c9156fcb/世界500强吉利集团-宁国时代新能源招聘简章.pdf",
+   "publisher": "Ningguo Times New Energy Co., Ltd. (Geely Technology Group) campus-recruitment brochure hosted by a vocational college (date = upload date in URL path; text is inside page images, read via PDF page render)",
+   "published": "2026-05-18",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "项目于2024年5月投产，规划产能12GWh，建设5条全自动产线，可兼容三元及磷酸铁锂电池的生产"
+  },
+  "S5": {
+   "url": "https://www.marklines.com/en/news/253909",
+   "publisher": "MarkLines (teaser; only the opening text visible without login), Geely commences construction of first stage power battery project in Ganzhou, Jiangxi",
+   "published": "2021-05-20",
+   "accessed": "2026-11-22",
+   "language": "en",
+   "quote": "Geely commences construction of first stage power battery project in Ganzhou, Jiangxi ... It is planned to achieve an annual capacity of 42GWh"
+  },
+  "S6": {
+   "url": "https://www.xchuxing.com/article/50307",
+   "publisher": "XCHUXING (新出行), Tonglu county and Geely Technology Group sign power-battery investment agreement (page shows no publication date; asset URLs contain 2022/05)",
+   "published": null,
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "日前，桐庐县与吉利科技集团签署动力电池投资合作协议。 ... 年产能 12GWh 的动力电池项目"
+  },
+  "S7": {
+   "url": "https://www.cls.cn/detail/2482822",
+   "publisher": "Cailian Press (CLS, 财联社), Geely's Chongqing Yaoning battery plant acquisition by CATL (page date not read; circa Sept 2026)",
+   "published": null,
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "重庆耀宁新能源工厂总投资约85亿元，规划产能30GWh ... 原计划2026年12月试生产、2027年一季度正式投产"
+  },
+  "S8": {
+   "url": "https://www.bjnews.com.cn/detail/1782356902129555.html",
+   "publisher": "The Beijing News (新京报), Inpower Battery at a trade show (German local time 23 June 2026), article timestamp 2026-06-25",
+   "published": "2026-06-25",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "广州建成百亿级智能制造基地,目前年产能达18GWh,2027年提升至36GWh,规划总产能超60GWh"
+  },
+  "S9": {
+   "url": "https://caifuhao.eastmoney.com/news/20260401095949985125860",
+   "publisher": "Eastmoney caifuhao (author-posted finance content, i.e. aggregator-tier), Inpower Panyu plant, published 2026-04-01",
+   "published": "2026-04-01",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "工厂规划总产能为36GWh，首期6GWh产能已于2023年12月竣工投产。 ... 截至2024年10月，已建成两条共计12GWh的量产线"
+  },
+  "S10": {
+   "url": "https://www.itdcw.com/news/qiye/0R013C232023.html",
+   "publisher": "itdcw (电池网), 远航锦锂储能电芯一期全面投产暨二期项目签约",
+   "published": "2023-08-20",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "航锦锂储能电芯项目一期总投资30亿元，目前已全面投产，总产能达5GWh ... 总投资50亿元的远航锦锂二期项目正式签约。"
+  },
+  "S11": {
+   "url": "https://www.sohu.com/a/903926929_491253",
+   "publisher": "Sohu Auto (搜狐汽车), 这家电池厂进入国内装机量TOP15 (Yuanhang Jinli profile)",
+   "published": "2025-06-13",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "总部位于江苏盐城，工厂占地面积200多亩 ... 实现年5GWh的方形铝壳电芯生产能力 ... 总体项目建设计划于2027年全部完成，投资规模达100亿元。"
+  },
+  "S12": {
+   "url": "https://www.163.com/money/article/I897UMM4002590RK.html",
+   "publisher": "NetEase Finance (网易财经, 清流·新能源), 荣盛发展收购新能源资产盟固利，到底是不是一笔好买卖?",
+   "published": "2023-06-27",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "其中一期（3GWh）项目于2018年10月建成投产，二期（6GWh）于2019年6月已开工建设，盟固利曾规划二期项目于2020年完工投产，三期（6GWh）则于2019年10月启动；"
+  },
+  "S13": {
+   "url": "https://www.163.com/money/article/I897UMM4002590RK.html",
+   "publisher": "NetEase Finance (网易财经, 清流·新能源), 荣盛发展收购新能源资产盟固利 (installed-capacity sentence)",
+   "published": "2023-06-27",
+   "accessed": "2026-11-22",
+   "language": "zh",
+   "quote": "而在盟固利的官网上，该公司目前产能也显示仅为5.5GWh，具体天津宝坻一期3GWh、广西柳州Pack工厂2GWh等早期建设的项目。"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "inpower-battery-inpower-panyu-intelligent-manufacturing-base-china",
+   "fields": {
+    "plant_name": "Inpower Panyu Intelligent Manufacturing Base (GAC smart-connected NEV park, Panyu, Guangzhou)",
+    "operator": "Inpower Battery (因湃电池科技有限公司)",
+    "parent_company": "GAC Group (广汽集团)",
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": 2023,
+    "nameplate_capacity_gwh": 36,
+    "capacity_ref_year": 2027,
+    "installed_capacity_gwh": 18,
+    "installed_as_of": "2026-06-25",
+    "capacity_by_year_json": "{\"2023\": 6, \"2024\": 12, \"2026\": 18, \"2027\": 36}",
+    "chemistry": null,
+    "cell_format": null,
+    "end_market": "mixed",
+    "jv_partners": null,
+    "source_url": "https://www.bjnews.com.cn/detail/1782356902129555.html",
+    "source_date": "2026-11-22",
+    "source_published_date": "2026-06-25"
+   },
+   "evidence": {
+    "status": [
+     "S8",
+     "S9"
+    ],
+    "start_year": [
+     "S9"
+    ],
+    "nameplate_capacity_gwh": [
+     "S8",
+     "S9"
+    ],
+    "capacity_ref_year": [
+     "S8"
+    ],
+    "installed_capacity_gwh": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8",
+     "S9"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[T066 NEW; T062 missing lead, ENERGEE/Inpower family] GAC's cell unit Inpower; ranked 12th in CABIA 2025 domestic power-battery installs (T062). One site: Panyu, Guangzhou, inside the GAC smart-connected NEV industrial park (666 mu, RMB 10.9bn per S9 text; not quoted). Phases: 一期 6 GWh completed and in production Dec 2023 (S9); two lines = 12 GWh built by Oct 2024 (S9); 'currently 18 GWh annual capacity, 36 GWh in 2027' (S8, 2026-06-25); S9 (2026-04-01) says the planned total is 36 GWh with all of it expected built in 2026 - conflict on timing, later source wins: ref_year 2027 (S8). The '规划总产能超60GWh' in S8 is an undated long-term aspiration and is NOT in nameplate (D-015); 36 GWh is the stated phased plan. installed 18 GWh at 2026-06-25: installed basis: press (S8, company-attributed '年产能', 'currently'); whether all 18 GWh is commissioned and producing is not separately stated. capacity_by_year_json steps: 2023 6 (S9), 2024 12 (S9, Oct 2024 lines built), 2026 18 (S8), 2027 36 (S8 plan). Chemistry/format not stated in the fetched pages (Inpower is known for LFP/NMC prismatic and 'Magazine' lines but not evidenced here) -> null. end_market mixed: S9 calls it Guangzhou's largest 动力电池+储能电池 project (text not quoted). Not a duplicate: grepped factories_export.csv, data/removed.csv and data/patches (incl. T064, which exists and does not contain it) for Inpower/因湃/GAC/Panyu/番禺 on 2026-11-22; 'Greater Bay Technology (Juwan)' is a different GAC-owned company (Nansha, in DB) and Great Power Guangzhou Panyu is a different operator. S9 is an author-posted caifuhao page (aggregator-tier); the 36 GWh figure is corroborated by S8 (Beijing News). No coordinates (site not located). Single-site confidence 0.7."
+  },
+  {
+   "action": "add",
+   "id": "ningguo-times-new-energy-ningguo-12gwh-power-battery-plant-china",
+   "fields": {
+    "plant_name": "Ningguo Times New Energy - Geely Ningguo 12 GWh power battery plant (Ningguo Economic Development Zone, Xuancheng, Anhui)",
+    "operator": "Ningguo Times New Energy Co., Ltd. (宁国时代新能源有限公司)",
+    "parent_company": "Geely Technology Group (吉利科技集团, Lixin Energy); ENERGEE (吉曜通行) base",
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": 2024,
+    "nameplate_capacity_gwh": 12,
+    "capacity_ref_year": 2023,
+    "installed_capacity_gwh": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "chemistry": "LFP",
+    "cell_format": null,
+    "end_market": "EV",
+    "jv_partners": null,
+    "source_url": "https://www.xuancheng.gov.cn/OpennessContent/download/2751706.html",
+    "source_date": "2026-11-22",
+    "source_published_date": "2023-06-16"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "start_year": [
+     "S4"
+    ],
+    "nameplate_capacity_gwh": [
+     "S3",
+     "S4"
+    ],
+    "capacity_ref_year": [
+     "S3"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[T066 NEW; ENERGEE completeness] ENERGEE (吉曜通行) lists Ningguo among its bases (S1, S2). Site = Ningguo Economic Development Zone, Xuancheng, Anhui (EIA notice S3: RMB 7.2bn, 522 mu per S4 text). Capacity: EIA notice S3 (2023-06-16) '年产12GWh动力电池和模组PACK产品' and the company's own brochure S4 '规划产能12GWh, 5条全自动产线' agree on 12 GWh. The EIA wording bundles power battery with module/PACK without a cell-only split (D-026 strict reading would null nameplate), but the company brochure gives 12 GWh as the plant's battery capacity with cell-assembly lines, so 12 is kept as cell capacity - flagged for the lead. No phases stated; ref_year 2023 = fallback, searched (EIA publication year; no 达产 date). Status operational: S4 says production started May 2024 (company brochure; the PDF text sits in images, the auditor may need to render page 1; an undated 2024-01 Ningguo government report seen only in a search-result summary also said 'formal mass production in May' - not fetched, not used). start_year 2024 from S4. Chemistry LFP: S4 describes it as an LFP power-battery project, lines compatible with ternary. cell_format not stated -> null. end_market EV from the S4 vehicle table (Zeekr, Lynk & Co, Galaxy). installed null (no GWh-in-production figure; S4 says 5 automatic lines). Not a duplicate: grepped factories_export.csv/removed.csv for Ningguo/宁国/Xuancheng/Times Geely/Geely (no Ningguo row; the only Xuancheng hit is the Guangde plant). Not the CATL-Geely 'Times Geely' entity in the Yibin hub (different site; Ningguo Times is 100% Geely-system per S4). No coordinates. ESCALATE: 12 GWh plant at 0.55 (<0.6) - needs a second open source on production status (company news or Ningguo government 2024-25)."
+  },
+  {
+   "action": "add",
+   "id": "jiangsu-yuanhang-jinli-new-energy-yuanhang-jinli-yancheng-yandu-cell-plant-china",
+   "fields": {
+    "plant_name": "Yuanhang Jinli (Genlead) Yancheng Yandu cell plant",
+    "operator": "Jiangsu Yuanhang Jinli New Energy Technology Co., Ltd. (江苏远航锦锂新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": null,
+    "nameplate_capacity_gwh": 5,
+    "capacity_ref_year": 2025,
+    "installed_capacity_gwh": 5,
+    "installed_as_of": "2025-06-13",
+    "capacity_by_year_json": null,
+    "chemistry": "LFP",
+    "cell_format": "prismatic",
+    "end_market": "mixed",
+    "jv_partners": null,
+    "source_url": "https://www.sohu.com/a/903926929_491253",
+    "source_date": "2026-11-22",
+    "source_published_date": "2025-06-13"
+   },
+   "evidence": {
+    "status": [
+     "S10",
+     "S11"
+    ],
+    "nameplate_capacity_gwh": [
+     "S10",
+     "S11"
+    ],
+    "capacity_ref_year": [
+     "S11"
+    ],
+    "installed_capacity_gwh": [
+     "S10",
+     "S11"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T066 NEW; T062 missing lead] Yuanhang Jinli, 14th in CABIA 2025 domestic power-battery installs (T062; Jan-May 2025 1.07 GWh, all LFP for commercial vehicles per S11 text). HQ and plant in Yancheng, Jiangsu (Yandu district per a Jiangsu NDRC energy-saving-review page title, 2023-06-09, which returned HTTP 404 here, so not used as evidence). Phase 1 (RMB 3bn): fully in production, total capacity 5 GWh (S10, 2023-08-20); S11 (2025-06-13) repeats 5 GWh annual capacity of square aluminium-shell cells, with 324Ah vehicle-storage cells in mass production for heavy trucks and 314Ah ESS cells delivering. Phase 2 (RMB 5bn) signed 2023-08-19 (S10) with no GWh stated; whole project due complete 2027 at RMB 10bn (S11), also no GWh. nameplate = 5 (only stated GWh figure) therefore understates the full plan; ref_year 2025 = fallback, searched (S11 publication year; phases 2+ undated in GWh). CONFLICT / not resolved: the company website (genleadpower.com/about.html, HTTP 503 here) was summarised by a search tool as stating 15 GWh planned and the company profile page 45 GWh; a Solarbe headline of 2023-05-09 ('远航锦锂目标2025年储能电池产能超50GWh') appeared only in search results. None could be opened so none is used; nameplate may be 3-9x higher. installed 5 GWh at 2025-06-13: installed basis: company/press (S11 states 'achieved annual capacity 5 GWh'); a dated floor, not a current figure. start_year null (S10 only says fully in production by Aug 2023). parent_company null (shareholder names only from a search summary). chemistry LFP and end_market mixed from S11 text (not quoted); cell_format prismatic from S11 quote ('方形铝壳'). Not a duplicate: grepped factories_export.csv, removed.csv, patches for 远航/锦锂/Yuanhang/Genlead/盐都/Yandu (only false hit: Xinjiang Jinlinhui). No coordinates. ESCALATE: capacity plan (5 GWh stated vs possible 15-45 GWh) needs the company website or Yancheng government source."
+  },
+  {
+   "action": "add",
+   "id": "tianjin-rongsheng-mengguli-new-energy-mengguli-tianjin-baodi-manufacturing-base-china",
+   "fields": {
+    "plant_name": "Rongsheng Mengguli Tianjin Baodi manufacturing base",
+    "operator": "Tianjin Rongsheng Mengguli New Energy Technology Co., Ltd. (天津荣盛盟固利新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": 2018,
+    "nameplate_capacity_gwh": 15,
+    "capacity_ref_year": 2020,
+    "installed_capacity_gwh": 3,
+    "installed_as_of": "2023-06-27",
+    "capacity_by_year_json": "{\"2018\": 3}",
+    "chemistry": "NMC",
+    "cell_format": null,
+    "end_market": "EV",
+    "jv_partners": null,
+    "source_url": "https://www.163.com/money/article/I897UMM4002590RK.html",
+    "source_date": "2026-11-22",
+    "source_published_date": "2023-06-27"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "start_year": [
+     "S12"
+    ],
+    "nameplate_capacity_gwh": [
+     "S12"
+    ],
+    "capacity_ref_year": [
+     "S12"
+    ],
+    "installed_capacity_gwh": [
+     "S13"
+    ],
+    "capacity_by_year_json": [
+     "S12"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[T066 NEW; T062 missing lead] Rongsheng Mengguli (formerly CITIC Guoan Mengguli; ranked 12th in CABIA 2025 ternary installs, T062). Only cell plant with open evidence: Tianjin Baodi manufacturing base. Phases per S12 (NetEase Finance 2023-06-27, an analyst piece, not a company document): 一期 3 GWh built and in production Oct 2018; 二期 6 GWh construction started June 2019, company had planned completion in 2020, no completion news; 三期 6 GWh launched Oct 2019, no construction news. nameplate 15 = 3+6+6, ref_year 2020: latest dated phase (planned 2020); remainder undated (D-021) - a stale plan: phases 2-3 may never have been built. installed 3 GWh at 2023-06-27 (dated floor, older than 18 months; installed basis: company official website as relayed by S13: total shown 5.5 GWh = Baodi phase 1 3 GWh + Liuzhou PACK plant 2 GWh + other; only Baodi's 3 GWh is cells) - NOT a current figure; a search-result summary elsewhere said the base 'currently has 6.3 GWh' (not opened, so not used) which would mean phase 2 was partly built: conflict unresolved. Chemistry NMC: Mengguli appears in the CABIA ternary list (T062 note), not stated in S12. cell_format null (pouch suspected from a search summary, not evidenced). end_market EV inferred from 动力电池/CABIA car-installs ranking, not quoted. parent_company null: Rongsheng Development announced a plan to acquire 68.38% (2023-05 headline, outcome not checked). Other Mengguli sites in S12: Nanjing 12 GWh phase 1 (construction began end-Sept 2020, planned production end-2021, project period 2020-2025; reporter says staff told him it was divested/closed, subsidiary listed as in preparation/closed - unverified) -> NOT added, listed in the operator CSV as excluded (stalled, unverified); Chongqing (signed 2021, no construction reported, worker said cancelled) -> not a plant; Liuzhou Guangxi 2 GWh = PACK factory -> excluded. Not a duplicate: grepped factories_export.csv/removed.csv for Mengguli/盟固利/荣盛/Baodi/宝坻/CITIC Guoan (no match). No coordinates. ESCALATE: ownership/status of phases 2-3 and current output need a Rongsheng Development filing or Baodi government source; a 2024 company-intro PDF (mgldl.com.cn) returned HTTP 503."
+  },
+  {
+   "action": "add",
+   "id": "geely-technology-group-geely-ganzhou-power-battery-project-china",
+   "fields": {
+    "plant_name": "Geely Ganzhou power battery project (phase 1 12 GWh of a planned 42 GWh; ENERGEE Ganzhou base)",
+    "operator": "Geely Technology Group (吉利科技集团) - ENERGEE (吉曜通行) Ganzhou base",
+    "parent_company": "Zhejiang Geely Holding Group (吉利控股集团)",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": 2021,
+    "start_year": null,
+    "nameplate_capacity_gwh": 42,
+    "capacity_ref_year": 2021,
+    "installed_capacity_gwh": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "chemistry": null,
+    "cell_format": null,
+    "end_market": "EV",
+    "jv_partners": null,
+    "source_url": "https://www.marklines.com/en/news/253909",
+    "source_date": "2026-11-22",
+    "source_published_date": "2021-05-20"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "nameplate_capacity_gwh": [
+     "S5"
+    ],
+    "capacity_ref_year": [
+     "S5"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[T066 NEW; ENERGEE completeness] ENERGEE names Ganzhou as one of its production bases (S1, S2) but no per-base data is published. Only dated evidence: MarkLines teaser 2021-05-20 (S5): Geely Technology Group (investor) commenced construction of the first-stage power battery project in Ganzhou, Jiangxi, planned to reach 42 GWh annual capacity. Search-tool summaries (not fetched, not evidence) add: phase 1 = 12 GWh, RMB 30bn total, cells+module+PACK, built in cooperation with Farasis, a second 30 GWh phase. Status announced under D-020: a 2021 construction-start report with no later site evidence, and ENERGEE's 2025 base list does not say whether Ganzhou is producing. Nothing after 2021 was found (freshness: silent for 5 years - likely stalled/rescoped; ENERGEE cut a >176 GWh multi-site plan to ~70 GWh, S2). nameplate 42 is the 2021 site plan (undated beyond that, cells+modules+PACK scope per the summaries - D-026 would null it if confirmed bundled; kept because S5 states the figure as annual capacity of the project) and is probably overstated; ref_year 2021 = fallback, searched. DUPLICATE RISK: Farasis Energy (Gan Zhou) has its own 30 GWh plant in DB (farasis-energy-farasis-energy-ganzhou-plant-30-gwh-new-energy-battery-project-china, own investment, construction 2022) and an older ~5 GWh base (farasis-energy-ganzhou-original-base-china). The Geely project has a different investor (Geely Technology Group, 2021) but Farasis cooperates on it; if the lead finds they are the same physical site, merge into the Farasis row. Not otherwise present: grepped factories_export.csv/removed.csv for Geely/吉利/Ganzhou/赣州/Yaoning. No coordinates. ESCALATE: 42 GWh at 0.3 (>=10 GWh, no current source) - needs Ganzhou government/Geely source or removal."
+  },
+  {
+   "action": "add",
+   "id": "geely-technology-group-geely-tonglu-power-battery-project-china",
+   "fields": {
+    "plant_name": "Geely Tonglu power battery project (12 GWh, Tonglu Economic Development Zone; ENERGEE Tonglu base)",
+    "operator": "Geely Technology Group (吉利科技集团) - ENERGEE (吉曜通行) Tonglu base",
+    "parent_company": "Zhejiang Geely Holding Group (吉利控股集团)",
+    "country": "China",
+    "region": "China",
+    "status": "announced",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": null,
+    "nameplate_capacity_gwh": 12,
+    "capacity_ref_year": 2022,
+    "installed_capacity_gwh": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "chemistry": null,
+    "cell_format": null,
+    "end_market": "EV",
+    "jv_partners": null,
+    "source_url": "https://www.xchuxing.com/article/50307",
+    "source_date": "2026-11-22",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "nameplate_capacity_gwh": [
+     "S6"
+    ],
+    "capacity_ref_year": [
+     "S6"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[T066 NEW; ENERGEE completeness] ENERGEE lists Tonglu among its bases (S1, S2). Only project evidence: XCHUXING page (S6, undated): Tonglu County signed a power-battery investment cooperation agreement with Geely Technology Group, a 12 GWh/yr power battery project in the Tonglu Economic Development Zone, ~450 mu (from the fetch summary; 450 mu not in the quote). The page shows no date; its image paths contain 2022/05, so the signing is inferred to be about May 2022 - announced_year left null and capacity_ref_year 2022 is that inferred fallback ('ref_year: fallback, searched', publication year not shown on the page). No construction, trial-production or production news found for Tonglu (searched 2026-11-22) - silent since signing; ENERGEE's 2025 list calling it a base is the only later hint and gives no status. Status announced (D-020). Scope (cells vs cells+PACK) not stated. Not in DB: grepped factories_export.csv/removed.csv for Tonglu/桐庐/Geely. No coordinates. ESCALATE: 12 GWh announced at 0.3; check whether the lead wants a signed-agreement-only project (no construction evidence) kept."
+  },
+  {
+   "action": "add",
+   "id": "chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china",
+   "fields": {
+    "plant_name": "Chongqing Yaoning New Energy 30 GWh battery plant (Geely; sale to CATL approved 2026)",
+    "operator": "Chongqing Yaoning New Energy (重庆耀宁新能源)",
+    "parent_company": "Jiangsu Yaoning New Energy / ENERGEE (吉曜通行), Geely Holding; CATL acquiring",
+    "country": "China",
+    "region": "China",
+    "status": "under_construction",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": null,
+    "nameplate_capacity_gwh": 30,
+    "capacity_ref_year": 2026,
+    "installed_capacity_gwh": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "chemistry": null,
+    "cell_format": null,
+    "end_market": "EV",
+    "jv_partners": null,
+    "source_url": "https://www.cls.cn/detail/2482822",
+    "source_date": "2026-11-22",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "nameplate_capacity_gwh": [
+     "S7"
+    ],
+    "capacity_ref_year": [
+     "S7"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[T066 NEW; found while checking ENERGEE - outside the eight named base cities] CLS (S7): Chongqing Yaoning's factory, total investment ~RMB 8.5bn, planned capacity 30 GWh, trial production originally planned Dec 2026 and formal production Q1 2027; the page (about its sale to CATL) says Chongqing Yaoning is wholly owned by Jiangsu Yaoning, which is 82.912% owned by ENERGEE (from the fetch summary). Status under_construction is inferred (a built plant scheduled for trial production within weeks of the page date; no page gives site-works wording) - D-020 evidence is thin. Conflicts: other press seen only in search summaries says 18 GWh (and also 30 GWh) for this plant, and that SAMR approved CATL's acquisition in Sept 2026; none fetched. nameplate 30 (company-linked CLS text) kept, conflict in notes; ref_year 2026 = fallback, searched (page year; 2027 is start of formal production, not 达产). The CLS page date was not read (circa Sept 2026). Probably the Geely-Farasis Fuling (Chongqing) project that began construction in 2022 (search summaries) - not confirmed and no existing DB row (grepped Fuling/涪陵/Chongqing in factories_export.csv: none for Geely/Yaoning/Farasis). The acquisition may change the operator to CATL; the lead should re-check after closing. No coordinates. ESCALATE: 30 GWh under construction at 0.4 (>=10 GWh); needs the CATL/Geely acquisition announcement or Chongqing government source for capacity and status."
+  }
+ ]
+}
