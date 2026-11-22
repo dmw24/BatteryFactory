@@ -27,7 +27,7 @@ D-high credits full plans whose completion year is undated (ref year = source pu
 bound and is inflated in 2025, when many such sources were published. The consistent ~25–35% shortfall in 2023–24
 suggests real missing capacity (plants or undated phases), mostly in China. Check in progress: T062.
 
-## Why the gap is mostly definitional, not missing plants
+## Producing vs commissioned: why C sits below the IEA
 1. **Our series measure lines producing; the IEA credits full nameplate of every commissioned line.**
    Global cell output in 2025 was ~2.15 TWh — about 50–55% of the IEA's capacity figure. Our installed
    figures are usually the operator's effective capacity, which sits between the two.
