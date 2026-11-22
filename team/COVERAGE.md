@@ -11,7 +11,7 @@ added nothing ≥1 GWh that we did not already have.
 | Shandong, Hebei, Shanxi, Tianjin, Beijing, NE China | T042 | T048 | 2 passes |
 | Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Gansu, Tibet, Sichuan | T041 | T049 | 2 passes |
 | Guangdong, Fujian | T039 | T064 | 2 passes (3 announced adds, none operational) |
-| Jiangxi, Anhui, Hunan | T039/T040 | T065 (running) | |
+| Jiangxi, Anhui, Hunan | T039/T040 | T065 | 2 passes (3 small/announced adds); parts of Anhui light |
 | Chongqing, Shaanxi, Guangxi, Hainan, Inner Mongolia | T039/T041/T042 | — | **needs pass 2** |
 | Japan, South Korea | T027, T043 | T063 | 2 passes (3 small adds; capacities unsourced) |
 | Taiwan, SE Asia, India | T027, T043 | T053 | 2 passes |
