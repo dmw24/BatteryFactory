@@ -112,3 +112,14 @@ already list (dated capacity only from recent years) plus non-disclosing compani
 Output cross-checks: Benchmark 2025 cell production 2.2 TWh vs capacity 4.8 TWh (≈46% utilisation); our C (3.1 TWh)
 sits between output and benchmark capacity. Pipelines (BNEF 7.9 TWh announced for 2025, Benchmark >10 TWh for 2030)
 are not capacity. No open source gave an LFP/NMC capacity split.
+
+## Benchmark provenance check (owner question 2026-11-23)
+- IEA 2025 ">4 TWh": verified verbatim in the IEA GEVO 2026 PDF (open copy on cleanenergyministerial.org; iea.org itself
+  returns 403). IEA states "up roughly 30% compared to 2024", China >80%, EU and US 6–7% each; its data are "IEA
+  analysis based on data from Benchmark Mineral Intelligence" — so IEA and Benchmark are not independent checks.
+- IEA 2024 "3 TWh" and 2023 "around 2.5 TWh": IEA wording seen via secondary pages/search results (iea.org blocked).
+- IEA 2021/2022 (1,140 / 1,720) are NOT IEA figures — lead arithmetic from stated annual additions; approximate.
+- BNEF 2023 "close to 2,600 GWh", China 2023 "2.2 TWh" nameplate, 2024 "3.1 TWh fully commissioned"; Benchmark 2020
+  "around 734GWh", 2025 "4.8TWh": all string-matched on the publishers' own free pages.
+The round numbers are the publishers' own ("more than 4 TWh", "close to 2,600 GWh"): they publish rounded headlines,
+not plant-level tables (those sit behind subscriptions). Treat them as ±5–10%.

@@ -1,0 +1,10 @@
+SOURCE: https://www.cleanenergyministerial.org/content/uploads/2026/05/globalevoutlook2026.pdf (IEA Global EV Outlook 2026, chapter "Battery manufacturing and trade"; fetched 2026-11-23; figure 7.9 source: IEA analysis based on data from Benchmark Mineral Intelligence)
+                   Global nameplate manufacturing capacity for lithium‑ion batteries reached more
+                   than 4 TWh by the end of 2025, up roughly 30% compared to 2024. Year-on-year
+                   capacity growth was even faster in the European Union and the United States
+                   (at about 50%) than in China (at just over 25%). Capacity outside the largest
+                   production regions grew faster still, almost doubling between 2024 and 2025,
+                   driven largely by the opening of Envision AESC’s plant in Sunderland,
+                   United Kingdom, and investments in Southeast Asia. Nonetheless, global battery
+                   manufacturing capacity remains geographically concentrated. China accounts for
+                   over 80% of the global total, while the European Union and the United States
