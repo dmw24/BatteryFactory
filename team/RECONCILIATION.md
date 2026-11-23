@@ -25,7 +25,14 @@ Design nameplate of commissioned lines, ignoring utilisation — the IEA basis.
 
 D-high credits full plans whose completion year is undated (ref year = source publication year), so it is an upper
 bound and is inflated in 2025, when many such sources were published. The consistent ~25–35% shortfall in 2023–24
-suggests real missing capacity (plants or undated phases), mostly in China. Check in progress: T062.
+suggests real missing capacity, mostly in China. Checks since (T062–T073, 2026-11-23): second geographic passes in
+every Chinese province and region, the CABIA top-15 installers, MIIT 规范条件 lists (55/83 cell makers matched; the
+28 unmatched are small consumer/e-bike makers), open non-China trackers (~60 sites, 3 small adds) and a history fill
+for the 26 largest plants lacking a start year (histories confirmed, totals unchanged). ~45 plants were added, almost
+all announced/under construction or <15 GWh. Conclusion: the remaining 2023–24 shortfall is mainly undisclosed
+capacity at plants we already list (76 operational plants have no capacity figure; many large Chinese bases disclose
+only current, not historical, capacity), not missing plants. Official lists that would close it (miit.gov.cn,
+nrel.gov, METI) are unreachable from this environment.
 
 ## Producing vs commissioned: why C sits below the IEA
 1. **Our series measure lines producing; the IEA credits full nameplate of every commissioned line.**

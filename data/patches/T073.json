@@ -1,0 +1,194 @@
+{
+  "task": "T073",
+  "verified_on": "2026-11-23",
+  "sources": {
+    "S1": {
+      "url": "https://www.catl.com/en/news/6131.html",
+      "publisher": "CATL press release, first phase of Guiyang plant put into operation",
+      "published": "2023-10-29",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "At present, the first phase of the plant has officially kicked off production."
+    },
+    "S2": {
+      "url": "https://www.yicaiglobal.com/news/20230424-08-catl-rival-calb-boosts-output-of-top-tier-batteries-via-jiangmen-plant",
+      "publisher": "Yicai Global, CATL rival CALB boosts output via Jiangmen plant",
+      "published": "2023-04-24",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "production started yesterday at the factory in Jiangmen with an annual capacity of 35 gigawatt-hours"
+    },
+    "S3": {
+      "url": "https://www.fjdaily.com/app/content/2022-05/29/content_1463073.html",
+      "publisher": "Fujian Daily (fjdaily.com), Hithium Xiamen phase-1 M1 smart factory starts production",
+      "published": "2022-05-29",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "锂电智能制造一期项目的M1智慧工厂，完成交付并开始投产。 ... 厂房总体布局5条锂电制造产线，年产能15GWh，"
+    },
+    "S4": {
+      "url": "https://en.hithium.com/about/plants.html",
+      "publisher": "Hithium company website, plants page (undated page; date field = access date of earlier task T006)",
+      "published": "2026-11-20",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "The entire project was completed in 2023."
+    },
+    "S5": {
+      "url": "https://paper.people.com.cn/zgnyb/html/2023-04/24/content_25979712.htm",
+      "publisher": "China Energy News (People's Daily group), Xiamen Hithium project",
+      "published": "2023-04-24",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "厦门锂电项目一期年产15吉瓦时智慧工厂已全面投产，项目二期规划年产能30吉瓦时将于今年全面建成并投产"
+    },
+    "S6": {
+      "url": "https://www.chinadaily.com.cn/a/202305/15/WS6461f77aa310b6054fad30d0.html",
+      "publisher": "China Daily, Zenergy new battery plant in Changshu",
+      "published": "2023-05-15",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "Zenergy's new battery plant starts operations in Changshu, Jiangsu province, on May 9, 2023."
+    },
+    "S7": {
+      "url": "https://www.sohu.com/a/917606519_120952561",
+      "publisher": "Sohu (local press feature, Shifang), Sunwoda Shifang base",
+      "published": "2025-07-25",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "据悉，欣旺达投资百亿元建设的25GWh动力电池生产线已于2023年投产，其电芯能量密度达到行业顶尖水平。"
+    },
+    "S8": {
+      "url": "https://mcn.solarbe.com/news/20251022/50010722.html",
+      "publisher": "Solarbe (索比) reprint of Zhejiang Economic Information Center item, Taizhou FinDreams Xianju project (date from URL)",
+      "published": "2025-10-22",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "2023 年 3 月首条生产线投产 ... 2025 年 8 条生产线全投产，完成建设目标。"
+    },
+    "S9": {
+      "url": "https://www.cls.cn/detail/1473567",
+      "publisher": "Cailian Press (cls.cn), SVOLT Yancheng base visit",
+      "published": "2023-09-26",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "整个二期项目包含9条飞叠电芯产线、9条相应的模组PACK产线，均已投产"
+    },
+    "S10": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1117171/000121390024023050/ea0201512-10k_cbakenergy.htm",
+      "publisher": "CBAK Energy Technology, Form 10-K FY2023 (SEC EDGAR)",
+      "published": "2024-03-15",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "As of December 31, 2023, we had three production lines in Dalian, with a total capacity of 1 GWh per year."
+    }
+  },
+  "rows": [
+    {
+      "id": "catl-catl-guiyang-gui-an-battery-production-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 30}"
+      },
+      "evidence": {
+        "start_year": ["S1"],
+        "capacity_by_year_json": ["S1"]
+      },
+      "confidence": 0.7,
+      "notes": "[T073] start_year 2023 (null -> 2023): CATL release dated 2023-10-29 (S1): phase 1 'officially kicked off production' after the 2023-10-27 inauguration; phase 1 design 30 GWh (existing T002 evidence for the same page: 'the first phase has a designed annual capacity of 30GWh'). capacity_by_year_json {2023: 30} unchanged (design basis). No phase-2 step: phase 2 is at EIA/signing stage."
+    },
+    {
+      "id": "calb-calb-jiangmen-base-xinhui-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023
+      },
+      "evidence": {
+        "start_year": ["S2"]
+      },
+      "confidence": 0.8,
+      "notes": "[T073] start_year 2023 (null -> 2023): Yicai Global 2023-04-24 (S2) says production started the day before (2023-04-23) at Jiangmen. The 35 GWh in that sentence is the phase-1 design capacity; only one line was running then, so no 2023 capacity step is added. Existing capacity_by_year_json {2024: 35, 2027: 70} left unchanged (not in fields): 35 GWh (all 5 phase-1 lines in production) is dated 2024-02-27 by the Jiangmen government (T004 evidence); no source dates a smaller 2023 line count in GWh."
+    },
+    {
+      "id": "hithium-hithium-xiamen-plant-xiamen-production-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022,
+        "capacity_by_year_json": "{\"2022\": 15, \"2023\": 45}"
+      },
+      "evidence": {
+        "start_year": ["S3"],
+        "capacity_by_year_json": ["S3", "S4", "S5"]
+      },
+      "confidence": 0.6,
+      "notes": "[T073] start_year 2022: Fujian Daily 2022-05-29 (S3): phase-1 M1 smart factory 'started production', 5 lines, 15 GWh/yr. Steps (design basis): 2022 = 15 (phase 1, S3; S5 confirms phase 1 fully in production by Apr 2023). 2023 = 45 = 15 + 30 (phase 2 30 GWh/yr 'planned to be fully built and in production this year' per S5, and Hithium's plants page S4 says 'The entire project was completed in 2023'); the 45 is my sum of the two sourced phases, no per-phase commissioning month for phase 2 is in the quoted text (v1 timeline says May 2023, investxiamen, not re-opened). S4 page is undated; its 'published' date is the earlier access date. Reported by earlier task T006: Yicai 2025-09-25 full load since March 2025 (installed 45 as of that date, unchanged)."
+    },
+    {
+      "id": "jiangsu-zenergy-zenergy-changshu-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 25, \"2025\": 35.5, \"2026\": 50.5}"
+      },
+      "evidence": {
+        "start_year": ["S6"],
+        "capacity_by_year_json": ["S6"]
+      },
+      "confidence": 0.5,
+      "notes": "[T073] start_year 2023: China Daily 2023-05-15 (S6): Zenergy's new battery plant (headline excerpt: 'new 25 GWh plant has started operations in Changshu') began operations on 2023-05-09. Step 2023 = 25 (design basis, original Changshu base). The 2025 = 35.5 and 2026 = 50.5 entries are the EXISTING T009 values, kept unchanged: 35.5 is the company-wide FY2025 figure that T009 parked on this row (not splittable between Changshu and Nanjing; see T009 notes, ESCALATE stands) and 50.5 is the Oct-2025 placing-article plan. No 2024 step: company said 25.5 GWh total at the April 2025 IPO (T009 timeline), i.e. no sourced 2024 change."
+    },
+    {
+      "id": "sunwoda-automotive-battery-sunwoda-evb-sunwoda-deyang-shifang-power-and-energy-storage-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 25}"
+      },
+      "evidence": {
+        "start_year": ["S7"],
+        "capacity_by_year_json": ["S7"]
+      },
+      "confidence": 0.65,
+      "notes": "[T073] start_year 2023 and step 2023 = 25 (design basis): local-press feature 2025-07-25 (S7) says the CNY10bn 25 GWh power-battery line 'has been put into production in 2023' (same page that T058 used for installed 25). The page does not say whether all lines were in production at end-2023; T007/T058 timeline sources describe the first line in trial production in March 2023 and two lines fully operational within the year (chinanews sc 2023-03-30 page returned garbled text here, not used). No later step added: lines 4-5 (to 28 GWh) are in commissioning in 2026 with no sourced year/GWh split. Fetch tool extraction was used for S7; auditor please string-match."
+    },
+    {
+      "id": "taizhou-findreams-battery-findreams-taizhou-xianju-power-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2025\": 22}"
+      },
+      "evidence": {
+        "start_year": ["S8"],
+        "capacity_by_year_json": ["S8"]
+      },
+      "confidence": 0.75,
+      "notes": "[T073] start_year 2023: Zhejiang Economic Information Center item as reprinted by Solarbe (S8, date from URL 2025-10-22): first production line started 2023-03 and all 8 lines in production in 2025; a second reprint (itiger, date not stated) carries the same wording ('2023年3月第一条生产线投产，2024年9月完成项目土建工程竣工验收') but was not used as a source because its publication date is not shown. Step 2025 = 22 (design capacity once all 8 lines run; 22 GWh at full output per the same item and the existing MarkLines teaser evidence of T003). No 2023/2024 steps: line-by-line GWh and commissioning dates for lines 2-7 are not published (per-line split would be interpolation). So the series can credit from 2023 only through start_year, not through a GWh step."
+    },
+    {
+      "id": "svolt-svolt-energy-technology-svolt-yancheng-plant-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 22.3}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S9"]
+      },
+      "confidence": 0.5,
+      "notes": "[T073] step 2023 = 22.3 (design basis): Cailian 2023-09-26 (S9): phase 2 (9 stacking cell lines + 9 module/PACK lines) all in production, on top of phase 1 (8 lines, per the same visit reporting by 36kr, T008 S30), i.e. both phases of the 22.3 GWh plan (CnEVPost 2022-01-07, T008 S28) in production by Sep 2023; phase-level GWh was never published, so one cumulative step at the full plan. start_year NOT set: phase-1 first cells (v1 timeline: April 2022, mass-production ceremony 2022-09-03, dafeng.gov.cn 2023-09-25) could not be re-confirmed (dafeng pages returned HTTP 404; cls/36kr/xchuxing pages give no 2022 production date), so start_year stays null. Confidence unchanged 0.5 (T008 ESCALATE on stale status pages stands)."
+    },
+    {
+      "id": "dalian-cbak-power-battery-co-ltd-dalian-cbak-power-battery-plant-huayuankou-base-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 1, \"2025\": 3.3}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S10"]
+      },
+      "confidence": 0.7,
+      "notes": "[T073] step 2023 = 1.0 (company basis): CBAK 10-K FY2023 (S10): three production lines in Dalian, total 1 GWh/yr at 2023-12-31. Step 2025 = 3.3 is the EXISTING value (T009: 1.0 legacy + ~2.3 new 40135 line launched 2025-10-15; FY2025 release 2026-03-30), unchanged. start_year not set: the 10-K says it does not state when Dalian production started (only the Dec 27, 2013 incorporation date); v1 2021 not confirmed. The 10-K text was read only to character 100000 of 383594."
+    }
+  ]
+}

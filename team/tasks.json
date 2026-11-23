@@ -1,2211 +1,2215 @@
 {
- "objective": "Battery cell gigafactory DB v2 (see team/SPEC.md)",
- "tasks": [
-  {
-   "id": "T001",
-   "title": "Contracts: baseline snapshot, rebuild.py, checks, CONVENTIONS",
-   "workstream": "D. Integration",
-   "owner": "lead",
-   "files": [
-    "scripts/rebuild.py",
-    "checks/**",
-    "team/CONVENTIONS.md",
-    "data/baseline/**"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "rebuild reproduces v1 capacity_by_year.csv exactly",
-    "checks/run_all.py exits 0 on baseline"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 0,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "contract/harness; validated by every subsequent rebuild; owner review at close-out"
-   }
-  },
-  {
-   "id": "T002",
-   "title": "Re-verify: CATL (pilot) (18 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T002.json",
-    "data/reference/operator_sites/T002.csv"
-   ],
-   "depends_on": [
-    "T001"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T002.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 0,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a2)+lead-verified fixes",
-    "notes": "audit-2 blockers (Times-FAW double count, Luoyuan freshness) verified fixed by lead: Xiapu capacity nulled, S50/S51 FOUND; minors applied"
-   }
-  },
-  {
-   "id": "T003",
-   "title": "Re-verify: BYD / FinDreams (17 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T003.json",
-    "data/reference/operator_sites/T003.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T003.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "D-016 statuses, env-list rows added (null cap), Wuwei/Fuzhou coords nulled, FAW installed nulled, XCMG 2024 evidence; quotes 51/54 FOUND after verifier PDF fix. Open: Shaoxing installed 45 on 通线 (line connected) basis - T030 sweep"
-   }
-  },
-  {
-   "id": "T004",
-   "title": "Re-verify: CALB + Chuneng (12 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T004.json",
-    "data/reference/operator_sites/T004.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T004.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "audit-1 blockers verified fixed by lead: D-014 nameplates, Zigong quote with number (S44 FOUND), Sines announced, AR2025 entities in site list; quotes 41/42 FOUND"
-   }
-  },
-  {
-   "id": "T005",
-   "title": "Re-verify: Gotion (18 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T005.json",
-    "data/reference/operator_sites/T005.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T005.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Nantong restored (S50 FOUND), Lujiang cell (S51 auditor-cited), Jinzhai/Liuzhou consistent, D-015 caps and Morocco 20/Slovakia 8.4"
-   }
-  },
-  {
-   "id": "T006",
-   "title": "Re-verify: EVE Energy + Hithium (14 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T006.json",
-    "data/reference/operator_sites/T006.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T006.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Jingmen 212 (J4), Shayang 60 and Qidong 50 own rows, Shenyang SY4 量产, Chengdu 50 (CD1), M2/A7 fixed; quotes 39/44 FOUND, G2 hand-confirmed"
-   }
-  },
-  {
-   "id": "T007",
-   "title": "Re-verify: Sunwoda + REPT Battero (18 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T007.json",
-    "data/reference/operator_sites/T007.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T007.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T008",
-   "title": "Re-verify: SVOLT + Great Power (19 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T008.json",
-    "data/reference/operator_sites/T008.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T008.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "caps applied, Suining installed nulled, Huzhou null status, Chengdu 31.5 (D-017), Taizhou/Baoding removals cite filing; quotes 35/38"
-   }
-  },
-  {
-   "id": "T009",
-   "title": "Re-verify: China mid-tier: Lishen, Farasis, Ganfeng, Zenergy, Lanjun, BAK, Tianneng (21 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T009.json",
-    "data/reference/operator_sites/T009.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T009.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T010",
-   "title": "Re-verify: LG Energy Solution (incl. Ultium, L-H JVs) (11 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T010.json",
-    "data/reference/operator_sites/T010.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T010.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T011",
-   "title": "Re-verify: SK On + Samsung SDI (incl. BlueOval SK, StarPlus) (17 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T011.json",
-    "data/reference/operator_sites/T011.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T011.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "StarPlus 33 (Plant 2 on hold, S73), R6 nulls, Komárom installed 10 (S74), Georgia 12, Kentucky paused (D-018); new quotes FOUND except S75 (metal.com, previously gzip-prone)"
-   }
-  },
-  {
-   "id": "T012",
-   "title": "Re-verify: Envision AESC (13 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T012.json",
-    "data/reference/operator_sites/T012.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T012.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Ordos 10.5 (company), Ibaraki 6, Smyrna 7, Plant 1 status null; quotes 40/48"
-   }
-  },
-  {
-   "id": "T013",
-   "title": "Re-verify: Panasonic, Toyota, Tesla, Honda, PPES (17 rows)",
-   "workstream": "A. Majors",
-   "owner": "worker",
-   "files": [
-    "data/patches/T013.json",
-    "data/reference/operator_sites/T013.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
-    "Operator's own disclosed site list in data/reference/operator_sites/T013.csv; every site matched or excluded (G3)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Nevada LFP installed null / nameplate 7; Blue Energy ref 2030 (Honda); TBMNC cells (Carolina Journal); Kaizuka/Miyagi null status; NCA nulled; new quotes FOUND"
-   }
-  },
-  {
-   "id": "T014",
-   "title": "Re-verify: Europe tail A (status & cancellation refresh) (18 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T014.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "sampled out by audit plan (normal risk, 50% rate); checks pass after lead id-typo fix + C3 fix; quotes 36/40 FOUND"
-   }
-  },
-  {
-   "id": "T015",
-   "title": "Re-verify: Europe tail B (status & cancellation refresh) (18 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T015.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "sampled out (normal risk); checks pass; D-018 applied to Lyten Ett and Morrow; quotes 36/40"
-   }
-  },
-  {
-   "id": "T016",
-   "title": "Re-verify: USA tail A (status & cancellation refresh) (15 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T016.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "D-018 nulls, Eos Turtle Creek paused, R6 nulls; Form handled by D-019"
-   }
-  },
-  {
-   "id": "T017",
-   "title": "Re-verify: USA tail B (status & cancellation refresh) (14 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T017.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "sampled out (normal risk); checks pass; quotes 26/40 FOUND, 10 fetch-fail (network)"
-   }
-  },
-  {
-   "id": "T018",
-   "title": "Re-verify: India (21 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T018.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "sampled out; checks pass; quotes 24/30 FOUND; worker nulled 5 wrong v1 India coords"
-   }
-  },
-  {
-   "id": "T019",
-   "title": "Re-verify: Japan / South Korea / Southeast Asia tail (24 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T019.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "sampled out; checks pass after vocab fix"
-   }
-  },
-  {
-   "id": "T020",
-   "title": "Re-verify: Rest of World (18 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T020.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T021",
-   "title": "Re-verify: China tail batch 1 (14 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T021.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Zhongna 1/3.2, Camel UC 2 GWh, Chuanhong 0.45, Seetao cited"
-   }
-  },
-  {
-   "id": "T022",
-   "title": "Re-verify: China tail batch 2 (14 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T022.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T023",
-   "title": "Re-verify: China tail batch 3 (14 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T023.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": null
-   }
-  },
-  {
-   "id": "T024",
-   "title": "Re-verify: China tail batch 4 (13 rows)",
-   "workstream": "B. Tails",
-   "owner": "worker",
-   "files": [
-    "data/patches/T024.json"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
-    "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
-    "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
-    "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
-    "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus(a1)+lead-verified fixes",
-    "notes": "Qingtao 10, Wanxiang 56, D-021 notes, Qingna Guangde added; new quotes FOUND"
-   }
-  },
-  {
-   "id": "T025",
-   "title": "Discovery: cell plants in China announced/started 2023-2026 missing from the DB",
-   "workstream": "C. Discovery",
-   "owner": "worker",
-   "files": [
-    "data/reference/candidates/T025.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every candidate has an open source_url and is checked against factories_export.csv",
-    "Each candidate is a cell plant (not pack/materials)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
-   }
-  },
-  {
-   "id": "T026",
-   "title": "Discovery: cell plants in Europe + USA announced/started 2023-2026 missing from the DB",
-   "workstream": "C. Discovery",
-   "owner": "worker",
-   "files": [
-    "data/reference/candidates/T026.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every candidate has an open source_url and is checked against factories_export.csv",
-    "Each candidate is a cell plant (not pack/materials)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
-   }
-  },
-  {
-   "id": "T027",
-   "title": "Discovery: cell plants in India, Japan, South Korea, Southeast Asia announced/started 2023-2026 missing from the DB",
-   "workstream": "C. Discovery",
-   "owner": "worker",
-   "files": [
-    "data/reference/candidates/T027.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every candidate has an open source_url and is checked against factories_export.csv",
-    "Each candidate is a cell plant (not pack/materials)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
-   }
-  },
-  {
-   "id": "T028",
-   "title": "Discovery: cell plants in Rest of World announced/started 2023-2026 missing from the DB",
-   "workstream": "C. Discovery",
-   "owner": "worker",
-   "files": [
-    "data/reference/candidates/T028.csv"
-   ],
-   "depends_on": [
-    "T002"
-   ],
-   "acceptance": [
-    "Every candidate has an open source_url and is checked against factories_export.csv",
-    "Each candidate is a cell plant (not pack/materials)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
-   }
-  },
-  {
-   "id": "T029",
-   "title": "Lead: turn discovery candidates into add-tasks",
-   "workstream": "D. Integration",
-   "owner": "worker",
-   "files": [
-    "team/tasks.json",
-    "team/assignments.json"
-   ],
-   "depends_on": [
-    "T025",
-    "T026",
-    "T027",
-    "T028"
-   ],
-   "acceptance": [
-    "Each candidate assigned to an add-task or rejected with reason"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 0,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
-   }
-  },
-  {
-   "id": "T030",
-   "title": "Lead: benchmark reconciliation, installed-capacity timeseries, refresh QA/report/chart/map, CLAUDE.md schema",
-   "workstream": "D. Integration",
-   "owner": "worker",
-   "files": [
-    "scripts/build_timeseries.py",
-    "scripts/qa.py",
-    "scripts/build_report.py",
-    "scripts/make_chart_png.py",
-    "scripts/make_map.py",
-    "CLAUDE.md",
-    "qa_report.md",
-    "report.html"
-   ],
-   "depends_on": [
-    "T002",
-    "T003",
-    "T004",
-    "T005",
-    "T006",
-    "T007",
-    "T008",
-    "T009",
-    "T010",
-    "T011",
-    "T012",
-    "T013",
-    "T014",
-    "T015",
-    "T016",
-    "T017",
-    "T018",
-    "T019",
-    "T020",
-    "T021",
-    "T022",
-    "T023",
-    "T024"
-   ],
-   "acceptance": [
-    "checks/done_gates.py exits 0",
-    "Region and chemistry comparison vs IEA/BNEF documented in qa_report.md"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "in_review",
-   "branch": null,
-   "pr": null,
-   "attempts": 0,
-   "assumptions": [],
-   "audit": {
-    "verdict": null,
-    "by": null,
-    "notes": null
-   }
-  },
-  {
-   "id": "T032",
-   "title": "Fill installed capacity (China batch 1, 25 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T032.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": null
-   }
-  },
-  {
-   "id": "T033",
-   "title": "Fill installed capacity (China batch 2, 25 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T033.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "5 dated-floor fills (65 GWh); quotes 6/8 FOUND, 2 fetch-fail"
-   }
-  },
-  {
-   "id": "T034",
-   "title": "Fill installed capacity (China batch 3, 25 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T034.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "empty patch (no changes) — nothing to audit"
-   }
-  },
-  {
-   "id": "T035",
-   "title": "Fill installed capacity (China batch 4, 22 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T035.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "1 fill (Narada Jiuquan); search budget exhausted"
-   }
-  },
-  {
-   "id": "T036",
-   "title": "Fill installed capacity (non-China batch 1, 30 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T036.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "lead-verified: tiny patch (1-2 fills), quotes FOUND; search budget exhausted"
-   }
-  },
-  {
-   "id": "T037",
-   "title": "Fill installed capacity (non-China batch 2, 30 rows)",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T037.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Only assigned ids updated",
-    "checks/run_all.py passes",
-    "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
-    "Auditor sample: 0 values contradicted by their own quote/snippet"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "lead-verified: tiny patch (1-2 fills), quotes FOUND; search budget exhausted"
-   }
-  },
-  {
-   "id": "T038",
-   "title": "Discovery sweep: China: Jiangsu, Shanghai, Zhejiang",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T038.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "7 adds (Yunshi Weilan nameplate nulled by lead); truncated by search budget"
-   }
-  },
-  {
-   "id": "T039",
-   "title": "Discovery sweep: China: Fujian, Jiangxi, Guangdong, Guangxi, Hainan",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T039.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "auditor-opus",
-    "notes": "pass with minors; lead applied ATL reported tier, chemistry null, S14 apostrophe"
-   }
-  },
-  {
-   "id": "T040",
-   "title": "Discovery sweep: China: Anhui, Hubei, Hunan, Henan",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T040.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "9 adds (1 operator-less park removed by lead); quotes 20/21; truncated by search budget for Hubei/Henan"
-   }
-  },
-  {
-   "id": "T041",
-   "title": "Discovery sweep: China: Sichuan, Chongqing, Guizhou, Yunnan, Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang, Tibet",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T041.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "3 adds; quotes checked; sweep truncated by shared search budget — rerun needed for Ningxia/Xinjiang/Yunnan/Guizhou/Qinghai/Tibet"
-   }
-  },
-  {
-   "id": "T042",
-   "title": "Discovery sweep: China: Shandong, Hebei, Beijing, Tianjin, Shanxi, Inner Mongolia, Liaoning, Jilin, Heilongjiang",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T042.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "3 adds (2 nameplates nulled by lead); truncated by search budget"
-   }
-  },
-  {
-   "id": "T043",
-   "title": "Discovery sweep: Asia ex-China: South Korea, Japan, Taiwan, Southeast Asia, India, Middle East, Central Asia",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T043.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": null
-   }
-  },
-  {
-   "id": "T044",
-   "title": "Discovery sweep: Europe (incl. Turkey, UK, Russia), Americas, Africa, Oceania",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T044.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row (checks C6 + auditor)",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "2 adds; truncated by shared search budget"
-   }
-  },
-  {
-   "id": "T046",
-   "title": "Discovery rerun: Shanghai, Zhejiang (all prefectures), Jiangsu (Wuxi, Zhenjiang, Suqian, Lianyungang, Changzhou)",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T046.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "8 adds; Cubenergy nameplate nulled (D-026)"
-   }
-  },
-  {
-   "id": "T047",
-   "title": "Discovery rerun: Hubei, Henan (prefecture sweeps)",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T047.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": null
-   }
-  },
-  {
-   "id": "T048",
-   "title": "Discovery rerun: Shandong, Hebei, Shanxi, Tianjin, Beijing, Liaoning, Jilin, Heilongjiang",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T048.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": null
-   }
-  },
-  {
-   "id": "T049",
-   "title": "Discovery rerun: Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Gansu, Tibet, Sichuan (other cities)",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T049.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Adds only, located in the task geography",
-    "No duplicate of an existing row",
-    "Every add has status evidence; capacities are cell GWh/yr",
-    "checks/run_all.py passes"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "6 adds incl Baofeng (null nameplate); quotes 14/14"
-   }
-  },
-  {
-   "id": "T051",
-   "title": "Discovery: Americas (USA small LFP/ESS, Canada, Mexico, South America), Africa, Oceania",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T051.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "Evidence tiers per CONVENTIONS; no duplicates"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "3 cancelled-project adds; no new active plants in Americas/Africa/Oceania"
-   }
-  },
-  {
-   "id": "T052",
-   "title": "Discovery: Russia/CIS, Poland, Baltics, Nordics, France (Saft), Serbia and other European gaps",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T052.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "Evidence tiers per CONVENTIONS; no duplicates"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "8 adds (mostly paused/cancelled/small); Russia region aligned to Europe"
-   }
-  },
-  {
-   "id": "T053",
-   "title": "Discovery: India and Southeast Asia gaps",
-   "workstream": "F. Expansion",
-   "owner": "worker",
-   "files": [
-    "data/patches/T053.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "Evidence tiers per CONVENTIONS; no duplicates"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "waived",
-    "by": "lead",
-    "notes": "1 add (Tenpower Malaysia 10 GWh); India/SEA confirmed covered"
-   }
-  },
-  {
-   "id": "T054",
-   "title": "Fill installed capacity: 15 largest China operational plants without a figure",
-   "workstream": "E. Capacity fill",
-   "owner": "worker",
-   "files": [
-    "data/patches/T054.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "Evidence tiers per CONVENTIONS; no duplicates"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "4 fills (Hithium Heze 30, Sunwoda Zaozhuang 16 + nameplate 66, CATL Zhaoqing 25 floor, Sunwoda Nanjing 4 floor)"
-   }
-  },
-  {
-   "id": "T055",
-   "title": "Operator totals: company-disclosed end-2025 cell capacity (GWh) for the ~25 largest operators, from filings/IR, for per-operator gap analysis",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/reference/operator_totals.csv"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "Each total cites an open filing/IR/press page with verbatim quote and a date",
-    "Units converted only when the source gives GWh (Ah/cells noted, not converted)"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "in_progress",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": null,
-    "by": null,
-    "notes": null
-   }
-  },
-  {
-   "id": "T056",
-   "title": "Operator gap fill: BYD/FinDreams — installed capacity for operational sites + missing sites + company 2025 output",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T056.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "installed figures dated with basis; tiers per CONVENTIONS",
-    "adds only for this operator family; no duplicates"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "5 installed fills (Xiangyang 30, Guiyang 15, Xining 10, Xi'an 10, Nanning 10), 1 add (Shanwei 15 announced); quotes 12/13 + S5 manually confirmed"
-   }
-  },
-  {
-   "id": "T057",
-   "title": "Operator gap fill: CALB + Lishen — installed capacity for operational sites + missing sites + company 2025 output",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T057.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "installed figures dated with basis; tiers per CONVENTIONS",
-    "adds only for this operator family; no duplicates"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "1 fill (Lishen Qingdao 4 GWh 2019 floor), 1 add (CALB Luoyang, capacity null); quotes 3/3 found; CALB 2025 shipments 116 GWh < our C"
-   }
-  },
-  {
-   "id": "T058",
-   "title": "Operator gap fill: EVE + Sunwoda — installed capacity for operational sites + missing sites + company 2025 output",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T058.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "installed figures dated with basis; tiers per CONVENTIONS",
-    "adds only for this operator family; no duplicates"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "1 fill (Sunwoda Shifang 25); EVE/Sunwoda output figures recorded; our C exceeds both companies' 2025 output"
-   }
-  },
-  {
-   "id": "T059",
-   "title": "Operator gap fill: SVOLT + Gotion + Envision AESC — installed capacity for operational sites + missing sites + company 2025 output",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T059.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "installed figures dated with basis; tiers per CONVENTIONS",
-    "adds only for this operator family; no duplicates"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "0 fills, 1 add (Gotion Hefei 20 GWh announced); output data shows our C exceeds SVOLT/Gotion 2025 output"
-   }
-  },
-  {
-   "id": "T060",
-   "title": "Correction pass on escalated rows: Lishen Qingdao 40 GWh, SVOLT Ma'anshan 28 GWh prismatic, CALB Jintan 70 GWh, BYD Shenzhen null status, BYD Zhengzhou/Xining",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T060.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "each assigned row resolved with evidence or escalated",
-    "corrections only with evidence (no removals to pass checks)"
-   ],
-   "risk": "high",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "Lishen Qingdao 40→10; SVOLT Ma'anshan format→cylindrical; CALB Jintan 70 confirmed as plan, ref 2026; BYD Zhengzhou 40 confirmed; quotes 8/8"
-   }
-  },
-  {
-   "id": "T062",
-   "title": "Missing-plant check: open aggregate capacity statistics (China/Japan/Korea) + China cell-maker ranking vs DB coverage",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/reference/candidates/T062.csv",
-    "team/evidence/T062_aggregates.md"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "every statistic has url+verbatim quote+date+definition (capacity vs output vs shipments)",
-    "every ranked maker mapped to DB ids or listed as missing with any site/capacity leads"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "see PROGRESS"
-   }
-  },
-  {
-   "id": "T063",
-   "title": "Geographic sweep + installed fill: Japan and South Korea domestic cell plants",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T063.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "adds only JP/KR-located plants; no duplicates",
-    "installed/nameplate dated with evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "see PROGRESS"
-   }
-  },
-  {
-   "id": "T064",
-   "title": "Discovery rerun (prefecture-level): Guangdong (all prefectures: Shenzhen, Huizhou, Dongguan, Guangzhou, Zhaoqing, Jiangmen, Zhuhai, Shantou, Shanwei, Meizhou, Shaoguan, Qingyuan, Heyuan, Foshan, Zhongshan, Maoming, Zhanjiang) + Fujian (Ningde, Xiamen, Fuzhou, Quanzhou, Zhangzhou, Longyan, Putian, Sanming, Nanping)",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T064.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "adds only in-geography, no duplicates (grep first)",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "3 announced adds (Jiahang 35, Kexiang 8 Na, Longbang 1 SS); quotes 5/5; pass 2 found nothing operational/UC missing"
-   }
-  },
-  {
-   "id": "T065",
-   "title": "Discovery rerun (prefecture-level): Jiangxi (Yichun, Ganzhou, Shangrao, Ji'an, Pingxiang, Xinyu, Nanchang, Jiujiang, Fuzhou-JX, Jingdezhen, Yingtan) + Anhui (Hefei, Chuzhou, Wuhu, Ma'anshan, Bengbu, Fuyang, Lu'an, Anqing, Xuancheng, Huainan, Chizhou, Tongling, Bozhou, Suzhou-AH, Huaibei, Huangshan) + Hunan (Changsha, Xiangtan, Zhuzhou, Yueyang, Changde, Hengyang, Chenzhou, Yiyang, Loudi, Shaoyang, Yongzhou, Huaihua)",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T065.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "adds only in-geography, no duplicates (grep first)",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "3 adds (Anneng 20 ann, Nafang 10 ann, Sany UC null), 1 update (Li-FUN 2.5→2); quotes 6/6; near-saturated"
-   }
-  },
-  {
-   "id": "T066",
-   "title": "Operator follow-up: ENERGEE/Geely (all bases), Inpower (GAC), Yuanhang Jinli, Rongsheng Mengguli + tier-2/3 China makers (ESS, two-wheeler/small-power, consumer cylindrical) — site lists vs DB",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T066.json",
-    "data/reference/operator_sites/T066.csv"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "no duplicates (grep first)",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "7 adds: Inpower 36 (18 installed), Ningguo 12 op, Mengguli 15 op, Yuanhang 5 op, Yaoning Chongqing 30 UC, Geely Ganzhou 42 ann, Tonglu 12 ann; quote punctuation fixed"
-   }
-  },
-  {
-   "id": "T067",
-   "title": "Discovery rerun (prefecture-level): Chongqing, Shaanxi, Guangxi, Hainan, Inner Mongolia",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T067.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "no duplicates (grep first)",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "6 adds (Times-Changan Chongqing 25 ann; 2x50 GWh sodium parks; 3 small/bundled); 0 operational missing; quotes fixed to verbatim"
-   }
-  },
-  {
-   "id": "T068",
-   "title": "Checklist pass: MIIT 锂离子电池行业规范条件 compliant-company lists (all batches, battery/cell category) vs DB — add missing cell sites",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T068.json",
-    "data/reference/candidates/T068_miit.csv"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "every listed cell site mapped to a DB id or excluded with reason",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "see ESCALATIONS"
-   }
-  },
-  {
-   "id": "T069",
-   "title": "Checklist pass: open trackers outside China — NAATBatt/Argonne Li-ion supply-chain database (North America), Battery-News gigafactory list (Europe), plus EU JRC/T&E lists — vs DB",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T069.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "every listed cell site mapped to a DB id or excluded with reason",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "see ESCALATIONS"
-   }
-  },
-  {
-   "id": "T070",
-   "title": "Follow-up: ~30 China cell makers on the MIIT list or tier-2/3 not yet matched (Poweramp, Tianjin MGL, Wuhan Lishen, Sunwoda Huizhou Power, Polyway, Scud, Yijiatong, Xindong, ZTT, DBK, Chixin, Far East Fosit, Weike, Shandong Weineng, Luhua, Chunlan, Kaien, Lixuan, Zijian, Jiade, Guoguang, Livan, Yexiang, Yadea, 兴储世纪, 融捷, 果下, Fuding Times) — sites + capacity",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T070.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "no duplicates",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "4 adds (Far East Yixing 12 plan/2 installed, Far East Yichun, Yijiatong Xuancheng, ZTT Nantong UC); lead nulled assumed chemistry"
-   }
-  },
-  {
-   "id": "T071",
-   "title": "Status refresh outside China: Gotion Kenitra, LGES Lansing, CATL Debrecen, PowerCo Salzgitter, Statevolt, BE-VOLT cell-vs-pack, Enovix Routejade Korea, plus Battery-News Oct-2025 Europe map residue (Nordhausen, Douvrin, Dunkirk) and 2026 commissioning news for all non-China under_construction rows ≥5 GWh",
-   "workstream": "F. Coverage",
-   "owner": "worker",
-   "files": [
-    "data/patches/T071.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "no duplicates",
-    "evidence per CONVENTIONS"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "merged",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {
-    "verdict": "pass",
-    "by": "lead",
-    "notes": "2 adds (Enovix Routejade Nonsan, EAS Nordhausen), Ford Marshall refreshed; leads already current; BE-VOLT removal overruled (kept, conflicting evidence)"
-   }
-  },
-  {
-   "id": "T073",
-   "title": "History fill: start_year + dated capacity steps (2019–2025) for the 26 largest operational plants lacking start_year",
-   "workstream": "G. Reconciliation",
-   "owner": "worker",
-   "files": [
-    "data/patches/T073.json"
-   ],
-   "depends_on": [],
-   "acceptance": [
-    "checks/run_all.py passes",
-    "start_year and capacity_by_year_json steps each sourced",
-    "no interpolation"
-   ],
-   "risk": "normal",
-   "contract": {
-    "path": "team/CONVENTIONS.md",
-    "approved": true
-   },
-   "status": "in_progress",
-   "branch": null,
-   "pr": null,
-   "attempts": 1,
-   "assumptions": [],
-   "audit": {}
-  }
- ]
+  "objective": "Battery cell gigafactory DB v2 (see team/SPEC.md)",
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "Contracts: baseline snapshot, rebuild.py, checks, CONVENTIONS",
+      "workstream": "D. Integration",
+      "owner": "lead",
+      "files": [
+        "scripts/rebuild.py",
+        "checks/**",
+        "team/CONVENTIONS.md",
+        "data/baseline/**"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "rebuild reproduces v1 capacity_by_year.csv exactly",
+        "checks/run_all.py exits 0 on baseline"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "contract/harness; validated by every subsequent rebuild; owner review at close-out"
+      }
+    },
+    {
+      "id": "T002",
+      "title": "Re-verify: CATL (pilot) (18 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T002.json",
+        "data/reference/operator_sites/T002.csv"
+      ],
+      "depends_on": [
+        "T001"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T002.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a2)+lead-verified fixes",
+        "notes": "audit-2 blockers (Times-FAW double count, Luoyuan freshness) verified fixed by lead: Xiapu capacity nulled, S50/S51 FOUND; minors applied"
+      }
+    },
+    {
+      "id": "T003",
+      "title": "Re-verify: BYD / FinDreams (17 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T003.json",
+        "data/reference/operator_sites/T003.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T003.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "D-016 statuses, env-list rows added (null cap), Wuwei/Fuzhou coords nulled, FAW installed nulled, XCMG 2024 evidence; quotes 51/54 FOUND after verifier PDF fix. Open: Shaoxing installed 45 on \u901a\u7ebf (line connected) basis - T030 sweep"
+      }
+    },
+    {
+      "id": "T004",
+      "title": "Re-verify: CALB + Chuneng (12 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T004.json",
+        "data/reference/operator_sites/T004.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T004.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "audit-1 blockers verified fixed by lead: D-014 nameplates, Zigong quote with number (S44 FOUND), Sines announced, AR2025 entities in site list; quotes 41/42 FOUND"
+      }
+    },
+    {
+      "id": "T005",
+      "title": "Re-verify: Gotion (18 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T005.json",
+        "data/reference/operator_sites/T005.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T005.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Nantong restored (S50 FOUND), Lujiang cell (S51 auditor-cited), Jinzhai/Liuzhou consistent, D-015 caps and Morocco 20/Slovakia 8.4"
+      }
+    },
+    {
+      "id": "T006",
+      "title": "Re-verify: EVE Energy + Hithium (14 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T006.json",
+        "data/reference/operator_sites/T006.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T006.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Jingmen 212 (J4), Shayang 60 and Qidong 50 own rows, Shenyang SY4 \u91cf\u4ea7, Chengdu 50 (CD1), M2/A7 fixed; quotes 39/44 FOUND, G2 hand-confirmed"
+      }
+    },
+    {
+      "id": "T007",
+      "title": "Re-verify: Sunwoda + REPT Battero (18 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T007.json",
+        "data/reference/operator_sites/T007.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T007.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T008",
+      "title": "Re-verify: SVOLT + Great Power (19 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T008.json",
+        "data/reference/operator_sites/T008.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T008.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "caps applied, Suining installed nulled, Huzhou null status, Chengdu 31.5 (D-017), Taizhou/Baoding removals cite filing; quotes 35/38"
+      }
+    },
+    {
+      "id": "T009",
+      "title": "Re-verify: China mid-tier: Lishen, Farasis, Ganfeng, Zenergy, Lanjun, BAK, Tianneng (21 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T009.json",
+        "data/reference/operator_sites/T009.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T009.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T010",
+      "title": "Re-verify: LG Energy Solution (incl. Ultium, L-H JVs) (11 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T010.json",
+        "data/reference/operator_sites/T010.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T010.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T011",
+      "title": "Re-verify: SK On + Samsung SDI (incl. BlueOval SK, StarPlus) (17 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T011.json",
+        "data/reference/operator_sites/T011.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T011.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "StarPlus 33 (Plant 2 on hold, S73), R6 nulls, Kom\u00e1rom installed 10 (S74), Georgia 12, Kentucky paused (D-018); new quotes FOUND except S75 (metal.com, previously gzip-prone)"
+      }
+    },
+    {
+      "id": "T012",
+      "title": "Re-verify: Envision AESC (13 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T012.json",
+        "data/reference/operator_sites/T012.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T012.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Ordos 10.5 (company), Ibaraki 6, Smyrna 7, Plant 1 status null; quotes 40/48"
+      }
+    },
+    {
+      "id": "T013",
+      "title": "Re-verify: Panasonic, Toyota, Tesla, Honda, PPES (17 rows)",
+      "workstream": "A. Majors",
+      "owner": "worker",
+      "files": [
+        "data/patches/T013.json",
+        "data/reference/operator_sites/T013.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)",
+        "Operator's own disclosed site list in data/reference/operator_sites/T013.csv; every site matched or excluded (G3)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Nevada LFP installed null / nameplate 7; Blue Energy ref 2030 (Honda); TBMNC cells (Carolina Journal); Kaizuka/Miyagi null status; NCA nulled; new quotes FOUND"
+      }
+    },
+    {
+      "id": "T014",
+      "title": "Re-verify: Europe tail A (status & cancellation refresh) (18 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T014.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "sampled out by audit plan (normal risk, 50% rate); checks pass after lead id-typo fix + C3 fix; quotes 36/40 FOUND"
+      }
+    },
+    {
+      "id": "T015",
+      "title": "Re-verify: Europe tail B (status & cancellation refresh) (18 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T015.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "sampled out (normal risk); checks pass; D-018 applied to Lyten Ett and Morrow; quotes 36/40"
+      }
+    },
+    {
+      "id": "T016",
+      "title": "Re-verify: USA tail A (status & cancellation refresh) (15 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T016.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "D-018 nulls, Eos Turtle Creek paused, R6 nulls; Form handled by D-019"
+      }
+    },
+    {
+      "id": "T017",
+      "title": "Re-verify: USA tail B (status & cancellation refresh) (14 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T017.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "sampled out (normal risk); checks pass; quotes 26/40 FOUND, 10 fetch-fail (network)"
+      }
+    },
+    {
+      "id": "T018",
+      "title": "Re-verify: India (21 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T018.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "sampled out; checks pass; quotes 24/30 FOUND; worker nulled 5 wrong v1 India coords"
+      }
+    },
+    {
+      "id": "T019",
+      "title": "Re-verify: Japan / South Korea / Southeast Asia tail (24 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T019.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "sampled out; checks pass after vocab fix"
+      }
+    },
+    {
+      "id": "T020",
+      "title": "Re-verify: Rest of World (18 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T020.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T021",
+      "title": "Re-verify: China tail batch 1 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T021.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Zhongna 1/3.2, Camel UC 2 GWh, Chuanhong 0.45, Seetao cited"
+      }
+    },
+    {
+      "id": "T022",
+      "title": "Re-verify: China tail batch 2 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T022.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T023",
+      "title": "Re-verify: China tail batch 3 (14 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T023.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": null
+      }
+    },
+    {
+      "id": "T024",
+      "title": "Re-verify: China tail batch 4 (13 rows)",
+      "workstream": "B. Tails",
+      "owner": "worker",
+      "files": [
+        "data/patches/T024.json"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every assigned id in team/assignments.json appears exactly once in the patch (update or remove)",
+        "python3 checks/run_all.py exits 0 with the patch applied (C1-C5)",
+        "Auditor sample: >=90% of sampled quotes found on page; 0 values contradicted by their own quote (R1)",
+        "Installed vs nameplate separated; hub/component double counts resolved (R2, R3)",
+        "Active non-operational rows carry evidence dated >=2025-06 or a note that none exists (R4)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus(a1)+lead-verified fixes",
+        "notes": "Qingtao 10, Wanxiang 56, D-021 notes, Qingna Guangde added; new quotes FOUND"
+      }
+    },
+    {
+      "id": "T025",
+      "title": "Discovery: cell plants in China announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": "worker",
+      "files": [
+        "data/reference/candidates/T025.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
+      }
+    },
+    {
+      "id": "T026",
+      "title": "Discovery: cell plants in Europe + USA announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": "worker",
+      "files": [
+        "data/reference/candidates/T026.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
+      }
+    },
+    {
+      "id": "T027",
+      "title": "Discovery: cell plants in India, Japan, South Korea, Southeast Asia announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": "worker",
+      "files": [
+        "data/reference/candidates/T027.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
+      }
+    },
+    {
+      "id": "T028",
+      "title": "Discovery: cell plants in Rest of World announced/started 2023-2026 missing from the DB",
+      "workstream": "C. Discovery",
+      "owner": "worker",
+      "files": [
+        "data/reference/candidates/T028.csv"
+      ],
+      "depends_on": [
+        "T002"
+      ],
+      "acceptance": [
+        "Every candidate has an open source_url and is checked against factories_export.csv",
+        "Each candidate is a cell plant (not pack/materials)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
+      }
+    },
+    {
+      "id": "T029",
+      "title": "Lead: turn discovery candidates into add-tasks",
+      "workstream": "D. Integration",
+      "owner": "worker",
+      "files": [
+        "team/tasks.json",
+        "team/assignments.json"
+      ],
+      "depends_on": [
+        "T025",
+        "T026",
+        "T027",
+        "T028"
+      ],
+      "acceptance": [
+        "Each candidate assigned to an add-task or rejected with reason"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "discovery candidates are hints; each is verified inside its routed re-verify task (team/candidate_routing.csv)"
+      }
+    },
+    {
+      "id": "T030",
+      "title": "Lead: benchmark reconciliation, installed-capacity timeseries, refresh QA/report/chart/map, CLAUDE.md schema",
+      "workstream": "D. Integration",
+      "owner": "worker",
+      "files": [
+        "scripts/build_timeseries.py",
+        "scripts/qa.py",
+        "scripts/build_report.py",
+        "scripts/make_chart_png.py",
+        "scripts/make_map.py",
+        "CLAUDE.md",
+        "qa_report.md",
+        "report.html"
+      ],
+      "depends_on": [
+        "T002",
+        "T003",
+        "T004",
+        "T005",
+        "T006",
+        "T007",
+        "T008",
+        "T009",
+        "T010",
+        "T011",
+        "T012",
+        "T013",
+        "T014",
+        "T015",
+        "T016",
+        "T017",
+        "T018",
+        "T019",
+        "T020",
+        "T021",
+        "T022",
+        "T023",
+        "T024"
+      ],
+      "acceptance": [
+        "checks/done_gates.py exits 0",
+        "Region and chemistry comparison vs IEA/BNEF documented in qa_report.md"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_review",
+      "branch": null,
+      "pr": null,
+      "attempts": 0,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T032",
+      "title": "Fill installed capacity (China batch 1, 25 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T032.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": null
+      }
+    },
+    {
+      "id": "T033",
+      "title": "Fill installed capacity (China batch 2, 25 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T033.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "5 dated-floor fills (65 GWh); quotes 6/8 FOUND, 2 fetch-fail"
+      }
+    },
+    {
+      "id": "T034",
+      "title": "Fill installed capacity (China batch 3, 25 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T034.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "empty patch (no changes) \u2014 nothing to audit"
+      }
+    },
+    {
+      "id": "T035",
+      "title": "Fill installed capacity (China batch 4, 22 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T035.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "1 fill (Narada Jiuquan); search budget exhausted"
+      }
+    },
+    {
+      "id": "T036",
+      "title": "Fill installed capacity (non-China batch 1, 30 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T036.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "lead-verified: tiny patch (1-2 fills), quotes FOUND; search budget exhausted"
+      }
+    },
+    {
+      "id": "T037",
+      "title": "Fill installed capacity (non-China batch 2, 30 rows)",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T037.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Only assigned ids updated",
+        "checks/run_all.py passes",
+        "Installed figures are commissioned+producing with date and basis; tiers per CONVENTIONS",
+        "Auditor sample: 0 values contradicted by their own quote/snippet"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "lead-verified: tiny patch (1-2 fills), quotes FOUND; search budget exhausted"
+      }
+    },
+    {
+      "id": "T038",
+      "title": "Discovery sweep: China: Jiangsu, Shanghai, Zhejiang",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T038.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "7 adds (Yunshi Weilan nameplate nulled by lead); truncated by search budget"
+      }
+    },
+    {
+      "id": "T039",
+      "title": "Discovery sweep: China: Fujian, Jiangxi, Guangdong, Guangxi, Hainan",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T039.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "auditor-opus",
+        "notes": "pass with minors; lead applied ATL reported tier, chemistry null, S14 apostrophe"
+      }
+    },
+    {
+      "id": "T040",
+      "title": "Discovery sweep: China: Anhui, Hubei, Hunan, Henan",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T040.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "9 adds (1 operator-less park removed by lead); quotes 20/21; truncated by search budget for Hubei/Henan"
+      }
+    },
+    {
+      "id": "T041",
+      "title": "Discovery sweep: China: Sichuan, Chongqing, Guizhou, Yunnan, Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang, Tibet",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T041.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "3 adds; quotes checked; sweep truncated by shared search budget \u2014 rerun needed for Ningxia/Xinjiang/Yunnan/Guizhou/Qinghai/Tibet"
+      }
+    },
+    {
+      "id": "T042",
+      "title": "Discovery sweep: China: Shandong, Hebei, Beijing, Tianjin, Shanxi, Inner Mongolia, Liaoning, Jilin, Heilongjiang",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T042.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "3 adds (2 nameplates nulled by lead); truncated by search budget"
+      }
+    },
+    {
+      "id": "T043",
+      "title": "Discovery sweep: Asia ex-China: South Korea, Japan, Taiwan, Southeast Asia, India, Middle East, Central Asia",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T043.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": null
+      }
+    },
+    {
+      "id": "T044",
+      "title": "Discovery sweep: Europe (incl. Turkey, UK, Russia), Americas, Africa, Oceania",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T044.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row (checks C6 + auditor)",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "2 adds; truncated by shared search budget"
+      }
+    },
+    {
+      "id": "T046",
+      "title": "Discovery rerun: Shanghai, Zhejiang (all prefectures), Jiangsu (Wuxi, Zhenjiang, Suqian, Lianyungang, Changzhou)",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T046.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "8 adds; Cubenergy nameplate nulled (D-026)"
+      }
+    },
+    {
+      "id": "T047",
+      "title": "Discovery rerun: Hubei, Henan (prefecture sweeps)",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T047.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": null
+      }
+    },
+    {
+      "id": "T048",
+      "title": "Discovery rerun: Shandong, Hebei, Shanxi, Tianjin, Beijing, Liaoning, Jilin, Heilongjiang",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T048.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": null
+      }
+    },
+    {
+      "id": "T049",
+      "title": "Discovery rerun: Ningxia, Xinjiang, Yunnan, Guizhou, Qinghai, Gansu, Tibet, Sichuan (other cities)",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T049.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Adds only, located in the task geography",
+        "No duplicate of an existing row",
+        "Every add has status evidence; capacities are cell GWh/yr",
+        "checks/run_all.py passes"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "6 adds incl Baofeng (null nameplate); quotes 14/14"
+      }
+    },
+    {
+      "id": "T051",
+      "title": "Discovery: Americas (USA small LFP/ESS, Canada, Mexico, South America), Africa, Oceania",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T051.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "Evidence tiers per CONVENTIONS; no duplicates"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "3 cancelled-project adds; no new active plants in Americas/Africa/Oceania"
+      }
+    },
+    {
+      "id": "T052",
+      "title": "Discovery: Russia/CIS, Poland, Baltics, Nordics, France (Saft), Serbia and other European gaps",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T052.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "Evidence tiers per CONVENTIONS; no duplicates"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "8 adds (mostly paused/cancelled/small); Russia region aligned to Europe"
+      }
+    },
+    {
+      "id": "T053",
+      "title": "Discovery: India and Southeast Asia gaps",
+      "workstream": "F. Expansion",
+      "owner": "worker",
+      "files": [
+        "data/patches/T053.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "Evidence tiers per CONVENTIONS; no duplicates"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "waived",
+        "by": "lead",
+        "notes": "1 add (Tenpower Malaysia 10 GWh); India/SEA confirmed covered"
+      }
+    },
+    {
+      "id": "T054",
+      "title": "Fill installed capacity: 15 largest China operational plants without a figure",
+      "workstream": "E. Capacity fill",
+      "owner": "worker",
+      "files": [
+        "data/patches/T054.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "Evidence tiers per CONVENTIONS; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "4 fills (Hithium Heze 30, Sunwoda Zaozhuang 16 + nameplate 66, CATL Zhaoqing 25 floor, Sunwoda Nanjing 4 floor)"
+      }
+    },
+    {
+      "id": "T055",
+      "title": "Operator totals: company-disclosed end-2025 cell capacity (GWh) for the ~25 largest operators, from filings/IR, for per-operator gap analysis",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/reference/operator_totals.csv"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "Each total cites an open filing/IR/press page with verbatim quote and a date",
+        "Units converted only when the source gives GWh (Ah/cells noted, not converted)"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "in_progress",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": null,
+        "by": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "T056",
+      "title": "Operator gap fill: BYD/FinDreams \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T056.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "5 installed fills (Xiangyang 30, Guiyang 15, Xining 10, Xi'an 10, Nanning 10), 1 add (Shanwei 15 announced); quotes 12/13 + S5 manually confirmed"
+      }
+    },
+    {
+      "id": "T057",
+      "title": "Operator gap fill: CALB + Lishen \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T057.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "1 fill (Lishen Qingdao 4 GWh 2019 floor), 1 add (CALB Luoyang, capacity null); quotes 3/3 found; CALB 2025 shipments 116 GWh < our C"
+      }
+    },
+    {
+      "id": "T058",
+      "title": "Operator gap fill: EVE + Sunwoda \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T058.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "1 fill (Sunwoda Shifang 25); EVE/Sunwoda output figures recorded; our C exceeds both companies' 2025 output"
+      }
+    },
+    {
+      "id": "T059",
+      "title": "Operator gap fill: SVOLT + Gotion + Envision AESC \u2014 installed capacity for operational sites + missing sites + company 2025 output",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T059.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "installed figures dated with basis; tiers per CONVENTIONS",
+        "adds only for this operator family; no duplicates"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "0 fills, 1 add (Gotion Hefei 20 GWh announced); output data shows our C exceeds SVOLT/Gotion 2025 output"
+      }
+    },
+    {
+      "id": "T060",
+      "title": "Correction pass on escalated rows: Lishen Qingdao 40 GWh, SVOLT Ma'anshan 28 GWh prismatic, CALB Jintan 70 GWh, BYD Shenzhen null status, BYD Zhengzhou/Xining",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T060.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "each assigned row resolved with evidence or escalated",
+        "corrections only with evidence (no removals to pass checks)"
+      ],
+      "risk": "high",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "Lishen Qingdao 40\u219210; SVOLT Ma'anshan format\u2192cylindrical; CALB Jintan 70 confirmed as plan, ref 2026; BYD Zhengzhou 40 confirmed; quotes 8/8"
+      }
+    },
+    {
+      "id": "T062",
+      "title": "Missing-plant check: open aggregate capacity statistics (China/Japan/Korea) + China cell-maker ranking vs DB coverage",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/reference/candidates/T062.csv",
+        "team/evidence/T062_aggregates.md"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "every statistic has url+verbatim quote+date+definition (capacity vs output vs shipments)",
+        "every ranked maker mapped to DB ids or listed as missing with any site/capacity leads"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "see PROGRESS"
+      }
+    },
+    {
+      "id": "T063",
+      "title": "Geographic sweep + installed fill: Japan and South Korea domestic cell plants",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T063.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "adds only JP/KR-located plants; no duplicates",
+        "installed/nameplate dated with evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "see PROGRESS"
+      }
+    },
+    {
+      "id": "T064",
+      "title": "Discovery rerun (prefecture-level): Guangdong (all prefectures: Shenzhen, Huizhou, Dongguan, Guangzhou, Zhaoqing, Jiangmen, Zhuhai, Shantou, Shanwei, Meizhou, Shaoguan, Qingyuan, Heyuan, Foshan, Zhongshan, Maoming, Zhanjiang) + Fujian (Ningde, Xiamen, Fuzhou, Quanzhou, Zhangzhou, Longyan, Putian, Sanming, Nanping)",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T064.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "adds only in-geography, no duplicates (grep first)",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "3 announced adds (Jiahang 35, Kexiang 8 Na, Longbang 1 SS); quotes 5/5; pass 2 found nothing operational/UC missing"
+      }
+    },
+    {
+      "id": "T065",
+      "title": "Discovery rerun (prefecture-level): Jiangxi (Yichun, Ganzhou, Shangrao, Ji'an, Pingxiang, Xinyu, Nanchang, Jiujiang, Fuzhou-JX, Jingdezhen, Yingtan) + Anhui (Hefei, Chuzhou, Wuhu, Ma'anshan, Bengbu, Fuyang, Lu'an, Anqing, Xuancheng, Huainan, Chizhou, Tongling, Bozhou, Suzhou-AH, Huaibei, Huangshan) + Hunan (Changsha, Xiangtan, Zhuzhou, Yueyang, Changde, Hengyang, Chenzhou, Yiyang, Loudi, Shaoyang, Yongzhou, Huaihua)",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T065.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "adds only in-geography, no duplicates (grep first)",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "3 adds (Anneng 20 ann, Nafang 10 ann, Sany UC null), 1 update (Li-FUN 2.5\u21922); quotes 6/6; near-saturated"
+      }
+    },
+    {
+      "id": "T066",
+      "title": "Operator follow-up: ENERGEE/Geely (all bases), Inpower (GAC), Yuanhang Jinli, Rongsheng Mengguli + tier-2/3 China makers (ESS, two-wheeler/small-power, consumer cylindrical) \u2014 site lists vs DB",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T066.json",
+        "data/reference/operator_sites/T066.csv"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "no duplicates (grep first)",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "7 adds: Inpower 36 (18 installed), Ningguo 12 op, Mengguli 15 op, Yuanhang 5 op, Yaoning Chongqing 30 UC, Geely Ganzhou 42 ann, Tonglu 12 ann; quote punctuation fixed"
+      }
+    },
+    {
+      "id": "T067",
+      "title": "Discovery rerun (prefecture-level): Chongqing, Shaanxi, Guangxi, Hainan, Inner Mongolia",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T067.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "no duplicates (grep first)",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "6 adds (Times-Changan Chongqing 25 ann; 2x50 GWh sodium parks; 3 small/bundled); 0 operational missing; quotes fixed to verbatim"
+      }
+    },
+    {
+      "id": "T068",
+      "title": "Checklist pass: MIIT \u9502\u79bb\u5b50\u7535\u6c60\u884c\u4e1a\u89c4\u8303\u6761\u4ef6 compliant-company lists (all batches, battery/cell category) vs DB \u2014 add missing cell sites",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T068.json",
+        "data/reference/candidates/T068_miit.csv"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "every listed cell site mapped to a DB id or excluded with reason",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "see ESCALATIONS"
+      }
+    },
+    {
+      "id": "T069",
+      "title": "Checklist pass: open trackers outside China \u2014 NAATBatt/Argonne Li-ion supply-chain database (North America), Battery-News gigafactory list (Europe), plus EU JRC/T&E lists \u2014 vs DB",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T069.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "every listed cell site mapped to a DB id or excluded with reason",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "see ESCALATIONS"
+      }
+    },
+    {
+      "id": "T070",
+      "title": "Follow-up: ~30 China cell makers on the MIIT list or tier-2/3 not yet matched (Poweramp, Tianjin MGL, Wuhan Lishen, Sunwoda Huizhou Power, Polyway, Scud, Yijiatong, Xindong, ZTT, DBK, Chixin, Far East Fosit, Weike, Shandong Weineng, Luhua, Chunlan, Kaien, Lixuan, Zijian, Jiade, Guoguang, Livan, Yexiang, Yadea, \u5174\u50a8\u4e16\u7eaa, \u878d\u6377, \u679c\u4e0b, Fuding Times) \u2014 sites + capacity",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T070.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "no duplicates",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "4 adds (Far East Yixing 12 plan/2 installed, Far East Yichun, Yijiatong Xuancheng, ZTT Nantong UC); lead nulled assumed chemistry"
+      }
+    },
+    {
+      "id": "T071",
+      "title": "Status refresh outside China: Gotion Kenitra, LGES Lansing, CATL Debrecen, PowerCo Salzgitter, Statevolt, BE-VOLT cell-vs-pack, Enovix Routejade Korea, plus Battery-News Oct-2025 Europe map residue (Nordhausen, Douvrin, Dunkirk) and 2026 commissioning news for all non-China under_construction rows \u22655 GWh",
+      "workstream": "F. Coverage",
+      "owner": "worker",
+      "files": [
+        "data/patches/T071.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "no duplicates",
+        "evidence per CONVENTIONS"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "2 adds (Enovix Routejade Nonsan, EAS Nordhausen), Ford Marshall refreshed; leads already current; BE-VOLT removal overruled (kept, conflicting evidence)"
+      }
+    },
+    {
+      "id": "T073",
+      "title": "History fill: start_year + dated capacity steps (2019\u20132025) for the 26 largest operational plants lacking start_year",
+      "workstream": "G. Reconciliation",
+      "owner": "worker",
+      "files": [
+        "data/patches/T073.json"
+      ],
+      "depends_on": [],
+      "acceptance": [
+        "checks/run_all.py passes",
+        "start_year and capacity_by_year_json steps each sourced",
+        "no interpolation"
+      ],
+      "risk": "normal",
+      "contract": {
+        "path": "team/CONVENTIONS.md",
+        "approved": true
+      },
+      "status": "merged",
+      "branch": null,
+      "pr": null,
+      "attempts": 1,
+      "assumptions": [],
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "8 rows: start years + dated steps confirmed (CATL Guiyang, CALB Jiangmen, Hithium Xiamen, Zenergy Changshu, Sunwoda Deyang, FinDreams Taizhou, SVOLT Yancheng, CBAK Dalian); totals unchanged \u2014 histories were already carried from v1 timelines, now confirmed"
+      }
+    }
+  ]
 }

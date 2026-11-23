@@ -129,7 +129,7 @@ Review these — they may be the same physical site under different names, or le
 | same operator + shared location token '20gwh' | Gotion Hefei Xinzhan 20GWh power battery project (Hefei Gotion Green Energy) ⟷ Wuhu Gotion 20GWh New Energy Battery Base (Gotion Wuhu plant) | hefei-gotion-green-energy-co-ltd-gotion-hefei-xinzhan-20gwh-power-battery-project-hefei-gotion-green-energy-china, wuhu-gotion-power-technology-co-ltd-wuhu-gotion-20gwh-new-energy-battery-base-gotion-wuhu-plant-china |
 | same operator + shared location token 'banner' | Jianheng Aoneng Dalate Banner sodium-ion battery base (Ordos supply-chain area) ⟷ Ordos Juungar Banner sodium-ion battery and energy storage industrial park (Juungar Economic Development Zone) | inner-mongolia-jianheng-aoneng-technology-jianheng-aoneng-dalate-sodium-ion-base-china, inner-mongolia-xinjing-new-energy-technology-ordos-juungar-sodium-ion-park-china |
 
-## 2. Capacity double-count / consistency flags (22 rows)
+## 2. Capacity double-count / consistency flags (23 rows)
 
 | plant | operator | region | nameplate GWh | flag |
 |---|---|---|---:|---|
@@ -139,6 +139,7 @@ Review these — they may be the same physical site under different names, or le
 | Envision AESC Yichang storage super factory | Envision AESC | China | 100.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Great Power Guangzhou (Panyu) plant | Great Power | China | 2.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Hengdian DMEGC Dongyang Lithium Cell Plant | Hengdian Group DMEGC Magnetics Co., Ltd. | China | 8.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| Hithium Xiamen plant (Xiamen production base) | Hithium | China | 45.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Zenergy Changshu Plant | Jiangsu Zenergy | China | 70.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | LG Energy Solution Nanjing (LGESNJ; Plants 6 and 9, Jiangning) | LG Energy Solution (Nanjing) Co., Ltd. | China | 54.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Li-FUN Zhuzhou Plant | Li-FUN Technology | China | 2.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
