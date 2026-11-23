@@ -26,5 +26,9 @@ added nothing ≥1 GWh that we did not already have.
 | China ranked makers (EV installs + ESS shipments) | T062 | top-15 covered except ENERGEE, Inpower, Yuanhang, Mengguli |
 | Follow-ups for missing/partial makers from T062 + tier-2/3 | T066 | 7 adds (4 operational); Shangrao/Yingtan bases no open source; Yadea etc. unchecked |
 
+| MIIT 规范条件 compliant lists (batches 1–9, via republications) | T068 | 83 cell makers: 55 matched, 28 unmatched → T070 (running); official attachments unreachable here |
+| Open trackers outside China (TechCrunch NA, Battery-News EU, India mapping) | T069 | ~60 sites, all but 3 matched; NREL/NAATBatt unreachable |
+| Status refresh non-China UC ≥5 GWh | T071 (running) | |
+
 ## Axis 3 — aggregates (sanity)
 IEA-like Series D vs IEA by year and region (team/RECONCILIATION.md); China-wide open capacity statistic (T062).
