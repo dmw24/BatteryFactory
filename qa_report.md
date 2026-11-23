@@ -1,6 +1,6 @@
 # Battery Gigafactory Database — QA report
 
-Generated from `factories.db`. Total rows: **547**. Confirmed cell manufacturers: **345**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
+Generated from `factories.db`. Total rows: **548**. Confirmed cell manufacturers: **345**. Flagged non-cell (pack/material/recycling, kept and tagged): **7**.
 
 > Capacity is annual GWh/year at nameplate. Totals are grouped by status and are **never summed across statuses** — announced, under-construction and operational capacity are distinct and must not be added together.
 
@@ -11,7 +11,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 302 | 6840.0 | 3235.0 |
+| operational | 303 | 6840.0 | 3235.0 |
 | announced | 90 | 1178.0 | — |
 | under_construction | 76 | 1727.0 | — |
 | (unknown) | 18 | 6.0 | — |
@@ -34,7 +34,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---|---:|---:|
 | China | (unknown) | 7 | 3.0 |
 | China | announced | 59 | 878.0 |
-| China | operational | 199 | 5683.0 |
+| China | operational | 200 | 5683.0 |
 | China | under_construction | 46 | 1011.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 9 | 75.0 |
@@ -222,7 +222,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | operational |
 | CosMX Chongqing Plant | Zhuhai CosMX Battery | China | operational |
 
-## 3. Rows with confidence < 0.5 (249)
+## 3. Rows with confidence < 0.5 (250)
 
 | plant | operator | country | conf | is_cell | note |
 |---|---|---|---:|:---:|---|
@@ -366,6 +366,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Great Power Vietnam plant | Great Power | Vietnam | 0.4 | N | [T008 2026-11-20] 2025 annual report: Vietnam is one of 9 operating bases and 'the Vietnam… |
 | Great Power Zhuhai plant | Great Power | China | 0.4 | N | [T008 2026-11-20] Listed by the 2025 annual report as one of 9 stably operating production… |
 | GS Yuasa Ibaraki stationary storage plant | GS Yuasa Corporation | Japan | 0.4 | N | [T063 2026-11-22] [T063 2026-11-22] NEW (Japan sweep; lead from team/candidate_routing.csv… |
+| Fenghua New Energy Zhaoqing cell plant (Duanzhou; polymer and aluminium-shell consumer cells) | Guangdong Fenghua New Energy Co., Ltd. (广东风华新能源股份有限公司) | China | 0.4 | N | [T074 2026-11-23] [T074 NEW; capacity null because the source states cell COUNTS, not GWh]… |
 | FinDreams Guangxi-ASEAN battery plant (广西东盟弗迪电池) | Guangxi ASEAN FinDreams Battery | China | 0.4 | N | [T003 2026-11-20] Cailian 2022-09-13: 广西东盟弗迪电池 project of 10 GWh hybrid-vehicle battery + … |
 | Guyi New Energy Tumd Left Banner 2.2 GWh high-safety solid-state battery project (Taigemu Town, Hohhot) | Guyi New Energy (Inner Mongolia) Technology Co., Ltd. | China | 0.4 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep, Hohhot). Mysteel 2026-04-07 (S8): proj… |
 | Foxconn Kaohsiung LFP battery plant | Foxconn (Hon Hai Precision Industry) | Taiwan | 0.4 | N | [T043 2026-11-20] NEW (T043, Taiwan sweep). GTAI 2026-06-17 (S5): Foxconn makes LFP 'Batte… |
