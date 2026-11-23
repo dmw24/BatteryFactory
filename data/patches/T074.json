@@ -1,0 +1,80 @@
+{
+  "task": "T074",
+  "verified_on": "2026-11-23",
+  "sources": {
+    "S1": {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202509301753461152_1.pdf",
+      "publisher": "Guangdong Fenghua New Energy Co., Ltd. (广东风华新能源股份有限公司), 公开转让说明书 (NEEQ public-transfer prospectus, filing draft, page 1-1-66; the page shows no date - 2025-09-30 is taken from the file ID in the URL and the 2025-Q1 data period, and search results describe it as the Sept 2025 draft)",
+      "published": "2025-09-30",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "公司在广东省肇庆市设有生产基地"
+    },
+    "S2": {
+      "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20248/ada3e771cd704402b81ba1ad1b2a6064.pdf",
+      "publisher": "MIIT (工业和信息化部), 符合《锂离子电池行业规范条件》企业名单（第八批）, announcement 2024 No.24 (announcement page shows 2024-08-30); local text team/evidence/miit/batch8.txt",
+      "published": "2024-08-30",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "消费型单体电池 ... 广东风华新能源股份有限公司"
+    },
+    "S3": {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202509301753461152_1.pdf",
+      "publisher": "Guangdong Fenghua New Energy Co., Ltd., 公开转让说明书 (NEEQ filing draft), page 1-1-66, production mode",
+      "published": "2025-09-30",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "公司锂电池产品生产主要分为两部分：聚合物电池生产、铝壳电池生产。"
+    },
+    "S4": {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202509301753461152_1.pdf",
+      "publisher": "Guangdong Fenghua New Energy Co., Ltd., 公开转让说明书 (NEEQ filing draft), page 1-1-63, environmental-protection disclosure",
+      "published": "2025-09-30",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "公司主要从事消费型锂离子电池的研发、生产及销售"
+    },
+    "S5": {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202509301753461152_1.pdf",
+      "publisher": "Guangdong Fenghua New Energy Co., Ltd., 公开转让说明书 (NEEQ filing draft), page 1-1-69, high-value-for-money battery technology",
+      "published": "2025-09-30",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "公司应用钴酸锂掺三元材料技术"
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "guangdong-fenghua-new-energy-fenghua-zhaoqing-cell-plant-china",
+      "fields": {
+        "plant_name": "Fenghua New Energy Zhaoqing cell plant (Duanzhou; polymer and aluminium-shell consumer cells)",
+        "operator": "Guangdong Fenghua New Energy Co., Ltd. (广东风华新能源股份有限公司)",
+        "parent_company": null,
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "start_year": null,
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "installed_capacity_gwh": null,
+        "chemistry": "LCO",
+        "cell_format": "mixed",
+        "end_market": "consumer",
+        "source_url": "https://pdf.dfcfw.com/pdf/H2_AN202509301753461152_1.pdf",
+        "source_date": "2026-11-23",
+        "source_published_date": "2025-09-30"
+      },
+      "evidence": {
+        "status": ["S1", "S4", "S2"],
+        "chemistry": ["S5"],
+        "cell_format": ["S3"],
+        "end_market": ["S4"]
+      },
+      "confidence": 0.5,
+      "notes": "[T074 NEW; capacity null because the source states cell COUNTS, not GWh] Found via the MIIT list (batch 8, S2: 消费型单体电池 + 消费型电池组, relisting not in batches 1-7) and checked against the company's own NEEQ public-transfer prospectus (S1/S3/S4/S5; pages 1-1-61 to 1-1-73 read as page images, so the text-layer match of quotes may differ in spacing). Not in DB: grepped factories_export.csv, data/removed.csv, data/patches and data/reference for 风华/Fenghua/肇庆市风华 (only hit: v1 baseline note about Deligreen's Ningbo Fenghua site, unrelated). Facts from the prospectus: the company is a consumer Li-ion maker (S4) with a single production base in Zhaoqing, Guangdong (phase I and II buildings about 36 mu and 75,000 m2 floor area, p.1-1-66); two cell lines of products: polymer (pouch) cells and aluminium-shell cells (S3); main customer Transsion (phones). Production table p.1-1-66 (unit 万只 = 10,000 cells; NOT convertible to GWh because no Wh per cell is stated): polymer cells/batteries capacity 6,000 (2023), 7,500 (2024), 1,875 (2025 Jan-Mar); output 4,617.17, 6,364.20, 1,334.86; utilisation 76.95%, 84.86%, 71.19%. Aluminium-shell cells capacity 5,000, 6,400, 1,600; output 4,570.74, 5,884.46, 1,267.46; utilisation 91.41%, 91.94%, 79.22%. So about 139 million cells/yr of design capacity in 2024 and about 122 million produced; 2024 revenue RMB 1,289 million (p.1-1-61 text via search summary; not quoted). A GWh equivalent would need an assumed Wh/cell (phone cells ~10-20 Wh would imply about 1.4-2.8 GWh) - this is an inference, NOT entered; the >=0.5 GWh threshold of the task is therefore plausible but not sourced. Status operational: the table reports actual production (S1 base, S4 business) and the prospectus describes mass-production lines. nameplate/installed/ref_year/start_year left null (rule 5). Chemistry LCO: S5 says the company applies LCO blended with ternary material; supplier table shows cobalt-oxide cathode purchases (华友钴业, 格林美, 巴斯夫杉杉) - ternary and LMO R&D also appear, so chemistry may be LCO/NMC blend. cell_format mixed = pouch (polymer) + prismatic aluminium-shell; 18650 cylindrical R&D projects are listed but production lines are not stated. Registered address per search summary: 肇庆市端州区三榕东路3号 (not read on the page; no coordinates entered). Confidence 0.5: single company document (draft filing), capacity unit not GWh. Not a duplicate of CATL Zhaoqing (Ruiqing Times)."
+    }
+  ]
+}

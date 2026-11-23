@@ -30,7 +30,7 @@ import duckdb
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 ALIAS = {"REPT Battero": "REPT", "Panasonic Energy": "Panasonic", "Contemporary Amperex": "CATL", "EVE Energy": "EVE",
-         "Gotion High-tech": "Gotion", "Great Power Energy": "Great Power", "Farasis Energy": "Farasis",
+         "Gotion High-tech": "Gotion", "Gotion High-Tech": "Gotion", "Great Power Energy": "Great Power", "Farasis Energy": "Farasis",
          "Ganfeng LiEnergy": "Ganfeng", "Ganfeng Lithium": "Ganfeng", "Narada Power": "Narada", "BYD Company": "BYD"}
 SINGLE_SEGMENT = {"Hithium": "ess_only"}   # companies whose whole cell business is one segment
 HOME_REGION = {"LGES": "South Korea", "Samsung SDI": "South Korea", "SK On": "South Korea", "Panasonic": "Japan",

@@ -109,6 +109,10 @@ non-comparable long-duration chemistries in `data/reference/non_comparable.csv` 
   once a *dated* `capacity_ref_year` ≤ year), for operational active plants; `gwh_iea_high` also credits plans whose
   ref year is only the publication-year fallback (upper bound). Use D/D-high for like-for-like comparison with IEA
   and as a missing-plant check; C stays the "actually producing" estimate.
+- **Series E — D plus unallocated company capacity (D-028).** `scripts/build_unallocated.py`: company-disclosed total
+  capacity (data/reference/company_capacity/*.csv, verbatim-quoted) minus the D sum of that company's sites
+  (data/reference/company_map.csv, JV sites included), floored at 0, stored as company/year lines with no site or
+  coordinates (`capacity_unallocated`, `capacity_unallocated.csv`, `capacity_by_year_e.csv`). Never interpolated.
 - **Pipeline** = nameplate at `capacity_ref_year` above what is online.
 
 **Confirmed vs reported (D-024).** `reported_fields` (JSON list) marks values carried from v1 sources that v2

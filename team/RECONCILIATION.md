@@ -65,3 +65,23 @@ nrel.gov, METI) are unreachable from this environment.
 See `team/ESCALATIONS.md`: Lishen Qingdao corrected 40→10 GWh (T060); SVOLT Ma'anshan format corrected to
 cylindrical, its 28 GWh plan still unconfirmed; CALB Jintan 70 GWh confirmed as a six-phase plan; low-confidence BYD rows remain. These corrections did not change
 the 2025 totals (affected rows were already counted at their confirmed installed figures).
+
+## Series E — IEA-like plus unallocated company capacity (D-028, 2026-11-23)
+Company-disclosed total capacity minus the Series D sum of that company's mapped sites (JV sites included), floored at
+0, as company/year lines with no location (`capacity_unallocated.csv`). Usable disclosures: CATL 2020–2025 (annual
+report 产能 table, 电池系统), Narada 2022–2025, REPT 2024–2025, Hithium 2024, Zenergy 2025, SVOLT 2020–2022.
+EVE, Great Power and Sunwoda disclose capacity only in cells or Ah (not converted); BYD, CALB, Gotion (one unclear
+prose figure), LGES, Samsung SDI, SK On and Panasonic disclose no company-wide GWh capacity.
+
+| year | D IEA-like | unallocated | E | IEA | E/IEA |
+|---|---:|---:|---:|---:|---:|
+| 2021 | 472 | 49 | 521 | 1,140 (derived) | 46% |
+| 2022 | 1,033 | 131 | 1,164 | 1,720 (derived) | 68% |
+| 2023 | 1,599 | 259 | 1,858 | 2,500 | 74% |
+| 2024 | 2,078 | 348 | 2,426 | >3,000 | ≤81% |
+| 2025 | 3,383 | 54 | 3,437 | >4,000 | ≤86% |
+
+Reading: almost all of the unallocated capacity is CATL in 2020–2024 (its disclosed capacity exceeds our dated site
+history; in 2025 our CATL sites, 875 GWh on the IEA basis, exceed its disclosed 772 GWh effective capacity). That
+confirms the 2021–24 shortfall is largely missing *history* at known sites, not missing plants. The rest of the gap is
+companies that disclose no GWh capacity (BYD, CALB, Gotion, EVE, Korean/Japanese makers).
