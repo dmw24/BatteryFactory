@@ -55,3 +55,8 @@ Format:
 ## 2026-11-22 lead — T062/T063 merged
 - T062 (aggregates + maker coverage): China capacity >2 TWh 2024 (CRU), output 2025 ~1.76 TWh (CABIA), utilisation ~50–60% sector — consistent with our China 2.6–3.2 TWh (2025). Top-15 CABIA installers covered except ENERGEE (Geely; partial: Tonglu, Ganzhou, Shangrao, Yingtan, Ningguo, Zaozhuang bases missing), Inpower (GAC, Guangzhou, missing), Yuanhang Jinli, Rongsheng Mengguli. Maker table moved to data/reference/maker_coverage_T062.csv (not the candidates schema).
 - T063 (JP/KR): 0 installed fills (no open per-site GWh), 3 adds (VEJ Ibaraki, GS Yuasa Ibaraki announced, LEJ Ritto). METI/DART not reachable.
+
+## 2026-11-23 lead — coverage checks complete; Series E (D-028)
+- MIIT official lists (batches 1–9, revocations, changes) fetched via headless browser (curl was reset; browser works for miit.gov.cn/hunan.gov.cn; nrel.gov still blocked by proxy). T074: ~81 cell makers, 68 matched, ~13 small makers with no open info.
+- Company capacity (T075–T077): usable GWh disclosures only CATL 2020–25, Narada 2022–25, REPT 2024–25, Hithium 2024, Zenergy 2025, SVOLT 2020–22. EVE/Great Power/Sunwoda report cells/Ah; BYD/CALB/Gotion/KR/JP no GWh capacity. Press estimates kept as sanity rows only.
+- Series E (D + unallocated): 2021 521 · 2022 1,164 · 2023 1,858 · 2024 2,426 · 2025 3,437 GWh vs IEA 1,140*/1,720*/2,500/>3,000/>4,000.
