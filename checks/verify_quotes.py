@@ -72,7 +72,7 @@ def main():
             page = cache[r.url]
             q = norm(str(r.quote))
             # tolerate ellipses in quotes: every fragment must be present
-            ok = all(frag.strip() in page for frag in re.split(r"\s*(?:\.\.\.|…)\s*", q) if frag.strip())
+            ok = all(frag.strip().rstrip(".。,，;；") in page for frag in re.split(r"\s*(?:\.\.\.|…)\s*", q) if frag.strip().rstrip(".。,，;；"))  # sentence-final punctuation the page may continue past
             tag = "FOUND" if ok else "MISSING"
         except Exception as e:  # noqa: BLE001
             tag = f"FETCH_FAIL"
