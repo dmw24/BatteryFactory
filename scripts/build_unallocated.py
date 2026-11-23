@@ -29,6 +29,10 @@ import duckdb
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
+ALIAS = {"REPT Battero": "REPT", "Panasonic Energy": "Panasonic", "Contemporary Amperex": "CATL", "EVE Energy": "EVE",
+         "Gotion High-tech": "Gotion", "Great Power Energy": "Great Power", "Farasis Energy": "Farasis",
+         "Ganfeng LiEnergy": "Ganfeng", "Ganfeng Lithium": "Ganfeng", "Narada Power": "Narada", "BYD Company": "BYD"}
+SINGLE_SEGMENT = {"Hithium": "ess_only"}   # companies whose whole cell business is one segment
 HOME_REGION = {"LGES": "South Korea", "Samsung SDI": "South Korea", "SK On": "South Korea", "Panasonic": "Japan",
                "Envision AESC": "China"}
 
@@ -36,6 +40,7 @@ disc = []
 for f in sorted(glob.glob("data/reference/company_capacity/*.csv")):
     for r in csv.DictReader(open(f, encoding="utf-8")):
         r["_file"] = os.path.basename(f)
+        r["company"] = ALIAS.get((r.get("company") or "").strip(), (r.get("company") or "").strip())
         disc.append(r)
 cmap = {r["id"]: r["company"] for r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8"))
         if not r["company"].startswith("(")}
@@ -62,7 +67,7 @@ for r in disc:
         skipped.append((r.get("company"), r.get("year"), "unparseable")); continue
     if basis not in ("year_end", "annual_effective"):
         skipped.append((r["company"], year, f"basis {basis}")); continue
-    if any(s in scope for s in ("power_only", "ess_only", "consumer_only")):
+    if any(s in scope for s in ("power_only", "ess_only", "consumer_only")) and SINGLE_SEGMENT.get(r["company"]) not in scope:
         skipped.append((r["company"], year, f"segment scope {scope}")); continue
     if not (scope.startswith("global") or scope.startswith("china")):
         skipped.append((r["company"], year, f"scope {scope}")); continue
