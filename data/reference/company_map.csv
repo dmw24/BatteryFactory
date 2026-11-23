@@ -1,0 +1,216 @@
+id,company,jv,operator,parent_company,country,status
+aesc-aesc-zama-plant-japan,Envision AESC,,AESC,Envision Group,Japan,operational
+aesc-battery-spain-envision-aesc-envision-aesc-navalmoral-de-la-mata-venergy-spain,Envision AESC,,AESC Battery Spain (Envision AESC),Envision Group,Spain,under_construction
+aesc-japan-ltd-aesc-group-aesc-ibaraki-plant-japan,Envision AESC,,AESC Japan Ltd (AESC Group),Envision Group (Envision AESC),Japan,operational
+ampace-xiamen-ampace-xiamen-battery-base-china,"(excluded: ATL/CATL JV, not in a disclosed total)",yes,"Ampace (Xiamen Ampace Technology Limited, 新能安)",CATL / Amperex Technology Limited (ATL) joint venture,China,operational
+baotou-byd-battery-byd-baotou-battery-plant-china,BYD,,Baotou BYD Battery,"BYD Co., Ltd.",China,operational
+byd-byd-findreams-xining-plant-qinghai-findreams-battery-co-ltd-china,BYD,,BYD,"BYD Co., Ltd.",China,operational
+byd-findreams-battery-byd-findreams-bengbu-plant-china,BYD,,BYD (FinDreams Battery),"BYD Co., Ltd.",China,operational
+byd-findreams-battery-byd-findreams-xcmg-findreams-xuzhou-blade-battery-plant-china,BYD,,BYD (FinDreams Battery),BYD,China,under_construction
+byd-findreams-battery-wuwei-findreams-battery-plant-byd-new-energy-power-battery-yangtze-river-delta-manufacturing-center-china,BYD,,BYD FinDreams Battery,BYD,China,operational
+byd-findreams-battery-zhengzhou-fudi-battery-co-ltd-byd-findreams-fudi-zhengzhou-battery-plant-china,BYD,yes,"BYD (FinDreams Battery / Zhengzhou Fudi Battery Co., Ltd.)","BYD Co., Ltd.",China,operational
+byd-findreams-byd-findreams-huizhou-plant-china,BYD,,BYD FinDreams,BYD Company Ltd.,China,operational
+byd-findreams-huaihai-findreams-xuzhou-sodium-ion-base-china,BYD,,Huaihai-FinDreams Sodium Battery (Xuzhou),"BYD Co., Ltd.",China,under_construction
+calb-calb-changzhou-jintan-battery-base-china,CALB,,CALB,"CALB Group Co., Ltd. (中创新航)",China,operational
+calb-calb-chengdu-plant-sichuan-base-china,CALB,,CALB,"CALB Group Co., Ltd. (中创新航)",China,operational
+calb-calb-hefei-plant-changfeng-xiatang-battery-base-china,CALB,,CALB,"CALB Group Co., Ltd. (中创新航)",China,operational
+calb-calb-jiangmen-base-xinhui-china,CALB,,CALB,"CALB Group Co., Ltd. (中创新航)",China,operational
+calb-calb-leapmotor-wuyi-cell-plant-jinhua-china,CALB,,CALB,"CALB Group Co., Ltd.",China,under_construction
+calb-calb-meishan-power-battery-and-energy-storage-base-pengshan-meishan-sichuan-china,CALB,,CALB,"CALB Group Co., Ltd.",China,operational
+calb-calb-sines-portugal,CALB,,CALB,"CALB Group Co., Ltd. (China Aviation Lithium Battery)",Portugal,announced
+calb-calb-wuhan-base-zhonghang-xinhang-wuhan-power-and-energy-storage-battery-base-china,CALB,,CALB,"CALB Group Co., Ltd. (中创新航科技集团)",China,operational
+calb-calb-xiamen-battery-base-china,CALB,,CALB,"CALB Group Co., Ltd.",China,operational
+calb-calb-xinyang-base-51-gwh-power-energy-storage-battery-project-china,CALB,,CALB,"CALB Co., Ltd. (中创新航)",China,under_construction
+calb-technology-handan-co-ltd-calb-power-battery-and-energy-storage-battery-system-handan-base-china,CALB,,"CALB Technology (Handan) Co., Ltd.","CALB Group Co., Ltd. (中创新航)",China,under_construction
+calb-zaozhuang-tengzhou-base-china,CALB,,CALB,"CALB Group Co., Ltd.",China,under_construction
+calb-zigong-base-china,CALB,,CALB,"CALB Group Co., Ltd.",China,under_construction
+catl-catl-debrecen-hungary,CATL,,CATL,Contemporary Amperex Technology Co. Limited (CATL),Hungary,under_construction
+catl-catl-dongying-zero-carbon-industrial-park-lithium-battery-manufacturing-base-china,CATL,,CATL,Contemporary Amperex Technology Co. Ltd (CATL),China,under_construction
+catl-catl-guiyang-gui-an-battery-production-base-china,CATL,,CATL,Contemporary Amperex Technology Co. Ltd (CATL),China,operational
+catl-catl-jining-plant-shandong-times-energy-storage-and-power-battery-base-china,CATL,,CATL,"Contemporary Amperex Technology Co., Ltd. (CATL)",China,operational
+catl-catl-liyang-plant-jiangsu-contemporary-amperex-technology-china,CATL,,CATL,CATL (Contemporary Amperex Technology Co. Limited),China,operational
+catl-catl-luoyang-zhongzhou-times-new-energy-battery-base-china,CATL,,CATL,CATL (Contemporary Amperex Technology Co. Limited),China,operational
+catl-catl-ningde-plant-ningde-manufacturing-hub-china,CATL,,CATL,"Contemporary Amperex Technology Co., Limited (CATL)",China,operational
+catl-catl-xiamen-battery-base-xiamen-times-new-energy-china,CATL,,CATL,CATL (Contemporary Amperex Technology Co. Ltd),China,under_construction
+catl-catl-xiamen-times-high-performance-lithium-battery-project-china,CATL,,CATL,"Contemporary Amperex Technology Co., Limited (CATL)",China,under_construction
+catl-catl-xining-plant-qinghai-times-new-energy-technology-co-ltd-china,CATL,,CATL,"Contemporary Amperex Technology Co., Ltd. (CATL)",China,operational
+catl-catl-yibin-power-battery-base-china,CATL,,CATL,Contemporary Amperex Technology Co. Limited (CATL),China,operational
+catl-catl-yichun-battery-production-base-china,CATL,,CATL,"Contemporary Amperex Technology Co., Limited (CATL)",China,operational
+catl-catl-zhaoqing-plant-china,CATL,,CATL,Contemporary Amperex Technology Co. Limited (CATL),China,operational
+catl-contemporary-amperex-technology-thuringia-gmbh-catl-thuringia-arnstadt-erfurter-kreuz-germany,CATL,,CATL (Contemporary Amperex Technology Thuringia GmbH),Contemporary Amperex Technology Co. Limited (CATL),Germany,operational
+catl-luoyuan-times-new-energy-battery-industrial-base-luoyuan-china,CATL,,CATL,"CATL (Contemporary Amperex Technology Co., Ltd.)",China,under_construction
+catl-stellantis-jv-catl-stellantis-zaragoza-figueruelas-gigafactory-spain,CATL,yes,CATL-Stellantis JV,CATL / Stellantis (50-50 JV),Spain,under_construction
+changsha-findreams-battery-findreams-battery-byd-findreams-changsha-plant-ningxiang-china,BYD,,Changsha FinDreams Battery (FinDreams Battery),BYD Company,China,operational
+china-lithium-battery-technology-luoyang-co-ltd-calb-luoyang-lithium-battery-plant-china,CALB,,"China Lithium Battery Technology (Luoyang) Co., Ltd.","Jintan Holding group (51% Jincheng Technology, wholly owned by Jintan Holding; 49% Jinhang Holding) - not owned by CALB",China,operational
+chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china,Geely/ENERGEE,yes,Chongqing Yaoning New Energy (重庆耀宁新能源),"Jiangsu Yaoning New Energy / ENERGEE (吉曜通行), Geely Holding; CATL acquiring",China,under_construction
+chuneng-new-energy-chuneng-new-energy-xiaogan-base-xiaogan-lithium-battery-industrial-park-china,Chuneng,,Chuneng New Energy (Cornex),"Chuneng New Energy Co., Ltd. (Cornex)",China,operational
+chuneng-new-energy-wuhan-base-china,Chuneng,,Chuneng New Energy (Cornex),"Chuneng New Energy Co., Ltd. (Cornex)",China,operational
+chuneng-new-energy-xiangyang-base-china,Chuneng,,Chuneng New Energy (Cornex),"Chuneng New Energy Co., Ltd. (Cornex)",China,operational
+chuneng-new-energy-yichang-base-china,Chuneng,,Chuneng New Energy (Cornex),"Chuneng New Energy Co., Ltd. (Cornex)",China,operational
+envision-aesc-aesc-sunderland-plant-1-united-kingdom,Envision AESC,,Envision AESC,Envision Group,United Kingdom,
+envision-aesc-envision-aesc-cangzhou-plant-cangzhou-zero-carbon-intelligent-industrial-park-china,Envision AESC,,Envision AESC,Envision Group,China,operational
+envision-aesc-envision-aesc-douai-france,Envision AESC,,Envision AESC,Envision Group,France,operational
+envision-aesc-envision-aesc-ordos-plant-ordos-envision-net-zero-industrial-park-china,Envision AESC,,Envision AESC,Envision Group,China,operational
+envision-aesc-envision-aesc-shiyan-plant-zero-carbon-smart-battery-industrial-park-china,Envision AESC,,Envision AESC,Envision Group,China,operational
+envision-aesc-envision-aesc-sunderland-gigafactory-united-kingdom,Envision AESC,,Envision AESC,Envision Group,United Kingdom,operational
+envision-aesc-envision-aesc-wuxi-plant-jiangyin-battery-manufacturing-base-china,Envision AESC,,Envision AESC,Envision Group,China,operational
+envision-aesc-envision-aesc-yichang-storage-super-factory-china,Envision AESC,,Envision AESC,Envision Group,China,operational
+eve-energy-eve-energy-chengdu-power-and-energy-storage-battery-base-china,EVE,,EVE Energy,"EVE Energy Co., Ltd. (Huizhou EVE Energy)",China,operational
+eve-energy-eve-energy-huizhou-plant-zhongkai-high-tech-zone-production-base-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-energy-jingmen-production-base-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-energy-ningbo-plant-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-energy-qidong-plant-eve-linyang-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-energy-qujing-plant-23gwh-cylindrical-lfp-energy-storage-power-battery-project-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-energy-shenyang-base-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,operational
+eve-energy-eve-power-hungary-kft-eve-energy-debrecen-hungary,EVE,,EVE Power Hungary Kft.,"EVE Energy Co., Ltd.",Hungary,under_construction
+eve-energy-eve-sodium-energy-huizhou-hq-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,under_construction
+eve-energy-huizhou-tonghu-zhongkai-60gwh-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,announced
+eve-energy-jingmen-shayang-60gwh-power-storage-china,EVE,,"Hubei EVE Power Co., Ltd. (亿纬动力)","EVE Energy Co., Ltd.",China,announced
+eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia,EVE,,EVE Energy Malaysia Sdn. Bhd.,"EVE Energy Co., Ltd.",Malaysia,operational
+eve-energy-qidong-economic-development-zone-50gwh-china,EVE,,EVE Energy,"EVE Energy Co., Ltd.",China,announced
+eve-energy-shanghang-baisha-fujian-china,EVE,yes,EVE Energy (EVE-Longking JV),"EVE Energy Co., Ltd.",China,announced
+eve-energy-yuxi-eve-energy-co-ltd-eve-energy-yuxi-plant-yuxi-power-energy-storage-battery-project-china,EVE,,"EVE Energy (Yuxi EVE Energy Co., Ltd.)","EVE Energy Co., Ltd. (Huizhou EVE Energy)",China,announced
+farasis-energy-farasis-energy-ganzhou-plant-30-gwh-new-energy-battery-project-china,Farasis,,Farasis Energy,"Farasis Energy (Gan Zhou) Co., Ltd. (孚能科技, SSE: 688567)",China,operational
+farasis-energy-farasis-energy-guangzhou-super-factory-30-gwh-power-battery-base-china,Farasis,,Farasis Energy,"Farasis Energy (Ganzhou) Co., Ltd.",China,operational
+farasis-energy-farasis-energy-zhenjiang-plant-china,Farasis,,Farasis Energy,"Farasis Energy (Ganzhou) Co., Ltd.",China,operational
+farasis-energy-farasis-wuhu-plant-china,Farasis,,Farasis Energy,"Farasis Energy (Ganzhou) Co., Ltd.",China,announced
+farasis-energy-ganzhou-original-base-china,Farasis,,Farasis Energy,"Farasis Energy (Gan Zhou) Co., Ltd. (孚能科技, SSE: 688567)",China,operational
+faw-findreams-new-energy-technology-co-ltd-faw-findreams-changchun-plant-changchun-power-battery-base-china,BYD,yes,"FAW-FinDreams New Energy Technology Co., Ltd.",BYD (FinDreams Battery) / FAW Group joint venture,China,operational
+findreams-battery-byd-byd-findreams-jinan-battery-plant-jinan-high-tech-zone-china,BYD,,FinDreams Battery (BYD),BYD Company,China,operational
+findreams-battery-byd-byd-findreams-shenzhen-plant-kengzi-pingshan-base-china,BYD,,FinDreams Battery (BYD),BYD Company Ltd,China,
+findreams-battery-byd-byd-findreams-xi-an-plant-china,BYD,,FinDreams Battery (BYD),BYD Company Ltd,China,operational
+findreams-battery-byd-byd-xixian-base-qinhan-new-town-xi-an-second-gen-blade-china,BYD,,FinDreams Battery (BYD),"BYD Co., Ltd.",China,operational
+findreams-battery-byd-findreams-shaoxing-shengzhou-battery-base-china,BYD,,FinDreams Battery,BYD,China,operational
+findreams-battery-co-ltd-byd-findreams-chongqing-bishan-blade-battery-plant-china,BYD,,"FinDreams Battery Co., Ltd.",BYD,China,operational
+findreams-battery-fuzhou-findreams-battery-plant-jiangxi-china,BYD,,FinDreams Battery,BYD,China,operational
+fixx-energy-formerly-aesc-envision-aesc-aesc-smyrna-tennessee-united-states,(excluded: no longer AESC),yes,Fixx Energy (formerly AESC / Envision AESC),Fixx Energy,United States,operational
+ganfeng-lienergy-fenyi-10gwh-pouch-cell-zero-carbon-base-china,Ganfeng,,"Ganfeng LiEnergy (Fenyi Ganfeng Lithium Battery Technology Co., Ltd.)","Ganfeng Lithium Group Co., Ltd.",China,announced
+ganfeng-lienergy-ganfeng-lienergy-xinyu-plant-jiangxi-new-type-lithium-battery-technology-industrial-park-china,Ganfeng,,Ganfeng LiEnergy,Jiangxi Ganfeng Lithium Group,China,operational
+ganfeng-lienergy-ganfeng-new-lithium-battery-technology-industrial-park-chongqing-china,Ganfeng,,Ganfeng LiEnergy,Ganfeng Lithium Group,China,under_construction
+ganfeng-lienergy-nanchang-ess-cell-base-china,Ganfeng,,Nanchang Ganfeng LiEnergy,Ganfeng Lithium Group,China,under_construction
+gotion-chuzhou-gotion-new-energy-power-co-ltd-gotion-new-energy-chuzhou-high-end-manufacturing-base-china,Gotion,,"Gotion (Chuzhou Gotion New Energy Power Co., Ltd.)",Gotion High-tech,China,operational
+gotion-gotion-manteno-illinois-united-states,Gotion,,Gotion,Gotion High-Tech (Guoxuan High-Tech),United States,under_construction
+gotion-high-tech-gotion-lujiang-plant-lujiang-high-tech-zone-base-china,Gotion,,Gotion High-tech,"Gotion High-tech Co., Ltd. (largest shareholder: Volkswagen Group)",China,operational
+gotion-high-tech-gotion-nanjing-plant-china,Gotion,,Gotion High-tech,"Gotion High-tech Co., Ltd. (largest shareholder: Volkswagen Group)",China,operational
+gotion-high-tech-qingdao-gotion-battery-plant-laixi-china,Gotion,,Gotion High-tech,Gotion High-tech (Hefei Gotion; Volkswagen largest shareholder),China,operational
+gotion-high-tech-vines-jv-gotion-vines-lfp-gigafactory-ha-tinh-vietnam,Gotion,yes,Gotion High-Tech-VinES JV,Gotion High-Tech (51%) / Vingroup-VinES (49%),Vietnam,operational
+gotion-inobat-batteries-gib-energyx-slovakia-inobat-urany-gib-energyx-slovakia-gigafactory-slovakia,Gotion,,Gotion InoBat Batteries (GIB) EnergyX Slovakia,Gotion High-Tech,Slovakia,under_construction
+gotion-jinzhai-gotion-new-energy-jinzhai-storage-cell-base-china,Gotion,,"Jinzhai Gotion New Energy Co., Ltd.",Gotion High-tech,China,operational
+gotion-power-morocco-gotion-kenitra-gigafactory-morocco,Gotion,,Gotion Power Morocco,Gotion High-Tech,Morocco,under_construction
+great-power-great-power-changzhou-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+great-power-great-power-foshan-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+great-power-great-power-guangde-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,announced
+great-power-great-power-guangzhou-panyu-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+great-power-great-power-ulanqab-energy-storage-and-semi-solid-state-cell-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd",China,announced
+great-power-great-power-vietnam-plant-vietnam,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",Vietnam,operational
+great-power-great-power-zhengyang-120ah-cell-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+great-power-great-power-zhuhai-plant-china,Great Power,,Great Power,"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+great-power-guangzhou-great-power-energy-technology-co-ltd-penghui-energy-great-power-zhumadian-plant-zhumadian-production-base-china,Great Power,yes,"Great Power (Guangzhou Great Power Energy & Technology Co., Ltd. / Penghui Energy)","Guangzhou Great Power Energy & Technology Co., Ltd. (鹏辉能源 / Penghui Energy, SZSE: 300438)",China,operational
+great-power-guangzhou-great-power-energy-technology-great-power-liuzhou-smart-energy-storage-and-power-battery-manufacturing-base-china,Great Power,,Great Power (Guangzhou Great Power Energy & Technology),"Guangzhou Great Power Energy & Technology Co., Ltd. (300438.SZ)",China,operational
+great-power-qingdao-great-power-qingdao-energy-storage-battery-zero-carbon-manufacturing-base-china,Great Power,,Great Power (Qingdao),"Guangzhou Great Power Energy & Technology Co., Ltd.",China,operational
+guangxi-asean-findreams-battery-findreams-guangxi-asean-battery-plant-china,BYD,,Guangxi ASEAN FinDreams Battery,"BYD Co., Ltd.",China,operational
+guangxi-findreams-battery-findreams-guangxi-battery-plant-china,BYD,,Guangxi FinDreams Battery,"BYD Co., Ltd.",China,operational
+guiyang-findreams-battery-findreams-guiyang-gui-an-battery-plant-china,BYD,,Guiyang FinDreams Battery,"BYD Co., Ltd.",China,operational
+hefei-gotion-green-energy-co-ltd-gotion-hefei-xinzhan-20gwh-power-battery-project-hefei-gotion-green-energy-china,Gotion,,"Hefei Gotion Green Energy Co., Ltd. (合肥国轩绿色能源有限公司)",Gotion High-tech,China,announced
+hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china,Gotion,,"Hefei Gotion High-tech Power Energy Co., Ltd",Gotion High-tech,China,operational
+hithium-hithium-chongqing-plant-china,Hithium,,Hithium,"Xiamen Hithium Energy Storage Technology Co., Ltd",China,operational
+hithium-hithium-heze-plant-china,Hithium,,Hithium,"Xiamen Hithium Energy Storage Technology Co., Ltd.",China,operational
+hithium-hithium-navarra-spain,Hithium,,Hithium,Xiamen Hithium Energy Storage Technology Co.,Spain,announced
+hithium-hithium-xiamen-plant-xiamen-production-base-china,Hithium,,Hithium,"Xiamen Hithium Energy Storage Technology Co., Ltd.",China,operational
+hl-ga-battery-company-hl-ga-battery-company-bryan-county-united-states,LGES,yes,HL-GA Battery Company,Hyundai Motor Group / LG Energy Solution (50/50 JV),USA,operational
+hli-green-power-hli-green-power-karawang-battery-cell-plant-indonesia,LGES,yes,HLI Green Power,Hyundai Motor Group / LG Energy Solution,Indonesia,operational
+huizhou-liwei-new-energy-technology-co-ltd-sunwoda-sunwoda-huizhou-plant-huizhou-liwei-new-energy-china,Sunwoda,,"Huizhou Liwei New Energy Technology Co., Ltd. (Sunwoda)","Sunwoda Electronic Co., Ltd.",China,operational
+hyundai-sk-battery-manufacturing-america-hsbma-bartow-county-united-states,SK On,yes,Hyundai-SK Battery Manufacturing America (HSBMA),Hyundai Motor Group / SK On (50:50 JV),United States,operational
+jiangsu-zenergy-nanjing-plant-china,Zenergy,,"Nanjing Zenergy Battery Technologies Co., Ltd.","Jiangsu Zenergy Battery Technologies Group Co., Ltd (HKEX: 3677)",China,operational
+jiangsu-zenergy-suzhou-xiangcheng-plant-china,Zenergy,,Jiangsu Zenergy,"Jiangsu Zenergy Battery Technologies Group Co., Ltd (HKEX: 3677)",China,announced
+jiangsu-zenergy-zenergy-changshu-plant-china,Zenergy,,Jiangsu Zenergy,"Jiangsu Zenergy Battery Technologies Group Co., Ltd (HKEX: 3677)",China,operational
+l-h-battery-company-inc-l-h-battery-company-jeffersonville-ohio-united-states,LGES,yes,"L-H Battery Company, Inc.",LG Energy Solution / Honda Motor (joint venture),United States,operational
+lanjun-new-energy-lanjun-new-energy-jiashan-base-china,REPT,,Lanjun New Energy,"REPT BATTERO Energy Co., Ltd. (瑞浦兰钧, HKEX 0666), Tsingshan-affiliated",China,operational
+lg-energy-solution-lg-energy-solution-arizona-queen-creek-united-states,LGES,,LG Energy Solution,LG Energy Solution Ltd (LG Group),United States,under_construction
+lg-energy-solution-lg-energy-solution-nanjing-china,LGES,,"LG Energy Solution (Nanjing) Co., Ltd.",LG Energy Solution,China,operational
+lg-energy-solution-lg-energy-solution-ochang-energy-plant-south-korea,LGES,,LG Energy Solution,LG Energy Solution (LG Group),South Korea,operational
+lg-energy-solution-lg-energy-solution-wroc-aw-poland,LGES,,LG Energy Solution,LG Energy Solution (LG Group),Poland,operational
+lg-energy-solution-michigan-inc-lg-energy-solution-michigan-holland-united-states,LGES,,"LG Energy Solution Michigan, Inc.",LG Energy Solution (LG Group),United States,operational
+lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states,LGES,,LG Energy Solution,LG Chem,United States,operational
+liuzhou-gotion-battery-co-ltd-gotion-high-tech-subsidiary-gotion-liuzhou-power-battery-base-china,Gotion,,"Liuzhou Gotion Battery Co., Ltd. (Gotion High-tech subsidiary)",Gotion High-tech,China,operational
+nanning-findreams-battery-findreams-nanning-battery-plant-china,BYD,,Nanning FinDreams Battery,"BYD Co., Ltd.",China,operational
+narada-power-anhui-nandu-huatuo-jieshou-plant-china,Narada,,"Anhui Nandu Huatuo New Energy Technology Co., Ltd. (安徽南都华拓新能源科技有限公司)","Zhejiang Narada Power Source Co., Ltd. (ST Narada, SZSE 300068)",China,operational
+narada-power-jiuquan-narada-wholly-owned-subsidiary-narada-jiuquan-storage-cell-base-jiuquan-narada-smart-energy-storage-manufacturing-base-china,Narada,,"Narada Power (Jiuquan Narada, wholly-owned subsidiary)","Zhejiang Narada Power Source Co., Ltd.",China,operational
+narada-power-nandu-power-nandu-power-narada-hangzhou-fuyang-lithium-cell-base-china,Narada,,Narada Power (Nandu Power),"Zhejiang Narada Power Source Co., Ltd. (南都电源, SZSE: 300068)",China,operational
+narada-power-zhejiang-narada-power-source-co-ltd-narada-hangzhou-lin-an-plant-china,Narada,,"Narada Power (Zhejiang Narada Power Source Co., Ltd.)","Zhejiang Narada Power Source Co., Ltd.",China,
+nextstar-energy-nextstar-energy-windsor-canada,LGES,,NextStar Energy,LG Energy Solution,Canada,operational
+ningbo-findreams-battery-findreams-ningbo-battery-plant-china,BYD,,Ningbo FinDreams Battery,"BYD Co., Ltd.",China,operational
+ningguo-times-new-energy-ningguo-12gwh-power-battery-plant-china,Geely/ENERGEE,,"Ningguo Times New Energy Co., Ltd. (宁国时代新能源有限公司)","Geely Technology Group (吉利科技集团, Lixin Energy); ENERGEE (吉曜通行) base",China,operational
+panasonic-energy-gigafactory-nevada-united-states,Panasonic,,Panasonic Energy,Panasonic Holdings,United States,operational
+panasonic-energy-kaizuka-co-ltd-panasonic-energy-kaizuka-factory-japan,Panasonic,,"Panasonic Energy Kaizuka Co., Ltd.",Panasonic Holdings Corporation,Japan,operational
+panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states,Panasonic,,Panasonic Energy,Panasonic Holdings Corporation,United States,operational
+panasonic-energy-panasonic-energy-oizumi-factory-japan,Panasonic,,Panasonic Energy,Panasonic Holdings Corporation,Japan,announced
+panasonic-energy-panasonic-energy-suminoe-factory-japan,Panasonic,,Panasonic Energy,Panasonic Holdings,Japan,operational
+prime-planet-energy-solutions-ppes-dalian-plant-china,Panasonic,yes,"Prime Planet Energy Dalian Co., Ltd.",Toyota Motor Corporation / Panasonic Holdings (JV),China,operational
+prime-planet-energy-solutions-ppes-himeji-plant-japan,Panasonic,yes,Prime Planet Energy & Solutions,Toyota Motor Corporation / Panasonic Holdings (JV),Japan,operational
+prime-planet-energy-solutions-ppes-kasai-plant-japan,Panasonic,yes,Prime Planet Energy & Solutions,Toyota Motor Corporation / Panasonic Holdings (JV),Japan,operational
+prime-planet-energy-solutions-ppes-sumoto-plant-japan,Panasonic,yes,Prime Planet Energy & Solutions,Toyota Motor Corporation / Panasonic Holdings (JV),Japan,operational
+prime-planet-energy-solutions-ppes-tokushima-plant-japan,Panasonic,yes,Prime Planet Energy & Solutions,Toyota Motor Corporation / Panasonic Holdings (JV),Japan,operational
+pt-contemporary-amperex-technology-indonesia-battery-catib-catl-catib-karawang-battery-cell-plant-indonesia,CATL,,PT Contemporary Amperex Technology Indonesia Battery (CATIB),Contemporary Amperex Technology Co. Ltd (CATL),Indonesia,operational
+pt-rept-battero-indonesia-rept-battero-indonesia-battery-factory-indonesia,REPT,,PT REPT Battero Indonesia,"REPT Battero Energy Co., Ltd. (Ruipu Lanjun)",Indonesia,operational
+quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china,Great Power,,"Quzhou Great Power Energy Technology Co., Ltd.","Guangzhou Great Power Energy and Technology Co., Ltd. (300438.SZ)",China,operational
+rept-battero-rept-battero-chongqing-plant-china,REPT,,REPT Battero,Tsingshan Holding Group,China,under_construction
+rept-battero-rept-battero-foshan-plant-china,REPT,,REPT Battero,Tsingshan Holding Group,China,operational
+rept-battero-rept-battero-liuzhou-plant-china,REPT,,REPT Battero,Tsingshan Holding Group,China,operational
+rept-battero-rept-battero-wenzhou-plant-china,REPT,,REPT Battero,Tsingshan Holding Group,China,operational
+samsung-sdi-samsung-sdi-arn-xi-an-plant-china,Samsung SDI,,Samsung SDI,Samsung SDI,China,operational
+samsung-sdi-samsung-sdi-cheonan-plant-south-korea,Samsung SDI,,Samsung SDI,Samsung Group,South Korea,operational
+samsung-sdi-samsung-sdi-g-d-hungary,Samsung SDI,,Samsung SDI,Samsung SDI,Hungary,operational
+samsung-sdi-samsung-sdi-seremban-plant-2-malaysia,Samsung SDI,,Samsung SDI,Samsung SDI,Malaysia,operational
+samsung-sdi-samsung-sdi-tianjin-plant-china,Samsung SDI,,Samsung SDI,Samsung SDI,China,operational
+samsung-sdi-samsung-sdi-ulsan-plant-south-korea,Samsung SDI,,Samsung SDI,Samsung Group,South Korea,operational
+samsung-sdi-suwon-s-line-all-solid-state-pilot-south-korea,Samsung SDI,,Samsung SDI,Samsung Group,South Korea,operational
+shanghai-electric-gotion-new-energy-technology-nantong-co-ltd-shanghai-electric-gotion-new-energy-nantong-energy-storage-battery-base-china,Gotion,,"Shanghai Electric Gotion New Energy Technology (Nantong) Co., Ltd.",Gotion High-tech,China,operational
+shanwei-findreams-battery-shanwei-fudi-haifeng-meilong-battery-plant-china,BYD,,"Shanwei FinDreams Battery Co., Ltd. (汕尾弗迪电池有限公司)","BYD Co., Ltd.",China,announced
+siro-siro-gemlik-turkey,Farasis,yes,Siro,Togg / Farasis Energy joint venture,Turkey,under_construction
+sk-on-beijing-besk-changzhou-battery-plant-china,SK On,yes,Beijing BESK Technology (BEST),BAIC Group / SK On (JV),China,operational
+sk-on-blueoval-city-battery-plant-stanton-tennessee-united-states,SK On,,SK On,SK Innovation (SK Group),United States,under_construction
+sk-on-daejeon-all-solid-state-pilot-line-south-korea,SK On,,SK On,SK Innovation (SK Group),South Korea,operational
+sk-on-sk-battery-america-commerce-georgia-united-states,SK On,,SK On,SK Group (SK Innovation),United States,operational
+sk-on-sk-on-iv-ncsa-hungary,SK On,,SK On,SK Innovation,Hungary,operational
+sk-on-sk-on-kom-rom-hungary,SK On,,SK On,SK Innovation (SK Group),Hungary,operational
+sk-on-sk-on-seosan-plant-south-korea,SK On,,SK On,SK Innovation (SK Group),South Korea,operational
+sk-on-skoj-yancheng-battery-plant-sk-on-eve-energy-jv-china,SK On,yes,SK On,SK On (SK Innovation / SK Group),China,operational
+sk-on-skoy-yancheng-battery-plant-china,SK On,,SK On,SK Innovation (SK Group),China,operational
+starplus-energy-starplus-energy-gigafactory-kokomo-indiana-united-states,Samsung SDI,yes,StarPlus Energy,Stellantis / Samsung SDI,United States,operational
+sunwoda-automotive-battery-sunwoda-evb-sunwoda-deyang-shifang-power-and-energy-storage-battery-base-china,Sunwoda,,Sunwoda Automotive Battery (Sunwoda EVB),"Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-automotive-energy-thailand-sunwoda-chonburi-cell-plant-thailand,Sunwoda,,Sunwoda Automotive Energy (Thailand),"Sunwoda Electronic Co., Ltd.",Thailand,operational
+sunwoda-evb-sunwoda-electric-vehicle-battery-co-ltd-sunwoda-yiwu-new-energy-power-battery-production-base-china,Sunwoda,,"Sunwoda EVB (Sunwoda Electric Vehicle Battery Co., Ltd.)","Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-evb-sunwoda-electronic-sunwoda-zaozhuang-plant-china,Sunwoda,,Sunwoda EVB (Sunwoda Electronic),"Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-liwei-vietnam-consumer-cell-plant-vietnam,Sunwoda,,"Liwei Vietnam Co., Ltd. (锂威越南有限公司)","Sunwoda Electronic Co., Ltd.",Vietnam,under_construction
+sunwoda-sunwoda-hungary-nyiregyhaza-plant-hungary,Sunwoda,,Sunwoda Hungary (匈牙利欣旺达动力科技有限公司),"Sunwoda Electronic Co., Ltd.",Hungary,under_construction
+sunwoda-sunwoda-nanchang-power-battery-production-base-china,Sunwoda,,Sunwoda,"Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-sunwoda-nanjing-power-battery-base-lishui-china,Sunwoda,,Sunwoda,"Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-sunwoda-quzhou-plant-china,Sunwoda,,Sunwoda,"Sunwoda Electronic Co., Ltd.",China,operational
+sunwoda-sunwoda-yichang-power-battery-production-base-china,Sunwoda,,Sunwoda,"Sunwoda Electronic Co., Ltd.",China,operational
+svolt-energy-technology-honeycomb-energy-svolt-chengdu-plant-chengdu-eastern-new-area-base-china,SVOLT,yes,SVOLT Energy Technology (Honeycomb Energy / 蜂巢能源),"SVOLT Energy Technology Co., Ltd. (originally spun out of Great Wall Motor)",China,operational
+svolt-energy-technology-svolt-shangrao-base-china,SVOLT,,SVOLT Energy Technology,Great Wall Motor (GWM),China,operational
+svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china,SVOLT,yes,SVOLT (Honeycomb Energy / 蜂巢能源),"SVOLT Energy Technology Co., Ltd.",China,operational
+svolt-svolt-energy-technology-svolt-ma-anshan-plant-china,SVOLT,yes,SVOLT (Svolt Energy Technology / 蜂巢能源),SVOLT Energy Technology (backed by / spun off from Great Wall Motor),China,operational
+svolt-svolt-energy-technology-svolt-suining-plant-china,SVOLT,,SVOLT (Svolt Energy Technology),Great Wall Motor (GWM),China,operational
+svolt-svolt-energy-technology-svolt-yancheng-plant-china,SVOLT,,SVOLT (Svolt Energy Technology),SVOLT Energy Technology (originally spun out of Great Wall Motor),China,operational
+svolt-svolt-jintan-plant-changzhou-china,SVOLT,,SVOLT,Great Wall Motor (GWM),China,operational
+svolt-svolt-nanjing-plant-lishui-base-china,SVOLT,,SVOLT,"SVOLT Energy Technology Co., Ltd (蜂巢能源)",China,operational
+taizhou-findreams-battery-findreams-taizhou-xianju-power-battery-plant-china,BYD,,Taizhou FinDreams Battery,"BYD Co., Ltd.",China,operational
+tangshan-guoxuan-battery-co-ltd-wholly-owned-subsidiary-of-hefei-gotion-high-tech-power-energy-gotion-tangshan-plant-tangshan-guoxuan-battery-co-ltd-china,Gotion,,"Tangshan Guoxuan Battery Co., Ltd (wholly-owned subsidiary of Hefei Gotion High-tech Power Energy)",Gotion High-tech,China,operational
+tianneng-new-energy-huzhou-co-ltd-zhejiang-tianneng-energy-storage-co-tianneng-changxing-south-taihu-lithium-battery-base-china,Tianneng,,"Tianneng New Energy (Huzhou) Co., Ltd. (Zhejiang Tianneng Energy Storage Co.)","Tianneng Battery Group Co., Ltd. (Tianneng Holding Group)",China,operational
+times-baic-beijing-new-energy-technology-times-baic-yizhuang-battery-factory-china,CATL,,"Times BAIC (Beijing) New Energy Technology Co., Ltd. (时代北汽（北京）新能源科技有限公司)",,China,operational
+times-changan-chongqing-power-battery-times-changan-chongqing-beibei-gaozhu-plant-china,CATL,yes,"Times Changan (Chongqing) Power Battery Co., Ltd. (时代长安(重庆)动力电池有限公司)",CATL / Changan Automobile (joint venture),China,announced
+times-faw-power-battery-xiapu-plant-china,CATL,,"Times FAW Power Battery Co., Ltd. (时代一汽动力电池有限公司)","Contemporary Amperex Technology Co., Limited (CATL)",China,operational
+times-saic-power-battery-liyang-plant-china,CATL,,"Times SAIC Power Battery Co., Ltd. (时代上汽动力电池有限公司)",CATL,China,operational
+tongcheng-gotion-high-tech-gotion-tongcheng-battery-base-40-gwh-power-battery-project-china,Gotion,,Tongcheng Gotion High-Tech,Gotion High-Tech,China,operational
+ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states,LGES,yes,Ultium Cells LLC,General Motors / LG Energy Solution (JV),United States,operational
+ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,LGES,yes,Ultium Cells LLC,General Motors / LG Energy Solution,United States,operational
+weichai-findreams-weichai-findreams-yantai-new-energy-power-industrial-park-china,BYD,yes,Weichai-FinDreams,Weichai Group (Shandong Heavy Industry) / BYD,China,operational
+wenzhou-findreams-battery-co-ltd-byd-findreams-wenzhou-battery-base-qiaotou-yongjia-china,BYD,,"Wenzhou FinDreams Battery Co., Ltd.",BYD,China,under_construction
+wuhu-gotion-power-technology-co-ltd-wuhu-gotion-20gwh-new-energy-battery-base-gotion-wuhu-plant-china,Gotion,,"Wuhu Gotion Power Technology Co., Ltd.",Gotion High-Tech (Guoxuan High-Tech; Volkswagen is largest shareholder),China,announced
+xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china,BYD,,Xiangyang FinDreams Battery,"BYD Co., Ltd.",China,operational
+yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china,BYD,,Yancheng FinDreams Battery,"BYD Co., Ltd.",China,operational
+yi-i-t-ak-ganfeng-lienergy-jv-yi-i-t-ak-ganfeng-gigafactory-turkey,Ganfeng,yes,YİĞİT AKÜ-Ganfeng LiEnergy JV,Ganfeng Lithium / Yiğit Akü,Turkey,announced
+yichun-gotion-yichun-gotion-battery-plant-china,Gotion,,Yichun Gotion,Gotion High-Tech,China,operational
+zhejiang-liwei-energy-technology-sunwoda-lanxi-cell-base-china,Sunwoda,,"Zhejiang Liwei Energy Technology Co., Ltd. (浙江锂威能源科技有限公司)","Sunwoda Electronic Co., Ltd.",China,operational

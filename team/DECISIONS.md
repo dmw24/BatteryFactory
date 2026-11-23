@@ -42,3 +42,13 @@ phase steps from capacity_by_year_json, full site nameplate once a DATED capacit
 active plants; `gwh_iea_high` (D-high) also credits nameplate whose ref year is only the publication-year fallback
 (upper bound). 2025: D 3,352 / D-high 4,029 GWh vs IEA >4,000. Earlier years stay well below the IEA (2023 D-high 1,726
 vs 2,500; 2024 2,507 vs >3,000), so the 2025 match is partly a fallback-year artefact — treat D-high with care.
+
+## D-028 — Unallocated company capacity, Series E (owner 2026-11-23)
+Owner: allowed, provided nothing is double counted and no location is invented. Where a company discloses its
+total cell production capacity for a year (filing/prospectus/IR; metric=capacity, basis year_end or
+annual_effective; whole-business scope global or china), the excess over the Series D sum of all DB sites mapped
+to it (data/reference/company_map.csv, one company per site, JV sites included → remainder can only be
+understated) is stored as a company/year line in `capacity_unallocated` — no site, no plant id, no coordinates.
+Negative differences are flagged, never netted. No interpolation between disclosed years. Series E = D +
+unallocated (scripts/build_unallocated.py → capacity_unallocated.csv, capacity_by_year_e.csv). Planned/target
+and segment-only figures are never used. Disclosed output/shipments are kept only as lower-bound checks.
