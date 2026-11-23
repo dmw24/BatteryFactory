@@ -1,0 +1,15 @@
+{
+ "task": "T078",
+ "verified_on": "2026-11-23",
+ "sources": {},
+ "rows": [
+  {
+   "id": "guangdong-fenghua-new-energy-fenghua-zhaoqing-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.4
+   },
+   "notes": "lead: prospectus quotes come from an image-only PDF and cannot be string-verified; existence also rests on MIIT batch 8 list (team/evidence/miit/batch8.txt). Confidence capped at 0.4."
+  }
+ ]
+}
