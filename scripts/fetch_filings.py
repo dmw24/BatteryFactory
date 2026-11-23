@@ -35,7 +35,8 @@ def post(url, data):
     return json.load(urllib.request.urlopen(req, timeout=40))
 
 
-def fetch(code):
+def fetch(code, year=None):
+    """year: fiscal year of the annual report (default: latest)."""
     org = post("https://www.cninfo.com.cn/new/information/topSearch/query", {"keyWord": code, "maxNum": 1})
     if not org:
         print(f"FAIL {code}: no org id"); return
@@ -43,15 +44,19 @@ def fetch(code):
     column = "sse" if code.startswith("6") else "szse"
     res = post("https://www.cninfo.com.cn/new/hisAnnouncement/query",
                {"stock": f"{code},{org_id}", "tabName": "fulltext", "pageSize": 30, "pageNum": 1, "column": column,
-                "category": "category_ndbg_szsh", "seDate": "2025-01-01~2026-11-20"})
+                "category": "category_ndbg_szsh", "seDate": (f"{year + 1}-01-01~{year + 1}-12-31" if year else "2025-01-01~2026-11-20")})
     anns = [a for a in (res.get("announcements") or [])
             if "年度报告" in a["announcementTitle"] and "摘要" not in a["announcementTitle"]
             and "英文" not in a["announcementTitle"]]
     if not anns:
         print(f"FAIL {code} {name}: no annual report found"); return
+    if year:
+        anns = [x for x in anns if str(year) in x["announcementTitle"][:12]]
+        if not anns:
+            print(f"FAIL {code} {name}: no {year} annual report found"); return
     a = sorted(anns, key=lambda x: x["adjunctUrl"])[-1]
     url = "http://static.cninfo.com.cn/" + a["adjunctUrl"]
-    year = "".join(ch for ch in a["announcementTitle"][:4] if ch.isdigit())
+    year = str(year) if year else "".join(ch for ch in a["announcementTitle"][:4] if ch.isdigit())
     pdf, txt = os.path.join(OUT, f"{code}.pdf"), os.path.join(OUT, f"{code}_{year}.txt")
     subprocess.run(["curl", "-s", "-m", "180", "-o", pdf, url], check=True)
     subprocess.run(["pdftotext", "-layout", pdf, txt], check=True)
@@ -82,9 +87,13 @@ if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     if sys.argv[1:2] == ["--url"]:
         fetch_url(sys.argv[2], sys.argv[3]); sys.exit(0)
+    years = [None]
+    if "--years" in sys.argv:  # e.g. --years 2021,2022,2023,2024
+        i = sys.argv.index("--years"); years = [int(y) for y in sys.argv[i + 1].split(",")]; del sys.argv[i:i + 2]
     codes = [c for c in CODES if "skip" not in CODES[c]] if "--all" in sys.argv else sys.argv[1:]
     for c in codes:
+      for y in years:
         try:
-            fetch(c)
+            fetch(c, y)
         except Exception as e:  # noqa: BLE001
-            print(f"FAIL {c}: {type(e).__name__} {e}")
+            print(f"FAIL {c} {y}: {type(e).__name__} {e}")
