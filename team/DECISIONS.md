@@ -52,3 +52,10 @@ understated) is stored as a company/year line in `capacity_unallocated` — no s
 Negative differences are flagged, never netted. No interpolation between disclosed years. Series E = D +
 unallocated (scripts/build_unallocated.py → capacity_unallocated.csv, capacity_by_year_e.csv). Planned/target
 and segment-only figures are never used. Disclosed output/shipments are kept only as lower-bound checks.
+
+## D-029 — Benchmark set beyond IEA (owner question 2026-11-23)
+Benchmarks are overlays, never data. Allowed: any figure on a page anyone can read free — including a paywalled
+publisher's own free press release / insight page (BNEF, Benchmark, Rho Motion, SNE) or open press quoting it — with
+url + verbatim quote + definition (nameplate/commissioned vs effective vs output; global vs region; cells vs packs).
+Stored in data/reference/benchmarks/*.csv, merged by the lead into scripts/benchmarks.csv. The C5 paywall rule
+still applies to plant evidence.
