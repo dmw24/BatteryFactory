@@ -1,0 +1,216 @@
+{
+  "task": "T070",
+  "verified_on": "2026-11-23",
+  "sources": {
+    "S1": {
+      "url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+      "publisher": "SMM (Shanghai Metals Market) news, Far East First commissions 2GWh power battery capacity in Jiangsu",
+      "published": "2019-05-13",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "on Friday May 10 commissioned the first stage of its power battery project in Yixing of Jiangsu province ... The whole project, with capacity of 12GWh, is expected to completely come online in three years"
+    },
+    "S2": {
+      "url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+      "publisher": "SMM news, Far East First commissions 2GWh power battery capacity in Jiangsu (phase 1 product and size)",
+      "published": "2019-05-13",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "2GWh of high-security, long-lifespan and low-cost soft pack power batteries per year"
+    },
+    "S3": {
+      "url": "https://news.metal.com/newscontent/101765001-far-east-battery-wins-240-million-yuan-lithium-battery-order-in-february-remarkable-progress-has-been-made-in-overseas-m",
+      "publisher": "SMM news, Far East Battery wins 240 million yuan lithium battery order in February (Jiangsu base description)",
+      "published": "2022-03-02",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "the Jiangsu base of far East Battery is mainly soft package battery, focusing on the development of 50Ah-LFP battery."
+    },
+    "S4": {
+      "url": "https://news.metal.com/newscontent/101765001-far-east-battery-wins-240-million-yuan-lithium-battery-order-in-february-remarkable-progress-has-been-made-in-overseas-m",
+      "publisher": "SMM news, Far East Battery wins 240 million yuan lithium battery order in February (Jiangxi base description; capacity wording garbled in source)",
+      "published": "2022-03-02",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "Jiangxi far East batteries are mainly cylindrical batteries, focusing on the development of high energy density and medium rate products."
+    },
+    "S5": {
+      "url": "https://stock.10jqka.com.cn/20261005/c680439270.shtml",
+      "publisher": "10jqka (Straight Flush) stock news article on Far East Battery / Far East Smarter Energy (600869)",
+      "published": "2026-10-05",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "在江西宜春、江苏宜兴布局两大基地 ... 21700-68E圆柱超容电芯已完成批量交付"
+    },
+    "S6": {
+      "url": "https://m.cnpowder.com.cn/new68400.html",
+      "publisher": "China Powder Net (中国粉体网), 工信部名单梳理，一文搞清63家符合锂离子电池行业规范条件企业 (MIIT-list company profiles; Far East Fosit)",
+      "published": "2023-01-16",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "远东福斯特新能源有限公司成立于2009年，上市公司远东智慧能源股份有限公司全资控股子公司，是专业从事锂离子电池和动力电池研发、生产、销售及服务于一体的企业。"
+    },
+    "S7": {
+      "url": "https://img.b-china.cn/uploads/files/2024086/f086a0f1-596f-8dd6-7aab-14d5c06a97db.pdf",
+      "publisher": "Anhui Yijiatong Battery Co., Ltd. (EIKTO) company brochure for construction-machinery batteries (PDF, file dated 2024-07-26; read as page images)",
+      "published": "2024-07-26",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "安徽益佳通电池有限公司成立于2006年 ... 专业研发、生产、销售锂离子电池 ... 益佳通“短刀王”磷酸铁锂电芯"
+    },
+    "S8": {
+      "url": "https://www.energytrend.com/print/51228",
+      "publisher": "EnergyTrend, Construction Begins on New Energy Storage Low-Carbon Intelligent Manufacturing Project (Zhongtian Energy Storage section; page shows no date, 2026-04-13 inferred from the related URL date and the page's 'April 10' start)",
+      "published": "2026-04-13",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "construction officially commenced on the new energy storage low-carbon intelligent manufacturing project ... the project will achieve an annual production capacity of 20GWh"
+    },
+    "S9": {
+      "url": "https://caifuhao.eastmoney.com/news/20260622163700979346510",
+      "publisher": "Eastmoney caifuhao, individual investor post (stock-forum commentary, NOT a news desk or company statement)",
+      "published": "2026-06-22",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "就在近日，中天储能新型储能低碳智造项目在江苏南通正式开工。"
+    },
+    "S10": {
+      "url": "https://m.cnpowder.com.cn/new68400.html",
+      "publisher": "China Powder Net (中国粉体网), 工信部名单梳理，一文搞清63家符合锂离子电池行业规范条件企业 (MIIT-list company profiles; Zhongtian Energy Storage)",
+      "published": "2023-01-16",
+      "accessed": "2026-11-23",
+      "language": "zh",
+      "quote": "中天储能科技有限公司成立于2012年，上市公司江苏中天科技股份有限公司的全资子公司，主要从事锂离子电池的研发、生产及销售。"
+    },
+    "S11": {
+      "url": "https://en.sekorm.com/news/527338564.html",
+      "publisher": "Sekorm (Jiangsu Zhongtian Technology exhibition news), ZTT Showcases Innovative New Energy Solutions at SNEC Shanghai",
+      "published": "2024-07-09",
+      "accessed": "2026-11-23",
+      "language": "en",
+      "quote": "ZTT boasts an annual production capacity of 8GWh for lithium iron phosphate batteries."
+    }
+  },
+  "rows": [
+    {
+      "action": "add",
+      "id": "far-east-first-new-energy-far-east-yixing-power-battery-plant-china",
+      "fields": {
+        "plant_name": "Far East Yixing power battery plant (Far East First New Energy)",
+        "operator": "Far East First New Energy (远东首诺新能源), Yixing",
+        "parent_company": "Far East Smarter Energy (远东智慧能源, SSE 600869)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "start_year": 2019,
+        "nameplate_capacity_gwh": 12,
+        "capacity_ref_year": 2022,
+        "installed_capacity_gwh": 2,
+        "installed_as_of": "2019-05-10",
+        "chemistry": "LFP",
+        "cell_format": "pouch",
+        "end_market": "EV",
+        "source_url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+        "source_date": "2026-11-23",
+        "source_published_date": "2019-05-13"
+      },
+      "evidence": {
+        "status": ["S1"],
+        "start_year": ["S1"],
+        "nameplate_capacity_gwh": ["S1"],
+        "capacity_ref_year": ["S1"],
+        "installed_capacity_gwh": ["S2"],
+        "chemistry": ["S3"],
+        "cell_format": ["S2"]
+      },
+      "confidence": 0.4,
+      "notes": "[T070 NEW] Not in DB: grepped factories_export.csv, data/removed.csv and data/patches for Far East / 远东 / Fosit / Yixing / 宜兴 (no match). Source S1 (SMM 2019-05-13, open page): Far East First New Energy, wholly owned subsidiary of Far East Smarter Energy, commissioned phase 1 of its Yixing (Jiangsu) power-battery project on 2019-05-10; phase 1 design 2 GWh/yr soft-pack power batteries (S2); whole project 12 GWh 'expected to completely come online in three years'. nameplate 12 = full project plan (phase 1 2 built + remainder 10 GWh undated by phase); ref_year 2022 = 2019 + 'three years' (derived from the article's wording, not a stated calendar year; ref_year: fallback, searched). installed 2 GWh as of 2019-05-10 is a DATED FLOOR (company-subsidiary/press basis, design capacity of phase 1), NOT a current figure; a 2022 broker-report snippet (not opened) said '12 GWh pouch planned, 1 GWh produced' - output, not capacity. No later phase-completion news found, so the 12 GWh plan may be only partly built: stale plan, confidence 0.4. Chemistry LFP and pouch: S3 (SMM 2022-03-02) says the Jiangsu base of Far East Battery makes mainly soft-pack 50Ah LFP cells; it names 'Far East Battery Jiangsu Co', which is ASSUMED to be the same Yixing site (not verified). Entity mapping: the MIIT-listed 远东福斯特新能源有限公司 (Far East Fosit; est. 2009, wholly owned by Far East Smarter Energy, S6) is a different subsidiary name from 远东首诺/Far East First; the Fosit entity's site is NOT stated anywhere I opened (Fosit came from the 2015 acquisition of Jiangxi Fosit, which suggests Yichun) - so Fosit is NOT claimed to be this Yixing plant. Yixing site is also the 'Jiangsu base' of S5 (10jqka 2026-10-05: Far East Battery has two bases, Yichun Jiangxi and Yixing Jiangsu; no GWh stated). Coordinates null. ESCALATE: no 2024+ capacity for Yixing; needs Far East Smarter Energy annual report (600869) base table."
+    },
+    {
+      "action": "add",
+      "id": "far-east-battery-far-east-battery-jiangxi-yichun-cylindrical-plant-china",
+      "fields": {
+        "plant_name": "Far East Battery Jiangxi (Yichun) cylindrical cell plant",
+        "operator": "Jiangxi Far East Battery / Far East Lithium (江西远东锂电)",
+        "parent_company": "Far East Smarter Energy (远东智慧能源, SSE 600869)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "installed_capacity_gwh": null,
+        "chemistry": "NMC",
+        "cell_format": "cylindrical",
+        "end_market": "mixed",
+        "source_url": "https://stock.10jqka.com.cn/20261005/c680439270.shtml",
+        "source_date": "2026-11-23",
+        "source_published_date": "2026-10-05"
+      },
+      "evidence": {
+        "status": ["S5", "S4"],
+        "cell_format": ["S4", "S5"]
+      },
+      "confidence": 0.35,
+      "notes": "[T070 NEW; capacity null] Not in DB (grep as for the Yixing row). Far East Battery's Jiangxi base makes cylindrical 18650/21700 cells (S4, SMM 2022-03-02: 'Jiangxi far East batteries are mainly cylindrical batteries'); S5 (10jqka 2026-10-05) says the company has bases in Yichun (Jiangxi) and Yixing (Jiangsu) and that 21700-68E cylindrical cells 'have completed batch delivery' (supports operational). Link between 'Jiangxi base' and the city of Yichun is from S5's two-base wording (S5 names the Jiangxi Far East Lithium entity separately; it does not literally say the entity sits in Yichun) - treat the city as probable. Capacity NOT set: S4's wording is garbled ('The company has 18650 battery capacity 4G Whfein 21700 battery capacity 2 GWh'), so the unit/split cannot be read reliably (possibly 4 GWh 18650 + 2 GWh 21700 = ~6 GWh, but I will not reconstruct it); no company filing or 2024+ figure found. Chemistry 'NMC' is an ASSUMPTION for 18650/21700 high-energy-density cells - not stated in S4/S5 (S5 mentions 18650-48E at 320 Wh/kg, which implies a high-nickel chemistry but is not an explicit chemistry statement); lead may null it. end_market 'mixed' unverified (light-mobility/home per a 2024 PR snippet not opened). Fosit link: the MIIT-listed 远东福斯特新能源有限公司 (S6: est. 2009, wholly owned by Far East Smarter Energy, Li-ion/power battery maker) is probably this Jiangxi (Yichun) operation (Far East acquired Jiangxi Fosit in 2015 per a 2025 media snippet, not opened), but no source I opened ties the Fosit entity to a city, so this is UNVERIFIED. Coordinates null. ESCALATE: capacity unknown; needs 600869 annual report or Yichun government source."
+    },
+    {
+      "action": "add",
+      "id": "anhui-yijiatong-battery-eikto-xuancheng-plant-china",
+      "fields": {
+        "plant_name": "Anhui Yijiatong (EIKTO) Xuancheng cell plant",
+        "operator": "Anhui Yijiatong Battery Co., Ltd. (安徽益佳通电池有限公司, EIKTO)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "installed_capacity_gwh": null,
+        "chemistry": "LFP",
+        "cell_format": "prismatic",
+        "end_market": "EV",
+        "source_url": "https://img.b-china.cn/uploads/files/2024086/f086a0f1-596f-8dd6-7aab-14d5c06a97db.pdf",
+        "source_date": "2026-11-23",
+        "source_published_date": "2024-07-26"
+      },
+      "evidence": {
+        "status": ["S7"],
+        "chemistry": ["S7"]
+      },
+      "confidence": 0.35,
+      "notes": "[T070 NEW; capacity null] Not in DB (grep yijiatong / 益佳通 / EIKTO / Xuancheng / 宣城 in factories_export.csv, removed.csv, patches: no match). The company's own brochure (S7, 2024-07-26, PDF read as page images, so text-layer match of the quote may differ in punctuation) says Anhui Yijiatong Battery, founded 2006, researches, produces and sells Li-ion batteries for construction machinery, industrial vehicles and new-energy ships; HQ address Xuancheng Economic Development Zone, Baocheng Road 998 (安徽省宣城市经济开发区宝成路998号); product list includes cells ('电芯'), modules, packs and mobile power; cell is a 120-280 Ah LFP prismatic aluminium-shell cell ('短刀王' blade-type, '方形铝壳'). The brochure lists the group's production bases as Xuancheng and Jing County (Anhui), Yancheng (Jiangsu), Wuhu (Anhui) and Laohekou (Hubei) with '18GWh 总体产能' (group total across all bases and all products; NOT carried as site capacity: company-wide figures are never a single site's capacity, and the brochure does not split cells from modules/packs or by site). Row = the Xuancheng HQ site only, as the only site with a street address. Other four bases are NOT added (no site-level data, unclear whether cell or pack) - lead may want a follow-up (Yancheng/Jianhu: a brochure image folder path mentions '建湖新工厂/电芯流水线', i.e. a Jianhu new factory cell line, not a stated fact). Status: brochure describes an operating '5G smart factory' and sells cells; MIIT lists per T068 (batch 7 power-battery list, itdcw 2023-12-26 not re-opened here) support existence/operational only at <=0.4. Separately, T068 lists a distinct Jiangsu Yijiatong New Energy (江苏益佳通新能源科技有限公司, batch 9) - plausibly the Yancheng/Jianhu entity; not added. end_market 'EV' = non-road vehicles/ships (construction machinery), not passenger EV. start_year null. Coordinates null."
+    },
+    {
+      "action": "add",
+      "id": "zhongtian-energy-storage-technology-zhongtian-nantong-energy-storage-manufacturing-project-china",
+      "fields": {
+        "plant_name": "Zhongtian Energy Storage (ZTT) Nantong new-energy-storage low-carbon intelligent manufacturing project",
+        "operator": "Zhongtian Energy Storage Technology Co., Ltd. (中天储能科技有限公司)",
+        "parent_company": "Jiangsu Zhongtian Technology Co., Ltd. (江苏中天科技, SSE 600522)",
+        "country": "China",
+        "region": "China",
+        "status": "under_construction",
+        "project_state": "active",
+        "site_type": "single_site",
+        "nameplate_capacity_gwh": null,
+        "capacity_ref_year": null,
+        "installed_capacity_gwh": null,
+        "chemistry": "LFP",
+        "end_market": "ESS",
+        "source_url": "https://www.energytrend.com/print/51228",
+        "source_date": "2026-11-23",
+        "source_published_date": "2026-04-13"
+      },
+      "evidence": {
+        "status": ["S8"]
+      },
+      "confidence": 0.3,
+      "notes": "[T070 NEW; capacity null by D-026/cell-vs-system ambiguity] Not in DB (grep Zhongtian / 中天 / ZTT / Nantong in factories_export.csv, removed.csv, patches: only unrelated Nantong rows for Muxing Shidai and Shanghai Electric Gotion). Evidence: S8 (EnergyTrend, no date on the page; April 10 construction start and ~2026-04-13 publication inferred from the URL date) says construction officially commenced on Zhongtian Energy Storage's new energy storage low-carbon intelligent manufacturing project, to reach 'an annual production capacity of 20GWh'. The page does NOT say whether the 20 GWh is cells, systems or both, gives no location, phases, investment or schedule, so 20 GWh is NOT entered as cell nameplate (bundled/undetermined scope). City Nantong comes only from S9, an individual investor's stock-forum post (not a news desk): '在江苏南通正式开工' - low reliability; ZTT is headquartered in Nantong. Company context: S10 (China Powder Net 2023-01-16, MIIT-list profile) says Zhongtian Energy Storage (est. 2012, wholly owned by Jiangsu Zhongtian Technology) mainly does Li-ion battery R&D, production and sales - i.e. an existing cell maker on the MIIT compliant list (supports existence only); S11 (Sekorm 2024-07-09, exhibitor release) says 'ZTT boasts an annual production capacity of 8GWh for lithium iron phosphate batteries' - company-wide, no site, cell/system split unstated, so NOT used as installed capacity. Hence the operating cell site(s) of the MIIT entity are not located: this row represents the 2026 Nantong project only; if the existing 8 GWh LFP lines are at the same site, status would be operational. Chemistry LFP and end_market ESS from S11/S8 context (ZTT storage unit), not explicitly tied to this project. Per-site status of the existing plant is unconfirmed. ESCALATE: needs a ZTT (600522) filing or Nantong EIA notice stating the 20 GWh scope (cells vs systems) and district."
+    }
+  ]
+}

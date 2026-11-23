@@ -1,0 +1,138 @@
+{
+ "task": "T071",
+ "verified_on": "2026-11-23",
+ "sources": {
+  "S1": {
+   "url": "https://electrive.com/2026/11/19/ford-delivers-first-lfp-batteries-for-test-fitting-in-fathom-prototypes",
+   "publisher": "electrive.com, Ford delivers first LFP batteries for test fitting in Fathom prototypes",
+   "published": "2026-11-19",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "they will initially be used in prototypes of the Ford Fathom ... is scheduled to enter series production in 2027."
+  },
+  "S2": {
+   "url": "https://www.marklines.com/en/news/286266",
+   "publisher": "MarkLines (teaser, first paragraph visible without login), ABEE, Belgium to start construction of battery pack gigafactory in 2024",
+   "published": "2023-04-11",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "BE-VOLT will be the FIRST battery pack gigafactory in Belgium with a production capacity of 3GWh/year."
+  },
+  "S3": {
+   "url": "https://www.marklines.com/en/news/309460",
+   "publisher": "MarkLines (teaser, first paragraph visible without login), Avesta Holding LFP cell gigafactory announcement",
+   "published": "2024-06-10",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "announced its plans to establish a new gigafactory to produce advanced Lithium Iron Phosphate (LFP) battery cells. ... exclusively supporting Avesta Battery & Energy Engineering (ABEE), BE-Volt, and other strategic partners."
+  },
+  "S4": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000006/envx-20251228.htm",
+   "publisher": "Enovix Corporation Form 10-K for fiscal year ended 2025-12-28 (SEC EDGAR; published = fiscal-year end, filing date not shown on page), Routejade facilities",
+   "published": "2025-12-28",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "has two factories in Nonsan City, South Korea ... house a total of four automated battery production lines and two electrode coating lines"
+  },
+  "S5": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000006/envx-20251228.htm",
+   "publisher": "Enovix Corporation Form 10-K for fiscal year ended 2025-12-28 (SEC EDGAR), shipments from Korea",
+   "published": "2025-12-28",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "increased shipments from our South Korea operations"
+  },
+  "S6": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000006/envx-20251228.htm",
+   "publisher": "Enovix Corporation Form 10-K for fiscal year ended 2025-12-28 (SEC EDGAR), adjacent SolarEdge cell facility",
+   "published": "2025-12-28",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "an adjacent battery cell manufacturing facility and related equipment from Solar Edge"
+  },
+  "S7": {
+   "url": "https://www.electrive.com/2025/02/11/eas-launches-battery-cell-research-project-in-germany/",
+   "publisher": "electrive.com, EAS launches battery cell research project in Germany (SkaleD)",
+   "published": "2025-02-11",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "developing innovative cell and battery solutions at the Nordhausen production site for 25 years"
+  },
+  "S8": {
+   "url": "https://www.electrive.com/2025/02/11/eas-launches-battery-cell-research-project-in-germany/",
+   "publisher": "electrive.com, EAS launches battery cell research project in Germany (SkaleD), product description",
+   "published": "2025-02-11",
+   "accessed": "2026-11-23",
+   "language": "en",
+   "quote": "extremely robust and powerful cells"
+  }
+ },
+ "rows": [
+  {
+   "id": "ford-blueoval-battery-park-michigan-blueoval-battery-park-michigan-marshall-united-states",
+   "action": "update",
+   "fields": {
+    "status": "under_construction",
+    "source_url": "https://electrive.com/2026/11/19/ford-delivers-first-lfp-batteries-for-test-fitting-in-fathom-prototypes",
+    "source_date": "2026-11-23",
+    "source_published_date": "2026-11-19",
+    "site_type": "single_site"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T071] Status under_construction CONFIRMED with newer evidence, no value change. electrive.com 2026-11-19 (S1; Ford announced on 2026-11-18, per search results, Ford's own page was JS-only and not readable here): the first Marshall LFP prismatic cells have shipped to Louisville Assembly for test fitting in Fathom prototypes ('initially be used in prototypes'), and the vehicle 'is scheduled to enter series production in 2027'. That is pilot/prototype output, not commercial cell production (D-020), so operational is still not supported; the v1 'operational since June 2026' reading stays rejected. Same article (fetched; not quoted, so not evidence) repeats the 2023 reduction to 20 GWh and 1,700 jobs; nameplate 20 and capacity_ref_year 2026 from T011 left unchanged (not re-quoted here; ref_year could move to 2027 if the lead reads 'series production 2027' as the ramp year). installed null. Ford said a Marshall pack plant is planned for 2027 (search result, not fetched). Quote caveat: the fetch tool summarises pages, so the S1 fragments were returned as quoted text but the auditor should string-match them."
+  },
+  {
+   "action": "add",
+   "fields": {
+    "plant_name": "Enovix Routejade (Nonsan)",
+    "operator": "Routejade Inc. (Enovix Korea)",
+    "parent_company": "Enovix Corporation",
+    "country": "South Korea",
+    "region": "South Korea",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "hub",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828318/000182831826000006/envx-20251228.htm",
+    "source_date": "2026-11-23",
+    "source_published_date": "2025-12-28"
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T071] ADD (Part 2). Enovix's 10-K (S4) says its Korean subsidiary Routejade has two factories in Nonsan City housing four automated battery production lines and two electrode coating lines; the 10-K also cites increased shipments from the South Korea operations (S5) and a 2025 purchase of an adjacent battery cell manufacturing facility from SolarEdge (S6, same Nonsan cluster per the 10-K and press, not a separate row). Routejade makes conventional Li-ion small-format cells (coin PD series, Z-folded pouch/polymer SLPB/FLPB per the 10-K summary) for wearables, medical, industrial, aviation and defense, and also assembles packs; cell vs pack split is not stated, and the 10-K says the Korean plants 'vertically integrate electrode coating and battery pack manufacturing', so cell scope is real but partly pack. Site_type hub = two adjacent factories in Nonsan plus the SolarEdge facility, one row. No GWh/MWh figure on the page read (first 100k of 337k characters only; remainder not read), so nameplate, installed, capacity_ref_year, chemistry, cell_format, end_market, start_year left null. Routejade was acquired Oct/Nov 2023 (10-K says October; press says completed 1 Nov 2023; not used as start_year). source_published_date = fiscal-year end of the 10-K (page shows no filing date; same convention as T016). Coordinates not located. The earlier row 'vitzrocell-nonsan-plant-south-korea' was removed as a mis-attribution (T019); this is a different company. Confidence 0.5: status inferred from operating lines and shipments, no capacity. The 'Enovix' production-lines quote came through a summarising fetch; auditor to string-match."
+  },
+  {
+   "action": "add",
+   "fields": {
+    "plant_name": "EAS Batteries Nordhausen",
+    "operator": "EAS Batteries GmbH",
+    "parent_company": "Monbat Group",
+    "country": "Germany",
+    "region": "Europe",
+    "status": "operational",
+    "project_state": "active",
+    "site_type": "single_site",
+    "source_url": "https://www.electrive.com/2025/02/11/eas-launches-battery-cell-research-project-in-germany/",
+    "source_date": "2026-11-23",
+    "source_published_date": "2025-02-11"
+   },
+   "evidence": {
+    "status": [
+     "S7",
+     "S8"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[T071] ADD (Part 2, Battery-News Oct-2025 residue 'Nordhausen 0.9 GWh'). The only Nordhausen cell maker found is EAS Batteries (Monbat Group since June 2017 per the fetched electrive page, paraphrase; not quoted). electrive 2025-02-11 (S7, S8): EAS has been 'developing innovative cell and battery solutions at the Nordhausen production site for 25 years' and supplies 'extremely robust and powerful cells' for maritime, aerospace, aviation, off-road and automotive niches; the page also describes the SkaleD project (EUR 2.1m, with Fraunhofer FFB/IKTS, ends 2027-12-31) to cut LFP cell cost. The 0.9 GWh figure comes only from the Battery-News map image (not machine-quotable, so not used): nameplate, installed, capacity_ref_year left null; the figure is recorded here as a lead only and is below the 5 GWh large-plant threshold. Status operational rests on 'production site' wording for a 25-year-old cell and battery business: no page read gives cells-in-production output, so confidence 0.4 and cell-vs-pack split unconfirmed (EAS also builds battery systems). Chemistry/format/end_market null (niche; LFP appears only for the research project). Coordinates not set. Quote caveat: fetched through a summarising tool; auditor to string-match. Envites Energy (also Nordhausen, planned cerman.power+ pilot cell plant) seen in a press release whose body was not readable; not added."
+  }
+ ]
+}

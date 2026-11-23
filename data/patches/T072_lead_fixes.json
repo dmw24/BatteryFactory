@@ -1,0 +1,13 @@
+{
+ "task": "T072",
+ "verified_on": "2026-11-23",
+ "sources": {},
+ "rows": [
+  {
+   "id": "avesta-holding-be-volt-seneffe-manage-belgium",
+   "action": "fix",
+   "fields": {},
+   "notes": "lead (T071 review): cell vs pack conflicting — MarkLines 2023 calls BE-VOLT a 'battery pack gigafactory' (3 GWh); Wallonia page says 'not just an assembly line', Battery-News Oct-2025 map lists Seneffe as a cell site, AVESTA announced a separate 5 GWh LFP cell gigafactory (2024, no site). Kept (D-015: removal needs positive evidence); nameplate null."
+  }
+ ]
+}
