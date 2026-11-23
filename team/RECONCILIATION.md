@@ -85,3 +85,30 @@ Reading: almost all of the unallocated capacity is CATL in 2020–2024 (its disc
 history; in 2025 our CATL sites, 875 GWh on the IEA basis, exceed its disclosed 772 GWh effective capacity). That
 confirms the 2021–24 shortfall is largely missing *history* at known sites, not missing plants. The rest of the gap is
 companies that disclose no GWh capacity (BYD, CALB, Gotion, EVE, Korean/Japanese makers).
+
+## Benchmarks beyond IEA (T079, D-029; quotes re-fetched and string-matched by the lead 2026-11-23)
+Global capacity (GWh):
+
+| year | ours C | ours D | ours D-high | ours E | IEA | BNEF | Benchmark |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 2020 | 193 | 235 | 241 | 299 | – | – | 734 |
+| 2023 | 1,516 | 1,599 | 1,751 | 1,858 | 2,500 | ~2,600 | – |
+| 2024 | 1,943 | 2,078 | 2,543 | 2,426 | 3,000 | 3,100 (fully commissioned) | – |
+| 2025 | 3,113 | 3,383 | 4,070 | 3,437 | >4,000 | – | 4,800 (output 2,200) |
+
+By region:
+
+| year | region | ours C / D / D-high / E | benchmark |
+|---|---|---|---|
+| 2023 | China | 1,202 / 1,268 / 1,414 / 1,527 | BNEF 2,200 nameplate (end-2023) |
+| 2024 | China | 1,503 / 1,620 / 2,064 / 1,968 | CRU >2,000 |
+| 2024 | USA | 148 / 158 / 178 / 158 | IEA >200 |
+| 2025 | Europe | 275 / 282 / 282 / 282 | Bruegel 251; Roland Berger ~200 |
+
+Reading: Europe and the US are at or near the benchmarks (Europe slightly above — we count some ramping plants at
+nameplate). The gap is China, and it is largest in the early years (2020: ours ~0.3 TWh vs Benchmark 0.73 TWh;
+2023 China: ~1.5 vs BNEF 2.2 TWh), shrinking by 2024–25. That pattern fits missing *history* at Chinese plants we
+already list (dated capacity only from recent years) plus non-disclosing companies, rather than missing plants.
+Output cross-checks: Benchmark 2025 cell production 2.2 TWh vs capacity 4.8 TWh (≈46% utilisation); our C (3.1 TWh)
+sits between output and benchmark capacity. Pipelines (BNEF 7.9 TWh announced for 2025, Benchmark >10 TWh for 2030)
+are not capacity. No open source gave an LFP/NMC capacity split.

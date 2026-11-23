@@ -30,4 +30,7 @@ IEA,2022,1720,nameplate,implied (2.5 TWh 2023 minus 780 GWh added in 2023) - der
 IEA,2023,2500,nameplate,Batteries and Secure Energy Transitions
 IEA,2024,3000,nameplate,GEVO 2025 (>3 TWh; chart ~3.3)
 IEA,2025,4000,nameplate,GEVO 2026 (>4 TWh)
-BNEF,2023,2600,commissioned,China Already Makes as Many Batteries
+BNEF,2023,2600,capacity,"'close to 2,600 GWh' global battery manufacturing capacity (about.bnef.com, Apr 2024; year from context) — T079"
+BNEF,2024,3100,commissioned,"'3.1 terawatt-hours of fully commissioned battery-cell' capacity (BNEF free page) — T079"
+Benchmark,2020,734,capacity,"'In 2020, battery cell production capacity was around 734GWh' (Benchmark free page) — T079"
+Benchmark,2025,4800,capacity,"'gigafactory capacity hit 4.8TWh' (Benchmark free page; output 2.2 TWh same year) — T079"
