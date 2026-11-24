@@ -1,0 +1,204 @@
+{
+  "task": "T108",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.webmanagercenter.com/2026/10/14/574657/batteries-electriques-gotion-lance-sa-gigafactory-de-kenitra-un-test-pour-la-filiere-marocaine/",
+      "publisher": "WebManagerCenter (Morocco), Batteries electriques : Gotion lance sa gigafactory de Kenitra",
+      "published": "2026-10-14",
+      "accessed": "2026-11-24",
+      "language": "fr",
+      "quote": "La mise en service des équipements de la gigafactory Gotion débutera la semaine du 20 octobre 2026 ... ne signifie pas encore une production commerciale à pleine capacité."
+    },
+    "S2": {
+      "url": "https://www.merca2.es/2026/07/15/volkswagen-retrasa-sagunto-baterias-2417448/",
+      "publisher": "Merca2 (Spain), Volkswagen retrasa Sagunto y amenaza su coche electrico de 25.000 euros",
+      "published": "2026-07-15",
+      "accessed": "2026-11-24",
+      "language": "es",
+      "quote": "PowerCo confirma que las pruebas de preserie no arrancarán hasta finales de 2026 ... la producción en masa se desliza hacia el segundo trimestre de 2027"
+    },
+    "S3": {
+      "url": "https://www.electrive.com/2026/09/23/catl-begins-test-production-of-battery-cells-in-debrecen/",
+      "publisher": "electrive, CATL begins test production of battery cells in Debrecen",
+      "published": "2026-09-23",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The first two production lines at the plant have now been commissioned for these test purposes. ... It remains unclear when full-scale mass production of battery cells in Debrecen will actually commence."
+    },
+    "S4": {
+      "url": "https://www.electrive.com/2026/09/25/powerco-postpones-battery-cell-production-in-canada/",
+      "publisher": "electrive, PowerCo postpones battery cell production in Canada",
+      "published": "2026-09-25",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "the St. Thomas facility is now projected to start operations in 2029 ... We are continuing to build now while determining how and when the facility scales over time."
+    },
+    "S5": {
+      "url": "https://electrive.com/2026/11/19/ford-delivers-first-lfp-batteries-for-test-fitting-in-fathom-prototypes",
+      "publisher": "electrive, Ford delivers first LFP batteries for test fitting in Fathom prototypes",
+      "published": "2026-11-19",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "the first LFP cells are now rolling off the production line at the BlueOval Battery Park"
+    },
+    "S6": {
+      "url": "https://www.businesstoday.in/latest/corporate/story/reliance-agm-2026-ril-to-commission-first-phase-of-40-gwh-battery-gigafactory-this-year-538104-2026-06-19",
+      "publisher": "Business Today (India), Reliance AGM 2026: RIL to commission first phase of 40 GWh battery gigafactory this year",
+      "published": "2026-06-19",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The first phase of our 40 gigawatt hour annual battery and cell giga factory is on track to be commissioned this year."
+    },
+    "S7": {
+      "url": "https://cbgc.scol.com.cn/news/7916910",
+      "publisher": "川观新闻 (Sichuan Observer), 鹏程无限新能源科技(四川)有限公司首台设备进厂",
+      "published": "2026-09-03",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "11月启动试生产，年内全面投产"
+    },
+    "S8": {
+      "url": "https://city.huanqiu.com/article/4QvpRdxUs6l",
+      "publisher": "环球网城市频道 (Huanqiu), 国科能源(四川)20GWh储能电芯项目开工",
+      "published": "2026-03-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "一期固定资产投资约20亿元，占地198亩，将建设年产10GWh磷酸铁锂电芯生产线，预计2026年12月竣工投产。"
+    }
+  },
+  "rows": [
+    {
+      "id": "gotion-power-morocco-gotion-kenitra-gigafactory-morocco",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://www.webmanagercenter.com/2026/10/14/574657/batteries-electriques-gotion-lance-sa-gigafactory-de-kenitra-un-test-pour-la-filiere-marocaine/",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-10-14",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S1"]
+      },
+      "confidence": 0.5,
+      "notes": "[T108] Gotion Kenitra: status under_construction kept (D-020). Company announcement of 2026-10-12 relayed 2026-10-14 (S1): commissioning/start-up of the equipment begins the week of 2026-10-20 and 'does not yet mean commercial production at full capacity'. Other reports (TelQuel 2026-09, via search summary; telquel pages returned 403 so not citable) say first cell line due Oct 2026, second Nov 2026; Medias24 May 2026 had expected Aug 2026 -> slipped. No post-2026-10-20 report found that cells are in commercial production; so NOT operational, installed null. Capacity: S1 gives 'capacité nominale de 20 GWh par an' for the first phase (matches v1 nameplate 20); a pv-magazine Aug 2026 item (search summary, not opened) reportedly says 10 GWh for phase 1 - unresolved conflict, nameplate/ref_year not re-confirmed here and left out of this update (existing 20 / 2026 unchanged). Search budget: 4 searches, 3 fetches (2 x 403). GWh moving to operational in 2026: 0 (as of 2026-11-24). Re-check in Dec 2026: if cell line 1 is declared in production, status operational with installed = line-1 GWh."
+    },
+    {
+      "id": "powerco-powerco-sagunto-gigafactory-valencia-spain",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "start_year": 2027,
+        "source_url": "https://www.merca2.es/2026/07/15/volkswagen-retrasa-sagunto-baterias-2417448/",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-07-15",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S2"],
+        "start_year": ["S2"]
+      },
+      "confidence": 0.5,
+      "notes": "[T108] PowerCo Sagunto: still under_construction. Merca2 2026-07-15 (S2): pre-series tests slip from Sept to December 2026; mass production slips to Q2 2027 (the same article also says summer 2027 'todavía es factible' - inconsistent inside the article). start_year 2027 = start of mass production per S2 (pre-series cells from Dec 2026 would be trial, not commercial, D-020). Earlier reports: electrive 2025-10-28 (series cell supply July 2027; pilot Sept/Oct 2026) via search summary, not opened. No report found that any cell has been produced yet. Capacity 29.1 GWh, ref year 2026 and the Gotion 49% stake (single report dated 2026-09-28 in a search summary, not opened) NOT re-confirmed here; left out of this update. Note: ref year 2026 (existing) is stale relative to mass production 2027 - lead may want to revisit. GWh moving to operational in 2026: 0."
+    },
+    {
+      "id": "catl-catl-debrecen-hungary",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://www.electrive.com/2026/09/23/catl-begins-test-production-of-battery-cells-in-debrecen/",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-09-23",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S3"]
+      },
+      "confidence": 0.7,
+      "notes": "[T108] CATL Debrecen: electrive 2026-09-23 (S3, fetched): the first two lines commissioned for TEST production; start was meant to be spring 2026 and slipped; 'unclear when full-scale mass production ... will actually commence'; plan up to 100 GWh/yr. Per D-020 test production is not commercial, so status stays under_construction, installed null. The v1 capacity_by_year_json step {2026: 34} and capacity_ref_year 2026 are NOT supported by S3 (no 2026 commercial output stated) - not touched here; flag for lead: the 2026 step likely overstates 2026 output. No later (Oct-Nov 2026) commercial-start report found (1 search). GWh moving to operational in 2026: 0."
+    },
+    {
+      "id": "powerco-se-powerco-st-thomas-gigafactory-canada",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "start_year": 2029,
+        "source_url": "https://www.electrive.com/2026/09/25/powerco-postpones-battery-cell-production-in-canada/",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-09-25",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S4"],
+        "start_year": ["S4"]
+      },
+      "confidence": 0.65,
+      "notes": "[T108] PowerCo St. Thomas: electrive 2026-09-25 (S4, fetched): cell production start postponed from 2027 to 2029; on-site construction continues (EllisDon general contractor), so NOT paused (project_state stays active) but scale/timing 'to be determined'. The article says the plant 'was once set' to reach up to 90 GWh and gives no revised capacity: the 90 GWh nameplate is therefore an earlier plan and ref year 2025 (existing) is stale - nameplate/ref_year not re-confirmed here and left out of this update; lead to decide whether to null nameplate (superseded/unscaled plan, D-017). GWh moving to operational in 2026: 0."
+    },
+    {
+      "id": "ford-blueoval-battery-park-michigan-blueoval-battery-park-michigan-marshall-united-states",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://electrive.com/2026/11/19/ford-delivers-first-lfp-batteries-for-test-fitting-in-fathom-prototypes",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-11-19",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S5"]
+      },
+      "confidence": 0.65,
+      "notes": "[T108] Ford Marshall: BORDERLINE, escalate. electrive 2026-11-19 (S5, fetched): 'the first LFP cells are now rolling off the production line at the BlueOval Battery Park'; the article describes this as the end of the pilot phase, with the first cells going into Fathom prototypes and pack assembly planned before the Fathom launch in 2027. First cells for prototypes = first-cell-off-the-line, which D-020 does not count as commercial production, so status kept under_construction, installed null. If the lead reads 'end of pilot phase / production line' as commercial production, flip to operational (start_year 2026, installed unknown, 20 GWh nameplate = 2026 pipeline-to-operational). Plant capacity (article says 35 GWh originally, later 20 GWh) and ref year not re-confirmed here and left out. Searched 1 fetch only on this row (source already the newest found)."
+    },
+    {
+      "id": "reliance-new-energy-reliance-dhirubhai-ambani-green-energy-giga-complex-battery-gigafactory-india",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://www.businesstoday.in/latest/corporate/story/reliance-agm-2026-ril-to-commission-first-phase-of-40-gwh-battery-gigafactory-this-year-538104-2026-06-19",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-06-19",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S6"]
+      },
+      "confidence": 0.62,
+      "notes": "[T108] Reliance Jamnagar: still not commissioned. Business Today 2026-06-19 (S6, fetched; AGM statement by Anant Ambani): first phase of the 40 GWh annual 'battery and cell giga factory' 'on track to be commissioned this year'; plan to scale to 120 GWh (aspiration, excluded from nameplate, D-015). Two searches (6 and Nov 2026 queries) found nothing newer than late June 2026 (FY26 annual report 2026-05-28 'advanced stages of commissioning', via search summary, not opened). Early reports say the plant first assembles battery systems/packs and integrates backward to cells progressively - so even on commissioning, cell output may lag (and Bloomberg May 2026, cited in a summary, said Reliance was in talks with CATL for cell-line parts). Status unchanged; capacity/ref_year 2026 not re-confirmed and left out; 'capacity_by_year 2026: 40' in v1 JSON looks too aggressive vs the pack-first plan - flag for lead. GWh moving to operational in 2026: 0 so far."
+    },
+    {
+      "id": "pengcheng-wuxian-new-energy-technology-sichuan-co-ltd-pengcheng-wuxian-yibin-energy-storage-cell-base-china",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://cbgc.scol.com.cn/news/7916910",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-09-03",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S7"]
+      },
+      "confidence": 0.65,
+      "notes": "[T108] Pengcheng Wuxian Yibin: Sichuan Observer 2026-09-03 (S7, fetched): first equipment entered the plant on 2026-09-03 (shift from construction to equipment commissioning); phase 1 trial production set for November 2026 and full production within the year ('11月启动试生产，年内全面投产'); total plan 54 GWh/yr of 587Ah storage cells. Trial production is not commercial (D-020): status under_construction, installed null. No report found (1 search) that trial production started in November. A search summary notes First Financial (July 2026) gave 27 GWh vs 54 GWh planned total - not opened; v1 nameplate 54 / ref year 2026 not re-confirmed here and left out of this update (54 is a multi-phase total, so ref year 2026 only fits phase 1). GWh moving to operational in 2026: 0 as of 2026-11-24 (phase-1 size not stated)."
+    },
+    {
+      "id": "anhui-guoke-energy-guoke-energy-sichuan-meishan-china",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "source_url": "https://city.huanqiu.com/article/4QvpRdxUs6l",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-03-28",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S8"]
+      },
+      "confidence": 0.5,
+      "notes": "[T108] Guoke Energy Meishan: Huanqiu 2026-03-28 (S8, fetched; 3月28日 launch, year taken from page timestamp): 20 GWh project, RMB 5.5bn; phase 1 = 10 GWh LFP cell line, completion/production expected Dec 2026; phase 2 (+10 GWh cells, PACK line, R&D) to START in 2028. Nothing found (1 search) on construction progress or production since March 2026; the Dec 2026 phase-1 date is a plan. Status under_construction kept. Existing nameplate 20 / ref year 2026 not re-confirmed: since phase 2 (10 GWh) is only due to start in 2028, ref year 2026 only fits phase 1; the full-plan ref year would be 2028 or later (ref_year: latest dated phase; remainder undated) - left for the lead rather than changed, because the page gives a phase-2 start, not completion year. GWh moving to operational in 2026: 0 (phase 1 10 GWh due Dec 2026)."
+    }
+  ]
+}

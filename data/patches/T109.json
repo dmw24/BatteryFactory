@@ -1,0 +1,29 @@
+{
+  "task": "T109",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.itiger.com/news/2609516121",
+      "publisher": "电车汇 (repost on Tiger Brokers news, itiger.com), published 2026-02-06 17:21 Beijing time",
+      "published": "2026-02-06",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "目前，一期产线已满负荷运行，主要为国内主流乘用车和储能客户供货。 ... 项目全部建成后，基地总设计产能将达到70GWh ... 二期规划年产能35GWh"
+    }
+  },
+  "rows": [
+    {
+      "id": "calb-calb-jiangmen-base-xinhui-china",
+      "action": "update",
+      "fields": {
+        "installed_capacity_gwh": 35,
+        "installed_as_of": "2026-02-06"
+      },
+      "evidence": {
+        "installed_capacity_gwh": ["S1"]
+      },
+      "confidence": 0.8,
+      "notes": "[T109] Refreshed the installed date from the 2024-02-27 government report to 2026-02-06. Press (电车汇, 2026-02-06) says phase-1 lines at CALB Jiangmen 'are running at full load' (一期产线已满负荷运行), site design total 70 GWh, phase 2 planned 35 GWh. The page does not print a phase-1 GWh figure; 35 GWh = 70 total minus 35 phase 2 (arithmetic), and it matches the 35 GWh phase-1 figure of the Jiangmen municipal government report of 2024-02-27 already in this row (T004). installed basis: press (derived; the underlying statement appears to be the Xinhui government item of 2026-02-04, whose PDF at xinhui.gov.cn/attachment/0/250/250178/2735906.pdf returned HTTP 404 on 2026-11-24 so was not re-fetched). Phase 2 is not yet in production. nameplate_capacity_gwh, capacity_ref_year and capacity_by_year_json (2024: 35, 2027: 70) are unchanged and not re-vouched here; no new ramp step added because 35 GWh is already dated 2024."
+    }
+  ]
+}

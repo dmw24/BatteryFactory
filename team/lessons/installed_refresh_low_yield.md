@@ -1,0 +1,1 @@
+Refreshing site-level installed capacity is low-yield from open sources (T109: 1 of 30): Chinese makers rarely re-publish per-base capacity after the commissioning news, and annual reports give company totals only. Prefer company totals (D-028) and commissioning events (new phases) over re-searching old bases.
