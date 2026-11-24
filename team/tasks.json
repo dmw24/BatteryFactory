@@ -2700,12 +2700,16 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "merged",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
-      "audit": {}
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "17 rows re-assessed: 11 raised 0.62-0.85 with named sources, 4 lowered 0.4-0.55 + ESCALATE, 2 at 0.65; quotes 5/6 (S1 manually confirmed); Hohhot/Ordos: same template, different sponsors - kept, flagged"
+      }
     }
   ]
 }

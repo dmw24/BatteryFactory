@@ -63,3 +63,6 @@ Format:
 
 ## 2026-11-24 lead — improvement round (owner: "set up the todos and do it all")
 Backlog T080–T088 from the owner-approved improvement list: history fill (T080/T081, 25 Chinese bases, ~1.2 TWh of 2023→2025 jump), Ah/cell-count estimates (T082, lead), independent audit of T056–T079 (T083, Opus auditor), low-confidence large plants (T084), undated phases (T085), chemistry/format (T086), housekeeping (T087), blocked sources (T088).
+
+## 2026-11-24 lead — improvement round closed
+T080–T091 merged (T088 blocked on network allowlist). Audit T083 FAIL → fixes applied (T090) → C8 clean. Done gates: all pass except G4 (118). Final: C/D/D-high/E 2025 = 3.11/3.35/4.10/3.40 TWh vs IEA >4. FINAL_REPORT addendum written.

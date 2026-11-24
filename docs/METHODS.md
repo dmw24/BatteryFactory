@@ -30,9 +30,9 @@ Rules: never sum across statuses; aggregates use `factories_active` (active, com
 ## How it compares (global, TWh per year)
 | year | C | D | D-high | E | IEA | BNEF | Benchmark |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 2023 | 1.52 | 1.73 | 1.88 | 1.94 | ~2.5 | ~2.6 | – |
-| 2024 | 1.94 | 2.17 | 2.62 | 2.50 | 3.0 | 3.1 | – |
-| 2025 | 3.11 | 3.43 | 4.10 | 3.47 | >4.0 | – | 4.8 |
+| 2023 | 1.52 | 1.65 | 1.81 | 1.85 | ~2.5 | ~2.6 | – |
+| 2024 | 1.94 | 2.02 | 2.54 | 2.37 | 3.0 | 3.1 | – |
+| 2025 | 3.11 | 3.35 | 4.10 | 3.40 | >4.0 | – | 4.8 |
 Europe and the US match the benchmarks; the gap is China, mostly capacity history at known plants and companies
 that disclose no GWh capacity (BYD, CALB, Gotion, EVE, Korean makers). IEA data are based on Benchmark Mineral
 Intelligence, so those two are not independent. Provenance of each benchmark: `scripts/benchmarks.csv`.
@@ -46,7 +46,7 @@ matched, ~13 tiny makers with no public information), open trackers outside Chin
 - Chemistry is "mixed" or unknown for much of the capacity: no clean LFP/NMC split from open sources.
 - Japan/Korea site capacities are rarely published; some official sources are blocked from the build environment.
 - Coordinates are mostly city-level approximations (`geo_precision`), ~100 sites have none.
-- About 110 plants ≥10 GWh remain below 0.6 confidence; reasons are in each row's notes.
+- About 120 plants ≥10 GWh remain below 0.6 confidence; reasons are in each row's notes.
 
 ## Rebuild
 `python3 scripts/build_all.py` (rebuild → series → unallocated → QA → report → charts); checks:

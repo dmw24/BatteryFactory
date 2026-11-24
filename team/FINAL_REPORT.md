@@ -47,3 +47,31 @@ Each task: worker (Sonnet) → integrity checks → independent auditor (Opus, f
 
 ## Spend (approximate, from sub-agent usage reports)
 ~38 worker runs/reworks (Sonnet, ~7M tokens) and ~25 audits (Opus, ~3.7M tokens), plus the lead session. No Haiku used (D-004).
+
+
+---
+## Addendum — expansion and improvement rounds (2026-11-22 → 2026-11-24)
+**Coverage.** 548 rows (was 438). Second geographic passes in every Chinese province and every region; operator site
+lists; CABIA top-15 and ESS rankings; the official MIIT 锂离子电池行业规范条件 lists, batches 1–9 (fetched from
+miit.gov.cn via a headless browser; ~81 cell makers, 68 matched, ~13 tiny makers with no public information); open
+trackers outside China. Late passes found almost no missing operating plants. See team/COVERAGE.md.
+
+**New series.** D (IEA basis, D-027/D-032), D-high, E (D + unallocated company capacity, D-028); Ah-converted estimates
+reported separately (D-030). Global TWh — C / D / D-high / E vs IEA: 2023 1.52 / 1.65 / 1.81 / 1.85 vs ~2.5;
+2024 1.94 / 2.02 / 2.54 / 2.37 vs 3.0; 2025 3.11 / 3.35 / 4.10 / 3.40 vs >4.0 (BNEF 2024 3.1; Benchmark 2025 4.8).
+Europe and the US match the benchmarks; the gap is China. Benchmark provenance verified (IEA 2025 verbatim in GEVO
+2026; BNEF/Benchmark on their free pages; IEA 2021–22 are derived, not IEA figures).
+
+**Improvement round (owner-approved points 1–8).** History fill for 25 large Chinese bases (T080/T081/T073), phase
+dating (T085), low-confidence large plants (T084, T091), chemistry/format (T086), Great Power Ah estimates (T082),
+city coordinates for 99 more sites (T089), v2 charts (charts/), methods note (docs/METHODS.md), decisions digest
+(team/OWNER_DECISIONS.md), licence proposal (docs/LICENSE_PROPOSAL.md). Independent Opus audit T083 returned FAIL with
+concrete fixes, all applied (T090) plus systemic fixes: D-031 one rule for cell+PACK wording, D-032 reference-year
+basis, check C8 (no large rows parked at 0.6 — now 0). Bugs found and fixed along the way: verifier compared remote
+PDFs as bytes and failed on curly quotes; T031 chemistry mapper turned "LFP and sodium-ion" into sodium-ion (19 rows).
+
+**Done gates now:** G1a, G1b, G2a (3,235 GWh installed), G2b, G3, G5 pass; **G4 fails** (118 plants ≥10 GWh below
+0.6 — each escalated in its notes; open sources do not settle them).
+
+**Still open (owner):** G4 acceptance; pending decisions (team/OWNER_DECISIONS.md); licence; network allowlist for
+nrel.gov, iea.org, meti.go.jp, dart.fss.or.kr, jintan.gov.cn (T088, blocked).

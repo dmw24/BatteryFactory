@@ -1,0 +1,192 @@
+{
+  "task": "T091",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.energytrend.com/print/50842",
+      "publisher": "EnergyTrend (TrendForce), CALB Establishes New Base in Zigong (URL date 2026-01-26; fetched via the /print/ view; English page)",
+      "published": "2026-01-26",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "On January 23, the launch ceremony for CALB's Power and Energy Storage Battery Base was held in Zigong, Sichuan. ... capacity plans have not yet been publicly disclosed"
+    },
+    "S2": {
+      "url": "https://subsites.chinadaily.com.cn/shandong/2025-03/20/c_1079671.htm",
+      "publisher": "China Daily for the Information Office of Shandong Provincial People's Government, Dongying partners with CATL for green urban development",
+      "published": "2025-03-20",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "building a green manufacturing base for lithium batteries in Dongying's Kenli district ... at an initial scale of 40 gigawatt-hours (GWh)"
+    },
+    "S3": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF",
+      "publisher": "CATL 2025 annual report (cninfo; local text team/evidence/filings/300750_2025.txt lines 1008-1010), zero-carbon park section",
+      "published": "2026-03-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "山东东营 ... 垦利经济开发区、海南海口国家高新技术产业开发区等项目被列入国家级零碳园区建设名单"
+    },
+    "S4": {
+      "url": "https://www.energytrend.com/print/50402",
+      "publisher": "EnergyTrend (TrendForce), CATL Xiamen 80 GWh project enters steel-structure phase (URL date 2025-11-14; fetched via /print/ view)",
+      "published": "2025-11-14",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "the Xiamen 80 GWh high-performance lithium battery project invested in and constructed by CATL"
+    },
+    "S5": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF",
+      "publisher": "EVE Energy (亿纬锂能) annual report 2025 (cninfo; local text team/evidence/filings/300014_2025.txt lines 4228-4231), fundraising-project change note",
+      "published": "2026-03-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "“23GWh 圆柱磷酸铁锂储能动力电池项目”的建设内容及投资总额进行变更，变更后的项目名称为"
+    },
+    "S6": {
+      "url": "https://www.jiemian.com/article/8193377.html",
+      "publisher": "Jiemian News, CATL Yichun project (2022-10-18)",
+      "published": "2022-10-18",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "项目建设总规模120 GWh，其中一期项目建设规模年产约50 GWh，投资约135亿元，用地1800亩；二期年产70 GWh，投资约150亿元，用地2000亩。"
+    }
+  },
+  "rows": [
+    {
+      "id": "calb-zigong-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {"status": ["S1"]},
+      "confidence": 0.4,
+      "notes": "[T091] confidence 0.6 -> 0.4; no field value changed. Basis: the only source for 50 GWh is a section heading 'Sichuan Zigong (50GWh)' in a trade-media roundup (T004:S44, Sina/Victor Tech 2026-06-16; that page returned HTTP 503 when re-opened in this task, so it was NOT re-confirmed). EnergyTrend 2026-01-26 (S1, fetched) covering the 2026-01-23 launch ceremony says specific investment figures and capacity plans had not been publicly disclosed, and a second search (Sichuan press / Zigong 'No.1 project' coverage, Aug 2026 provincial list) found no GWh figure either. Status under_construction rests on T004:S3 (Sichuan press, started Jan 2026, completion within the year) and S1 (launch ceremony; ceremony alone would be 'announced' under D-020, the 'started construction' wording is from the Sichuan press). 50 GWh is also close to CALB's Chengdu 50 GWh plan (different Sichuan city), so a heading slip cannot be excluded. Not independent of the heading: nothing. Quote in S1 was extracted by the fetch tool from the English page; string-match it. ESCALATE: >=10 GWh at 0.4; needs a CALB filing or Zigong government page stating the GWh; consider nulling nameplate if none found."
+    },
+    {
+      "id": "catl-catl-dongying-zero-carbon-industrial-park-lithium-battery-manufacturing-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {"nameplate_capacity_gwh": ["S2"], "project_state": ["S3"]},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed. New evidence S2: Shandong provincial government information-office page (China Daily subsite, 2025-03-20) states the Kenli base 'at an initial scale of 40 GWh' - an official source independent of the trade-media groundbreaking report (EnergyTrend 2025-07-29, T002:S17: ground broken 2025-07-26, completion/operation 'next year'). S3: CATL's own 2025 annual report lists Dongying Kenli zero-carbon park among national zero-carbon park projects and signed agreements (company confirmation the project is live; T002:S51 guarantee table shows Dongying Times entity 2025-12-06). Not raised above 0.65: no news after 2025-07 on actual construction progress (two further searches, Chinese and English, 2026: none), the 2026 completion year is a press expectation, and the government/EnergyTrend items describe the same event chain (agreement -> groundbreaking), so they agree on capacity but not as fully independent confirmation of site works. Phase 1 40 GWh; phase 2 'at a suitable time' has no GWh (excluded)."
+    },
+    {
+      "id": "catl-catl-ningde-plant-ningde-manufacturing-hub-china",
+      "action": "update",
+      "fields": {"site_type": "hub"},
+      "evidence": {},
+      "confidence": 0.7,
+      "notes": "[T091] confidence 0.6 -> 0.7; no field value changed and no new source fetched. Justification from existing evidence: Fujian provincial government site (China Daily) 2026-01-16, T002:S2: 'CATL's production bases in the city now have a total capacity of 330 gigawatt-hours (GWh)...with another 170 GWh under construction or planned' - an official government statement covering status (operational), installed 330 and the 500 hub total, plus CATL's own 2025 annual report (T002:S1, 772 GWh company-wide capacity, 321 GWh under construction) which makes a 330 GWh Ningde-city share plausible. Capped at 0.7 not 0.8: single official source for the 330/170 split; the 170 GWh is an undated mix of 'under construction or planned'; hub composition (Fuding merged, Xiapu excluded) is inferred; government built-capacity figures run ~20% above company effective capacity (installed basis: government)."
+    },
+    {
+      "id": "catl-catl-xiamen-times-high-performance-lithium-battery-project-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {"status": ["S4"], "nameplate_capacity_gwh": ["S4"]},
+      "confidence": 0.7,
+      "notes": "[T091] confidence 0.6 -> 0.7; no field value changed. New evidence S4: EnergyTrend 2025-11-14 describes 'the Xiamen 80 GWh high-performance lithium battery project invested in and constructed by CATL' as having entered steel-structure construction (first steel column hoisted); per the fetched text, cell-factory topping-out expected by end-2025, equipment commissioning from April 2026, final completion acceptance in June 2026 (those schedule items are paraphrase from the fetch summary, not quoted). This is a second outlet, dated 6 months before and independent of the Weike/OFweek via Sina 2026-05-18 report (T002:S23: 约80GWh, main-body completion June 2026), agreeing on status (under construction) and on 80 GWh. Raised to 0.7 not 0.9: both reports relay CATL/local construction updates (not two unrelated origins), no CATL filing states 80 GWh, and no production start yet. A search snippet (SMM, 'first batch of Xiamen 80GWh base completes completion acceptance', ~2026-07) could not be opened (HTTP 503) so it is not used as evidence; it hints at completion acceptance of a first batch - worth a status re-check (possible operational). ref_year 2026 stays the publication-year fallback (T002 note); main-body completion is not a capacity date."
+    },
+    {
+      "id": "catl-catl-yichun-battery-production-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {"nameplate_capacity_gwh": ["S6"]},
+      "confidence": 0.55,
+      "notes": "[T091] confidence 0.6 -> 0.55; no field value changed. Status operational is well supported (T002:S42 local report: phase-1 plant 1 formally in production June 2023; T002:S39 CATL AR 2025 environmental-disclosure list names Yichun Times). The nameplate 120 (50 + 70) rests on ONE 4-year-old plan source: Jiemian 2022-10-18 (S6, re-fetched) states total scale 120 GWh, phase 1 ~50 GWh (CNY 13.5bn), phase 2 70 GWh (CNY 15bn). No phase-2 construction or timing evidence exists in any source. The v1 timeline claim (Xinhua 2024-12-20: expanded from 50 to >70 GWh) is NOT supported: the Xinhua page fetched in this task (city.news.cn/20241220/...) carries no CATL Yichun capacity (it gives Guoxuan 30 GWh phase 2 and other Yichun items). The Yichun 70 GWh figure in v1 therefore stays unconfirmed and the only reconcilable reading is plan = 120. ref_year 2022 is a publication-year fallback (no target year); D-032 treats it as undated. Hence 0.55: operational status solid, full-plan capacity single, dated and phase 2 unevidenced. ESCALATE: >=10 GWh at 0.55; needs a CATL filing or Yichun government page on phase-2 start or the current built capacity."
+    },
+    {
+      "id": "catl-catl-zhaoqing-plant-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Justification from existing evidence: status operational is supported by Gasgoo 2022-05-31 (T002:S19 / T054:Z1: phase I production ceremony, 25 GWh phase-I design) and by CATL's own March 2026 fundraising notice via press (T002:S46: stage 1 built and in production, stage 2 partly built; plan 'about 30GWh') plus CATL AR 2025 (T002:S47: ready-for-use date postponed to 2026-12-31). Nameplate 30 follows the later company figure over the 25 GWh press figure (CONVENTIONS: later company figure wins); the 20% gap between 25 and 30 is a documented plan revision, not an unresolved conflict. Not above 0.65: the company notice is relayed by press (not read from the filing), installed 25 GWh is a phase-I design figure on a press basis (dated floor, D-025) and the 2026-12-31 date is already slipping. The T054 caution stands: if the lead judges design != installed, drop installed_capacity_gwh; confidence would then be unaffected for nameplate."
+    },
+    {
+      "id": "catl-luoyuan-times-new-energy-battery-industrial-base-luoyuan-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.62,
+      "notes": "[T091] confidence 0.6 -> 0.62; no field value changed, no new evidence added. Existing evidence: EnergyTrend 2025-04-27 (T002:S18, phase I construction began 2025-04-24, 40 GWh/yr, CNY 6.5bn), SolarBE 2025-04-27 (T002:S35, local planning: full construction by year-end, 'expected built and at full capacity mid-2027'), CATL AR 2025 guarantee table (T002:S50: Luoyuan Times entity, 2025-12-06, newly established 2025). Searches in this task (Chinese and English, Nov 2026) again found coverage only up to April 2025 (EnergyTrend, SMM, MarkLines contract-signing 2025-01), none from 2026: the EnergyTrend and SolarBE items are two reports of the same local announcement, not independent confirmation. 0.62: one reputable source for status and capacity, company filing corroborating only that the entity is live; freshness gap (no progress news for 7 months) prevents 0.65+."
+    },
+    {
+      "id": "eve-energy-eve-energy-chengdu-power-and-energy-storage-battery-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Justification from existing evidence: status operational and installed 9 GWh: Jiemian 2026-03-19 (T006:C1, '建成投产9GWh的产线'); nameplate 50 in two phases 20+30: electrive 2022-04-28 (T006:CD1) and the 2023-03-31 groundbreaking report (bjx, v1 timeline; initial phase scaled to 30 GWh = ~9 GWh 21700 + ~21 GWh 46-series), which is consistent with the 9 GWh now built and the 21 GWh 46-series project whose ready-for-use date the company moved to 2027-12-31 (T006:C2, C3; company announcement via Eastmoney 2025-12-31). So the built / in-build parts (30 GWh) are cross-checked by a company announcement and press from different dates; the remaining 20 GWh of the 50 is unevidenced since 2022 (electrive only). Hence 0.65, not higher. Caveat unchanged: 2023 report places phase-1 signing in Jianyang rather than Longquanyi (location unresolved)."
+    },
+    {
+      "id": "eve-energy-eve-energy-qujing-plant-23gwh-cylindrical-lfp-energy-storage-power-battery-project-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {"nameplate_capacity_gwh": ["S5"]},
+      "confidence": 0.45,
+      "notes": "[T091] confidence 0.6 -> 0.45; no field value changed. S5 (EVE AR 2025, read from the local filing text, fund-use note): the board (2025-08-21) and shareholders (2025-09-08) approved changing the construction content and total investment of the '23GWh 圆柱磷酸铁锂储能动力电池项目', renamed '磷酸铁锂储能动力电池项目' (progress 89.96%, ready date 2025-12-31 per T006:A7). The post-change capacity is not stated in the filing text, so the 23 GWh (T006:Q2, 2025-03-22 roadshow; 2023-01-19 company announcement in the timeline) is a pre-change figure that the company itself has since revised: S5 is attached to nameplate as a caution, not as support. Status operational stays supported by T006:Q1 (EVE research head 2025-04-01: Qujing LFP large-cylindrical lines 'already in mass production'). Hard cap logic (conflict/stale source) -> <=0.5. ESCALATE: >=10 GWh at 0.45; needs the post-change capacity (EVE announcement of Aug 2025 on cninfo: change of fundraising project content) - I could not open it (search returned only 2023-2024 filings); consider nulling nameplate and capacity_ref_year if the lead prefers."
+    },
+    {
+      "id": "eve-energy-huizhou-tonghu-zhongkai-60gwh-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Existing evidence T006:G1 (Eastmoney/Cailianshe report of EVE's own announcement 2026-03-27: to sign an investment cooperation agreement for the 'EVE 60GWh storage (power) battery manufacturing project', ~CNY 6bn, ~500 mu) is a company-origin source for status 'announced' and for capacity; other outlets (10jqka, bbtnews, ifeng, Eastmoney 2026-03-29, found in a search this task) repeat the same announcement and are NOT independent. A search found no later news (signing, shareholder approval, land auction) through Nov 2026. 0.65: company announcement (single origin), pre-signing, land acquisition flagged uncertain by the company. Status stays announced."
+    },
+    {
+      "id": "eve-energy-jingmen-shayang-60gwh-power-storage-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.62,
+      "notes": "[T091] confidence 0.6 -> 0.62; no field value changed, no new source fetched. Existing evidence T006:JM2 (Eastmoney 2026-04-08 report of EVE subsidiary 亿纬动力 contract with Shayang County government and Jingmen High-tech Zone, 60 GWh, CNY 6bn). Searches this task add only secondary paraphrase: implementation period ~60 months in three phases (financial-media relay, no company text seen), no start of works, and nothing after April 2026. Company-origin single source, contract needs approvals; the 60-month three-phase structure is not in the row (no phase GWh or dates). 0.62, slightly below the Huizhou row because the document was read only through a press report. Not the 2023 Jingmen 60 GWh (CNY 10.8bn) site, per T006 note."
+    },
+    {
+      "id": "eve-energy-yuxi-eve-energy-co-ltd-eve-energy-yuxi-plant-yuxi-power-energy-storage-battery-project-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.55,
+      "notes": "[T091] confidence 0.6 -> 0.55; no field value changed. Evidence is one open source for current status and capacity: ITDCW 2026-04-16 (T006:Y1/Y2; planning permit in public notice, 10 GWh 'and above' at full production; official-notice origin). A second, independent origin exists for the 10 GWh: the 2022-05-18 OFweek report of EVE's investment agreement (10GWh, CNY 3bn), but the page returned mis-decoded text when fetched in this task, so no verbatim Chinese quote could be produced and it is not added as evidence. A MarkLines 2022-07 item says construction began (conflicting with 'announced'); no progress news 2022-2026 except the permit notice. Status announced is the conservative reading (D-020). ESCALATE: >=10 GWh at 0.55 - needs a company filing or Yuxi government page confirming construction start or the project's current phase; the 4-year gap suggests a stalled project."
+    },
+    {
+      "id": "hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Existing evidence: Gotion 2025 annual report (T005:S2, company filing: 28 GWh = 12 NMC + 16 LFP, ready-for-use date Dec 2026) for nameplate and ref year; electrive 2025-11-21 (T005:S9 / T081:S4: mass production and first delivery of VW unified cells 2025-11-20, plant capacity 20 GWh) for status operational and installed 20; Gotion 2023 annual report (T081:S11) for the slipped ready date. The 20 and 28 GWh figures are reconciled as the original plan and the later company revision, not a conflict. Held at 0.65 (not 0.8): installed 20 is an electrive paraphrase of earlier company statements (press basis); the unresolved possible overlap with the separate 合肥国轩20GWh项目 (88% CIP in the AR) noted by T005 could mean the 28 GWh is partly double-counted elsewhere; ref_year 2026 is a ready-for-use date, not 达产 (D-032 treats it per its notes)."
+    },
+    {
+      "id": "hithium-hithium-xiamen-plant-xiamen-production-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.85,
+      "notes": "[T091] confidence 0.6 -> 0.85; no field value changed, no new source fetched. Justification from existing evidence, genuinely different origins agreeing on status AND capacity: (1) China Energy News / People's Daily group 2023-04-24 (T006:H6, T073:S5): phase 1 15 GWh fully in production, phase 2 30 GWh to be completed in 2023; (2) Fujian Daily 2022-05-29 (T073:S3): phase-1 M1 factory in production, 5 lines, 15 GWh/yr; (3) Hithium's own plants page (T006:H7, T073:S4): 'The entire project was completed in 2023'; (4) Yicai 2025-09-25 (T006:H8): Xiamen and Chongqing at full load since March 2025. MyDrivers 2022-06-02 (T006:H5) gives phase 2 = 30 GWh, 8 lines. Not 0.9: the 45 GWh is the sum of two phase figures (no single source states 45 as an installed total after completion), installed basis is design capacity, and the Hithium page is undated. Typo note: The Paper 2025-04-08 '450 GWh' not used."
+    },
+    {
+      "id": "reliance-new-energy-reliance-dhirubhai-ambani-green-energy-giga-complex-battery-gigafactory-india",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.62,
+      "notes": "[T091] confidence 0.6 -> 0.62; no field value changed, no new source fetched. Existing evidence is company-origin: Reliance AGM 2026-06-19 via Business Today and pv magazine India 2026-06-22 (T018:S6/S7: first phase of the 40 GWh annual battery and cell giga factory on track for commissioning in 2026, all equipment delivered) and FY26 annual report via Angel One (T018:S8: ramp-up of LFP in H2 2026). pv magazine and Business Today are two outlets relaying the same AGM statement, so they are not independent of each other, but the origin is the company itself. A search in this task found nothing dated after June 2026 reporting commissioning or cell output. Kept at 0.62 (not 0.7+): cell-vs-pack scope remains unconfirmed ('initially' packs/BESS assembly then backward integration, T018:S9), commissioning has slipped before (2025 target to 2026), and no source confirms production yet. 120 GWh remains notes-only (undated, D-015)."
+    },
+    {
+      "id": "wuhu-gotion-power-technology-co-ltd-wuhu-gotion-20gwh-new-energy-battery-base-gotion-wuhu-plant-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Existing evidence is two company filings: board announcement 2025-08-30 (T005 timeline; announcement 2025-050, up to CNY 4bn, 20 GWh, build period up to 24 months) and the 2025 annual report 2026-04-29 (T005:S4: 'planned' 20 GWh project, 投资总额不超过40亿元), which together confirm status announced (board-approved, not started) and 20 GWh. A search in this task found no groundbreaking report for Wuhu (the Nanjing Liuhe 20 GWh base broke ground Oct 2025 - a different site), consistent with 'announced'; the contrary 'under construction' wording in a 2026-08 aggregator (T005 note) is not corroborated. 0.65: company source, but no progress since approval; ref_year 2025 is a fallback. v1 chemistry LFP and end_market EV are reported-tier (T031) and unchanged."
+    },
+    {
+      "id": "xinjie-energy-xinjie-hangzhou-lithium-metal-solid-state-base-china",
+      "action": "update",
+      "fields": {"site_type": "single_site"},
+      "evidence": {},
+      "confidence": 0.65,
+      "notes": "[T091] confidence 0.6 -> 0.65; no field value changed, no new source fetched. Existing evidence: China.com Tech 2025-12-30 (T046:S1, relaying the company's 2025-12-29 announcement: 10 GWh planned total, phase 1 in full production at 2 GWh scale, phase 2 8 GWh planned) and Jiemian 2026-02-24 (T046:S3: 2 GWh project fully in production, total investment CNY 1bn). Both outlets agree on status and the 2 GWh installed figure, but Jiemian very likely derives from the same announcement, so they are not independent; the 10 GWh total rests on the company announcement alone and Jiemian's CNY 1bn for a '2 GWh project' implies the 10 GWh is not yet funded. The 2024 Jintan 5 GWh plan (cls.cn, pedaily) is unreconciled. Hence 0.65: company-origin, single announcement, new entrant with no site visit or filing. Lithium-metal solid-state cells are in scope; not on the non-comparable list as far as I know (check data/reference/non_comparable.csv)."
+    }
+  ]
+}

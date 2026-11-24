@@ -251,7 +251,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | operational |
 | CosMX Chongqing Plant | Zhuhai CosMX Battery | China | operational |
 
-## 3. Rows with confidence < 0.5 (245)
+## 3. Rows with confidence < 0.5 (247)
 
 | plant | operator | country | conf | is_cell | note |
 |---|---|---|---:|:---:|---|
@@ -368,6 +368,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Blue Solutions Quimper (Ergué-Gabéric / Odet mother plant) | Blue Solutions | France | 0.4 | Y | [T014 2026-11-20] Status unconfirmed beyond 2024: Blue Solutions (17 May 2024 release) say… |
 | BYD FinDreams (XCMG-FinDreams) Xuzhou Blade Battery Plant | BYD (FinDreams Battery) | China | 0.4 | Y | [T003 2026-11-20] Timeline: iFeng 2023-11-20 structures topped out, trial production plann… |
 | Wuwei FinDreams Battery plant (BYD New Energy Power Battery Yangtze River Delta Manufacturing Center) | BYD FinDreams Battery | China | 0.4 | Y | [T003 2026-11-20] Coordinates nulled: v1 37.93N/102.63E is Wuwei, Gansu; the plant is 无为 (… |
+| CALB Zigong Base | CALB | China | 0.4 | N | [T004 2026-11-20] Construction started 2026-01, completion/production expected within 2026… |
 | Camel Xiangyang New Energy Low-Carbon Industrial Park | Camel Group | China | 0.4 | Y | [T021 2026-11-20] REVISED after audit. Camel's 2025 annual report (cninfo) construction-in… |
 | CATL Xiamen battery base (Xiamen Times New Energy) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (unresolved after 3 further Chinese searches and 2 opened pages… |
 | CATL Xining plant (Qinghai Times New Energy Technology Co., Ltd.) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (capacity). Qinghai Times is named in CATL's 2025 annual report… |
@@ -453,6 +454,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Elinor Batteries Gigafactory (Eiktyr Industrial Park, Orkland) | Elinor Batteries | Norway | 0.45 | Y | [T015 2026-11-20] Still announced/pre-FID; no groundbreaking or FID found. Investor page (… |
 | Envision AESC Wuxi Plant (Jiangyin battery manufacturing base) | Envision AESC | China | 0.45 | Y | [T012 2026-11-20] Jiangyin (Wuxi), Jiangsu. Nameplate 20 GWh: electrive 2019 (S16) states … |
 | EVE Energy Qidong plant (EVE-Linyang) | EVE Energy | China | 0.45 | Y | [T006 2026-11-20] CAVEAT: A1 lists 'Jiangsu' as a production base - not site-specific (doe… |
+| EVE Energy Qujing plant (23GWh cylindrical LFP energy storage & power battery project) | EVE Energy | China | 0.45 | Y | [T006 2026-11-20] REVISED: ref year 2025 now rests on the 2025 annual report fund-use tabl… |
 | Factorial Energy Methuen | Factorial Energy | United States | 0.45 | Y | [T016 2026-11-20] Pilot-scale. Facility opened Oct 2023; first phase = cathode coating lin… |
 | BYD FinDreams Xi'an plant | FinDreams Battery (BYD) | China | 0.45 | Y | [T003 2026-11-20] status unconfirmed (D-016): 西安弗迪电池有限公司 appears only in the AR tax-rate l… |
 | BYD FinDreams Chongqing (Bishan) Blade Battery Plant | FinDreams Battery Co., Ltd. | China | 0.45 | Y | [T003 2026-11-20] Nameplate 35 GWh = phases 1+2 at full output (MarkLines 2021-04-16 tease… |
