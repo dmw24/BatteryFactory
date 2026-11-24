@@ -152,3 +152,9 @@ Regional 2030 pipeline (active, by status, ref year ≤2030): Europe 369 operati
 announced GWh (≈0.74 TWh); North America 527 / 252 / 24 (≈0.80 TWh). Benchmark's 2023-vintage 2030 pipelines were 1.2 TWh
 (Europe) and 1.3 TWh (North America); since then we record 223 GWh (Europe) and 301 GWh (North America) as paused or
 cancelled — the pipelines have shrunk, consistent with the gap.
+
+## After series v3 (D-034) and history round 3 (2026-11-24)
+Global TWh, D (sourced) / E (+company totals) / F (+labelled modelled history): 2020 0.16/0.23/0.36 · 2022 0.75/1.04/1.22 ·
+2023 1.69/1.95/2.07 · 2024 2.08/2.45/2.54 · 2025 3.48/3.54/3.54. China only (F, approx.): 2022 ~1.0, 2023 ~1.8 (BNEF 2.2
+nameplate → ~80%), 2024 ~2.2 (CRU ">2 TWh" → consistent), 2025 ~2.8 (IEA ">80% of >4 TWh" → ~87%). The sourced series is
+now strict (no rejected v1 history, nothing before start year); the remaining early-year gap is explicit in F/E.
