@@ -1,0 +1,5 @@
+company,year,capacity_gwh,metric,scope,basis,source_url,published,quote,notes
+CATL,2015,2.6,capacity,global|all_li,annual_effective,http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2018-05-29,单位：GWh 时间 产能 产量 销量 产能利用率 产销率 ... 2015 年度 2.6 2.52 2.21 96.92% 87.70%,IPO prospectus table (1) 锂离子电池; same 产能/利用率 definition as later annual reports
+CATL,2016,7.6,capacity,global|all_li,annual_effective,http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2018-05-29,2016 年度 7.60 7.02 6.81 92.37% 97.01%,IPO prospectus
+CATL,2017,17.09,capacity,global|all_li,annual_effective,http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2018-05-29,2017 年度 17.09 12.91 11.85 75.54% 91.79%,IPO prospectus
+CATL,2019,53.0,capacity,global|all_li,annual_effective,http://static.cninfo.com.cn/finalpage/2020-04-25/1207613154.PDF,2020-04-25,产能 在建产能 产能利用率 产量 ... 电池系统(GWh) 53.00 22.20 89.17% 47.26,2019 annual report; 2018 capacity not disclosed in the 2018 or 2019 report

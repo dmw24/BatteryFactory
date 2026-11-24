@@ -1,4 +1,8 @@
 company,year,disclosed_gwh,sites_gwh,unallocated_gwh,region,scope,basis,flag,source_url,quote
+CATL,2015,2.6,0.0,2.6,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,单位：GWh 时间 产能 产量 销量 产能利用率 产销率 ... 2015 年度 2.6 2.52 2.21 96.92% 87.70%
+CATL,2016,7.6,0.0,7.6,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2016 年度 7.60 7.02 6.81 92.37% 97.01%
+CATL,2017,17.09,0.0,17.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2017 年度 17.09 12.91 11.85 75.54% 91.79%
+CATL,2019,53.0,5.0,48.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-04-25/1207613154.PDF,产能 在建产能 产能利用率 产量 ... 电池系统(GWh) 53.00 22.20 89.17% 47.26
 CATL,2020,69.1,5.0,64.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,报告期内，公司电池年度产能从 2020 年的 69.10GWh 提升至 2021 年的 170.39Gwh，并根据市场需求
 CATL,2021,170.39,121.0,49.4,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 170.39 140.00 95.00% 162.30
 CATL,2022,390.0,264.0,126.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2023-03-10/1216084559.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 390 152 83.4% 325
