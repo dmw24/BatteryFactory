@@ -123,3 +123,11 @@ are not capacity. No open source gave an LFP/NMC capacity split.
   "around 734GWh", 2025 "4.8TWh": all string-matched on the publishers' own free pages.
 The round numbers are the publishers' own ("more than 4 TWh", "close to 2,600 GWh"): they publish rounded headlines,
 not plant-level tables (those sit behind subscriptions). Treat them as ±5–10%.
+
+## After the improvement round and T083 audit (2026-11-24)
+Stricter Series D (D-032: no full-plan credit for partly dated plants) plus history fills (T080/T081/T085):
+D 2023/2024/2025 = 1,647 / 2,018 / 3,349 GWh; E = 1,851 / 2,366 / 3,403 GWh (Great Power Ah estimates +22/+24/+16 reported
+separately). CATL basis note (audit): CATL's disclosed 产能 is the utilisation denominator (effective, year-average),
+while our site sums are year-end government-basis design capacity, so CATL's unallocated remainder in 2020–2024 is
+understated; in 2025 our CATL sites (875) exceed its 772 by 13% — Series D likely over-credits some CATL sites
+(Ningde 330, Yibin 210 on government basis), and part of CATL's 2024→2025 jump in E is that basis switch.
