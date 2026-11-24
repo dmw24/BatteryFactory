@@ -3109,6 +3109,54 @@
    "attempts": 1,
    "assumptions": [],
    "audit": {}
+  },
+  {
+   "id": "T106",
+   "title": "Resolve the next 20 large plants below 0.6 confidence",
+   "workstream": "K. Data quality",
+   "owner": "worker",
+   "files": [
+    "data/patches/T106.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "honest confidence with named sources; no 0.6 parking"
+   ],
+   "risk": "high",
+   "contract": {
+    "path": "team/CONVENTIONS.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "T107",
+   "title": "Start years for the next 25 operational plants without one",
+   "workstream": "I. History (owner 2026-11-24)",
+   "owner": "worker",
+   "files": [
+    "data/patches/T107.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "first commercial production year, quoted"
+   ],
+   "risk": "normal",
+   "contract": {
+    "path": "team/CONVENTIONS.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }
