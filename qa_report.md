@@ -155,7 +155,7 @@ Review these — they may be the same physical site under different names, or le
 | same operator + shared location token 'banner' | Jianheng Aoneng Dalate Banner sodium-ion battery base (Ordos supply-chain area) ⟷ Ordos Juungar Banner sodium-ion battery and energy storage industrial park (Juungar Economic Development Zone) | inner-mongolia-jianheng-aoneng-technology-jianheng-aoneng-dalate-sodium-ion-base-china, inner-mongolia-xinjing-new-energy-technology-ordos-juungar-sodium-ion-park-china |
 | same operator + shared location token 'changshu' | Zenergy new 50 GWh battery base (Changshu High-tech Zone per Jiemian/STCN; English press says Xiangcheng, Suzhou) ⟷ Zenergy Changshu Plant | jiangsu-zenergy-suzhou-xiangcheng-plant-china, jiangsu-zenergy-zenergy-changshu-plant-china |
 
-## 2. Capacity double-count / consistency flags (27 rows)
+## 2. Capacity double-count / consistency flags (28 rows)
 
 | plant | operator | region | nameplate GWh | flag |
 |---|---|---|---:|---|
@@ -179,6 +179,7 @@ Review these — they may be the same physical site under different names, or le
 | Sunwoda Zhuhai plant | Sunwoda (Sunwoda EVB / Sunwoda Power) | China | 30.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Sunwoda Nanjing power battery base (Lishui) | Sunwoda | China | 30.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | SVOLT Chengdu plant (Chengdu Eastern New Area base) | SVOLT Energy Technology (Honeycomb Energy / 蜂巢能源) | China | 31.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| SVOLT Shangrao Base | SVOLT Energy Technology | China | 24.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | SVOLT Ma'anshan plant | SVOLT (Svolt Energy Technology / 蜂巢能源) | China | 28.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Talent New Energy Chongqing Solid-State Plant | Talent New Energy | China | 2.2 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Lishen Chuzhou base (Quanjiao) | Tianjin Lishen Battery | China | 42.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
