@@ -1,0 +1,286 @@
+{
+  "task": "T093",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.jiemian.com/article/10287218.html",
+      "publisher": "Jiemian (界面新闻), SVOLT first 325Ah ESS cell off the line at Chengdu base",
+      "published": "2023-10-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "10月25日，蜂巢能源官微宣布，其全球首款飞叠短刀325 Ah储能电芯于当日在成都基地下线。"
+    },
+    "S2": {
+      "url": "https://www.nbd.com.cn/articles/2024-10-26/3609630.html",
+      "publisher": "National Business Daily (每日经济新闻), SVOLT Chengdu base fully operational",
+      "published": "2024-10-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "其中一期投资约116亿元，设计产能约31.5GWh"
+    },
+    "S3": {
+      "url": "https://www.sohu.com/a/907995313_491253",
+      "publisher": "起点锂电 via Sohu, Tangshan Guoxuan feature",
+      "published": "2025-06-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "产能方面，从建厂初期的年产能1GWH，经过八年的发展，2024年已经达到20GWH的锂电池生产产能"
+    },
+    "S4": {
+      "url": "https://www.ahchanye.com/zixun/34858.html",
+      "publisher": "Anhui industry portal (ahchanye.com), Chuzhou Lishen New Energy (Quanjiao) put into production",
+      "published": "2023-10-31",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "近日，总投资201亿元滁州力神新能源科技有限公司在全椒经济开发区正式开工投产。 ... 据了解，此次投产的一期项目总投资100亿元，建设年产22GWh电池项目，其中动力电池8GWh、储能电池14GWh，"
+    },
+    "S5": {
+      "url": "https://news.pedaily.cn/20230727/64082.shtml",
+      "publisher": "Pedaily (投资界), SVOLT Shangrao phase 1 mass production",
+      "published": "2023-07-27",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "一期项目建设产能4GWh，已于2022年12月全面量产"
+    },
+    "S6": {
+      "url": "https://news.pedaily.cn/20230727/64082.shtml",
+      "publisher": "Pedaily (投资界), SVOLT Shangrao phase 2 put into production (same page as S5)",
+      "published": "2023-07-27",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "蜂巢能源上饶二期项目成功投产"
+    },
+    "S7": {
+      "url": "https://news.pedaily.cn/20230727/64082.shtml",
+      "publisher": "Pedaily (投资界), SVOLT Shangrao phase 2 capacity (same page as S5)",
+      "published": "2023-07-27",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "二期项目占地566亩，规划产能20GWh"
+    },
+    "S8": {
+      "url": "http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf",
+      "publisher": "SVOLT (蜂巢能源) STAR-market IPO inquiry reply, text in team/evidence/filings/SVOLT_prospectus_202306.txt",
+      "published": "2023-06-30",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "盐城、上饶的生产基地均在建设中，并已有部分产线投入试运行"
+    },
+    "S9": {
+      "url": "https://jxt.hubei.gov.cn/bmdt/cyfz/202408/t20240821_5310493.shtml",
+      "publisher": "Hubei Dept of Economy and Information Technology (jxt.hubei.gov.cn), reprint of Hubei Daily, Envision AESC Shiyan",
+      "published": "2024-08-21",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2023年底，远景动力十堰基地7条产线全部投产后，产能满产时间逐步从最初的4个月缩减至目前的40天"
+    },
+    "S10": {
+      "url": "https://www.ithome.com/0/695/735.htm",
+      "publisher": "IT之家 (ithome.com), Shiyan Envision zero-carbon battery park, phase 1 = 20GWh",
+      "published": "2023-05-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "其中，一期建设 20GWh 高端动力电池生产基地。"
+    },
+    "S11": {
+      "url": "https://inside.lgensol.com/en/2023/09/world-battery-tour-with-lg-energy-solution-poland-part-1/",
+      "publisher": "LG Energy Solution corporate blog (inside.lgensol.com), World Battery Tour Poland part 1",
+      "published": "2023-09-08",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The LG Energy plant in Wroclaw, Poland, has an annual capacity of 86 GWh"
+    },
+    "S12": {
+      "url": "https://www.electrive.com/2026/02/05/battery-shortage-at-acc-likely-to-impact-stellantis-production/",
+      "publisher": "electrive.com, battery shortage at ACC",
+      "published": "2026-02-05",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "In light of the issues at the ACC factory, which opened in 2023"
+    },
+    "S13": {
+      "url": "https://fr.motor1.com/news/811746/acc-cinq-millions-cellules-batteries-usine-douvrin/",
+      "publisher": "Motor1 France, ACC five million cells (page shows '14 Oct' without year; 2026 inferred from the article's reference to the Paris motor show 2026)",
+      "published": "2026-10-14",
+      "accessed": "2026-11-24",
+      "language": "fr",
+      "quote": "capacité initiale de 13,4 GWh"
+    },
+    "S14": {
+      "url": "https://www.ithome.com/0/645/515.htm",
+      "publisher": "IT之家 (ithome.com), CALB Hefei product off the line and phase-3 signing",
+      "published": "2022-10-09",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "10 月 8 日，中创新航合肥项目产品下线暨三期项目签约活动在合肥基地举行。"
+    },
+    "S15": {
+      "url": "http://static.cninfo.com.cn/finalpage/2022-04-30/1213273773.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2021 annual report (cninfo), text in team/evidence/filings/688567_2021.txt",
+      "published": "2022-04-30",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "镇江工厂一期 8GWh 项目产能逐步释放"
+    },
+    "S16": {
+      "url": "http://static.cninfo.com.cn/finalpage/2022-04-30/1213273773.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2021 annual report (cninfo), fixed-asset note, text in team/evidence/filings/688567_2021.txt",
+      "published": "2022-04-30",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "主要系镇江工厂二期 8GWh 项目陆续转固。"
+    },
+    "S17": {
+      "url": "http://static.cninfo.com.cn/finalpage/2023-05-26/1216909347.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2022 annual report revised version (cninfo), text in team/evidence/filings/688567_2022.txt",
+      "published": "2023-05-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "镇江二期产能爬坡逐步完成"
+    },
+    "S18": {
+      "url": "http://static.cninfo.com.cn/finalpage/2024-06-22/1220427841.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2023 annual report updated version (cninfo), text in team/evidence/filings/688567_2023.txt",
+      "published": "2024-06-22",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "首次公开发行募投项目“年产 8GWh ... 锂离子动力电池项目（孚能镇江三期工程）”予以结项"
+    },
+    "S19": {
+      "url": "http://disc.static.szse.cn/download/disc/disk03/finalpage/2024-03-08/17616040-a393-43e7-8344-eb61b5640e7a.PDF",
+      "publisher": "Hengdian DMEGC (横店东磁) 2023 annual report summary (szse)",
+      "published": "2024-03-08",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "公司锂电产业已具备 7GWh 锂电池的生产能力。"
+    },
+    "S20": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044458.PDF",
+      "publisher": "Hengdian DMEGC (横店东磁) 2025 annual report (cninfo), text in team/evidence/filings/002056_2025.txt",
+      "published": "2026-03-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "锂电具有年产 8GWh 生产能力"
+    }
+  },
+  "rows": [
+    {
+      "id": "svolt-energy-technology-honeycomb-energy-svolt-chengdu-plant-chengdu-eastern-new-area-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2024\": 31.5}"
+      },
+      "evidence": {
+        "start_year": ["S1"],
+        "capacity_by_year_json": ["S2"]
+      },
+      "notes": "[T093] start_year 2023 (was REPORTED v1): Jiemian 2026-10-26 page dated 2023-10-26 (S1) says SVOLT's first 325Ah ESS cell came off the line at the Chengdu base on 25 Oct (year from page date). This is first-cell-off-line, not a stated commercial-production date; NBD 2024-10-26 (S2) shows the 162Ah power cell and PACK only came off the line in Oct 2024 and the base was declared fully operational then, so 2023 = first ESS cell, ramp to full operation 2024. Step 2024 = 31.5 kept (design capacity of phase 1, S2 'design capacity about 31.5GWh', headline 全面投运); no 2023 GWh step because only one first cell is sourced, no 2023 capacity in production. The 2021 plan of ~60 GWh (three phases) is not a history step. 2018-2022: nothing at this site (groundbreaking Jan 2022)."
+    },
+    {
+      "id": "tangshan-guoxuan-battery-co-ltd-wholly-owned-subsidiary-of-hefei-gotion-high-tech-power-energy-gotion-tangshan-plant-tangshan-guoxuan-battery-co-ltd-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2016\": 1, \"2024\": 20}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S3"]
+      },
+      "notes": "[T093] capacity_by_year_json re-based on one open page (S3, 起点锂电/Sohu 2025-06-26): company founded 2016 with 'initial capacity of 1GWH' and 'reached 20GWH in 2024'. Step 2016 = 1 reads 建厂初期 as the founding year 2016 (the page does not date the first line itself; inference, low-moderate). Dropped v1 step 2025 = 30: that is the trial-production target of the 6th phase (planned Oct 2025), no source shows it producing (T005 notes). v1 steps 2018 = 3 (existing 3 GWh quoted in the Nov 2019 expansion announcement) and 2021 = 10 (a Q3/Q4 2021 construction/commissioning target per metal.com 2019-11-20) could not be shown as production on a page I opened, so they are not kept; the metal.com page I opened states the 7GWh-to-10GWh project was 'scheduled to finish construction in the third quarter of 2021 and officially commission before end 2021' (a target, not a production date). Gotion 2021 AR mentions 唐山二期 moving into construction-in-progress/fixed assets in 2021 without GWh. 2017-2023 intermediate capacity therefore NOT FOUND; Gotion annual reports 2021-2024 in team/evidence/filings do not give Tangshan GWh. start_year not touched (v1 2016 reported, founding year only)."
+    },
+    {
+      "id": "tianjin-lishen-battery-lishen-chuzhou-base-quanjiao-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 22}"
+      },
+      "evidence": {
+        "start_year": ["S4"],
+        "capacity_by_year_json": ["S4"]
+      },
+      "notes": "[T093] start_year 2023 now has a page quote: ahchanye 2023-10-31 (S4, reprint of 美好全椒) says Chuzhou Lishen New Energy 'recently' (近日) formally started production at the Quanjiao zone, phase 1 = 22 GWh (8 power + 14 storage); year from page date, no day given in the text (the 27 Oct 2023 ceremony date is from T009, not on this page). Step 2023 = 22 kept (design basis, phase 1). Phase 2 (20 GWh storage) only signed, no production source, so no later step. Nothing 2018-2022 (groundbreaking Feb/June 2022)."
+    },
+    {
+      "id": "svolt-energy-technology-svolt-shangrao-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022,
+        "capacity_by_year_json": "{\"2022\": 4, \"2023\": 24}"
+      },
+      "evidence": {
+        "start_year": ["S5", "S8"],
+        "capacity_by_year_json": ["S5", "S6", "S7"]
+      },
+      "notes": "[T093] start_year 2022 (was REPORTED v1): Pedaily 2023-07-27 (S5) says phase 1 (4 GWh) 'fully mass-produced since December 2022'; SVOLT's June-2023 IPO inquiry reply (S8) says Shangrao already had some lines in trial running at the reporting-period end, so earlier partial/trial lines may pre-date Dec 2022, but no earlier dated production is sourced. Steps (design basis, sum of two sourced phases with sourced production years): 2022 = 4 (phase 1, S5); 2023 = 4 + 20 = 24, where phase 2 (20 GWh, 566 mu, 8 lines, S7) was announced 'successfully put into production' at the 26 Jul 2023 ceremony (S6, page dated 2023-07-27; phase-2 capacity is the stated planned/design capacity, ramp not sourced). Same items as v1/T008; now with quotes."
+    },
+    {
+      "id": "envision-aesc-envision-aesc-shiyan-plant-zero-carbon-smart-battery-industrial-park-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 20}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S9", "S10"]
+      },
+      "notes": "[T093] step 2023 = 20 kept, now with quotes (design basis): phase 1 = 20 GWh with 7 planned lines (ithome 2023-05-28, S10; the same page says all 7 lines were due by August 2023) and Hubei provincial reprint of Hubei Daily (2024-08-21, S9): 'by end-2023 all 7 lines of the Shiyan base were in production'. The two pages differ on when the 7th line came on (Aug vs end-2023); both put it in 2023. start_year NOT changed: Hubei Daily says the project was signed, built and 'put into production' in 2022 (当年投产), while Xinhua 2023-08-06 (https://www.news.cn/politics/2023-08/06/c_1129788812.htm; not cited as a source here) quotes the Zhangwan party secretary 'first module line in mass production 180 days after signing, first cell line in production 300 days after signing' and ithome says the first Pack line began Oct 2022; with the signing in spring 2022 the first cell line is early 2023, but no page gives the cell-line year directly, so v1 start_year (2023, reported) is left as is. No 2022 GWh step. bjx 2023-10-08 (v1 timeline source) was WAF-blocked, not read."
+    },
+    {
+      "id": "lg-energy-solution-lg-energy-solution-wroc-aw-poland",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 86}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S11"]
+      },
+      "notes": "[T093] only one dated historical capacity could be re-confirmed: LGES's own blog (2023-09-08, S11) 'has an annual capacity of 86 GWh' (company basis, 2023); the Dec 2024 LGES page (inside.lgensol.com 2024/12, fetched, not cited as a separate source: same figure, 'approximately 86 GWh', as of 2023). This conflicts with the current installed 80 GWh (XYZ Aug 2026, T010): 2023 higher than 2026, unresolved (86 may be design/nameplate and 80 effective). Earlier years NOT FOUND: electrive 2020-04-24 (fetched) says the EIB-backed project 'involves increasing LG Chem's annual production capacity in Wroclaw by more than 35 GWh to around 65 GWh' (a plan, so it does not support v1's 'existing 35 GWh in 2020'; it implies ~30 GWh existing in 2020) and 'Currently, the output of LG Chem's battery cell production in Europe amounts to 15 GWh' (Europe-wide, output not capacity). The EU State-aid decision 2024/2710 (eur-lex, fetched pages 1-9) redacts the production-start and capacity years ('Production started in [...] 2018 and full production was reached in [...] 2020'), so no usable step. LGES blog 2023: plant 'began operations in earnest in 2018'; v1/T010 start_year 2017 (first production H2 2017) not re-quoted here, left unchanged; conflict 2017 vs 2018 noted. 2018-2022 steps and the 65 GWh 2022 EC claim in the v1 timeline could not be confirmed on a page I could read."
+    },
+    {
+      "id": "automotive-cells-company-acc-acc-billy-berclau-douvrin-gigafactory-france",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 13.4}"
+      },
+      "evidence": {
+        "start_year": ["S12"],
+        "capacity_by_year_json": ["S13"]
+      },
+      "notes": "[T093] start_year 2023 kept, now with a quote: electrive 2026-02-05 (S12) 'the ACC factory, which opened in 2023' (inauguration 30 May 2023 per the Stellantis press release, which returned HTTP 403 here and is not cited; first cells before end-2023 per v1 timeline). Step 2023 = 13.4 = block 1 'initial capacity' of 13.4 GWh (Motor1 France 2026-10, S13), design basis; actual output has been well below this (scrap 15-20 %, T014). v1 step 2030 = 40 dropped: it is a target, not capacity in production; block 2 (12.9 GWh, ~26 GWh total) is expected 2027 (T014) and has no production source. S13 page date: '14 Oct' on page, year inferred. No 2024/2025 step (carried flat by the series)."
+    },
+    {
+      "id": "calb-calb-hefei-plant-changfeng-xiatang-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022
+      },
+      "evidence": {
+        "start_year": ["S14"]
+      },
+      "notes": "[T093] start_year 2022 now has a page quote: ithome 2022-10-09 (S14) 'On 8 Oct [2022] the CALB Hefei project product roll-off and phase-3 signing event was held at the Hefei base' (year from page date); this is the first product roll-off of a production base, not a stated GWh. capacity_by_year_json (v1 reported {2022: 10, 2023: 20}) NOT re-confirmed and not changed here: no opened page gives phase-1/phase-2 GWh or the 2023 phase-2 start (Sina 2026-07-17 gives only the 50 GWh full-build figure, 'after completion and reaching capacity'). A competitor's IPO reply (SVOLT prospectus 2023-06, line listing 中创新航 '合肥一期、二期项目 20GWh', announced 2022-09-23) supports phases 1+2 = 20 GWh as an expansion announcement, not as production. Rows left as v1 reported for the series."
+    },
+    {
+      "id": "farasis-energy-farasis-energy-zhenjiang-plant-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2021\": 8, \"2022\": 16, \"2023\": 24}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S15", "S16", "S17", "S18"]
+      },
+      "notes": "[T093] steps from Farasis annual reports (design basis, 8 GWh per phase, cumulative of sourced phases): 2021 = 8: 2021 AR (S15) 'Zhenjiang phase 1 8GWh project capacity gradually released' (phase 1 ramp completed in 2021; the AR's chairman letter also says 'phase 1 completed ramp, phase 2 coming into production one after another' but no phase-2 GWh online is credited in 2021). 2022 = 16: 2022 AR (S17) 'Zhenjiang phase 2 capacity ramp gradually completed'; phase 2 = 8 GWh per the 2021 AR fixed-asset note (S16: 'Zhenjiang phase 2 8GWh project transferred to fixed assets'). 2023 = 24: the IPO project 'Zhenjiang phase 3, 8GWh' was closed out (结项) by the board on 2023-07-26 (S18; project table lists the ready-for-use date as July 2023). Sum 8 + 8 + 8 = 24 matches v1 and T009. Caveat from T009: the 2025 AR IPO-project table still shows the phase-3 investment at 79 % with small additions in 2025, so 'ramp complete' is not stated; 24 is the design-basis commissioned figure. 2021 AR also says Zhenjiang planned capacity 24 GWh (Ganzhou existing 5 GWh). start_year NOT confirmed: phase 1 start (2019/2020) not found in any file I could read (2020 AR not in team/evidence/filings, PDF not opened); v1 2019 stays as the reported value and is probably early (2018 plan said phase 1 complete 2019, commissioned 2020). No 2020 step."
+    },
+    {
+      "id": "hengdian-group-dmegc-magnetics-co-ltd-hengdian-dmegc-dongyang-lithium-cell-plant-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 7, \"2025\": 8}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S19", "S20"]
+      },
+      "notes": "[T093] steps from DMEGC's own annual reports (company-wide lithium capacity, attributed to the Dongyang site by assumption as in T021): 2023 = 7: 2023 AR summary (S19, read from the PDF rendering; spacing in the quote follows the PDF) 'by 31 Dec 2023 the lithium business has 7GWh capacity'; the same report says 'the company added a 6GWh project, built and put into production, with good ramp-up' in 2023 (not quoted). 2025 = 8: 2025 AR (S20) 'lithium: annual 8GWh production capacity'. The 2024 AR figure (7 GWh) and the 2022 figure (2.5 GWh) and 2016/2021 steps in the v1 timeline come from v1 pages (dfcfw/cninfo PDFs) that I did not open and are not kept; note 7 - 6 added in 2023 = 1 GWh implied at end-2022 vs v1's 2.5 (conflict, unresolved). start_year not found (company entered lithium in 2016 per T021; first Dongyang production year not sourced)."
+    }
+  ]
+}

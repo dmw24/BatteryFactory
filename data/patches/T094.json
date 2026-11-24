@@ -1,0 +1,202 @@
+{
+  "task": "T094",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://cnevpost.com/2022/06/15/byd-sees-first-production-lines-open-at-its-battery-facility-in-shaoxing-east-china/",
+      "publisher": "CnEVPost, BYD sees first production lines open at its battery facility in Shaoxing (date from URL)",
+      "published": "2022-06-15",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "saw its first production lines open Tuesday at its power battery base in Shaoxing"
+    },
+    "S2": {
+      "url": "https://cnevpost.com/2022/06/15/byd-sees-first-production-lines-open-at-its-battery-facility-in-shaoxing-east-china/",
+      "publisher": "CnEVPost, BYD sees first production lines open at its battery facility in Shaoxing (date from URL)",
+      "published": "2022-06-15",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "to build 15 GWh of annual power battery production capacity for BYD's DMi series models."
+    },
+    "S3": {
+      "url": "https://tech.sina.com.cn/roll/2020-07-10/doc-iirczymm1616591.shtml",
+      "publisher": "Sina Tech (republishing Diandongche Hui / 电车汇), Sunwoda Nanjing phase-1 mass-production handover",
+      "published": "2020-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "7月10日上午，欣旺达南京新能源项目一期工厂量产交付仪式在溧水举行。 ... 现已建成两条HEV线和一条BEV线，集成行业前沿技术，具备年产4 Gwh动力电池量产能力。"
+    },
+    "S4": {
+      "url": "https://autonews.gasgoo.com/articles/market-industry/70019680",
+      "publisher": "Gasgoo Auto News, China's CALB starts building Xiamen battery base's 3rd phase to add 40GWh production capacity (article date not shown in the text I read; reports the phase-3 groundbreaking, early 2022)",
+      "published": "unknown",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "As publicly disclosed, the first phase of Xiamen base started production at the end of 2020."
+    },
+    "S5": {
+      "url": "https://finance.sina.com.cn/wm/2026-04-21/doc-inhvfytk4964952.shtml",
+      "publisher": "Sina Finance, CALB Xiamen base phase 3 progress",
+      "published": "2026-04-21",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "目前厦门基地已建成投产30GWh"
+    },
+    "S6": {
+      "url": "https://view.asiae.co.kr/en/article/2023052515314928002",
+      "publisher": "Asia Economy (asiae.co.kr), The Heart of Product Development and Manufacturing 'Ochang Energy Plant' (date from URL id 20230525)",
+      "published": "2023-05-25",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The annual battery production capacity will be expanded from 18 GWh to 33 GWh."
+    },
+    "S7": {
+      "url": "https://www.tianneng.com/news/company-news/171.html",
+      "publisher": "Tianneng Group company news (tianneng.com), Changxing South Taihu base phase 1 6GWh put into production; page dated 2023-11-03",
+      "published": "2023-11-03",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "11月2日上午，天能储能长兴南太湖锂电池基地一期6GWh投产暨鲁北200MWh储能电站并网成功庆典活动举行。"
+    },
+    "S8": {
+      "url": "https://www.36kr.com/p/3023610665494020",
+      "publisher": "36Kr, Hunan Desay Battery energy-storage cell project (published date from DB source_published_date 2024-11-06)",
+      "published": "2024-11-06",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2023年5月19日，湖南德赛电池储能电芯项目在望城经开区量产投产"
+    },
+    "S9": {
+      "url": "https://news.metal.com/newscontent/101733461/75-billion-20gwh-desai-battery-officially-enters-the-manufacture-of-energy-storage-battery",
+      "publisher": "SMM (news.metal.com), Desay Battery 20GWh energy storage cell project (2022 plan; exact date not captured)",
+      "published": "2022",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The first phase of the project will invest 1.6 billion yuan to build an energy storage cell project with 4GWh capacity"
+    },
+    "S10": {
+      "url": "https://dcsq.com/202315901",
+      "publisher": "dcsq.com (DFD / 多氟多 Ningfu 20GWh project, phase-2 groundbreaking report; date 2023-09-28 per v1 timeline, not printed in the text I read)",
+      "published": "2023-09-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "多氟多广西宁福20GWh锂电池一期5GWh项目已于2022年11月投产，产品供应新能源汽车企业及部分储能应用企业。"
+    },
+    "S11": {
+      "url": "https://m.tech.china.com/hea/articles/20251016/202510161748606.html",
+      "publisher": "China.com tech (m.tech.china.com), DFD capacity and shipments (date from URL)",
+      "published": "2025-10-16",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "而随着焦作基地新增5.5GWh产线，南宁基地5GWh产能投产，2025年底总产能即将突破20GWh，今年全年的出货量有望达到10GWh。"
+    },
+    "S12": {
+      "url": "https://www.electrive.com/2022/11/25/welion-completed-its-first-semi-solid-state-battery-cell/",
+      "publisher": "electrive.com, WeLion completed its first semi-solid-state battery cell (date from URL)",
+      "published": "2022-11-25",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "As production of the cells only started this week"
+    }
+  },
+  "rows": [
+    {
+      "id": "findreams-battery-byd-findreams-shaoxing-shengzhou-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022,
+        "capacity_by_year_json": "{\"2022\": 15}"
+      },
+      "evidence": {
+        "start_year": ["S1"],
+        "capacity_by_year_json": ["S1", "S2"]
+      },
+      "notes": "[T094] start_year 2022 now carries an open-source quote: CnEVPost 2022-06-15 (S1) 'first production lines open Tuesday' (14 Jun 2022, i.e. the 通线 of phase 1) at the Shaoxing base; S2 same page gives the phase-1 design capacity 15 GWh/yr (design basis). Step 2022 = 15 unchanged from T003. No 2023/2024 step: no source dates phase 2/3 production before the 2025 EIA notice (T003). T003's 2025-12-30 联合通线 of phases 2+3 (30 GWh) is line commissioning, not a stated production date, so it is NOT added as a 2025 step here (the libattery page was unreadable by the fetcher, garbled encoding); T003's installed 45 stands untouched. Quotes S1/S2 were returned by the fetch tool's summary of the page, not copied by me from raw HTML: auditor should string-match."
+    },
+    {
+      "id": "sunwoda-sunwoda-nanjing-power-battery-base-lishui-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2020,
+        "capacity_by_year_json": "{\"2020\": 4}"
+      },
+      "evidence": {
+        "start_year": ["S3"],
+        "capacity_by_year_json": ["S3"]
+      },
+      "notes": "[T094] start_year 2020 and step 2020 = 4 re-confirmed with a verbatim quote (Sina Tech 2020-07-10, S3): phase-1 factory mass-production handover on 10 Jul 2020, two HEV lines + one BEV line built, 4 GWh/yr capability (company basis via press; lines built, same figure as T054). No 2021-2025 step found: Sunwoda annual reports 2021/2023/2024/2025 (team/evidence/filings/300207_*.txt) give no per-base capacity (only company-wide shipments, e.g. 2023 power-battery shipments 11.66 GWh across all sites); a search for phase-2 production dates returned nothing site-specific (the Aug 2023 'phase 2 partly delivered' article is in T007 S40, no GWh). So the history stays a floor of 4 GWh from 2020; true 2021-25 capacity is higher but unsourced."
+    },
+    {
+      "id": "calb-calb-xiamen-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2020
+      },
+      "evidence": {
+        "start_year": ["S4"]
+      },
+      "notes": "[T094] start_year 2023 (v1, reported) -> 2020: Gasgoo (S4, article on the phase-3 groundbreaking, early 2022; exact article date not captured) states 'the first phase of Xiamen base started production at the end of 2020'. The same article gives the phase-2 target 10 GWh/yr (groundbreaking 2 Mar 2021) and phase 3 stage 1 10 GWh 'scheduled to be operational in the first quarter of 2023' (a plan, not used). Phase 1 GWh not stated in any open page I opened (MarkLines teaser of June 2020 says the A6 plant will have 20 GWh built in two phases, split not visible), and the phase-2 production date was not found; so capacity_by_year_json is NOT changed here. The existing v1 reported JSON {\"2023\": 10, \"2027\": 60} is inconsistent with a phase 1 running since end-2020 and with 30 GWh built per Sina 2026-04-21 (S5: '目前厦门基地已建成投产30GWh'); lead should review/null it. The only dated capacity step sourced is 2026 = 30 (S5, April 2026). CONFLICT: Gasgoo says phase 1 started end-2020, v1 timeline and T004 note said 2023 for the first 10 GWh; the 2020 start is the better-sourced one."
+    },
+    {
+      "id": "lg-energy-solution-lg-energy-solution-ochang-energy-plant-south-korea",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 18}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S6"]
+      },
+      "notes": "[T094] step 2023 = 18: Asia Economy 2023-05-25 (S6) says Ochang annual battery production capacity 'will be expanded from 18 GWh to 33 GWh' (2170 line +4 GWh, 4680 line +9 GWh), i.e. 18 GWh current as of May 2023 (press basis; the article does not name LGES as the source of the figure). CONFLICT: S&P (paywalled, not cited) gave 21 GWh 'current' in Apr 2022 and Korea Herald 2022-06-13 gives 35 GWh combined after expansion by 2025 (implying ~22 pre-expansion, my inference only, not a source figure); 18 vs 21-22 unresolved, sources use different scopes (cylindrical-only vs plant). No 2024 step added: the 4680 9 GWh line started series production Aug 2024 per electrive (T010 S24b) but a ramp/cumulative 27 GWh is not sourced as such, and adding it to the 2023 figure would be a derived sum across dates. start_year not changed: no open source found for the first Ochang cell production (v1 2004 stays reported). No 2018-2022 step found."
+    },
+    {
+      "id": "tianneng-new-energy-huzhou-co-ltd-zhejiang-tianneng-energy-storage-co-tianneng-changxing-south-taihu-lithium-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 6}"
+      },
+      "evidence": {
+        "start_year": ["S7"],
+        "capacity_by_year_json": ["S7"]
+      },
+      "notes": "[T094] start_year 2023 and step 2023 = 6 now carry a verbatim company-site quote: Tianneng news page dated 2023-11-03 (S7): on 2 Nov (2023) the 'Changxing South Taihu lithium battery base phase 1 6GWh' was put into production ('一期正式投产'); company press basis, design capacity. CONFLICT kept from T009: the Nov 2025 IPO-proceeds announcement describes the 10 GWh project as phase 1 = 3 GWh + phase 2 = 7 GWh (cninfo PDF, not readable by the fetcher this session), which does not match 6 GWh phase 1; the 6 GWh figure is the company's own ceremony wording at the time. Phase 2 'core lines completed and operational' by 31 Oct 2025 (T009) has no production year, so no 2025 step."
+    },
+    {
+      "id": "desay-battery-hunan-desay-changsha-wangcheng-energy-storage-cell-project-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 4}"
+      },
+      "evidence": {
+        "start_year": ["S8"],
+        "capacity_by_year_json": ["S8", "S9"]
+      },
+      "notes": "[T094] start_year 2023 now with a verbatim quote: 36Kr (S8) '2023年5月19日，湖南德赛电池储能电芯项目在望城经开区量产投产' (phase 1). Step 2023 = 4 on a DESIGN basis: the production date of phase 1 is S8, the phase-1 design capacity 4 GWh is from the 2022 SMM plan article (S9: 'The first phase of the project will invest 1.6 billion yuan to build an energy storage cell project with 4GWh capacity'). Caveat: S8 itself says phase 1 is 'fully completed' but gives no GWh, so 4 is the planned figure, not a built-capacity statement; if the lead prefers a stricter reading, drop the step and keep start_year only. Phases 2-3 (8 + 8 GWh) not started per the company's Sep 2026 answer (T040), so no later step."
+    },
+    {
+      "id": "dfd-new-energy-guangxi-ningfu-new-energy-technology-co-ltd-dfd-nanning-plant-guangxi-ningfu-new-energy-20gwh-lithium-battery-project-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022,
+        "capacity_by_year_json": "{\"2022\": 5, \"2025\": 10}"
+      },
+      "evidence": {
+        "start_year": ["S10"],
+        "capacity_by_year_json": ["S10", "S11"]
+      },
+      "notes": "[T094] start_year 2022 and steps now carry verbatim quotes. 2022 = 5: dcsq.com (S10) says the Guangxi Ningfu 20GWh project's phase 1 5GWh 'has been put into production in November 2022' (the page text carries no printed date; 2023-09-28 is the date T033/v1 attached to it, as it reports the phase-2 groundbreaking). 2025 = 10 = 5 (phase 1, 2022, S10) + 5 (second 5 GWh 'Nanning base 5GWh capacity put into production', China.com 2025-10-16, S11); this is my sum of two phases whose production years are each sourced (the S11 sentence gives no month, only that it happened by Oct 2025). No 2023/2024 step: phase 2 construction started Sep 2023 (S10 describes a 15 GWh phase 2, not 5), no production sourced between. Design basis, company-wide-article basis for S11. Same arithmetic as T033 installed (10 as of 2025-10-16); T033 caveat stands that the 5 GWh increment is read as Nanning-based."
+    },
+    {
+      "id": "beijing-welion-new-energy-welion-new-energy-huzhou-semi-solid-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022
+      },
+      "evidence": {
+        "start_year": ["S12"]
+      },
+      "notes": "[T094] start_year 2022 evidenced by electrive 2022-11-25 (S12): WeLion's first semi-solid-state cell came off the Huzhou line that week ('As production of the cells only started this week'); year from page date. Judged first (initial/pilot) production, not volume. No capacity_by_year step: the only GWh splits (2 GWh phase 1; 20 GWh 'Phase 1' Sept 2023) are Wikipedia-sourced and the 20 GWh was found by T021 to belong to Zibo; electrive gives no output figure. History stays null."
+    }
+  ]
+}

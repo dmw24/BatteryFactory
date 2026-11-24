@@ -1,0 +1,15 @@
+{
+ "task": "T097",
+ "verified_on": "2026-11-24",
+ "sources": {},
+ "rows": [
+  {
+   "id": "calb-calb-xiamen-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "announced_year": null
+   },
+   "notes": "lead: v1 announced_year 2021 (reported tier) contradicted by Gasgoo 'first phase of Xiamen base started production at the end of 2020' (T094 S4) - nulled. v1 capacity_by_year_json {2023:10, 2027:60} inconsistent with 30 GWh built (Sina 2026-04-21) - flagged for review."
+  }
+ ]
+}

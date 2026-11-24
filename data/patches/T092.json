@@ -1,0 +1,95 @@
+{
+  "task": "T092",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.prnewswire.com/news-releases/lg-chems-holland-plant-accelerates-battery-production-300163934.html",
+      "publisher": "LG Chem press release via PR Newswire, Holland plant accelerates battery production",
+      "published": "2015-10-21",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "began shipping lithium-ion batteries for the Chevy Volt in November 2013"
+    },
+    "S2": {
+      "url": "https://insideevs.com/news/575359/lges-plant-expansion-michigan/",
+      "publisher": "InsideEVs, LG Energy Solution Michigan plant expansion (secondary report: 'we heard', not a company figure)",
+      "published": "2022-03-23",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The exact output in GWh/year has not been disclosed, but we heard that currently, it's 5 GWh/year"
+    },
+    "S3": {
+      "url": "https://www.energytrend.com/news/20220506-27932.html",
+      "publisher": "EnergyTrend, Envision AESC Wuxi base",
+      "published": "2022-05-06",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "its first phase with 5GWh has been in operation since 2021."
+    },
+    "S4": {
+      "url": "https://www.wuxi.gov.cn/doc/2024/08/05/4365957.shtml",
+      "publisher": "Wuxi municipal government (wuxi.gov.cn), Envision Power Jiangyin project site report",
+      "published": "2024-08-05",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "远景动力智能电池项目现场，二期现代化厂房拔地而起，目前正在办理厂房竣工验收手续，这里将布局行业最先进且完整的工艺技术，建成后可年产三元锂电池达15GWh"
+    },
+    "S5": {
+      "url": "https://finance.sina.cn/2026-10-06/detail-iniufxcm9079685.d.html",
+      "publisher": "肥西发布 (Feixi county government WeChat account) via Sina mobile, key project progress; page shows '10.06', year inferred from the page image path",
+      "published": "2026-10-06",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "其中，一期项目建设5GWh电芯和系统组装生产线及相关配套设施，已于2024年竣工投产。"
+    },
+    "S6": {
+      "url": "https://cj.sina.com.cn/articles/view/2122131425/7e7d27e100102ej0a",
+      "publisher": "集邦新能源网 via Sina Finance, report on Pylontech Sept 2025 fundraising-project announcement",
+      "published": "2025-10-09",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "目前该项目已顺利完成303亩土地厂房及5GWh电芯及系统产线建设"
+    }
+  },
+  "rows": [
+    {
+      "id": "lg-energy-solution-michigan-inc-lg-energy-solution-michigan-holland-united-states",
+      "action": "update",
+      "fields": {
+        "start_year": 2013,
+        "capacity_by_year_json": "{\"2022\": 5, \"2025\": 21.5, \"2026\": 35}"
+      },
+      "evidence": {
+        "start_year": ["S1"],
+        "capacity_by_year_json": ["S2"]
+      },
+      "notes": "[T092] start_year 2013 re-confirmed by an open company source (was REPORTED tier after T031): LG Chem's own release of 2015-10-21 (S1) says the Holland plant 'began shipping lithium-ion batteries for the Chevy Volt in November 2013' (first commercial shipments; the release also gives groundbreaking July 2010, which is not a production date). Added step 2022 = 5 GWh/yr: InsideEVs 2022-03-23 (S2) reports the pre-expansion output as 5 GWh/yr, explicitly a 'we heard' estimate (not company-stated; basis press). The existing 2025 (21.5, T010: 16.5 LFP ESS + 5 NMC EV, Jun 2025) and 2026 (35, an earnings-call target, plan not production) steps are kept unchanged. NOT added: a 2018 step of 3 GWh from electrive 2018-01-06 ('Thanks to the fifth production line, production capacity shall climb to 3 GWh annually', line due Aug 2018) because it is a planned completion, not a dated in-production figure; the v1 capacity_timeline already carries it. No sourced step found for 2019-2021 (the 2018 line additions and the 5 GWh of 2022 imply 3-5 GWh but nothing dates them), so no interpolation."
+    },
+    {
+      "id": "envision-aesc-envision-aesc-wuxi-plant-jiangyin-battery-manufacturing-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2021,
+        "capacity_by_year_json": "{\"2021\": 5}"
+      },
+      "evidence": {
+        "start_year": ["S3"],
+        "capacity_by_year_json": ["S3", "S4"]
+      },
+      "notes": "[T092] CORRECTION of the existing ramp {2021:5, 2023:20}: the 2023 step (20 GWh = phase 1 5 + phase 2 15) is contradicted. Wuxi government 2024-08-05 (S4) says the phase-2 15 GWh plant building was only 'now going through completion-acceptance procedures' (竣工验收) and 'after completion can produce 15GWh', i.e. phase 2 was not producing in 2023 or at Aug 2024; the 2023 date was Wuxi's 2022 target (groundbreaking Feb 2022, 'expected in production in 2023' per T012). Series therefore keeps phase 1 only: 2021 = 5 GWh (design basis, EnergyTrend 2022-05-06, S3: 'first phase with 5GWh has been in operation since 2021'; year of 'since 2021' is the source's own). start_year 2021 now carries a quote (S3). Some outlets cite ~3 GWh actual initial output vs 5 GWh design (v1 timeline); not changed. Phase-2 production date (2025?) NOT found: no step added. If a later source dates phase 2 in production, add it then; the plan target stays only in nameplate/ref_year."
+    },
+    {
+      "id": "pylontech-pylon-technologies-pylontech-hefei-feixi-lfp-cell-plant-10gwh-lithium-battery-r-d-and-manufacturing-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2024,
+        "capacity_by_year_json": "{\"2024\": 5, \"2027\": 10}"
+      },
+      "evidence": {
+        "start_year": ["S5"],
+        "capacity_by_year_json": ["S5", "S6"]
+      },
+      "notes": "[T092] start_year 2023 (v1, reported) -> 2024 and step 2023:5 -> 2024:5 (design basis, phase 1 5 GWh cell + system-assembly lines). Feixi county government account (S5, 2026-10-06; year inferred from image path, the page shows only '10.06') states phase 1 (5GWh cell and system-assembly lines) 'was completed and put into production in 2024' and has ramped since; Pylontech's Sept-2025 announcement (S6, Sina/集邦 2025-10-09) confirms the 303-mu plant and 5 GWh cell/system line are built, remaining 5 GWh of equipment due by end-2026 (ready-for-use date moved to 2026-12). CONFLICT: v1 (CNR/Anhui 2023-04-21, page encoding garbled here, not quotable) expected plant No. 3 production from June 2023 and the original fundraising plan said 'built and in production 2024-02'; no open page I could read shows commercial 5 GWh production in 2023, so 2023 is not supported. The existing 2027:10 step is KEPT as found but is a plan step, not production: the company filing targets ready-for-use 2026-12 (see T023 notes) and nothing dates phase 2 in 2027; lead may drop it. 'Completed and put into production' is the government's retrospective wording; the AR 2025 table still shows the project as under construction (T023), so the 5 GWh is design capacity of the built phase, which may not be fully commissioned."
+    }
+  ]
+}

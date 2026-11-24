@@ -2730,12 +2730,16 @@
     "path": "team/CONVENTIONS.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "history round 2; quotes verified; see PROGRESS"
+   }
   },
   {
    "id": "T093",
@@ -2782,12 +2786,16 @@
     "path": "team/CONVENTIONS.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "history round 2; quotes verified; see PROGRESS"
+   }
   },
   {
    "id": "T095",
@@ -2830,12 +2838,40 @@
     "path": "team/CONVENTIONS.md",
     "approved": true
    },
-   "status": "pending",
+   "status": "in_progress",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
    "audit": {}
+  },
+  {
+   "id": "T097",
+   "title": "Lead fix: CALB Xiamen announced_year",
+   "workstream": "I. History (owner 2026-11-24)",
+   "owner": "lead",
+   "files": [
+    "data/patches/T097_lead_fixes.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "C3 pass"
+   ],
+   "risk": "normal",
+   "contract": {
+    "path": "team/CONVENTIONS.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "contradicted reported value nulled"
+   }
   }
  ]
 }
