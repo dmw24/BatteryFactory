@@ -65,6 +65,7 @@ for f in sorted(glob.glob("data/reference/company_capacity/*.csv")):
             disc[(comp, y)] = (rank, v)
 
 model = defaultdict(dict)
+capped = set()   # (id, year) values limited by a company total: company-level remainder, not a plant estimate
 unmodelled_no_start = 0.0
 for i, ser in d.items():
     s = start.get(i)
@@ -76,10 +77,10 @@ for i, ser in d.items():
         if f > FIRST:
             unmodelled_no_start += ser[f]
         continue
-    s = max(int(s), FIRST)
+    s = int(s)                      # true start year in the ramp fraction (T102: no clamping to FIRST)
     if s >= f:
         continue
-    for y in range(s, f):
+    for y in range(max(s, FIRST), f):
         model[i][y] = ser[f] * (y - s + 1) / (f - s + 1)
 
 # company cap: capacity in year y cannot exceed what the company disclosed for y or any LATER year (capacity grows),
@@ -89,9 +90,17 @@ bound = {}
 for comp in comps:
     ys = sorted(y for c, y in disc if c == comp)
     for y in range(FIRST, LAST + 1):
-        later = [disc[(comp, yy)][1] for yy in ys if yy >= y]
-        if later:
-            bound[(comp, y)] = (0, min(later))
+        if (comp, y) in disc:
+            bound[(comp, y)] = (0, disc[(comp, y)][1])
+            continue
+        before = [yy for yy in ys if yy < y]
+        after = [yy for yy in ys if yy > y]
+        if before and after:        # T102: between two disclosures interpolate the company total (bound, labelled)
+            y0, y1 = max(before), min(after)
+            v0, v1 = disc[(comp, y0)][1], disc[(comp, y1)][1]
+            bound[(comp, y)] = (0, v0 + (v1 - v0) * (y - y0) / (y1 - y0))
+        elif after:                 # before the first disclosure: capacity cannot exceed the next disclosed total
+            bound[(comp, y)] = (0, disc[(comp, min(after))][1])
 for (comp, y), (_, v) in bound.items():
     ids = [i for i in d if cmap.get(i) == comp]
     site = sum(d[i].get(y, 0.0) for i in ids)
@@ -104,12 +113,13 @@ for (comp, y), (_, v) in bound.items():
         for i in ids:
             if y in model[i]:
                 model[i][y] *= k
+                capped.add((i, y))
 
-out = [(i, y, round(g, 3)) for i in model for y, g in model[i].items() if g > 0]
+out = [(i, y, round(g, 3), (i, y) in capped) for i in model for y, g in model[i].items() if g > 0]
 con.execute("DROP TABLE IF EXISTS capacity_history_model")
-con.execute("CREATE TABLE capacity_history_model (id VARCHAR, year INTEGER, gwh_modelled DOUBLE)")
+con.execute("CREATE TABLE capacity_history_model (id VARCHAR, year INTEGER, gwh_modelled DOUBLE, company_capped BOOLEAN)")
 if out:
-    con.executemany("INSERT INTO capacity_history_model VALUES (?,?,?)", out)
+    con.executemany("INSERT INTO capacity_history_model VALUES (?,?,?,?)", out)
 
 # unallocated vs D + modelled
 unalloc = defaultdict(float)
@@ -121,7 +131,7 @@ dtot = defaultdict(float)
 for i, y, g in con.execute("SELECT id, year, gwh_iea FROM capacity_by_year").fetchall():
     dtot[y] += g or 0.0
 mtot = defaultdict(float)
-for i, y, g in out:
+for i, y, g, _c in out:
     mtot[y] += g
 with open("capacity_by_year_f.csv", "w", newline="") as fh:
     w = csv.writer(fh)

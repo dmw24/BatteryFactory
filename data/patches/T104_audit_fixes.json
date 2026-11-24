@@ -1,0 +1,86 @@
+{
+ "task": "T104",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.jiemian.com/article/9712513.html",
+   "publisher": "Jiemian (界面新闻)",
+   "published": "2023-07-10",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "“中兴高能生产经营出现严重困难，现已暂时停止生产经营”"
+  }
+ },
+ "rows": [
+  {
+   "id": "liuzhou-gotion-battery-co-ltd-gotion-high-tech-subsidiary-gotion-liuzhou-power-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "start_year": 2022,
+    "capacity_by_year_json": "{\"2022\": 10}"
+   },
+   "reported_evidence": {},
+   "notes": "AUDIT T102 fix: start_year 2024 contradicted by T005 S27 (Parkworld 2024-05-12: '一期年产能10GWh项目已于2022年9月投产') -> 2022; step 2022:10 from the same quote."
+  },
+  {
+   "id": "envision-aesc-envision-aesc-wuxi-plant-jiangyin-battery-manufacturing-base-china",
+   "action": "fix",
+   "fields": {},
+   "notes": "AUDIT T102 fix: phase 2 still in completion acceptance Aug 2024 (T092 S4) - ref_year: latest dated phase; remainder undated."
+  },
+  {
+   "id": "tangshan-guoxuan-battery-co-ltd-wholly-owned-subsidiary-of-hefei-gotion-high-tech-power-energy-gotion-tangshan-plant-tangshan-guoxuan-battery-co-ltd-china",
+   "action": "fix",
+   "fields": {},
+   "notes": "AUDIT T102 fix: ref_year 2025 is phase 6 '预计10月试投产' (trial target), not full capacity - ref_year: fallback, searched."
+  },
+  {
+   "id": "svolt-energy-technology-svolt-shangrao-base-china",
+   "action": "fix",
+   "fields": {
+    "installed_capacity_gwh": null,
+    "installed_as_of": null
+   },
+   "notes": "AUDIT T102 fix: installed 24 @2023-07-27 was phase 2's planned 20 GWh on a groundbreaking/ceremony day ('新建8条'), not producing capacity - nulled; the 2023 step is design basis."
+  },
+  {
+   "id": "farasis-energy-farasis-energy-zhenjiang-plant-china",
+   "action": "fix",
+   "fields": {
+    "start_year": null
+   },
+   "notes": "AUDIT T102 fix: STAR prospectus (2020) lists 江苏省镇江市（建设中）, contradicting start_year 2019 - nulled; first sourced step 2021."
+  },
+  {
+   "id": "guoneng-battery-guoneng-jiangxi-fenyi-xinyu-plant-china",
+   "action": "fix",
+   "fields": {
+    "status": null,
+    "confidence": 0.35
+   },
+   "notes": "AUDIT T102 fix: 'operational' was inferred from 建成 (built) only; D-016 -> status null, confidence <=0.4."
+  },
+  {
+   "id": "svolt-wuhan-formerly-zhongxing-gaoneng-svolt-wuhan-dongxihu-plant-china",
+   "action": "update",
+   "fields": {
+    "project_state": "paused",
+    "site_type": "single_site"
+   },
+   "notes": "AUDIT T102 fix: production stopped Oct 2020 (T095 source); no restart evidence found (T103) - D-018 paused. Quote (lead-fetched 2026-11-24): '中兴高能生产经营出现严重困难，现已暂时停止生产经营' (Oct 2020).",
+   "evidence": {
+    "project_state": [
+     "S1"
+    ]
+   }
+  },
+  {
+   "id": "chuneng-new-energy-chuneng-new-energy-xiaogan-base-xiaogan-lithium-battery-industrial-park-china",
+   "action": "fix",
+   "fields": {
+    "start_year": null
+   },
+   "notes": "AUDIT T102 fix: start_year 2025 (Huxiu '2025年6月28日投产') collides with a v1 source dated 2023-06-28 (likely year typo); unresolved -> null."
+  }
+ ]
+}

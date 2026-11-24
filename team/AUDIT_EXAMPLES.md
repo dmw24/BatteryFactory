@@ -46,3 +46,9 @@ S23 "项目预计于2026年6月完成主体建设，达产后…" was cited for 
   Before accepting a confidence rise: what evidence is new, and are the sources really independent?
 - Zenergy Changshu: the quote "Before 31 December 2027" string-matched, but it is the deadline for spending IPO
   proceeds, not when Phase II reaches capacity. A matching quote is not proof — read the table row it comes from.
+
+## T102 (2026-11-24) — fixed in the patch, not in the output
+T093 rejected v1 history (LG Wroclaw 35/65, SVOLT Chengdu 2023, Tangshan 2018), yet the build read capacity_timeline
+first and still showed those values as "confirmed" (~0.3 TWh in 2022). Audit the built series per row, not only the
+patch fields. And: a value equal to a bound (CATL 2018 = its 2019 total) or a date that collides with an older source
+(Chuneng Xiaogan "6月28日" 2025 vs a 2023-06-28 article) is an artefact until shown otherwise.

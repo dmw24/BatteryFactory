@@ -92,3 +92,14 @@ unallocated. Stored separately (capacity_history_model, capacity_by_year_f.csv);
 Also fixed (sourced series): rows now start at the online year (start_year or first sourced step) so dated pre-anchor
 steps count, and plants with an installed anchor are never filled with full nameplate before that anchor.
 Known remaining bias: plants that produced in 2016–2022 and later closed are largely absent (survivorship) → T095.
+
+## D-034 — Series v3: explicit evidence precedence (T102 audit, 2026-11-24)
+scripts/series_core.py replaces the per-plant logic. Precedence: confirmed installed anchor > confirmed v2 steps >
+reported anchor/steps > v1 capacity_timeline (reported only, used only when the row has no v2 steps and is not on the
+unsupported list). No capacity before an evidenced start_year, or before the first evidence year when start is
+unknown; before an installed anchor only dated steps count (never the full plan); reported never overrides
+confirmed; operational plants with nothing dated count as online-unquantified (no fill from the plan year); rejected
+v1 histories get no nameplate fill. Series A now contains confirmed values only. Effect (D, sourced IEA basis): 2022
+1,033→749, 2025 3,418→3,469 GWh; history now sits in the labelled Series F model where it is not sourced.
+Series F fixes: company caps interpolated between disclosed years; true start year in the ramp; company-capped model
+values flagged (company-level remainder, not plant estimates).

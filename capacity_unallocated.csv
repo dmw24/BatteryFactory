@@ -1,23 +1,22 @@
 company,year,disclosed_gwh,sites_gwh,unallocated_gwh,region,scope,basis,flag,source_url,quote
-Aoyou,2019,5.0,0.0,5.0,China,global|all_li,year_end,"",https://www.jiemian.com/article/9712513.html,2019年产能增至5吉瓦时
 CATL,2015,2.6,0.0,2.6,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,单位：GWh 时间 产能 产量 销量 产能利用率 产销率 ... 2015 年度 2.6 2.52 2.21 96.92% 87.70%
 CATL,2016,7.6,0.0,7.6,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2016 年度 7.60 7.02 6.81 92.37% 97.01%
 CATL,2017,17.09,0.0,17.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2018-05-29/1205010303.PDF,2017 年度 17.09 12.91 11.85 75.54% 91.79%
-CATL,2019,53.0,5.0,48.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-04-25/1207613154.PDF,产能 在建产能 产能利用率 产量 ... 电池系统(GWh) 53.00 22.20 89.17% 47.26
-CATL,2020,69.1,5.0,64.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,报告期内，公司电池年度产能从 2020 年的 69.10GWh 提升至 2021 年的 170.39Gwh，并根据市场需求
-CATL,2021,170.39,121.0,49.4,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 170.39 140.00 95.00% 162.30
-CATL,2022,390.0,264.0,126.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2023-03-10/1216084559.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 390 152 83.4% 325
-CATL,2023,552.0,355.0,197.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2024-03-16/1219313047.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 552 100 70.47% 389
-CATL,2024,676.0,385.0,291.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2025-03-15/1222806982.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 676 219 76.33% 516
-CATL,2025,772.0,875.0,0.0,China,global|all_li,annual_effective,sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 772 321 96.9% 748
+CATL,2019,53.0,0.0,53.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-04-25/1207613154.PDF,产能 在建产能 产能利用率 产量 ... 电池系统(GWh) 53.00 22.20 89.17% 47.26
+CATL,2020,69.1,0.0,69.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,报告期内，公司电池年度产能从 2020 年的 69.10GWh 提升至 2021 年的 170.39Gwh，并根据市场需求
+CATL,2021,170.39,75.0,95.4,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2022-04-22/1213027750.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 170.39 140.00 95.00% 162.30
+CATL,2022,390.0,108.0,282.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2023-03-10/1216084559.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 390 152 83.4% 325
+CATL,2023,552.0,309.0,243.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2024-03-16/1219313047.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 552 100 70.47% 389
+CATL,2024,676.0,349.5,326.5,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2025-03-15/1222806982.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 676 219 76.33% 516
+CATL,2025,772.0,885.5,0.0,China,global|all_li,annual_effective,sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 772 321 96.9% 748
 Farasis,2017,1.264,0.0,1.3,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"项目 2019 年度 2018 年度 2017 年度 产能（MWh） 3,134.25 2,018.00 1,264.00"
 Farasis,2018,2.018,0.0,2.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"产能（MWh） 3,134.25 2,018.00 1,264.00"
 Farasis,2019,3.13425,0.0,3.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"产能（MWh） 3,134.25 2,018.00 1,264.00"
 Great Power,2021,5.87,0.0,5.9,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2022-04-28/1213172089.PDF,"锂离子电池 18.35 亿Ah 年化 (产能 column, annual report FY2021)"
-Great Power,2022,11.58,0.0,11.6,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2023-04-27/1216625879.PDF,"锂离子电池 36.2 亿Ah 年化 (产能 column, annual report FY2022)"
-Great Power,2023,21.67,0.0,21.7,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2024-04-27/1219864805.PDF,"锂离子电池 67.72 亿Ah 年化 (产能 column, annual report FY2023)"
-Great Power,2024,24.04,0.0,24.0,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2025-04-24/1223245174.PDF,"锂离子电池 75.14 亿Ah 年化 (产能 column, annual report FY2024)"
-Great Power,2025,27.72,12.0,15.7,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,"锂离子电池 86.64 亿Ah 年化 (产能 column, annual report FY2025)"
+Great Power,2022,11.58,5.5,6.1,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2023-04-27/1216625879.PDF,"锂离子电池 36.2 亿Ah 年化 (产能 column, annual report FY2022)"
+Great Power,2023,21.67,21.5,0.2,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2024-04-27/1219864805.PDF,"锂离子电池 67.72 亿Ah 年化 (产能 column, annual report FY2023)"
+Great Power,2024,24.04,21.5,2.5,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2025-04-24/1223245174.PDF,"锂离子电池 75.14 亿Ah 年化 (产能 column, annual report FY2024)"
+Great Power,2025,27.72,33.5,0.0,China,global|all_li,annual_effective,estimate;sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,"锂离子电池 86.64 亿Ah 年化 (产能 column, annual report FY2025)"
 Hithium,2022,5.4,15.0,0.0,China,global|ess_only,annual_effective,sites_exceed_disclosed,https://m.jiemian.com/article/13809441.html,2022-2024年，海辰储能的储能电池有效年产能由5.4GWh增至49.7GWh，年复合增速增至203%。
 Hithium,2024,62.0,45.0,17.0,China,global|ess_only,year_end,"",https://www.yicai.com/news/102847042.html,截至2024年末，该公司的设计产能达62GWh。
 JEVE,2023,10.0,0.0,10.0,China,global|all_li,annual_effective,"",https://www.mrjjxw.com/articles/2023-11-29/3138129.html,有效产能达到10GWh
@@ -29,5 +28,5 @@ REPT,2024,74.0,42.0,32.0,China,global|all_li,year_end,"",https://www1.hkexnews.h
 REPT,2025,90.0,42.0,48.0,China,global|all_li,year_end,"",https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602768.pdf,"By the end of 2025, our designed production capacity reached 90GWh."
 SVOLT,2020,2.86,12.0,0.0,China,global|own_cell_module_lines,year_end,sites_exceed_disclosed,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,以各期末时点已转固生产线的年度规划产能及相关固定资产原值为依据，比较如下： 项目 2022 年度 2021 年度 2020 年度 期末时点的年度规划产能（GWh/年） 21.19 9.33 2.86
 SVOLT,2021,9.33,12.0,0.0,China,global|own_cell_module_lines,year_end,sites_exceed_disclosed,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,以各期末时点已转固生产线的年度规划产能及相关固定资产原值为依据，比较如下： 项目 2022 年度 2021 年度 2020 年度 期末时点的年度规划产能（GWh/年） 21.19 9.33 2.86
-SVOLT,2022,21.19,22.0,0.0,China,global|own_cell_module_lines,year_end,sites_exceed_disclosed,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,以各期末时点已转固生产线的年度规划产能及相关固定资产原值为依据，比较如下： 项目 2022 年度 2021 年度 2020 年度 期末时点的年度规划产能（GWh/年） 21.19 9.33 2.86
+SVOLT,2022,21.19,42.0,0.0,China,global|own_cell_module_lines,year_end,sites_exceed_disclosed,http://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf,以各期末时点已转固生产线的年度规划产能及相关固定资产原值为依据，比较如下： 项目 2022 年度 2021 年度 2020 年度 期末时点的年度规划产能（GWh/年） 21.19 9.33 2.86
 Zenergy,2025,35.5,35.5,0.0,China,global|all_li,year_end,"",https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf,"By the end of 2025, the Company had added 10 GWh of newly commenced capacity, bringing its total capacity to 35.5 GWh at year-end."

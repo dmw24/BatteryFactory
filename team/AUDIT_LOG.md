@@ -115,3 +115,11 @@ rises (Wanxiang, Statevolt, Zenergy Xiangcheng), deadline/construction-complete 
 coordinates (Yizhuang, Mimarsinan, Bartow) + a state centroid, 18 rows parked at 0.6, inconsistent D-026. Passed:
 CATL company capacity 6/6, Great Power conversion, company_map, Inpower/Xiangyang/FAW. Systemic fixes: D-032 ref-year
 basis (build_timeseries ref_basis), C8 warning for 0.6 parking, D-031 PACK rule. Remaining: T091 (17 rows at 0.6).
+
+## T102 — checkpoint audit of the history round (Opus, 2026-11-24) — verdict FAIL → fixed (T104, D-034)
+Patches mostly sound (quotes ~60/62 found) but corrections never reached the series: build_timeseries read v1
+capacity_timeline ahead of v2 steps and labelled it "confirmed" (~0.3 TWh of D 2022 on rejected points); the online-year
+extension credited capacity before start_year; F used CATL's 2019 total as its 2018 value. Data: Chuneng Xiaogan
+2025-vs-2023 start, DFD Nanning sum, Aoyou budget figure, Guoneng inferred status, SVOLT Wuhan idle, Farasis Zhenjiang
+start, Envision Wuxi/Tangshan ref years, SVOLT Shangrao installed, Gotion Liuzhou start 2024 vs 2022. All fixed
+(T104 + series_core rewrite). Open: T096/T100 'no news' rows ≥10 GWh with one search → T105.

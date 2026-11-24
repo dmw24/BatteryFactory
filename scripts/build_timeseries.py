@@ -232,110 +232,31 @@ def main():
                 return int(r[k])
         return None
 
+    # v3 (T102 audit): all per-plant logic lives in scripts/series_core.py (evidence precedence, no credit before
+    # start, reported never overrides confirmed). Field tiers come from data/field_evidence.csv.
+    import sys as _sys
+    _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+    from series_core import compute
+    tiers = {}
+    for e in _csv.DictReader(open("data/field_evidence.csv", encoding="utf-8")):
+        k = tiers.setdefault(e["id"], {})
+        tier = "reported" if (e.get("tier") or "").strip() == "reported" else "confirmed"
+        if k.get(e["field"]) != "confirmed":
+            k[e["field"]] = tier
+    rf = {i: f for i, f in con.execute("SELECT id, reported_fields FROM factories").fetchall()}
     ins = []
-    kinds = {"real": 0, "phased": 0, "modelled": 0, "online_unquantified": 0, "undated": 0}
+    kinds = {}
     for r in R:
-        firm, pipe, kind = series_for(r)
-        if firm is None:
-            if r["nameplate_capacity_gwh"] is not None:
-                kinds["undated"] += 1
+        r["reported_fields"] = rf.get(r["id"])
+        ser = compute(r, tiers, bad_hist, ref_basis(r["research_notes"]) == "dated")
+        if not ser:
             continue
-        # Coverage bucket: operational-status plant with a timeline but no firm capacity
-        # anywhere through the current year => we know it is online but cannot quantify it.
-        if (kind == "real" and r["status"] == "operational"
-                and max([firm[y] for y in firm if y <= LAST_ACTUAL] or [0]) == 0):
-            kind = "online_unquantified"
-        if (r.get("project_state") or "active") != "active":
-            # D-018 / cancelled: no online capacity from the current year on, no pipeline
-            for y in list(firm):
-                if y >= LAST_ACTUAL:
-                    firm[y] = 0.0
-                    pipe[y] = 0.0
-        kinds[kind] += 1
         hub = (r["is_single_site"] is False) or bool(HUBRE.search(r["research_notes"] or ""))
-        # Series B — installed nameplate (IEA/BNEF basis): full nameplate of an
-        # OPERATIONAL plant credited from the year it came online, held to HORIZON.
-        np = r["nameplate_capacity_gwh"]
-        oy = online_year(r)
-        active = (r.get("project_state") or "active") == "active"
-        reported_hist = {}
-        if kind != "real" and r["capacity_timeline"]:
-            try:
-                reported_hist = _walk([p for p in json.loads(r["capacity_timeline"])
-                                       if isinstance(p, dict) and p.get("basis") in FIRM_BASIS and p.get("year")])
-            except (json.JSONDecodeError, TypeError):
-                reported_hist = {}
-        if kind != "real" and not reported_hist and r["capacity_by_year_json"]:
-            try:  # reported/phased ramp, carried flat; only years up to the current year count as online
-                m = {int(k): float(v) for k, v in json.loads(r["capacity_by_year_json"]).items() if v is not None}
-                last = 0.0
-                for yy in range(min(m), HORIZON + 1):
-                    last = m.get(yy, last) if yy <= LAST_ACTUAL + 1 else last
-                    reported_hist[yy] = last
-            except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
-                reported_hist = {}
-        has_sourced = kind in ("real", "phased")
-        # Series D (IEA-like, D-027): design nameplate of commissioned lines. Credits the full site nameplate once
-        # its last phase is due (capacity_ref_year <= y) when that year is a DATED phase year (not the
-        # publication-year fallback), plus sourced dated phase steps (capacity_by_year_json); never less than C.
-        ry = r["capacity_ref_year"]
-        ry_fallback = ref_basis(r["research_notes"]) != "dated"
-        steps = {}
-        if r["capacity_by_year_json"]:
-            try:
-                steps = {int(k): float(v) for k, v in json.loads(r["capacity_by_year_json"]).items() if v is not None}
-            except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
-                steps = {}
-        # history fix (2026-11-24): a plant's rows used to start at its first *installed* point, so sourced earlier
-        # phase steps never reached Series D; extend the year range back to the online year with zero firm capacity
-        if oy is not None and firm and oy < min(firm):
-            for yy in range(max(oy, FIRST), min(firm)):
-                firm.setdefault(yy, 0.0)
-                pipe.setdefault(yy, 0.0)
-            firm = dict(sorted(firm.items()))
-        for y in firm:
-            if kind == "real":
-                npl = firm[y]                       # v2: sourced installed level
-            elif r.get("installed_capacity_gwh") is not None and r["status"] == "operational":
-                npl = firm.get(y, 0.0)              # anchored plant: no nameplate fill (history fix 2026-11-24)
-            else:
-                npl = (np if (np is not None and r["status"] == "operational" and (active or y <= LAST_ACTUAL)
-                              and oy is not None and y >= oy) else 0.0)
-            # Series C (best estimate, D-024): confirmed level where sourced; else reported v1 history
-            # (capped at nameplate); else the nameplate fill used by B.
-            anchor_y = int(str(r["installed_as_of"])[:4]) if (r.get("installed_capacity_gwh") is not None
-                                                             and r.get("installed_as_of")) else None
-            if kind == "real":
-                best, basis = firm[y], "confirmed"
-            elif anchor_y is not None and r["status"] == "operational":
-                # plant has a sourced installed figure dated later than y: before that anchor only sourced, dated
-                # phase steps count (never the full plan); after it, the anchor itself
-                stp = max([v for k, v in steps.items() if k <= y] or [0.0])
-                cap = float(r["installed_capacity_gwh"]) if y >= anchor_y else (np or 1e9)
-                best = min(stp, cap) if y < anchor_y else max(float(r["installed_capacity_gwh"]), 0.0)
-                basis = ("confirmed" if y >= anchor_y else ("dated_step_pre_anchor" if best else "none"))
-            elif r["id"] in bad_hist:
-                best, basis = 0.0, "unsupported_v1_timeline"
-            elif npl and reported_hist:
-                best, basis = min(reported_hist.get(y, 0.0), np or 1e9), "reported_v1_timeline"
-            else:
-                best, basis = npl, ("nameplate_fill" if npl else "none")
-            iea, ibasis = best, "as_best"
-            if r["status"] == "operational" and (active or y < LAST_ACTUAL) and oy is not None and y >= oy:
-                step = max([v for k, v in steps.items() if k <= y] or [0.0])
-                if np is not None:
-                    step = min(step, np)
-                if step > iea:
-                    iea, ibasis = step, "dated_phase_step"
-                if np is not None and ry is not None and int(ry) <= y and not ry_fallback and np > iea:
-                    iea, ibasis = np, "full_nameplate_dated"
-            # D-high: also credits plans whose ref year is only the publication-year fallback (upper bound)
-            iea_high = iea
-            if (r["status"] == "operational" and (active or y < LAST_ACTUAL) and np is not None and ry is not None
-                    and int(ry) <= y and oy is not None and y >= oy):
-                iea_high = max(iea, np)
-            ins.append((r["id"], y, firm[y], pipe.get(y, 0.0), npl,
-                        r["region"], r["status"], kind, hub, best, basis, iea, ibasis, iea_high))
+        kind = next(iter(ser.values()))["kind"]
+        kinds[kind] = kinds.get(kind, 0) + 1
+        for y, v in sorted(ser.items()):
+            ins.append((r["id"], y, v["firm"], v["pipe"], v["npl"], r["region"], r["status"], v["kind"], hub,
+                        v["best"], v["basis"], v["iea"], v["ibasis"], v["iea_high"]))
     con.executemany("INSERT INTO capacity_by_year VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", ins)
 
     print("plants by data source:", kinds)

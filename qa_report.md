@@ -11,7 +11,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 305 | 6840.0 | 3235.0 |
+| operational | 304 | 6840.0 | 3211.0 |
 | announced | 87 | 1043.0 | — |
 | under_construction | 78 | 1734.0 | — |
 | (unknown) | 18 | 6.0 | — |
@@ -24,6 +24,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | cancelled | announced | 12 | 161.0 |
 | cancelled | operational | 7 | 2.0 |
 | cancelled | under_construction | 6 | 95.0 |
+| paused | (unknown) | 1 | — |
 | paused | announced | 6 | 125.0 |
 | paused | operational | 11 | 39.0 |
 | paused | under_construction | 9 | 195.0 |
@@ -34,7 +35,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---|---:|---:|
 | China | (unknown) | 7 | 3.0 |
 | China | announced | 57 | 797.0 |
-| China | operational | 202 | 5683.0 |
+| China | operational | 201 | 5683.0 |
 | China | under_construction | 48 | 1018.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 9 | 75.0 |
@@ -314,7 +315,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Gotion Lujiang plant (Lujiang High-tech Zone base) | Gotion High-tech | China | 0.3 | Y | [T005 2026-11-20] is_cell_manufacturer kept true (D-015: not flipped to pass a check). Aut… |
 | Great Power Ulanqab energy storage and semi-solid-state cell plant | Great Power | China | 0.3 | Y | [T008 2026-11-20] Announcement 2024-07-21 (S6, S7b): 10 GWh/yr storage cells + system inte… |
 | Gree Titan Zhuhai LTO Cell Plant | Gree Titan (Gree Titanium New Energy, formerly Yinlong New Energy) | China | 0.3 | Y | [T021 2026-11-20] status unconfirmed at site level. Evidence is company-level only: Gree T… |
-| Guoneng (国能电池) Jiangxi Fenyi (Xinyu) plant | 国能电池科技股份有限公司 (Guoneng Battery, Beijing) | China | 0.3 | N | [T095 2026-11-24] [T095] SURVIVORSHIP add, not in DB (data/reference/candidates/T074_miit_… |
 | Hubei Wocheng New Energy Shiyan 20 GWh sodium-ion energy storage zero-carbon manufacturing base (Zhangwan District) | Hubei Wocheng New Energy Co., Ltd. | China | 0.3 | N | [T047 2026-11-20] NEW (T047 sweep, Hubei/Shiyan; also listed as a T025 candidate, not prev… |
 | Jianheng Aoneng Dalate Banner sodium-ion battery base (Ordos supply-chain area) | Inner Mongolia Jianheng Aoneng Technology Co., Ltd. | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep, Ordos). SMM 2025-07-14 (S9): phase I (… |
 | Hohhot 50 GWh sodium-ion battery and energy storage industrial park (Hohhot Economic and Technological Development Zone) | Inner Mongolia Juneng Zhengxin Energy Storage Technology Co., Ltd. (Chinese name unconfirmed) | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep). Launch ceremony 2024-07-28 (S4, S5): … |
@@ -368,6 +368,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Ganfeng LiEnergy Dongguan Base (赣锋锂电东莞科技 10GWh new-type lithium battery & ESS HQ base) | Ganfeng LiEnergy | China | 0.35 | N | [T009 2026-11-20] Restored (not removed): site exists and commenced operation 25 Feb 2026 … |
 | Gelion Fairfield | Gelion | Australia | 0.35 | Y | [T020 2026-11-20] Pilot zinc-bromide (Endure) line at partner Battery Energy Power Solutio… |
 | Great Power Guangde plant | Great Power | China | 0.35 | Y | [T008 2026-11-20] Company plan (board announcement 2024-11-19): 10 GWh storage cells + sys… |
+| Guoneng (国能电池) Jiangxi Fenyi (Xinyu) plant | 国能电池科技股份有限公司 (Guoneng Battery, Beijing) | China | 0.35 | N | [T095 2026-11-24] [T095] SURVIVORSHIP add, not in DB (data/reference/candidates/T074_miit_… |
 | INESIS gigafactory, New Moscow (planned; possibly the second Krasnaya Pakhra plant) | Innovative Energy Systems (INESIS / ИНЭСИС) | Russia | 0.35 | N | [T052 2026-11-20] NEW (T052 sweep, Russia; not in DB or removed.csv: no match for INESIS/И… |
 | Alxa 30 GWh cell and energy-storage equipment project (Zhilian Huitong) | Inner Mongolia Zhilian Huitong Logistics Co., Ltd. | China | 0.35 | N | [T023 2026-11-20] REVISED after audit: nameplate now cited to S19d (page wording: workshop… |
 | Li-FUN Zhuzhou Plant | Li-FUN Technology | China | 0.35 | Y | [T022 2026-11-20] Status unconfirmed. Only open source fetched: 36Kr company profile - Hun… |
