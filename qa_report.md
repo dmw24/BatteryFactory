@@ -11,9 +11,9 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 304 | 6840.0 | 3211.0 |
-| announced | 87 | 1043.0 | — |
-| under_construction | 78 | 1734.0 | — |
+| operational | 306 | 6867.0 | 3211.0 |
+| announced | 86 | 1031.0 | — |
+| under_construction | 77 | 1719.0 | — |
 | (unknown) | 18 | 6.0 | — |
 
 ### Paused and cancelled projects (excluded from the totals above)
@@ -34,9 +34,9 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | region | status | plants | Σ nameplate GWh/yr |
 |---|---|---:|---:|
 | China | (unknown) | 7 | 3.0 |
-| China | announced | 57 | 797.0 |
-| China | operational | 201 | 5683.0 |
-| China | under_construction | 48 | 1018.0 |
+| China | announced | 56 | 785.0 |
+| China | operational | 203 | 5710.0 |
+| China | under_construction | 47 | 1003.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 9 | 75.0 |
 | Europe | operational | 26 | 369.0 |
@@ -164,7 +164,7 @@ Review these — they may be the same physical site under different names, or le
 | same operator + shared location token 'changshu' | Zenergy new 50 GWh battery base (Changshu High-tech Zone per Jiemian/STCN; English press says Xiangcheng, Suzhou) ⟷ Zenergy Changshu Plant | jiangsu-zenergy-suzhou-xiangcheng-plant-china, jiangsu-zenergy-zenergy-changshu-plant-china |
 | same operator + shared location token 'suichang' | Yuheng Battery Suichang 3 GWh LFP energy-storage battery project (Suichang Economic Development Zone, Lishui, Zhejiang) ⟷ Yuheng Battery Suichang (Lishui) 1 GWh lithium/sodium battery project | yuheng-battery-suichang-3gwh-lfp-storage-battery-project-china, yuheng-battery-yuheng-suichang-lishui-lithium-sodium-base-china |
 
-## 2. Capacity double-count / consistency flags (29 rows)
+## 2. Capacity double-count / consistency flags (30 rows)
 
 | plant | operator | region | nameplate GWh | flag |
 |---|---|---|---:|---|
@@ -174,6 +174,7 @@ Review these — they may be the same physical site under different names, or le
 | Eni Storage Systems Gigafactory (Brindisi) | Eni Storage Systems | Europe | 8.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Envision AESC Yichang storage super factory | Envision AESC | China | 100.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | EVE Energy Jingmen production base | EVE Energy | China | 212.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| Farasis Energy Zhenjiang plant | Farasis Energy | China | 24.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Geely Tonglu power battery project (12 GWh, Tonglu Economic Development Zone; ENERGEE Tonglu base) | Geely Technology Group (吉利科技集团) - ENERGEE (吉曜通行) Tonglu base | China | 12.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Great Power Guangzhou (Panyu) plant | Great Power | China | 2.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Hengdian DMEGC Dongyang Lithium Cell Plant | Hengdian Group DMEGC Magnetics Co., Ltd. | China | 8.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
@@ -274,7 +275,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Farasis Wuhu plant | Farasis Energy | China | 0.2 | Y | [T009 2026-11-20] Only source is the Aug/Sep 2021 agreement (24 GWh, two sub-projects of 1… |
 | Pengcheng New Energy Jinchang 1 GWh lithium-ion cell project (Xugu New Energy Industrial Park) | Hangzhou Pengcheng New Energy Co., Ltd. (杭州鹏程新能源有限公司) | China | 0.2 | N | [T049 2026-11-20] NEW (T049 sweep, Gansu; not in DB). Weak, early-stage add: SMM 2025-03-1… |
 | InoBat Ćuprija (Project Lion) | InoBat | Serbia | 0.2 | Y | [T015 2026-11-20] Stalled MoU-stage project; no news after Jan 2024 found (searched Englis… |
-| JEVE (捷威动力) Changxing (Huzhou) 12 GWh battery base | JEVE (Tianjin Jiewei Power / 捷威动力) | China | 0.2 | N | [T046 2026-11-20] NEW but STALE. MarkLines teaser (page date 2021-08-02, 'JEVE 12GWh new-e… |
 | Kexiang Sodium Energy Industrial Park, 8 GWh sodium-ion energy storage battery project (Daya Bay, Huizhou) | Kexiang Co., Ltd. (科翔股份) | China | 0.2 | N | [T064 2026-11-22] [T064 NEW, Guangdong/Huizhou sweep] CLS 2024-03-19 (S5): Kexiang (科翔股份, … |
 | Liacon Itzehoe | Liacon | Germany | 0.2 | N | [T014 2026-11-20] status unconfirmed. No open source shows cell production at Itzehoe: the… |
 | Lucas TVS Thervoy Kandigai Cell Plant | Lucas TVS (TVS Indeon Ltd) | India | 0.2 | Y | [T018 2026-11-20] Changed vs v1: under_construction -> announced; v1 start_year 2024 and c… |
@@ -301,7 +301,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Basquevolt Vitoria-Gasteiz | Basquevolt | Spain | 0.3 | Y | [T015 2026-11-20] Status unconfirmed; v1 'operational' + 10 GWh by 2027 not supported. Bas… |
 | BenAn Energy Taicang sodium-ion plant | Benan Energy Technology (Jiangsu) Co., Ltd. | China | 0.3 | Y | [T021 2026-11-20] status unconfirmed. Only open evidence: Dec 2024 EIA-stage notice for a … |
 | Beyonder Battery Center (Forus/Sandnes) | Beyonder AS | Norway | 0.3 | Y | [T015 2026-11-20] Status unconfirmed. Beyonder's own site (undated, fetched) says its 'inn… |
-| BYD FinDreams (XCMG-FinDreams) Xuzhou Blade Battery Plant | BYD (FinDreams Battery) | China | 0.3 | Y | [T003 2026-11-20] Timeline: iFeng 2023-11-20 structures topped out, trial production plann… |
 | CATL Shanghai Lingang battery base (Nanhui New City) | CATL | China | 0.3 | N | [T002 2026-11-20] cell production unconfirmed; module base per S22. is_cell_manufacturer=f… |
 | Chilwee Changxing Lithium Cell Plant | Chilwee (Chaowei Group) | China | 0.3 | Y | [T021 2026-11-20] status unconfirmed. Only fetched evidence: company profile page says HQ … |
 | Deyi Energy (Chery) Tongling Zongyang power battery project (Qiaogang Park) | Deyi Energy Technology (Tongling) Co., Ltd. | China | 0.3 | N | [T040 2026-11-20] NEW. Chery's own power-battery base: Qiaogang Park, Zongyang Economic De… |
@@ -320,6 +319,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Hohhot 50 GWh sodium-ion battery and energy storage industrial park (Hohhot Economic and Technological Development Zone) | Inner Mongolia Juneng Zhengxin Energy Storage Technology Co., Ltd. (Chinese name unconfirmed) | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep). Launch ceremony 2024-07-28 (S4, S5): … |
 | Ordos Juungar Banner sodium-ion battery and energy storage industrial park (Juungar Economic Development Zone) | Inner Mongolia Xinjing New Energy Technology Co. (name as transliterated by China Daily; Chinese name unconfirmed) | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep). China Daily 2025-09-04 (S7): investme… |
 | International Battery Company Bengaluru Gigafactory | International Battery Company | India | 0.3 | Y | [T018 2026-11-20] Status: groundbreaking of the INR 390 crore 'Giga Factory Unit' in Benga… |
+| JEVE (捷威动力) Changxing (Huzhou) 12 GWh battery base | JEVE (Tianjin Jiewei Power / 捷威动力) | China | 0.3 | N | [T046 2026-11-20] NEW but STALE. MarkLines teaser (page date 2021-08-02, 'JEVE 12GWh new-e… |
 | JEVE (捷威动力) Yancheng base | JEVE (Tianjin Jiewei Power / 捷威动力) | China | 0.3 | N | [T095 2026-11-24] [T095] SURVIVORSHIP/coverage add. JEVE (Tianjin Jiewei Power) is a Tianj… |
 | Jiangsu Ruien New Energy (Reliance Energy Tech) cell plant, Inđija | Jiangsu Ruien New Energy (reported in Serbian media as Jiangsu Reliance Energy Tech) | Serbia | 0.3 | N | [T052 2026-11-20] NEW (T052 sweep, Serbia; named in task prompt; not in DB or removed.csv … |
 | Jiangsu Tafel New Energy Nanjing Plant | Jiangsu Tafel New Energy | China | 0.3 | Y | [T022 2026-11-20] CHANGED vs v1 (7.5 GWh -> null): the 4 GWh / 10 GWh figures below are CO… |
@@ -340,7 +340,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Lishen Tianjin plant (Tianjin Binhai New Energy Industry Base) | Tianjin Lishen Battery Joint-Stock Co., Ltd. | China | 0.3 | Y | [T009 2026-11-20] Row re-scoped to the new Binhai Hi-Tech base: 24 GWh EV power batteries … |
 | Lishen Mianyang Southwest Production Base | Tianjin Lishen Battery | China | 0.3 | Y | [T009 2026-11-20] Restored (not removed). status unconfirmed: the only fetched page (escn,… |
 | Lishen Tianjin HQ cell plant (Huayuan Industrial Park) | Tianjin Lishen Battery Joint-Stock Co., Ltd. | China | 0.3 | N | [T009 2026-11-20] Split from the Binhai new-base row: the operating Tianjin headquarters c… |
-| Lishen Wuxi New Energy Industrial Base | Tianjin Lishen Battery | China | 0.3 | Y | [T009 2026-11-20] Groundbreaking 28 June 2022 (SMM 2022-06-30): production base in Ehu Tow… |
 | Tianpu Technology Ordos lithium-ion battery and system intelligent manufacturing project (50 GWh) | Tianpu Technology | China | 0.3 | N | [T042 2026-11-20] NEW (T042 sweep, Inner Mongolia). REPORTED tier: only an SMM news item (… |
 | Toyota Battery (PEVE) Miyagi Plant | Toyota Battery Co., Ltd. (formerly Primearth EV Energy) | Japan | 0.3 | Y | [T013 2026-11-20] Status unconfirmed (D-016): no current production evidence for this site… |
 | Toyota Teiho Plant | Toyota Motor Corporation | Japan | 0.3 | Y | [T013 2026-11-20] Status unconfirmed (<=0.4). Toyota Times (2023-10-02): Teiho is Toyota's… |
@@ -401,6 +400,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | BE-VOLT gigafactory (Seneffe-Manage) | AVESTA Holding (BE-VOLT) | Belgium | 0.4 | N | [T069 2026-11-22] [T069] ADD at low confidence; cell-vs-pack scope UNRESOLVED, so nameplat… |
 | WeLion New Energy Huzhou Semi-Solid Plant | Beijing WeLion New Energy | China | 0.4 | Y | [T021 2026-11-20] MAJOR CORRECTION vs v1: v1 gave 20 GWh operational with phase 1 complete… |
 | Blue Solutions Quimper (Ergué-Gabéric / Odet mother plant) | Blue Solutions | France | 0.4 | Y | [T014 2026-11-20] Status unconfirmed beyond 2024: Blue Solutions (17 May 2024 release) say… |
+| BYD FinDreams (XCMG-FinDreams) Xuzhou Blade Battery Plant | BYD (FinDreams Battery) | China | 0.4 | Y | [T003 2026-11-20] Timeline: iFeng 2023-11-20 structures topped out, trial production plann… |
 | Wuwei FinDreams Battery plant (BYD New Energy Power Battery Yangtze River Delta Manufacturing Center) | BYD FinDreams Battery | China | 0.4 | Y | [T003 2026-11-20] Coordinates nulled: v1 37.93N/102.63E is Wuwei, Gansu; the plant is 无为 (… |
 | CALB Zigong Base | CALB | China | 0.4 | N | [T004 2026-11-20] Construction started 2026-01, completion/production expected within 2026… |
 | Camel Xiangyang New Energy Low-Carbon Industrial Park | Camel Group | China | 0.4 | Y | [T021 2026-11-20] REVISED after audit. Camel's 2025 annual report (cninfo) construction-in… |
@@ -454,6 +454,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | SVOLT Huzhou plant (South Taihu New Area) | SVOLT (Honeycomb Energy / 蜂巢能源) | China | 0.4 | Y | [T008 2026-11-20] SVOLT's STAR-market prospectus (draft, Nov 2022) describes the Huzhou 'l… |
 | SVOLT Ma'anshan plant | SVOLT (Svolt Energy Technology / 蜂巢能源) | China | 0.4 | Y | [T008 2026-11-20] [ESCALATE: 28 GWh row at 0.5 - capacity is a 2021 plan, status evidence … |
 | Tailan New Energy Qianjiang All-Solid-State Battery Base | Tailan New Energy (太蓝新能源) | China | 0.4 | N | [T021 2026-11-20] Candidate T025:30 verified only via an aggregator page (Chyxx/智研咨询, 2026… |
+| Lishen Wuxi New Energy Industrial Base | Tianjin Lishen Battery | China | 0.4 | Y | [T009 2026-11-20] Groundbreaking 28 June 2022 (SMM 2022-06-30): production base in Ehu Tow… |
 | Rongsheng Mengguli Tianjin Baodi manufacturing base | Tianjin Rongsheng Mengguli New Energy Technology Co., Ltd. (天津荣盛盟固利新能源科技有限公司) | China | 0.4 | N | [T066 2026-11-22] [T066 NEW; T062 missing lead] Rongsheng Mengguli (formerly CITIC Guoan M… |
 | Tongke New Energy Heyuan plant | Tongke New Energy (通科新能源) | China | 0.4 | N | [T022 2026-11-20] Plan: 2 GWh/yr sodium/lithium-ion batteries in Heyuan, Guangdong; steel-… |
 | Trina Storage Dafeng base (Yancheng) | Trina Storage | China | 0.4 | N | [T038 2026-11-20] Discovery add (T038, Jiangsu). TrinaStorage company release reposted by … |

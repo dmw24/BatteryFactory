@@ -1,0 +1,133 @@
+{
+ "task": "T107",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.electrive.com/2022/11/04/svolt-kicks-off-production-in-suining/",
+   "publisher": "electrive.com, SVOLT kicks off production in Suining (article dated 4 November 2022)",
+   "published": "2022-11-04",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "The Chinese battery manufacturer SVOLT has started production at its new factory in Suining in Sichuan province."
+  },
+  "S2": {
+   "url": "https://www.marklines.com/cn/news/278172",
+   "publisher": "MarkLines news (2022-11-02), SVOLT announces Suining power lithium-ion battery project in production",
+   "published": "2022-11-02",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "蜂巢能源科技股份有限公司[SVOLT Energy Technology Co., Ltd.]（蜂巢能源）宣布，四川省遂宁市动力锂离子电池项目投产。"
+  },
+  "S3": {
+   "url": "https://pdf.dfcfw.com/pdf/H3_AP202104301488765684_1.pdf",
+   "publisher": "Huaan Securities (华安证券) company note on Farasis (孚能科技, 688567), 2021-04-30; broker secondary source; PDF page 1 read as an image, quote line-wrapped after '8GWh' in the PDF",
+   "published": "2021-04-30",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "镇江基地共24GWh产能，其中一期8GWh在2020年6月开始投产运营，二期预计2021年投产，三期预计2022年建设完成"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2025-04-18/1223125812.PDF",
+   "publisher": "EVE Energy (亿纬锂能, 300014) 2024 annual report, section on rural revitalisation (local text team/evidence/filings/300014_2024.txt line 3670)",
+   "published": "2025-04-18",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "2024 年 1 月首条生产线全线贯通，项目全部达产后，年总产值将超百亿元"
+  },
+  "S5": {
+   "url": "https://news.pedaily.cn/20230727/64082.shtml",
+   "publisher": "Pedaily (投资界), 2023-07-27 (date from URL and page timestamp), SVOLT bases in mass production",
+   "published": "2023-07-27",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "同时蜂巢能源盐城基地、南京基地、湖州基地等多个基地陆续量产，产能爬坡速度加快，市场稳定供货能力持续提升。"
+  },
+  "S6": {
+   "url": "https://www.marklines.com/cn/news/296021",
+   "publisher": "MarkLines news, 2023-10-12 (article date shown on page), first cells of Dongyu Xinsheng (Sunwoda/Dongfeng JV, Yichang)",
+   "published": "2023-10-12",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "东风集团宣布，基于欣旺达东风宜昌动力电池生产基地项目成立的湖北东昱欣晟新能源有限公司首批电芯产品下线。"
+  },
+  "S7": {
+   "url": "https://zonghe.lwgcw.com/zonghe/2023/0706/66948.html",
+   "publisher": "lwgcw.com (综合), 2023-07-06 (date from URL), Great Power Quzhou base; year given only as 今年 (this year), so 2023 follows from the article date",
+   "published": "2023-07-06",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "其中一期项目已于今年6月19日正式点火投产"
+  },
+  "S8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2023-04-27/1216625879.PDF",
+   "publisher": "Great Power / Penghui Energy (鹏辉能源, 300438) 2022 annual report, business overview (local text team/evidence/filings/300438_2022.txt line 556); states status at report date, does not give the month/year of first production",
+   "published": "2023-04-27",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "规划布局产能 20GWh，项目一期 5.5GWh 已建成投产，项目二期 5GWh 也将于 2023 年投产"
+  },
+  "S9": {
+   "url": "https://www.blue-solutions.com/blue-solutions-will-produce-the-solid-state-batteries-of-the-future-in-france/",
+   "publisher": "Blue Solutions press release 17 May 2024 (company-level statement, not site-specific; only the first part of the sentence was seen via a summarising fetch, so the exact wording is unconfirmed)",
+   "published": "2024-05-17",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Since 2011, Blue Solutions has been the only company in the world to mass-produce solid-state batteries"
+  }
+ },
+ "rows": [
+  {
+   "id": "farasis-energy-farasis-energy-zhenjiang-plant-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2020
+   },
+   "evidence": {
+    "start_year": [
+     "S3"
+    ]
+   },
+   "notes": "[T107] start_year 2020 (phase 1, 8 GWh design, 'started production and operation' June 2020) from a single broker note (S3, Huaan 2021-04-30); the 2021 AR (T093) says phase 1 capacity was 'gradually released' in 2021, and the 2020 STAR prospectus (mid-2020) still listed Zhenjiang as under construction, which is consistent with a June 2020 start. No 2020 capacity step added: first-year output was ~0.85 GWh installed company-wide (same note) and the 2021 step of 8 GWh is kept."
+  },
+  {
+   "id": "svolt-honeycomb-energy-svolt-huzhou-plant-south-taihu-new-area-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2023
+   },
+   "evidence": {
+    "start_year": [
+     "S5"
+    ]
+   },
+   "notes": "[T107] start_year 2023: Pedaily 2023-07-27 lists the Huzhou base among SVOLT bases 'in mass production one after another'. Not a dated first-production event (the chinadaily 2023-05-08 page cited in the v1 timeline now returns 404; Huzhou first-cell date not found), so 2023 is 'by July 2023'. Note this contradicts nothing in T008 but sits beside the SVOLT June-2023 filing that gave 2022-12-31 as 'not yet in production'. Status question (T008) is untouched; no capacity step."
+  },
+  {
+   "id": "sunwoda-sunwoda-yichang-power-battery-production-base-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2023
+   },
+   "evidence": {
+    "start_year": [
+     "S6"
+    ]
+   },
+   "notes": "[T107] start_year 2023: first batch of cells off the line (首批电芯产品下线) at Hubei Dongyu Xinsheng, reported 2023-10-12. The page is a first-cell roll-off, not a 投产 statement; later evidence of production is the 2026-05-25 120Ah cell production event (T007). The v1 timeline's '313 days' and 10 Oct 2023 date were not re-found (en.sunwoda.com page 404). No capacity step (the 20 GWh phase-1 nameplate is a design figure)."
+  },
+  {
+   "id": "quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2023
+   },
+   "evidence": {
+    "start_year": [
+     "S7"
+    ]
+   },
+   "notes": "[T107] start_year 2023: phase 1 'officially ignited and put into production on 19 June this year' in an article dated 2023-07-06; consistent with the 2022 annual report (S8 not used here) that expected phase 1 in H2 2023 and the 2023 AR listing Quzhou among the bases. The year is inferred from the article date because the quote says 今年; the date does not coincide with an older article (groundbreaking was 2022-10-18). Existing {2023: 11} step kept; this source gives no GWh."
+  }
+ ]
+}
