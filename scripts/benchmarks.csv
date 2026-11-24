@@ -34,3 +34,4 @@ BNEF,2023,2600,capacity,"'close to 2,600 GWh' global battery manufacturing capac
 BNEF,2024,3100,commissioned,"'3.1 terawatt-hours of fully commissioned battery-cell' capacity (BNEF free page) — T079"
 Benchmark,2020,734,capacity,"'In 2020, battery cell production capacity was around 734GWh' (Benchmark free page) — T079"
 Benchmark,2025,4800,capacity,"'gigafactory capacity hit 4.8TWh' (Benchmark free page; output 2.2 TWh same year) — T079"
+IEA-GEVO2023,2022,1500,nameplate,"IEA Global EV Outlook 2023 'Trends in batteries': current Li-ion manufacturing capacity 'around 1 500 GWh' (seen via search result of iea.org page; iea.org 403 to fetch). IEA's later 2024 report implies ~1,720 for 2022 (2.5 TWh 2023 minus 780 added) - revised/wider basis"

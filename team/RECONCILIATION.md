@@ -138,3 +138,13 @@ By status (never summed into one figure): operational plants' full site plans 6.
 (Batteries and Secure Energy Transitions, via search result); Benchmark ">10 TWh" 2030 pipeline (free page); BNEF
 7.9 TWh announced for end-2025. Our planned totals are of the same order. Freshness: 48 non-operational projects have
 no source after mid-2025 (T096 checks them). Series D/D-high by year: 2026 4.4/5.9, 2027 4.7/6.2, 2030 4.8/6.3 TWh.
+
+## History status after round 2 (2026-11-24)
+Sourced D / F (D + modelled backfill + unallocated), TWh: 2018 0.07/0.17 · 2020 0.23/0.36 · 2021 0.48/0.56 · 2022 1.04/1.23 ·
+2023 1.77/2.06 · 2024 2.11/2.52 · 2025 3.42/3.47. Benchmarks: Benchmark 2020 0.73; IEA 2022 ~1.5 (GEVO 2023) or ~1.72 (implied by
+the 2024 report); IEA/BNEF 2023 2.5/2.6; 2024 3.0/3.1; 2025 >4.0. F reaches ~49% (2020), ~72–82% (2022), ~80% (2023), ~82% (2024),
+~87% (2025). What was done: series bug fixed (pre-anchor sourced steps now count; no full-plan credit before an installed anchor);
+~40 plant histories sourced (T073, T080–T081, T092–T094, T099); company histories from IPO prospectuses (CATL 2015–2017, 2019;
+Farasis 2017–2019); survivorship search (T095: Waterma, Aoyou, Guoneng, JEVE… — only company-level totals exist).
+Remaining gap is concentrated in China 2018–2022: closed tier-2/3 makers whose site capacity was never published, and plants
+whose current capacity is known but whose ramp is not. Open sources do not close it plant by plant.
