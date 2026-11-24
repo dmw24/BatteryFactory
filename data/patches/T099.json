@@ -1,0 +1,130 @@
+{
+  "task": "T099",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "http://www.pv-magazine-india.com/2025/07/14/ola-electric-targets-full-5-gwh-battery-cell-capacity-by-the-end-of-fy2026/",
+      "publisher": "pv magazine India, Ola Electric targets full 5 GWh battery cell capacity by the end of FY2026",
+      "published": "2025-07-14",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The company, with a current capacity of 1.4 GWh, began in-house production of its advanced 4680-format Bharat Cell this year"
+    },
+    "S2": {
+      "url": "https://www.jiemian.com/article/10555069.html",
+      "publisher": "Jiemian (界面新闻), REPT Battero Wenzhou phase 1 timeline",
+      "published": "2023-12-18",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2018年10月，瑞浦兰钧温州一期3GWh生产线进行批量试产，并于2019年4月实现锂离子电池的批量交付。"
+    },
+    "S3": {
+      "url": "https://www.huxiu.com/article/4890758.html",
+      "publisher": "Huxiu (虎嗅), Chuneng New Energy bases (page timestamp 2026-09-13)",
+      "published": "2026-09-13",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "该基地一期项目已于2025年6月28日投产，设计年产能为35GWh。"
+    },
+    "S4": {
+      "url": "https://www.nationthailand.com/business/40009916",
+      "publisher": "The Nation Thailand, EA announces the success of grand opening of the first Gigafactory (article dated 2021-12-13)",
+      "published": "2021-12-13",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "after the commercial launch of Amita Technology (Thailand)"
+    },
+    "S5": {
+      "url": "https://news.metal.com/newscontent/102342300",
+      "publisher": "SMM (news.metal.com), Yuanhang Jinli energy storage cell phase I commissioning ceremony",
+      "published": "2023-08-22",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "which has been fully commissioned and has a total capacity of 5GWh"
+    },
+    "S6": {
+      "url": "https://www.marklines.com/cn/news/245159",
+      "publisher": "MarkLines, Shanghai Electric Guoxuan Nantong plant commissioning (article dated 2020-09-29)",
+      "published": "2020-09-29",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "目前投产的一期项目年产能为5GWh，投资额15亿元。"
+    }
+  },
+  "rows": [
+    {
+      "id": "ola-cell-technologies-ola-gigafactory-krishnagiri-india",
+      "action": "update",
+      "fields": {
+        "start_year": 2025,
+        "capacity_by_year_json": "{\"2025\": 1.4, \"2026\": 6}"
+      },
+      "evidence": {
+        "start_year": ["S1"],
+        "capacity_by_year_json": ["S1"]
+      },
+      "notes": "[T099] start_year 2025: pv magazine India 2025-07-14 (S1) says Ola 'began in-house production of its advanced 4680-format Bharat Cell this year' (2025); the same sentence gives current capacity 1.4 GWh (July 2025, company/press basis) -> step 2025 = 1.4 added, existing 2026 = 6 step kept. Other press (not cited) shows trial production in Aug 2024 and S1 Pro+ deliveries with the cell from ~Dec 2025; the first commercial in-house cell production year is taken as 2025 per S1. The quote was returned by the fetch tool's summary of the page: auditor should string-match."
+    },
+    {
+      "id": "rept-battero-rept-battero-wenzhou-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2019,
+        "capacity_by_year_json": "{\"2019\": 3}"
+      },
+      "evidence": {
+        "start_year": ["S2"],
+        "capacity_by_year_json": ["S2"]
+      },
+      "notes": "[T099] start_year 2019: Jiemian 2023-12-18 (S2): phase-1 3 GWh line did batch trial production in Oct 2018 and 'achieved batch delivery of lithium-ion batteries in April 2019'. I take first commercial production = first batch delivery = 2019 (trial production Oct 2018 is not counted; if the lead counts trial runs, 2018 applies). Step 2019 = 3 is the phase-1 line capacity named in the same sentence (design/line basis, not an audited installed figure). Phase 2 (8 GWh, planned H2 2021) and phase 3 production years not found; no later steps. Quote returned by fetch tool summary: auditor should string-match."
+    },
+    {
+      "id": "chuneng-new-energy-chuneng-new-energy-xiaogan-base-xiaogan-lithium-battery-industrial-park-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2025
+      },
+      "evidence": {
+        "start_year": ["S3"]
+      },
+      "notes": "[T099] start_year 2025, LOW-MEDIUM confidence: Huxiu (S3, page timestamp 2026-09-13) states the Xiaogan base phase 1 'has been put into production on 28 June 2025' with design capacity 35 GWh/yr (matches the existing 2025 = 35 step). The same article calls Xiaogan the earliest-built base and HQ, and gives Wuhan phase 1 as the company's first production (Nov 2022, 10 GWh), so an earlier pilot line at Xiaogan cannot be excluded; no source found for one. Secondary media source (not company); quote returned by fetch tool summary: auditor should string-match."
+    },
+    {
+      "id": "amita-technology-thailand-amita-technology-gigafactory-eec-thailand",
+      "action": "update",
+      "fields": {
+        "start_year": 2021
+      },
+      "evidence": {
+        "start_year": ["S4"]
+      },
+      "notes": "[T099] start_year 2021: The Nation Thailand 2021-12-13 (S4), headline 'EA announces the success of grand opening of the first Gigafactory', refers to 'the commercial launch of Amita Technology (Thailand)' and gives initial capacity 1 GWh/yr (same page: 'has an initial capacity of 1 GWh per year.'), matching the existing 2021 = 1 step. Weakness: the article is about the opening ceremony; it does not say cells were first sold in Dec 2021, and it does not name Chachoengsao (only the EEC). Search summaries (Bangkok Post, not fetched) say the plant passed a trial run after a COVID delay before the 12 Dec 2021 opening. Quote returned by fetch tool summary: auditor should string-match."
+    },
+    {
+      "id": "jiangsu-yuanhang-jinli-new-energy-yuanhang-jinli-yancheng-yandu-cell-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2023\": 5}"
+      },
+      "evidence": {
+        "start_year": ["S5"],
+        "capacity_by_year_json": ["S5"]
+      },
+      "notes": "[T099] start_year 2023 and step 2023 = 5: SMM 2023-08-22 (S5) reports that on 19 August (2023) Jiangsu Yuanhang Jinli held a ceremony for the first phase of energy storage cell commissioning (投产); the CNY 3 bn project 'has been fully commissioned and has a total capacity of 5GWh' (press basis, project capacity at commissioning). The same report says a CNY 5 bn phase 2 was signed that day (no production date; no later step). Only the English SMM text was read; the original Chinese wording was not seen. Quote returned by fetch tool summary: auditor should string-match."
+    },
+    {
+      "id": "shanghai-electric-gotion-new-energy-technology-nantong-co-ltd-shanghai-electric-gotion-new-energy-nantong-energy-storage-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2020,
+        "capacity_by_year_json": "{\"2020\": 5}"
+      },
+      "evidence": {
+        "start_year": ["S6"],
+        "capacity_by_year_json": ["S6"]
+      },
+      "notes": "[T099] start_year 2020 and step 2020 = 5: MarkLines 2020-09-29 (S6) reports the Nantong new plant held its commissioning (投产) ceremony and 'the phase 1 project now in production has an annual capacity of 5GWh, investment CNY 1.5 bn' (press basis). Search summaries of Shanghai Electric's own disclosure (shanghai-electric.com 2020-11-04 page; returned HTTP 521 to the fetcher, so NOT cited) say trial feed-in July 2020 and full output by end-September 2020, consistent with 2020. Phase 2 (to 10 GWh planned, 8 GWh mentioned in an SMM headline) not sourced; no later step. Quote returned by fetch tool summary: auditor should string-match."
+    }
+  ]
+}

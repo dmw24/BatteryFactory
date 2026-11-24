@@ -44,12 +44,15 @@ C = [tw(q[y][0]) for y in years]
 D = [tw(q[y][1]) for y in years]
 DH = [tw(q[y][2]) for y in years]
 E = [tw(e[y]) for y in years]
+fser = {int(r["year"]): float(r["gwh_series_f"]) for r in csv.DictReader(open("capacity_by_year_f.csv"))}
+F = [tw(fser[y]) for y in years]
 
 fig = plt.figure(figsize=(10, 6.2), dpi=200)
 ax = fig.add_axes([0.08, 0.2, 0.74, 0.58])
 ax.fill_between(years, D, DH, color=HL, alpha=0.15, linewidth=0)
 ax.plot(years, C, color=TOTAL, lw=2)
 ax.plot(years, E, color=HL, lw=2.5)
+ax.plot(years, F, color=HL, lw=1.8, ls=(0, (4, 3)))
 style = {"IEA": (HL2, "o"), "BNEF": (INK, "s"), "Benchmark": (SUB, "^")}
 for b in bench:
     y, v = int(b["year"]), float(b["gwh"]) / 1000
@@ -75,6 +78,7 @@ fig.text(0.08, 0.93, f"Bottom-up cell capacity reaches {share:.0f}% of the IEA f
 fig.text(0.08, 0.885, f"Lithium-ion battery cell manufacturing capacity (TWh per year), global, {years[0]}–{last}",
          fontsize=10, color=SUB)
 handles = [Line2D([], [], color=HL, lw=2.5, label="Ours: Series E (IEA basis + unallocated company capacity)"),
+           Line2D([], [], color=HL, lw=1.8, ls=(0, (4, 3)), label="Ours: F = E + modelled history backfill (estimate)"),
            Line2D([], [], color=HL, lw=8, alpha=0.15, label="Ours: IEA-basis range (D to D-high)"),
            Line2D([], [], color=TOTAL, lw=2, label="Ours: actually producing (C)"),
            Line2D([], [], color=HL2, marker="o", lw=0, label="IEA"),
@@ -83,8 +87,8 @@ handles = [Line2D([], [], color=HL, lw=2.5, label="Ours: Series E (IEA basis + u
 fig.legend(handles=handles, loc="upper left", bbox_to_anchor=(0.075, 0.87), ncol=3, frameon=False, fontsize=8,
            labelcolor=INK)
 fig.text(0.08, 0.10, "Hollow IEA markers (2021–2022) are back-calculated from IEA's stated annual additions, not IEA "
-         "figures. IEA and Benchmark are not independent (IEA uses Benchmark data). Series E excludes converted Ah "
-         "estimates.", fontsize=7.5, color=SUB, wrap=True)
+         "figures. IEA and Benchmark are not independent (IEA uses Benchmark data). Dashed: modelled estimate (linear "
+         "ramp from start year, capped by company disclosures); plants that closed before 2025 are largely missing.", fontsize=7.5, color=SUB, wrap=True)
 fig.text(0.08, 0.06, "Source: Cell gigafactory database v2; IEA GEVO 2026; BNEF and Benchmark free pages", fontsize=7.5, color=SUB)
 fig.text(0.98, 0.06, WATERMARK, fontsize=7.5, color=SUB, ha="right")
 fig.savefig("charts/capacity_vs_benchmarks.png")
