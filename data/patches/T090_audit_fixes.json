@@ -1,0 +1,88 @@
+{
+ "task": "T090",
+ "verified_on": "2026-11-24",
+ "sources": {},
+ "rows": [
+  {
+   "id": "jiangsu-zenergy-suzhou-xiangcheng-plant-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.5,
+    "capacity_ref_year": 2026,
+    "plant_name": "Zenergy new 50 GWh battery base (Changshu High-tech Zone per Jiemian/STCN; English press says Xiangcheng, Suzhou)"
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): location conflict (常熟高新区 vs Xiangcheng) unresolved; ESS News unreliable on Zenergy (its ~45 GWh contradicts the company's 35.5). ref_year: fallback, searched (2028 rested only on ESS News). confidence 0.62 not earned -> 0.5."
+  },
+  {
+   "id": "jiangsu-zenergy-zenergy-changshu-plant-china",
+   "action": "fix",
+   "fields": {
+    "capacity_ref_year": 2026
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): ref_year 2027 was the IPO use-of-proceeds deadline, not a completion date; company via SMM: 'Phase II, scheduled for completion by the end of 2026'. ref_year: latest dated phase; remainder undated (20 GWh storage project). Installed 35.5 is company-wide but supported (25.5 + Changshu new phase I 10 in Q4 2025) - logged exception; Nanjing row must stay without capacity."
+  },
+  {
+   "id": "wanxiang-a123-wanxiang-a123-hangzhou-plant-wanxiang-innovation-energy-city-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.5
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): confidence 0.62 not earned: the two outlets are one syndicated visit report (EnergyTrend copies itdcw). ref_year 2024 rested on 一期24GWh厂房已完成建设 (building complete) - not a phase date: ref_year: fallback, searched. ESCALATE stands."
+  },
+  {
+   "id": "statevolt-statevolt-imperial-valley-gigafactory-united-states",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.5
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): confidence 0.62 not earned: capacity is a 2022 plan; Aug-2024 CEO letter pivots to storage/UAE; no news after Aug 2024. Paused inference is sound: the letter names 'the Imperial project' in the sentence before 'While our California operations are currently on hold'."
+  },
+  {
+   "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.5,
+    "capacity_ref_year": 2024
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): two tasks disagreed (T084 0.62 / T085 0.5; T085 derived ref 2026 from 'within 3 years of production'). Lead: confidence 0.5 (title bundles battery + storage system; no installed figure); ref_year: fallback, searched (2024) - derived years not used."
+  },
+  {
+   "id": "tianjin-rongsheng-mengguli-new-energy-mengguli-tianjin-baodi-manufacturing-base-china",
+   "action": "fix",
+   "fields": {
+    "capacity_ref_year": 2023
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): ref_year 2020 was a phase-2 PLAN not met (2023 company site shows Baodi 3 GWh). ref_year: fallback, searched (2023, publication year of S12)."
+  },
+  {
+   "id": "chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "source_published_date": "2026-09-14"
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): CLS 2026-09-14: '这座待投产的30GWh产能' supports under_construction. Cells+modules+PACK of the same line: counted as cell capacity per D-031."
+  },
+  {
+   "id": "inner-mongolia-juneng-zhengxin-energy-storage-technology-hohhot-50gwh-sodium-ion-park-china",
+   "action": "fix",
+   "fields": {
+    "capacity_ref_year": 2024
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): ref_year 2026 was GlobalData's construction-completion estimate, not a phase date: ref_year: fallback, searched (2024). Operator unresolved (World Construction Network: JP Solar; EnergyTrend: Great Power). Hohhot and Ordos Juungar parks have identical structure (5bn/10 GWh + 15bn/40 GWh) - possibly one sponsor/template; ESCALATE before counting both in pipeline."
+  },
+  {
+   "id": "shanwei-findreams-battery-shanwei-fudi-haifeng-meilong-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.65
+   },
+   "notes": "AUDIT T083 fix (lead 2026-11-24): confidence restated: two agreeing fetched sources (碳索储能网/维科网 2025-08-19 and 中国能源报 2025-08-25) on 15 GWh and EIA stage; 0.6 exactly is not allowed."
+  },
+  {
+   "id": "calb-calb-changzhou-jintan-battery-base-china",
+   "action": "fix",
+   "fields": {},
+   "notes": "AUDIT T083 fix (lead 2026-11-24): ref_year 2026 is phase 4 'commence production', not full capacity, and phases 5-6 have no GWh: ref_year: latest dated phase; remainder undated."
+  }
+ ]
+}

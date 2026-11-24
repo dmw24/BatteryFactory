@@ -68,3 +68,17 @@ A disclosed GWh figure for the same company-year always wins. Applied: Great Pow
 nominal; cross-check: 2025 → 27.7 GWh vs press "annual capacity ~28.7 GWh" end-Q3 2025). NOT applied: EVE and Sunwoda
 report capacity as cell counts (万只) mixing consumer cells of a few Wh with 280 Ah storage cells (and EVE's counts
 include primary batteries) — no defensible per-cell energy; Gotion reports Ah output only, not capacity.
+
+## D-031 — One rule for "cells + modules + PACK" wording (T083 audit, systemic issue 4; lead 2026-11-24) — pending owner
+D-026 was applied inconsistently. Rule: a GWh figure for an integrated line that makes cells and assembles them into
+modules/packs at the same site (电芯、模组和PACK; "cells, modules and packs") counts as CELL capacity — the GWh is
+the cell throughput. D-026 (nameplate null) applies only when the figure adds different products (storage
+systems/containers, power stations, equipment, materials) or when it is unclear that the site makes cells at all
+(Geely Ganzhou: electrive says it is unclear whether Geely makes cells there → stays null).
+
+## D-032 — Reference-year basis read from the latest statement; partial dating gets no full credit (T083 audit)
+Series D credits a plant's full nameplate from capacity_ref_year only when the LAST reference-year statement in its
+notes is neither "fallback" nor D-021 "latest dated phase; remainder undated". Otherwise D credits dated
+capacity_by_year_json steps only (D-high still credits the full plan). Construction-complete (建设完成/厂房已完成),
+IPO use-of-proceeds deadlines and construction-tracker completion estimates are not phase years.
+Effect: D 2023/2024/2025 = 1,647 / 2,018 / 3,349 GWh (was 1,732 / 2,172 / 3,429).

@@ -1,466 +1,557 @@
 {
-  "task": "T084",
-  "verified_on": "2026-11-24",
-  "sources": {
-    "S1": {
-      "url": "https://www.chinadaily.com.cn/a/202305/15/WS6461f77aa310b6054fad30d0.html",
-      "publisher": "China Daily, Zenergy new battery plant in Changshu",
-      "published": "2023-05-15",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Chinese battery maker Zenergy's new 25 GWh plant has started operations in Changshu"
-    },
-    "S2": {
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-      "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
-      "published": "2026-04-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "By the end of 2025, the Company had added 10 GWh of newly ... commenced capacity, bringing its total capacity to 35.5 GWh at"
-    },
-    "S3": {
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-      "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
-      "published": "2026-04-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "of the Phase II 15 GWh high-energy-density fast-charging"
-    },
-    "S4": {
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-      "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
-      "published": "2026-04-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "plant premises of Phase II of the new ... we have added a 20 GWh intelligent"
-    },
-    "S5": {
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-      "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677), use-of-proceeds table",
-      "published": "2026-04-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "the construction of Phase II of the new Changshu production facility ... 31 December 2027"
-    },
-    "S6": {
-      "url": "https://news.metal.com/newscontent/103577752/ZENERGY-to-raise-HK504-million-through-discounted-H-share-placement",
-      "publisher": "SMM (news.metal.com), ZENERGY to raise HK$504 million through discounted H-share placement",
-      "published": "2025-10-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "ZENERGY currently operates at full capacity with an annual production of 25.5 GWh."
-    },
-    "S7": {
-      "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
-      "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
-      "published": "2026-03-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "By the end of 2025, Zenergy had around 45 GWh of commissioned capacity across Suzhou, Nanjing, Ganzhou, and Yibin."
-    },
-    "S8": {
-      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-      "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
-      "published": "2026-04-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "in March 2026, we signed an intention agreement ... in relation to a 50 GWh intelligent flexible manufacturing"
-    },
-    "S9": {
-      "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
-      "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
-      "published": "2026-03-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Phase two will add another 25 GWh and is expected to be completed in 2028."
-    },
-    "S10": {
-      "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
-      "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
-      "published": "2026-03-23",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Phase one with 25 GWh of capacity will start construction in the second half of 2026"
-    },
-    "S11": {
-      "url": "https://m.jiemian.com/article/14132618.html",
-      "publisher": "Jiemian News (mobile), Zenergy 50 GWh long-duration storage project signing (page shows no dateline; 2026-03-19 inferred from the image path 20260319; signing date 17 March)",
-      "published": "2026-03-19",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "3月17日，正力新能50GWh新一代大容量长时储能智能制造项目签约落户苏州常熟高新区，总投资达到100亿元。"
-    },
-    "S12": {
-      "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
-      "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
-      "published": "2026-08-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "The facility is planned in three phases with a total capacity of 45 GWh, with each phase contributing 15 GWh."
-    },
-    "S13": {
-      "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
-      "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
-      "published": "2026-08-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "has officially entered the stable mass-production phase"
-    },
-    "S14": {
-      "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
-      "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
-      "published": "2026-08-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Currently, the second phase of the project is accelerating through the contract signing and groundbreaking stages."
-    },
-    "S15": {
-      "url": "https://cnevpost.com/2024/02/02/byd-faw-battery-project-goes-into-production/",
-      "publisher": "CnEVPost, BYD-FAW battery project goes into production (reports FAW-FinDreams statement)",
-      "published": "2024-02-02",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Its initial production capacity is 15 GWh ... went into production on February 2 ... total planned capacity of 45 GWh"
-    },
-    "S16": {
-      "url": "https://www.thedesertreview.com/opinion/letters_to_editor/adapting-to-change-statevolt-s-strategic-shift/article_015fe102-5516-11ef-83c6-9f730e6e3afe.html",
-      "publisher": "The Desert Review (Imperial Valley), letter to the editor by Statevolt founder/CEO Lars Carlstrom, Adapting to change: Statevolt's strategic shift",
-      "published": "2024-08-07",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "While our California operations are currently on hold"
-    },
-    "S17": {
-      "url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
-      "publisher": "pv magazine USA",
-      "published": "2023-01-24",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "its 54 GWh U.S. Gigafactory to be one of the largest in North America"
-    },
-    "S18": {
-      "url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
-      "publisher": "pv magazine USA",
-      "published": "2023-01-24",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "The EV battery manufacturer purchased 135 acres in Imperial Valley, California near the Salton Sea"
-    },
-    "S19": {
-      "url": "https://www.marklines.com/en/news/253909",
-      "publisher": "MarkLines (teaser, lead paragraph visible without login), Geely commences construction of first stage power battery project in Ganzhou, Jiangxi",
-      "published": "2021-05-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "With Geely Technology Group as the investor, this project will mainly produce power battery cells, modules and packs."
-    },
-    "S20": {
-      "url": "https://www.marklines.com/en/news/253909",
-      "publisher": "MarkLines (teaser, lead paragraph visible without login), Geely commences construction of first stage power battery project in Ganzhou, Jiangxi",
-      "published": "2021-05-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "It is planned to achieve an annual capacity of 42GWh"
-    },
-    "S21": {
-      "url": "https://www.electrive.com/2021/03/15/geely-looks-to-build-battery-factory-for-42-gwh-in-china",
-      "publisher": "electrive.com, Geely looks to build battery factory for 42 GWh in China",
-      "published": "2021-03-15",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "It is also unclear whether Geely will manufacture battery cells or focus on assembly."
-    },
-    "S22": {
-      "url": "https://www.electrive.com/2021/03/15/geely-looks-to-build-battery-factory-for-42-gwh-in-china",
-      "publisher": "electrive.com, Geely looks to build battery factory for 42 GWh in China",
-      "published": "2021-03-15",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "While the announcement appears detailed enough, an actual schedule is missing."
-    },
-    "S23": {
-      "url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
-      "publisher": "Sina Finance (Nanchang municipal release)",
-      "published": "2024-03-04",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "投资总额200亿元，分四期建设，年规划动力电池产能50GWh，现已完成一、二、三期项目，落地年产能35.9GWh。"
-    },
-    "S24": {
-      "url": "https://auto.gasgoo.com/news/202108/13I70268074C501.shtml",
-      "publisher": "Gasgoo (auto.gasgoo.com), Sunwoda Nanchang power battery production base",
-      "published": "2021-08-13",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "完成建设后达到年产动力电池和储能电池50GWh的产能"
-    },
-    "S25": {
-      "url": "https://www.itdcw.com/news/ycnews/0329140L22024.html",
-      "publisher": "itdcw 电池网 (电池百人会), Wanxiang A123 Energy City",
-      "published": "2024-03-29",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "产能方面，万向一二三在聚能城总体规划80GWh，其中一期24GWh厂房已完成建设，首条3.85GWh产线正式投产；二期32GWh前期的设计工作已在开展中。"
-    },
-    "S26": {
-      "url": "https://www.energytrend.cn/news/20240412-135068.html",
-      "publisher": "EnergyTrend CN",
-      "published": "2024-04-12",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "近日，万向一二三实施的万向创新聚能城项目一期24GWh厂房已完成建设，首条3.85GWh产线正式投产。"
-    },
-    "S27": {
-      "url": "https://www.energytrend.com/print/48392",
-      "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
-      "published": "2024-09-12",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "the 45 GWh power battery and energy storage system project in the East New City Lingli Industrial Zone"
-    },
-    "S28": {
-      "url": "https://www.energytrend.com/print/48392",
-      "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
-      "published": "2024-09-12",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "with the other two projects partially operational"
-    },
-    "S29": {
-      "url": "https://www.energytrend.com/print/48392",
-      "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
-      "published": "2024-09-12",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Together, these projects will achieve a total capacity of 70 GWh"
-    },
-    "S30": {
-      "url": "https://laoyaoba.com/n/814355",
-      "publisher": "iJiwei / 爱集微, 比亚迪拟140亿元在广西南宁投建45GWh动力电池及储能系统项目",
-      "published": "2022-04-13",
-      "accessed": "2026-11-20",
-      "language": "zh",
-      "quote": "广西弗迪年产45GWh动力电池及储能系统项目 ... 南宁市青秀区伶俐工业园 ... 计划投资约140亿元"
-    },
-    "S31": {
-      "url": "https://www.ahchanye.com/zixun/34858.html",
-      "publisher": "安徽产业网 (ahchanye.com), reprint of 美好全椒, Chuzhou Lishen New Energy base put into production",
-      "published": "2023-10-31",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "建设年产22GWh电池项目，其中动力电池8GWh、储能电池14GWh"
-    },
-    "S32": {
-      "url": "https://www.ahchanye.com/zixun/34858.html",
-      "publisher": "安徽产业网 (ahchanye.com), reprint of 美好全椒, Chuzhou Lishen New Energy base put into production",
-      "published": "2023-10-31",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "二期年产20GWh储能电池项目已正式签约，将在明年上半年开工建设"
-    }
+ "task": "T084",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.chinadaily.com.cn/a/202305/15/WS6461f77aa310b6054fad30d0.html",
+   "publisher": "China Daily, Zenergy new battery plant in Changshu",
+   "published": "2023-05-15",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Chinese battery maker Zenergy's new 25 GWh plant has started operations in Changshu"
   },
-  "rows": [
-    {
-      "id": "jiangsu-zenergy-zenergy-changshu-plant-china",
-      "action": "update",
-      "fields": {
-        "status": "operational",
-        "start_year": 2023,
-        "nameplate_capacity_gwh": 70.5,
-        "capacity_ref_year": 2027,
-        "capacity_by_year_json": "{\"2023\": 25, \"2025\": 35.5}",
-        "installed_capacity_gwh": 35.5,
-        "installed_as_of": "2025-12-31",
-        "site_type": "single_site",
-        "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
-        "source_date": "2026-11-24",
-        "source_published_date": "2026-04-23"
-      },
-      "evidence": {
-        "status": ["S1", "S2"],
-        "start_year": ["S1"],
-        "installed_capacity_gwh": ["S2", "S1", "S6"],
-        "nameplate_capacity_gwh": ["S2", "S3", "S4"],
-        "capacity_ref_year": ["S5"],
-        "capacity_by_year_json": ["S1", "S2"]
-      },
-      "confidence": 0.65,
-      "notes": "[T084] Resolves the T009 ESCALATE (company-wide 35.5 GWh parked on this row). Company annual report (S2, HKEX, 2026-04-23): 10 GWh newly commenced in 2025, total capacity 35.5 GWh at year-end; Phase II 15 GWh (S3) and a further 20 GWh storage project (S4) at the new Changshu plant. Why 35.5 is a fair Changshu figure: the Changshu plant is stated as 25 GWh in 2023 (S1) and the company total was 25.5 GWh when the placing was announced Oct-2025 (S6), so at most ~0.5 GWh (1.4%) of the 35.5 total can sit outside the original Changshu plant (the Nanjing base, whose HEV lines the AR says were impaired); the 2025 +10 GWh is Phase I of the new Changshu plant (S6; AR Phase II wording S3 and use-of-proceeds table S5). installed basis: company, company-wide total (all sites) with the Changshu share inferred as >= 35.0 GWh; within the 15% tolerance, so no cap. Nameplate 70.5 = 35.5 installed + Phase II 15 (S3, due 'Before 31 December 2027' per S5) + 20 GWh storage project on the Phase II premises (S4, undated) - D-014; ref_year 2027: latest dated phase; remainder undated (the Oct-2025 placing article S6 said Phase II would finish end-2026; the later AR table S5 says 31 Dec 2027 and wins). capacity_by_year_json: dropped the v1/T009 2026 = 50.5 step because that is the superseded Oct-2025 plan (D-017); the 2023 = 25 step is the plant design capacity at start (S1), 2025 = 35.5 the AR figure; no Phase II step is entered because its completion year conflicts (end-2026 vs end-2027) and is undated in the 20 GWh project. CONFLICT noted and not used: ESS News 2026-03-23 (S7) says ~45 GWh commissioned across 'Suzhou, Nanjing, Ganzhou, and Yibin' - single English outlet, 27% above the company's own AR figure, and names sites Zenergy does not list in its AR; the AR (company, later) wins per CONVENTIONS. start_year 2023 from S1 (plant started operations in Changshu; page dated 2023-05-15; T073 had the 2023-05-09 date). Not touched: chemistry/end_market (v1, reported tier, flagged by T031); cell_format null. Remaining uncertainty: no site-level breakdown of the 35.5 GWh, Phase II timing."
-    },
-    {
-      "id": "jiangsu-zenergy-suzhou-xiangcheng-plant-china",
-      "action": "update",
-      "fields": {
-        "status": "announced",
-        "nameplate_capacity_gwh": 50,
-        "capacity_ref_year": 2028,
-        "site_type": "single_site",
-        "source_url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
-        "source_date": "2026-11-24",
-        "source_published_date": "2026-03-23"
-      },
-      "evidence": {
-        "status": ["S8", "S10", "S11"],
-        "nameplate_capacity_gwh": ["S8", "S9", "S11"],
-        "capacity_ref_year": ["S9", "S10"]
-      },
-      "confidence": 0.62,
-      "notes": "[T084] Confidence 0.4 -> 0.62: the 50 GWh long-duration storage project and its 'intention agreement' status are now confirmed by the company's own FY2025 annual report (S8, 2026-04-23) and by two press outlets (ESS News S9/S10; Jiemian S11, Chinese). Status announced (D-020): intention agreement only; ESS News S10 says phase 1 construction starts in H2 2026 - no construction report found (a Chinese search on 2026-11-24 returned nothing after the March signing). nameplate 50 = two 25 GWh phases (S9: 'Phase two will add another 25 GWh'; phase 1 25 GWh per ESS News). ref_year 2028 = phase 2 completion (S9; phase 1 production Q3 2027, S10): latest dated phase. LOCATION CONFLICT (unresolved, not affecting capacity/status): ESS News (S9/S10 page) places the project in Suzhou Xiangcheng Economic and Technological Development Zone, whereas Jiemian (S11) says it settled in Suzhou Changshu High-tech Zone (苏州常熟高新区); the AR (S8) names no location. The row's id/plant_name say Xiangcheng, so the plant_name should be treated as provisional; Changshu High-tech Zone is a different zone from the existing Changshu plant (Southeast zone) but this was not verified, so it is kept as a separate row (not merged into the Changshu row); the 20 GWh storage project in the AR (S4 on Changshu row) is a different, smaller project on Phase II premises. Investment differs by outlet (RMB 10bn Jiemian vs ~5.2bn ESS News) - not used. Product: 588Ah large-format cells (long-duration ESS) so it is cell capacity, not bundled. Long-duration chemistry may fall under data/reference/non_comparable.csv - not decided here. Coordinates remain null."
-    },
-    {
-      "id": "faw-findreams-new-energy-technology-co-ltd-faw-findreams-changchun-plant-changchun-power-battery-base-china",
-      "action": "update",
-      "fields": {
-        "status": "operational",
-        "start_year": 2024,
-        "nameplate_capacity_gwh": 45,
-        "capacity_ref_year": 2024,
-        "installed_capacity_gwh": 15,
-        "installed_as_of": "2026-08-15",
-        "site_type": "single_site",
-        "source_url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
-        "source_date": "2026-11-24",
-        "source_published_date": "2026-08-20"
-      },
-      "evidence": {
-        "status": ["S13", "S15"],
-        "start_year": ["S15"],
-        "nameplate_capacity_gwh": ["S12", "S15"],
-        "capacity_ref_year": ["S15"],
-        "installed_capacity_gwh": ["S12", "S13", "S15"]
-      },
-      "confidence": 0.7,
-      "notes": "[T084] Confidence 0.5 -> 0.7: the T032 ESCALATE (only a Feb-2024 source) is resolved by a fresh, independent 2026 source. CarNewsChina 2026-08-20 (S12-S14, citing a Jilin TV report of 2026-08-15) states the FAW-FinDreams project is planned in three phases, 45 GWh total, 15 GWh each; phase 1 is in the stable mass-production phase (S13); phase 2 is only at contract signing/groundbreaking stage (S14). This agrees with the CnEVPost 2024-02-02 FAW-FinDreams statement (S15: initial capacity 15 GWh, production from 2 Feb, total plan 45 GWh; quote as recorded in T032, not re-fetched by me). Installed 15 GWh as of 2026-08-15 = phase 1 design capacity in stable mass production (installed basis: press relaying company/TV; phase 1 = 15 GWh in both sources). Nameplate 45 (D-014: phases 2 and 3 stated with GWh, undated); ref_year 2024: latest dated phase (phase 1 production start); remainder undated (phase 2 groundbreaking only in 2026). The CarNewsChina text states phase-1 investment as '70 billion yuan' (10.3 bn USD), which is obviously a unit slip (Chinese report says RMB 7 bn) and is not used; the article does not name Changchun but describes the FAW-FinDreams power battery project (the only FAW-FinDreams plant); identification rests on the FAW-FinDreams name. Not changed: chemistry LFP, cell_format prismatic, end_market EV, jv_partners (v1, reported tier). Phase 2 (15 GWh) is not counted as installed."
-    },
-    {
-      "id": "statevolt-statevolt-imperial-valley-gigafactory-united-states",
-      "action": "update",
-      "fields": {
-        "status": "announced",
-        "project_state": "paused",
-        "nameplate_capacity_gwh": 54,
-        "capacity_ref_year": 2023,
-        "site_type": "single_site",
-        "source_url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
-        "source_date": "2026-11-24",
-        "source_published_date": "2023-01-24"
-      },
-      "evidence": {
-        "status": ["S18"],
-        "project_state": ["S16"],
-        "nameplate_capacity_gwh": ["S17"],
-        "capacity_ref_year": ["S17"]
-      },
-      "confidence": 0.62,
-      "notes": "[T084] Confidence 0.35 -> 0.62 on a changed finding: the T017 ESCALATE said no open source states a pause; the company's own founder/CEO letter in the Imperial Valley newspaper (S16, 2024-08-07) says 'While our California operations are currently on hold' and that the company is now fully focused on energy storage with operations in Ras Al Khaimah. Statevolt's only California project is this Imperial Valley gigafactory (S18: 135 acres bought near the Salton Sea), so project_state = paused (D-018 semantics: company says on hold); inference noted: the letter says 'California operations', not the site by name. 54 GWh is the company's own plan (PR Newswire 2022-04-19 per T017) repeated by pv magazine USA 2023-01-24 (S17): two sources agree, no later figure. Status stays announced (land purchase only, no groundbreaking ever reported; D-020). ref_year 2023: fallback, searched (publication year of S17; no production year in any source). Searches in T017 and T084 (EN) found no news after 2024-08. Confidence is for the existence of the plan and its paused state; nothing indicates the project will resume. As project_state is paused the row drops out of active aggregates."
-    },
-    {
-      "id": "geely-technology-group-geely-ganzhou-power-battery-project-china",
-      "action": "update",
-      "fields": {
-        "status": "announced",
-        "nameplate_capacity_gwh": null,
-        "capacity_ref_year": null,
-        "site_type": "single_site",
-        "source_url": "https://www.marklines.com/en/news/253909",
-        "source_date": "2026-11-24",
-        "source_published_date": "2021-05-20"
-      },
-      "evidence": {
-        "status": ["S19", "S22"]
-      },
-      "confidence": 0.3,
-      "notes": "[T084] Bundled scope (D-026): MarkLines (S19, teaser lead paragraph visible without login) says the Ganzhou project 'will mainly produce power battery cells, modules and packs' with 'an annual capacity of 42GWh' (S20); electrive (S21) says it is 'unclear whether Geely will manufacture battery cells or focus on assembly' and (S22) that no schedule was published. No cell-only split exists, so nameplate_capacity_gwh (42) and capacity_ref_year (2021) are set to null; 42 GWh (phase 1 12 GWh + phase 2 30 GWh per electrive 2021, RMB 30bn, built with Farasis) is a bundled cells+modules+PACK figure kept here in notes only. Status announced: 2021 construction-start report with no later site evidence (D-020); nothing found dated after 2021 in two searches (T066, T084: EN/ZH) - likely stalled or rescoped (ENERGEE cut its multi-site plan per T066). project_state left active: no source says paused/cancelled. Duplicate risk with the Farasis Ganzhou rows unchanged (different investor; if the lead finds the same site, merge there). ESCALATE (residual): needs a Ganzhou government or Geely/ENERGEE source to turn this into a cell-capacity row or remove it."
-    },
-    {
-      "id": "sunwoda-sunwoda-nanchang-power-battery-production-base-china",
-      "action": "update",
-      "fields": {
-        "status": "operational",
-        "nameplate_capacity_gwh": 50,
-        "capacity_ref_year": 2024,
-        "installed_capacity_gwh": 35.9,
-        "installed_as_of": "2024-03-04",
-        "capacity_by_year_json": "{\"2024\": 35.9}",
-        "site_type": "single_site",
-        "source_url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
-        "source_date": "2026-11-24",
-        "source_published_date": "2024-03-04"
-      },
-      "evidence": {
-        "status": ["S23"],
-        "nameplate_capacity_gwh": ["S23", "S24"],
-        "capacity_ref_year": ["S23"],
-        "installed_capacity_gwh": ["S23"],
-        "capacity_by_year_json": ["S23"]
-      },
-      "confidence": 0.62,
-      "notes": "[T084] Confidence 0.5 -> 0.62. The 50 GWh four-phase plan is now confirmed by two independent sources: Nanchang municipal release carried by Sina 2024-03-04 (S23; quote as recorded in T007, not re-fetched by me) and Gasgoo 2021-08-13 (S24, fetched: 50 GWh 'power and energy-storage batteries' on completion; phases 4 + 10 + 16 + 20 GWh cells-and-systems lines, RMB 20bn, ~1,800 mu). Installed 35.9 GWh as of 2024-03-04 = phases 1-3 completed ('落地年产能', installed basis: government built capacity, runs ~20% above company-effective); it is a DATED FLOOR with its true installed_as_of, not presented as the current figure (D-025), so the 0.5 age cap does not apply; phase 4 (~14 GWh by the plan arithmetic 50 - 35.9) is undated and not counted as installed. Phases 1-3 were planned at 30 GWh in 2021 and landed at 35.9 by 2024, i.e. phases were upsized; the 50 GWh total is the same in both sources. ref_year 2024: fallback, searched (publication year of the source stating the full plan; phase 4 undated). Context only (not evidence): Sunwoda FY2025 annual report (cninfo, local copy team/evidence/filings/300207_2025.txt) shows the Nanchang production base in construction-in-progress at 89.28% of an RMB 8.0bn budget, status '逐步完工' (gradually completing), consistent with phase 4 still being finished; the table text is column-broken so it is not quoted. No 2025/26 capacity statement found (ZH search 2026-11-24). Not touched: cell_format prismatic and start_year 2022 (v1, reported tier)."
-    },
-    {
-      "id": "wanxiang-a123-wanxiang-a123-hangzhou-plant-wanxiang-innovation-energy-city-china",
-      "action": "update",
-      "fields": {
-        "status": "operational",
-        "nameplate_capacity_gwh": 56,
-        "capacity_ref_year": 2024,
-        "installed_capacity_gwh": 3.85,
-        "installed_as_of": "2024-03-29",
-        "capacity_by_year_json": "{\"2024\": 3.85}",
-        "site_type": "single_site",
-        "source_url": "https://www.itdcw.com/news/ycnews/0329140L22024.html",
-        "source_date": "2026-11-24",
-        "source_published_date": "2024-03-29"
-      },
-      "evidence": {
-        "status": ["S25", "S26"],
-        "nameplate_capacity_gwh": ["S25", "S26"],
-        "capacity_ref_year": ["S25"],
-        "installed_capacity_gwh": ["S25", "S26"],
-        "capacity_by_year_json": ["S25"]
-      },
-      "confidence": 0.62,
-      "notes": "[T084] Confidence 0.45 -> 0.62. Two independent open outlets agree on the same facts: itdcw 电池网 2024-03-29 (S25, fetched: overall plan 80 GWh, 一期 24 GWh building completed, first 3.85 GWh line officially put into production, 二期 32 GWh in early design) and EnergyTrend CN 2024-04-12 (S26, quote as recorded in T024, not re-fetched by me). Nameplate 56 = 一期 24 + 二期 32 (D-014; phase 2 'early design', undated); the 80 GWh overall plan includes a further ~24 GWh with no stated phase, so only 56 is included and 80 stays a vision figure in notes (D-015). ref_year 2024: latest dated phase (一期 built/commissioned March 2024); remainder undated. Installed 3.85 GWh as of 2024-03-29 (installed basis: press; line put into production 28 March 2024 per v1 timeline) is a DATED FLOOR with its true as_of, not presented as the current figure (D-025); v1 timeline also has an investor note of 2024-10-13 that only 3.85 GWh was online (xueqiu, not re-fetched, not used as evidence). No 2025-26 capacity news found in T024 or T084 (ZH searches), so phase-2 progress and any later lines are unknown - installed may now be higher. Not touched: chemistry LFP, cell_format prismatic, end_market mixed, start_year 2024 (v1, reported tier). Site is the Hangzhou Xiaoshan Innovation Energy City base, separate from the older Wanxiang A123 Xiaoshan plant."
-    },
-    {
-      "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
-      "action": "update",
-      "fields": {
-        "status": "operational",
-        "nameplate_capacity_gwh": 45,
-        "capacity_ref_year": 2024,
-        "site_type": "single_site",
-        "source_url": "https://www.energytrend.com/print/48392",
-        "source_date": "2026-11-24",
-        "source_published_date": "2024-09-12"
-      },
-      "evidence": {
-        "status": ["S27", "S28"],
-        "nameplate_capacity_gwh": ["S27", "S30", "S29"],
-        "capacity_ref_year": ["S27"]
-      },
-      "confidence": 0.62,
-      "notes": "[T084] Confidence 0.5 -> 0.62 after re-fetching EnergyTrend (S27-S29; page has no dateline, 2024-09-12 from the URL 20240912-48392). It lists three BYD Guangxi projects: a 10 GWh expansion in Yongning Industrial Park (fully operational), 'the 45 GWh power battery and energy storage system project in the East New City Lingli Industrial Zone' and a third project, with 'the other two projects partially operational' (S28), 'Together, these projects will achieve a total capacity of 70 GWh' (S29): 10 + 45 + 15 = 70, which also matches the three Guangxi rows (Nanning 10, Guangxi FinDreams 45, Guangxi-ASEAN 15) so the 45 GWh is not double counted. The 45 GWh plan is also in the 2022-04-13 iJiwei plan (S30, quote as recorded in T056, not re-fetched; RMB 14bn, Lingli Industrial Park Nanning): two independent sources, 2022 and 2024, agree on 45 GWh. Status operational (partially) rests on S28 (2024) plus T056's 2025-02-19 SolarBE 'production began May 2023' (not re-fetched). ref_year 2024: fallback, searched (publication year of S27; no dated phases). installed_capacity_gwh stays null: no source says how many of the 45 GWh run. CAVEAT: the project title bundles 'power battery and energy storage system' - 45 GWh is quoted as battery capacity in S27, but a cell-only share is not confirmed; if the lead applies D-026 strictly this should be nulled. Not touched: start_year 2023 (T056 reported-tier), chemistry/cell_format/end_market null."
-    },
-    {
-      "id": "tianjin-lishen-battery-lishen-chuzhou-base-quanjiao-china",
-      "action": "update",
-      "fields": {
-        "nameplate_capacity_gwh": 42,
-        "capacity_ref_year": 2023,
-        "installed_capacity_gwh": 22,
-        "installed_as_of": "2023-10-31",
-        "site_type": "single_site",
-        "source_url": "https://www.ahchanye.com/zixun/34858.html",
-        "source_date": "2026-11-24",
-        "source_published_date": "2023-10-31"
-      },
-      "evidence": {
-        "nameplate_capacity_gwh": ["S31", "S32"],
-        "installed_capacity_gwh": ["S31"]
-      },
-      "confidence": 0.5,
-      "notes": "[T084] Identification now confirmed: the ahchanye page (S31/S32, reprint of 美好全椒, 2023-10-31) is headlined as 滁州力神新能源科技有限公司 (Chuzhou Lishen New Energy) and the phase-2 signing is with 天津力神电池股份有限公司, resolving the T033 caveat that the company name was not visible. Phase 1 = 22 GWh (8 power + 14 storage, S31, installed basis: press, design capacity, 'recently' commissioned at 2023-10-31); phase 2 = 20 GWh storage cells signed, construction to start H1 2024 (S32) -> 22 + 20 = 42 (D-014). The article states no total (36/42/48 GWh totals in other sources are not on this page). Confidence stays 0.5: no source after 2023-10 on phase 2 (a ZH search 2026-11-24 found nothing on a 20 GWh phase 2 at Quanjiao), the installed figure is 3 years old (dated floor, true as_of) and 36/42/48 totals still disagree. ESCALATE: >=10 GWh below 0.6; needs a Quanjiao government / Lishen / CETC (China Chengtong) source on phase 2 construction or an EIA acceptance notice. Not touched: chemistry LFP, end_market mixed, capacity_by_year_json (v1/T033)."
-    }
-  ]
+  "S2": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+   "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "By the end of 2025, the Company had added 10 GWh of newly ... commenced capacity, bringing its total capacity to 35.5 GWh at"
+  },
+  "S3": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+   "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "of the Phase II 15 GWh high-energy-density fast-charging"
+  },
+  "S4": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+   "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "plant premises of Phase II of the new ... we have added a 20 GWh intelligent"
+  },
+  "S5": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+   "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677), use-of-proceeds table",
+   "published": "2026-04-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "the construction of Phase II of the new Changshu production facility ... 31 December 2027"
+  },
+  "S6": {
+   "url": "https://news.metal.com/newscontent/103577752/ZENERGY-to-raise-HK504-million-through-discounted-H-share-placement",
+   "publisher": "SMM (news.metal.com), ZENERGY to raise HK$504 million through discounted H-share placement",
+   "published": "2025-10-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "ZENERGY currently operates at full capacity with an annual production of 25.5 GWh."
+  },
+  "S7": {
+   "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
+   "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
+   "published": "2026-03-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "By the end of 2025, Zenergy had around 45 GWh of commissioned capacity across Suzhou, Nanjing, Ganzhou, and Yibin."
+  },
+  "S8": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+   "publisher": "Zenergy Battery Technologies 2025 annual report (HKEX 3677)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "in March 2026, we signed an intention agreement ... in relation to a 50 GWh intelligent flexible manufacturing"
+  },
+  "S9": {
+   "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
+   "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
+   "published": "2026-03-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Phase two will add another 25 GWh and is expected to be completed in 2028."
+  },
+  "S10": {
+   "url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
+   "publisher": "ESS News, Zenergy bets big on battery storage with 50 GWh long-duration storage manufacturing plant",
+   "published": "2026-03-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Phase one with 25 GWh of capacity will start construction in the second half of 2026"
+  },
+  "S11": {
+   "url": "https://m.jiemian.com/article/14132618.html",
+   "publisher": "Jiemian News (mobile), Zenergy 50 GWh long-duration storage project signing (page shows no dateline; 2026-03-19 inferred from the image path 20260319; signing date 17 March)",
+   "published": "2026-03-19",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "3月17日，正力新能50GWh新一代大容量长时储能智能制造项目签约落户苏州常熟高新区，总投资达到100亿元。"
+  },
+  "S12": {
+   "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
+   "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
+   "published": "2026-08-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "The facility is planned in three phases with a total capacity of 45 GWh, with each phase contributing 15 GWh."
+  },
+  "S13": {
+   "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
+   "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
+   "published": "2026-08-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "has officially entered the stable mass-production phase"
+  },
+  "S14": {
+   "url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
+   "publisher": "CarNewsChina (citing a Jilin TV report of 2026-08-15), FAW Hongqi second-gen blade battery",
+   "published": "2026-08-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Currently, the second phase of the project is accelerating through the contract signing and groundbreaking stages."
+  },
+  "S15": {
+   "url": "https://cnevpost.com/2024/02/02/byd-faw-battery-project-goes-into-production/",
+   "publisher": "CnEVPost, BYD-FAW battery project goes into production (reports FAW-FinDreams statement)",
+   "published": "2024-02-02",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Its initial production capacity is 15 GWh ... went into production on February 2 ... total planned capacity of 45 GWh"
+  },
+  "S16": {
+   "url": "https://www.thedesertreview.com/opinion/letters_to_editor/adapting-to-change-statevolt-s-strategic-shift/article_015fe102-5516-11ef-83c6-9f730e6e3afe.html",
+   "publisher": "The Desert Review (Imperial Valley), letter to the editor by Statevolt founder/CEO Lars Carlstrom, Adapting to change: Statevolt's strategic shift",
+   "published": "2024-08-07",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "While our California operations are currently on hold"
+  },
+  "S17": {
+   "url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
+   "publisher": "pv magazine USA",
+   "published": "2023-01-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "its 54 GWh U.S. Gigafactory to be one of the largest in North America"
+  },
+  "S18": {
+   "url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
+   "publisher": "pv magazine USA",
+   "published": "2023-01-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "The EV battery manufacturer purchased 135 acres in Imperial Valley, California near the Salton Sea"
+  },
+  "S19": {
+   "url": "https://www.marklines.com/en/news/253909",
+   "publisher": "MarkLines (teaser, lead paragraph visible without login), Geely commences construction of first stage power battery project in Ganzhou, Jiangxi",
+   "published": "2021-05-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "With Geely Technology Group as the investor, this project will mainly produce power battery cells, modules and packs."
+  },
+  "S20": {
+   "url": "https://www.marklines.com/en/news/253909",
+   "publisher": "MarkLines (teaser, lead paragraph visible without login), Geely commences construction of first stage power battery project in Ganzhou, Jiangxi",
+   "published": "2021-05-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "It is planned to achieve an annual capacity of 42GWh"
+  },
+  "S21": {
+   "url": "https://www.electrive.com/2021/03/15/geely-looks-to-build-battery-factory-for-42-gwh-in-china",
+   "publisher": "electrive.com, Geely looks to build battery factory for 42 GWh in China",
+   "published": "2021-03-15",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "It is also unclear whether Geely will manufacture battery cells or focus on assembly."
+  },
+  "S22": {
+   "url": "https://www.electrive.com/2021/03/15/geely-looks-to-build-battery-factory-for-42-gwh-in-china",
+   "publisher": "electrive.com, Geely looks to build battery factory for 42 GWh in China",
+   "published": "2021-03-15",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "While the announcement appears detailed enough, an actual schedule is missing."
+  },
+  "S23": {
+   "url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
+   "publisher": "Sina Finance (Nanchang municipal release)",
+   "published": "2024-03-04",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "投资总额200亿元，分四期建设，年规划动力电池产能50GWh，现已完成一、二、三期项目，落地年产能35.9GWh。"
+  },
+  "S24": {
+   "url": "https://auto.gasgoo.com/news/202108/13I70268074C501.shtml",
+   "publisher": "Gasgoo (auto.gasgoo.com), Sunwoda Nanchang power battery production base",
+   "published": "2021-08-13",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "完成建设后达到年产动力电池和储能电池50GWh的产能"
+  },
+  "S25": {
+   "url": "https://www.itdcw.com/news/ycnews/0329140L22024.html",
+   "publisher": "itdcw 电池网 (电池百人会), Wanxiang A123 Energy City",
+   "published": "2024-03-29",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "产能方面，万向一二三在聚能城总体规划80GWh，其中一期24GWh厂房已完成建设，首条3.85GWh产线正式投产；二期32GWh前期的设计工作已在开展中。"
+  },
+  "S26": {
+   "url": "https://www.energytrend.cn/news/20240412-135068.html",
+   "publisher": "EnergyTrend CN",
+   "published": "2024-04-12",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "近日，万向一二三实施的万向创新聚能城项目一期24GWh厂房已完成建设，首条3.85GWh产线正式投产。"
+  },
+  "S27": {
+   "url": "https://www.energytrend.com/print/48392",
+   "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
+   "published": "2024-09-12",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "the 45 GWh power battery and energy storage system project in the East New City Lingli Industrial Zone"
+  },
+  "S28": {
+   "url": "https://www.energytrend.com/print/48392",
+   "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
+   "published": "2024-09-12",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "with the other two projects partially operational"
+  },
+  "S29": {
+   "url": "https://www.energytrend.com/print/48392",
+   "publisher": "EnergyTrend (TrendForce), BYD puts another lithium project into production (date from URL 20240912; page has no dateline)",
+   "published": "2024-09-12",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Together, these projects will achieve a total capacity of 70 GWh"
+  },
+  "S30": {
+   "url": "https://laoyaoba.com/n/814355",
+   "publisher": "iJiwei / 爱集微, 比亚迪拟140亿元在广西南宁投建45GWh动力电池及储能系统项目",
+   "published": "2022-04-13",
+   "accessed": "2026-11-20",
+   "language": "zh",
+   "quote": "广西弗迪年产45GWh动力电池及储能系统项目 ... 南宁市青秀区伶俐工业园 ... 计划投资约140亿元"
+  },
+  "S31": {
+   "url": "https://www.ahchanye.com/zixun/34858.html",
+   "publisher": "安徽产业网 (ahchanye.com), reprint of 美好全椒, Chuzhou Lishen New Energy base put into production",
+   "published": "2023-10-31",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "建设年产22GWh电池项目，其中动力电池8GWh、储能电池14GWh"
+  },
+  "S32": {
+   "url": "https://www.ahchanye.com/zixun/34858.html",
+   "publisher": "安徽产业网 (ahchanye.com), reprint of 美好全椒, Chuzhou Lishen New Energy base put into production",
+   "published": "2023-10-31",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "二期年产20GWh储能电池项目已正式签约，将在明年上半年开工建设"
+  }
+ },
+ "rows": [
+  {
+   "id": "jiangsu-zenergy-zenergy-changshu-plant-china",
+   "action": "update",
+   "fields": {
+    "status": "operational",
+    "start_year": 2023,
+    "nameplate_capacity_gwh": 70.5,
+    "capacity_ref_year": 2027,
+    "capacity_by_year_json": "{\"2023\": 25, \"2025\": 35.5}",
+    "installed_capacity_gwh": 35.5,
+    "installed_as_of": "2025-12-31",
+    "site_type": "single_site",
+    "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S2"
+    ],
+    "start_year": [
+     "S1"
+    ],
+    "installed_capacity_gwh": [
+     "S2",
+     "S1",
+     "S6"
+    ],
+    "nameplate_capacity_gwh": [
+     "S2",
+     "S3",
+     "S4"
+    ],
+    "capacity_ref_year": [
+     "S5"
+    ],
+    "capacity_by_year_json": [
+     "S1",
+     "S2"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T084] Resolves the T009 ESCALATE (company-wide 35.5 GWh parked on this row). Company annual report (S2, HKEX, 2026-04-23): 10 GWh newly commenced in 2025, total capacity 35.5 GWh at year-end; Phase II 15 GWh (S3) and a further 20 GWh storage project (S4) at the new Changshu plant. Why 35.5 is a fair Changshu figure: the Changshu plant is stated as 25 GWh in 2023 (S1) and the company total was 25.5 GWh when the placing was announced Oct-2025 (S6), so at most ~0.5 GWh (1.4%) of the 35.5 total can sit outside the original Changshu plant (the Nanjing base, whose HEV lines the AR says were impaired); the 2025 +10 GWh is Phase I of the new Changshu plant (S6; AR Phase II wording S3 and use-of-proceeds table S5). installed basis: company, company-wide total (all sites) with the Changshu share inferred as >= 35.0 GWh; within the 15% tolerance, so no cap. Nameplate 70.5 = 35.5 installed + Phase II 15 (S3, due 'Before 31 December 2027' per S5) + 20 GWh storage project on the Phase II premises (S4, undated) - D-014; ref_year 2027: latest dated phase; remainder undated (the Oct-2025 placing article S6 said Phase II would finish end-2026; the later AR table S5 says 31 Dec 2027 and wins). capacity_by_year_json: dropped the v1/T009 2026 = 50.5 step because that is the superseded Oct-2025 plan (D-017); the 2023 = 25 step is the plant design capacity at start (S1), 2025 = 35.5 the AR figure; no Phase II step is entered because its completion year conflicts (end-2026 vs end-2027) and is undated in the 20 GWh project. CONFLICT noted and not used: ESS News 2026-03-23 (S7) says ~45 GWh commissioned across 'Suzhou, Nanjing, Ganzhou, and Yibin' - single English outlet, 27% above the company's own AR figure, and names sites Zenergy does not list in its AR; the AR (company, later) wins per CONVENTIONS. start_year 2023 from S1 (plant started operations in Changshu; page dated 2023-05-15; T073 had the 2023-05-09 date). Not touched: chemistry/end_market (v1, reported tier, flagged by T031); cell_format null. Remaining uncertainty: no site-level breakdown of the 35.5 GWh, Phase II timing."
+  },
+  {
+   "id": "jiangsu-zenergy-suzhou-xiangcheng-plant-china",
+   "action": "update",
+   "fields": {
+    "status": "announced",
+    "nameplate_capacity_gwh": 50,
+    "capacity_ref_year": 2028,
+    "site_type": "single_site",
+    "source_url": "https://www.ess-news.com/2026/03/23/zenergy-bets-big-on-battery-storage-with-50-gwh-long-duration-storage-manufacturing-plant/",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-03-23"
+   },
+   "evidence": {
+    "status": [
+     "S8",
+     "S10",
+     "S11"
+    ],
+    "nameplate_capacity_gwh": [
+     "S8",
+     "S9",
+     "S11"
+    ],
+    "capacity_ref_year": [
+     "S9",
+     "S10"
+    ]
+   },
+   "confidence": 0.62,
+   "notes": "[T084] Confidence 0.4 -> 0.62: the 50 GWh long-duration storage project and its 'intention agreement' status are now confirmed by the company's own FY2025 annual report (S8, 2026-04-23) and by two press outlets (ESS News S9/S10; Jiemian S11, Chinese). Status announced (D-020): intention agreement only; ESS News S10 says phase 1 construction starts in H2 2026 - no construction report found (a Chinese search on 2026-11-24 returned nothing after the March signing). nameplate 50 = two 25 GWh phases (S9: 'Phase two will add another 25 GWh'; phase 1 25 GWh per ESS News). ref_year 2028 = phase 2 completion (S9; phase 1 production Q3 2027, S10): latest dated phase. LOCATION CONFLICT (unresolved, not affecting capacity/status): ESS News (S9/S10 page) places the project in Suzhou Xiangcheng Economic and Technological Development Zone, whereas Jiemian (S11) says it settled in Suzhou Changshu High-tech Zone (苏州常熟高新区); the AR (S8) names no location. The row's id/plant_name say Xiangcheng, so the plant_name should be treated as provisional; Changshu High-tech Zone is a different zone from the existing Changshu plant (Southeast zone) but this was not verified, so it is kept as a separate row (not merged into the Changshu row); the 20 GWh storage project in the AR (S4 on Changshu row) is a different, smaller project on Phase II premises. Investment differs by outlet (RMB 10bn Jiemian vs ~5.2bn ESS News) - not used. Product: 588Ah large-format cells (long-duration ESS) so it is cell capacity, not bundled. Long-duration chemistry may fall under data/reference/non_comparable.csv - not decided here. Coordinates remain null."
+  },
+  {
+   "id": "faw-findreams-new-energy-technology-co-ltd-faw-findreams-changchun-plant-changchun-power-battery-base-china",
+   "action": "update",
+   "fields": {
+    "status": "operational",
+    "start_year": 2024,
+    "nameplate_capacity_gwh": 45,
+    "capacity_ref_year": 2024,
+    "installed_capacity_gwh": 15,
+    "installed_as_of": "2026-08-15",
+    "site_type": "single_site",
+    "source_url": "https://carnewschina.com/2026/08/20/faws-hongqi-to-be-first-non-byd-brand-to-feature-second-gen-blade-battery-and-flash-charging/",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-08-20"
+   },
+   "evidence": {
+    "status": [
+     "S13",
+     "S15"
+    ],
+    "start_year": [
+     "S15"
+    ],
+    "nameplate_capacity_gwh": [
+     "S12",
+     "S15"
+    ],
+    "capacity_ref_year": [
+     "S15"
+    ],
+    "installed_capacity_gwh": [
+     "S12",
+     "S13",
+     "S15"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[T084] Confidence 0.5 -> 0.7: the T032 ESCALATE (only a Feb-2024 source) is resolved by a fresh, independent 2026 source. CarNewsChina 2026-08-20 (S12-S14, citing a Jilin TV report of 2026-08-15) states the FAW-FinDreams project is planned in three phases, 45 GWh total, 15 GWh each; phase 1 is in the stable mass-production phase (S13); phase 2 is only at contract signing/groundbreaking stage (S14). This agrees with the CnEVPost 2024-02-02 FAW-FinDreams statement (S15: initial capacity 15 GWh, production from 2 Feb, total plan 45 GWh; quote as recorded in T032, not re-fetched by me). Installed 15 GWh as of 2026-08-15 = phase 1 design capacity in stable mass production (installed basis: press relaying company/TV; phase 1 = 15 GWh in both sources). Nameplate 45 (D-014: phases 2 and 3 stated with GWh, undated); ref_year 2024: latest dated phase (phase 1 production start); remainder undated (phase 2 groundbreaking only in 2026). The CarNewsChina text states phase-1 investment as '70 billion yuan' (10.3 bn USD), which is obviously a unit slip (Chinese report says RMB 7 bn) and is not used; the article does not name Changchun but describes the FAW-FinDreams power battery project (the only FAW-FinDreams plant); identification rests on the FAW-FinDreams name. Not changed: chemistry LFP, cell_format prismatic, end_market EV, jv_partners (v1, reported tier). Phase 2 (15 GWh) is not counted as installed."
+  },
+  {
+   "id": "statevolt-statevolt-imperial-valley-gigafactory-united-states",
+   "action": "update",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "nameplate_capacity_gwh": 54,
+    "capacity_ref_year": 2023,
+    "site_type": "single_site",
+    "source_url": "https://pv-magazine-usa.com/2023/01/24/statevolt-acquires-land-for-54-gwh-lithium-ion-battery-gigafactory/",
+    "source_date": "2026-11-24",
+    "source_published_date": "2023-01-24"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "project_state": [
+     "S16"
+    ],
+    "nameplate_capacity_gwh": [
+     "S17"
+    ],
+    "capacity_ref_year": [
+     "S17"
+    ]
+   },
+   "confidence": 0.62,
+   "notes": "[T084] Confidence 0.35 -> 0.62 on a changed finding: the T017 ESCALATE said no open source states a pause; the company's own founder/CEO letter in the Imperial Valley newspaper (S16, 2024-08-07) says 'While our California operations are currently on hold' and that the company is now fully focused on energy storage with operations in Ras Al Khaimah. Statevolt's only California project is this Imperial Valley gigafactory (S18: 135 acres bought near the Salton Sea), so project_state = paused (D-018 semantics: company says on hold); inference noted: the letter says 'California operations', not the site by name. 54 GWh is the company's own plan (PR Newswire 2022-04-19 per T017) repeated by pv magazine USA 2023-01-24 (S17): two sources agree, no later figure. Status stays announced (land purchase only, no groundbreaking ever reported; D-020). ref_year 2023: fallback, searched (publication year of S17; no production year in any source). Searches in T017 and T084 (EN) found no news after 2024-08. Confidence is for the existence of the plan and its paused state; nothing indicates the project will resume. As project_state is paused the row drops out of active aggregates."
+  },
+  {
+   "id": "geely-technology-group-geely-ganzhou-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "status": "announced",
+    "nameplate_capacity_gwh": null,
+    "capacity_ref_year": null,
+    "site_type": "single_site",
+    "source_url": "https://www.marklines.com/en/news/253909",
+    "source_date": "2026-11-24",
+    "source_published_date": "2021-05-20"
+   },
+   "evidence": {
+    "status": [
+     "S19",
+     "S22"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[T084] Bundled scope (D-026): MarkLines (S19, teaser lead paragraph visible without login) says the Ganzhou project 'will mainly produce power battery cells, modules and packs' with 'an annual capacity of 42GWh' (S20); electrive (S21) says it is 'unclear whether Geely will manufacture battery cells or focus on assembly' and (S22) that no schedule was published. No cell-only split exists, so nameplate_capacity_gwh (42) and capacity_ref_year (2021) are set to null; 42 GWh (phase 1 12 GWh + phase 2 30 GWh per electrive 2021, RMB 30bn, built with Farasis) is a bundled cells+modules+PACK figure kept here in notes only. Status announced: 2021 construction-start report with no later site evidence (D-020); nothing found dated after 2021 in two searches (T066, T084: EN/ZH) - likely stalled or rescoped (ENERGEE cut its multi-site plan per T066). project_state left active: no source says paused/cancelled. Duplicate risk with the Farasis Ganzhou rows unchanged (different investor; if the lead finds the same site, merge there). ESCALATE (residual): needs a Ganzhou government or Geely/ENERGEE source to turn this into a cell-capacity row or remove it."
+  },
+  {
+   "id": "sunwoda-sunwoda-nanchang-power-battery-production-base-china",
+   "action": "update",
+   "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 50,
+    "capacity_ref_year": 2024,
+    "installed_capacity_gwh": 35.9,
+    "installed_as_of": "2024-03-04",
+    "capacity_by_year_json": "{\"2024\": 35.9}",
+    "site_type": "single_site",
+    "source_url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
+    "source_date": "2026-11-24",
+    "source_published_date": "2024-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "nameplate_capacity_gwh": [
+     "S23",
+     "S24"
+    ],
+    "capacity_ref_year": [
+     "S23"
+    ],
+    "installed_capacity_gwh": [
+     "S23"
+    ],
+    "capacity_by_year_json": [
+     "S23"
+    ]
+   },
+   "confidence": 0.62,
+   "notes": "[T084] Confidence 0.5 -> 0.62. The 50 GWh four-phase plan is now confirmed by two independent sources: Nanchang municipal release carried by Sina 2024-03-04 (S23; quote as recorded in T007, not re-fetched by me) and Gasgoo 2021-08-13 (S24, fetched: 50 GWh 'power and energy-storage batteries' on completion; phases 4 + 10 + 16 + 20 GWh cells-and-systems lines, RMB 20bn, ~1,800 mu). Installed 35.9 GWh as of 2024-03-04 = phases 1-3 completed ('落地年产能', installed basis: government built capacity, runs ~20% above company-effective); it is a DATED FLOOR with its true installed_as_of, not presented as the current figure (D-025), so the 0.5 age cap does not apply; phase 4 (~14 GWh by the plan arithmetic 50 - 35.9) is undated and not counted as installed. Phases 1-3 were planned at 30 GWh in 2021 and landed at 35.9 by 2024, i.e. phases were upsized; the 50 GWh total is the same in both sources. ref_year 2024: fallback, searched (publication year of the source stating the full plan; phase 4 undated). Context only (not evidence): Sunwoda FY2025 annual report (cninfo, local copy team/evidence/filings/300207_2025.txt) shows the Nanchang production base in construction-in-progress at 89.28% of an RMB 8.0bn budget, status '逐步完工' (gradually completing), consistent with phase 4 still being finished; the table text is column-broken so it is not quoted. No 2025/26 capacity statement found (ZH search 2026-11-24). Not touched: cell_format prismatic and start_year 2022 (v1, reported tier)."
+  },
+  {
+   "id": "wanxiang-a123-wanxiang-a123-hangzhou-plant-wanxiang-innovation-energy-city-china",
+   "action": "update",
+   "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 56,
+    "capacity_ref_year": 2024,
+    "installed_capacity_gwh": 3.85,
+    "installed_as_of": "2024-03-29",
+    "capacity_by_year_json": "{\"2024\": 3.85}",
+    "site_type": "single_site",
+    "source_url": "https://www.itdcw.com/news/ycnews/0329140L22024.html",
+    "source_date": "2026-11-24",
+    "source_published_date": "2024-03-29"
+   },
+   "evidence": {
+    "status": [
+     "S25",
+     "S26"
+    ],
+    "nameplate_capacity_gwh": [
+     "S25",
+     "S26"
+    ],
+    "capacity_ref_year": [
+     "S25"
+    ],
+    "installed_capacity_gwh": [
+     "S25",
+     "S26"
+    ],
+    "capacity_by_year_json": [
+     "S25"
+    ]
+   },
+   "confidence": 0.62,
+   "notes": "[T084] Confidence 0.45 -> 0.62. Two independent open outlets agree on the same facts: itdcw 电池网 2024-03-29 (S25, fetched: overall plan 80 GWh, 一期 24 GWh building completed, first 3.85 GWh line officially put into production, 二期 32 GWh in early design) and EnergyTrend CN 2024-04-12 (S26, quote as recorded in T024, not re-fetched by me). Nameplate 56 = 一期 24 + 二期 32 (D-014; phase 2 'early design', undated); the 80 GWh overall plan includes a further ~24 GWh with no stated phase, so only 56 is included and 80 stays a vision figure in notes (D-015). ref_year 2024: latest dated phase (一期 built/commissioned March 2024); remainder undated. Installed 3.85 GWh as of 2024-03-29 (installed basis: press; line put into production 28 March 2024 per v1 timeline) is a DATED FLOOR with its true as_of, not presented as the current figure (D-025); v1 timeline also has an investor note of 2024-10-13 that only 3.85 GWh was online (xueqiu, not re-fetched, not used as evidence). No 2025-26 capacity news found in T024 or T084 (ZH searches), so phase-2 progress and any later lines are unknown - installed may now be higher. Not touched: chemistry LFP, cell_format prismatic, end_market mixed, start_year 2024 (v1, reported tier). Site is the Hangzhou Xiaoshan Innovation Energy City base, separate from the older Wanxiang A123 Xiaoshan plant."
+  },
+  {
+   "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "status": "operational",
+    "nameplate_capacity_gwh": 45,
+    "capacity_ref_year": 2024,
+    "site_type": "single_site",
+    "source_url": "https://www.energytrend.com/print/48392",
+    "source_date": "2026-11-24",
+    "source_published_date": "2024-09-12"
+   },
+   "evidence": {
+    "status": [
+     "S27",
+     "S28"
+    ],
+    "nameplate_capacity_gwh": [
+     "S27",
+     "S30",
+     "S29"
+    ],
+    "capacity_ref_year": [
+     "S27"
+    ]
+   },
+   "notes": "[T084] Confidence 0.5 -> 0.62 after re-fetching EnergyTrend (S27-S29; page has no dateline, 2024-09-12 from the URL 20240912-48392). It lists three BYD Guangxi projects: a 10 GWh expansion in Yongning Industrial Park (fully operational), 'the 45 GWh power battery and energy storage system project in the East New City Lingli Industrial Zone' and a third project, with 'the other two projects partially operational' (S28), 'Together, these projects will achieve a total capacity of 70 GWh' (S29): 10 + 45 + 15 = 70, which also matches the three Guangxi rows (Nanning 10, Guangxi FinDreams 45, Guangxi-ASEAN 15) so the 45 GWh is not double counted. The 45 GWh plan is also in the 2022-04-13 iJiwei plan (S30, quote as recorded in T056, not re-fetched; RMB 14bn, Lingli Industrial Park Nanning): two independent sources, 2022 and 2024, agree on 45 GWh. Status operational (partially) rests on S28 (2024) plus T056's 2025-02-19 SolarBE 'production began May 2023' (not re-fetched). ref_year 2024: fallback, searched (publication year of S27; no dated phases). installed_capacity_gwh stays null: no source says how many of the 45 GWh run. CAVEAT: the project title bundles 'power battery and energy storage system' - 45 GWh is quoted as battery capacity in S27, but a cell-only share is not confirmed; if the lead applies D-026 strictly this should be nulled. Not touched: start_year 2023 (T056 reported-tier), chemistry/cell_format/end_market null."
+  },
+  {
+   "id": "tianjin-lishen-battery-lishen-chuzhou-base-quanjiao-china",
+   "action": "update",
+   "fields": {
+    "nameplate_capacity_gwh": 42,
+    "capacity_ref_year": 2023,
+    "installed_capacity_gwh": 22,
+    "installed_as_of": "2023-10-31",
+    "site_type": "single_site",
+    "source_url": "https://www.ahchanye.com/zixun/34858.html",
+    "source_date": "2026-11-24",
+    "source_published_date": "2023-10-31"
+   },
+   "evidence": {
+    "nameplate_capacity_gwh": [
+     "S31",
+     "S32"
+    ],
+    "installed_capacity_gwh": [
+     "S31"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T084] Identification now confirmed: the ahchanye page (S31/S32, reprint of 美好全椒, 2023-10-31) is headlined as 滁州力神新能源科技有限公司 (Chuzhou Lishen New Energy) and the phase-2 signing is with 天津力神电池股份有限公司, resolving the T033 caveat that the company name was not visible. Phase 1 = 22 GWh (8 power + 14 storage, S31, installed basis: press, design capacity, 'recently' commissioned at 2023-10-31); phase 2 = 20 GWh storage cells signed, construction to start H1 2024 (S32) -> 22 + 20 = 42 (D-014). The article states no total (36/42/48 GWh totals in other sources are not on this page). Confidence stays 0.5: no source after 2023-10 on phase 2 (a ZH search 2026-11-24 found nothing on a 20 GWh phase 2 at Quanjiao), the installed figure is 3 years old (dated floor, true as_of) and 36/42/48 totals still disagree. ESCALATE: >=10 GWh below 0.6; needs a Quanjiao government / Lishen / CETC (China Chengtong) source on phase 2 construction or an EIA acceptance notice. Not touched: chemistry LFP, end_market mixed, capacity_by_year_json (v1/T033)."
+  }
+ ]
 }

@@ -1,245 +1,279 @@
 {
-  "task": "T085",
-  "verified_on": "2026-11-24",
-  "sources": {
-    "S1": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang base",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "其中，一期已于2023年8月投产，年产能65GWh。"
-    },
-    "S2": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang phase 2 (year 2026 from the article date and S3)",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "先是8月9日，楚能新能源官宣宜昌二期80GWh锂电池产业园项目正式进入投产阶段，该项目的建设周期只用了10个月时间。"
-    },
-    "S3": {
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561536.html",
-      "publisher": "Science and Technology Daily (stdaily.com); quote copied from T004 patch S37 (not re-fetched in T085)",
-      "published": "2026-08-09",
-      "accessed": "2026-11-20",
-      "language": "zh",
-      "quote": "8月9日，位于湖北省宜昌市夷陵区龙泉镇的楚能新能源（宜昌）二期80GWh锂电池产业园项目正式投产。"
-    },
-    "S4": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang phase 3 (undated)",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "代德明在2025年年底还曾表示，宜昌二期投产后，将再追加投资100亿元新上三期项目，设计产能50GWh。"
-    },
-    "S5": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiangyang phase 1 (year 2026 inferred: 21 days after the 9 Aug 2026 Yichang start, article dated 2026-09-14)",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "宜昌二期项目投产仅仅21天后，8月30日，楚能新能源襄阳70GWh锂电池产业园项目官宣正式投产运营。"
-    },
-    "S6": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiangyang phase 2 (undated)",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "后续还有二期30GWh项目待建设中。"
-    },
-    "S7": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiaogan phase 1",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "该基地一期项目已于2025年6月28日投产，设计年产能为35GWh。"
-    },
-    "S8": {
-      "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
-      "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiaogan phase 2 (construction start only)",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "二期项目产能再升级，规划年产动力及储能电池100GWh，已于2026年5月开工。"
-    },
-    "S9": {
-      "url": "https://mp.ofweek.com/libattery/a956714066687",
-      "publisher": "OFweek (维科号, 芝能科技), CATL Liyang (Jiangsu Time) phases; fragments extracted via fetch tool, auditor please string-match",
-      "published": "2026-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "北厂区一至三期36GWh ... 南厂区四期30GWh ... 2025年8月投产、设计产能40GWh的LY7项目 ... 三者合计约106GWh"
-    },
-    "S10": {
-      "url": "https://www.changzhou.gov.cn/ns_news/644175668857764",
-      "publisher": "Changzhou Release (常州发布, city government), LY7 start-up / LY8 launch",
-      "published": "2025-08-30",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "8月29日上午，江苏时代新能源灯塔工厂LY7项目在溧阳高新区正式投产，同时LY8项目正式启动。"
-    },
-    "S11": {
-      "url": "https://paper.people.com.cn/zgnyb/html/2024-06/10/content_26063726.htm",
-      "publisher": "China Energy News (People's Daily group), Lanjun Jiashan phases",
-      "published": "2024-06-10",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "2024年1月二期16GWh项目建设完成；目前，三期45GWh产线也在建设中，预计建成后总产能将达到77GWh"
-    },
-    "S12": {
-      "url": "https://www.marklines.com/cn/news/284278",
-      "publisher": "MarkLines (free excerpt); quote copied from T009 patch S51 (not re-fetched in T085)",
-      "published": "2023-03-06",
-      "accessed": "2026-11-20",
-      "language": "zh",
-      "quote": "此前一期项目投资55亿元，产能16GWh，于2022年6月正式投产；"
-    },
-    "S13": {
-      "url": "https://mcn.solarbe.com/news/20250627/50003428.html",
-      "publisher": "Solarbe / 碳索储能网 reprint of Hubei Daily, CALB Wuhan base phases I-III",
-      "published": "2025-06-27",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "中创新航武汉基地规划分四期建设，目前一、二、三期项目均已在武汉经开区建成投产，形成年产40GWh动力及储能电池产能"
-    },
-    "S14": {
-      "url": "https://www.energytrend.com/news/20220810-29660.html",
-      "publisher": "EnergyTrend (TrendForce), Gotion Tongcheng phase 1 start-up (year 2022 from the article date)",
-      "published": "2022-08-10",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "The first phase of Gotion Hi-Tech's new battery production base in Tongcheng formally entered operation on August 8."
-    },
-    "S15": {
-      "url": "https://laoyaoba.com/n/814355",
-      "publisher": "iJiwei / 爱集微, BYD Guangxi 45 GWh project (Nanning Qingxiu filing list, March 2022)",
-      "published": "2022-04-13",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "预计2023年投产，投产后3年内达产"
-    },
-    "S16": {
-      "url": "https://cn.solarbe.com/news/20250219/50000541.html",
-      "publisher": "碳索储能网 (SolarBE; reprint of 电池网); quote copied from T056 patch S9 (not re-fetched in T085)",
-      "published": "2025-02-19",
-      "accessed": "2026-11-20",
-      "language": "zh",
-      "quote": "项目于2023年5月投产"
-    },
-    "S17": {
-      "url": "https://gmauthority.com/blog/2024/02/gms-ultium-cells-ohio-battery-plant-now-running-at-full-capacity/",
-      "publisher": "GM Authority (trade press, open page) reporting GM's Q4 2023 earnings report",
-      "published": "2024-02-02",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "GM's Q4 2023 earnings report revealed that full production has been achieved at the Ultium Cells plant in Warren, Ohio, ... operating at 100 percent capacity by the end of the quarter."
-    }
+ "task": "T085",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang base",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "其中，一期已于2023年8月投产，年产能65GWh。"
   },
-  "rows": [
-    {
-      "id": "chuneng-new-energy-yichang-base-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2023\": 65, \"2026\": 145}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S1", "S2", "S3"]
-      },
-      "confidence": 0.7,
-      "notes": "[T085] Phase table (design basis, press): phase 1 65 GWh in production 2023-08 (S1); phase 2 80 GWh officially put into production 2026-08-09 (S2/S3; year 2026 from the article date and the stdaily URL) -> cumulative steps 2023 = 65, 2026 = 145; phase 3 50 GWh (+RMB10bn, announced by the chairman end-2025) has NO date (S4). capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 3 (2026 = publication year; it also equals the last dated phase, but phase 3 = 50 of 195 GWh is undated, so do not treat 195 as dated-complete in 2026). Caveat unchanged from T004: phase 1 shipped only 27 GWh Jan-Nov 2025 per local officials, so steps are design capacity, not output."
-    },
-    {
-      "id": "chuneng-new-energy-xiangyang-base-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2026\": 70}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S5"]
-      },
-      "confidence": 0.7,
-      "notes": "[T085] Phase table: phase 1 70 GWh officially declared in production 2026-08-30 (S5; year 2026 inferred from '21 days after' the 2026-08-09 Yichang start-up and the 2026-09-14 article date) -> step 2026 = 70 (design basis; groundbreaking was 2025-10-28 per T004, i.e. ~10 months, so ramp unknown). Phase 2 30 GWh 'awaiting construction' (S6), no start or due date found in the only available coverage (searched 21jingji/huxiu copy, no other source located). capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 2 (30 of 100 GWh)."
-    },
-    {
-      "id": "chuneng-new-energy-chuneng-new-energy-xiaogan-base-xiaogan-lithium-battery-industrial-park-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2025\": 35}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S7"]
-      },
-      "confidence": 0.7,
-      "notes": "[T085] Phase table: phase 1 35 GWh design capacity 'put into production 2025-06-28' (S7; the huxiu.com copy of the same article, 2026-09-13, repeats the 2025 date) -> step 2025 = 35; phase 2 100 GWh construction started 2026-05 (S8), NO due date -> undated. CONFLICT (unresolved): v1 cnhubei/bjx 2023-06-28 said phase 1 (>30 GWh) went into production on 2023-06-28; the 2025 date may be a typo in the 2026 article. I use the confirmed 2025 date for the step (conservative: later), start_year not touched. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 2 (100 of 135 GWh). The ~15 GWh of the old 150 GWh park plan remains excluded (D-014/D-015)."
-    },
-    {
-      "id": "catl-catl-liyang-plant-jiangsu-contemporary-amperex-technology-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2025\": 106}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S9", "S10"]
-      },
-      "confidence": 0.65,
-      "notes": "[T085] Phase table: north plant phases 1-3 36 GWh + south plant phase 4 30 GWh (built, no commissioning years in S9; T002 S37 EIA lists them as 'built') + LY7 40 GWh design capacity put into production 2025-08-29 (S10; 40 GWh and August 2025 in S9) = 106 GWh (S9 '三者合计约106GWh') -> single cumulative step 2025 = 106. No pre-2025 steps: phase 1-4 years are not dated on any quoted page (v1 timeline 2019: 5 and 2021: 126 are not re-confirmed and 126 is contradicted by the EIA 66 GWh). LY8 40 GWh: 'planned to finish construction end of March next year' (T002 S38, changzhou.gov.cn 2025-08-30 = construction completion, not 达产) and S9 (2026-09-14) still says under construction in August, so no step and no ref year from it. LY9 60 GWh signed 2025-11, EIA 2026-04, no due date. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated (LY8, LY9 = 100 of 206 GWh)."
-    },
-    {
-      "id": "lanjun-new-energy-lanjun-new-energy-jiashan-base-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2022\": 16, \"2024\": 32}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S11", "S12"]
-      },
-      "confidence": 0.45,
-      "notes": "[T085] Phase table: phase 1 16 GWh put into production 2022-06 (S12, MarkLines excerpt, quote copied from T009 S51); phase 2 16 GWh 'construction completed' 2024-01 (S11) -> steps 2022 = 16, 2024 = 32. The 2024 step is a CONSTRUCTION-COMPLETE date, not a production statement (same caveat as T009: installed stays 16); it is included for the IEA-like commissioned-nameplate view and may overstate producing capacity. Phase 3 45 GWh under construction (S11, no completion year; Dec-2025 HKEX steel-structure contract for the 'new 45GWh project' per T009 means it was still being built, no 2026 start-up news found in 3 further searches). capacity_ref_year left at 2024: ref_year: fallback, searched, still undated for phase 3 (45 of 77 GWh); 2024 is only the publication year of the 77 GWh statement and phase 3 was clearly not finished then, so do NOT read 2024 as the full-77 year."
-    },
-    {
-      "id": "calb-calb-wuhan-base-zhonghang-xinhang-wuhan-power-and-energy-storage-battery-base-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2025\": 40}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S13"]
-      },
-      "confidence": 0.75,
-      "notes": "[T085] Phase table: phases I-III all built and in production, 40 GWh/yr, as reported 2025-06-27 (S13, Hubei Daily via Solarbe) -> step 2025 = 40 (the year is the report date, an upper bound for when each phase started; no source states the individual phase years in GWh: 2022 Chinadaily/whkfq pages say phase I 'nearly ready' Jun 2022, phase II 'ready for operation in 2023', phase III groundbreaking 2022-06-12 with completion targeted 2024, all plan-stage statements without per-phase GWh that I could quote). The remaining 10 GWh of the 50 GWh nameplate is no stated cell phase (phase IV is a ~400,000-set PACK project due H1 2026, per S13 'planned to begin production next year' wording) and stays undated. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated."
-    },
-    {
-      "id": "tongcheng-gotion-high-tech-gotion-tongcheng-battery-base-40-gwh-power-battery-project-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2022\": 10}"      },
-      "evidence": {
-        "capacity_by_year_json": ["S14"]
-      },
-      "confidence": 0.45,
-      "notes": "[T085] Phase table: phase 1 10 GWh formally entered operation 2022-08-08 (S14, EnergyTrend 2022-08-10) -> step 2022 = 10; phase 2 20 GWh (construction began the same day, S14) and phase 3 10 GWh have no due year in any source found (searches 桐城 二期 投产 returned only the 2022 MarkLines/EnergyTrend items; the Dec-2023 cbea page '30 GWh' is unreachable (503) and Sina 2023-09-18 returned 503; 2025 annual report still shows phase 2 as construction-in-progress per T005). capacity_ref_year left at 2022: ref_year: fallback, searched, still undated for phases 2-3 (30 of 40 GWh). WARNING: 2022 is the publication year of the plan, not a completion year; the 2025 annual report shows phase 2 unfinished, so a series that credits the full 40 GWh from 2022 overstates."
-    },
-    {
-      "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
-      "action": "update",
-      "fields": {
-        "capacity_ref_year": 2026      },
-      "evidence": {
-        "capacity_ref_year": ["S15", "S16"]
-      },
-      "confidence": 0.5,
-      "notes": "[T085] capacity_ref_year 2024 -> 2026 (DERIVED, plan-based): the Nanning Qingxiu March-2022 filing as reported by iJiwei 2022-04-13 (S15) says production expected from 2023 and full capacity (达产) 'within 3 years of production'; production actually started 2023-05 (S16, T056) -> due by about 2026. This is a derived date (2023 start + 3 years), not an announced year, and it is a 2022 plan not re-confirmed by a later source; EnergyTrend 2024-09-12 (T056 S6) still calls the project 'partially operational'. No phase split or per-year GWh found (searched Chinese and English, Marklines/electrive 2022-23 only repeat the 45 GWh and the 2023 start). So no capacity_by_year_json step. Lead: if you do not want derived years, revert capacity_ref_year to 2024 and treat as undated."
-    },
-    {
-      "id": "ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2023\": 40}",
-        "capacity_ref_year": 2023      },
-      "evidence": {
-        "capacity_by_year_json": ["S17"],
-        "capacity_ref_year": ["S17"]
-      },
-      "confidence": 0.75,
-      "notes": "[T085] capacity_ref_year 2022 -> 2023; single-phase plant: GM's Q4 2023 earnings report (as reported by GM Authority 2024-02-02, S17) says full production achieved, operating at 100 percent capacity by the end of Q4 2023 (production began 2022-08; 75% in Q3 2023 per GM Authority 2023-10-25, not re-fetched). Step 2023 = 40 = 100% of the row nameplate (InsideEVs 40 GWh, T010); GM does not state a GWh figure in S17, so the GWh basis is the T010 nameplate, and the v1 timeline used 35 GWh for the same milestone (conflict 35 vs 40 GWh unchanged, T010). A second report (MarkLines teaser 2024-02-06: 100% reached 'on schedule in November 2023') agrees but was not quoted (teaser, summary only). The 2026 interruption (halted Jan 2026, restarted Aug 2026) is unchanged from T010; step is the historical full-capacity point, not current output."
-    }
-  ]
+  "S2": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang phase 2 (year 2026 from the article date and S3)",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "先是8月9日，楚能新能源官宣宜昌二期80GWh锂电池产业园项目正式进入投产阶段，该项目的建设周期只用了10个月时间。"
+  },
+  "S3": {
+   "url": "https://www.stdaily.com/web/gdxw/2026-08/09/content_561536.html",
+   "publisher": "Science and Technology Daily (stdaily.com); quote copied from T004 patch S37 (not re-fetched in T085)",
+   "published": "2026-08-09",
+   "accessed": "2026-11-20",
+   "language": "zh",
+   "quote": "8月9日，位于湖北省宜昌市夷陵区龙泉镇的楚能新能源（宜昌）二期80GWh锂电池产业园项目正式投产。"
+  },
+  "S4": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Yichang phase 3 (undated)",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "代德明在2025年年底还曾表示，宜昌二期投产后，将再追加投资100亿元新上三期项目，设计产能50GWh。"
+  },
+  "S5": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiangyang phase 1 (year 2026 inferred: 21 days after the 9 Aug 2026 Yichang start, article dated 2026-09-14)",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宜昌二期项目投产仅仅21天后，8月30日，楚能新能源襄阳70GWh锂电池产业园项目官宣正式投产运营。"
+  },
+  "S6": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiangyang phase 2 (undated)",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "后续还有二期30GWh项目待建设中。"
+  },
+  "S7": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiaogan phase 1",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "该基地一期项目已于2025年6月28日投产，设计年产能为35GWh。"
+  },
+  "S8": {
+   "url": "https://www.21jingji.com/article/20260914/herald/eed284fd3ecb08490a819bb2c8624e8c.html",
+   "publisher": "21jingji (citing Huaxia Energy Network), Chuneng Xiaogan phase 2 (construction start only)",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "二期项目产能再升级，规划年产动力及储能电池100GWh，已于2026年5月开工。"
+  },
+  "S9": {
+   "url": "https://mp.ofweek.com/libattery/a956714066687",
+   "publisher": "OFweek (维科号, 芝能科技), CATL Liyang (Jiangsu Time) phases; fragments extracted via fetch tool, auditor please string-match",
+   "published": "2026-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "北厂区一至三期36GWh ... 南厂区四期30GWh ... 2025年8月投产、设计产能40GWh的LY7项目 ... 三者合计约106GWh"
+  },
+  "S10": {
+   "url": "https://www.changzhou.gov.cn/ns_news/644175668857764",
+   "publisher": "Changzhou Release (常州发布, city government), LY7 start-up / LY8 launch",
+   "published": "2025-08-30",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "8月29日上午，江苏时代新能源灯塔工厂LY7项目在溧阳高新区正式投产，同时LY8项目正式启动。"
+  },
+  "S11": {
+   "url": "https://paper.people.com.cn/zgnyb/html/2024-06/10/content_26063726.htm",
+   "publisher": "China Energy News (People's Daily group), Lanjun Jiashan phases",
+   "published": "2024-06-10",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "2024年1月二期16GWh项目建设完成；目前，三期45GWh产线也在建设中，预计建成后总产能将达到77GWh"
+  },
+  "S12": {
+   "url": "https://www.marklines.com/cn/news/284278",
+   "publisher": "MarkLines (free excerpt); quote copied from T009 patch S51 (not re-fetched in T085)",
+   "published": "2023-03-06",
+   "accessed": "2026-11-20",
+   "language": "zh",
+   "quote": "此前一期项目投资55亿元，产能16GWh，于2022年6月正式投产；"
+  },
+  "S13": {
+   "url": "https://mcn.solarbe.com/news/20250627/50003428.html",
+   "publisher": "Solarbe / 碳索储能网 reprint of Hubei Daily, CALB Wuhan base phases I-III",
+   "published": "2025-06-27",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "中创新航武汉基地规划分四期建设，目前一、二、三期项目均已在武汉经开区建成投产，形成年产40GWh动力及储能电池产能"
+  },
+  "S14": {
+   "url": "https://www.energytrend.com/news/20220810-29660.html",
+   "publisher": "EnergyTrend (TrendForce), Gotion Tongcheng phase 1 start-up (year 2022 from the article date)",
+   "published": "2022-08-10",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "The first phase of Gotion Hi-Tech's new battery production base in Tongcheng formally entered operation on August 8."
+  },
+  "S15": {
+   "url": "https://laoyaoba.com/n/814355",
+   "publisher": "iJiwei / 爱集微, BYD Guangxi 45 GWh project (Nanning Qingxiu filing list, March 2022)",
+   "published": "2022-04-13",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "预计2023年投产，投产后3年内达产"
+  },
+  "S16": {
+   "url": "https://cn.solarbe.com/news/20250219/50000541.html",
+   "publisher": "碳索储能网 (SolarBE; reprint of 电池网); quote copied from T056 patch S9 (not re-fetched in T085)",
+   "published": "2025-02-19",
+   "accessed": "2026-11-20",
+   "language": "zh",
+   "quote": "项目于2023年5月投产"
+  },
+  "S17": {
+   "url": "https://gmauthority.com/blog/2024/02/gms-ultium-cells-ohio-battery-plant-now-running-at-full-capacity/",
+   "publisher": "GM Authority (trade press, open page) reporting GM's Q4 2023 earnings report",
+   "published": "2024-02-02",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "GM's Q4 2023 earnings report revealed that full production has been achieved at the Ultium Cells plant in Warren, Ohio, ... operating at 100 percent capacity by the end of the quarter."
+  }
+ },
+ "rows": [
+  {
+   "id": "chuneng-new-energy-yichang-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2023\": 65, \"2026\": 145}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[T085] Phase table (design basis, press): phase 1 65 GWh in production 2023-08 (S1); phase 2 80 GWh officially put into production 2026-08-09 (S2/S3; year 2026 from the article date and the stdaily URL) -> cumulative steps 2023 = 65, 2026 = 145; phase 3 50 GWh (+RMB10bn, announced by the chairman end-2025) has NO date (S4). capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 3 (2026 = publication year; it also equals the last dated phase, but phase 3 = 50 of 195 GWh is undated, so do not treat 195 as dated-complete in 2026). Caveat unchanged from T004: phase 1 shipped only 27 GWh Jan-Nov 2025 per local officials, so steps are design capacity, not output."
+  },
+  {
+   "id": "chuneng-new-energy-xiangyang-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2026\": 70}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S5"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[T085] Phase table: phase 1 70 GWh officially declared in production 2026-08-30 (S5; year 2026 inferred from '21 days after' the 2026-08-09 Yichang start-up and the 2026-09-14 article date) -> step 2026 = 70 (design basis; groundbreaking was 2025-10-28 per T004, i.e. ~10 months, so ramp unknown). Phase 2 30 GWh 'awaiting construction' (S6), no start or due date found in the only available coverage (searched 21jingji/huxiu copy, no other source located). capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 2 (30 of 100 GWh)."
+  },
+  {
+   "id": "chuneng-new-energy-chuneng-new-energy-xiaogan-base-xiaogan-lithium-battery-industrial-park-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2025\": 35}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S7"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[T085] Phase table: phase 1 35 GWh design capacity 'put into production 2025-06-28' (S7; the huxiu.com copy of the same article, 2026-09-13, repeats the 2025 date) -> step 2025 = 35; phase 2 100 GWh construction started 2026-05 (S8), NO due date -> undated. CONFLICT (unresolved): v1 cnhubei/bjx 2023-06-28 said phase 1 (>30 GWh) went into production on 2023-06-28; the 2025 date may be a typo in the 2026 article. I use the confirmed 2025 date for the step (conservative: later), start_year not touched. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated for phase 2 (100 of 135 GWh). The ~15 GWh of the old 150 GWh park plan remains excluded (D-014/D-015)."
+  },
+  {
+   "id": "catl-catl-liyang-plant-jiangsu-contemporary-amperex-technology-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2025\": 106}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S9",
+     "S10"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T085] Phase table: north plant phases 1-3 36 GWh + south plant phase 4 30 GWh (built, no commissioning years in S9; T002 S37 EIA lists them as 'built') + LY7 40 GWh design capacity put into production 2025-08-29 (S10; 40 GWh and August 2025 in S9) = 106 GWh (S9 '三者合计约106GWh') -> single cumulative step 2025 = 106. No pre-2025 steps: phase 1-4 years are not dated on any quoted page (v1 timeline 2019: 5 and 2021: 126 are not re-confirmed and 126 is contradicted by the EIA 66 GWh). LY8 40 GWh: 'planned to finish construction end of March next year' (T002 S38, changzhou.gov.cn 2025-08-30 = construction completion, not 达产) and S9 (2026-09-14) still says under construction in August, so no step and no ref year from it. LY9 60 GWh signed 2025-11, EIA 2026-04, no due date. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated (LY8, LY9 = 100 of 206 GWh)."
+  },
+  {
+   "id": "lanjun-new-energy-lanjun-new-energy-jiashan-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2022\": 16}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[T085] Phase table: phase 1 16 GWh put into production 2022-06 (S12, MarkLines excerpt, quote copied from T009 S51); phase 2 16 GWh 'construction completed' 2024-01 (S11) -> steps 2022 = 16, 2024 = 32. The 2024 step is a CONSTRUCTION-COMPLETE date, not a production statement (same caveat as T009: installed stays 16); it is included for the IEA-like commissioned-nameplate view and may overstate producing capacity. Phase 3 45 GWh under construction (S11, no completion year; Dec-2025 HKEX steel-structure contract for the 'new 45GWh project' per T009 means it was still being built, no 2026 start-up news found in 3 further searches). capacity_ref_year left at 2024: ref_year: fallback, searched, still undated for phase 3 (45 of 77 GWh); 2024 is only the publication year of the 77 GWh statement and phase 3 was clearly not finished then, so do NOT read 2024 as the full-77 year. | AUDIT T083: 2024 step dropped - '建设完成' is construction-complete, not production."
+  },
+  {
+   "id": "calb-calb-wuhan-base-zhonghang-xinhang-wuhan-power-and-energy-storage-battery-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2025\": 40}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S13"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[T085] Phase table: phases I-III all built and in production, 40 GWh/yr, as reported 2025-06-27 (S13, Hubei Daily via Solarbe) -> step 2025 = 40 (the year is the report date, an upper bound for when each phase started; no source states the individual phase years in GWh: 2022 Chinadaily/whkfq pages say phase I 'nearly ready' Jun 2022, phase II 'ready for operation in 2023', phase III groundbreaking 2022-06-12 with completion targeted 2024, all plan-stage statements without per-phase GWh that I could quote). The remaining 10 GWh of the 50 GWh nameplate is no stated cell phase (phase IV is a ~400,000-set PACK project due H1 2026, per S13 'planned to begin production next year' wording) and stays undated. capacity_ref_year left at 2026: ref_year: fallback, searched, still undated."
+  },
+  {
+   "id": "tongcheng-gotion-high-tech-gotion-tongcheng-battery-base-40-gwh-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2022\": 10}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S14"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[T085] Phase table: phase 1 10 GWh formally entered operation 2022-08-08 (S14, EnergyTrend 2022-08-10) -> step 2022 = 10; phase 2 20 GWh (construction began the same day, S14) and phase 3 10 GWh have no due year in any source found (searches 桐城 二期 投产 returned only the 2022 MarkLines/EnergyTrend items; the Dec-2023 cbea page '30 GWh' is unreachable (503) and Sina 2023-09-18 returned 503; 2025 annual report still shows phase 2 as construction-in-progress per T005). capacity_ref_year left at 2022: ref_year: fallback, searched, still undated for phases 2-3 (30 of 40 GWh). WARNING: 2022 is the publication year of the plan, not a completion year; the 2025 annual report shows phase 2 unfinished, so a series that credits the full 40 GWh from 2022 overstates."
+  },
+  {
+   "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity_ref_year": [
+     "S15",
+     "S16"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T085] capacity_ref_year 2024 -> 2026 (DERIVED, plan-based): the Nanning Qingxiu March-2022 filing as reported by iJiwei 2022-04-13 (S15) says production expected from 2023 and full capacity (达产) 'within 3 years of production'; production actually started 2023-05 (S16, T056) -> due by about 2026. This is a derived date (2023 start + 3 years), not an announced year, and it is a 2022 plan not re-confirmed by a later source; EnergyTrend 2024-09-12 (T056 S6) still calls the project 'partially operational'. No phase split or per-year GWh found (searched Chinese and English, Marklines/electrive 2022-23 only repeat the 45 GWh and the 2023 start). So no capacity_by_year_json step. Lead: if you do not want derived years, revert capacity_ref_year to 2024 and treat as undated."
+  },
+  {
+   "id": "ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2023\": 40}",
+    "capacity_ref_year": 2023
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S17"
+    ],
+    "capacity_ref_year": [
+     "S17"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[T085] capacity_ref_year 2022 -> 2023; single-phase plant: GM's Q4 2023 earnings report (as reported by GM Authority 2024-02-02, S17) says full production achieved, operating at 100 percent capacity by the end of Q4 2023 (production began 2022-08; 75% in Q3 2023 per GM Authority 2023-10-25, not re-fetched). Step 2023 = 40 = 100% of the row nameplate (InsideEVs 40 GWh, T010); GM does not state a GWh figure in S17, so the GWh basis is the T010 nameplate, and the v1 timeline used 35 GWh for the same milestone (conflict 35 vs 40 GWh unchanged, T010). A second report (MarkLines teaser 2024-02-06: 100% reached 'on schedule in November 2023') agrees but was not quoted (teaser, summary only). The 2026 interruption (halted Jan 2026, restarted Aug 2026) is unchanged from T010; step is the historical full-capacity point, not current output."
+  }
+ ]
 }

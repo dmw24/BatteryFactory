@@ -107,3 +107,11 @@ T024 – lead verification → merged.
 
 ## T039 (southeast China sweep) – audit – 2026-11-20
 VERDICT pass · 13/14 quotes; no duplicates; minors fixed by lead (ATL Wikipedia-only status → reported; S14 apostrophe).
+
+## T083 — independent audit of T056–T085, T082, T089 (Opus, 2026-11-24) — verdict FAIL → fixed by lead (T090)
+Sampled ~40 rows, 31 sources re-fetched (30 verbatim, 1 not), all 100 T089 coordinates. Found: 3 unearned confidence
+rises (Wanxiang, Statevolt, Zenergy Xiangcheng), deadline/construction-complete dates used as phase years (Zenergy
+2027, Wanxiang, Mengguli 2020, Hohhot 2026, Lanjun 2024 step), a derived sum as a step (EVE Jingmen 2023), 3 homonym
+coordinates (Yizhuang, Mimarsinan, Bartow) + a state centroid, 18 rows parked at 0.6, inconsistent D-026. Passed:
+CATL company capacity 6/6, Great Power conversion, company_map, Inpower/Xiangyang/FAW. Systemic fixes: D-032 ref-year
+basis (build_timeseries ref_basis), C8 warning for 0.6 parking, D-031 PACK rule. Remaining: T091 (17 rows at 0.6).

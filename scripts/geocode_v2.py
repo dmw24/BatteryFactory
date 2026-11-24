@@ -34,7 +34,8 @@ rows = con.execute("""SELECT id, plant_name, country, coalesce(operator,'') || '
 out, miss = [], 0
 # Matches rejected on lead review (2026-11-24): place names that collide with a different town of the same name
 # (Wuwei Anhui vs Gansu; Ibaraki prefecture vs Ibaraki city, Osaka) or with an industrial-park/district name.
-REJECT = {"dongliao", "huayuan", "lixin", "longquan", "nanchuan", "wuwei", "ibaraki"}
+REJECT = {"dongliao", "huayuan", "lixin", "longquan", "nanchuan", "wuwei", "ibaraki",
+          "yizhuang", "mimarsinan", "bartow", "selangor"}  # last four: T083 audit (wrong same-named place / state centroid)
 
 
 def rightmost_city(text, cand, banned):

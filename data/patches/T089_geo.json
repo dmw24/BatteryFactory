@@ -97,11 +97,11 @@
    "id": "aspilsan-enerji-aspilsan-kayseri-turkey",
    "action": "fix",
    "fields": {
-    "latitude": 41.01488,
-    "longitude": 28.56085,
+    "latitude": 38.73222,
+    "longitude": 35.48528,
     "geo_precision": "city"
    },
-   "notes": "[GEO=city:Mimarsinan] approximate city-centroid of Mimarsinan, Turkey (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+   "notes": "[GEO=city:Kayseri] approximate city-centroid of Kayseri, Turkey (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
   },
   {
    "id": "avesta-holding-be-volt-seneffe-manage-belgium",
@@ -474,16 +474,6 @@
    "notes": "[GEO=city:Huaian] approximate city-centroid of Huaian, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
   },
   {
-   "id": "hyundai-sk-battery-manufacturing-america-hsbma-bartow-county-united-states",
-   "action": "fix",
-   "fields": {
-    "latitude": 27.89641,
-    "longitude": -81.84314,
-    "geo_precision": "city"
-   },
-   "notes": "[GEO=city:Bartow] approximate city-centroid of Bartow, United States (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
-  },
-  {
    "id": "inesis-inesis-gigafactory-new-moscow-russia",
    "action": "fix",
    "fields": {
@@ -562,6 +552,16 @@
     "geo_precision": "city"
    },
    "notes": "[GEO=city:Yancheng] approximate city-centroid of Yancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jiangsu-zenergy-suzhou-xiangcheng-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.64615,
+    "longitude": 120.74221,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changshu] approximate city-centroid of Changshu, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
   },
   {
    "id": "jinglan-new-energy-chuxiong-sodium-ion-base-china",
@@ -807,11 +807,11 @@
    "id": "tianpeng-power-supply-tenpower-malaysia-bandar-indah-cell-plant-malaysia",
    "action": "fix",
    "fields": {
-    "latitude": 3.35,
-    "longitude": 101.25,
+    "latitude": 2.8136,
+    "longitude": 101.50185,
     "geo_precision": "city"
    },
-   "notes": "[GEO=city:Selangor] approximate city-centroid of Selangor, Malaysia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+   "notes": "[GEO=city:Banting] approximate city-centroid of Banting, Malaysia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
   },
   {
    "id": "tianpu-technology-tianpu-ordos-lithium-ion-battery-and-system-project-china",
@@ -822,16 +822,6 @@
     "geo_precision": "city"
    },
    "notes": "[GEO=city:Ordos] approximate city-centroid of Ordos, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
-  },
-  {
-   "id": "times-baic-beijing-new-energy-technology-times-baic-yizhuang-battery-factory-china",
-   "action": "fix",
-   "fields": {
-    "latitude": 34.15651,
-    "longitude": 117.59367,
-    "geo_precision": "city"
-   },
-   "notes": "[GEO=city:Yizhuang] approximate city-centroid of Yizhuang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
   },
   {
    "id": "times-changan-chongqing-power-battery-times-changan-chongqing-beibei-gaozhu-plant-china",

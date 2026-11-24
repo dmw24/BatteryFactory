@@ -180,6 +180,11 @@ def main():
                 bad.append(f"{f}: does not parse ({str(e)[:80]}) – quote fields containing commas")
     report("C7", not bad, f"reference CSVs: {len(bad)} problems", bad)
 
+    # C8 (T083 audit): confidence parked exactly at the 0.6 gate on large active plants (CONVENTIONS forbids it).
+    # Warning, not failure: each listed row needs evidence to move up, or a lower honest value.
+    m = (d.project_state.fillna("active") == "active") & (d.nameplate_capacity_gwh.fillna(0) >= 10) & (d.confidence == 0.6)
+    report("C8", not m.any(), f"large rows parked at confidence 0.6: {int(m.sum())}", list(d.id[m]), warn=True)
+
     os.makedirs("logs", exist_ok=True)
     open("logs/checks_detail.log", "w").write("\n".join(detail) + "\n")
     fails = [c for c, t in results if t == "FAIL"]

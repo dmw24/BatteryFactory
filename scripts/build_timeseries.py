@@ -30,6 +30,20 @@ HUBRE = re.compile(r"hub-?level|company-?wide|aggregate.{0,20}capacit|multi-?bas
                    r"across (several|multiple|adjacent) (sites|bases|facilities)", re.I)
 FIRM_BASIS = {"operational", "commissioned"}
 REF_FALLBACK = re.compile(r"ref_?year[^.;|]{0,40}fallback|fallback[^.;|]{0,20}ref_?year", re.I)
+REF_PARTIAL = re.compile(r"remainder undated|latest dated phase", re.I)
+REF_ANY = re.compile(r"ref_?year[^.;|]{0,40}fallback|fallback[^.;|]{0,20}ref_?year|remainder undated|latest dated phase", re.I)
+
+
+def ref_basis(notes):
+    """T083 audit fix: notes accumulate across tasks, so use the LAST statement about the reference year.
+    'dated' = every phase in nameplate is dated -> D may credit full nameplate from capacity_ref_year;
+    'partial' (D-021 'latest dated phase; remainder undated') and 'fallback' -> D credits dated steps only."""
+    last = None
+    for m in REF_ANY.finditer(notes or ""):
+        last = m.group(0)
+    if last is None:
+        return "dated"
+    return "partial" if REF_PARTIAL.fullmatch(last) or REF_PARTIAL.search(last) else "fallback"
 
 
 def _walk(pts):
@@ -250,7 +264,7 @@ def main():
         # its last phase is due (capacity_ref_year <= y) when that year is a DATED phase year (not the
         # publication-year fallback), plus sourced dated phase steps (capacity_by_year_json); never less than C.
         ry = r["capacity_ref_year"]
-        ry_fallback = bool(REF_FALLBACK.search(r["research_notes"] or ""))
+        ry_fallback = ref_basis(r["research_notes"]) != "dated"
         steps = {}
         if r["capacity_by_year_json"]:
             try:

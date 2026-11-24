@@ -1,140 +1,157 @@
 {
-  "task": "T080",
-  "verified_on": "2026-11-24",
-  "sources": {
-    "S1": {
-      "url": "https://www.electrive.com/2021/06/21/catl-puts-yibin-15-gwh-plant-section-into-operation/",
-      "publisher": "electrive, CATL puts Yibin 15 GWh plant section into operation",
-      "published": "2021-06-21",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "The company puts the annual capacity of the completed section at 15 GWh."
-    },
-    "S2": {
-      "url": "https://www.cls.cn/detail/1077129",
-      "publisher": "Cailian Press (cls.cn), Yibin power-battery industry / Sichuan Times (quotes Yibin Sanjiang New Area)",
-      "published": "2022-07-20",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "到2021年6月四川时代一期项目正式投运，再到目前一、二、五、六期项目的全面运营，仅用了28个月。"
-    },
-    "S3": {
-      "url": "https://www.yicai.com/news/102275174.html",
-      "publisher": "Yicai (第一财经), Yibin power-battery industry review",
-      "published": "2024-09-14",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "2023年全年，宜宾新落地投产动力电池产业链项目28个，总投资超500亿元，建成动力电池产能180GWh；"
-    },
-    "S4": {
-      "url": "https://news.qq.com/rain/a/20240819A09IC400",
-      "publisher": "Tencent News (QQ) reprint of Cover News (封面新闻), Yibin power-battery industry",
-      "published": "2024-08-19",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "动力电池规划产能300GWh，建成产能180GWh ... 四川时代一、二、三、五、六期（即时代长安），以及时代吉利共7个工厂已建成投运。"
-    },
-    "S5": {
-      "url": "https://yicaiglobal.com/news/eve-energy-drops-after-soaring-on-latest-usd48-billion-capacity-expansion-plan-in-jingmen",
-      "publisher": "Yicai Global, EVE Energy Jingmen USD4.8 billion capacity expansion plan",
-      "published": "2021-11-05",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "Once finished, the base’s total capacity will increase to 152.61GWh from the current 28.5GWh."
-    },
-    "S6": {
-      "url": "https://www.evebattery.com/news-670",
-      "publisher": "EVE Energy company news (evebattery.com), zones 6-9 73 GWh factory into production and 60 GWh super factory groundbreaking",
-      "published": "2023-02-02",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "2月1日，极致制造 数智未来——亿纬锂能六、七、八、九区73GWh工厂投产暨“60GWh超级工厂”动工仪式在荆门顺利举行。"
-    },
-    "S7": {
-      "url": "https://m.thepaper.cn/baijiahao_31252471",
-      "publisher": "The Paper (澎湃新闻, baijiahao), EVE Jingmen base 13 years 18 factories",
-      "published": "2025-07-30",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "13年里，亿纬荆门基地快速裂变扩产，工厂从1个增至18个，产能从3GWh（吉瓦时，1吉瓦时等于100万度电）飙升至169GWh，公司年产值也突破400亿元，带动荆门锂电产业飞跃式发展。"
-    },
-    "S8": {
-      "url": "https://cnevpost.com/2022/12/20/byd-xiangyang-battery-base-1st-production-line-into-operation/",
-      "publisher": "CnEVPost, BYD Xiangyang battery base first production line into operation (citing Hubei Daily)",
-      "published": "2022-12-20",
-      "accessed": "2026-11-24",
-      "language": "en",
-      "quote": "went into operation on December 15 ... The production line has a capacity of 1.9 GWh"
-    },
-    "S9": {
-      "url": "https://www.yicai.com/news/102941141.html",
-      "publisher": "Yicai (第一财经), BYD Xiangyang industrial park",
-      "published": "2025-12-04",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "比亚迪襄阳产业园规划50GWh动储电池产能，一期建成30GWh动力电池及零部件项目，可满足60万辆整车装配，产品供应东风、比亚迪整车厂并出口东南亚，今年产值有望达到160亿元。"
-    },
-    "S10": {
-      "url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
-      "publisher": "Sina Finance, Nanchang municipal release on Sunwoda Nanchang power-battery base",
-      "published": "2024-03-04",
-      "accessed": "2026-11-24",
-      "language": "zh",
-      "quote": "自2022年开始投入量产，年复合增长率达到70%。"
-    }
+ "task": "T080",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.electrive.com/2021/06/21/catl-puts-yibin-15-gwh-plant-section-into-operation/",
+   "publisher": "electrive, CATL puts Yibin 15 GWh plant section into operation",
+   "published": "2021-06-21",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "The company puts the annual capacity of the completed section at 15 GWh."
   },
-  "rows": [
-    {
-      "id": "catl-catl-yibin-power-battery-base-china",
-      "action": "update",
-      "fields": {
-        "start_year": 2021,
-        "capacity_by_year_json": "{\"2021\": 15, \"2023\": 180, \"2025\": 210, \"2026\": 270}"
-      },
-      "evidence": {
-        "start_year": ["S2"],
-        "capacity_by_year_json": ["S1", "S3", "S4"]
-      },
-      "confidence": 0.75,
-      "notes": "[T080] start_year 2021 (v1 reported -> confirmed): Cailian 2022-07-20 (S2), quoting Yibin Sanjiang New Area: Sichuan Times phase 1 'formally put into operation' in June 2021. Steps (design/built-capacity basis): 2021 = 15 (S1 electrive 2021-06-21: completed first section, 15 GWh/yr). 2023 = 180: Yicai (S3, published 2024-09-14) says Yibin 'built' 180 GWh power-battery capacity in full-year 2023; Cover News 2024-08-19 (S4) repeats 180 built with 7 CATL factories running (Sichuan Times phases 1,2,3,5,6,7 + Times-Geely). CAVEAT: the 180 is a Yibin-city industry figure (CATL is by far the main producer; the T002 row already used it for the CATL base) and S3 is a 2024 article describing 2023, so the 2023 step basis is government 'built capacity'. 2025 = 210 and 2026 = 270 are the EXISTING T002 steps (solarbe 2025-11-14; mrjjxw 2026-08-19), unchanged. No 2022 step: the v1 timeline value 125 GWh (21jingji 2022-12-30) was not found on the page I opened (the page only has a 2022 forecast of 70 GWh and 235 GWh signed), so it is dropped. S3 and S4 were read through the fetch tool's extraction; auditor please string-match."
-    },
-    {
-      "id": "eve-energy-eve-energy-jingmen-production-base-china",
-      "action": "update",
-      "fields": {
-        "capacity_by_year_json": "{\"2021\": 28.5, \"2023\": 101.5, \"2025\": 169}"
-      },
-      "evidence": {
-        "capacity_by_year_json": ["S5", "S6", "S7"]
-      },
-      "confidence": 0.65,
-      "notes": "[T080] capacity_by_year_json (previously null), basis company/press 'built' capacity. 2021 = 28.5: Yicai Global 2021-11-05 (S5) 'current 28.5GWh' of the 152.61 GWh Jingmen plan (matches the EVE Nov-2021 announcement: 86.11bn yuan invested, 28.5 GWh built). 2025 = 169: The Paper 2025-07-30 (S7), 18 factories, same figure already used as installed. 2023 = 101.5 is MY SUM of two sourced figures, not a stated total: 28.5 (S5, Nov 2021) + 73 GWh in zones 6-9 'put into production' at the 2023-02-01 ceremony (S6); any capacity added in 2022 or other zones in 2023 is not captured, and the page does not say all 73 GWh were producing at once - treat as a floor, auditor may drop the 2023 step if D-021 forbids derived sums. The ~15 GWh super-factory phase 1 (Dec 2024) and the remaining ~52 GWh to reach 169 are not dated per phase in open sources, so no 2024 step. start_year left null: S7 says the base 'settled' (落户) in 2012 and that capacity started at 3 GWh, which is not a dated first-production statement. EVE annual reports 2021-2023 (filings dir) give no Jingmen cumulative capacity."
-    },
-    {
-      "id": "xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china",
-      "action": "update",
-      "fields": {
-        "start_year": 2022,
-        "capacity_by_year_json": "{\"2022\": 1.9, \"2025\": 30}"
-      },
-      "evidence": {
-        "start_year": ["S8"],
-        "capacity_by_year_json": ["S8", "S9"]
-      },
-      "confidence": 0.65,
-      "notes": "[T080] start_year 2022 (null -> 2022): CnEVPost 2022-12-20 (S8, citing Hubei Daily): first production line at the Xiangyang base went into operation on December 15 (2022), 1.9 GWh. Steps (design basis): 2022 = 1.9 (that one line, S8); 2025 = 30 (Yicai 2025-12-04, S9: phase 1 built, 30 GWh power-battery and parts project; same as T056 installed 30). No 2023 step: CnEVPost only says all 16 lines were EXPECTED by May 2023 (plan, 30 GWh) and I found no source confirming when the remaining lines started (two searches), so the ramp between Dec 2022 and Dec 2025 is undated. For series use: the 30 GWh was probably online well before 2025 but that is not sourced. The Yicai 30 GWh phrase bundles cells with parts (see T056 notes). Fetch-tool extraction used for S8; auditor please string-match."
-    },
-    {
-      "id": "sunwoda-sunwoda-nanchang-power-battery-production-base-china",
-      "action": "update",
-      "fields": {
-        "start_year": 2022
-      },
-      "evidence": {
-        "start_year": ["S10"]
-      },
-      "confidence": 0.5,
-      "notes": "[T080] start_year 2022 (v1 reported -> confirmed): Nanchang municipal release via Sina Finance 2024-03-04 (S10): 'since 2022 [the base] put into mass production' (自2022年开始投入量产). capacity_by_year_json {2024: 35.9} left unchanged (not in fields). No dated GWh step for 2022-2023 found: the same release says phases 1-3 (15 lines) were built in 15 months but gives no per-phase GWh/dates; Sunwoda annual reports 2021-2024 give no Nanchang capacity; v1 'phase 1 = 4 GWh in 2022' rests only on a 2021 plan article (gasgoo), not a production statement, so it is not added. Confidence stays 0.5 (D-015 cap on the 2024 installed figure)."
-    }
-  ]
+  "S2": {
+   "url": "https://www.cls.cn/detail/1077129",
+   "publisher": "Cailian Press (cls.cn), Yibin power-battery industry / Sichuan Times (quotes Yibin Sanjiang New Area)",
+   "published": "2022-07-20",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "到2021年6月四川时代一期项目正式投运，再到目前一、二、五、六期项目的全面运营，仅用了28个月。"
+  },
+  "S3": {
+   "url": "https://www.yicai.com/news/102275174.html",
+   "publisher": "Yicai (第一财经), Yibin power-battery industry review",
+   "published": "2024-09-14",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "2023年全年，宜宾新落地投产动力电池产业链项目28个，总投资超500亿元，建成动力电池产能180GWh；"
+  },
+  "S4": {
+   "url": "https://news.qq.com/rain/a/20240819A09IC400",
+   "publisher": "Tencent News (QQ) reprint of Cover News (封面新闻), Yibin power-battery industry",
+   "published": "2024-08-19",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "动力电池规划产能300GWh，建成产能180GWh ... 四川时代一、二、三、五、六、七期（即时代长安），以及时代吉利共7个工厂已建成投运。"
+  },
+  "S5": {
+   "url": "https://yicaiglobal.com/news/eve-energy-drops-after-soaring-on-latest-usd48-billion-capacity-expansion-plan-in-jingmen",
+   "publisher": "Yicai Global, EVE Energy Jingmen USD4.8 billion capacity expansion plan",
+   "published": "2021-11-05",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Once finished, the base’s total capacity will increase to 152.61GWh from the current 28.5GWh."
+  },
+  "S6": {
+   "url": "https://www.evebattery.com/news-670",
+   "publisher": "EVE Energy company news (evebattery.com), zones 6-9 73 GWh factory into production and 60 GWh super factory groundbreaking",
+   "published": "2023-02-02",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "2月1日，极致制造 数智未来——亿纬锂能六、七、八、九区73GWh工厂投产暨“60GWh超级工厂”动工仪式在荆门顺利举行。"
+  },
+  "S7": {
+   "url": "https://m.thepaper.cn/baijiahao_31252471",
+   "publisher": "The Paper (澎湃新闻, baijiahao), EVE Jingmen base 13 years 18 factories",
+   "published": "2025-07-30",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "13年里，亿纬荆门基地快速裂变扩产，工厂从1个增至18个，产能从3GWh（吉瓦时，1吉瓦时等于100万度电）飙升至169GWh，公司年产值也突破400亿元，带动荆门锂电产业飞跃式发展。"
+  },
+  "S8": {
+   "url": "https://cnevpost.com/2022/12/20/byd-xiangyang-battery-base-1st-production-line-into-operation/",
+   "publisher": "CnEVPost, BYD Xiangyang battery base first production line into operation (citing Hubei Daily)",
+   "published": "2022-12-20",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "went into operation on December 15 ... The production line has a capacity of 1.9 GWh"
+  },
+  "S9": {
+   "url": "https://www.yicai.com/news/102941141.html",
+   "publisher": "Yicai (第一财经), BYD Xiangyang industrial park",
+   "published": "2025-12-04",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "比亚迪襄阳产业园规划50GWh动储电池产能，一期建成30GWh动力电池及零部件项目，可满足60万辆整车装配，产品供应东风、比亚迪整车厂并出口东南亚，今年产值有望达到160亿元。"
+  },
+  "S10": {
+   "url": "https://finance.sina.com.cn/wm/2024-03-04/doc-inamcvps8047519.shtml",
+   "publisher": "Sina Finance, Nanchang municipal release on Sunwoda Nanchang power-battery base",
+   "published": "2024-03-04",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "自2022年开始投入量产，年复合增长率达到70%。"
+  }
+ },
+ "rows": [
+  {
+   "id": "catl-catl-yibin-power-battery-base-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2021,
+    "capacity_by_year_json": "{\"2021\": 15, \"2023\": 180, \"2025\": 210, \"2026\": 270}"
+   },
+   "evidence": {
+    "start_year": [
+     "S2"
+    ],
+    "capacity_by_year_json": [
+     "S1",
+     "S3",
+     "S4"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[T080] start_year 2021 (v1 reported -> confirmed): Cailian 2022-07-20 (S2), quoting Yibin Sanjiang New Area: Sichuan Times phase 1 'formally put into operation' in June 2021. Steps (design/built-capacity basis): 2021 = 15 (S1 electrive 2021-06-21: completed first section, 15 GWh/yr). 2023 = 180: Yicai (S3, published 2024-09-14) says Yibin 'built' 180 GWh power-battery capacity in full-year 2023; Cover News 2024-08-19 (S4) repeats 180 built with 7 CATL factories running (Sichuan Times phases 1,2,3,5,6,7 + Times-Geely). CAVEAT: the 180 is a Yibin-city industry figure (CATL is by far the main producer; the T002 row already used it for the CATL base) and S3 is a 2024 article describing 2023, so the 2023 step basis is government 'built capacity'. 2025 = 210 and 2026 = 270 are the EXISTING T002 steps (solarbe 2025-11-14; mrjjxw 2026-08-19), unchanged. No 2022 step: the v1 timeline value 125 GWh (21jingji 2022-12-30) was not found on the page I opened (the page only has a 2022 forecast of 70 GWh and 235 GWh signed), so it is dropped. S3 and S4 were read through the fetch tool's extraction; auditor please string-match. | AUDIT T083: 2023 step 180 is Yibin city basis (page lists only CATL plants as built); a cnfin snippet gives 8.8 GWh at the 2021 opening vs the 15 step - unresolved."
+  },
+  {
+   "id": "eve-energy-eve-energy-jingmen-production-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2021\": 28.5, \"2025\": 169}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S5",
+     "S6",
+     "S7"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T080] capacity_by_year_json (previously null), basis company/press 'built' capacity. 2021 = 28.5: Yicai Global 2021-11-05 (S5) 'current 28.5GWh' of the 152.61 GWh Jingmen plan (matches the EVE Nov-2021 announcement: 86.11bn yuan invested, 28.5 GWh built). 2025 = 169: The Paper 2025-07-30 (S7), 18 factories, same figure already used as installed. 2023 = 101.5 is MY SUM of two sourced figures, not a stated total: 28.5 (S5, Nov 2021) + 73 GWh in zones 6-9 'put into production' at the 2023-02-01 ceremony (S6); any capacity added in 2022 or other zones in 2023 is not captured, and the page does not say all 73 GWh were producing at once - treat as a floor, auditor may drop the 2023 step if D-021 forbids derived sums. The ~15 GWh super-factory phase 1 (Dec 2024) and the remaining ~52 GWh to reach 169 are not dated per phase in open sources, so no 2024 step. start_year left null: S7 says the base 'settled' (落户) in 2012 and that capacity started at 3 GWh, which is not a dated first-production statement. EVE annual reports 2021-2023 (filings dir) give no Jingmen cumulative capacity. | AUDIT T083: derived 2023 step (28.5+73) dropped - not a sourced cumulative figure."
+  },
+  {
+   "id": "xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2022,
+    "capacity_by_year_json": "{\"2022\": 1.9, \"2025\": 30}"
+   },
+   "evidence": {
+    "start_year": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8",
+     "S9"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[T080] start_year 2022 (null -> 2022): CnEVPost 2022-12-20 (S8, citing Hubei Daily): first production line at the Xiangyang base went into operation on December 15 (2022), 1.9 GWh. Steps (design basis): 2022 = 1.9 (that one line, S8); 2025 = 30 (Yicai 2025-12-04, S9: phase 1 built, 30 GWh power-battery and parts project; same as T056 installed 30). No 2023 step: CnEVPost only says all 16 lines were EXPECTED by May 2023 (plan, 30 GWh) and I found no source confirming when the remaining lines started (two searches), so the ramp between Dec 2022 and Dec 2025 is undated. For series use: the 30 GWh was probably online well before 2025 but that is not sourced. The Yicai 30 GWh phrase bundles cells with parts (see T056 notes). Fetch-tool extraction used for S8; auditor please string-match."
+  },
+  {
+   "id": "sunwoda-sunwoda-nanchang-power-battery-production-base-china",
+   "action": "update",
+   "fields": {
+    "start_year": 2022
+   },
+   "evidence": {
+    "start_year": [
+     "S10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T080] start_year 2022 (v1 reported -> confirmed): Nanchang municipal release via Sina Finance 2024-03-04 (S10): 'since 2022 [the base] put into mass production' (自2022年开始投入量产). capacity_by_year_json {2024: 35.9} left unchanged (not in fields). No dated GWh step for 2022-2023 found: the same release says phases 1-3 (15 lines) were built in 15 months but gives no per-phase GWh/dates; Sunwoda annual reports 2021-2024 give no Nanchang capacity; v1 'phase 1 = 4 GWh in 2022' rests only on a 2021 plan article (gasgoo), not a production statement, so it is not added. Confidence stays 0.5 (D-015 cap on the 2024 installed figure)."
+  }
+ ]
 }
