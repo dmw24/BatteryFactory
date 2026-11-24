@@ -1,0 +1,312 @@
+{
+  "task": "T095",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 残酷大洗牌下，10大败落的动力电池巨头 - Waterma 2017 capacity (company-wide)",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "这一年（2017年）沃特玛动力电池实现产能15GWh，全年实际生产8.67GWh，销量达到5.02GWh"
+    },
+    "S2": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 残酷大洗牌下，10大败落的动力电池巨头 - Waterma declared bankrupt (ruling dated 2022-01-24 in the same paragraph)",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "宣告深圳市沃特玛电池有限公司破产"
+    },
+    "S3": {
+      "url": "https://news.metal.com/newscontent/100993301/The-bankruptcy-liquidation-of-the-former-lithium-power-giant-was-accepted-with-a-debt-of-197-billion",
+      "publisher": "SMM (Shanghai Metals Market) news, Waterma bankruptcy liquidation accepted",
+      "published": "2019-11-14",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "Shenzhen Waterma Battery Co., Ltd. is still in operation, the existing staff of more than 800 people"
+    },
+    "S4": {
+      "url": "https://chejiahao.autohome.com.cn/info/15570200/",
+      "publisher": "Autohome chejiahao (汽车之家 车家号), 排名第三的电池巨头沃特玛为何到了即将倒闭的境地 (page byline 2024-06-23; describes 2018 events)",
+      "published": "2024-06-23",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "自从2016年被坚瑞沃能收购后，沃特玛便调整战略 ... 但是沃特玛以往生产基地都是为生产磷酸铁锂电池所建设"
+    },
+    "S5": {
+      "url": "https://chejiahao.autohome.com.cn/info/15570200/",
+      "publisher": "Autohome chejiahao (汽车之家 车家号), Waterma 2018 utilisation and leave notice",
+      "published": "2024-06-23",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "据了解，截止3月底，沃特玛开工率大约20%，部分生产型子公司暂停生产。 ... 自2018年7月1日起全体职工放假六个月"
+    },
+    "S6": {
+      "url": "https://www.jiemian.com/article/10405461.html",
+      "publisher": "Jiemian (界面新闻), 启示录：这十大储能巨头缘何走向败落 - Waterma location",
+      "published": "2023-11-17",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "深圳市坪山新区"
+    },
+    "S7": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhejiang Aoyou 2019 capacity (company-wide)",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2019年产能增至5吉瓦时，预算销售收入约10亿元。"
+    },
+    "S8": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Aoyou three production bases",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "拥有湖州、南浔、肇庆三地三个生产基地。"
+    },
+    "S9": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Aoyou production halt March 2020",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2020年3月，遨优动力宣布因受之信控股集团涉嫌非法集资刑事案件影响，公司固定资产与账户均被刑事查封"
+    },
+    "S10": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhejiang Aoyou bankruptcy liquidation accepted",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "于2020年4月13日受理债权人湖州金源建筑工程有限公司对债务人浙江遨优动力系统有限公司申请的破产清算一案。"
+    },
+    "S11": {
+      "url": "https://m.gelonghui.com/news/5215477",
+      "publisher": "Gelonghui (格隆汇) relaying Jiangte Motor (002176.SZ) announcement, 江特电机：拟参与遨优动力破产重整投资 (year 2026 inferred from dates in the text; page shows 04-22)",
+      "published": "2026-04-22",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "于2025年被肇庆市中级人民法院裁定受理破产重整 ... 遨优动力长期处于停产状态"
+    },
+    "S12": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhongxing Gaoneng Wuhan production start",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "据了解该项目于2018年正式投产。"
+    },
+    "S13": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhongxing Gaoneng production halted",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "中兴高能生产经营出现严重困难，现已暂时停止生产经营"
+    },
+    "S14": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhongxing Gaoneng bankruptcy restructuring",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2021年12月20日，中兴高能被法院裁定破产重整。"
+    },
+    "S15": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Zhongxing Gaoneng becomes SVOLT Wuhan",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "原股东中兴通讯股份有限公司退出，其成为蜂巢能源，并更名为蜂巢能源（武汉）有限公司。"
+    },
+    "S16": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Guoneng built bases",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "已经建成的基地有北京、郑州、襄阳、重庆、海宁、南昌、新余、龙岩几大基地"
+    },
+    "S17": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - MIIT removes Guoneng from standard-conditions list",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "将撤销锂离子电池行业规范公告企业名单（第一批）予以公告，国能电池赫然在列。"
+    },
+    "S18": {
+      "url": "https://www.jiemian.com/article/9712513.html",
+      "publisher": "Jiemian (界面新闻), 10大败落的动力电池巨头 - Guoneng wage arrears from 2019",
+      "published": "2023-07-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "从2019年初开始，国能电池北京公司就出现拖欠工资的情况"
+    },
+    "S19": {
+      "url": "https://www.jiemian.com/article/10405461.html",
+      "publisher": "Jiemian (界面新闻), 启示录：这十大储能巨头缘何走向败落 - Guoneng Jiangxi Fenyi plant",
+      "published": "2023-11-17",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "位于分宜县工业园区的工厂"
+    },
+    "S20": {
+      "url": "https://www.mrjjxw.com/articles/2023-11-29/3138129.html",
+      "publisher": "Daily Economic News (每日经济新闻) via mrjjxw, 知名动力电池企业突发停工停产 - JEVE (捷威动力) capacity and bases",
+      "published": "2023-11-29",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "有效产能达到10GWh，在职人员超过2400名。 ... 总部位于天津，同时拥有盐城、长兴两大生产基地"
+    }
+  },
+  "rows": [
+    {
+      "id": "shenzhen-waterma-battery-waterma-shenzhen-pingshan-base-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "Waterma (沃特玛) Shenzhen Pingshan base",
+        "operator": "Shenzhen Waterma Battery Co., Ltd. (深圳市沃特玛电池有限公司)",
+        "parent_company": "坚瑞沃能 (Jianrui Wo'neng; acquired Waterma 2016)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "cancelled",
+        "site_type": "single_site",
+        "chemistry": "LFP",
+        "source_url": "https://www.jiemian.com/article/9712513.html",
+        "source_date": "2026-11-24",
+        "source_published_date": "2023-07-10"
+      },
+      "evidence": {
+        "status": ["S1", "S3"],
+        "project_state": ["S2", "S5"],
+        "parent_company": ["S4"],
+        "chemistry": ["S4"],
+        "plant_name": ["S6"]
+      },
+      "confidence": 0.35,
+      "notes": "[T095] SURVIVORSHIP add, not in DB or data/removed.csv (Grep zh+en). Waterma was a top-3 Chinese power-battery maker by 2017 installations (2.41 GWh installed, GGII via 每日经济新闻 2018-01-30, not quoted here). Timeline: 2016 acquired by 坚瑞沃能 (S4); 2017 company-wide capacity 15 GWh, produced 8.67 GWh, sold 5.02 GWh (S1); March 2018 utilisation ~20%, some production subsidiaries stopped, all staff on six months leave from 2018-07-01 (S5); 2019-11-07 Shenzhen Intermediate Court accepted a bankruptcy liquidation (SMM 2019-11-14, S3: still operating, 800+ staff); 2022-01-24 restructuring ended and the company was declared bankrupt (S2; date from the same Jiemian paragraph). project_state cancelled = bankrupt without buyer found. Site: HQ/Pingshan (坪山) per S6 (fragment only; the page lists Pingshan as the Shenzhen base) - production at THIS site is not separately evidenced; Waterma had other bases in other provinces (no per-site GWh found; Chinese-press claim of '11 bases' only seen in a search summary of a Zhihu page that returned 403 - not used). CAPACITY NOT ASSIGNED TO THE SITE: the 15 GWh (2017) is a company-wide figure (CONVENTIONS: never a single site's capacity) and it is not stated whether 15 GWh counts cells or packs (Waterma made LFP 32650 cells and packs; source says 动力电池). nameplate/installed/capacity_by_year_json left null. SUGGESTION FOR LEAD (Series E, data/reference/company_capacity): company=Waterma, year=2017, capacity_gwh=15, metric=capacity, quote = S1, source_url = S1; flag 'cell vs pack unclear'. start_year null (not sourced). Coordinates not located."
+    },
+    {
+      "id": "zhejiang-aoyou-power-systems-aoyou-huzhou-nanxun-bases-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "Zhejiang Aoyou Power (浙江遨优动力) Huzhou / Nanxun bases",
+        "operator": "浙江遨优动力系统有限公司 (Zhejiang Aoyou Power Systems Co., Ltd.)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "cancelled",
+        "site_type": "hub",
+        "cell_format": "pouch",
+        "source_url": "https://www.jiemian.com/article/9712513.html",
+        "source_date": "2026-11-24",
+        "source_published_date": "2023-07-10"
+      },
+      "evidence": {
+        "status": ["S7", "S8"],
+        "project_state": ["S9", "S10"],
+        "plant_name": ["S8"]
+      },
+      "confidence": 0.35,
+      "notes": "[T095] SURVIVORSHIP add, not in DB. Aoyou was 'once a star of China's pouch-cell field, focused on lithium-rich manganese power cells, with three bases in Huzhou, Nanxun and Zhaoqing' (S8; cell_format pouch from the same Jiemian passage, '软包电池领域', quote not stored). Company-wide capacity 'rose to 5 GWh in 2019' (S7) - company total across three bases, so NOT assigned to this row (suggest Series E company_capacity: Aoyou, 2019, 5 GWh, S7). Production stopped March 2020 after the parent 之信控股 was criminally investigated (assets and accounts frozen, wages unpaid, S9); 2020-04-13 Huzhou South Taihu New Area court accepted a bankruptcy liquidation petition against 浙江遨优动力系统有限公司 (S10). project_state cancelled (liquidation, no buyer found in my sources; the Zhaoqing entity was later reorganised - see its own row). Huzhou and Nanxun are listed as two bases but Nanxun is a district of Huzhou; the source does not separate them, so one hub row covers both (site_type hub) with null capacity. 浙江之信控股 and the Jan-2020 investigation date (2019-12-17 per the same article) not quoted. start_year null, nameplate null, coordinates not located. ref: capacity phases not sourced."
+    },
+    {
+      "id": "aoyou-zhaoqing-aoyou-power-battery-zhaoqing-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "Zhaoqing Aoyou Power Battery (肇庆遨优动力电池) plant",
+        "operator": "肇庆遨优动力电池有限公司 (Zhaoqing Aoyou Power Battery Co., Ltd.)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "paused",
+        "site_type": "single_site",
+        "source_url": "https://m.gelonghui.com/news/5215477",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-04-22"
+      },
+      "evidence": {
+        "status": ["S8", "S9"],
+        "project_state": ["S11"],
+        "plant_name": ["S8"]
+      },
+      "confidence": 0.35,
+      "notes": "[T095] SURVIVORSHIP add, not in DB (Grep Zhaoqing rows: none is Aoyou). Zhaoqing is the third Aoyou production base (S8); the group stopped production in March 2020 (S9). Jiangte Motor (002176.SZ) announcement relayed by Gelonghui (S11; page shows 04-22, year 2026 inferred from dates in the text): the Zhaoqing company was accepted for bankruptcy reorganisation by the Zhaoqing Intermediate Court in 2025, and 'has long been in a production-stopped state'; Jiangte (via reorganisation investor) is to take ~76% and use the plant for non-power and storage cells after the deal (from the same page; no capacity stated). project_state paused (idle plant with a restart plan under a reorganisation investor) per D-018; installed null. Capacity: only the company-wide 5 GWh (2019) from S7 exists - not assignable to this site; nameplate null. Last producing year ~2019-2020. Zhaoqing court-acceptance fragment 'in 2025' is from the summariser's extraction of the page. start_year null, coordinates not located."
+    },
+    {
+      "id": "svolt-wuhan-formerly-zhongxing-gaoneng-svolt-wuhan-dongxihu-plant-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "SVOLT Wuhan plant (formerly Zhongxing Gaoneng / 中兴高能, Dongxihu)",
+        "operator": "蜂巢能源（武汉）有限公司 (SVOLT Wuhan; formerly 中兴高能技术有限责任公司)",
+        "parent_company": "SVOLT Energy Technology (蜂巢能源)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "start_year": 2018,
+        "site_type": "single_site",
+        "source_url": "https://www.jiemian.com/article/9712513.html",
+        "source_date": "2026-11-24",
+        "source_published_date": "2023-07-10"
+      },
+      "evidence": {
+        "status": ["S12"],
+        "start_year": ["S12"],
+        "plant_name": ["S15"]
+      },
+      "confidence": 0.35,
+      "notes": "[T095] SURVIVORSHIP add, not in DB (the DB has SVOLT Chengdu/Shangrao/Huzhou/Ma'anshan/Suining/Yancheng/Jintan/Nanjing but no Wuhan row; Grep). History per Jiemian 2023-07-10: Zhongxing Gaoneng (ZTE-backed) battery park in Wuhan Dongxihu went into production in 2018 (S12); the article states the plan 'total capacity will reach 8GWh after phase three' (verbatim: 总产能将达8GWh，可满足超过25万辆新能源乘用车电池的配套需求; plan only, phase dates not stated, so NOT used as nameplate or ref-year); production stopped Oct 2020 ('现已暂时停止生产经营', S13, from a circulated supplier e-mail); 2021-12-20 court ordered bankruptcy restructuring (S14); Aug 2022 ZTE exited and the company was renamed 蜂巢能源（武汉）有限公司 (S15). The plant therefore ran 2018-2020, was idle 2020-2022 and is now under SVOLT. project_state active is NOT independently verified for 2026: a 2025 ess-news page (https://www.ess-news.com/2025/11/03/cornex-breaks-ground-on-70-gwh-battery-mega-plant-in-hubei/) was returned in search results as saying the Cornex Wuhan factory has ~60 GWh, but it returned HTTP 503 here and the figure is NOT used. capacity fields null (history 2018-2020 has no dated GWh; current figure unconfirmed) - lead/auditor: re-fetch the ess-news page or an SVOLT filing for current Wuhan nameplate. The 2018 production-start year rests on the sentence 'this project went into production in 2018' (S12, 'project' = the Zhongxing park). Coordinates not located."
+    },
+    {
+      "id": "guoneng-battery-guoneng-jiangxi-fenyi-xinyu-plant-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "Guoneng (国能电池) Jiangxi Fenyi (Xinyu) plant",
+        "operator": "国能电池科技股份有限公司 (Guoneng Battery, Beijing)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "paused",
+        "site_type": "single_site",
+        "source_url": "https://www.jiemian.com/article/10405461.html",
+        "source_date": "2026-11-24",
+        "source_published_date": "2023-11-17"
+      },
+      "evidence": {
+        "status": ["S16", "S19"],
+        "project_state": ["S17", "S18"],
+        "plant_name": ["S19"]
+      },
+      "confidence": 0.3,
+      "notes": "[T095] SURVIVORSHIP add, not in DB (data/reference/candidates/T074_miit_official.csv line 7 lists Guoneng as MIIT-revoked with 'No DB row'). Beijing Guoneng (HQ Fangshan, Beijing) listed built bases in Beijing, Zhengzhou, Xiangyang, Chongqing, Haining, Nanchang, Xinyu and Longyan (S16, 'already-built bases'); the Xinyu one is the Fenyi County industrial-park plant (S19; Jiemian 2023-11-17 gives phase 1 as '10亿AH高性能储能电池' investment RMB1.07bn with 'capacity 4亿AH' - Ah, not GWh, NOT converted). Wage arrears from early 2019 (S18); 2022-12-29 MIIT removed Guoneng from the first batch of lithium-battery standard-conditions enterprises (S17). Status operational is INFERRED: sources say bases were built (建成) and the company ran (arrears, receivables), but production at this specific plant is not explicitly stated - confidence 0.3. project_state paused = effectively dormant (no closure/bankruptcy notice found; no source says 'suspended'): lead may prefer null/active - evidence is indirect (arrears since 2019, MIIT delisting 2022, dishonest-debtor listing 2022 per Jiemian). Capacity: a search-result summary (not a fetched page, URL not attributable) said Guoneng's 8 bases 'reached 11 GWh' (2017/18) - NOT used; Wuxi 3 GWh PACK + 5 GWh cell project (2018) is a different, planned site. All capacity fields null. start_year null. Coordinates not located. The other seven Guoneng bases (Beijing Fangshan, Zhengzhou/Zhongmu, Xiangyang, Chongqing, Haining, Nanchang, Longyan) have no per-site evidence and are NOT added (listed in hand-off)."
+    },
+    {
+      "id": "jeve-tianjin-jiewei-power-jeve-yancheng-base-china",
+      "action": "add",
+      "fields": {
+        "plant_name": "JEVE (捷威动力) Yancheng base",
+        "operator": "JEVE (Tianjin Jiewei Power / 捷威动力)",
+        "country": "China",
+        "region": "China",
+        "status": "operational",
+        "project_state": "active",
+        "site_type": "single_site",
+        "source_url": "https://www.mrjjxw.com/articles/2023-11-29/3138129.html",
+        "source_date": "2026-11-24",
+        "source_published_date": "2023-11-29"
+      },
+      "evidence": {
+        "status": ["S20"],
+        "plant_name": ["S20"]
+      },
+      "confidence": 0.3,
+      "notes": "[T095] SURVIVORSHIP/coverage add. JEVE (Tianjin Jiewei Power) is a Tianjin-HQ cell maker; per Daily Economic News 2023-11-29 (S20) its 'effective capacity reaches 10 GWh' across its HQ in Tianjin and two production bases, Yancheng and Changxing; the article says Tianjin staff were stopped from 2023-12-01 ('自2023年12月1日起天津捷威开始停工停产', fetched, same page) but, per the summariser's reading of the page and the company's reply, that concerned part of the Tianjin back-office/R&D functions, with Yancheng and Changxing running normally (not verbatim-confirmed). Status operational rests on 'production bases' + company effective capacity (S20); the 10 GWh is company-wide, so site capacity is NULL; suggest Series E company_capacity: JEVE, 2023, 10 GWh effective, S20 (note: a Huanqiu article rendered the same figure as 10亿瓦时, a unit error). Existing row jeve-jeve-changxing-huzhou-battery-base-china (T046, announced, stale 2021 plan, conf 0.3) is the Changxing base: S20 calls Changxing an existing production base - lead may update its status; I did not touch it (no GWh/date evidence). Tianjin HQ cell production not evidenced separately -> no Tianjin row. Yancheng start_year/coordinates not found; no project_state concern found for Yancheng as of 2023-11. Freshness: nothing after 2023 checked - confidence 0.3."
+    }
+  ]
+}

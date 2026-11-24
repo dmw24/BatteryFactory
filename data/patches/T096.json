@@ -1,0 +1,254 @@
+{
+  "task": "T096",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.shawlocal.com/daily-journal/2025/11/18/gotion-gives-updates-on-manteno-plant",
+      "publisher": "Shaw Local (Daily Journal, Kankakee), Gotion gives updates on Manteno plant",
+      "published": "2025-11-18",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "currently operating five production lines ... The plant has 300 employees working and is projected to have 450 by the end of the year."
+    },
+    "S2": {
+      "url": "https://www.abc15.com/news/business/lg-energy-solutions-queen-creek-battery-plant-nears-completion-hiring-ramps-up",
+      "publisher": "ABC15 Arizona, LG Energy Solution's Queen Creek battery plant nears completion, hiring ramps up (page carries no date; it links a Business Journal URL dated 2025/08/04, so it is likely Aug 2025 or later - not verified)",
+      "published": null,
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "Their manufacturing facility is about 60% complete. ... they anticipate starting production in summer of 2026."
+    },
+    "S3": {
+      "url": "https://newswitch.jp/p/47510",
+      "publisher": "Newswitch (Nikkan Kogyo Shimbun), Subaru revises EV plan",
+      "published": "2025-11-12",
+      "accessed": "2026-11-24",
+      "language": "ja",
+      "quote": "これにより自社開発ＥＶを２７年以降に生産する予定の大泉工場（群馬県大泉町）内の新工場や、パナソニックエナジーが同町に建設する電池工場の稼働時期などにも影響が出る可能性がある。"
+    },
+    "S4": {
+      "url": "https://technode.global/2026/09/25/cbak-nanjing-12gwh-sodium-ion-battery-project/",
+      "publisher": "TechNode Global, CBAK Nanjing 12GWh sodium-ion battery project",
+      "published": "2026-09-25",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "has signed an investment agreement with the Nanjing Gaochun Economic Development Zone ... a planned 12 gigawatt-hour annual battery-cell project ... subject to securing financing"
+    }
+  },
+  "rows": [
+    {
+      "id": "gotion-gotion-manteno-illinois-united-states",
+      "action": "update",
+      "fields": {
+        "source_url": "https://www.shawlocal.com/daily-journal/2025/11/18/gotion-gives-updates-on-manteno-plant",
+        "source_date": "2026-11-24",
+        "source_published_date": "2025-11-18",
+        "site_type": "single_site"
+      },
+      "evidence": {},
+      "confidence": 0.7,
+      "notes": "[T096] FRESHNESS: still active, newest confirmation 2025-11-18 (S1, Nov-12 board meeting): plant 'currently operating five production lines', ~300 employees, 450 projected by end 2025. Status unchanged (under_construction): the page does not say cells are made; it says the site 'produces LPF [sic] batteries' and makes energy-storage products, and no GWh figure. A search-result summary of S&P Global (autotechinsight, Aug 2025, not opened) describes the lines as assembly lines (EV battery/charger assembly, ESS), so cell production at the 40 GWh plan is NOT evidenced; the five lines may be pack/system assembly. Lead should decide whether this site should be status operational for packs only (out of cell scope) - not changed here. Nameplate 40 / source of that figure (gotionillinois.com FAQ) not touched; source_url moved to the newer page per T096 brief. No 2026 news found (searches: 'Gotion Manteno Illinois plant 2026', 'Gotion Manteno battery cell production lines Illinois 2026 cells packs')."
+    },
+    {
+      "id": "lg-energy-solution-lg-energy-solution-arizona-queen-creek-united-states",
+      "action": "update",
+      "fields": {
+        "source_url": "https://www.abc15.com/news/business/lg-energy-solutions-queen-creek-battery-plant-nears-completion-hiring-ramps-up",
+        "source_date": "2026-11-24",
+        "site_type": "single_site"
+      },
+      "evidence": {},
+      "confidence": 0.5,
+      "notes": "[T096] FRESHNESS: still active. ABC15 (S2; page undated, links a Business Journal item dated 2025/08/04 so probably Aug 2025+; source_published_date left null) quotes Queen Creek's economic development director: facility 'about 60% complete', production expected 'summer of 2026'. Status unchanged (under_construction); NO report found that production has started as of 2026-11-24 (searches: EN 'LG Energy Solution Arizona Queen Creek cell plant 2026 production start', KR 'LG에너지솔루션 애리조나 퀸크릭 공장 양산 시작', 'LGES Arizona battery plant Queen Creek news November 2026', 'Queen Creek LG Energy Solution plant production start 2026...'; a Newsis 2026-07-08 result on LGES North American ESS output did not mention Arizona). CAUTION for nameplate 53 GWh (not changed): the 53 GWh complex = ~36 cylindrical + ~17 LFP ESS (search summaries); ABC15 'hits pause on second Arizona battery plant' (page undated, linked Business Journal 2024-06-28) says LGES paused the second (ESS) plant and only the cylindrical plant's 2026 start is expected; later reporting (Korea JoongAng Daily 2025-03, search result only) said it would resume with no date. So ~17 GWh of the 53 may be a paused phase; v2 nameplate may overstate the active pipeline - lead to decide (D-014/D-017) with a dated LGES source; I did not find one. Confidence kept 0.5."
+    },
+    {
+      "id": "panasonic-energy-panasonic-energy-oizumi-factory-japan",
+      "action": "update",
+      "fields": {
+        "source_url": "https://newswitch.jp/p/47510",
+        "source_date": "2026-11-24",
+        "source_published_date": "2025-11-12",
+        "site_type": "single_site"
+      },
+      "evidence": {},
+      "confidence": 0.6,
+      "notes": "[T096] FRESHNESS: project still referred to as a battery plant Panasonic Energy is building in Oizumi (S3, Nikkan Kogyo via Newswitch, 2025-11-12), but the same sentence says Subaru's EV-plan revision may affect its start timing ('影響が出る可能性'). Search results (not opened) also mention a Subaru statement of 2026-05-15 that its in-house BEV launch and Oizumi BEV line are being pushed back, and an environmental-assessment document for the '(仮称)大泉電池工場' (Nov 2025); no formal postponement or cancellation by Panasonic Energy was found. Status unchanged (announced), project_state unchanged (active), nameplate 16 / start 2028 / 2030 ramp not re-confirmed here and left out of fields; start_year 2028 (v1) is now at risk. Confidence 0.65 -> 0.6. Searches: EN 'Panasonic Energy Oizumi 2028 plan delay...', JP 'パナソニックエナジー 大泉工場 スバル 新工場 延期 見直し 2026'. Subaru PDF 2025-11-04 returned HTTP 404."
+    },
+    {
+      "id": "cbak-energy-nanjing-gaochun-sodium-ion-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "announced",
+        "source_url": "https://technode.global/2026/09/25/cbak-nanjing-12gwh-sodium-ion-battery-project/",
+        "source_date": "2026-11-24",
+        "source_published_date": "2026-09-25",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S4"]
+      },
+      "confidence": 0.5,
+      "notes": "[T096] FRESHNESS: confirmed active and fresh (S4, 2026-09-25; same story in ess-news 2026-10-02, which returned HTTP 503 here): CBAK signed an investment agreement with Nanjing Gaochun EDZ for a planned 12 GWh/yr cell project. No construction started: per the fetched page the company plans to start 'in late 2027' (paraphrase; verbatim fragment 'subject to securing financing') and development depends on financing, customer demand and project readiness. Status announced confirmed. NOTE: existing capacity_ref_year 2026 looks wrong/unsupported (start is late 2027 at the earliest); nameplate 12 and ref_year are NOT in fields (not vouched) - lead should review ref_year (fallback = publication year 2026 would be the convention, with 'ref_year: fallback, searched'). Chemistry: lines can make sodium-ion or lithium-ion cells (S4); v1 'sodium-ion' is not firm. Search results also mention a separate +6 GWh expansion at the existing Nanjing plant by end-2026 (cbak-energy-nanjing-plant-china, not my row; not opened)."
+    },
+    {
+      "id": "catl-luoyuan-times-new-energy-battery-industrial-base-luoyuan-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.52,
+      "notes": "[T096] no news found since 2025-04-27 (newest source, energytrend/solarbe: construction of phase 1 started 2025-04-24, 40 GWh, RMB 6.5bn); searched '宁德时代 罗源 时代新能源 电池产业基地 2025 投产' and '罗源 时代新能源 电池 产业基地 首批 交付 2026'. A search-result summary (solarbe 2025-04-27, not re-opened) says the Luoyuan development bureau expected first delivery in Oct 2025 and 达产 by mid-2027; no report found that delivery/production happened. Results with 2026-11 dates (stdaily, xinhuanet 2026-11-04) came up for the query but were not opened - they may concern another CATL base (a Jiaocheng/Jinchui base nearing delivery appeared in results). Confidence 0.62 -> 0.52. State unchanged (active, under_construction)."
+    },
+    {
+      "id": "elinor-batteries-elinor-batteries-gigafactory-eiktyr-industrial-park-orkland-norway",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.35,
+      "notes": "[T096] no confirming news found of construction or production; searches: 'Elinor Batteries Orkland gigafactory 2026', 'Elinor Batteries Orkland Eiktyr batterifabrikk 2026 utsatt'. Newest item found: tu.no article dated 2026-08-21 (https://www.tu.no/artikler/mener-ingen-skjonte-hvor-krevende-batteriproduksjon-ville-bli/566161) - paywalled; only a photo caption visible ('Arne Fredrik Lånke er medgründer i Elinor, som planlegger fabrikk i Orkland'), i.e. still 'planning'. A search-result summary attributes to that article a statement that start-up is at the earliest four years away (about 2030); NOT verified (paywall), so not used as evidence; the existing ref_year 2030 is consistent with it. No formal postponement/cancellation found, so project_state stays active. Confidence 0.45 -> 0.35."
+    },
+    {
+      "id": "statevolt-emirates-statevolt-ras-al-khaimah-united-arab-emirates",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since April 2024 (announcement coverage: $3.2bn, up to 40 GWh, Q4 2026 launch target); searched 'Statevolt Ras Al Khaimah gigafactory update' only (1 search; weaker than the 2-3 required). No evidence of construction; the v1 start_year 2026 and the 2026: 6 GWh ramp step now look unachievable and are unconfirmed - not changed here, flagged. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "china-pingmei-shenma-consortium-pingdingshan-60gwh-storage-and-power-battery-project-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.2,
+      "notes": "[T096] no news found since 2023-11 (newest source: signing 2023-10-22; phase-1 start 2023-11-09, 12-month build); searched '平顶山 60GWh 储能动力电池 项目 平煤神马 进展' (1 search; results all Oct-Nov 2023, nothing on production, phase 2 or delay). Silence may mean stalled; no explicit pause/cancel evidence so project_state stays active. Confidence 0.3 -> 0.2 (floor)."
+    },
+    {
+      "id": "inner-mongolia-juneng-zhengxin-energy-storage-technology-hohhot-50gwh-sodium-ion-park-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since the 2024-07-28 groundbreaking (newest source: Mysteel/EnergyTrend 2024-08); searched '呼和浩特 50GWh 钠离子电池 储能 产业园 巨能 正鑫' (1 search). Results only repeated 2024 start (phase 1 10 GWh planned complete Dec 2025; phase 2 40 GWh); a construction-database snippet (worldconstructionnetwork, not opened) gives completion Q4 2026 - not citable. No production or pause evidence. Confidence 0.4 -> 0.3."
+    },
+    {
+      "id": "farasis-energy-farasis-wuhu-plant-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.2,
+      "notes": "[T096] no news found on the Wuhu 24 GWh project since the 2021 plan/10-2021 start (newest source cnevpost 2021-09-01); searched 'Farasis Energy Wuhu plant 孚能科技 芜湖 项目 2025 2026 进展' (EN+ZH in one query; 1 effective search). Results: a Jiemian item that two Farasis projects with a cumulative 60 GWh were delayed almost a year (snippet only, not opened, project not named), and Farasis 2026 H1 results with higher depreciation (not opened). Farasis filings on cninfo/SSE not checked. Confidence 0.3 -> 0.2 (floor). State unchanged."
+    },
+    {
+      "id": "tianjin-lishen-battery-joint-stock-co-ltd-lishen-tianjin-plant-tianjin-binhai-new-energy-industry-base-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2022-07 (newest source EnergyTrend 2022-07-05); searched '力神电池 天津 无锡 基地 项目 2026 投产 进展' (1 search shared with the Wuxi row). Results had an undated aggregator page on the Lishen Binhai base start-up (could not date it, not opened) and an unrelated 2026-04 article on Enli Power (opened, not Lishen). Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "tianjin-lishen-battery-lishen-wuxi-new-energy-industrial-base-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2022 (newest source SMM, Lishen started two projects, 2021-22); searched '力神电池 天津 无锡 基地 项目 2026 投产 进展' (1 search shared with the Tianjin row) - nothing on the Wuxi base at all. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "wenzhou-findreams-battery-co-ltd-byd-findreams-wenzhou-battery-base-qiaotou-yongjia-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found on the Qiaotou/Yongjia base beyond the 2022 MarkLines item; searched '弗迪电池 徐州 温州 永嘉 桥头 动力电池 项目 2026' (1 search shared with the Xuzhou row). A 2025 report only lists Wenzhou Yongjia among BYD's three Zhejiang power-battery bases (snippet, not opened; no capacity or status). BYD likely operates this base but nothing opened supports operational status. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "byd-findreams-battery-byd-findreams-xcmg-findreams-xuzhou-blade-battery-plant-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2024-01 (newest source solarbe 2024-01-16); searched '弗迪电池 徐州 温州 永嘉 桥头 动力电池 项目 2026' (1 search shared with Wenzhou row). A result (undated, ~2023) says the XCMG-FinDreams base was topped out and planned trial production in March the following year; no operating confirmation or 2025-26 news opened. EnergyTrend 2026-07-31 (opened) is unrelated. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found on a Zoolnasm (众钠能源) Guangde cell base since 2023-11 (newest source cnevpost 2023-11-20); searched '众钠能源 广德 钠离子电池 基地 投产 2026' (1 search). Results: Zoolnasm's only reported 2026 start-up is a sodium iron sulfate cathode-material base in Meishan, Sichuan (not cells, not this site; snippet only). A guangde.gov.cn page (HTTP 503, not read) was summarised as reporting a different company's (Anhui Qingna Energy) 10 GWh sodium-ion base with first line in production, published June 2025 - unverified, possible name confusion with this row, flagged for the lead. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "great-power-great-power-ulanqab-energy-storage-and-semi-solid-state-cell-plant-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2024 (newest source EnergyTrend print/47965, 2024); searched '鹏辉能源 乌兰察布 储能 半固态 电芯 项目 广德 2026 投产' (1 search shared with the Guangde row) - nothing on Ulanqab. Great Power's 2025 annual report (cninfo 2026-04-29, already cited on other Great Power rows) was not searched for this site. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "great-power-great-power-guangde-plant-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.35,
+      "notes": "[T096] no news found beyond the existing source (cls.cn/detail/1863583); searched '鹏辉能源 乌兰察布 储能 半固态 电芯 项目 广德 2026 投产' (1 search shared with Ulanqab) - nothing on a Great Power Guangde plant. Great Power's 2025 annual report (cninfo 2026-04-29) not checked for this site. Confidence 0.45 -> 0.35. State unchanged."
+    },
+    {
+      "id": "deyi-energy-technology-tongling-deyi-tongling-zongyang-power-battery-project-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2023-09-27: the row's own source (cls.cn/detail/1474100, fetched) is dated 2023-09-27 and says first equipment had entered installation/commissioning, 20 GWh, factory complete 'by end of 2026'. Search '得壹能源 铜陵 枞阳 动力电池 项目 奇瑞 全固态 芜湖 2026' found only: Deyi Energy registered capital raised 18bn -> 23bn CNY in June 2026 (eastmoney 2026-06-05, snippet, not opened) and Chery all-solid-state news (not this site). No production or delay evidence. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "chery-automobile-deyi-wuhu-all-solid-state-battery-line-china",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.2,
+      "notes": "[T096] no news found on the 1.25 GWh Wuhu solid-state line since 2024-11 (newest source carnewschina 2024-11-19); searched '得壹能源 铜陵 枞阳 动力电池 项目 奇瑞 全固态 芜湖 2026' (1 search shared with Deyi Tongling). Chery statements in results (snippets, not opened): 2026-03 'Rhino S' all-solid-state cell launch with mass production planned 2027; 2026-09 vehicle validation planned 2027 - these suggest the line is not yet in commercial production but do not name the 1.25 GWh line. Confidence 0.3 -> 0.2 (floor)."
+    },
+    {
+      "id": "godi-india-godi-energy-hyderabad-gigafactory-india",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.3,
+      "notes": "[T096] no news found since 2024-01 (newest source pv-magazine-india 2024-01-18; MoU with Telangana, Rs 8,000 crore, 2.5 GWh phase 1 to 10 GWh phase 2, 12.5 GWh); searched 'Godi India Hyderabad gigafactory OR International Battery Company Bengaluru OR Lucas TVS cell plant 2026 update' (1 search; the query was reduced to Godi only by the engine). Result only repeats 2024 plan. Confidence 0.4 -> 0.3. State unchanged."
+    },
+    {
+      "id": "pomega-energy-storage-technologies-pomega-colleton-county-south-carolina-united-states",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.25,
+      "notes": "[T096] no news found since 2024-05 (newest item seen: Charleston Business 2024-05-14, plant expected to begin production in 2024; row source Solar Power World 2023-02); searched 'Pomega Colleton County South Carolina battery factory Kontrolmatik 2026' (1 search). No evidence of opening, pause or cancellation. Confidence 0.35 -> 0.25."
+    },
+    {
+      "id": "inobat-inobat-uprija-project-lion-serbia",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.2,
+      "notes": "[T096] no news found since the 2023-09-25 MoU on the Ćuprija 'Project Lion' gigafactory; searched 'InoBat Ćuprija Serbia gigafactory 2026 update' (1 search). Results show InoBat's newer activity is elsewhere (Gotion InoBat Slovakia, Valladolid Spain grant Sept 2025); a Serbian outlet snippet doubts the project (not opened, undated). No explicit cancellation, so project_state stays active; no capacity in row. Confidence 0.3 -> 0.2 (floor)."
+    },
+    {
+      "id": "siro-siro-gemlik-turkey",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.4,
+      "notes": "[T096] no news found since 2023-04 (newest source electrive 2023-04-26, foundation stone for the cell plant, cells 'scheduled to go into operation in 2026', 20 GWh by 2031); searched 'Siro Gemlik battery factory Togg Farasis production start', 'Siro Togg battery cell factory Gemlik 2026 hücre fabrikası üretim' (3 searches incl. one general). Results confirm only module/pack series production from March 2023 (not cells). No report that cell production started in 2026, and no explicit delay found; v1 start_year 2026 unconfirmed. Confidence 0.5 -> 0.4. State unchanged."
+    },
+    {
+      "id": "blue-energy-co-ltd-honda-gs-yuasa-new-battery-plant-blue-energy-bev-lithium-ion-plant-japan",
+      "action": "update",
+      "fields": {},
+      "evidence": {},
+      "confidence": 0.45,
+      "notes": "[T096] no news found since the row's source (GS Yuasa IR Q&A 2025-05-13); searched EN 'Blue Energy Honda GS Yuasa Ritto Shiga new plant 2027 construction update' and JP 'ブルーエナジー 滋賀 新工場 ホンダ GSユアサ 稼働 延期 2026'. Results only repeat the 2023 plan (JPY 434.1bn, 20 GWh, line start April 2027, full production Oct 2027). Unrelated results: Honda delayed its Canada EV plant by two years; Toyota/Nissan Japan battery plant delays - no Blue Energy-specific delay found. Confidence 0.55 -> 0.45. State unchanged."
+    }
+  ]
+}
