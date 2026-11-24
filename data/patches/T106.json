@@ -1,0 +1,100 @@
+{
+  "task": "T106",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://m.thepaper.cn/newsDetail_forward_34074464",
+      "publisher": "The Paper (澎湃新闻), report on CATL's SAMR-cleared acquisition of Geely-system Chongqing Yaoning battery plant (2026-09-15; fetched via the mobile 'forward' URL; quote as extracted by the fetch tool)",
+      "published": "2026-09-15",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "一座由吉利体系投入约85亿元、规划产能30GWh的在建电池工厂，完成反垄断审查，即将划入宁德时代版图。"
+    },
+    "S2": {
+      "url": "https://m.thepaper.cn/newsDetail_forward_34074464",
+      "publisher": "The Paper (澎湃新闻), same article as S1 (project timeline paragraph; quote as extracted by the fetch tool)",
+      "published": "2026-09-15",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "2022年5月，项目正式开工，总投资约85亿元，占地面积约480亩 ... 耀宁科技集团涪陵动力电池生产基地P1项目厂房在今年6月已封顶，原计划2026年12月试生产、2027年一季度正式投产"
+    },
+    "S3": {
+      "url": "https://paper.people.com.cn/zgnyb/pc/content/202609/28/content_30183959.html",
+      "publisher": "China Energy News (中国能源报, hosted on paper.people.com.cn), CATL / Geely capacity consolidation report (date taken from URL path 2026-09-28; quote as extracted by the fetch tool)",
+      "published": "2026-09-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "重庆耀宁是吉利体系下的一座在建电池工厂"
+    },
+    "S4": {
+      "url": "https://m.bjnews.com.cn/detail/1789467871129849.html",
+      "publisher": "Beijing News (新京报, 贝壳财经 channel), report on Geely / CATL Yaoning deal (2026-09-16; quote as extracted by the fetch tool)",
+      "published": "2026-09-16",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "重庆重庆耀宁新能源科技有限公司（涪陵工厂）的注册资本为1亿元人民币。"
+    },
+    "S5": {
+      "url": "https://www.tmtpost.com/8002341.html",
+      "publisher": "TMTPost (钛媒体), 钛度号 column by 预见能源, on Inner Mongolia local state capital storage 'placeholder' filings (2026-05-26; quote as extracted by the fetch tool)",
+      "published": "2026-05-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "内蒙古智联汇通物流有限公司以备案主体的身份，上报了一个年产30GWh大容量电芯的储能智造项目，总投资75亿元。"
+    },
+    "S6": {
+      "url": "https://www.tmtpost.com/8002341.html",
+      "publisher": "TMTPost (钛媒体), same article as S5 (company registration paragraph; quote as extracted by the fetch tool)",
+      "published": "2026-05-26",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "这家公司于2026年3月24日注册，由阿拉善地方国资100%持股，经营机动车修理和道路货物运输，注册资本仅仅1万元。"
+    },
+    "S7": {
+      "url": "https://www.energytrend.com/news/20260526-51470.html",
+      "publisher": "EnergyTrend (TrendForce), Alxa Zhilian Huitong 30 GWh cell project filing (2026-05-26; quotes copied from the T023 field_evidence rows, which T023 verified on the page)",
+      "published": "2026-05-26",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The project comprises workshops for 30 GWh large-capacity cells, batteries, formation and grading, ... Construction is set to start in May 2027, and the project is scheduled for completion and operation in May 2030."
+    }
+  },
+  "rows": [
+    {
+      "id": "chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "status": "under_construction",
+        "nameplate_capacity_gwh": 30,
+        "capacity_ref_year": 2026,
+        "project_state": "active",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S2", "S3"],
+        "nameplate_capacity_gwh": ["S1"],
+        "capacity_ref_year": ["S1"]
+      },
+      "confidence": 0.62,
+      "notes": "[T106] confidence 0.4 -> 0.62; field values unchanged (under_construction, 30 GWh, ref_year 2026), installed and start_year stay null. NEW evidence, fetched 2026-11-24: (1) The Paper (S1/S2, 2026-09-15): 'planned capacity 30GWh', ~CNY 8.5bn from the Geely system, an under-construction plant; project started 2022-05 (~480 mu); the P1 plant building was topped out in 2026-06, trial production originally planned 2026-12 and formal production 2027 Q1. (2) China Energy News (S3, 2026-09-28): 'a battery plant under construction within the Geely system'; it names the CATL acquisition cleared by SAMR and says it is carried out through the Times Geely JV (时代吉利动力电池有限公司). (3) Beijing News (S4, 2026-09-16): the Fuling factory is a newly built plant, registered capital CNY 100m. Status: physical works since 2022-05 and a topped-out building, with trial production not yet started -> under_construction (D-020), not operational. Capacity: The Paper and the earlier CLS page (T066:S7) carry identical figures (CNY 8.5bn, 30 GWh, Dec-2026 trial, Q1-2027 formal), so I do NOT count them as two independent origins; no CATL/Geely filing or Chongqing/Fuling government page states the GWh, and the earlier search-summary mention of 18 GWh could not be traced to a page. Hence 0.62 (a reputable outlet with specific, internally consistent plan data plus state-media confirmation of status), not higher. 30 GWh covers cells with modules/PACK of the same line, counted as cell capacity per D-031 (T090 note). ref_year 2026: ref_year: fallback, searched (publication year; only P1 trial/formal production dates are stated, no 达产 year; 2022 groundbreaking and 2026-06 topping-out are not used). Ownership: CATL acquisition cleared by SAMR (search summary dated 2026-09-03 for the decision; not a quoted source); operator may change to the Times Geely JV after closing - re-check. Possible confusion checked and rejected: REPT Battero also has a 30 GWh Fuling (Chongqing) project (existing row rept-battero-rept-battero-chongqing-plant-china; CNY ~10bn, 2023), a different company with a different start date and investment; the two are not the same site per The Paper's 2022-05 / CNY 8.5bn / 480 mu. ESCALATE (still needs): a CATL or Geely filing or a Fuling/Chongqing government page stating the 30 GWh and whether it is phased (P1 vs later). Quotes S1-S4 were extracted by the fetch tool, not hand-copied from raw HTML; string-match them."
+    },
+    {
+      "id": "inner-mongolia-zhilian-huitong-logistics-alxa-30gwh-cell-project-china",
+      "action": "update",
+      "fields": {
+        "status": "announced",
+        "nameplate_capacity_gwh": 30,
+        "capacity_ref_year": 2030,
+        "project_state": "active",
+        "site_type": "single_site"
+      },
+      "evidence": {
+        "status": ["S7"],
+        "nameplate_capacity_gwh": ["S5", "S7"],
+        "capacity_ref_year": ["S7"]
+      },
+      "confidence": 0.3,
+      "notes": "[T106] confidence 0.35 -> 0.3; field values unchanged (announced, 30 GWh, ref_year 2030). New evidence S5/S6 (TMTPost 2026-05-26, analysis piece by 预见能源): the 30 GWh 'large-capacity cell' storage manufacturing project (CNY 7.5bn) was filed by Inner Mongolia Zhilian Huitong Logistics, a company registered 2026-03-24, 100% owned by Alxa local state capital, business scope vehicle repair and road freight, registered capital only CNY 10,000; the piece presents this as an example of local governments 'placeholder' (占坑) filings. The EnergyTrend report (S7, 2026-05-26) is a filing approval only: construction planned to start May 2027, completion/operation May 2030 (so ref_year 2030 is the filing's planned date, not a build progress fact). Both sources describe the same filing, so there is still one origin for 30 GWh and no sign of funding or works (the 7.5bn is mostly bank loans per T023:S19e). Status announced (D-020), project_state kept active because no source says the filing was withdrawn. Lowered because the new source says the entity is a capital-light placeholder. S7 text says the workshops also cover batteries, formation and grading (and per T023 modules/PACK/testing); the 30 GWh is stated as cells so it is kept (D-026 would null it only if the lead reads 'energy-storage equipment' as part of the 30 GWh). ESCALATE: >=10 GWh at 0.3; needs the Alxa/Inner Mongolia filing record or a later report naming a real cell manufacturer/partner, a financing close or a groundbreaking; otherwise consider cancelled/null nameplate. Quotes S5/S6 were extracted by the fetch tool; string-match them. Unrelated to Jiuxu Sodium (Alxa) row."
+    }
+  ]
+}

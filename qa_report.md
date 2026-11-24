@@ -264,7 +264,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | CosMX Zhuhai Plant (Zhuhai headquarters / polymer lithium-ion battery base) | Zhuhai CosMX Battery Co., Ltd. | China | operational |
 | CosMX Chongqing Plant | Zhuhai CosMX Battery | China | operational |
 
-## 3. Rows with confidence < 0.5 (253)
+## 3. Rows with confidence < 0.5 (252)
 
 | plant | operator | country | conf | is_cell | note |
 |---|---|---|---:|:---:|---|
@@ -318,6 +318,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Jianheng Aoneng Dalate Banner sodium-ion battery base (Ordos supply-chain area) | Inner Mongolia Jianheng Aoneng Technology Co., Ltd. | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep, Ordos). SMM 2025-07-14 (S9): phase I (… |
 | Hohhot 50 GWh sodium-ion battery and energy storage industrial park (Hohhot Economic and Technological Development Zone) | Inner Mongolia Juneng Zhengxin Energy Storage Technology Co., Ltd. (Chinese name unconfirmed) | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep). Launch ceremony 2024-07-28 (S4, S5): … |
 | Ordos Juungar Banner sodium-ion battery and energy storage industrial park (Juungar Economic Development Zone) | Inner Mongolia Xinjing New Energy Technology Co. (name as transliterated by China Daily; Chinese name unconfirmed) | China | 0.3 | N | [T067 2026-11-22] [T067] NEW (Inner Mongolia sweep). China Daily 2025-09-04 (S7): investme… |
+| Alxa 30 GWh cell and energy-storage equipment project (Zhilian Huitong) | Inner Mongolia Zhilian Huitong Logistics Co., Ltd. | China | 0.3 | N | [T023 2026-11-20] REVISED after audit: nameplate now cited to S19d (page wording: workshop… |
 | International Battery Company Bengaluru Gigafactory | International Battery Company | India | 0.3 | Y | [T018 2026-11-20] Status: groundbreaking of the INR 390 crore 'Giga Factory Unit' in Benga… |
 | JEVE (捷威动力) Changxing (Huzhou) 12 GWh battery base | JEVE (Tianjin Jiewei Power / 捷威动力) | China | 0.3 | N | [T046 2026-11-20] NEW but STALE. MarkLines teaser (page date 2021-08-02, 'JEVE 12GWh new-e… |
 | JEVE (捷威动力) Yancheng base | JEVE (Tianjin Jiewei Power / 捷威动力) | China | 0.3 | N | [T095 2026-11-24] [T095] SURVIVORSHIP/coverage add. JEVE (Tianjin Jiewei Power) is a Tianj… |
@@ -369,7 +370,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Great Power Guangde plant | Great Power | China | 0.35 | Y | [T008 2026-11-20] Company plan (board announcement 2024-11-19): 10 GWh storage cells + sys… |
 | Guoneng (国能电池) Jiangxi Fenyi (Xinyu) plant | 国能电池科技股份有限公司 (Guoneng Battery, Beijing) | China | 0.35 | N | [T095 2026-11-24] [T095] SURVIVORSHIP add, not in DB (data/reference/candidates/T074_miit_… |
 | INESIS gigafactory, New Moscow (planned; possibly the second Krasnaya Pakhra plant) | Innovative Energy Systems (INESIS / ИНЭСИС) | Russia | 0.35 | N | [T052 2026-11-20] NEW (T052 sweep, Russia; not in DB or removed.csv: no match for INESIS/И… |
-| Alxa 30 GWh cell and energy-storage equipment project (Zhilian Huitong) | Inner Mongolia Zhilian Huitong Logistics Co., Ltd. | China | 0.35 | N | [T023 2026-11-20] REVISED after audit: nameplate now cited to S19d (page wording: workshop… |
 | Li-FUN Zhuzhou Plant | Li-FUN Technology | China | 0.35 | Y | [T022 2026-11-20] Status unconfirmed. Only open source fetched: 36Kr company profile - Hun… |
 | Kusatsu Plant (Lithium Energy Japan) | Lithium Energy Japan (LEJ) | Japan | 0.35 | Y | [T019 2026-11-20] Kusatsu plant (Shiga) began shipping June 2009 with capacity ~110 MWh/yr… |
 | Log9 Materials Bengaluru Cell Facility | Log9 Materials | India | 0.35 | Y | [T018 2026-11-20] pv magazine India 2023-04-24 (S41): Log9 'has launched the production' a… |
@@ -407,7 +407,6 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | CATL Xiamen battery base (Xiamen Times New Energy) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (unresolved after 3 further Chinese searches and 2 opened pages… |
 | CATL Xining plant (Qinghai Times New Energy Technology Co., Ltd.) | CATL | China | 0.4 | Y | [T002 2026-11-20] ESCALATE (capacity). Qinghai Times is named in CATL's 2025 annual report… |
 | China Lithium Battery Technology (Luoyang) Co., Ltd. (中航锂电（洛阳）, 'Luoyang Company') cell plant, Luoyang | China Lithium Battery Technology (Luoyang) Co., Ltd. | China | 0.4 | N | [T057 2026-11-20] [T057] New row (lead from data/reference/operator_sites/T004.csv, exclud… |
-| Chongqing Yaoning New Energy 30 GWh battery plant (Geely; sale to CATL approved 2026) | Chongqing Yaoning New Energy (重庆耀宁新能源) | China | 0.4 | N | [T066 2026-11-22] [T066 NEW; found while checking ENERGEE - outside the eight named base c… |
 | Dejia Energy (Shanghai) Lingang Blue Bay solid-state line | Dejia Energy (Shanghai) Co., Ltd. (德嘉能源（上海）) | China | 0.4 | N | [T046 2026-11-20] NEW (no match on Dejia / 德嘉 in the DB). SMM 2026-03-02: Dejia Energy (Sh… |
 | Docters (Tianjin) all-solid-state battery GWh line | Docters (Tianjin) New Energy Technology Co., Ltd. (道克特斯（天津）新能源科技有限公司) | China | 0.4 | N | [T048 2026-11-20] NEW (T048 sweep, Tianjin). S9: on 1 July 2026 the company announced its … |
 | e-Zinc Mississauga Pilot Manufacturing Facility | e-Zinc | Canada | 0.4 | Y | [T020 2026-11-20] 42,000 sq ft pilot manufacturing facility at 7391 Pacific Circle, Missis… |
