@@ -1,0 +1,94 @@
+{
+ "task": "T110",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0923/2022092300035.pdf",
+   "publisher": "CALB Group prospectus (Global Offering, HKEX) – production base table",
+   "published": "2022-09-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Base – Phase I Changzhou 1.81 1.99 90.6% 0.56 0.61 91.5% 1.94 2.06 94.1%"
+  },
+  "S2": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0923/2022092300035.pdf",
+   "publisher": "CALB prospectus",
+   "published": "2022-09-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Base – Phase II Changzhou – – – 2.29 2.47 92.6% 5.90 6.12 96.4%"
+  },
+  "S3": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0923/2022092300035.pdf",
+   "publisher": "CALB prospectus",
+   "published": "2022-09-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Xiamen Production Base Xiamen – – – – – – 1.28 1.36 94.0%"
+  },
+  "S4": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0923/2022092300035.pdf",
+   "publisher": "CALB prospectus",
+   "published": "2022-09-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Luoyang Production Base Luoyang 0.88(5) 0.97(5) 90.7% 0.93 1.02 90.9% 2.21(8) 2.36(8) 93.8%"
+  },
+  "S5": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0923/2022092300035.pdf",
+   "publisher": "CALB prospectus",
+   "published": "2022-09-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Production capacity is based on the optimal hourly production rate of various machines operating 24 hours a day for 330 working days a year"
+  }
+ },
+ "rows": [
+  {
+   "id": "calb-calb-changzhou-jintan-battery-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 1.99, \"2020\": 3.08, \"2021\": 8.18}",
+    "site_type": "single_site"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S1",
+     "S2",
+     "S5"
+    ]
+   },
+   "notes": "T110 lead: CALB prospectus production-base table (annual production capacity, 330-day basis): Changzhou Phase I 1.99/0.61/2.06 + Phase II –/2.47/6.12 GWh for 2019/2020/2021 -> steps 2019:1.99, 2020:3.08, 2021:8.18 (effective annual capacity; year-end design likely higher)."
+  },
+  {
+   "id": "calb-calb-xiamen-battery-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2021\": 1.36, \"2023\": 10, \"2027\": 60}",
+    "site_type": "single_site"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S3",
+     "S5"
+    ]
+   },
+   "notes": "T110 lead: prospectus: Xiamen base first capacity 1.36 GWh in 2021 (consistent with production start end-2020)."
+  },
+  {
+   "id": "china-lithium-battery-technology-luoyang-co-ltd-calb-luoyang-lithium-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 0.97, \"2020\": 1.02, \"2021\": 2.36}",
+    "site_type": "single_site"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "S4",
+     "S5"
+    ]
+   },
+   "notes": "T110 lead: prospectus: Luoyang base capacity 0.97 (Jun–Dec 2019, after CALB acquired Luoyang Company), 1.02 (2020), 2.36 (2021 to Nov 7, when CALB's ownership ended)."
+  }
+ ]
+}
