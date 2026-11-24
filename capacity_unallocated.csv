@@ -5,6 +5,11 @@ CATL,2022,390.0,264.0,126.0,China,global|all_li,annual_effective,"",http://stati
 CATL,2023,552.0,300.0,252.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2024-03-16/1219313047.PDF,产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 552 100 70.47% 389
 CATL,2024,676.0,385.0,291.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2025-03-15/1222806982.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 676 219 76.33% 516
 CATL,2025,772.0,875.0,0.0,China,global|all_li,annual_effective,sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF,项目 产能 在建产能 产能利用率 产量 ... 电池系统（GWh） 772 321 96.9% 748
+Great Power,2021,5.87,0.0,5.9,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2022-04-28/1213172089.PDF,"锂离子电池 18.35 亿Ah 年化 (产能 column, annual report FY2021)"
+Great Power,2022,11.58,0.0,11.6,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2023-04-27/1216625879.PDF,"锂离子电池 36.2 亿Ah 年化 (产能 column, annual report FY2022)"
+Great Power,2023,21.67,0.0,21.7,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2024-04-27/1219864805.PDF,"锂离子电池 67.72 亿Ah 年化 (产能 column, annual report FY2023)"
+Great Power,2024,24.04,0.0,24.0,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2025-04-24/1223245174.PDF,"锂离子电池 75.14 亿Ah 年化 (产能 column, annual report FY2024)"
+Great Power,2025,27.72,12.0,15.7,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,"锂离子电池 86.64 亿Ah 年化 (产能 column, annual report FY2025)"
 Hithium,2022,5.4,15.0,0.0,China,global|ess_only,annual_effective,sites_exceed_disclosed,https://m.jiemian.com/article/13809441.html,2022-2024年，海辰储能的储能电池有效年产能由5.4GWh增至49.7GWh，年复合增速增至203%。
 Hithium,2024,62.0,45.0,17.0,China,global|ess_only,year_end,"",https://www.yicai.com/news/102847042.html,截至2024年末，该公司的设计产能达62GWh。
 Narada,2022,4.5,0.0,4.5,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2023-04-22/1216522877.PDF,产能 在建产能 产能利用率 产量 ... 锂离子电池 4.5GWh 5GWh 81.11% 3.65GWh

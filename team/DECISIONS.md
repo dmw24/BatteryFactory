@@ -59,3 +59,12 @@ publisher's own free press release / insight page (BNEF, Benchmark, Rho Motion, 
 url + verbatim quote + definition (nameplate/commissioned vs effective vs output; global vs region; cells vs packs).
 Stored in data/reference/benchmarks/*.csv, merged by the lead into scripts/benchmarks.csv. The C5 paywall rule
 still applies to plant evidence.
+
+## D-030 — Converted company capacity as labelled estimates (owner 2026-11-24, improvement point 2)
+Company capacity disclosed only in Ah may be converted to GWh when the chemistry mix makes the voltage defensible;
+the result is stored in data/reference/company_capacity/*_estimates.csv, flagged `estimate` in capacity_unallocated,
+and reported separately (capacity_by_year_e.csv: gwh_series_e = disclosed only; gwh_series_e_incl_estimates adds them).
+A disclosed GWh figure for the same company-year always wins. Applied: Great Power 2021–2025 (亿Ah 年化 × 3.2 V LFP
+nominal; cross-check: 2025 → 27.7 GWh vs press "annual capacity ~28.7 GWh" end-Q3 2025). NOT applied: EVE and Sunwoda
+report capacity as cell counts (万只) mixing consumer cells of a few Wh with 280 Ah storage cells (and EVE's counts
+include primary batteries) — no defensible per-cell energy; Gotion reports Ah output only, not capacity.

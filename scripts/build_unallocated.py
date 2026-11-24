@@ -40,6 +40,7 @@ disc = []
 for f in sorted(glob.glob("data/reference/company_capacity/*.csv")):
     for r in csv.DictReader(open(f, encoding="utf-8")):
         r["_file"] = os.path.basename(f)
+        r["_estimate"] = f.endswith("_estimates.csv")  # D-030: converted from Ah etc.; labelled, reported separately
         r["company"] = ALIAS.get((r.get("company") or "").strip(), (r.get("company") or "").strip())
         disc.append(r)
 cmap = {r["id"]: r["company"] for r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8"))
@@ -73,6 +74,7 @@ for r in disc:
         skipped.append((r["company"], year, f"scope {scope}")); continue
     key = (r["company"], year)
     rank = 0 if basis == "year_end" else 1
+    rank += 10 if r["_estimate"] else 0   # a disclosed GWh figure always beats a converted estimate
     if key not in chosen or rank < chosen[key][0]:
         chosen[key] = (rank, val, scope, basis, r)
 
@@ -83,7 +85,7 @@ for (company, year), (_, val, scope, basis, r) in sorted(chosen.items()):
     un = max(0.0, val - ss)
     region = "China" if china_only else HOME_REGION.get(company, "China")
     out.append((company, year, val, round(ss, 1), round(un, 1), region, scope, basis,
-                "sites_exceed_disclosed" if val < ss else "", r.get("source_url", ""), r.get("quote", "")[:300]))
+                ("estimate;" if r["_estimate"] else "") + ("sites_exceed_disclosed" if val < ss else ""), r.get("source_url", ""), r.get("quote", "")[:300]))
 
 con.execute("DROP TABLE IF EXISTS capacity_unallocated")
 con.execute("""CREATE TABLE capacity_unallocated (company VARCHAR, year INTEGER, disclosed_gwh DOUBLE,
@@ -93,10 +95,14 @@ if out:
     con.executemany("INSERT INTO capacity_unallocated VALUES (?,?,?,?,?,?,?,?,?,?,?)", out)
 con.execute("COPY (SELECT * FROM capacity_unallocated ORDER BY company, year) TO 'capacity_unallocated.csv' (HEADER)")
 con.execute("""COPY (
-    SELECT d.year, d.gwh_iea_like, coalesce(u.unalloc, 0) AS gwh_unallocated,
-           d.gwh_iea_like + coalesce(u.unalloc, 0) AS gwh_series_e
+    SELECT d.year, d.gwh_iea_like, coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_unallocated_disclosed,
+           coalesce(u.est, 0) AS gwh_unallocated_estimate,
+           d.gwh_iea_like + coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_series_e,
+           d.gwh_iea_like + coalesce(u.unalloc, 0) AS gwh_series_e_incl_estimates
     FROM (SELECT year, round(sum(gwh_iea)) AS gwh_iea_like FROM capacity_by_year GROUP BY year) d
-    LEFT JOIN (SELECT year, round(sum(unallocated_gwh)) AS unalloc FROM capacity_unallocated GROUP BY year) u
+    LEFT JOIN (SELECT year, round(sum(unallocated_gwh)) AS unalloc,
+                      round(sum(unallocated_gwh) FILTER (WHERE flag LIKE 'estimate%')) AS est
+               FROM capacity_unallocated GROUP BY year) u
       USING (year) ORDER BY year) TO 'capacity_by_year_e.csv' (HEADER)""")
 print(f"{len(out)} company-years used; skipped {len(skipped)}")
 for row in out:
