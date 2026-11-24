@@ -60,3 +60,6 @@ Format:
 - MIIT official lists (batches 1–9, revocations, changes) fetched via headless browser (curl was reset; browser works for miit.gov.cn/hunan.gov.cn; nrel.gov still blocked by proxy). T074: ~81 cell makers, 68 matched, ~13 small makers with no open info.
 - Company capacity (T075–T077): usable GWh disclosures only CATL 2020–25, Narada 2022–25, REPT 2024–25, Hithium 2024, Zenergy 2025, SVOLT 2020–22. EVE/Great Power/Sunwoda report cells/Ah; BYD/CALB/Gotion/KR/JP no GWh capacity. Press estimates kept as sanity rows only.
 - Series E (D + unallocated): 2021 521 · 2022 1,164 · 2023 1,858 · 2024 2,426 · 2025 3,437 GWh vs IEA 1,140*/1,720*/2,500/>3,000/>4,000.
+
+## 2026-11-24 lead — improvement round (owner: "set up the todos and do it all")
+Backlog T080–T088 from the owner-approved improvement list: history fill (T080/T081, 25 Chinese bases, ~1.2 TWh of 2023→2025 jump), Ah/cell-count estimates (T082, lead), independent audit of T056–T079 (T083, Opus auditor), low-confidence large plants (T084), undated phases (T085), chemistry/format (T086), housekeeping (T087), blocked sources (T088).
