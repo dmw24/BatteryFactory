@@ -1,0 +1,164 @@
+{
+  "task": "T081",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "https://www.ithome.com/0/621/485.htm",
+      "publisher": "IT之家 (ithome.com), Gotion Nanjing 20GWh and Yichun 10GWh lines put into production",
+      "published": "2022-05-31",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "其中，宜春国轩电池 10GWh 产线于 5 月 30 日正式竣工投产。"
+    },
+    "S2": {
+      "url": "http://static.cninfo.com.cn/finalpage/2023-04-28/1216662624.PDF",
+      "publisher": "Gotion High-tech (国轩高科) 2022 annual report (cninfo), text in team/evidence/filings/002074_2022.txt",
+      "published": "2023-04-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "宜春基地 10GWh 动力电池项目 ... 等多个项目相继投产"
+    },
+    "S3": {
+      "url": "https://www.itdcw.com/news/focus/12031522362025.html",
+      "publisher": "电池网 / 电池百人会 (itdcw.com), Yichun Gotion phase II",
+      "published": "2025-12-03",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "项目于2024年1月正式开工建设，今年8月正式投产。 ... 规划一次性建成20GWh动力电池产能。"
+    },
+    "S4": {
+      "url": "https://www.electrive.com/2025/11/21/gotion-high-tech-is-now-mass-producing-vw-standard-cells/",
+      "publisher": "electrive.com, Gotion now mass-producing VW standard cells (date from URL)",
+      "published": "2025-11-21",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "the newly built plant in Hefei has an annual production capacity of 20 GWh."
+    },
+    "S5": {
+      "url": "https://www.jiemian.com/article/11349868.html",
+      "publisher": "Jiemian (界面新闻), Farasis Guangzhou base trial production",
+      "published": "2024-07-01",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "孚能科技（688567.SH）广州基地6月29日正式试投产，首包电池下线。"
+    },
+    "S6": {
+      "url": "http://static.cninfo.com.cn/finalpage/2025-04-30/1223418150.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2024 annual report (cninfo), text in team/evidence/filings/688567_2024.txt",
+      "published": "2025-04-30",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "“广州年产 30GWh 动力电池生产基地项目（一期 15GWh）”项目建设稳步推进。截至目前， ... 上述项目均有部分产线投产并实现出货，预计将在 2025 年第四季度达到预定可使用状态。"
+    },
+    "S7": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225258214.PDF",
+      "publisher": "Farasis Energy (孚能科技) 2025 annual report (cninfo), text in team/evidence/filings/688567_.txt",
+      "published": "2026-04-30",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "“广州年产 30GWh 动力电池生产基地项目（一期）”项目建设已投产并实现出货"
+    },
+    "S8": {
+      "url": "https://technode.com/2023/12/15/heres-everything-we-know-about-zeekrs-new-ev-battery-and-new-quzhou-plant/",
+      "publisher": "TechNode, Zeekr's new EV battery and new Quzhou plant (date from URL)",
+      "published": "2023-12-15",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The facility started operations last month after being constructed in 15 months. ... will have an annual capacity of 24 gigawatt-hours (GWh) next year."
+    },
+    "S9": {
+      "url": "https://news.jschina.com.cn/scroll/szyw/202306/t20230623_3237104.shtml",
+      "publisher": "Jiangsu Network (jschina.com.cn), item from Yanfu Daily (盐阜大众报), Sheyang FinDreams",
+      "published": "2023-06-23",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "走进位于射阳县的弗迪电池有限公司，一期生产车间内，锂电池分选机、点焊机等现代化设备高速运转，一块块动力电池陆续下线"
+    },
+    "S10": {
+      "url": "https://finance.sina.com.cn/roll/2026-03-18/doc-inhrmayp7464971.shtml",
+      "publisher": "Sina Finance (roll), report on Yancheng FinDreams phase-3 12GWh EIA acceptance",
+      "published": "2026-03-18",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "其中一期项目产能为年产15GWh汽车动力电池，投资总额约75亿元人民币，于2024年完成自主验收"
+    },
+    "S11": {
+      "url": "http://static.cninfo.com.cn/finalpage/2024-04-20/1219700973.PDF",
+      "publisher": "Gotion High-tech (国轩高科) 2023 annual report (cninfo), text in team/evidence/filings/002074_2023.txt",
+      "published": "2024-04-20",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "同意将“年产 20GWh 大众标准电芯项目”达到预计可使用状态的时间从 2023 年 9 月调整至 2024 年"
+    }
+  },
+  "rows": [
+    {
+      "id": "yichun-gotion-yichun-gotion-battery-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2022,
+        "capacity_by_year_json": "{\"2022\": 10, \"2025\": 30}"
+      },
+      "evidence": {
+        "start_year": ["S1", "S2"],
+        "capacity_by_year_json": ["S1", "S2", "S3"]
+      },
+      "confidence": 0.5,
+      "notes": "[T081] start_year 2022 re-confirmed with open sources (was REPORTED tier after T031): ithome 2022-05-31 (S1) says the Yichun 10GWh line was 'formally completed and put into production' on 30 May (year from page date), and Gotion's 2022 annual report (S2) lists the Yichun 10GWh project among projects 'put into production one after another' in 2022. Steps (design basis): 2022 = 10 (phase I online part, S1/S2); 2025 = 30 = 10 + 20, where the 20 GWh phase II 'formally put into production this August' (2025) per itdcw 2025-12-03 (S3; the 30 total is my sum of the two sourced phases, the page itself gives only the 20). No 2023/2024 step: phase II construction began Jan 2024 (S3), nothing sourced as online between. Conflict kept: 2022 reports describe phase I as 15 GWh of which 10 started in May 2022 (see T005 notes); remaining ~5 GWh phase-I online date not found, so no extra step. Confidence unchanged 0.5."
+    },
+    {
+      "id": "hefei-gotion-high-tech-power-energy-co-ltd-gotion-hefei-plant-vw-unified-standard-cell-base-xinzhan-district-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2025,
+        "capacity_by_year_json": "{\"2025\": 20}"
+      },
+      "evidence": {
+        "start_year": ["S4", "S11"],
+        "capacity_by_year_json": ["S4"]
+      },
+      "confidence": 0.6,
+      "notes": "[T081] start_year 2023 (v1, reported) -> 2025: electrive 2025-11-21 (S4) reports mass production of VW standard cells began with the first units handed over on 20 Nov 2025 at the 20 GWh/yr Hefei plant; the article mentions no earlier production or trial run. Gotion's 2023 annual report (S11) moved the project's 'ready for use' date from Sep 2023 to Dec 2024 (and the 2025 report to Dec 2026), so no commercial production in 2023 is supported (Aug 2023 bjx piece in the v1 timeline only expected C-samples in Q4 2023, planned not done). Step 2025 = 20 (company-stated plant capacity at the Nov 2025 start; the 28 GWh nameplate is the later 12 NMC + 16 LFP revision, not yet built). No earlier steps: this plant has no sourced 2023-24 capacity. Replaces the v1 start_year, so the series no longer credits this site before 2025. Year in S4 is from the article date (URL 2025/11/21); the sentence itself carries no year."
+    },
+    {
+      "id": "farasis-energy-farasis-energy-guangzhou-super-factory-30-gwh-power-battery-base-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2024,
+        "capacity_by_year_json": "{\"2025\": 15}"
+      },
+      "evidence": {
+        "start_year": ["S5", "S6"],
+        "capacity_by_year_json": ["S6", "S7"]
+      },
+      "confidence": 0.75,
+      "notes": "[T081] start_year 2024 now evidenced by a quote: Jiemian 2024-07-01 (S5) 'Guangzhou base formally began trial production on 29 June, first pack off the line' (year from page date), and Farasis 2024 annual report (S6, published 2025-04-30): phase 1 (15 GWh) 'has some lines in production and shipping'. Step 2025 = 15 (design basis, phase 1 of the 30 GWh project): S6 gives phase 1 = 15 GWh and expected 'ready for use' in Q4 2025; the 2025 annual report (S7) states phase 1 is 'put into production and shipping'. No 2024 GWh step: S6 says only part of the lines were producing, so crediting 15 in 2024 would overstate (a partial-line split is not published). Phase 2 (15 GWh) has no dated source."
+    },
+    {
+      "id": "zeekr-vremt-weirui-jidian-factory-zeekr-golden-brick-quzhou-cell-plant-china",
+      "action": "update",
+      "fields": {
+        "start_year": 2023,
+        "capacity_by_year_json": "{\"2024\": 24}"
+      },
+      "evidence": {
+        "start_year": ["S8"],
+        "capacity_by_year_json": ["S8"]
+      },
+      "confidence": 0.5,
+      "notes": "[T081] start_year null -> 2023: TechNode, article dated 2023-12-15 (S8), says the facility 'started operations last month' i.e. Nov 2023 (relative date read against the page date; T024 left it null for that reason, I judge the reading unambiguous). Step 2024 = 24 unchanged: same article says 24 GWh annual capacity 'next year' (2024), a forward statement, design basis. No 2023 GWh step (no capacity figure for 2023); Oct 2024 CRI claim of phase 2 installed and 48 GWh 4-phase plan could not be re-opened (see T024), not used. Confidence unchanged 0.5, ESCALATE from T024 stands."
+    },
+    {
+      "id": "yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china",
+      "action": "update",
+      "fields": {
+        "capacity_by_year_json": "{\"2023\": 15}"
+      },
+      "evidence": {
+        "capacity_by_year_json": ["S9", "S10"]
+      },
+      "confidence": 0.45,
+      "notes": "[T081] step 2023 = 15 (design basis, phase 1): Yanfu Daily via jschina 2023-06-23 (S9) shows the phase-1 workshop at Sheyang running with power batteries 'coming off the line one after another' in June 2023 (phase 2 equipment then in commissioning, 'aiming to start production in July', full 30 GWh after completion; phase 2 start NOT confirmed, no step). Phase 1 = 15 GWh per the Sheyang EIA as relayed by Sina 2026-03-18 (S10), which also says phase 1 passed self-acceptance in 2024. start_year NOT set: the earliest production date is not confirmed (an Yanfu Daily PDF of Sep 2022, paper.ycnews.cn/rb/pc/attachment/202209/27/c3bc87c2-25b9-48d7-a776-4f406a9cef80.pdf, appeared in a search and is said to describe phase 1 running at full load already in Sep 2022, but it exceeds the fetch size limit and no text was read; auditor/next worker could open it). CONFLICT for the lead: S10 says phase 2 (15 GWh) is still 'under construction' (EIA wording, may be stale) and a phase 3 of 12 GWh (CNY4.5bn) just had its EIA accepted, i.e. site plan 15+15+12 = 42 GWh vs current nameplate 30 (nameplate not changed here, outside this task's fields). Confidence 0.4 -> 0.45 only for the added dated evidence."
+    }
+  ]
+}

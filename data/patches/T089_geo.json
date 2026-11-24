@@ -1,0 +1,1007 @@
+{
+ "task": "T089",
+ "verified_on": "2026-11-24",
+ "sources": {},
+ "rows": [
+  {
+   "id": "3d-shaanxi-battery-technology-3d-zhangjiakou-solid-state-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 40.78341,
+    "longitude": 114.87139,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhangjiakou] approximate city-centroid of Zhangjiakou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "agricultural-development-holding-beijing-xining-nanchuan-6gwh-rare-earth-lithium-battery-and-pack-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 36.62554,
+    "longitude": 101.75739,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xining] approximate city-centroid of Xining, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "amperex-technology-limited-atl-dongguan-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.01797,
+    "longitude": 113.74866,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Dongguan] approximate city-centroid of Dongguan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "amperex-technology-limited-atl-ningde-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 26.66167,
+    "longitude": 119.52278,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ningde] approximate city-centroid of Ningde, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "anhui-guoke-energy-guoke-energy-sichuan-meishan-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.04392,
+    "longitude": 103.83696,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Meishan] approximate city-centroid of Meishan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "anhui-qingna-energy-guangde-sodium-ion-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.90641,
+    "longitude": 119.40865,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guangde] approximate city-centroid of Guangde, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "anhui-yichuang-energy-technology-yichuang-anqing-20gwh-power-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.51365,
+    "longitude": 117.04723,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Anqing] approximate city-centroid of Anqing, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "anhui-yijiatong-battery-eikto-xuancheng-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.9525,
+    "longitude": 118.75528,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xuancheng] approximate city-centroid of Xuancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "anneng-qisheng-anneng-qisheng-linwu-lithium-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 25.8,
+    "longitude": 113.03333,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chenzhou] approximate city-centroid of Chenzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "aspilsan-enerji-aspilsan-kayseri-turkey",
+   "action": "fix",
+   "fields": {
+    "latitude": 41.01488,
+    "longitude": 28.56085,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Mimarsinan] approximate city-centroid of Mimarsinan, Turkey (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "avesta-holding-be-volt-seneffe-manage-belgium",
+   "action": "fix",
+   "fields": {
+    "latitude": 50.50312,
+    "longitude": 4.23589,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Manage] approximate city-centroid of Manage, Belgium (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "bak-battery-changzhou-large-cylindrical-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.77359,
+    "longitude": 119.95401,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou] approximate city-centroid of Changzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "calb-zaozhuang-tengzhou-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 35.08357,
+    "longitude": 117.19071,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tengzhou] approximate city-centroid of Tengzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "calb-zigong-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.34162,
+    "longitude": 104.77689,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zigong] approximate city-centroid of Zigong, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "catl-catl-xiamen-times-high-performance-lithium-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 24.47979,
+    "longitude": 118.08187,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiamen] approximate city-centroid of Xiamen, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chery-automobile-deyi-wuhu-all-solid-state-battery-line-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.35259,
+    "longitude": 118.42947,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhu] approximate city-centroid of Wuhu, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chongqing-tegu-industrial-technology-group-banan-15gwh-electrochemical-storage-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.37861,
+    "longitude": 106.54,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Banan] approximate city-centroid of Banan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chuanhong-new-energy-chuanhong-longchang-neijiang-southwest-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.58354,
+    "longitude": 105.06216,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Neijiang] approximate city-centroid of Neijiang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chuneng-new-energy-wuhan-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.58333,
+    "longitude": 114.26667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhan] approximate city-centroid of Wuhan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chuneng-new-energy-yichang-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.71444,
+    "longitude": 111.28472,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichang] approximate city-centroid of Yichang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "chunli-new-energy-hukou-solid-state-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.70475,
+    "longitude": 116.00206,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang] approximate city-centroid of Jiujiang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "cubenergy-cubenergy-changzhou-energy-storage-intelligent-manufacturing-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.77359,
+    "longitude": 119.95401,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou] approximate city-centroid of Changzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "eas-batteries-gmbh-eas-batteries-nordhausen-germany",
+   "action": "fix",
+   "fields": {
+    "latitude": 51.5018,
+    "longitude": 10.7957,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nordhausen] approximate city-centroid of Nordhausen, Germany (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "easton-east-group-easton-zhangye-sodium-ion-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 38.93417,
+    "longitude": 100.45167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhangye] approximate city-centroid of Zhangye, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "enervenue-enervenue-changzhou-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.77359,
+    "longitude": 119.95401,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou] approximate city-centroid of Changzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "enli-power-enli-anhui-fengyang-solid-state-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 32.32194,
+    "longitude": 118.29778,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chuzhou] approximate city-centroid of Chuzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "enovix-enovix-fab2-penang-malaysia",
+   "action": "fix",
+   "fields": {
+    "latitude": 5.41123,
+    "longitude": 100.33543,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Penang] approximate city-centroid of Penang, Malaysia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "envision-aesc-aesc-sunderland-plant-1-united-kingdom",
+   "action": "fix",
+   "fields": {
+    "latitude": 54.90465,
+    "longitude": -1.38222,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sunderland] approximate city-centroid of Sunderland, United Kingdom (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "eve-energy-eve-power-hungary-kft-eve-energy-debrecen-hungary",
+   "action": "fix",
+   "fields": {
+    "latitude": 47.53167,
+    "longitude": 21.62444,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Debrecen] approximate city-centroid of Debrecen, Hungary (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "eve-energy-eve-sodium-energy-huizhou-hq-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.11147,
+    "longitude": 114.41523,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou] approximate city-centroid of Huizhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "eve-energy-huizhou-tonghu-zhongkai-60gwh-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.11147,
+    "longitude": 114.41523,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou] approximate city-centroid of Huizhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "eve-energy-jingmen-shayang-60gwh-power-storage-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.03361,
+    "longitude": 112.20472,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jingmen] approximate city-centroid of Jingmen, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "forge-battery-forge-battery-morrisville-gigafactory-united-states",
+   "action": "fix",
+   "fields": {
+    "latitude": 35.82348,
+    "longitude": -78.82556,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Morrisville] approximate city-centroid of Morrisville, United States (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "ganfeng-lienergy-fenyi-10gwh-pouch-cell-zero-carbon-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 27.80429,
+    "longitude": 114.93335,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xinyu] approximate city-centroid of Xinyu, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "gansu-yingao-energy-storage-technology-yingao-baiyin-8gwh-lfp-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 36.54696,
+    "longitude": 104.17023,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Baiyin] approximate city-centroid of Baiyin, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "great-power-great-power-changzhou-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.77359,
+    "longitude": 119.95401,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou] approximate city-centroid of Changzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "great-power-great-power-guangde-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.90641,
+    "longitude": 119.40865,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guangde] approximate city-centroid of Guangde, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "great-power-great-power-zhengyang-120ah-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 32.98385,
+    "longitude": 114.02586,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhumadian] approximate city-centroid of Zhumadian, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "guangdong-fenghua-new-energy-fenghua-zhaoqing-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.04893,
+    "longitude": 112.46091,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhaoqing] approximate city-centroid of Zhaoqing, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "guizhou-zhaoke-energy-kaili-cylindrical-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 26.58583,
+    "longitude": 107.97972,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kaili] approximate city-centroid of Kaili, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "guoke-energy-guoke-energy-anqing-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.51365,
+    "longitude": 117.04723,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Anqing] approximate city-centroid of Anqing, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "guyi-new-energy-inner-mongolia-technology-guyi-tumd-left-banner-2-2gwh-solid-state-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 40.81056,
+    "longitude": 111.65222,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hohhot] approximate city-centroid of Hohhot, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "haisida-sodium-star-haisida-naxing-neijiang-sodium-ion-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.58354,
+    "longitude": 105.06216,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Neijiang] approximate city-centroid of Neijiang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "hangzhou-pengcheng-new-energy-jinchang-1gwh-lithium-cell-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 38.50062,
+    "longitude": 102.19379,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jinchang] approximate city-centroid of Jinchang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "hina-battery-hina-wuhan-jiangxia-sodium-ion-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.58333,
+    "longitude": 114.26667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhan] approximate city-centroid of Wuhan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "hon-hai-foxconn-foxconn-kaohsiung-lfp-battery-plant-taiwan",
+   "action": "fix",
+   "fields": {
+    "latitude": 22.61626,
+    "longitude": 120.31333,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kaohsiung] approximate city-centroid of Kaohsiung, Taiwan (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "hylic-heyuan-lithium-innovation-huaian-solid-state-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.58861,
+    "longitude": 119.01917,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huaian] approximate city-centroid of Huaian, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "hyundai-sk-battery-manufacturing-america-hsbma-bartow-county-united-states",
+   "action": "fix",
+   "fields": {
+    "latitude": 27.89641,
+    "longitude": -81.84314,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Bartow] approximate city-centroid of Bartow, United States (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "inesis-inesis-gigafactory-new-moscow-russia",
+   "action": "fix",
+   "fields": {
+    "latitude": 55.75204,
+    "longitude": 37.61781,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Moscow] approximate city-centroid of Moscow, Russia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "inner-mongolia-jianheng-aoneng-technology-jianheng-aoneng-dalate-sodium-ion-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.6086,
+    "longitude": 109.78157,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ordos] approximate city-centroid of Ordos, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "inner-mongolia-juneng-zhengxin-energy-storage-technology-hohhot-50gwh-sodium-ion-park-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 40.81056,
+    "longitude": 111.65222,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hohhot] approximate city-centroid of Hohhot, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "inner-mongolia-xinjing-new-energy-technology-ordos-juungar-sodium-ion-park-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.6086,
+    "longitude": 109.78157,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ordos] approximate city-centroid of Ordos, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "inpower-battery-inpower-panyu-intelligent-manufacturing-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.11667,
+    "longitude": 113.25,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guangzhou] approximate city-centroid of Guangzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jeve-jeve-changxing-huzhou-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.8703,
+    "longitude": 120.0933,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huzhou] approximate city-centroid of Huzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jiangsu-highstar-battery-manufacturing-co-ltd-highstar-malaysia-tabless-cell-base-kulim-malaysia",
+   "action": "fix",
+   "fields": {
+    "latitude": 5.36499,
+    "longitude": 100.56177,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kulim] approximate city-centroid of Kulim, Malaysia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jiangsu-yuanhang-jinli-new-energy-yuanhang-jinli-yancheng-yandu-cell-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.3575,
+    "longitude": 120.1573,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yancheng] approximate city-centroid of Yancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jinglan-new-energy-chuxiong-sodium-ion-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 25.03639,
+    "longitude": 101.54556,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chuxiong] approximate city-centroid of Chuxiong, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "jueshi-new-energy-jueshi-zhangye-5gwh-sodium-ion-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 38.93417,
+    "longitude": 100.45167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhangye] approximate city-centroid of Zhangye, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "kexiang-kexiang-daya-bay-8gwh-sodium-ion-energy-storage-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.11147,
+    "longitude": 114.41523,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou] approximate city-centroid of Huizhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "longbang-fujian-machinery-longbang-longyan-1gwh-3d-solid-state-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 25.07485,
+    "longitude": 117.01775,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Longyan] approximate city-centroid of Longyan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "lyten-lyten-reno-lithium-sulfur-gigafactory-united-states",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.52963,
+    "longitude": -119.8138,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Reno] approximate city-centroid of Reno, United States (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "moll-batterien-moll-lichtenfels-sodium-ion-germany",
+   "action": "fix",
+   "fields": {
+    "latitude": 50.14567,
+    "longitude": 11.05928,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Lichtenfels] approximate city-centroid of Lichtenfels, Germany (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "murata-manufacturing-murata-yasu-plant-japan",
+   "action": "fix",
+   "fields": {
+    "latitude": 35.10053,
+    "longitude": 136.01778,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yasu] approximate city-centroid of Yasu, Japan (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "nafang-new-energy-nafang-yueyang-sodium-ion-cell-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.37455,
+    "longitude": 113.09481,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yueyang] approximate city-centroid of Yueyang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "narada-power-anhui-nandu-huatuo-jieshou-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.26338,
+    "longitude": 115.36108,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jieshou] approximate city-centroid of Jieshou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "naxion-energy-naxion-sodium-ion-cell-pilot-plant-hyderabad-india",
+   "action": "fix",
+   "fields": {
+    "latitude": 17.38405,
+    "longitude": 78.45636,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hyderabad] approximate city-centroid of Hyderabad, India (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "ningguo-times-new-energy-ningguo-12gwh-power-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.9525,
+    "longitude": 118.75528,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xuancheng] approximate city-centroid of Xuancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "ningxia-baofeng-group-baofeng-energy-ningdong-storage-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 38.16143,
+    "longitude": 106.58502,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ningdong] approximate city-centroid of Ningdong, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "prime-planet-energy-solutions-ppes-kasai-plant-japan",
+   "action": "fix",
+   "fields": {
+    "latitude": 34.92633,
+    "longitude": 134.84533,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kasai] approximate city-centroid of Kasai, Japan (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "prime-planet-energy-solutions-ppes-sumoto-plant-japan",
+   "action": "fix",
+   "fields": {
+    "latitude": 34.34322,
+    "longitude": 134.88911,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sumoto] approximate city-centroid of Sumoto, Japan (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "prologium-prologium-taoyuan-taoke-gigafactory-taiwan",
+   "action": "fix",
+   "fields": {
+    "latitude": 24.99368,
+    "longitude": 121.29696,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Taoyuan] approximate city-centroid of Taoyuan, Taiwan (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "qinghai-zhaorui-new-energy-haidong-sodium-ion-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 36.48,
+    "longitude": 102.41639,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Haidong] approximate city-centroid of Haidong, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "rosatom-rosatom-moscow-gigafactory-russia",
+   "action": "fix",
+   "fields": {
+    "latitude": 55.75204,
+    "longitude": 37.61781,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Moscow] approximate city-centroid of Moscow, Russia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "routejade-inc-enovix-korea-enovix-routejade-nonsan-south-korea",
+   "action": "fix",
+   "fields": {
+    "latitude": 36.20389,
+    "longitude": 127.08472,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nonsan] approximate city-centroid of Nonsan, South Korea (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "samsung-sdi-samsung-sdi-tianjin-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.36389,
+    "longitude": 117.06028,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuqing] approximate city-centroid of Wuqing, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "shanxi-guanjia-new-energy-development-guanjia-yingxian-shuozhou-10gwh-lithium-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.31583,
+    "longitude": 112.4225,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Shuozhou] approximate city-centroid of Shuozhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "sk-on-beijing-besk-changzhou-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.77359,
+    "longitude": 119.95401,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou] approximate city-centroid of Changzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "sk-on-skoy-yancheng-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.3575,
+    "longitude": 120.1573,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yancheng] approximate city-centroid of Yancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "sunwoda-sunwoda-hungary-nyiregyhaza-plant-hungary",
+   "action": "fix",
+   "fields": {
+    "latitude": 47.95539,
+    "longitude": 21.71671,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nyiregyhaza] approximate city-centroid of Nyiregyhaza, Hungary (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "taizhou-findreams-battery-findreams-taizhou-xianju-power-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 28.8547,
+    "longitude": 120.73168,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xianju] approximate city-centroid of Xianju, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "tianpeng-power-supply-tenpower-malaysia-bandar-indah-cell-plant-malaysia",
+   "action": "fix",
+   "fields": {
+    "latitude": 3.35,
+    "longitude": 101.25,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Selangor] approximate city-centroid of Selangor, Malaysia (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "tianpu-technology-tianpu-ordos-lithium-ion-battery-and-system-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 39.6086,
+    "longitude": 109.78157,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ordos] approximate city-centroid of Ordos, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "times-baic-beijing-new-energy-technology-times-baic-yizhuang-battery-factory-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 34.15651,
+    "longitude": 117.59367,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yizhuang] approximate city-centroid of Yizhuang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "times-changan-chongqing-power-battery-times-changan-chongqing-beibei-gaozhu-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 29.82739,
+    "longitude": 106.43645,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Beibei] approximate city-centroid of Beibei, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "times-faw-power-battery-xiapu-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 26.88194,
+    "longitude": 120.00111,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiapu] approximate city-centroid of Xiapu, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "times-saic-power-battery-liyang-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 31.42813,
+    "longitude": 119.48353,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Liyang] approximate city-centroid of Liyang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "tongke-new-energy-heyuan-plant-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 23.73333,
+    "longitude": 114.68333,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Heyuan] approximate city-centroid of Heyuan, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "trina-storage-trina-storage-dafeng-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.3575,
+    "longitude": 120.1573,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yancheng] approximate city-centroid of Yancheng, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "v4smart-v4smart-ellwangen-germany",
+   "action": "fix",
+   "fields": {
+    "latitude": 48.96164,
+    "longitude": 10.13173,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ellwangen] approximate city-centroid of Ellwangen, Germany (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "xiamen-lingpao-lithium-energy-technology-sanming-jikou-4gwh-battery-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 26.24861,
+    "longitude": 117.61861,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sanming] approximate city-centroid of Sanming, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "xinjie-energy-xinjie-hangzhou-lithium-metal-solid-state-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.29365,
+    "longitude": 120.16142,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hangzhou] approximate city-centroid of Hangzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 33.7722,
+    "longitude": 120.26176,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sheyang] approximate city-centroid of Sheyang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "yuheng-battery-yuheng-suichang-lishui-lithium-sodium-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 28.46042,
+    "longitude": 119.91029,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Lishui] approximate city-centroid of Lishui, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "yunnan-junhe-yuanxin-new-energy-nanhua-chuxiong-1gwh-cell-line-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 25.03639,
+    "longitude": 101.54556,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chuxiong] approximate city-centroid of Chuxiong, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zhejiang-dangzhuo-energy-jiaxing-nanhu-anode-free-solid-state-project-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.7522,
+    "longitude": 120.75,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiaxing] approximate city-centroid of Jiaxing, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zhejiang-guansheng-dongchi-energy-wenzhou-ouhai-semi-solid-lfp-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 27.99942,
+    "longitude": 120.66682,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wenzhou] approximate city-centroid of Wenzhou, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zhejiang-jinyu-new-energy-technology-jinyu-linping-solid-state-line-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.4225,
+    "longitude": 120.29722,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Linping] approximate city-centroid of Linping, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zhejiang-shengxi-technology-ningxiang-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 28.25831,
+    "longitude": 112.56048,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ningxiang] approximate city-centroid of Ningxiang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zhongna-yingdian-shenzhen-new-energy-xinxiang-2gwh-sodium-ion-line-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 35.19033,
+    "longitude": 113.80151,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xinxiang] approximate city-centroid of Xinxiang, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  },
+  {
+   "id": "zoolnasm-zhongna-energy-zoolnasm-zhongna-energy-guangde-sodium-ion-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "latitude": 30.90641,
+    "longitude": 119.40865,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guangde] approximate city-centroid of Guangde, China (offline geonamescache, matched on plant name/id; T089 2026-11-24) - NOT a verified plant location."
+  }
+ ]
+}

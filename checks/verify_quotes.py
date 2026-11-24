@@ -23,6 +23,7 @@ def norm(s, is_html=True):
     if is_html:  # PDF text can contain '<' in tables; only strip tags from HTML
         s = html.unescape(re.sub(r"<[^>]+>", " ", s))
     # drop all whitespace: PDF layout text and Chinese pages insert spaces between characters and numbers
+    s = s.translate(str.maketrans({"’": "'", "‘": "'", "“": '"', "”": '"', "–": "-", "—": "-", "\u00a0": " "}))
     return re.sub(r"[\s　]+", "", s).lower()
 
 
