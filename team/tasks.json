@@ -3187,12 +3187,16 @@
         "path": "team/CONVENTIONS.md",
         "approved": true
       },
-      "status": "in_progress",
+      "status": "merged",
       "branch": null,
       "pr": null,
       "attempts": 1,
       "assumptions": [],
-      "audit": {}
+      "audit": {
+        "verdict": "pass",
+        "by": "lead",
+        "notes": "8 rows refreshed; 0 moved to operational (Kenitra commissioning, Sagunto->2027, St Thomas->2029 + nameplate nulled, Debrecen test lines, Ford first cells only); quotes 7/8"
+      }
     },
     {
       "id": "T109",

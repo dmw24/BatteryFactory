@@ -13,7 +13,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---:|---:|---:|
 | operational | 306 | 6867.0 | 3211.0 |
 | announced | 86 | 1031.0 | — |
-| under_construction | 77 | 1719.0 | — |
+| under_construction | 77 | 1629.0 | — |
 | (unknown) | 18 | 6.0 | — |
 
 ### Paused and cancelled projects (excluded from the totals above)
@@ -51,7 +51,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | Japan | under_construction | 1 | 20.0 |
 | Rest of World | announced | 4 | 51.0 |
 | Rest of World | operational | 7 | 59.0 |
-| Rest of World | under_construction | 2 | 110.0 |
+| Rest of World | under_construction | 2 | 20.0 |
 | South Korea | (unknown) | 1 | — |
 | South Korea | operational | 9 | 68.0 |
 | Southeast Asia | announced | 1 | — |
@@ -199,7 +199,7 @@ Review these — they may be the same physical site under different names, or le
 | WeLion Haibo (Zibo) semi-solid-state / solid-state battery base | WeLion Haibo (Zibo) New Energy Technology Co., Ltd. (卫蓝海博（淄博）新能源科技有限公司) | China | 20.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Yichun Gotion Battery plant | Yichun Gotion | China | 30.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 
-### Live cell sites missing a nameplate figure (58)
+### Live cell sites missing a nameplate figure (59)
 
 Genuine cell plants (operational/under-construction) with no sourced capacity — capacity left null per the no-guessing rule.
 
@@ -243,6 +243,7 @@ Genuine cell plants (operational/under-construction) with no sourced capacity �
 | Natron Energy Holland | Natron Energy | USA | operational |
 | ONE Circle | Our Next Energy | USA | operational |
 | Panasonic Energy Kaizuka Factory | Panasonic Energy Kaizuka Co., Ltd. | Japan | operational |
+| PowerCo St. Thomas gigafactory | PowerCo SE | Rest of World | under_construction |
 | PPES Tokushima Plant | Prime Planet Energy & Solutions | Japan | operational |
 | QuantumScape San Jose (Eagle Line / QS-0) | QuantumScape | USA | operational |
 | Sakuu Silicon Valley | Sakuu | USA | operational |

@@ -26,6 +26,23 @@
     "confidence": 0.55
    },
    "notes": "lead: 0.6 exactly not allowed (C8); Subaru EV-plan revision makes start timing uncertain (T096 S3) -> 0.55."
+  },
+  {
+   "id": "powerco-powerco-sagunto-gigafactory-valencia-spain",
+   "action": "fix",
+   "fields": {
+    "capacity_ref_year": 2027
+   },
+   "notes": "lead (T108): mass production slipped to Q2 2027 (Merca2 2026-07-15) -> ref_year 2027 (earliest; fallback, searched)."
+  },
+  {
+   "id": "powerco-se-powerco-st-thomas-gigafactory-canada",
+   "action": "fix",
+   "fields": {
+    "nameplate_capacity_gwh": null,
+    "capacity_ref_year": null
+   },
+   "notes": "lead (T108): electrive 2026-09-25 moves start to 2029 and calls 90 GWh the plan it 'once' had, with no revised figure -> superseded total nulled (D-017); 90 GWh kept in notes."
   }
  ]
 }
