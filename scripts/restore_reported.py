@@ -36,17 +36,19 @@ restore_cap = {(r.id, r.field) for r in dec.itertuples() if str(r.decision).stri
 
 def norm_chem(v):
     t = str(v).lower()
+    special = set()
     if "sodium" in t or "na-ion" in t:
-        return "sodium-ion"
+        special.add("sodium-ion")
     if "semi-solid" in t or "semi solid" in t:
-        return "semi-solid-state"
-    if "solid" in t:
-        return "solid-state"
+        special.add("semi-solid-state")
+    elif "solid" in t:
+        special.add("solid-state")
     has = {k for k, pat in {"LFP": r"\blfp\b|lifepo|iron phosphate|blade", "NMC": r"\bnmc\b|\bncm\b|ternary",
                             "NCA": r"\bnca\b", "LMFP": r"lmfp", "LTO": r"\blto\b|titanate", "LCO": r"\blco\b|cobalt oxide",
                             "LMO": r"\blmo\b|manganese oxide"}.items() if re.search(pat, t)}
     if "LMFP" in has:
         has.discard("LFP")
+    has |= special          # fixed 2026-11-24: "LFP and sodium-ion" is mixed, not sodium-ion
     if len(has) == 1:
         return has.pop()
     if len(has) > 1 or "mixed" in t:

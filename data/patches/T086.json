@@ -1,0 +1,187 @@
+{
+  "task": "T086",
+  "verified_on": "2026-11-24",
+  "sources": {
+    "S1": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF",
+      "publisher": "BYD Co. 2025 annual report (cninfo; read from team/evidence/filings/BYD_002594_20260328.txt, fetched 2026-11-20)",
+      "published": "2026-03-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "本集团开发了高度安全的磷酸铁锂电池—“刀片电池”，更好地解决市场安"
+    },
+    "S2": {
+      "url": "https://en.wikipedia.org/wiki/Blade_battery",
+      "publisher": "Wikipedia, Blade battery (rolling page; published date = retrieval date)",
+      "published": "2026-11-24",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "a form factor for lithium iron phosphate (LFP) batteries ... flat, elongated prismatic cells arranged directly into battery packs ... pioneered by FinDreams Battery, a subsidiary of BYD Company"
+    },
+    "S3": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF",
+      "publisher": "CATL 2025 annual report (cninfo; read from team/evidence/filings/300750_2025.txt, fetched 2026-11-20). COMPANY-WIDE product statement, not Ningde-specific",
+      "published": "2026-03-10",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "公司可提供磷酸铁锂电池、三元高压中镍电池、"
+    },
+    "S4": {
+      "url": "https://tech.huanqiu.com/article/4Ij7D3eZFGi",
+      "publisher": "Huanqiu (tech.huanqiu.com), CATL Guizhou base; page has no visible date, date 2024-07-23 inferred from page timestamp",
+      "published": "2024-07-23",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "同时支持磷酸铁锂和三元正极两类产品，贵州基地产品供应包括大众、标致等在内的欧洲客户。"
+    },
+    "S5": {
+      "url": "https://www.electrive.com/2022/03/23/sk-on-receives-funding-for-battery-cell-plant-in-hungary",
+      "publisher": "electrive, SK On receives funding for battery cell plant in Hungary",
+      "published": "2022-03-23",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "So far, the manufacturer has specialised in pouch cells with NMC chemistry."
+    },
+    "S6": {
+      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000000492",
+      "publisher": "Hyundai Motor Group newsroom (MoU with Indonesian government for EV battery cell plant in Karawang)",
+      "published": "2021-07-29",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "10 GWh worth of NCMA lithium-ion battery cells every year"
+    },
+    "S7": {
+      "url": "https://www.kedglobal.com/newsView/ked202309080011",
+      "publisher": "The Korea Economic Daily (KED Global), Hyundai-LG battery JV in Indonesia to power IONIQ 5, other EVs",
+      "published": "2023-09-08",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "The factory will produce NCMA (nickel, cobalt, manganese and aluminum) lithium-ion battery cells,"
+    },
+    "S8": {
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/13/content_563567.html",
+      "publisher": "Science and Technology Daily (stdaily.com), Envision AESC Cangzhou factory report",
+      "published": "2026-08-13",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "今年4月，全球最大方壳卷绕790安时储能电芯在位于沧州市的远景动力技术（河北）有限公司工厂大规模量产"
+    },
+    "S9": {
+      "url": "https://www.stdaily.com/web/gdxw/2026-08/13/content_563567.html",
+      "publisher": "Science and Technology Daily (stdaily.com), Envision AESC Cangzhou factory report",
+      "published": "2026-08-13",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "前三条生产线是生产动力和储能电池的 ... 生产目前全球已量产46系圆柱电池中高度最高、单体容量最大的46120大圆柱电池"
+    },
+    "S10": {
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0423/2026042302898.pdf",
+      "publisher": "Zenergy (3677.HK) 2025 annual report (read from team/evidence/filings/ZENERGY_3677_AR2025_candidate.txt, fetched 2026-11-20). COMPANY-WIDE statement",
+      "published": "2026-04-23",
+      "accessed": "2026-11-24",
+      "language": "en",
+      "quote": "In terms of technological innovation, in addition to the traditional NCM and LFP systems, the Company also made breakthrough"
+    },
+    "S11": {
+      "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045391.PDF",
+      "publisher": "EVE Energy 2025 annual report (cninfo; read from team/evidence/filings/300014_2025.txt, fetched 2026-11-23)",
+      "published": "2026-03-28",
+      "accessed": "2026-11-24",
+      "language": "zh",
+      "quote": "公司马来西亚工厂定位覆盖亚洲、辐射全球的多场景锂电池生产基地。该基地将覆盖电动两轮车、储能系统及消费电"
+    }
+  },
+  "rows": [
+    {
+      "id": "catl-catl-ningde-plant-ningde-manufacturing-hub-china",
+      "action": "update",
+      "fields": {"chemistry": "mixed"},
+      "evidence": {"chemistry": ["S3"]},
+      "notes": "T086 chemistry: existing 'sodium-ion' is NOT supported (no source found that the Ningde hub is a sodium-ion site; CATL's sodium-ion line is a minor product). Replaced by 'mixed' on a COMPANY-WIDE basis (CATL AR 2025 lists LFP, high-voltage mid-nickel and high-nickel ternary, hybrid, sodium-ion, condensed-state systems); no Ningde site-specific split found, so no LFP/NMC split possible from this row. Cell format left unset (CATL AR table lists prismatic, pouch and cylindrical across chemistries). Low-confidence value, lead to decide."
+    },
+    {
+      "id": "catl-catl-guiyang-gui-an-battery-production-base-china",
+      "action": "update",
+      "fields": {"chemistry": "mixed"},
+      "evidence": {"chemistry": ["S4"]},
+      "notes": "T086 chemistry 'mixed' re-confirmed site-specifically: Huanqiu says the Guizhou (Gui'an) base 'supports both LFP and ternary cathode products' (60 GWh power and ESS plan). No cell-format statement found; cell_format left null."
+    },
+    {
+      "id": "sk-on-sk-on-kom-rom-hungary",
+      "action": "update",
+      "fields": {"chemistry": "NMC", "cell_format": "pouch"},
+      "evidence": {"chemistry": ["S5"], "cell_format": ["S5"]},
+      "notes": "T086: electrive 2022-03-23: SK On 'has specialised in pouch cells with NMC chemistry' so far (Komarom was its only European plant then). Company-level statement applied to the operating Komarom plants; the same article says the Ivancsa chemistry was still open (so Ivancsa chemistry NOT set). Pouch already in the row, now evidenced."
+    },
+    {
+      "id": "hli-green-power-hli-green-power-karawang-battery-cell-plant-indonesia",
+      "action": "update",
+      "fields": {"chemistry": "NMC", "end_market": "EV"},
+      "evidence": {"chemistry": ["S6", "S7"], "end_market": ["S7"]},
+      "notes": "T086: plant makes NCMA (nickel-cobalt-manganese-aluminium) cells; mapped to vocabulary 'NMC' (nickel-rich NMC with Al dopant; NCMA detail kept here). End use: Hyundai/Kia EVs (IONIQ 5, Kona Electric) per S7. Cell format 'pouch' already in the row was NOT confirmed by any source I opened (S6/S7 do not state the format)."
+    },
+    {
+      "id": "envision-aesc-envision-aesc-cangzhou-plant-cangzhou-zero-carbon-intelligent-industrial-park-china",
+      "action": "update",
+      "fields": {"cell_format": "mixed", "end_market": "mixed"},
+      "evidence": {"cell_format": ["S8", "S9"], "end_market": ["S9"]},
+      "notes": "T086: Cangzhou makes 790Ah square-shell wound ESS cells (prismatic, S8) and, on the BMW line (4th line of phase 1, mass production from 2026-06), 46120 large cylindrical cells (S9); first three lines make power and ESS batteries (S9). Hence cell_format mixed (prismatic + cylindrical) and end_market mixed (EV + ESS). Chemistry NOT stated in the article (790Ah ESS cell and 46120 cell chemistries not given), so chemistry stays null."
+    },
+    {
+      "id": "jiangsu-zenergy-zenergy-changshu-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "mixed"},
+      "evidence": {"chemistry": ["S10"]},
+      "notes": "T086: Zenergy AR 2025 (company-wide): traditional NCM and LFP systems plus NCM-LFP blended and sodium-ion. No Changshu-specific chemistry split found, so 'mixed' on a company-wide basis (Changshu is its main manufacturing base). Cell format not stated in the AR text searched (cylindrical mentioned only for robotics); left null."
+    },
+    {
+      "id": "eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia",
+      "action": "update",
+      "fields": {"end_market": "mixed"},
+      "evidence": {"end_market": ["S11"]},
+      "notes": "T086: EVE AR 2025: Malaysia plant 'will cover electric two-wheelers, energy storage systems and consumer electronics' (multi-scenario base). end_market mixed confirmed. Chemistry NOT found (two-wheeler cylindrical vs ESS cells unspecified); left unset."
+    },
+    {
+      "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: FinDreams (Fudi) is BYD's battery arm; BYD AR 2025 power-battery line is the LFP 'Blade battery' (S1); Blade = long flat prismatic LFP cell pioneered by FinDreams (S2). Company-level inference for this plant (no site-specific page found): BYD's older NMC products at some Fudi sites are not excluded. End market left unset (BYD AR: power + ESS cells)."
+    },
+    {
+      "id": "xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: same company-level basis as Guangxi FinDreams (BYD Blade LFP prismatic, S1/S2); no Xiangyang-specific page found. End market left unset."
+    },
+    {
+      "id": "taizhou-findreams-battery-findreams-taizhou-xianju-power-battery-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: same company-level basis as Guangxi FinDreams (BYD Blade LFP prismatic, S1/S2); no Taizhou-specific page found. Existing end_market EV not re-checked."
+    },
+    {
+      "id": "guiyang-findreams-battery-findreams-guiyang-gui-an-battery-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: same company-level basis as Guangxi FinDreams (BYD Blade LFP prismatic, S1/S2); no Guiyang-specific page found. End market left unset."
+    },
+    {
+      "id": "nanning-findreams-battery-findreams-nanning-battery-plant-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: same company-level basis as Guangxi FinDreams (BYD Blade LFP prismatic, S1/S2); no Nanning-specific page found. End market left unset."
+    },
+    {
+      "id": "yancheng-findreams-battery-findreams-yancheng-sheyang-battery-base-china",
+      "action": "update",
+      "fields": {"chemistry": "LFP", "cell_format": "prismatic"},
+      "evidence": {"chemistry": ["S1"], "cell_format": ["S2"]},
+      "notes": "T086: same company-level basis as Guangxi FinDreams (BYD Blade LFP prismatic, S1/S2); no Yancheng-specific page found. End market left unset."
+    }
+  ]
+}

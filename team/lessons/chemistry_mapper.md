@@ -1,0 +1,1 @@
+Never map free-text chemistry by first keyword: "LFP and sodium-ion" became "sodium-ion" (CATL Jining 100 GWh, Samsung SDI Ulsan), inflating sodium-ion capacity ~15x vs IEA. Combined chemistries are "mixed". Sanity-check every category total against an external figure after any bulk mapping.
