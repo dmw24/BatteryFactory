@@ -1,0 +1,276 @@
+{
+ "task": "T100",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://www.caiwennews.com/article/1643018.shtml",
+   "publisher": "Caiwen News (财闻), 冠盛股份：电池工厂已进入全面联机调试阶段，预计调试周期为6至9个月 (relays Guansheng Co. investor-relations record of 2026-10-09)",
+   "published": "2026-10-09",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "于4月启动局部设备调试工作 ... 目前工厂已进入全面联机调试阶段，预计调试周期为6至9个月 ... 固液混合电池量产线尚未正式下线"
+  },
+  "S2": {
+   "url": "https://stock.10jqka.com.cn/20261102/c681371229.shtml",
+   "publisher": "10jqka (同花顺), 冠盛股份：10月26日投资者关系活动记录 (relays the company's investor-relations record)",
+   "published": "2026-11-02",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "同时冠盛东驰厂房转固以及人员增加导致管理费用增加。 ... 公司固液混合电池量产线目前处于产品调试阶段，调试结果未达预期。"
+  },
+  "S3": {
+   "url": "https://stock.10jqka.com.cn/20260831/c679460506.shtml",
+   "publisher": "10jqka (同花顺), 赣锋锂业：南昌赣锋锂电计划2026年第三季度正式启动产能爬坡 (relays Ganfeng H1-2026 results call)",
+   "published": "2026-08-31",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南昌赣锋锂电自研588Ah大电芯产线已开始调试试产 ... 计划2026年第三季度正式启动产能爬坡 ... 南昌地区新增储能（885921）电池产能10GWh/年"
+  },
+  "S4": {
+   "url": "https://www.seetaoe.com/details/257505.html",
+   "publisher": "Seetao (page byline 2026-01-23), CALB Jiangmen Phase 2 project, Xinhui",
+   "published": "2026-01-23",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "located in Fengshan Lake Park of Xinhui Intelligent Manufacturing Industrial Park ... covering an area of 420000 square meters ... The project plans to produce a series of 35GWh automotive power lithium batteries annually"
+  },
+  "S5": {
+   "url": "https://m.huxiu.com/article/4891456.html?type=text",
+   "publisher": "Huxiu (虎嗅), article on Geely/ENERGEE (吉曜通行) capacity",
+   "published": "2026-09-15",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "吉曜通行在桐庐、衢州、建湖、赣州、上饶、鹰潭、宁国、枣庄8个城市的11个制造基地，2027年的目标是总产能70 GWh"
+  },
+  "S6": {
+   "url": "https://eu.36kr.com/zh/p/3313833305352201",
+   "publisher": "36Kr (36氪), interview on 吉曜通行 (ENERGEE) capacity plan",
+   "published": "2025-05-30",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "目前，这家公司已经拥有桐庐、衢州、建湖、赣州、上饶、鹰潭、宁国、枣庄8大生产基地。 ... 到2027年将形成70GWh产能规模"
+  },
+  "S7": {
+   "url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+   "publisher": "Solarbe (北极星), 宇恒电池年产 3GWh 磷酸铁锂储能电池项目竣工核实完成 即将投产赋能绿色能源",
+   "published": "2025-08-28",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宇恒电池股份有限公司年产 3GWh 磷酸铁锂储能电池项目传来重要喜讯 ... 项目一期预计于 2025 年一季度进入试生产阶段，上半年实现正式投产"
+  }
+ },
+ "rows": [
+  {
+   "id": "jiahang-new-energy-jiahang-new-energy-industrial-park-xinhui-china",
+   "action": "remove",
+   "reason": "duplicate_of:calb-calb-jiangmen-base-xinhui-china",
+   "evidence": {
+    "_remove": [
+     "S4"
+    ]
+   },
+   "notes": "lead (T100): same Fengshan Lake Park, Xinhui; same 35 GWh; 630.78 mu ≈ 420,000 m² = Seetao's CALB Jiangmen phase 2 area; EnergyTrend calls the project 'Phase II of CALB's Jiangmen Base Project'. CALB Jiangmen nameplate 70 already includes phase 2 -> removed to avoid counting 35 GWh twice."
+  },
+  {
+   "id": "bak-battery-changzhou-large-cylindrical-base-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2023-06 (newest source Jiemian 2023-06-09; plan: 30 GWh large-cylindrical, RMB 13bn, 450 mu, phase 1 10 GWh); searched '比克电池 常州 30GWh 大圆柱 项目 2025 2026' (1 search). Results only repeat the early-2023 strategic agreement; the only 2026 BAK item is an 85Ah prismatic ESS cell for AIDC (unrelated). No groundbreaking, pause or cancellation found. Confidence 0.3 -> 0.2 (floor). State unchanged (active, announced)."
+  },
+  {
+   "id": "geely-technology-group-geely-tonglu-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "source_url": "https://m.huxiu.com/article/4891456.html?type=text",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-09-15",
+    "site_type": "single_site"
+   },
+   "evidence": {},
+   "confidence": 0.3,
+   "notes": "[T100] FRESHNESS: still active, newest mention 2026-09-15 (S5, Huxiu): ENERGEE (吉曜通行) lists Tonglu among its 11 manufacturing bases in 8 cities with a 2027 target of 70 GWh total; 36Kr 2025-05-30 (S6, interview): the company 'already has' (已经拥有) 桐庐 ... 8大生产基地. Neither page gives Tonglu's status, capacity, or any construction/production milestone, and the 70 GWh is a company-wide total (not usable for this site). Status announced and 12 GWh / ref_year 2022 (T066) left as is and not re-vouched; the base listing suggests the site may be beyond 'announced' but no works or production evidence was found (D-020), so no status change. Searches: ZH '吉利科技集团 桐庐 12GWh 动力电池 项目 吉曜通行 桐庐基地' (results: 2022 signing + 2025 base list). Confidence kept 0.3."
+  },
+  {
+   "id": "jeve-jeve-changxing-huzhou-battery-base-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2021-08 (newest source MarkLines 2021-08-02, 12 GWh, RMB 5.6bn, start 'early 2023'); searched '捷威动力 长兴 12GWh 电池基地 湖州 开工 投产' (1 search). Results: only the 2021 signing and a 2022 JEVE strategy list naming Changxing among six bases (target 100 GWh by 2025; no progress text). No construction, production, delay or cancellation evidence. Confidence 0.3 -> 0.2 (floor). State unchanged."
+  },
+  {
+   "id": "international-battery-company-international-battery-company-bengaluru-gigafactory-india",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.3,
+   "notes": "[T100] no news found since 2025-01 (newest source: groundbreaking of the INR 390 crore unit, production 'within nine months'; Hans India / DH / Deccan Chronicle, Jan 2025; MGL JV Nov 2024). Searched 'International Battery Company Bengaluru gigafactory Mahanagar Gas production 2026' and 'IBC Bengaluru giga factory Devanahalli cells production started OR delayed OR commissioned' (2 searches); neither returned any item dated after Jan 2025, i.e. no report that the ~Oct 2025 production target was met, and no pause. Status under_construction unchanged (physical works not re-confirmed after Jan 2025). Confidence 0.4 -> 0.3."
+  },
+  {
+   "id": "lucas-tvs-tvs-indeon-ltd-lucas-tvs-thervoy-kandigai-cell-plant-india",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2021-09 for the 24M SemiSolid CELL gigafactory (plan: 10 GWh in two stages, commercial production H2 2023); searched 'Lucas TVS 24M SemiSolid cell gigafactory Thervoy Kandigai update' (1 search; only 2021 announcement coverage). The 2025 TVS Indeon items found earlier (T018) concern pack assembly. No cell-line construction, delay or cancellation evidence. Confidence 0.3 -> 0.2 (floor). State unchanged."
+  },
+  {
+   "id": "shanxi-guanjia-new-energy-development-guanjia-yingxian-shuozhou-10gwh-lithium-battery-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since the groundbreaking report (EnergyTrend print/48792; planned phase I 6 GWh June 2025, phase II 4 GWh June 2026); searched '冠佳新能源 应县 朔州 10GWh 锂电池 项目 投产 钠离子' (1 search). Only the groundbreaking article returned; no production, construction-progress, pause or cancellation news; both stated phase dates have passed without a report. Confidence 0.3 -> 0.2 (floor). State unchanged (active, announced)."
+  },
+  {
+   "id": "ganfeng-lienergy-nanchang-ess-cell-base-china",
+   "action": "update",
+   "fields": {
+    "source_published_date": "2026-08-31",
+    "site_type": "single_site"
+   },
+   "evidence": {},
+   "confidence": 0.45,
+   "notes": "[T100] FRESHNESS: already fresh; row source is the 2026-08-31 page (S3, fetched, 10jqka relaying Ganfeng's H1-2026 results call): the in-house 588Ah line 'has started commissioning/trial production' (已开始调试试产), formal capacity ramp planned for Q3 2026, and 'Nanchang area adds 10 GWh/yr of energy-storage battery capacity'. A search (also returned Ganfeng institutional-research notes of 2026-06-08 and a TMTPost financing piece; not opened) shows nothing dated after 2026-09 confirming the ramp actually started. Status under_construction, nameplate 10 / ref_year 2026 not changed; the S3 wording does not say whether the 10 GWh is cells at a single site (T009 caveat stands). Confidence kept 0.45."
+  },
+  {
+   "id": "kexiang-kexiang-daya-bay-8gwh-sodium-ion-energy-storage-battery-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2024-03 (newest source SMM 2024-03-11: groundbreaking 2024-03-08; CLS 2024-03-19: company says project 'advancing normally'); searched '科翔股份 大亚湾 8GWh 钠离子 储能电池 项目 进展 2025' (1 search; plus 3 earlier T064 searches). Nothing on works, equipment, production, delay or termination; the company's other sodium project (Xinfeng 6 GWh) was terminated in 2024 (different project). Scope caveat (assembly line / bundled products) from T064 unchanged. Confidence 0.3 -> 0.2 (floor). State unchanged."
+  },
+  {
+   "id": "gansu-yingao-energy-storage-technology-yingao-baiyin-8gwh-lfp-battery-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.3,
+   "notes": "[T100] no news found since 2025-05 (newest source EnergyTrend print/49406, URL date 2025-05-09: 'accelerating its construction', completion before June, trial operation before December 2025); searched '甘肃英奥储能科技 白银 8GWh 磷酸铁锂 电池 项目 投产' (1 search; search tool re-surfaced only that same page). No report that trial operation/mass sales happened, and no pause. Status under_construction unchanged but now 18 months without confirmation. Confidence 0.4 -> 0.3."
+  },
+  {
+   "id": "bravo-motor-company-brasil-energy-bravo-motor-company-gigafactory-colossus-cluster-brazil",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.25,
+   "notes": "[T100] no OPEN source newer than the Aug 2024 reports found. Searches: 'Bravo Motor Company gigafactory Bahia Brazil battery 2026', 'Bravo Motors fabrica baterias Bahia Camacari 2026 BNDES Xponential', and an EN search with spglobal.com blocked (3 searches). The only 2026 item is the S&P Global interview (spglobal.com, 2026-05-15, URL date; paywalled/prohibited source, NOT cited; seen via search summary and a mirror at triangle-consultants.com which returned HTTP 404): project restructured to a phased plan - local cathode/anode supply chain first, minimum viable pilot of about US$20m (four pilot plants), BNDES financing available only against guarantees, plant now referred to as Camacari (earlier Sao Sebastiao do Passe). This is consistent with T020's doubt: the 5 GWh by 2028 plan (and the 2028 ramp step) is likely not on track and the plant is likely scaled back/delayed, but no open source says paused or cancelled, so project_state stays active (evidence rule). LEAD: treat as likely paused/scaled-down; nameplate 5 GWh / ramp not re-vouched. Confidence 0.35 -> 0.25."
+  },
+  {
+   "id": "afrivolt-afrivolt-atlantis-gigafactory-south-africa",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.35,
+   "notes": "[T100] no news found of financing, construction or production after the 2024 items (Engineering News 2024-03-01 / 2024-06-21 update: 1.5 GWh start, up to 5 GWh, struggling to raise capital, due diligence); searched 'Afrivolt Atlantis gigafactory 2026' (1 search; T020 had found a Dec 2024 unveiling and an Apr 2026 China Daily interview without status). A separate 2026 Engineering News piece (2026-04-03, not opened) says AQORA (the former name) 'is currently assessing the feasibility of a vertically integrated Gigafactory' per a search summary - i.e. still at feasibility stage. No cancellation. Confidence 0.45 -> 0.35. State unchanged (active, announced)."
+  },
+  {
+   "id": "yi-i-t-ak-ganfeng-lienergy-jv-yi-i-t-ak-ganfeng-gigafactory-turkey",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.35,
+   "notes": "[T100] no news found since 2024-08 (newest source CnEVPost 2024-08-16: 5 GWh, USD 500m JV; Ganfeng says approvals/start-up timing uncertain); searched 'Yigit Aku Ganfeng Turkiye batarya fabrikasi 5 GWh' (1 search, Turkish + EN). Results show only the Aug 2024 announcement coverage (cell + pack lines, HIT-30 incentive application); nothing on approval, site, groundbreaking or abandonment. Confidence 0.45 -> 0.35. State unchanged."
+  },
+  {
+   "id": "zhejiang-guansheng-dongchi-energy-wenzhou-ouhai-semi-solid-lfp-base-china",
+   "action": "update",
+   "fields": {
+    "status": "under_construction",
+    "source_url": "https://www.caiwennews.com/article/1643018.shtml",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-10-09",
+    "site_type": "single_site",
+    "capacity_ref_year": 2027
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S2"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T100] PROGRESSED announced -> under_construction. Company investor-relations records (relayed by Caiwen News 2026-10-09, S1; 10jqka 2026-11-02, S2): battery factory started partial equipment commissioning in April 2026, 110 kV substation built and connected in June, environmental acceptance of the site done in August (S1 search summary; not in the quoted fragment), now in full line commissioning with a 6-9 month cycle; the solid-liquid hybrid mass-production line has NOT formally come off the line (S1) and 'commissioning results are below expectations', with a risk of further delay in mass production (S2); the Q3 record also says the Guansheng Dongchi plant building was capitalised (厂房转固, S2). So the plant is built and in commissioning but not in commercial production -> under_construction, not operational (D-016/D-020). project_state stays active (delay, not suspension; no stop statement). NOT changed/vouched: nameplate 4 GWh (T046; company figures found are 210万支 cells/year, RMB 1.03bn, 30-month build from Mar 2024 - not GWh) and capacity_ref_year 2026 (T046 'mid-2026 full capacity' is now stale: commissioning runs to about mid-2027); lead should reset ref_year to the sourced date or null it. Page dates: S1 2026-10-09 15:54, S2 2026-11-02. Searches: ZH '冠盛股份 东驰 温州 4GWh 半固态 电池 项目 开工 2026', ZH investor-relations record query. Eastmoney pages returned by the search (wap.eastmoney.com/a/202608073835526838.html and ...468336.html) carried no article text when fetched and are not cited. Confidence 0.45 -> 0.5 (two relays of company records, but no GWh figure). | lead: commissioning runs to ~mid-2027 (company IR record) -> ref_year 2027 (fallback, searched)."
+  },
+  {
+   "id": "shaanxi-coal-research-institute-qingke-energy-xi-an-aerospace-base-3-5gwh-cell-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.35,
+   "notes": "[T100] no news found since 2025-05 (newest sources Solarbe 2025-04-25 and SMM 2025-05: 320Ah line passed trial-production acceptance, first 314Ah cells off the line, project completion expected June 2025, comprehensive completion acceptance before year-end); searched '顷刻能源 西安航天基地 电芯 3.5GWh 竣工验收 投产' (1 search; EnergyTrend print/51024 returned by the engine concerns Qingtao Energy, a different company, opened and rejected). No completion-acceptance, commercial-production, pause or cancellation report. Status under_construction unchanged. Confidence 0.45 -> 0.35."
+  },
+  {
+   "id": "trentar-energy-solutions-trentar-sodium-ion-cell-plant-india",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.35,
+   "notes": "[T100] no news found since 2025-02 (newest source KPIT release 2025-02-12: Trentar to commercialise KPIT sodium-ion tech, 3 GWh capacity investment, no site/timeline); searched 'Trentar Energy Solutions sodium-ion cell manufacturing plant KPIT 2026' (1 search). Only Feb 2025 coverage (pv-magazine India, autocarpro, ess-news) returned; no site, construction, production, pause or cancellation news. Confidence 0.45 -> 0.35. State unchanged."
+  },
+  {
+   "id": "zhongna-yingdian-shenzhen-new-energy-xinxiang-2gwh-sodium-ion-line-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2024-05 (newest source SMM 2024-05-10, signing 2024-05-08); searched '中钠盈电 新乡 2GWh 钠离子电池 生产线 进展 新乡供电产业发展区' (1 search; only the signing item returned; other sodium projects in results, e.g. CNAE Mianzhu, are different sites). No construction, production, pause or cancellation evidence. Confidence 0.2 (already at floor). State unchanged."
+  },
+  {
+   "id": "3d-shaanxi-battery-technology-3d-zhangjiakou-solid-state-battery-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2025-04-30 (newest source SMM 2025-04-30, signing; RMB 1bn, 1 GWh, two phases); searched '3D固态电池 张家口 南山 汽车产业基地 1GWh 固态锂电池 项目 开工' (1 search). Results: the same signing item and an SMM item (news.metal.com/newscontent/103317856, not opened) naming the counterparty 'Sunway Battery' (likely the same company); a search snippet says construction was expected to start June 2025 and production before end 2026 - a plan, not evidence of works. Nothing on groundbreaking, pause or cancellation. Confidence 0.3 -> 0.2 (floor). State unchanged."
+  },
+  {
+   "id": "megamillion-energy-group-megamillion-energy-gigafactory-giga-africa-1-south-africa",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.25,
+   "notes": "[T100] no news found since 2025-02 specific to Giga-Africa 1 (newest source MarkLines teaser 2025-02-06: JV with Dr Henry Mao, 1 GWh start, plan to scale to 32 GWh); searched 'Megamillion Energy Giga-Africa battery gigafactory South Africa 2026 update' (1 search). Only 2026 sector coverage returned (Engineering News 2026-04-03, a feasibility study for a 5-10 GWh LFP gigafactory in South Africa, not Megamillion-specific, not opened). No financial close, groundbreaking, pause or cancellation found. Cell-scope doubt (dry cells made in China, finishing in SA) from T020 stands. Confidence 0.35 -> 0.25."
+  },
+  {
+   "id": "yuheng-battery-yuheng-suichang-lishui-lithium-sodium-base-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.5,
+   "notes": "[T100] row source is already fresh (EnergyTrend, URL date 2026-06-02: filing for +1 GWh/yr lithium/sodium capacity at Suichang, completion by Dec 2027); searched '宇恒电池 遂昌 丽水 1GWh 锂钠电池 项目 开工 2026' (1 search): no later news on this 1 GWh project (no groundbreaking). NEW FINDING for the lead: Solarbe 2025-08-28 (S7, fetched) reports a different, earlier Yuheng Battery project in Suichang - 'Yuheng Battery Co. 3 GWh LFP energy-storage battery project', total investment 11亿元 (RMB 1.1bn), 101 mu, two phases, completion-planning verification done, phase 1 expected to start trial production in Q1 2025 and formal production in H1 2025. This 3 GWh LFP plant has no row in the DB (grep of factories_export.csv for yuheng/suichang finds only this 1 GWh row); it is probably the existing plant that the 1 GWh filing expands. Suggest a follow-up task to add the 3 GWh plant (status not confirmed operational; the page is a pre-production notice). Nothing here changes the 1 GWh row; confidence kept 0.5."
+  },
+  {
+   "id": "hangzhou-pengcheng-new-energy-jinchang-1gwh-lithium-cell-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found since 2025-03 (newest source SMM 2025-03-12: framework agreement signed 2025-03-11 for Xugu New Energy Industrial Park, 1 GWh cells); searched '杭州鹏程新能源 金昌 1GWh 锂电池 电芯 项目 进展' (1 search; only the signing item returned). No land, EIA, construction, pause or cancellation news. Confidence 0.3 -> 0.2 (floor). State unchanged."
+  },
+  {
+   "id": "ningxia-baofeng-group-baofeng-energy-ningdong-storage-battery-project-china",
+   "action": "update",
+   "fields": {},
+   "evidence": {},
+   "confidence": 0.2,
+   "notes": "[T100] no news found on cell-plant works since 2025-04 (newest source Solarbe 2025-04-28: materials plants broke ground 2025-04-27 at Ningdong, '100GWh lithium battery and energy-storage system and storage power station project' listed among items being pushed to 达产); searched '宝丰能源 储能电池 电芯 宁东 项目 开工 2026 锂电池' (1 search; one 2026-09 10jqka item concerns green-hydrogen/coal chemicals, not the cell project; an unrelated Qinghai sodium project of 2026-04 also appeared). Nameplate/ref_year stay null (bundled figure, D-026). Confidence 0.3 -> 0.2 (floor). State unchanged (active, announced)."
+  },
+  {
+   "id": "geely-technology-group-geely-ganzhou-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "source_url": "https://m.huxiu.com/article/4891456.html?type=text",
+    "source_date": "2026-11-24",
+    "source_published_date": "2026-09-15",
+    "site_type": "single_site"
+   },
+   "evidence": {},
+   "confidence": 0.3,
+   "notes": "[T100] FRESHNESS: still active, newest mention 2026-09-15 (S5, Huxiu): ENERGEE lists Ganzhou (赣州) among its 11 manufacturing bases in 8 cities (70 GWh company-wide target by 2027); 36Kr 2025-05-30 (S6): the company 'already has' 赣州 among 8 production bases. No Ganzhou-specific status, capacity or milestone in either; the old 2021 construction-start item (MarkLines) remains the only site-level source. A search summary (not opened) also says ENERGEE's Chongqing Yaoning 18 GWh plant (different project) was not yet producing in 2026 and is being acquired by CATL (SAMR approval 2026-09) - unrelated to this row. Status announced, nameplate/ref_year null (D-026 bundled scope, T084) unchanged; DUPLICATE RISK with Farasis Ganzhou rows unchanged. Searches: ZH '吉利 赣锋 孚能 赣州 吉曜通行 赣州基地 动力电池 投产 2025 2026' (1). Confidence kept 0.3."
+  }
+ ]
+}

@@ -16,3 +16,5 @@ Status: **proposal, not yet adopted.** Nothing in the repo is licensed for publi
 - **Benchmarks** (IEA, BNEF, Benchmark) are cited figures, not our data; keep them out of the licensed files or mark
   them as third-party.
 - Alternatives: CC BY-SA 4.0 (share-alike; less reuse-friendly), ODbL (database-oriented, share-alike).
+- **OpenStreetMap**: some coordinates (T101, geo_precision town/city) come from OpenStreetMap Nominatim — ODbL; credit
+  "© OpenStreetMap contributors" and keep the derived coordinates under ODbL-compatible terms (or replace them).

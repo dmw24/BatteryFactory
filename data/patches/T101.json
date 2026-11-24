@@ -1,0 +1,767 @@
+{
+ "task": "T101",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://nominatim.openstreetmap.org/search?q=襄阳高新技术产业开发区&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0; no publication date, accessed date given)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "襄阳市高新技术产业开发区, 米庄镇, 襄州区, 襄阳市, 湖北省, 441123, 中国"
+  },
+  "S2": {
+   "url": "https://nominatim.openstreetmap.org/search?q=襄阳市&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "襄阳市, 湖北省, 中国"
+  },
+  "S3": {
+   "url": "https://nominatim.openstreetmap.org/search?q=上杭县&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "上杭县, 龙岩市, 福建省, 中国"
+  },
+  "S4": {
+   "url": "https://nominatim.openstreetmap.org/search?q=平顶山市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "平顶山市, 河南省, 中国"
+  },
+  "S5": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宜宾市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宜宾市, 叙州区, 宜宾市, 四川省, 中国"
+  },
+  "S6": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南京江宁经济技术开发区&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南京江宁经济技术开发区综合执法支队, 静淮街, 秣陵街道, 江宁区, 南京市, 江苏省, 211102, 中国"
+  },
+  "S7": {
+   "url": "https://nominatim.openstreetmap.org/search?q=六合区 南京市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "六合区, 南京市, 江苏省, 中国"
+  },
+  "S8": {
+   "url": "https://nominatim.openstreetmap.org/search?q=启东经济开发区&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "启东经济开发区, 汇龙镇, 启东市, 南通市, 江苏省, 226200, 中国"
+  },
+  "S9": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南宁市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南宁市, 广西壮族自治区, 中国"
+  },
+  "S10": {
+   "url": "https://nominatim.openstreetmap.org/search?q=桐城市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "桐城市, 安庆市, 安徽省, 中国"
+  },
+  "S11": {
+   "url": "https://nominatim.openstreetmap.org/search?q=新会区 江门市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "新会区, 江门市, 广东省, 中国"
+  },
+  "S12": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Bartow County, Georgia&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Bartow County, Georgia, United States"
+  },
+  "S13": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Ellabell, Bryan County, Georgia&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Ellabell, Bryan County, Georgia, United States"
+  },
+  "S14": {
+   "url": "https://nominatim.openstreetmap.org/search?q=徐州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "徐州市, 江苏省, 221000, 中国"
+  },
+  "S15": {
+   "url": "https://nominatim.openstreetmap.org/search?q=兰州新区&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "兰州新区, 皋兰县, 兰州市, 甘肃省, 730300, 中国"
+  },
+  "S16": {
+   "url": "https://nominatim.openstreetmap.org/search?q=烟台市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "烟台市, 山东省, 264000, 中国"
+  },
+  "S17": {
+   "url": "https://nominatim.openstreetmap.org/search?q=无为市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "无为市, 无城镇, 无为市, 芜湖市, 安徽省, 238300, 中国"
+  },
+  "S18": {
+   "url": "https://nominatim.openstreetmap.org/search?q=金寨县&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "金寨县, 六安市, 安徽省, 中国"
+  },
+  "S19": {
+   "url": "https://nominatim.openstreetmap.org/search?q=枞阳县&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "枞阳县, 枞阳镇, 枞阳县, 铜陵市, 安徽省, 246700, 中国"
+  },
+  "S20": {
+   "url": "https://nominatim.openstreetmap.org/search?q=望城区 长沙市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "望城区, 湘江新区, 望城区, 长沙市, 湖南省, 中国"
+  },
+  "S21": {
+   "url": "https://nominatim.openstreetmap.org/search?q=合肥新站高新技术产业开发区&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "合肥新站高新技术产业开发区管委会, 磨店街道, 合肥新站高新技术开发区, 瑶海区, 合肥市, 安徽省, 中国"
+  },
+  "S22": {
+   "url": "https://nominatim.openstreetmap.org/search?q=贵安新区&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "贵安新区, 贵阳市, 贵州省, 中国"
+  },
+  "S23": {
+   "url": "https://nominatim.openstreetmap.org/search?q=淄博市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "淄博市, 山东省, 中国"
+  },
+  "S24": {
+   "url": "https://nominatim.openstreetmap.org/search?q=秦汉新城 咸阳&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "秦汉新城, 同郡路, 陈家沟, 渭城区, 咸阳市, 陕西省, 中国"
+  },
+  "S25": {
+   "url": "https://nominatim.openstreetmap.org/search?q=北京经济技术开发区 亦庄&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "北京经济技术开发区, 京沪高速, 亦庄镇, 大兴区, 北京市, 100176, 中国"
+  },
+  "S26": {
+   "url": "https://nominatim.openstreetmap.org/search?q=抚州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "抚州市, 钟岭街道, 金巢开发区, 临川区, 抚州市, 江西省, 中国"
+  },
+  "S27": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宝坻区 天津市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宝坻区, 天津市, 301800, 中国"
+  },
+  "S28": {
+   "url": "https://nominatim.openstreetmap.org/search?q=海丰县 汕尾市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "海丰县, 汕尾市, 广东省, 中国"
+  },
+  "S29": {
+   "url": "https://nominatim.openstreetmap.org/search?q=盱眙县&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "盱眙县, 江苏省, 中国"
+  },
+  "S30": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宜兴市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宜兴市, 无锡市, 江苏省, 214200, 中国"
+  },
+  "S31": {
+   "url": "https://nominatim.openstreetmap.org/search?q=高淳区 南京市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "高淳区, 南京市, 江苏省, 中国"
+  },
+  "S32": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南通市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南通市, 江苏省, 中国"
+  },
+  "S33": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南昌市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南昌市, 东湖区, 南昌市, 江西省, 330006, 中国"
+  }
+ },
+ "rows": [
+  {
+   "id": "chuneng-new-energy-xiangyang-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.11415,
+    "longitude": 112.18369,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S1"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Xiangyang High-tech Zone (襄阳市高新技术产业开发区), Mizhuang town, Xiangzhou district, coordinates from OSM Nominatim page S1 (zone label point, NOT the plant gate)]. Plant-to-zone link is the row's own plant_name ('Xiangyang High-tech Zone'); the exact plot was not located."
+  },
+  {
+   "id": "eve-energy-shanghang-baisha-fujian-china",
+   "action": "update",
+   "fields": {
+    "latitude": 25.0512,
+    "longitude": 116.41497,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S3"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Shanghang county town, Longyan, Fujian, coordinates from OSM Nominatim page S3] Row notes (T006) place the plant in the 'Shanghang Baisha new-materials park'; Nominatim found no Baisha entry (empty result), so this is the county town, an approximation not the site."
+  },
+  {
+   "id": "china-pingmei-shenma-consortium-pingdingshan-60gwh-storage-and-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 33.73935,
+    "longitude": 113.28955,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S4"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Pingdingshan, Henan, coordinates from OSM Nominatim administrative-boundary label point, page S4] Row notes (T040) place the project in the Xinhua High-tech Industrial Park, Pingdingshan; the park was not placed (Nominatim's 平顶山高新技术产业开发区 hit is a Ye County boundary that could not be tied to 'Xinhua'). City-level approximation."
+  },
+  {
+   "id": "pengcheng-wuxian-new-energy-technology-sichuan-co-ltd-pengcheng-wuxian-yibin-energy-storage-cell-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.75552,
+    "longitude": 104.6406,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S5"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Yibin city place node, Sichuan, coordinates from OSM Nominatim page S5] Row notes (T021): 'Yibin Energy Storage Industrial Park (Sichuan)'; the park itself was not found in Nominatim (search returned an unrelated Suqian result), so this is the Yibin city point, not the site."
+  },
+  {
+   "id": "lg-energy-solution-lg-energy-solution-nanjing-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.93278,
+    "longitude": 118.79571,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S6"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Jiangning Economic and Technological Development Zone, Moling subdistrict, Jiangning, Nanjing, coordinates from OSM Nominatim page S6 (point = the zone's law-enforcement office inside the zone, NOT the plant)]. Link to Jiangning is the row's plant_name ('Plants 6 and 9, Jiangning'); plant plots not located. Hub row: three LGES Nanjing entities may sit in different parks."
+  },
+  {
+   "id": "gotion-high-tech-gotion-nanjing-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.32529,
+    "longitude": 118.81646,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S7"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Liuhe district, Nanjing, coordinates from OSM Nominatim administrative-boundary label point, page S7] Row notes/evidence (Nanjing investment bureau 2025-10-23, T005) place Gotion Nanjing in Liuhe Economic Development Zone; the zone/plot was not found in Nominatim (empty result) so this is the district label point (approximate, not the site)."
+  },
+  {
+   "id": "xiangyang-findreams-battery-findreams-xiangyang-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.010998,
+    "longitude": 112.11638,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S2"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Xiangyang, Hubei, coordinates from OSM Nominatim administrative-boundary label point, page S2] Row notes cite Cailian 2022-01-29 'BYD Xiangyang industrial park'; the park was not located, city-level approximation only."
+  },
+  {
+   "id": "eve-energy-qidong-economic-development-zone-50gwh-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.823699,
+    "longitude": 121.62132,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S8"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Qidong Economic Development Zone (启东经济开发区), Huilong town, Qidong, coordinates from OSM Nominatim page S8 (zone label point, not the plot)]. Row notes (T006): company announcement 2026-04-07, base 'in Qidong Economic Development Zone', ~332 mu."
+  },
+  {
+   "id": "guangxi-findreams-battery-findreams-guangxi-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 22.815774,
+    "longitude": 108.318024,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S9"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Nanning, Guangxi, coordinates from OSM Nominatim administrative-boundary label point, page S9] Row notes (T056): 'Guangxi Fudi (Nanning, Lingli Industrial Park)'; Lingli Industrial Park was not located, city-level only."
+  },
+  {
+   "id": "tongcheng-gotion-high-tech-gotion-tongcheng-battery-base-40-gwh-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.038227,
+    "longitude": 116.968963,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Tongcheng (county-level city), Anqing, Anhui, coordinates from OSM Nominatim administrative-boundary label point, page S10] Replaces the wrong v1 point (Shandong) nulled by T005; the plot in Tongcheng was not located."
+  },
+  {
+   "id": "hyundai-sk-battery-manufacturing-america-hsbma-bartow-county-united-states",
+   "action": "update",
+   "fields": {
+    "latitude": 34.23947,
+    "longitude": -84.8407,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S12"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Bartow County, Georgia (county label point, NOT a town), coordinates from OSM Nominatim page S12] Row notes (T011): plant is in Bartow County, Georgia; Nominatim had no entry for the plant (empty result). Approximation only; the true site may be tens of km from the county centre."
+  },
+  {
+   "id": "byd-findreams-huaihai-findreams-xuzhou-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 34.266526,
+    "longitude": 117.181043,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S14"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Xuzhou, Jiangsu, coordinates from OSM Nominatim administrative-boundary label point, page S14] Row title/notes: BYD Xuzhou sodium-ion base with Huaihai Holding Group (Xuzhou); the plot was not located. Prefecture label point, approximate."
+  },
+  {
+   "id": "guoke-energy-lanzhou-new-area-co-ltd-guoke-energy-lanzhou-30gwh-battery-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 36.474611,
+    "longitude": 103.668411,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S15"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Lanzhou New Area (兰州新区), Gaolan County, Lanzhou, coordinates from OSM Nominatim place node, page S15 (new-area centre, NOT the plant plot)]. Place from the row's plant_name ('Lanzhou New Area')."
+  },
+  {
+   "id": "hl-ga-battery-company-hl-ga-battery-company-bryan-county-united-states",
+   "action": "update",
+   "fields": {
+    "latitude": 32.123537,
+    "longitude": -81.485667,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S13"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Ellabell hamlet, Bryan County, Georgia, coordinates from OSM Nominatim page S13 (hamlet point, NOT the plant)]. Row notes (T010): JV plant 'next to Hyundai Metaplant, Ellabell, Bryan County, Georgia'. The plant plot itself was not found in OSM."
+  },
+  {
+   "id": "yantai-lihua-power-supply-technology-lihua-huanghai-bohai-large-cylindrical-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 37.461928,
+    "longitude": 121.442526,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S16"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Yantai, Shandong, coordinates from OSM Nominatim administrative-boundary label point, page S16] Row title: 'Huanghai-Bohai New Area' (Yantai); the new area was not located by Nominatim (the query hit an unrelated Qinhuangdao building and was discarded). Prefecture label point, approximate."
+  },
+  {
+   "id": "byd-findreams-battery-wuwei-findreams-battery-plant-byd-new-energy-power-battery-yangtze-river-delta-manufacturing-center-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.299931,
+    "longitude": 117.912657,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S17"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Wuwei (Wucheng town), Wuhu, Anhui, coordinates from OSM Nominatim place node, page S17] The row notes name Anhui; entity 无为弗迪电池有限公司 (T003, BYD 2025 filing). Plot not located; county-town point only."
+  },
+  {
+   "id": "gotion-jinzhai-gotion-new-energy-jinzhai-storage-cell-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.729717,
+    "longitude": 115.928915,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Jinzhai county town, Lu'an, Anhui, coordinates from OSM Nominatim place node, page S18] Jinzhai County government source (T005, ahjinzhai.gov.cn 2025-02-19) places the base in Jinzhai; the plot was not located. Approximate."
+  },
+  {
+   "id": "deyi-energy-technology-tongling-deyi-tongling-zongyang-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 30.707849,
+    "longitude": 117.244891,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S19"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Zongyang county town, Tongling, Anhui, coordinates from OSM Nominatim place node, page S19] Row title names 'Zongyang (Qiaogang Park)'; Qiaogang Park was not located, county-town point only."
+  },
+  {
+   "id": "desay-battery-hunan-desay-changsha-wangcheng-energy-storage-cell-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.356762,
+    "longitude": 112.825832,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S20"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Wangcheng district, Changsha, Hunan, coordinates from OSM Nominatim place node, page S20] Place from the row's plant_name ('Changsha Wangcheng'); the plot/park was not located (the Wangcheng EDZ query returned an unrelated Xuzhou result and was discarded)."
+  },
+  {
+   "id": "hefei-gotion-green-energy-co-ltd-gotion-hefei-xinzhan-20gwh-power-battery-project-hefei-gotion-green-energy-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.941746,
+    "longitude": 117.371394,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S21"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Hefei Xinzhan High-tech Industrial Development Zone, Yaohai district, coordinates from OSM Nominatim page S21 (point = the zone management committee, NOT the plant)]. Place from the row's plant_name ('Gotion Hefei Xinzhan')."
+  },
+  {
+   "id": "guiyang-findreams-battery-findreams-guiyang-gui-an-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 26.46879,
+    "longitude": 106.48309,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S22"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Gui'an New Area (贵安新区), Guiyang, Guizhou, coordinates from OSM Nominatim place node, page S22 (new-area point, NOT the plant plot)]. Place from the row's plant_name ('Guiyang / Gui'an')."
+  },
+  {
+   "id": "welion-haibo-zibo-semi-solid-state-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 36.812956,
+    "longitude": 118.04884,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S23"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Zibo, Shandong, coordinates from OSM Nominatim administrative-boundary label point, page S23] Place from the row's plant_name ('WeLion Haibo (Zibo)'); plot not located. Prefecture label point, approximate."
+  },
+  {
+   "id": "findreams-battery-byd-byd-xixian-base-qinhan-new-town-xi-an-second-gen-blade-china",
+   "action": "update",
+   "fields": {
+    "latitude": 34.399712,
+    "longitude": 108.843687,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S24"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Qinhan New Town (秦汉新城), Weicheng district, Xianyang (Xixian New Area), coordinates from OSM Nominatim page S24 (point = the railway station named 秦汉新城, NOT the plant)]. Place from the row's plant_name ('Xixian base, Qinhan New Town, Xi'an')."
+  },
+  {
+   "id": "times-baic-beijing-new-energy-technology-times-baic-yizhuang-battery-factory-china",
+   "action": "update",
+   "fields": {
+    "latitude": 39.813987,
+    "longitude": 116.506102,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S25"
+    ]
+   },
+   "notes": "[T101] [GEO=town:Beijing Economic-Technological Development Area, Yizhuang town, Daxing, coordinates from OSM Nominatim page S25 (point = the motorway junction named after the zone, NOT the plant)]. Place from the row's plant_name ('Yizhuang battery factory')."
+  },
+  {
+   "id": "findreams-battery-fuzhou-findreams-battery-plant-jiangxi-china",
+   "action": "update",
+   "fields": {
+    "latitude": 27.951119,
+    "longitude": 116.353041,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S26"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Fuzhou (抚州), Jiangxi, coordinates from OSM Nominatim place node (Linchuan district), page S26] Row notes (T003): the plant is in 抚州 (Jiangxi), not Fuzhou, Fujian (entity 抚州弗迪电池有限公司); v1 notes mention Fuzhou Hi-Tech Zone from an unconfirmed source. Plot not located."
+  },
+  {
+   "id": "tianjin-rongsheng-mengguli-new-energy-mengguli-tianjin-baodi-manufacturing-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 39.715845,
+    "longitude": 117.303416,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S27"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Baodi district, Tianjin, coordinates from OSM Nominatim administrative-boundary label point, page S27] Place from the row's plant_name ('Tianjin Baodi manufacturing base'); plot not located. District label point, approximate."
+  },
+  {
+   "id": "shanwei-findreams-battery-shanwei-fudi-haifeng-meilong-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 23.026754,
+    "longitude": 115.341487,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S28"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Haifeng county, Shanwei, Guangdong, coordinates from OSM Nominatim administrative-boundary label point (the 'administrative' hit, not the sea-area 'legal' hit), page S28] Row title: 'Haifeng Meilong battery plant (Shenshan cooperation zone)'; Meilong town was not located, county label point, approximate."
+  },
+  {
+   "id": "shuangdeng-group-co-ltd-shuangdeng-xuyi-semi-solid-aidc-cell-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 33.013412,
+    "longitude": 118.539266,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S29"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Xuyi county, Huai'an, Jiangsu, coordinates from OSM Nominatim county place node, page S29] Place from the row's plant_name ('Shuangdeng Xuyi'); plot not located."
+  },
+  {
+   "id": "far-east-first-new-energy-far-east-yixing-power-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.349597,
+    "longitude": 119.817253,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S30"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Yixing, Wuxi, Jiangsu, coordinates from OSM Nominatim administrative-boundary label point, page S30] Place from the row's plant_name ('Far East Yixing'); plot not located. County-level city label point, approximate."
+  },
+  {
+   "id": "cbak-energy-nanjing-gaochun-sodium-ion-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.330493,
+    "longitude": 118.887272,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S31"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Gaochun district, Nanjing, coordinates from OSM Nominatim administrative-boundary label point, page S31] Row notes (T009/T096): investment agreement with Nanjing Gaochun EDZ (TechNode 2026-09-25); the EDZ itself was not located (no site chosen publicly). District label point, approximate."
+  },
+  {
+   "id": "shanghai-electric-gotion-new-energy-technology-nantong-co-ltd-shanghai-electric-gotion-new-energy-nantong-energy-storage-battery-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.98279,
+    "longitude": 120.890459,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S32"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Nantong, Jiangsu, coordinates from OSM Nominatim administrative-boundary label point, page S32] Place from the row's plant_name ('Nantong'); plot not located. Prefecture label point, approximate."
+  },
+  {
+   "id": "ganfeng-lienergy-nanchang-ess-cell-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.67729,
+    "longitude": 115.899707,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S33"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Nanchang, Jiangxi, coordinates from OSM Nominatim city place node (Donghu district), page S33] Row notes (T009): 'Nanchang area' adding 10 GWh/yr ESS cells (Securities Times 2026-08-31); the exact site within the Nanchang area is not stated. City-level approximation."
+  },
+  {
+   "id": "anhui-volt-era-new-energy-volt-era-jinzhai-semi-solid-battery-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.729717,
+    "longitude": 115.928915,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[T101] [GEO=city:Jinzhai county town, Lu'an, Anhui, coordinates from OSM Nominatim place node, page S18] Row notes (T040): project in 'Jinzhai County Economic Development Zone' (SMM 2025-09-03); the zone was not located, county-town point only. Same point as the separate Gotion Jinzhai row (different operator; overlap not established)."
+  }
+ ]
+}

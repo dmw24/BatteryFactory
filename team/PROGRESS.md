@@ -66,3 +66,6 @@ Backlog T080–T088 from the owner-approved improvement list: history fill (T080
 
 ## 2026-11-24 lead — improvement round closed
 T080–T091 merged (T088 blocked on network allowlist). Audit T083 FAIL → fixes applied (T090) → C8 clean. Done gates: all pass except G4 (118). Final: C/D/D-high/E 2025 = 3.11/3.35/4.10/3.40 TWh vs IEA >4. FINAL_REPORT addendum written.
+
+## 2026-11-24 lead — history round 2 + freshness + coordinates
+Merged T092–T101: ~25 more plant histories/start years; series bug fixed (pre-anchor steps; no plan credit before an installed anchor); Series F modelled backfill (D-033); company histories from IPO prospectuses (CATL 2015–17/19, Farasis 2017–19); survivorship adds (Waterma, Aoyou, Guoneng, JEVE); pipeline freshness for 47 stale projects (Guansheng progressed; Jiahang removed as duplicate of CALB Jiangmen phase 2; 38 no-news rows down-weighted); 34 more site coordinates (OSM, town/city). History F vs benchmarks: 2020 49%, 2022 72–82%, 2023 ~80%, 2025 ~87%.
