@@ -131,3 +131,10 @@ separately). CATL basis note (audit): CATL's disclosed 产能 is the utilisation
 while our site sums are year-end government-basis design capacity, so CATL's unallocated remainder in 2020–2024 is
 understated; in 2025 our CATL sites (875) exceed its 772 by 13% — Series D likely over-credits some CATL sites
 (Ningde 330, Yibin 210 on government basis), and part of CATL's 2024→2025 jump in E is that basis switch.
+
+## Outlook: planned capacity vs published pipelines (2026-11-24)
+By status (never summed into one figure): operational plants' full site plans 6.84 TWh; under construction 1.73 TWh
+(1.68 due by 2030); announced 1.08 TWh. Benchmarks: IEA "around 9.4 TWh by 2030 if all announced plants are built"
+(Batteries and Secure Energy Transitions, via search result); Benchmark ">10 TWh" 2030 pipeline (free page); BNEF
+7.9 TWh announced for end-2025. Our planned totals are of the same order. Freshness: 48 non-operational projects have
+no source after mid-2025 (T096 checks them). Series D/D-high by year: 2026 4.4/5.9, 2027 4.7/6.2, 2030 4.8/6.3 TWh.
