@@ -1,0 +1,656 @@
+{
+ "task": "T103",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+   "publisher": "Solarbe / 碳索储能网 (整理), 宇恒电池年产3GWh磷酸铁锂储能电池项目竣工核实完成 即将投产赋能绿色能源",
+   "published": "2025-08-28",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "如今，宇恒电池年产 3GWh 磷酸铁锂储能电池项目已跨越竣工规划核实这一重要节点，即将从建设阶段迈向生产运营阶段。"
+  },
+  "S1b": {
+   "url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+   "publisher": "Solarbe / 碳索储能网 (整理), same page as S1 (capacity fragment)",
+   "published": "2025-08-28",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "据测算，项目投产后可形成年产 3GWh 磷酸铁锂储能电池的生产能力"
+  },
+  "S1c": {
+   "url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+   "publisher": "Solarbe / 碳索储能网 (整理), same page as S1 (phase-timing fragment)",
+   "published": "2025-08-28",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "项目一期预计于 2025 年一季度进入试生产阶段，上半年实现正式投产"
+  },
+  "S1d": {
+   "url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+   "publisher": "Solarbe / 碳索储能网 (整理), same page as S1 (site fragment)",
+   "published": "2025-08-28",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "项目选址精准落位于遂昌县经济开发区洋浩 P（2022）30 号地块"
+  },
+  "S2": {
+   "url": "https://www.ess-news.com/2025/11/03/cornex-breaks-ground-on-70-gwh-battery-mega-plant-in-hubei/",
+   "publisher": "ess-news.com, Cornex breaks ground on 70 GWh battery mega plant in Hubei (date from URL; page does not mention SVOLT)",
+   "published": "2025-11-03",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Its Wuhan facility provides roughly 60 GWh focused on EV cells."
+  },
+  "S3": {
+   "url": "https://nominatim.openstreetmap.org/search?q=厦门市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0; no publication date, accessed date given)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "厦门市, 福建省, 中国"
+  },
+  "S4": {
+   "url": "https://nominatim.openstreetmap.org/search?q=东西湖区 武汉市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "东西湖区, 武汉市, 湖北省, 中国"
+  },
+  "S5": {
+   "url": "https://nominatim.openstreetmap.org/search?q=桐庐县 杭州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "桐庐县, 杭州市, 浙江省, 311500, 中国"
+  },
+  "S6": {
+   "url": "https://nominatim.openstreetmap.org/search?q=黄岩区 台州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "黄岩区, 台州市, 浙江省, 中国"
+  },
+  "S7": {
+   "url": "https://nominatim.openstreetmap.org/search?q=衢州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "衢州市, 浙江省, 中国"
+  },
+  "S8": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南宁市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南宁市, 广西壮族自治区, 中国"
+  },
+  "S9": {
+   "url": "https://nominatim.openstreetmap.org/search?q=仁化县 韶关市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "仁化县, 丹霞街道, 仁化县, 韶关市, 广东省, 512300, 中国"
+  },
+  "S10": {
+   "url": "https://nominatim.openstreetmap.org/search?q=赣州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "赣州市, 章贡区, 赣州市, 江西省, 341000, 中国"
+  },
+  "S11": {
+   "url": "https://nominatim.openstreetmap.org/search?q=潜江市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "潜江市, 湖北省, 433100, 中国"
+  },
+  "S12": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Krishnagiri Tamil Nadu&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Krishnagiri, Tamil Nadu, India"
+  },
+  "S13": {
+   "url": "https://nominatim.openstreetmap.org/search?q=大龙镇 铜仁市&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "大龙街道, 玉屏侗族自治县, 铜仁市, 贵州省, 558000, 中国"
+  },
+  "S14": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Walterboro South Carolina&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Walterboro, Colleton County, South Carolina, 29488, United States"
+  },
+  "S15": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Ratlam Madhya Pradesh&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Ratlam, Ratlam Nagar Tahsil, Ratlam, Madhya Pradesh, 457001, India"
+  },
+  "S16": {
+   "url": "https://nominatim.openstreetmap.org/search?q=住之江区 大阪市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "ja",
+   "quote": "住之江区, 大阪市, 大阪府, 日本"
+  },
+  "S17": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宜宾市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宜宾市, 叙州区, 宜宾市, 四川省, 中国"
+  },
+  "S18": {
+   "url": "https://nominatim.openstreetmap.org/search?q=长安区 西安市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "长安区, 西安市, 陕西省, 中国"
+  },
+  "S19": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Changhua County Taiwan&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "彰化縣, 臺灣"
+  },
+  "S20": {
+   "url": "https://nominatim.openstreetmap.org/search?q=阿拉善高新技术产业开发区&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Alashan High-tech Zone"
+  },
+  "S21": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Huế Vietnam&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "vi",
+   "quote": "Thành phố Huế, Việt Nam"
+  },
+  "S22": {
+   "url": "https://nominatim.openstreetmap.org/search?q=江宁区 南京市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "江宁区, 南京市, 江苏省, 中国"
+  },
+  "S23": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南通市 江苏省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南通市, 江苏省, 中国"
+  },
+  "S24": {
+   "url": "https://nominatim.openstreetmap.org/search?q=张湾区 十堰市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "张湾区, 十堰市, 湖北省, 442001, 中国"
+  },
+  "S25": {
+   "url": "https://nominatim.openstreetmap.org/search?q=正宁县 庆阳市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "正宁县, 庆阳市, 甘肃省, 中国"
+  },
+  "S26": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Divitipally&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Divitipally, Mahabubnagar_Urban mandal, Mahabubnagar, Telangana, 509340, India"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "yuheng-battery-suichang-3gwh-lfp-storage-battery-project-china",
+   "fields": {
+    "plant_name": "Yuheng Battery Suichang 3 GWh LFP energy-storage battery project (Suichang Economic Development Zone, Lishui, Zhejiang)",
+    "operator": "Yuheng Battery Co., Ltd. (宇恒电池股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "status": "under_construction",
+    "project_state": "active",
+    "site_type": "single_site",
+    "announced_year": null,
+    "start_year": null,
+    "nameplate_capacity_gwh": 3,
+    "capacity_ref_year": 2025,
+    "installed_capacity_gwh": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "chemistry": "LFP",
+    "cell_format": null,
+    "end_market": "ESS",
+    "jv_partners": null,
+    "source_url": "https://mcn.solarbe.com/news/20250828/50007165.html",
+    "source_date": "2026-11-24",
+    "source_published_date": "2025-08-28"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "nameplate_capacity_gwh": [
+     "S1b"
+    ],
+    "capacity_ref_year": [
+     "S1c"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[T103] NEW row from T100 lead. Solarbe 2025-08-28 (S1, fetched): the project's construction-works planning completion verification (竣工规划核实) is done and the plant is 'about to move from construction to production' -> physical works confirmed, production NOT confirmed -> under_construction (D-020; operational needs a source saying cells are in production; none found). Plan: 3 GWh/yr LFP energy-storage battery, total investment RMB 1.1bn, 101 mu, two phases (GWh split per phase not stated); phase 1 was scheduled for trial production Q1 2025 and formal production H1 2025 (S1c) - the article of Aug 2025 shows that schedule had slipped. Site plot: Suichang Economic Development Zone, Yanghao plot P(2022)30 (S1d). Capacity basis: 'can form 3 GWh/yr LFP energy-storage battery production capacity' (S1b); the page says 'battery', not 'cell', and gives no cell/pack split -> treated as cell capacity, flagged (D-026 not triggered because no pack/system bundling is stated). ref_year: fallback, searched (publication year 2025; no phase carries a 达产 year). Searched for later news (2 searches, 2026-11-24): nothing after 2025-08 found -> confidence 0.5, status may be stale (the plant may already be producing). RELATION TO EXISTING ROW yuheng-battery-yuheng-suichang-lishui-lithium-sodium-base-china (1 GWh filing, EnergyTrend, completion Dec 2027): same operator and same county; that 1 GWh item is a later filing for ADDED capacity and may be an expansion of this same plant rather than a second site. Plot of the 1 GWh item is not stated, so the two rows are kept separate and NOT summed by this patch; LEAD: decide whether to merge (if same site, nameplate would be 3 + 1 = 4 GWh). Coordinates not set (zone known, not geocoded)."
+  },
+  {
+   "id": "svolt-wuhan-formerly-zhongxing-gaoneng-svolt-wuhan-dongxihu-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 30.6208329,
+    "longitude": 114.1307616,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S4"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Dongxihu district (东西湖区), Wuhan, Hubei, coordinates from OSM Nominatim page S4 (district label point, NOT the plant gate)]. Dongxihu is named in the row's own plant_name. STATUS/CAPACITY CHECK (lead question): the ess-news page (S2, fetched) that reportedly says ~60 GWh is about Cornex (楚能新能源), not SVOLT: the page contains the sentence 'Its Wuhan facility provides roughly 60 GWh focused on EV cells.' about Cornex and does not mention SVOLT, so that 60 GWh figure must NOT be attached to this row. Additional searches (3, 2026-11-24, CN and EN) found no 2025-2026 source on SVOLT Wuhan (蜂巢能源(武汉)有限公司) production, capacity or idle status. Status/capacity of this row therefore remain as left by T095 (capacity null, confidence 0.35, current operating state unconfirmed); no field other than coordinates changed."
+  },
+  {
+   "id": "ampace-xiamen-ampace-xiamen-battery-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 24.4801069,
+    "longitude": 118.0853479,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S3"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Xiamen, coordinates from OSM Nominatim page S3 (city label point, NOT the plant)]. Place from the row's own plant_name ('Ampace Xiamen'); the exact park was not located."
+  },
+  {
+   "id": "weifang-energy-dalong-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 27.291382,
+    "longitude": 109.0088841,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S13"
+    ]
+   },
+   "notes": "[T103] [GEO=town:Dalong subdistrict (大龙街道), Yuping Dong Autonomous County, Tongren, Guizhou, coordinates from OSM Nominatim page S13 (town label point, NOT the plant gate)]. Row notes place the project in the Dalong Development Zone, Guizhou; the link between the zone and this Dalong subdistrict is by name and province (Guizhou) only, the exact plot was not located."
+  },
+  {
+   "id": "ola-cell-technologies-ola-gigafactory-krishnagiri-india",
+   "action": "update",
+   "fields": {
+    "latitude": 12.5152075,
+    "longitude": 78.0093769,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S12"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Krishnagiri, Tamil Nadu, coordinates from OSM Nominatim page S12 (administrative label point, first of two Krishnagiri results; the second was 12.5732816,78.1927583; NOT the plant gate)]. Place from the row's own plant_name ('Krishnagiri')."
+  },
+  {
+   "id": "amara-raja-advanced-cell-technologies-amara-raja-giga-corridor-india",
+   "action": "update",
+   "fields": {
+    "latitude": 16.7364256,
+    "longitude": 78.0865649,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S26"
+    ]
+   },
+   "notes": "[T103] [GEO=town:Divitipally village, Mahabubnagar, Telangana, coordinates from OSM Nominatim page S26 (village label point, NOT the plant gate)]. Row notes (T018/later) place the groundbreaking at Divitipalli, Mahbubnagar, Telangana; replaces the earlier v1 point that was removed as wrong (Mathura, UP)."
+  },
+  {
+   "id": "nanning-findreams-battery-findreams-nanning-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 22.8157737,
+    "longitude": 108.318024,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S8"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Nanning, Guangxi, coordinates from OSM Nominatim page S8 (city label point, NOT the plant)]. Place from the row's own plant_name ('Nanning FinDreams'); the exact park was not located."
+  },
+  {
+   "id": "geely-technology-group-geely-tonglu-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 29.7965627,
+    "longitude": 119.6876858,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S5"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Tonglu county, Hangzhou, Zhejiang, coordinates from OSM Nominatim page S5 (county label point, NOT the plant)]. Place from the row's own plant_name ('Tonglu Economic Development Zone'); the zone itself was not located."
+  },
+  {
+   "id": "qingtao-energy-taizhou-huangyan-solid-state-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.65319,
+    "longitude": 121.2576325,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S6"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Huangyan district, Taizhou, Zhejiang, coordinates from OSM Nominatim page S6 (district label point, NOT the plant)]. Place from the row's own plant_name ('Taizhou (Huangyan)')."
+  },
+  {
+   "id": "zhejiang-green-storage-energy-quzhou-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.973887,
+    "longitude": 118.8540924,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S7"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Quzhou, Zhejiang, coordinates from OSM Nominatim page S7 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Quzhou'); the exact park was not located."
+  },
+  {
+   "id": "pomega-energy-storage-technologies-pomega-colleton-county-south-carolina-united-states",
+   "action": "update",
+   "fields": {
+    "latitude": 32.9021377,
+    "longitude": -80.6672631,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S14"
+    ]
+   },
+   "notes": "[T103] [GEO=town:Walterboro, Colleton County, South Carolina, coordinates from OSM Nominatim page S14 (town label point; the Colleton Industrial Campus itself was not located, NOT the plant gate)]. Place from the row's own plant_name ('Colleton Industrial Campus, near Walterboro')."
+  },
+  {
+   "id": "guangdong-punaida-punaida-renhua-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 25.088203,
+    "longitude": 113.7430215,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S9"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Renhua county town, Shaoguan, Guangdong, coordinates from OSM Nominatim page S9 (county-town point, NOT the plant)]. Place from the row's own plant_name ('Renhua'); the plant's park was not located."
+  },
+  {
+   "id": "chemvolt-global-chemvolt-lithium-ion-cell-gigafactory-andhra-pradesh-india",
+   "action": "update",
+   "fields": {
+    "latitude": 23.3311044,
+    "longitude": 75.0360846,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S15"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Ratlam, Madhya Pradesh, coordinates from OSM Nominatim page S15 (city label point; the Ratlam Mega Industrial Park itself was not located, NOT the plant gate)]. Row notes (T018) place the project at Ratlam Mega Industrial Park, Madhya Pradesh (the id still says andhra-pradesh by convention)."
+  },
+  {
+   "id": "farasis-energy-ganzhou-original-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 25.8332103,
+    "longitude": 114.9287362,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Ganzhou urban area, Jiangxi, coordinates from OSM Nominatim page S10 (city label point, NOT the plant)]. Place from the row's own plant_name ('赣州基地')."
+  },
+  {
+   "id": "geely-technology-group-geely-ganzhou-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 25.8332103,
+    "longitude": 114.9287362,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Ganzhou urban area, Jiangxi, coordinates from OSM Nominatim page S10 (city label point, NOT the plant)]. Place from the row's own id/plant_name ('Ganzhou'; the T066 source MarkLines 2021 teaser says 'Ganzhou, Jiangxi'); the exact park was not located."
+  },
+  {
+   "id": "formosa-smart-energy-technology-fset-changhua-cell-plant-taiwan",
+   "action": "update",
+   "fields": {
+    "latitude": 24.0755667,
+    "longitude": 120.5444667,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S19"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Changhua County, Taiwan, coordinates from OSM Nominatim page S19 (county label point, NOT the plant)]. Place from the row's own plant_name ('Changhua'); the exact industrial zone was not located."
+  },
+  {
+   "id": "panasonic-energy-panasonic-energy-suminoe-factory-japan",
+   "action": "update",
+   "fields": {
+    "latitude": 34.614132,
+    "longitude": 135.466545,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S16"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Suminoe ward (住之江区), Osaka, coordinates from OSM Nominatim page S16 (ward label point, NOT the factory)]. Row notes (T013) state the Suminoe factory is in Suminoe-ku, Osaka; the earlier v1 point (Oizumi, Gunma) was removed as wrong."
+  },
+  {
+   "id": "saike-power-saike-power-yibin-high-safety-solid-state-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.7555245,
+    "longitude": 104.6406023,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S17"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Yibin, Sichuan, coordinates from OSM Nominatim page S17 (city-type point, NOT the plant)]. Place from the row's own plant_name ('Yibin'); the exact park was not located."
+  },
+  {
+   "id": "zhongna-energy-storage-gansu-new-energy-technology-co-ltd-zhengning-sodium-ion-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 35.4922133,
+    "longitude": 108.3550158,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S25"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Zhengning county seat, Qingyang, Gansu, coordinates from OSM Nominatim page S25 (county-town point, NOT the plant)]. Place from the row's own plant_name ('Gansu Zhengning'); the exact park was not located."
+  },
+  {
+   "id": "jiangsu-muxing-shidai-energy-storage-technology-nantong-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.9827896,
+    "longitude": 120.8904588,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S23"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Nantong, Jiangsu, coordinates from OSM Nominatim page S23 (city label point, NOT the plant)]. Place from the row's own plant_name ('Nantong High-tech Zone'); the zone itself was not located."
+  },
+  {
+   "id": "zhongtian-energy-storage-technology-zhongtian-nantong-energy-storage-manufacturing-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.9827896,
+    "longitude": 120.8904588,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S23"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Nantong, Jiangsu, coordinates from OSM Nominatim page S23 (city label point, NOT the plant)]. Place from the row's own plant_name ('Nantong'); the exact park was not located."
+  },
+  {
+   "id": "jiuxu-sodium-alxa-jiuxu-sodium-alxa-50gwh-sodium-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 39.4156017,
+    "longitude": 106.6524596,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S20"
+    ]
+   },
+   "notes": "[T103] [GEO=town:Alxa High-tech Zone (阿拉善高新技术产业开发区), Ustai town, Alxa Left Banner, Inner Mongolia, coordinates from OSM Nominatim page S20 (zone label point, NOT the plant gate)]. Place from the row's own plant_name ('Alxa High-tech Zone incubation park'); the exact park was not located. The OSM display name is in English plus Mongolian script, so the S20 quote is only the English fragment."
+  },
+  {
+   "id": "samsung-sdi-samsung-sdi-arn-xi-an-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 34.1598597,
+    "longitude": 108.9023547,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Chang'an district, Xi'an, Shaanxi, coordinates from OSM Nominatim page S18 (district label point, NOT the plant)]. Place from the row's own plant_name ('Changan District, Xi'an')."
+  },
+  {
+   "id": "hubei-wocheng-new-energy-shiyan-zhangwan-20gwh-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.6533956,
+    "longitude": 110.7653616,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S24"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Zhangwan district, Shiyan, Hubei, coordinates from OSM Nominatim page S24 (district label point, NOT the plant)]. Place from the row's own plant_name ('Shiyan Zhangwan District')."
+  },
+  {
+   "id": "yunshi-weilan-jiangning-solid-state-lithium-battery-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.9552184,
+    "longitude": 118.8348197,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S22"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Jiangning district, Nanjing, Jiangsu, coordinates from OSM Nominatim page S22 (district label point, NOT the plant)]. Place from the row's own plant_name ('Jiangning, Nanjing')."
+  },
+  {
+   "id": "kim-long-motor-kim-long-byd-battery-plant-hue-vietnam",
+   "action": "update",
+   "fields": {
+    "latitude": 16.4639321,
+    "longitude": 107.5863388,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S21"
+    ]
+   },
+   "notes": "[T103] [GEO=city:Hue, Vietnam, coordinates from OSM Nominatim page S21 (city label point, NOT the plant)]. Place from the row's own plant_name ('Hue'); the exact site was not located."
+  }
+ ]
+}
