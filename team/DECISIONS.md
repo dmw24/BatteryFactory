@@ -82,3 +82,13 @@ notes is neither "fallback" nor D-021 "latest dated phase; remainder undated". O
 capacity_by_year_json steps only (D-high still credits the full plan). Construction-complete (建设完成/厂房已完成),
 IPO use-of-proceeds deadlines and construction-tracker completion estimates are not phase years.
 Effect: D 2023/2024/2025 = 1,647 / 2,018 / 3,349 GWh (was 1,732 / 2,172 / 3,429).
+
+## D-033 — Series F: modelled history backfill, labelled estimate (owner 2026-11-24: "really fix history")
+For operational active plants with a known start_year whose sourced series (D) is zero before its first sourced
+figure, years from start_year to that figure are filled with a linear ramp to the first sourced value. Company cap:
+the modelled part of a company's sites may not push the company above its smallest disclosed total from that year
+onward (capacity grows). Unallocated company capacity is recomputed against D + modelled. F = D + modelled +
+unallocated. Stored separately (capacity_history_model, capacity_by_year_f.csv); never written into plant rows.
+Also fixed (sourced series): rows now start at the online year (start_year or first sourced step) so dated pre-anchor
+steps count, and plants with an installed anchor are never filled with full nameplate before that anchor.
+Known remaining bias: plants that produced in 2016–2022 and later closed are largely absent (survivorship) → T095.

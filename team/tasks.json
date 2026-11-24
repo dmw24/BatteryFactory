@@ -2788,6 +2788,30 @@
    "attempts": 1,
    "assumptions": [],
    "audit": {}
+  },
+  {
+   "id": "T095",
+   "title": "Historic plants missing by survivorship: Chinese/global cell plants that produced 2015–2023 and later closed, went bankrupt or were idled (Waterma, Optimum Nano, CHAM, BAK lines, Northvolt Ett …) with yearly capacity",
+   "workstream": "I. History (owner 2026-11-24)",
+   "owner": "worker",
+   "files": [
+    "data/patches/T095.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "each add has status operational + project_state paused/cancelled with evidence, start_year, dated capacity steps"
+   ],
+   "risk": "high",
+   "contract": {
+    "path": "team/CONVENTIONS.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }

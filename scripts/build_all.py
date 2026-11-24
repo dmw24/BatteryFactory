@@ -8,7 +8,7 @@ rebuild -> time series (A-D) -> unallocated company capacity (E) -> QA report ->
 import subprocess
 import sys
 
-STEPS = ["scripts/rebuild.py", "scripts/build_timeseries.py", "scripts/build_unallocated.py", "scripts/qa.py",
+STEPS = ["scripts/rebuild.py", "scripts/build_timeseries.py", "scripts/build_unallocated.py", "scripts/build_history_model.py", "scripts/qa.py",
          "scripts/build_report.py", "scripts/make_v2_charts.py"]
 for s in STEPS:
     r = subprocess.run([sys.executable, s], capture_output=True, text=True)

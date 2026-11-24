@@ -25,13 +25,15 @@ import csv
 import glob
 import os
 
+import sys
+
 import duckdb
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-ALIAS = {"REPT Battero": "REPT", "Panasonic Energy": "Panasonic", "Contemporary Amperex": "CATL", "EVE Energy": "EVE",
-         "Gotion High-tech": "Gotion", "Gotion High-Tech": "Gotion", "Great Power Energy": "Great Power", "Farasis Energy": "Farasis",
-         "Ganfeng LiEnergy": "Ganfeng", "Ganfeng Lithium": "Ganfeng", "Narada Power": "Narada", "LG Energy Solution": "LGES", "BYD Company": "BYD"}
+from company_aliases import ALIAS  # noqa: E402
 SINGLE_SEGMENT = {"Hithium": "ess_only"}   # companies whose whole cell business is one segment
 HOME_REGION = {"LGES": "South Korea", "Samsung SDI": "South Korea", "SK On": "South Korea", "Panasonic": "Japan",
                "Envision AESC": "China"}
