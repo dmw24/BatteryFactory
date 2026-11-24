@@ -148,3 +148,7 @@ the 2024 report); IEA/BNEF 2023 2.5/2.6; 2024 3.0/3.1; 2025 >4.0. F reaches ~49%
 Farasis 2017–2019); survivorship search (T095: Waterma, Aoyou, Guoneng, JEVE… — only company-level totals exist).
 Remaining gap is concentrated in China 2018–2022: closed tier-2/3 makers whose site capacity was never published, and plants
 whose current capacity is known but whose ramp is not. Open sources do not close it plant by plant.
+Regional 2030 pipeline (active, by status, ref year ≤2030): Europe 369 operational-site plans / 296 under construction / 75
+announced GWh (≈0.74 TWh); North America 527 / 252 / 24 (≈0.80 TWh). Benchmark's 2023-vintage 2030 pipelines were 1.2 TWh
+(Europe) and 1.3 TWh (North America); since then we record 223 GWh (Europe) and 301 GWh (North America) as paused or
+cancelled — the pipelines have shrunk, consistent with the gap.
