@@ -10,6 +10,22 @@
     "announced_year": null
    },
    "notes": "lead: v1 announced_year 2021 (reported tier) contradicted by Gasgoo 'first phase of Xiamen base started production at the end of 2020' (T094 S4) - nulled. v1 capacity_by_year_json {2023:10, 2027:60} inconsistent with 30 GWh built (Sina 2026-04-21) - flagged for review."
+  },
+  {
+   "id": "cbak-energy-nanjing-gaochun-sodium-ion-plant-china",
+   "action": "fix",
+   "fields": {
+    "capacity_ref_year": 2027
+   },
+   "notes": "lead: TechNode 2026-09-25 (T096 S4) gives a planned start in late 2027 subject to financing; ref_year 2026 was too early -> 2027 (earliest possible; fallback, searched)."
+  },
+  {
+   "id": "panasonic-energy-panasonic-energy-oizumi-factory-japan",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.55
+   },
+   "notes": "lead: 0.6 exactly not allowed (C8); Subaru EV-plan revision makes start timing uncertain (T096 S3) -> 0.55."
   }
  ]
 }
