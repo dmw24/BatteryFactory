@@ -215,3 +215,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Derived tables live in the same DB; rebuild them so factories.db is never left without the series
+# (checks/run_all.py and helper scripts call rebuild.py). Skip with REBUILD_NO_DERIVED=1.
+if __name__ == "__main__" and not os.environ.get("REBUILD_NO_DERIVED") and not os.environ.get("REBUILD_EXCLUDE"):
+    import subprocess as _sp
+    for _s in ("scripts/build_timeseries.py", "scripts/build_unallocated.py"):
+        _sp.run([sys.executable, _s], capture_output=True)

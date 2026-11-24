@@ -212,7 +212,22 @@ def main():
                     return min(int(p["year"]) for p in pts)
             except (json.JSONDecodeError, TypeError):
                 pass
-        for k in ("start_year", "capacity_ref_year", "announced_year"):
+        # history fix (2026-11-24): the earliest of start_year and the first sourced capacity step counts as online;
+        # only fall back to ref/announced year when neither exists
+        cands = []
+        if r["start_year"] is not None:
+            cands.append(int(r["start_year"]))
+        if r["capacity_by_year_json"] and r.get("status") == "operational":
+            try:
+                ks = [int(k) for k, v in json.loads(r["capacity_by_year_json"]).items() if v]
+                ks = [k for k in ks if k <= LAST_ACTUAL]
+                if ks:
+                    cands.append(min(ks))
+            except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
+                pass
+        if cands:
+            return min(cands)
+        for k in ("capacity_ref_year", "announced_year"):
             if r[k] is not None:
                 return int(r[k])
         return None
@@ -271,16 +286,34 @@ def main():
                 steps = {int(k): float(v) for k, v in json.loads(r["capacity_by_year_json"]).items() if v is not None}
             except (ValueError, json.JSONDecodeError, AttributeError, TypeError):
                 steps = {}
+        # history fix (2026-11-24): a plant's rows used to start at its first *installed* point, so sourced earlier
+        # phase steps never reached Series D; extend the year range back to the online year with zero firm capacity
+        if oy is not None and firm and oy < min(firm):
+            for yy in range(max(oy, FIRST), min(firm)):
+                firm.setdefault(yy, 0.0)
+                pipe.setdefault(yy, 0.0)
+            firm = dict(sorted(firm.items()))
         for y in firm:
             if kind == "real":
                 npl = firm[y]                       # v2: sourced installed level
+            elif r.get("installed_capacity_gwh") is not None and r["status"] == "operational":
+                npl = firm.get(y, 0.0)              # anchored plant: no nameplate fill (history fix 2026-11-24)
             else:
                 npl = (np if (np is not None and r["status"] == "operational" and (active or y <= LAST_ACTUAL)
                               and oy is not None and y >= oy) else 0.0)
             # Series C (best estimate, D-024): confirmed level where sourced; else reported v1 history
             # (capped at nameplate); else the nameplate fill used by B.
+            anchor_y = int(str(r["installed_as_of"])[:4]) if (r.get("installed_capacity_gwh") is not None
+                                                             and r.get("installed_as_of")) else None
             if kind == "real":
                 best, basis = firm[y], "confirmed"
+            elif anchor_y is not None and r["status"] == "operational":
+                # plant has a sourced installed figure dated later than y: before that anchor only sourced, dated
+                # phase steps count (never the full plan); after it, the anchor itself
+                stp = max([v for k, v in steps.items() if k <= y] or [0.0])
+                cap = float(r["installed_capacity_gwh"]) if y >= anchor_y else (np or 1e9)
+                best = min(stp, cap) if y < anchor_y else max(float(r["installed_capacity_gwh"]), 0.0)
+                basis = ("confirmed" if y >= anchor_y else ("dated_step_pre_anchor" if best else "none"))
             elif r["id"] in bad_hist:
                 best, basis = 0.0, "unsupported_v1_timeline"
             elif npl and reported_hist:
