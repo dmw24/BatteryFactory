@@ -95,6 +95,7 @@ v2 (D-023, after the FINAL audit sweep). `scripts/build_timeseries.py` builds th
 from **active, comparable cell plants** only (non-cell rows, paused/cancelled projects from 2025 on, and the
 non-comparable long-duration chemistries in `data/reference/non_comparable.csv` contribute 0).
 
+- **Series v4 (D-034/D-035, `scripts/series_core.py`) supersedes the A/B/C wording below where they differ:** A = confirmed installed anchors only; C includes dated phase steps (per-step confirmation); B ≈ C; D-high is the upper bound; F = modelled history (D-033).
 - **Series A — sourced online capacity (floor).** Only re-verified `installed_capacity_gwh` figures, dated by
   `installed_as_of`, carried flat afterwards. v1 `capacity_timeline` history is kept only for years before that
   anchor and capped at it. Operational plants with no sourced installed figure count 0 (`online_unquantified`).

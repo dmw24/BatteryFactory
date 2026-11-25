@@ -52,3 +52,9 @@ T093 rejected v1 history (LG Wroclaw 35/65, SVOLT Chengdu 2023, Tangshan 2018), 
 first and still showed those values as "confirmed" (~0.3 TWh in 2022). Audit the built series per row, not only the
 patch fields. And: a value equal to a bound (CATL 2018 = its 2019 total) or a date that collides with an older source
 (Chuneng Xiaogan "6月28日" 2025 vs a 2023-06-28 article) is an artefact until shown otherwise.
+
+## T111 (2026-11-25) — one confirmed quote confirmed every step in the field
+T110 added a prospectus quote for CALB Xiamen 2021:1.36; because evidence tiers were per field, the v1 steps 2023:10
+and 2027:60 (reported, already flagged) became "confirmed" Series A capacity. The quote was verbatim and every check
+passed. When a patch adds evidence to a multi-value field, check each value is covered by a quote, and diff the built
+series with and without the patch.

@@ -123,3 +123,10 @@ extension credited capacity before start_year; F used CATL's 2019 total as its 2
 2025-vs-2023 start, DFD Nanning sum, Aoyou budget figure, Guoneng inferred status, SVOLT Wuhan idle, Farasis Zhenjiang
 start, Envision Wuxi/Tangshan ref years, SVOLT Shangrao installed, Gotion Liuzhou start 2024 vs 2022. All fixed
 (T104 + series_core rewrite). Open: T096/T100 'no news' rows ≥10 GWh with one search → T105.
+
+## T111 — checkpoint audit (Opus, 2026-11-25) — verdict FAIL → fixed (T113, D-035)
+Per-field tiers made reported steps "confirmed" (CALB Xiamen 2023:10/2027:60 after T110 added a 2021 quote); partly
+rejected v1 rows still used rejected points (Lyten 2021, Yaoning Jianhu 2023); A included phase steps while documented as
+installed floor; B plan-filled before first step; D ignored newer lower anchors; pipeline overlapped C; CALB Luoyang
+mapped after its sale; Zenergy Nanjing idle since 2022; XCMG via an unconfirmed v1 plan point; Yaoning 0.62. All fixed.
+Passed: F caps and ramp, 22/22 company figures vs filings, T107–T109.

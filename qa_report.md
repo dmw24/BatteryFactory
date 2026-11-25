@@ -11,7 +11,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 
 | status | plants | Σ nameplate GWh/yr | Σ sourced installed GWh/yr |
 |---|---:|---:|---:|
-| operational | 306 | 6867.0 | 3211.0 |
+| operational | 305 | 6867.0 | 3211.0 |
 | announced | 86 | 1031.0 | — |
 | under_construction | 77 | 1629.0 | — |
 | (unknown) | 18 | 6.0 | — |
@@ -26,7 +26,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 | cancelled | under_construction | 6 | 95.0 |
 | paused | (unknown) | 1 | — |
 | paused | announced | 6 | 125.0 |
-| paused | operational | 11 | 39.0 |
+| paused | operational | 12 | 39.0 |
 | paused | under_construction | 9 | 195.0 |
 
 ### Region × status matrix
@@ -35,7 +35,7 @@ Active, comparable cell plants only (view `factories_active`: excludes non-cell 
 |---|---|---:|---:|
 | China | (unknown) | 7 | 3.0 |
 | China | announced | 56 | 785.0 |
-| China | operational | 203 | 5710.0 |
+| China | operational | 202 | 5710.0 |
 | China | under_construction | 47 | 1003.0 |
 | Europe | (unknown) | 4 | 2.0 |
 | Europe | announced | 9 | 75.0 |

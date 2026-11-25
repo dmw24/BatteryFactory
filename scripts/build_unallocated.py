@@ -45,17 +45,23 @@ for f in sorted(glob.glob("data/reference/company_capacity/*.csv")):
         r["_estimate"] = f.endswith("_estimates.csv")  # D-030: converted from Ah etc.; labelled, reported separately
         r["company"] = ALIAS.get((r.get("company") or "").strip(), (r.get("company") or "").strip())
         disc.append(r)
-cmap = {r["id"]: r["company"] for r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8"))
-        if not r["company"].startswith("(")}
+cmap, valid_to = {}, {}
+for _r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8")):
+    if not _r["company"].startswith("("):
+        cmap[_r["id"]] = _r["company"]
+        if (_r.get("valid_to") or "").strip():
+            valid_to[_r["id"]] = int(_r["valid_to"])   # ownership ended (e.g. CALB Luoyang 2021)
 
 con = duckdb.connect("factories.db")
+# all comparable rows (paused/cancelled rows carry capacity before 2025 in D, so they must be subtracted too — T111)
 site = con.execute("""SELECT b.id, b.year, b.gwh_iea, f.region FROM capacity_by_year b
-                      JOIN factories_active f ON f.id = b.id""").fetchall()
+                      JOIN factories f ON f.id = b.id""").fetchall()
 
 
 def site_sum(company, year, china_only):
     return sum(g or 0 for i, y, g, reg in site
-               if y == year and cmap.get(i) == company and (not china_only or reg == "China"))
+               if y == year and cmap.get(i) == company and (not china_only or reg == "China")
+               and y <= valid_to.get(i, 9999))
 
 
 chosen, skipped = {}, []

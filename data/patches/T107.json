@@ -104,19 +104,6 @@
    "notes": "[T107] start_year 2023: Pedaily 2023-07-27 lists the Huzhou base among SVOLT bases 'in mass production one after another'. Not a dated first-production event (the chinadaily 2023-05-08 page cited in the v1 timeline now returns 404; Huzhou first-cell date not found), so 2023 is 'by July 2023'. Note this contradicts nothing in T008 but sits beside the SVOLT June-2023 filing that gave 2022-12-31 as 'not yet in production'. Status question (T008) is untouched; no capacity step."
   },
   {
-   "id": "sunwoda-sunwoda-yichang-power-battery-production-base-china",
-   "action": "update",
-   "fields": {
-    "start_year": 2023
-   },
-   "evidence": {
-    "start_year": [
-     "S6"
-    ]
-   },
-   "notes": "[T107] start_year 2023: first batch of cells off the line (首批电芯产品下线) at Hubei Dongyu Xinsheng, reported 2023-10-12. The page is a first-cell roll-off, not a 投产 statement; later evidence of production is the 2026-05-25 120Ah cell production event (T007). The v1 timeline's '313 days' and 10 Oct 2023 date were not re-found (en.sunwoda.com page 404). No capacity step (the 20 GWh phase-1 nameplate is a design figure)."
-  },
-  {
    "id": "quzhou-great-power-energy-technology-co-ltd-great-power-quzhou-energy-storage-battery-base-quzhou-smart-manufacturing-new-city-china",
    "action": "update",
    "fields": {

@@ -103,3 +103,12 @@ v1 histories get no nameplate fill. Series A now contains confirmed values only.
 1,033→749, 2025 3,418→3,469 GWh; history now sits in the labelled Series F model where it is not sourced.
 Series F fixes: company caps interpolated between disclosed years; true start year in the ramp; company-capped model
 values flagged (company-level remainder, not plant estimates).
+
+## D-035 — Series v4 (T111 audit, 2026-11-25) — pending owner
+A = confirmed INSTALLED anchors only (the installed floor, as documented); dated phase steps move to C. Steps are
+confirmed per step (a confirmed quote must contain the value); cumulative sums of quoted phases are "reported_step"
+in C. v1 timeline points are rejected one by one (timeline_check NUMBER_MISSING); a row whose v1 history was rejected
+is never plan-filled. A later reported v1 point may raise C (never A). B = A, else C when dated data exist, else the
+nameplate fill (B now ≈ C; D-high is the upper bound). D's full-plan credit is withheld while a later confirmed installed
+anchor is below the plan. Pipeline = target above C, 0 for inactive projects. Company maps carry valid_to (CALB
+Luoyang 2021); unallocated subtracts paused rows too. Effect 2025: A 1,197 · C 3,342 · D 3,442 · D-high 4,332 · F 3,496.

@@ -36,8 +36,12 @@ start = {}
 for i, y, g, s in rows:
     d[i][y] = g or 0.0
     start[i] = s
-cmap = {r["id"]: r["company"] for r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8"))
-        if not r["company"].startswith("(")}
+cmap, valid_to = {}, {}
+for _r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8")):
+    if not _r["company"].startswith("("):
+        cmap[_r["id"]] = _r["company"]
+        if (_r.get("valid_to") or "").strip():
+            valid_to[_r["id"]] = int(_r["valid_to"])
 
 # disclosed company capacity (same selection rules as build_unallocated.py, disclosed figures only)
 import sys
@@ -84,7 +88,7 @@ for i, ser in d.items():
         model[i][y] = ser[f] * (y - s + 1) / (f - s + 1)
 
 # company cap: capacity in year y cannot exceed what the company disclosed for y or any LATER year (capacity grows),
-# so the bound is the smallest disclosed total from y onward
+# so the bound is the disclosed total, interpolated between disclosed years, or the next disclosed total before the first
 comps = {c for c, _ in disc}
 bound = {}
 for comp in comps:
@@ -102,7 +106,7 @@ for comp in comps:
         elif after:                 # before the first disclosure: capacity cannot exceed the next disclosed total
             bound[(comp, y)] = (0, disc[(comp, min(after))][1])
 for (comp, y), (_, v) in bound.items():
-    ids = [i for i in d if cmap.get(i) == comp]
+    ids = [i for i in d if cmap.get(i) == comp and y <= valid_to.get(i, 9999)]
     site = sum(d[i].get(y, 0.0) for i in ids)
     mod = sum(model[i].get(y, 0.0) for i in ids)
     if mod <= 0:
@@ -124,7 +128,7 @@ if out:
 # unallocated vs D + modelled
 unalloc = defaultdict(float)
 for (comp, y), (_, v) in disc.items():
-    ids = [i for i in d if cmap.get(i) == comp]
+    ids = [i for i in d if cmap.get(i) == comp and y <= valid_to.get(i, 9999)]
     site = sum(d[i].get(y, 0.0) + model[i].get(y, 0.0) for i in ids)
     unalloc[y] += max(0.0, v - site)
 dtot = defaultdict(float)

@@ -1,0 +1,55 @@
+{
+ "task": "T113",
+ "verified_on": "2026-11-25",
+ "sources": {
+  "S1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0403/2025040300013.pdf",
+   "publisher": "Zenergy Battery Technologies prospectus (HKEX)",
+   "published": "2025-04-03",
+   "accessed": "2026-11-25",
+   "language": "en",
+   "quote": "Nanjing Zenergy has ceased its substantial production activities since December 2022."
+  }
+ },
+ "rows": [
+  {
+   "id": "calb-calb-xiamen-battery-base-china",
+   "action": "fix",
+   "fields": {
+    "capacity_by_year_json": "{\"2021\": 1.36}"
+   },
+   "notes": "AUDIT T111: v1 steps 2023:10 and 2027:60 not covered by any quote (flagged in T097) - removed; only the prospectus 2021:1.36 kept."
+  },
+  {
+   "id": "byd-findreams-battery-byd-findreams-xcmg-findreams-xuzhou-blade-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "capacity_timeline": null
+   },
+   "notes": "AUDIT T111: v1 timeline point (plan 'fully commissioned by Oct 2024', not re-confirmed) removed; plant operational but capacity unquantified."
+  },
+  {
+   "id": "chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china",
+   "action": "fix",
+   "fields": {
+    "confidence": 0.55,
+    "capacity_ref_year": 2027
+   },
+   "notes": "AUDIT T111: new 2026 evidence refreshes status only; 30 GWh has a single origin -> 0.55; formal production stated for Q1 2027 -> ref_year 2027."
+  },
+  {
+   "id": "jiangsu-zenergy-nanjing-plant-china",
+   "action": "update",
+   "fields": {
+    "project_state": "paused",
+    "site_type": "single_site"
+   },
+   "evidence": {
+    "project_state": [
+     "S1"
+    ]
+   },
+   "notes": "AUDIT T111 / D-018: Zenergy prospectus note 3 - Nanjing ceased substantial production since Dec 2022."
+  }
+ ]
+}
