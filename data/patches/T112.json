@@ -1,0 +1,752 @@
+{
+ "task": "T112",
+ "verified_on": "2026-11-24",
+ "sources": {
+  "S1": {
+   "url": "https://nominatim.openstreetmap.org/search?q=涪陵区 重庆市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0; no publication date, accessed date given; fields extracted by the fetch tool)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "涪陵区, 重庆市, 中国"
+  },
+  "S2": {
+   "url": "https://nominatim.openstreetmap.org/search?q=武鸣区 南宁市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "武鸣区, 南宁市, 广西壮族自治区, 中国"
+  },
+  "S3": {
+   "url": "https://nominatim.openstreetmap.org/search?q=南京市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南京市, 江苏省, 中国"
+  },
+  "S4": {
+   "url": "https://nominatim.openstreetmap.org/search?q=百色市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "百色市, 广西壮族自治区, 中国"
+  },
+  "S5": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Neman Kaliningrad Oblast&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "ru",
+   "quote": "Неман, Неманский муниципальный округ, Калининградская область, Северо-Западный федеральный округ, Россия"
+  },
+  "S6": {
+   "url": "https://nominatim.openstreetmap.org/search?q=长安区 西安市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "长安区, 西安市, 陕西省, 中国"
+  },
+  "S7": {
+   "url": "https://nominatim.openstreetmap.org/search?q=遂昌县 丽水市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "遂昌县, 丽水市, 浙江省, 中国"
+  },
+  "S8": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Lingang Pudong Shanghai&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 3 of 3 (results 1-2 were university campuses)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "南汇新城镇, 浦东新区, 上海市, 中国"
+  },
+  "S9": {
+   "url": "https://nominatim.openstreetmap.org/search?q=榆林市 陕西省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "榆林市, 陕西省, 中国"
+  },
+  "S10": {
+   "url": "https://nominatim.openstreetmap.org/search?q=余干县 上饶市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "余干县, 上饶市, 江西省, 中国"
+  },
+  "S11": {
+   "url": "https://nominatim.openstreetmap.org/search?q=朝阳市 辽宁省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "朝阳市, 辽宁省, 中国"
+  },
+  "S12": {
+   "url": "https://nominatim.openstreetmap.org/search?q=巴中市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 2 (city-type place node)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "巴中市, 巴州区, 巴中市, 四川省, 中国"
+  },
+  "S13": {
+   "url": "https://nominatim.openstreetmap.org/search?q=湖州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "湖州市, 浙江省, 中国"
+  },
+  "S14": {
+   "url": "https://nominatim.openstreetmap.org/search?q=天津市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 2 (city-type place node in the urban area; result 1 is the municipality-wide centroid)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "天津市, 河西区, 天津市, 300061, 中国"
+  },
+  "S15": {
+   "url": "https://nominatim.openstreetmap.org/search?q=大连市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "大连市, 甘井子区, 辽宁省, 中国"
+  },
+  "S16": {
+   "url": "https://nominatim.openstreetmap.org/search?q=仪征市 扬州市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "仪征市, 扬州市, 江苏省, 211400, 中国"
+  },
+  "S17": {
+   "url": "https://nominatim.openstreetmap.org/search?q=盐城市 江苏省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "盐城市, 亭湖区, 江苏省, 中国"
+  },
+  "S18": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Voderady Slovakia&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 2 (village place node)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "sk",
+   "quote": "Voderady, okres Trnava, Trnavský kraj, 919 42, Slovensko"
+  },
+  "S19": {
+   "url": "https://nominatim.openstreetmap.org/search?q=珠海市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "珠海市, 广东省, 中国"
+  },
+  "S20": {
+   "url": "https://nominatim.openstreetmap.org/search?q=佛山市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "佛山市, 南海区, 广东省, 中国"
+  },
+  "S21": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Hansalpur Gujarat&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 2 (the Becharaji Hansalpur; result 1 is another Hansalpur in Viramgam Taluka, 23.0929538,72.0645945, not used)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "en",
+   "quote": "Hansalpur Becharaji, Mandal Taluka, Ahmedabad, Gujarat, 384415, India"
+  },
+  "S22": {
+   "url": "https://nominatim.openstreetmap.org/search?q=大和町 宮城県&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "ja",
+   "quote": "大和町, 黒川郡, 宮城県, 日本"
+  },
+  "S23": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宜春市 江西省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宜春市, 江西省, 331200, 中国"
+  },
+  "S24": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Flintbek Schleswig-Holstein&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "de",
+   "quote": "Flintbek, Eidertal, Kreis Rendsburg-Eckernförde, Schleswig-Holstein, 24220, Deutschland"
+  },
+  "S25": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Moorsee Kiel&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "de",
+   "quote": "Moorsee, Schlüsbek, Kiel, Altenholz, Schleswig-Holstein, 24145, Deutschland"
+  },
+  "S26": {
+   "url": "https://nominatim.openstreetmap.org/search?q=宁波市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "宁波市, 浙江省, 中国"
+  },
+  "S27": {
+   "url": "https://nominatim.openstreetmap.org/search?q=邢台市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "邢台市, 河北省, 054000, 中国"
+  },
+  "S28": {
+   "url": "https://nominatim.openstreetmap.org/search?q=洛阳市 河南省&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "洛阳市, 河南省, 中国"
+  },
+  "S29": {
+   "url": "https://nominatim.openstreetmap.org/search?q=包头市 内蒙古&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); display name also carries Mongolian script, quote is the Chinese fragment",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "包头市"
+  },
+  "S30": {
+   "url": "https://nominatim.openstreetmap.org/search?q=兰溪市 金华市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "兰溪市, 金华市, 浙江省, 321100, 中国"
+  },
+  "S31": {
+   "url": "https://nominatim.openstreetmap.org/search?q=长沙市&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); result 2 (city-type place node; result 1 is the prefecture centroid)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "zh",
+   "quote": "长沙市, 芙蓉区, 长沙市, 湖南省, 410005, 中国"
+  },
+  "S32": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Tolmachevo Novosibirsk Oblast&format=jsonv2&limit=3",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0); the only hit is the Tolmachevo aerodrome point",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "ru",
+   "quote": "Толмачёво, Криводановский сельсовет, Новосибирский район, Новосибирская область, Сибирский федеральный округ, 630512, Россия"
+  },
+  "S33": {
+   "url": "https://nominatim.openstreetmap.org/search?q=Inđija Serbia&format=jsonv2&limit=2",
+   "publisher": "OpenStreetMap Nominatim geocoder (live OSM data, ODbL 1.0)",
+   "published": "2026-11-24",
+   "accessed": "2026-11-24",
+   "language": "sr",
+   "quote": "Инђија, Општина Инђија, Сремски управни округ, Војводина, Србија"
+  }
+ },
+ "rows": [
+  {
+   "id": "chongqing-yaoning-new-energy-chongqing-yaoning-30gwh-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 29.660589,
+    "longitude": 107.332003,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S1"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Fuling district (涪陵区), Chongqing, coordinates from OSM Nominatim page S1 (district label point, NOT the plant)]. Place from the row's own T106 notes (Beijing News: 'the Fuling factory'; 480 mu site started 2022-05)."
+  },
+  {
+   "id": "guangxi-asean-findreams-battery-findreams-guangxi-asean-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 23.2716283,
+    "longitude": 108.2496629,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S2"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Wuming district (武鸣区), Nanning, Guangxi, coordinates from OSM Nominatim page S2 (district label point, NOT the plant)]. Place from the row's own T056 notes (EnergyTrend 2024: ASEAN-zone (Wuming) projects; the Wuming wording was summarised by the fetch tool, so the district is moderately certain); the exact park was not located."
+  },
+  {
+   "id": "cbak-energy-nanjing-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.0438284,
+    "longitude": 118.7788631,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S3"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Nanjing, Jiangsu, coordinates from OSM Nominatim page S3 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('CBAK Energy Nanjing plant'); the district/park was not located."
+  },
+  {
+   "id": "baise-kunyu-new-energy-baise-6gwh-cell-and-ess-integration-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 23.9053605,
+    "longitude": 106.6148824,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S4"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Baise, Guangxi, coordinates from OSM Nominatim page S4 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Baise High-tech Zone'); the zone itself was not located."
+  },
+  {
+   "id": "renera-renera-kaliningrad-gigafactory-russia",
+   "action": "update",
+   "fields": {
+    "latitude": 55.0359656,
+    "longitude": 22.0293578,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S5"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Neman (Неман), Kaliningrad Oblast, coordinates from OSM Nominatim page S5 (town label point, NOT the plant gate)]. Place from the row's own plant_name ('Neman') and T020 notes (Neman district, Kaliningrad); the plant plot inside Neman was not located."
+  },
+  {
+   "id": "yuheng-battery-suichang-3gwh-lfp-storage-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.595012,
+    "longitude": 119.2686475,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S7"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Suichang county, Lishui, Zhejiang, coordinates from OSM Nominatim page S7 (county label point, NOT the plant)]. Place from the row's own plant_name and T103 notes (Suichang Economic Development Zone, Yanghao plot P(2022)30); the zone itself was not located. NOTE for lead: this update targets the row ADDED by T103, so T103 must be merged first."
+  },
+  {
+   "id": "dejia-energy-shanghai-dejia-lingang-solid-state-line-china",
+   "action": "update",
+   "fields": {
+    "latitude": 30.8998671,
+    "longitude": 121.9218393,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S8"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Nanhui New City town (南汇新城镇, the Lingang core), Pudong, Shanghai, coordinates from OSM Nominatim page S8 (town label point, NOT the plant)]. Place from the row's own plant_name ('Lingang Blue Bay'); the Blue Bay site itself was not located and the 'Lingang = Nanhui Xincheng' link is by name only (the OSM hit for the query 'Lingang Pudong Shanghai' was this town after two university campuses in the same town)."
+  },
+  {
+   "id": "shaanxi-green-energy-storage-technology-co-ltd-shaanxi-green-energy-storage-lfp-cell-plant-yulin-china",
+   "action": "update",
+   "fields": {
+    "latitude": 38.2851459,
+    "longitude": 109.7290052,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S9"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Yulin, Shaanxi, coordinates from OSM Nominatim page S9 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Yulin'; operator is Shaanxi-registered, not Yulin in Guangxi); the exact park was not located."
+  },
+  {
+   "id": "sanwei-battery-shaanxi-yugan-solid-state-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.6509663,
+    "longitude": 116.6755204,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Yugan county, Shangrao, Jiangxi, coordinates from OSM Nominatim page S10 (county label point, NOT the plant)]. Place from the row's own T039 notes (Jiangxi, Yugan High-Tech Zone, Shangrao); the zone itself was not located."
+  },
+  {
+   "id": "liaoning-yuanxin-energy-storage-technology-yuanxin-chaoyang-drone-solid-state-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 41.5754767,
+    "longitude": 120.4390738,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S11"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Chaoyang, Liaoning, coordinates from OSM Nominatim page S11 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Chaoyang') with operator Liaoning Yuanxin; this is Chaoyang city in Liaoning, not Chaoyang district of Beijing; the exact park was not located."
+  },
+  {
+   "id": "namei-new-energy-technology-bazhong-co-ltd-namei-bazhong-sodium-ion-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 31.8689322,
+    "longitude": 106.7416618,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S12"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Bazhong urban area (Bazhou district), Sichuan, coordinates from OSM Nominatim page S12 (city-type place node, NOT the plant)]. Place from the row's own plant_name ('Bazhong'); the exact park was not located."
+  },
+  {
+   "id": "zhejiang-weizhen-new-material-weizhen-mofs-south-taihu-solid-state-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 30.8942995,
+    "longitude": 120.0851114,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S13"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Huzhou, Zhejiang, coordinates from OSM Nominatim page S13 (prefecture label point, NOT the plant)]. Place from the row's own T046 notes: South Taihu New Area is in Huzhou - an inference recorded by T046 (the source page says only 'Zhejiang Province'); a South Taihu New Area query on Nominatim returned only unrelated Jiangsu/Anhui hits, so the zone itself was not located and the Huzhou assignment is not independently verified here."
+  },
+  {
+   "id": "docters-tianjin-new-energy-technology-docters-tianjin-all-solid-state-battery-line-china",
+   "action": "update",
+   "fields": {
+    "latitude": 39.0844064,
+    "longitude": 117.1957475,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S14"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Tianjin urban area, coordinates from OSM Nominatim page S14 (city-type place node, NOT the plant)]. Place from the row's own plant_name ('Docters (Tianjin)'); the district/park was not located."
+  },
+  {
+   "id": "tianjin-lishen-battery-lishen-tianjin-hq-cell-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 39.0844064,
+    "longitude": 117.1957475,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S14"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Tianjin urban area, coordinates from OSM Nominatim page S14 (city-type place node, NOT the plant)]. Place from the row's own plant_name ('Lishen Tianjin HQ ... Huayuan Industrial Park'); a Nominatim query for 华苑产业区 returned only unrelated hits, so the park itself was not located."
+  },
+  {
+   "id": "prime-planet-energy-solutions-ppes-dalian-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 38.9130495,
+    "longitude": 121.6098013,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S15"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Dalian, Liaoning, coordinates from OSM Nominatim page S15 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('PPES Dalian'); the exact site was not located."
+  },
+  {
+   "id": "pylontech-pylon-technologies-pylontech-yangzhou-yizheng-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.2750989,
+    "longitude": 119.1790898,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S16"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Yizheng, Yangzhou, Jiangsu, coordinates from OSM Nominatim page S16 (county-level city label point, NOT the plant)]. Place from the row's own plant_name ('Yangzhou (Yizheng)'); the exact park was not located."
+  },
+  {
+   "id": "jeve-tianjin-jiewei-power-jeve-yancheng-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 33.349559,
+    "longitude": 120.1577019,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S17"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Yancheng, Jiangsu, coordinates from OSM Nominatim page S17 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Yancheng base'); the exact park was not located."
+  },
+  {
+   "id": "inobat-inobat-voderady-pilot-line-slovakia",
+   "action": "update",
+   "fields": {
+    "latitude": 48.2780646,
+    "longitude": 17.554802,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Voderady village, Trnava district, Slovakia, coordinates from OSM Nominatim page S18 (village label point, NOT the pilot line)]. Place from the row's own plant_name and T069 notes (Battery-News: production in Voderady, Slovakia)."
+  },
+  {
+   "id": "jiangsu-zenergy-nanjing-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 32.0438284,
+    "longitude": 118.7788631,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S3"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Nanjing, Jiangsu, coordinates from OSM Nominatim page S3 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Zenergy Nanjing production base'); the district/park was not located."
+  },
+  {
+   "id": "great-power-great-power-zhuhai-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 22.273734,
+    "longitude": 113.5721327,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S19"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Zhuhai, Guangdong, coordinates from OSM Nominatim page S19 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Great Power Zhuhai'); the exact site was not located."
+  },
+  {
+   "id": "great-power-great-power-foshan-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 23.0239788,
+    "longitude": 113.1159558,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S20"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Foshan, Guangdong, coordinates from OSM Nominatim page S20 (prefecture label point in Nanhai, NOT the plant)]. Place from the row's own plant_name ('Great Power Foshan'); the exact site was not located."
+  },
+  {
+   "id": "tds-lithium-ion-battery-gujarat-pvt-ltd-tdsg-tds-lithium-ion-battery-gujarat-hansalpur-india",
+   "action": "update",
+   "fields": {
+    "latitude": 23.4910018,
+    "longitude": 72.0180387,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S21"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Hansalpur (Becharaji), Mandal Taluka, Ahmedabad district, Gujarat, coordinates from OSM Nominatim page S21 (village label point, NOT the plant gate)]. Place from the row's own plant_name and T018 notes ('Hansalpur (Becharaji, Gujarat)'). A same-name Hansalpur in Viramgam Taluka (23.0929538,72.0645945, first Nominatim hit) was rejected; the Becharaji one matches the row's notes."
+  },
+  {
+   "id": "far-east-battery-far-east-battery-jiangxi-yichun-cylindrical-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.3803015,
+    "longitude": 115.0153957,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S23"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Yichun, Jiangxi, coordinates from OSM Nominatim page S23 (prefecture label point, which lies north-east of the urban area, NOT the plant)]. Place from the row's own plant_name ('Jiangxi (Yichun)'); Jiangxi Yichun, not Yichun in Heilongjiang; the exact park was not located."
+  },
+  {
+   "id": "univercell-univercell-flintbek-germany",
+   "action": "update",
+   "fields": {
+    "latitude": 54.2432092,
+    "longitude": 10.0633244,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S24"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Flintbek municipality, Rendsburg-Eckernforde, Schleswig-Holstein, coordinates from OSM Nominatim page S24 (municipality label point, NOT the factory)]. Place from the row's own plant_name ('UniverCell Flintbek')."
+  },
+  {
+   "id": "univercell-univercell-kiel-moorsee-germany",
+   "action": "update",
+   "fields": {
+    "latitude": 54.2649075,
+    "longitude": 10.146896,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S25"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Moorsee, Kiel, Schleswig-Holstein, coordinates from OSM Nominatim page S25 (locality label point, NOT the plant)]. Place from the row's own plant_name ('Kiel-Moorsee'). The OSM display name lists Moorsee under Schluesbek/Kiel/Altenholz, so the exact municipal boundary is blurred; the point is in the Kiel area north of the city centre and the plant plot was not located."
+  },
+  {
+   "id": "ningbo-findreams-battery-findreams-ningbo-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 29.8719603,
+    "longitude": 121.5499635,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S26"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Ningbo, Zhejiang, coordinates from OSM Nominatim page S26 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('FinDreams Ningbo'); the exact park was not located."
+  },
+  {
+   "id": "xingtai-hebei-lithium-battery-technology-xingtai-12gw-ess-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 37.0616519,
+    "longitude": 114.499746,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S27"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Xingtai, Hebei, coordinates from OSM Nominatim page S27 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Xingtai ... project') and operator (Xingtai (Hebei) Lithium Battery Technology); the exact park was not located."
+  },
+  {
+   "id": "china-lithium-battery-technology-luoyang-co-ltd-calb-luoyang-lithium-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 34.6196539,
+    "longitude": 112.4477046,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S28"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Luoyang, Henan, coordinates from OSM Nominatim page S28 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('Luoyang'); the exact park was not located."
+  },
+  {
+   "id": "baotou-byd-battery-byd-baotou-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "latitude": 40.6174777,
+    "longitude": 109.944912,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S29"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Baotou, Inner Mongolia, coordinates from OSM Nominatim page S29 (prefecture label point, NOT the plant)]. Place from the row's own plant_name ('BYD Baotou battery plant'); the exact park was not located."
+  },
+  {
+   "id": "zhejiang-liwei-energy-technology-sunwoda-lanxi-cell-base-china",
+   "action": "update",
+   "fields": {
+    "latitude": 29.2117769,
+    "longitude": 119.455345,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S30"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Lanxi, Jinhua, Zhejiang, coordinates from OSM Nominatim page S30 (county-level city label point, NOT the plant)]. Place from the row's own plant_name ('Sunwoda Lanxi base'); the exact park was not located."
+  },
+  {
+   "id": "sany-redelephant-sany-redelephant-changsha-lithium-ion-power-battery-project-china",
+   "action": "update",
+   "fields": {
+    "latitude": 28.2001495,
+    "longitude": 112.9717183,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S31"
+    ]
+   },
+   "notes": "[T112] [GEO=city:Changsha, Hunan, coordinates from OSM Nominatim page S31 (city-type place node, NOT the plant)]. Place from the row's own plant_name ('Changsha Economic and Technological Development Zone'); a Nominatim query for the zone returned only a Xi'an hit (rejected), so the zone itself was not located."
+  },
+  {
+   "id": "jiangsu-ruien-new-energy-indjija-cell-plant-serbia",
+   "action": "update",
+   "fields": {
+    "latitude": 45.0478559,
+    "longitude": 20.0807338,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S33"
+    ]
+   },
+   "notes": "[T112] [GEO=town:Indjija, Srem district, Vojvodina, Serbia, coordinates from OSM Nominatim page S33 (municipality label point, NOT the plant)]. Place from the row's own plant_name and T052 notes (framework agreement with the Indjija municipality); the plot was not located."
+  }
+ ]
+}
