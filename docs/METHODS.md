@@ -19,7 +19,7 @@ Every capacity and status value links to a source with a verbatim quote (`data/f
 ## Five capacity series (`capacity_by_year`, `capacity_by_year_e.csv`)
 | series | meaning | use |
 |---|---|---|
-| A | confirmed producing capacity only | floor |
+| A | confirmed installed anchors only (D-035) | floor |
 | C | best estimate of capacity actually producing | "how much is running" |
 | D | IEA basis: design capacity of commissioned lines (dated phases only) | compare with IEA/BNEF |
 | D-high | D plus plans whose completion year is undated | upper bound of D |
@@ -29,16 +29,13 @@ Ah-converted company figures (Great Power, D-030) are labelled estimates and rep
 Rules: never sum across statuses; aggregates use `factories_active` (active, comparable chemistries; D-019).
 
 ## How it compares (global, TWh per year)
-| year | C | D | D-high | E | F (modelled) | IEA | BNEF | Benchmark |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2020 | 0.15 | 0.16 | 0.17 | 0.23 | 0.36 | – | – | 0.73 |
-| 2022 | 0.71 | 0.75 | 0.89 | 1.04 | 1.22 | ~1.5–1.7 | – | – |
-| 2023 | 1.65 | 1.69 | 2.07 | 1.95 | 2.07 | ~2.5 | ~2.6 | – |
-| 2024 | 2.02 | 2.07 | 2.65 | 2.45 | 2.52 | 3.0 | 3.1 | – |
-| 2025 | 3.32 | 3.47 | 4.31 | 3.52 | 3.52 | >4.0 | – | 4.8 |
-Europe and the US match the benchmarks; the gap is China, mostly capacity history at known plants and companies
-that disclose no GWh capacity (BYD, CALB, Gotion, EVE, Korean makers). IEA data are based on Benchmark Mineral
-Intelligence, so those two are not independent. Provenance of each benchmark: `scripts/benchmarks.csv`.
+| year | A | C | D | D-high | E | F (modelled) | IEA | BNEF | Benchmark |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2020 | 0.04 | 0.15 | 0.17 | 0.17 | 0.24 | 0.35 | – | – | 0.73 |
+| 2022 | 0.15 | 0.74 | 0.77 | 0.93 | 1.07 | 1.21 | ~1.5–1.7 | – | – |
+| 2023 | 0.26 | 1.66 | 1.69 | 2.07 | 1.94 | 2.03 | ~2.5 | ~2.6 | – |
+| 2024 | 0.40 | 2.05 | 2.09 | 2.68 | 2.47 | 2.51 | 3.0 | 3.1 | – |
+| 2025 | 1.20 | 3.34 | 3.44 | 4.33 | 3.50 | 3.50 | >4.0 | – | 4.8 |
 
 ## Completeness checks done
 Two geographic passes (every Chinese province, every region), operator site lists for the top makers, China's
