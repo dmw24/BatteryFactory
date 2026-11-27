@@ -1,0 +1,2171 @@
+{
+ "task": "SC028",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "A1": {
+   "url": "https://view.asiae.co.kr/en/article/2026052718125327147",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2026-05-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "decided to suspend all commercial operations at the Jeungpyeong plant. ... The scheduled date for production suspension is November 30."
+  },
+  "A2": {
+   "url": "https://view.asiae.co.kr/en/article/2026052720323109798",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2026-05-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "separator production in China will be discontinued ... the total annual separator production capacity will be expanded to 1.54 billion square meters"
+  },
+  "A3": {
+   "url": "https://view.asiae.co.kr/en/article/2021032809585503948",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2021-03-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "430 million square meters each, totaling 860 million square meters. ... production capacity of 680 million square meters.",
+   "tier": "reported",
+   "snippet": "430 million square meters each, totaling 860 million square meters. ... production capacity of 680 million square meters.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "A4": {
+   "url": "https://disclosures.ifc.org/project-detail/SII/46728/sk-iet-poland",
+   "publisher": "IFC project disclosure, SK IET Poland (46728)",
+   "published": "2023-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "SKIET has a total LiBS manufacturing capacity of 1.53bn square meters (sqm) across 4 production facilities in 3 countries"
+  },
+  "A5": {
+   "url": "https://www.asahi-kasei.com/news/2024/e240515.html",
+   "publisher": "Asahi Kasei press release",
+   "published": "2024-05-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "an initial investment of approximately 180 billion JPY (CAD$ 1.56 billion) ... The start of commercial production is currently slated for 2027."
+  },
+  "A6": {
+   "url": "https://www.asahi-kasei.com/news/2015-2021/2021/e210315",
+   "publisher": "Asahi Kasei press release",
+   "published": "2021-03-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will raise wet-process capacity to 1.35 billion m²/year ... combined with 550 million m²/year in dry-process capacity ... total capacity to 1.9 billion m²/year"
+  },
+  "A6b": {
+   "url": "https://www.asahi-kasei.com/news/2015-2021/2021/e210315",
+   "publisher": "Asahi Kasei press release",
+   "published": "2021-03-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "wet-process manufacturing plants located in Japan (Moriyama, Shiga, and Hyuga, Miyazaki) ... dry-process manufacturing plants located in the US (North Carolina)"
+  },
+  "A7": {
+   "url": "https://www.asahi-kasei.com/news/2023/e231031",
+   "publisher": "Asahi Kasei press release",
+   "published": "2023-10-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Charlotte, North Carolina, USA; Hyuga, Miyazaki, Japan; Pyeongtaek, Gyeonggi, South Korea ... Successively from the first half of fiscal 2026"
+  },
+  "A8": {
+   "url": "https://chemxplore.com/news/toray-battery-separator-film-joint-venture-lg-chem-nyergesujfalu-hungary",
+   "publisher": "ChemXplore (trade news)",
+   "published": "2022-06-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Toray and LG Chem are forming a joint venture in Nyergesújfalu, Hungary, with an investment of $375 million. ... The joint venture aims to secure an annual production capacity of over 800 million square meters by 2028."
+  },
+  "A9": {
+   "url": "https://www.marklines.com/en/news/271318",
+   "publisher": "MarkLines",
+   "published": "2022-06-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will invest EUR 700 million to create an annual separator production capacity of more than 1.2 billion square meters by 2025"
+  },
+  "A10": {
+   "url": "https://www.marklines.com/en/news/277462",
+   "publisher": "MarkLines",
+   "published": "2022-10-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has started construction of its lithium-ion battery separator plant in Nyiregyhaza. ... The mass-scale production is scheduled to start in 2025."
+  },
+  "A11": {
+   "url": "https://iedc.in.gov/events/news/details/2023/03/21/battery-component-manufacturer-plans-1.5b-investment-in-indiana-to-power-growing-domestic-electric-vehicle-energy-storage-demand",
+   "publisher": "Indiana Economic Development Corporation (state agency)",
+   "published": "2023-03-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "planned expansion to produce about 1.4 billion square meters of ceramic coated lithium separators ... Phase 2 of the project will add up to an additional 1.8 billion square meters of battery separator produced annually"
+  },
+  "A12": {
+   "url": "https://www.ube.com/ube/en/news/2026/0603.html",
+   "publisher": "UBE Corporation news release",
+   "published": "2026-06-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "UBE MAXELL's production capacity for separator base film will increase by approximately 50% from the current level."
+  },
+  "B1": {
+   "url": "https://www.kedglobal.com/newsView/ked202311050002",
+   "publisher": "The Korea Economic Daily (KED Global)",
+   "published": "2023-11-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "SK decided to increase it to 57,000 tons. ... It will have an annual capacity of 57,000 tons, slightly higher than its domestic capacity of 52,000 tons."
+  },
+  "B2": {
+   "url": "https://www.marklines.com/en/news/353235",
+   "publisher": "MarkLines",
+   "published": "2026-10-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has completed the downsizing of its Jeongeup plant in South Korea ... annual production capacity was reduced to approximately 5,000 tons"
+  },
+  "B3": {
+   "url": "https://www.koreatimes.co.kr/amp/business/companies/20240807/sk-nexilis-lotte-energy-materials-delay-construction-of-european-copper-foil-plants-amid-ev-glut",
+   "publisher": "The Korea Times",
+   "published": "2024-08-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the completion of its Spanish factory has been delayed until June 2027 from late 2025"
+  },
+  "B4": {
+   "url": "https://news.metal.com/en/newscontent/104046433-sk-nexilis-poland-plant-secures-integrated-ippc-permit",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2026-08-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "received final approval from the Podkarpackie provincial government for an integrated environmental permit (IPPC)"
+  },
+  "B5": {
+   "url": "https://view.asiae.co.kr/en/article/2026011413373642376",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2026-01-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "convert all of the battery foil production lines at the Iksan plant, with a capacity of about 20,000 tons"
+  },
+  "B6": {
+   "url": "https://www.kedglobal.com/newsView/ked202308070017",
+   "publisher": "The Korea Economic Daily (KED Global)",
+   "published": "2023-08-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will build a smart factory in Catalonia, Spain to produce 30,000 tons of high-end copper foil annually by 2025. ... Kuching, the capital of the state of Sarawak in Malaysia (40,000 tons).",
+   "tier": "reported",
+   "snippet": "will build a smart factory in Catalonia, Spain to produce 30,000 tons of high-end copper foil annually by 2025. ... Kuching, the capital of the state of Sarawak in Malaysia (40,000 tons).",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "B7": {
+   "url": "https://www.just-auto.com/news/solus-opens-second-copper-foil-plant-in-hungary",
+   "publisher": "just-auto",
+   "published": "2024-11-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has a production capacity of 23,000 tons of copper foil per year ... located near its existing facility in Tatabánya"
+  },
+  "B8": {
+   "url": "https://view.asiae.co.kr/en/article/2024102909032938935",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2024-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "adding to the existing 15,000 tons from the first plant. ... The production capacity (Capa) of the second plant in Hungary is 23,000 tons per year."
+  },
+  "B9": {
+   "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-invests-70-million-to-strengthen-the-ev-battery-supply-chain-in-quebec.html",
+   "publisher": "Government of Canada (ISED)",
+   "published": "2026-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "an anticipated production capacity of 25,000 tonnes of copper foil per year starting in 2027"
+  },
+  "C1": {
+   "url": "https://view.asiae.co.kr/en/article/2022040714143201417",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2022-04-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The annual production capacity is 20,000 tons. ... The Hungary production base was completed in November last year and completed trial production in February."
+  },
+  "C2": {
+   "url": "https://view.asiae.co.kr/en/article/2025112708471587158",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2025-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from the current 10,000 tons to 26,000 tons ... The plant expansion is scheduled for completion in July 2026."
+  },
+  "C3": {
+   "url": "https://view.asiae.co.kr/en/article/2025021908201735590",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2025-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The annual production capacity is 86,000 tons, enough to produce 2 million electric vehicles. ... The global production capacity now reaches approximately 160,000 tons annually."
+  },
+  "C4": {
+   "url": "https://news.metal.com/en/newscontent/104029320-dongwha-electrolyte-begins-shipments-from-tennessee-plant",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2026-07-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "its Tennessee plant in the U.S. has entered full-scale mass production and completed its first product shipment."
+  },
+  "C5": {
+   "url": "https://view.asiae.co.kr/en/article/2026042709573375767",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Enchem has secured a total electrolyte production capacity of 200,000 tons in Europe. ... a system capable of producing 130,000 tons in Poland and 70,000 tons in Hungary.",
+   "tier": "reported",
+   "snippet": "Enchem has secured a total electrolyte production capacity of 200,000 tons in Europe. ... a system capable of producing 130,000 tons in Poland and 70,000 tons in Hungary.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "C6": {
+   "url": "https://view.asiae.co.kr/en/article/2024012508342937399",
+   "publisher": "Asia Business Daily (asiae.co.kr, English)",
+   "published": "2024-01-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Enchem's Georgia plant has an annual electrolyte production capacity of 40,000 tons ... Enchem plans to initially expand the Georgia plant to an annual capacity of 100,000 tons by the end of this year"
+  },
+  "C7": {
+   "url": "http://www.kedglobal.com/newsAmp/ked202211280020",
+   "publisher": "The Korea Economic Daily (KED Global)",
+   "published": "2022-11-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Enchem is planning to increase the annual manufacturing capacity of the existing plant in the US state of Georgia ... to 140,000 tons by 2024"
+  },
+  "C8": {
+   "url": "https://www.just-auto.com/newsletters/enchem-to-build-lithium-salt-plant-in-south-korea",
+   "publisher": "just-auto",
+   "published": "2023-06-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "have initial capacity for 50,000 tons per year when it becomes operational in 2026"
+  },
+  "C9": {
+   "url": "https://us.mitsubishi-chemical.com/mitsubishi-chemical-to-increase-capacity-of-formulated-electrolyte-for-lithium-ion-batteries-at-yokkaichi-plant/",
+   "publisher": "Mitsubishi Chemical (US site), press release (undated page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from the current 11,000 tons per annum ... to 16,000 tons per annum"
+  },
+  "C10": {
+   "url": "https://www.fortune.com/press-releases/green-energy-origin-geo-ev-supply-chain-mitsubishi-chemical-electrolyte-plant-acquisition-2025-12-12",
+   "publisher": "Green Energy Origin (GEO) press release via Fortune/EZ Newswire",
+   "published": "2025-12-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Memphis, TN facility acquired from MCC ... 200,000-ton-per-year electrolyte plant in the Czech Republic"
+  },
+  "C11": {
+   "url": "https://autotechinsight.spglobal.com/news/5239962/central-glasss-new-czech-company-to-make-electrolytes-for-li-ion-batteries",
+   "publisher": "S&P Global Mobility (AutoTechInsight)",
+   "published": "2017-05-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "New plant to produce 20,000 electrolytes annually"
+  },
+  "C12": {
+   "url": "https://opportunitylouisiana.gov/news/koura-proposes-800-million-investment-in-two-ev-battery-supply-chain-projects-in-iberville-parish",
+   "publisher": "Louisiana Economic Development (state agency)",
+   "published": "2023-10-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Koura estimates it would produce 10,000 metric tons of LiPF6 per year. ... begin commencing operations in 2026.",
+   "tier": "reported",
+   "snippet": "Koura estimates it would produce 10,000 metric tons of LiPF6 per year. ... begin commencing operations in 2026.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "C13": {
+   "url": "https://www.energy.gov/nepa/articles/doeea-2236-finding-no-significant-impact-june-2026",
+   "publisher": "US Department of Energy, DOE/EA-2236 FONSI page",
+   "published": "2026-06-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "construction and operation of a LiPF6 manufacturing unit ... at Mexichem's property in St. Gabriel, Iberville Parish, Louisiana ... would produce at least 10,000 MT of LiPF6."
+  },
+  "C14": {
+   "url": "https://www.orbia.com/this-is-orbia/news-and-stories/completed-custom-electrolyte-facility/",
+   "publisher": "Orbia",
+   "published": "2025-12-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "increasing the site production capacity by roughly 300%. ... The second and final phase for the expansion was completed in early December 2025."
+  },
+  "C15": {
+   "url": "https://www.iedc.in.gov/events/news/details/2022/12/13/electric-vehicle-battery-supplier-powers-indiana%27s-thriving-economy-of-the-future",
+   "publisher": "Indiana Economic Development Corporation (state agency)",
+   "published": "2022-12-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will invest $75 million to construct and equip a 30,000-square-foot manufacturing facility on 22 acres ... plans to break ground on its new Indiana facility in March 2023"
+  },
+  "R1": {
+   "url": "https://xpatloop.com/channels/2022/04/huf-127-billion-battery-separator-film-plant-inaugurated-in-hungary.html",
+   "publisher": "XpatLoop (via search result)",
+   "published": "2022-04-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "HUF 127 Billion Battery Separator Film Plant Inaugurated in Hungary ... inaugurated in April 2022 as the first phase of an EUR 408 million investment (Toray Nyergesújfalu). Page itself could not be opened (redirect loop); date approximate from URL."
+  },
+  "R2": {
+   "url": "https://www.renewableenergymagazine.com/electric_hybrid_vehicles/geo-breaks-into-the-ev-supply-chain-20251212",
+   "publisher": "Renewable Energy Magazine (via search result)",
+   "published": "2025-12-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "GEO's 200,000-ton-per-year electrolyte plant started up in 2024, and the Mitsubishi deal builds on it. Transfer scheduled for March 31, 2026, pending regulatory approval; Billingham is the UK's only electrolyte production facility."
+  },
+  "R3": {
+   "url": "https://www.edinburgh.uk.emb-japan.go.jp/itpr_ja/11_000001_00759.html",
+   "publisher": "Embassy of Japan in the UK (via search result)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Mitsubishi has the only electrolyte factory in the UK with a current production capacity of 14,000 tons per year (Billingham; visit report, date not captured)."
+  },
+  "R4": {
+   "url": "https://www.areadevelopment.com/newsItems/3-24-2023/dongwha-electrolyte-clarksville-tennessee.shtml",
+   "publisher": "Area Development (via search result)",
+   "published": "2023-03-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "South Korea-Based Dongwha Electrolyte USA Plans Clarksville, Tennessee, Production Plant"
+  },
+  "R5": {
+   "url": "https://www.just-auto.com/newsletters/lotte-to-build-copper-foil-plant-in-spain",
+   "publisher": "just-auto (via search result)",
+   "published": "2023-08-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The plant will be built in Mont-Roig del Camp, Catalonia, with initial capacity for 30,000 tons of high end copper foil per year (search-result summary of Lotte Spain coverage)."
+  },
+  "R6": {
+   "url": "https://www.bestmag.co.uk/south-korean-nexilis-starts-copper-foil-production-in-malaysia",
+   "publisher": "Battery Industry (bestmag.co.uk) (via search result)",
+   "published": "2023-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "South Korean Nexilis starts copper foil production in Malaysia - Kota Kinabalu plant, commercial production began in October 2023 (page returned HTTP 400; publication date approximate)."
+  },
+  "R7": {
+   "url": "https://www.insideindianabusiness.com/articles/entek-to-break-ground-on-1-5b-campus-in-terre-haute",
+   "publisher": "Inside Indiana Business (via search result)",
+   "published": "2023-09-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Entek breaks ground on $1.5B campus in Terre Haute (title/snippet; page not opened). Search summaries: first phase 8 lines, lines phased in through end of 2027."
+  },
+  "R8": {
+   "url": "https://www.asiae.co.kr/en/article/2020111011103764455",
+   "publisher": "Asia Business Daily (via search result)",
+   "published": "2020-11-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "SKIET Launches Full-Scale Operations at Changzhou Separator Factory in China (title/snippet; page not opened)."
+  },
+  "R9": {
+   "url": "https://www2.infomart.co.jp/web/jp/images/upload/2731/140120240621534104_18213506.pdf",
+   "publisher": "Central Glass notice, June 2024 (via search result)",
+   "published": "2024-06-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Central Glass currently provides its global customer base electrolytic solution from its manufacturing sites in Japan, Korea, China, and the Czech Republic."
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "sk-ie-technology-jeungpyeong-south-korea",
+   "fields": {
+    "asset_name": "SK IE Technology Jeungpyeong separator plant (Chungbuk)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (wet, coated)",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "SK IE Technology (SKIET)",
+    "parent_company": "SK Innovation",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Chungcheong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026052718125327147",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-27"
+   },
+   "evidence": {
+    "status": [
+     "A1"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "SKIET decided (May 2026) to suspend all commercial operations at Jeungpyeong; scheduled suspension 2026-11-30, i.e. 3 days after verified_on. project_state set to paused (lead may prefer cancelled/closed). No plant-level capacity found in opened sources (search-result text, not confirmed, mentioned a 530 Mm2 line, source not identified). SKIET company total 1.53 bn m2 at end-2022 across 4 facilities in 3 countries (A4)."
+  },
+  {
+   "action": "add",
+   "id": "sk-ie-technology-changzhou-china",
+   "fields": {
+    "asset_name": "SK IE Technology Changzhou separator plant (Jiangsu)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (wet, coated)",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "SK IE Technology (SKIET)",
+    "parent_company": "SK Innovation",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2020,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026052720323109798",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-27"
+   },
+   "evidence": {
+    "status": [
+     "A2",
+     "R8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Korean-owned plant in China. May 2026 report: SKIET is selling its Chinese plant and 'separator production in China will be discontinued' (A2; buyer not identified). Operating status/start year 2020 rest on search-result title only (R8). Plant-level capacity not confirmed in opened pages (a search snippet cited Plants 1+2 = 510 Mm2, source unidentified, not used)."
+  },
+  {
+   "action": "add",
+   "id": "sk-ie-technology-dabrowa-gornicza-poland",
+   "fields": {
+    "asset_name": "SK IE Technology Poland separator plants (Dabrowa Gornicza, Silesia)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (wet, coated)",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "SK IE Technology (SKIET) / SK Poland",
+    "parent_company": "SK Innovation",
+    "jv_partners": null,
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Silesian Voivodeship",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2020,
+    "start_year": null,
+    "capacity": 1540,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 680,
+    "installed_as_of": "2021-03-28",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026052720323109798",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-27"
+   },
+   "evidence": {
+    "status": [
+     "A4"
+    ],
+    "capacity": [
+     "A2",
+     "A3"
+    ],
+    "installed_capacity": [
+     "A3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Four-phase site: plants 1+2 = 680 Mm2 and plants 3+4 = 430 Mm2 each (860 Mm2) = 1,540 Mm2 (A3, 2021; A2, 2026 repeats 1.54 bn m2). capacity_ref_year 2026 = publication-year fallback: A2 (May 2026) says 'Plant 2 in Poland is scheduled to begin operations at the end of this year' (numbering unclear - may refer to the second expansion phase), so the last phase appears still not producing; earlier schedule (A3: plants 3/4 mass production from end-2023) slipped. installed_capacity 680 Mm2 is the 2021 figure for plants 1+2 (A3) and is NOT confirmed as producing at that date - treat as low confidence; lead may null it. IFC (A4, 2023-05) describes 1.53 bn m2 as the company total across 4 facilities in 3 countries (Korea, China, Poland). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "asahi-kasei-moriyama-japan",
+   "fields": {
+    "asset_name": "Asahi Kasei Hipore wet-process separator plant, Moriyama (Shiga)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "Hipore wet-process lithium-ion battery separator",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "Asahi Kasei",
+    "parent_company": "Asahi Kasei",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Shiga",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.asahi-kasei.com/news/2015-2021/2021/e210315",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-03-15"
+   },
+   "evidence": {
+    "status": [
+     "A6b"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Asahi Kasei states wet-process capacity of 1.35 bn m2/yr after the Hyuga expansion (start-up scheduled 1H FY2023) for Moriyama + Hyuga combined; total with dry process 1.9 bn m2/yr (A6, 2021 plan). Not split by plant, so no plant capacity recorded. Company-level figure for company_totals."
+  },
+  {
+   "action": "add",
+   "id": "asahi-kasei-hyuga-japan",
+   "fields": {
+    "asset_name": "Asahi Kasei Hipore wet-process separator plant, Hyuga (Miyazaki)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "Hipore wet-process lithium-ion battery separator",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "Asahi Kasei",
+    "parent_company": "Asahi Kasei",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Miyazaki",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.asahi-kasei.com/news/2015-2021/2021/e210315",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-03-15"
+   },
+   "evidence": {
+    "status": [
+     "A6b"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Expansion within existing grounds was scheduled for 1H FY2023 (A6); whether it started is not confirmed. A 2023 release (A7) adds coating capacity of about 700 Mm2/yr across Charlotte (NC), Hyuga and Pyeongtaek (Korea), successively from 1H FY2026, bringing coating capacity to about 1.2 bn m2/yr - coating, not base-film, capacity; not allocated per plant. Pyeongtaek (Korea) is a coating site only per A7; no row. Moriyama + Hyuga wet capacity shared figure in the Moriyama row note."
+  },
+  {
+   "action": "add",
+   "id": "celgard-north-carolina-united-states",
+   "fields": {
+    "asset_name": "Celgard (Asahi Kasei) dry-process separator plants, North Carolina (Charlotte)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "dry-process lithium-ion battery separator (plus new Hipore coating line)",
+    "asset_type": "separator plant",
+    "feedstock": "polypropylene/polyethylene resin",
+    "operator": "Celgard, LLC",
+    "parent_company": "Asahi Kasei",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "North Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 550,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2021,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.asahi-kasei.com/news/2015-2021/2021/e210315",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-03-15"
+   },
+   "evidence": {
+    "status": [
+     "A6b"
+    ],
+    "capacity": [
+     "A6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "A6b: dry-process plants located in the US (North Carolina); A6: 550 Mm2/yr dry-process capacity (2021). Assumes all Asahi dry-process capacity in 2021 was the NC plants (the Asahi dry-process China JV was formed Sept 2021 - not opened). Multiple NC sites (Charlotte; Concord reported by search snippets only) are combined in one row because the company gives one figure. 2023 release (A7) adds a Hipore coating line inside Celgard facilities at Charlotte, from 1H FY2026 (part of 700 Mm2 coating expansion across three sites)."
+  },
+  {
+   "action": "add",
+   "id": "asahi-kasei-port-colborne-canada",
+   "fields": {
+    "asset_name": "Asahi Kasei Port Colborne separator plant (Ontario)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "Hipore wet-process lithium-ion battery separator",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "Asahi Kasei",
+    "parent_company": "Asahi Kasei",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2024,
+    "start_year": 2027,
+    "capacity": 700,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.asahi-kasei.com/news/2024/e240515.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-05-15"
+   },
+   "evidence": {
+    "status": [
+     "A5"
+    ],
+    "capacity": [
+     "A5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Initial investment ~JPY 180 bn (CAD 1.56 bn); commercial production slated for 2027 (A5 quote). The ~700 Mm2/yr figure comes from the same press release text as relayed by the search result ('install approximately 700 million square meters of annual Hipore separator capacity'); the page summary I fetched paraphrased it, so the lead should re-verify this one fragment with verify_quotes. 2024 release; no later construction-progress source found, so status stays announced."
+  },
+  {
+   "action": "add",
+   "id": "toray-industries-hungary-nyergesujfalu-hungary",
+   "fields": {
+    "asset_name": "Toray Industries Hungary battery separator film plant (Nyergesujfalu)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "battery separator film (BSF)",
+    "asset_type": "separator plant",
+    "feedstock": "polyolefin resin",
+    "operator": "Toray Industries Hungary Kft.",
+    "parent_company": "Toray Industries",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Komarom-Esztergom",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2019,
+    "start_year": 2022,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://xpatloop.com/channels/2022/04/huf-127-billion-battery-separator-film-plant-inaugurated-in-hungary.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-04-01"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Inauguration April 2022 (first phase of an EUR 408 m investment) from search-result text only (R1; Toray's 2019 press release page could not be opened - the Toray URL returned its homepage). Announcement July 2019 per search results: Toray BSF capacity to rise ~20%. Capacity in Mm2 not found. Toray also has BSF plants at Nasu (Japan) and in Korea (Toray Battery Separator Film Korea; Gumi per the task brief - not confirmed), no capacities found - not added as rows."
+  },
+  {
+   "action": "add",
+   "id": "lg-toray-hungary-battery-separator-nyergesujfalu-hungary",
+   "fields": {
+    "asset_name": "LG Toray Hungary Battery Separator JV (Nyergesujfalu)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator",
+    "asset_type": "separator plant",
+    "feedstock": "polyolefin resin",
+    "operator": "LG Toray Hungary Battery Separator Kft.",
+    "parent_company": "Toray Industries / LG Chem",
+    "jv_partners": "Toray Industries, LG Chem",
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Komarom-Esztergom",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 800,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2028,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://chemxplore.com/news/toray-battery-separator-film-joint-venture-lg-chem-nyergesujfalu-hungary",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-06-16"
+   },
+   "evidence": {
+    "status": [
+     "A8"
+    ],
+    "capacity": [
+     "A8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "JV formed June 2022; goal 'over 800 million m2' annual capacity by 2028; investment $375 m; construction was to begin 'next year' (2023). No 2025-26 progress source found, so status announced. Search snippets give a 50:50 split with LG Chem to acquire a further 20% within 30 months - not confirmed on an opened page. Site is the existing Toray Industries Hungary land (per search results) - a distinct legal entity/asset from the Toray Hungary plant row, same town."
+  },
+  {
+   "action": "add",
+   "id": "w-scope-nyiregyhaza-hungary",
+   "fields": {
+    "asset_name": "W-Scope Hungary separator plant (Nyiregyhaza)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (wet, coated)",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "W-Scope Hungary (subsidiary of W-Scope Chungju Plant)",
+    "parent_company": "W-Scope Chungju Plant Co., Ltd.",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Szabolcs-Szatmar-Bereg",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 1200,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.marklines.com/en/news/271318",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-06-22"
+   },
+   "evidence": {
+    "status": [
+     "A10"
+    ],
+    "capacity": [
+     "A9"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Investment EUR 700-720 m; construction started Oct 2022 (A10); mass production was scheduled for 2025. Capacity 'more than 1.2 billion m2 by 2025' (A9). A search-result summary of a Q2 2026 earnings note (Quartr, snippet only, not used as evidence) says group capacity target 2.3 bn m2 by 2027, i.e. the schedule has likely slipped to 2027 - status/ref year need a 2026 company source. Claim in the task brief that W-Scope Hungary 'closed' is NOT supported: the closure/suspension stories found concern SEMCORP's Debrecen plant. W-Scope Korean (Chungju) plant not added: no capacity found."
+  },
+  {
+   "action": "add",
+   "id": "entek-terre-haute-united-states",
+   "fields": {
+    "asset_name": "ENTEK Terre Haute lithium-ion separator plant (Indiana)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "ceramic-coated lithium-ion battery separator",
+    "asset_type": "separator plant",
+    "feedstock": "polyethylene resin",
+    "operator": "ENTEK",
+    "parent_company": "ENTEK",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Indiana",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 1400,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://iedc.in.gov/events/news/details/2023/03/21/battery-component-manufacturer-plans-1.5b-investment-in-indiana-to-power-growing-domestic-electric-vehicle-energy-storage-demand",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-21"
+   },
+   "evidence": {
+    "status": [
+     "R7"
+    ],
+    "capacity": [
+     "A11"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Phase 1 ~1.4 bn m2/yr (A11, state agency, 2023). Phase 2 would add up to 1.8 bn m2 (total 3.2 bn) but is undated, so excluded from capacity (D-015). Search coverage of the DOE conditional loan (~USD 1.2 bn) gave 1.72 bn m2 at full phase-1 production - conflicts with 1.4 bn (not on an opened page). capacity_ref_year 2027 and groundbreaking (Sept 2023) rest on search-result text (R7: first lines 2025, 8 lines phase 1, further lines phased through end-2027) - not opened; no confirmation that any line is producing yet. ENTEK Lebanon (Oregon) existing plant: no capacity source found - not added."
+  },
+  {
+   "action": "add",
+   "id": "ube-maxell-sakai-japan",
+   "fields": {
+    "asset_name": "UBE MAXELL Sakai Works separator base-film plant (Osaka)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "dry-process separator base film",
+    "asset_type": "separator plant",
+    "feedstock": "polyolefin resin",
+    "operator": "UBE MAXELL",
+    "parent_company": "UBE Corporation / Maxell",
+    "jv_partners": "UBE Corporation, Maxell",
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Osaka",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.ube.com/ube/en/news/2026/0603.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-03"
+   },
+   "evidence": {
+    "status": [
+     "A12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "June 2026: capacity to rise ~50% from the current level; phase 1 construction in FY2026, phase 2 FY2029. Current absolute capacity not stated on the page. Older UBE releases (2016: 250 Mm2 combined at Ube Chemical Factory + Sakai; 2018 plan: 320 Mm2 combined with Ube Maxell by Aug 2020) appeared in search results but were not opened - not used. Sakai prefecture inferred from the name 'Sakai Works' (Sakai City, Osaka) - the page itself was not checked for the prefecture."
+  },
+  {
+   "action": "add",
+   "id": "sk-nexilis-jeongeup-south-korea",
+   "fields": {
+    "asset_name": "SK nexilis Jeongeup copper foil plant",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "SK nexilis",
+    "parent_company": "SKC",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Jeolla",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2023": 52000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.kedglobal.com/newsView/ked202311050002",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-11-05"
+   },
+   "evidence": {
+    "status": [
+     "B1",
+     "B2"
+    ],
+    "capacity_by_year_json": [
+     "B1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "CONFLICT: KED Nov 2023 gives domestic (Jeongeup) capacity 52,000 t (B1; recorded as a dated 2023 step). MarkLines 2026-10-30 (B2, paywalled) says SK nexilis 'completed the downsizing of its Jeongeup plant' and 'annual production capacity was reduced to approximately 5,000 tons' - the visible text cut off, so it is unclear whether 5,000 t is the Jeongeup remainder or a target; capacity left null pending a readable source. Company total 'more than 160,000 tons from next year' (2024) per B1 (Korea + Malaysia + Poland)."
+  },
+  {
+   "action": "add",
+   "id": "sk-nexilis-kota-kinabalu-malaysia",
+   "fields": {
+    "asset_name": "SK nexilis Kota Kinabalu copper foil plant (Sabah)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "SK nexilis",
+    "parent_company": "SKC",
+    "jv_partners": null,
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "province_state": "Sabah",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 57000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.kedglobal.com/newsView/ked202311050002",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-11-05"
+   },
+   "evidence": {
+    "status": [
+     "R6"
+    ],
+    "capacity": [
+     "B1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Planned 50,000 t, raised to 57,000 t (B1). Commercial production from Oct 2023 per search-result text only (R6, page returned HTTP 400). capacity_ref_year 2023 = publication-year fallback. MarkLines Oct 2026 (B2) says SK nexilis restructured its production network around Malaysia - no figure readable."
+  },
+  {
+   "action": "add",
+   "id": "sk-nexilis-stalowa-wola-poland",
+   "fields": {
+    "asset_name": "SK nexilis Stalowa Wola copper foil plant (Podkarpackie)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "SK nexilis",
+    "parent_company": "SKC",
+    "jv_partners": null,
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Podkarpackie",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 57000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.kedglobal.com/newsView/ked202311050002",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-11-05"
+   },
+   "evidence": {
+    "status": [
+     "B3",
+     "B4"
+    ],
+    "capacity": [
+     "B1"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "KED Nov 2023: capacity 57,000 t (earlier announcements 50,000 t, search-result text; land reserved for expansion to 150,000 t - not confirmed). Aug 2024 (B3): SK nexilis said its Polish expansion would finish later than the originally expected 2025. Aug 2026 (B4): final IPPC environmental permit for the Stalowa Wola plant took effect in June 2026 (applied 2023) - so the plant is probably not yet producing. capacity_ref_year 2023 = publication-year fallback; real date unknown. Construction start (2022) from search results only. Status under_construction is the best fit but physical progress is not confirmed in opened sources."
+  },
+  {
+   "action": "add",
+   "id": "lotte-energy-materials-iksan-south-korea",
+   "fields": {
+    "asset_name": "Lotte Energy Materials Iksan copper foil plant",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil (being converted to circuit foil)",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Lotte Energy Materials",
+    "parent_company": "Lotte Group (Lotte Chemical)",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Jeolla",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026011413373642376",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-14"
+   },
+   "evidence": {
+    "status": [
+     "B5"
+    ],
+    "capacity": [
+     "B5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Jan 2026: Lotte Energy Materials planned to convert all battery-foil lines at Iksan (~20,000 t capacity) to circuit-foil (AI/semiconductor substrate) lines. Search results say Iksan circuit foil output would rise from 3,700 t to 16,000 t by 2027 (not opened). So battery-foil capacity at Iksan is going to ~0: treat the 20,000 t as the pre-conversion battery-foil capacity; the lead should decide whether to include in comparable battery-foil aggregates. capacity_ref_year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "lotte-energy-materials-kuching-malaysia",
+   "fields": {
+    "asset_name": "Lotte Energy Materials Kuching copper foil plant (Sarawak)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Lotte Energy Materials",
+    "parent_company": "Lotte Group (Lotte Chemical)",
+    "jv_partners": null,
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "province_state": "Sarawak",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.kedglobal.com/newsView/ked202308070017",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-08-07"
+   },
+   "evidence": {
+    "status": [
+     "B6"
+    ],
+    "capacity": [
+     "B6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "KED Aug 2023: LEM produces 60,000 t in total from Iksan (20,000 t) and Kuching (40,000 t) - capacity wording ('produces') used as nameplate; a search result for an Aug 2025 analysis cites 80,000 t total for LEM (not opened; not reconciled). Operated by the former Iljin Materials business (Lotte Chemical acquired Iljin Materials in 2022 per search results). capacity_ref_year 2023 = publication-year fallback. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "lotte-energy-materials-mont-roig-del-camp-spain",
+   "fields": {
+    "asset_name": "Lotte Energy Materials Spain copper foil plant (Catalonia)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Lotte Energy Materials",
+    "parent_company": "Lotte Group (Lotte Chemical)",
+    "jv_partners": null,
+    "country": "Spain",
+    "region": "Europe",
+    "province_state": "Catalonia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.kedglobal.com/newsView/ked202308070017",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-08-07"
+   },
+   "evidence": {
+    "status": [
+     "B3",
+     "R5"
+    ],
+    "capacity": [
+     "B6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Smart factory in Catalonia, 30,000 t/yr (raised from 25,000 t, B6). Completion delayed to June 2027 from late 2025 (B3, Aug 2024). Town Mont-Roig del Camp from search-result text (R5), not an opened page. No 2025-26 update found; physical works unconfirmed, so status announced."
+  },
+  {
+   "action": "add",
+   "id": "solus-advanced-materials-tatabanya-plant-1-hungary",
+   "fields": {
+    "asset_name": "Solus Advanced Materials Tatabanya plant 1 (battery copper foil)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Solus Advanced Materials Hungary",
+    "parent_company": "Solus Advanced Materials",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Komarom-Esztergom",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 15000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 15000,
+    "installed_as_of": "2024-10-29",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2024102909032938935",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-10-29"
+   },
+   "evidence": {
+    "status": [
+     "B8"
+    ],
+    "capacity": [
+     "B8"
+    ],
+    "installed_capacity": [
+     "B8"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "'adding to the existing 15,000 tons from the first plant' (B8, Oct 2024). Formerly Doosan Solus. Ref year 2024 = publication-year fallback. A third Hungarian plant is planned to bring the Hungary total to 100,000 t (B8) - undated, not added as a row. Circuit Foil Luxembourg (Wiltz) is a circuit-foil business (battery branch moved to Hungary in April 2025 per search results) - not added."
+  },
+  {
+   "action": "add",
+   "id": "solus-advanced-materials-tatabanya-plant-2-hungary",
+   "fields": {
+    "asset_name": "Solus Advanced Materials Tatabanya plant 2 (battery copper foil)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Solus Advanced Materials Hungary",
+    "parent_company": "Solus Advanced Materials",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Komarom-Esztergom",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 23000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "CATL (Europe) and ACC per search-result text",
+    "end_market": "battery",
+    "source_url": "https://www.just-auto.com/news/solus-opens-second-copper-foil-plant-in-hungary",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-11-01"
+   },
+   "evidence": {
+    "status": [
+     "B7"
+    ],
+    "capacity": [
+     "B7",
+     "B8"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Mass production started at the second plant near the existing Tatabanya facility (B7, Nov 2024); 23,000 t/yr; Europe total 38,000 t (B8). Offtakers from search-result text only. Kept as a separate row from plant 1 because the sources describe two plants (user can merge by site)."
+  },
+  {
+   "action": "add",
+   "id": "volta-energy-solutions-granby-canada",
+   "fields": {
+    "asset_name": "Volta Energy Solutions Granby copper foil plant (Quebec)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "battery copper foil",
+    "asset_type": "copper foil plant",
+    "feedstock": "copper",
+    "operator": "Volta Energy Solutions Canada (VESC)",
+    "parent_company": "Solus Advanced Materials",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": 2027,
+    "capacity": 25000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-invests-70-million-to-strengthen-the-ev-battery-supply-chain-in-quebec.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-30"
+   },
+   "evidence": {
+    "status": [
+     "B9"
+    ],
+    "capacity": [
+     "B9"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Government of Canada (30 Jul 2026): project value CAD 760.9 m, up to CAD 70 m federal funding, 25,000 t/yr starting 2027, plans to scale to 63,000 t (the 63,000 t step is undated, excluded). Earlier coverage (Oct 2024 asiae, KED) gave a 2026 start - slipped. Release does not say whether construction has started, so status stays announced. Parent Solus Advanced Materials per search results (the Canada release names Volta Energy Solutions)."
+  },
+  {
+   "action": "add",
+   "id": "dongwha-electrolyte-soskut-hungary",
+   "fields": {
+    "asset_name": "Dongwha Electrolyte Soskut plant (Hungary)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Dongwha Electrolyte",
+    "parent_company": "Dongwha Enterprise",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Pest",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2022,
+    "capacity": 20000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2022,
+    "installed_capacity": 20000,
+    "installed_as_of": "2022-04-07",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2022040714143201417",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-04-07"
+   },
+   "evidence": {
+    "status": [
+     "C1"
+    ],
+    "capacity": [
+     "C1"
+    ],
+    "installed_capacity": [
+     "C1"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Base completed Nov 2021, trial production Feb 2022 (C1). Dongwha Electrolyte is the former Panax Etec business per search results (same Hungary plant; 20,000 t). Before Hungary the group's Korea/China/Malaysia sites totalled 33,000 t (search-result text). Site is Soskut 'near Budapest' (article); province_state Pest is my placement of Soskut (not stated in the article)."
+  },
+  {
+   "action": "add",
+   "id": "dongwha-electrolyte-malaysia-malaysia",
+   "fields": {
+    "asset_name": "Dongwha Electrolyte Malaysia plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Dongwha Electrolyte",
+    "parent_company": "Dongwha Enterprise",
+    "jv_partners": null,
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 26000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 10000,
+    "installed_as_of": "2025-11-27",
+    "capacity_by_year_json": {
+     "2026": 26000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2025112708471587158",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-11-27"
+   },
+   "evidence": {
+    "status": [
+     "C2"
+    ],
+    "capacity": [
+     "C2"
+    ],
+    "installed_capacity": [
+     "C2"
+    ],
+    "capacity_by_year_json": [
+     "C2"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Nov 2025: capacity to rise 'from the current 10,000 tons to 26,000 tons', completion scheduled July 2026 (C2); completion not confirmed. installed 10,000 t 'current' dated to the article date. Company global capacity expected ~170,000 t/yr after the expansion (C2); ~160,000 t/yr incl. US (C3, Feb 2025). Plant sub-location in Malaysia not stated."
+  },
+  {
+   "action": "add",
+   "id": "dongwha-electrolyte-clarksville-united-states",
+   "fields": {
+    "asset_name": "Dongwha Electrolyte Tennessee plant (Clarksville)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Dongwha Electrolyte USA",
+    "parent_company": "Dongwha Enterprise",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Tennessee",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": 2026,
+    "capacity": 86000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2025021908201735590",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-02-19"
+   },
+   "evidence": {
+    "status": [
+     "C4"
+    ],
+    "capacity": [
+     "C3"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Facility completed (announced 2025-02-19) with 86,000 t/yr (C3; Korea Times May 2026 repeats 86,000 t, not used as quote). 29 Jul 2026 (C4): entered full-scale mass production and completed first shipment; scale not disclosed. start_year 2026 = first commercial shipment (completion was Feb 2025). City Clarksville from search result (R4), not an opened page. Capacity was first announced at 80,000 t in 2023 (search result)."
+  },
+  {
+   "action": "add",
+   "id": "enchem-poland-lower-silesia-poland",
+   "fields": {
+    "asset_name": "Enchem Poland electrolyte plant (Lower Silesia, near Wroclaw)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Enchem Poland",
+    "parent_company": "Enchem",
+    "jv_partners": null,
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Lower Silesia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 130000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026042709573375767",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-27"
+   },
+   "evidence": {
+    "status": [
+     "C5"
+    ],
+    "capacity": [
+     "C5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Apr 2026: 'a system capable of producing 130,000 tons in Poland' (C5) - phrasing is 'capable of producing', status operational inferred because the article says production/supply is centred at the Wroclaw plant. The 130,000 t may include a separate Kobierzyce lithium-salt/LiPF6 project (search results mention PLN 240 m near Wroclaw; not opened) - possible double count; also earlier smaller figures not seen. capacity_ref_year 2026 = publication-year fallback. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "enchem-hungary-komarom-hungary",
+   "fields": {
+    "asset_name": "Enchem Hungary electrolyte plant (Komarom)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Enchem Hungary",
+    "parent_company": "Enchem",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Komarom-Esztergom",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 70000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2026042709573375767",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-27"
+   },
+   "evidence": {
+    "status": [
+     "C5"
+    ],
+    "capacity": [
+     "C5"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Apr 2026: '70,000 tons in Hungary' (C5). Komarom location from a 2021 search result (plant planned at 20,000 t, operating end of 2022 - not opened); the jump from 20,000 t to 70,000 t is unexplained. Operating status inferred (phrasing 'system capable of producing'); lower confidence."
+  },
+  {
+   "action": "add",
+   "id": "enchem-georgia-united-states",
+   "fields": {
+    "asset_name": "Enchem Georgia electrolyte plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Enchem America",
+    "parent_company": "Enchem",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Georgia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 40000,
+    "installed_as_of": "2024-01-25",
+    "capacity_by_year_json": {
+     "2024": 100000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://view.asiae.co.kr/en/article/2024012508342937399",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-01-25"
+   },
+   "evidence": {
+    "status": [
+     "C6"
+    ],
+    "capacity": [
+     "C6"
+    ],
+    "installed_capacity": [
+     "C6"
+    ],
+    "capacity_by_year_json": [
+     "C6"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Jan 2024: 40,000 t/yr, plan to expand to 100,000 t by end of 2024 (C6; the 2024 step is a PLAN, completion unconfirmed). CONFLICT: Nov 2022 (C7) planned 140,000 t by 2024, and search results cite plans for 300,000 t across US sites by 2025-26 - earlier targets not met per the lower 2024 reporting. 'installed' 40,000 t is 'has' capacity, not confirmed producing. July 2026 (search result) says Georgia-centred ESS lines supply ~5,000 t - supply, not capacity. City not stated."
+  },
+  {
+   "action": "add",
+   "id": "enchem-saemangeum-lithium-salt-south-korea",
+   "fields": {
+    "asset_name": "Enchem Saemangeum lithium salt (LiPF6) plant",
+    "step": "electrolyte",
+    "commodity": "LiPF6",
+    "product": "lithium salt (LiPF6) for electrolyte",
+    "asset_type": "lithium salt plant",
+    "feedstock": "lithium carbonate/fluorides",
+    "operator": "Enchem",
+    "parent_company": "Enchem",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Jeolla",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t LiPF6",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.just-auto.com/newsletters/enchem-to-build-lithium-salt-plant-in-south-korea",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-06-19"
+   },
+   "evidence": {
+    "status": [
+     "C8"
+    ],
+    "capacity": [
+     "C8"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "June 2023: 'initial capacity for 50,000 tons per year when it becomes operational in 2026', KRW 600 bn (US 468 m), construction to begin H2 2023 (C8). The article says 'lithium salt', not LiPF6 by name - recorded as LiPF6 on the assumption it is the electrolyte salt (verify). No 2025-26 construction update found, so status stays announced and the 2026 start is unverified/probably late."
+  },
+  {
+   "action": "add",
+   "id": "mitsubishi-chemical-yokkaichi-japan",
+   "fields": {
+    "asset_name": "Mitsubishi Chemical Yokkaichi formulated electrolyte plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "formulated lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Mitsubishi Chemical",
+    "parent_company": "Mitsubishi Chemical Group",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Mie",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 16000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 11000,
+    "installed_as_of": "2026-11-27",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://us.mitsubishi-chemical.com/mitsubishi-chemical-to-increase-capacity-of-formulated-electrolyte-for-lithium-ion-batteries-at-yokkaichi-plant/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "C9"
+    ],
+    "capacity": [
+     "C9"
+    ],
+    "installed_capacity": [
+     "C9"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Press release page is undated (image path suggests Dec 2018 - not evidence): capacity 'from the current 11,000 tons per annum ... to 16,000 tons per annum'; no start date, and completion unconfirmed. capacity_ref_year and installed_as_of left null (no date). Mitsubishi Chemical retains Japan and China manufacturing after the US/UK transfer to GEO (search result, R2). Ohio electrolyte project from the task brief: no source found. Older group total (search result, unopened) ~48,000 t across China/Japan/UK/US. [lead] capacity_ref_year = access-year (source undated) fallback. [lead] installed_as_of = source date (not stated)."
+  },
+  {
+   "action": "add",
+   "id": "green-energy-origin-memphis-united-states",
+   "fields": {
+    "asset_name": "GEO (ex-Mitsubishi Chemical America) Memphis electrolyte plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Green Energy Origin (GEO)",
+    "parent_company": "Green Energy Origin",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Tennessee",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.fortune.com/press-releases/green-energy-origin-geo-ev-supply-chain-mitsubishi-chemical-electrolyte-plant-acquisition-2025-12-12",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-12"
+   },
+   "evidence": {
+    "status": [
+     "C10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Mitsubishi Chemical America's Memphis, TN facility acquired by GEO (transfer scheduled 2026-03-31, pending regulatory approval, per search results R2; completion not confirmed). Capacity not disclosed in opened sources."
+  },
+  {
+   "action": "add",
+   "id": "green-energy-origin-billingham-united-kingdom",
+   "fields": {
+    "asset_name": "GEO (ex-Mitsubishi Chemical UK) Billingham electrolyte plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Green Energy Origin (GEO)",
+    "parent_company": "Green Energy Origin",
+    "jv_partners": null,
+    "country": "United Kingdom",
+    "region": "Europe",
+    "province_state": "England (Teesside)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 14000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.edinburgh.uk.emb-japan.go.jp/itpr_ja/11_000001_00759.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "R2"
+    ],
+    "capacity": [
+     "R3"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Capacity 14,000 t/yr from a search-result snippet of a Japanese embassy visit report (R3; undated, page not opened). The UK's only electrolyte plant, being transferred from Mitsubishi Chemical UK to GEO (R2). Billingham location from search results. A search summary also said an S&P article planned a restart of the UK plant (undated) - so it may have been idle; operating state unverified. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "green-energy-origin-czech-electrolyte-czech-republic",
+   "fields": {
+    "asset_name": "GEO 200,000 t electrolyte plant (Czech Republic)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Green Energy Origin (GEO)",
+    "parent_company": "Green Energy Origin",
+    "jv_partners": null,
+    "country": "Czech Republic",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 200000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.fortune.com/press-releases/green-energy-origin-geo-ev-supply-chain-mitsubishi-chemical-electrolyte-plant-acquisition-2025-12-12",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-12"
+   },
+   "evidence": {
+    "status": [
+     "R2"
+    ],
+    "capacity": [
+     "C10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Company press release mentions its '200,000-ton-per-year electrolyte plant in the Czech Republic'; start-up in 2024 only from a search-result snippet (R2). Town and ownership of GEO (a Germany-based company per the release dateline) not established - the lead should check this is not already covered by a Chinese company's Czech asset in sc_assets.csv (none found in my grep of electrolyte rows, which list no Czech plant). Treat the 200,000 t as a company-stated figure, unverified independently. Capacity ref year 2025 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "central-glass-czech-czech-republic",
+   "fields": {
+    "asset_name": "Central Glass Czech electrolyte plant",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, LiPF6",
+    "operator": "Central Glass (Czech subsidiary)",
+    "parent_company": "Central Glass",
+    "jv_partners": null,
+    "country": "Czech Republic",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2017,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2017,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://autotechinsight.spglobal.com/news/5239962/central-glasss-new-czech-company-to-make-electrolytes-for-li-ion-batteries",
+    "source_date": "2026-11-27",
+    "source_published_date": "2017-05-09"
+   },
+   "evidence": {
+    "status": [
+     "R9"
+    ],
+    "capacity": [
+     "C11"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "2017 S&P subheading 'New plant to produce 20,000 electrolytes annually' (unit missing in the source - read as tonnes); no start date or site in the page. Operating status rests on a June 2024 Central Glass notice (search result R9) that its electrolyte is supplied from sites in Japan, Korea, China and Czech Republic. A 2019 Central Glass release (search result, unopened) quotes 50,000 t/yr group electrolyte capacity across Japan, Korea, China, Europe - company-level only. Old, low confidence."
+  },
+  {
+   "action": "add",
+   "id": "koura-st-gabriel-lipf6-united-states",
+   "fields": {
+    "asset_name": "Koura (Orbia) St. Gabriel LiPF6 plant (Louisiana)",
+    "step": "electrolyte",
+    "commodity": "LiPF6",
+    "product": "lithium hexafluorophosphate (LiPF6)",
+    "asset_type": "lithium salt plant",
+    "feedstock": "fluorspar-derived HF, lithium",
+    "operator": "Koura (Orbia Fluor & Energy Materials)",
+    "parent_company": "Orbia",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Louisiana",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t LiPF6",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://opportunitylouisiana.gov/news/koura-proposes-800-million-investment-in-two-ev-battery-supply-chain-projects-in-iberville-parish",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-10-25"
+   },
+   "evidence": {
+    "status": [
+     "C13"
+    ],
+    "capacity": [
+     "C12",
+     "C13"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "State release (Oct 2023): 10,000 t/yr, ~USD 400 m, construction 2025, operations 2026. DOE (Jun 2026 FONSI, C13): financial assistance for construction and operation of a LiPF6 unit at Mexichem's St. Gabriel property, 'at least 10,000 MT'; per search results the site is the undeveloped part of a 155-acre tract and DOE awarded a USD 100 m grant in 2022, licence technology from Kanto Denka Kogyo. As of June 2026 still in federal environmental review, so the 2026 ref year is almost certainly late; keep announced. Same release also covers a second Koura Iberville project (not researched here)."
+  },
+  {
+   "action": "add",
+   "id": "orbia-fluor-energy-materials-madison-united-states",
+   "fields": {
+    "asset_name": "Orbia Fluor & Energy Materials custom electrolyte facility (Madison, Wisconsin)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "custom lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Orbia Fluor & Energy Materials",
+    "parent_company": "Orbia",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Wisconsin",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.orbia.com/this-is-orbia/news-and-stories/completed-custom-electrolyte-facility/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-16"
+   },
+   "evidence": {
+    "status": [
+     "C14"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Small-scale custom/specialty electrolyte site; expansion raised site capacity by roughly 300%, final phase completed early Dec 2025 (C14). Absolute tonnage not stated on the opened page (a search result mentioned ~400 t/yr in an earlier DOE-grant description; unclear whether pre- or post-expansion - not used)."
+  },
+  {
+   "action": "add",
+   "id": "soulbrain-mi-kokomo-united-states",
+   "fields": {
+    "asset_name": "Soulbrain MI Kokomo electrolyte plant (Indiana)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "high-purity lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": "carbonate solvents, lithium salt",
+    "operator": "Soulbrain MI",
+    "parent_company": "Soulbrain Holdings",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Indiana",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "Stellantis-Samsung SDI (StarPlus Energy) Kokomo plant per search results",
+    "end_market": "battery",
+    "source_url": "https://www.iedc.in.gov/events/news/details/2022/12/13/electric-vehicle-battery-supplier-powers-indiana%27s-thriving-economy-of-the-future",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-13"
+   },
+   "evidence": {
+    "status": [
+     "C15"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "USD 75 m, 30,000 sq ft facility, groundbreaking planned March 2023 (C15). No completion/start or tonnage found in any source; one secondary profile says construction began in 2023 (not opened). Status announced is the only evidenced stage. Soulbrain Hungary (Tatabanya, ~EUR 20.7 m / HUF 7 bn, 4,700 m2 production area, supplying Samsung SDI and SK On Hungary plants per search results; autopro page returned 403) not added: no operating status or tonnage evidenced."
+  }
+ ]
+}

@@ -1,0 +1,835 @@
+{
+ "task": "SC120",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "SE1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, lines 568-569)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "项目于 2025 年 9 月顺利实现采、选、尾系统全面满负荷运行，截止报告期末已实现达产 ... 达标（设计产能为原矿产量 105 万吨/年、锂精矿 18 万吨/年）"
+  },
+  "SE2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, line 570; table lines 1091-1095)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "全年实现原矿产量 100.11 万吨、销量 14.29 万吨；锂精矿产量 12.68 万吨、销量 14.46 万吨"
+  },
+  "SE3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, glossary lines 168 and 174)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川能投锂业有限公司，系川能动力持股 62.75%子 ... 四川德鑫矿业资源有限公司，系能投锂业持股 75%"
+  },
+  "SE4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, lines 566-567)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "李家沟保有矿石资源储量 3,881 万吨、氧化锂 ... 储量 50.22 万吨，平均品位 1.29％"
+  },
+  "SE5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, line 575; table lines 1081-1089)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "期末，公司锂盐设计产能为 4.5 万吨/年，2025 年全年公司锂盐产量 0.97 万吨，锂盐销量 1.12 万吨"
+  },
+  "SE6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, lines 576-577)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "德阿锂业新建 3 万吨/年锂盐项目碳酸锂生产线全面进入试生产阶段，并于 2025 年 7 月 31 日 ... 成功调试并产出合格电池级锂盐产品，于 2025 年 10 月 26 日碳酸锂生产线达标达产"
+  },
+  "SE7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, line 2113)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司持有德阿锂业 51%股权，该公司的经营范围主要为生产碳酸锂和氢氧化锂生产、销售"
+  },
+  "SE8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+   "publisher": "Sichuan New Energy Power (川能动力) 2025 annual report (local text team/evidence/filings/000155_2025.txt, line 2110)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司持有鼎盛锂业 51%股权，该公司的经营范围主要为生产碳酸锂和氢氧化锂生产、销售"
+  },
+  "JY1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225217044.PDF",
+   "publisher": "Jinyuan Environmental (金圆股份) 2025 annual report (local text team/evidence/filings/000546_2025.txt, lines 581 and 583)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司在 2025 年的重点工作是推进西藏捌千错项目尽早达产达效。以捌千错盐湖碳酸锂产线为基础 ... 试生产线建设进行技术优化和升级，努力推进逐步实现捌千错盐湖锂矿项目的产能目标"
+  },
+  "JY2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225217044.PDF",
+   "publisher": "Jinyuan Environmental (金圆股份) 2025 annual report (local text team/evidence/filings/000546_2025.txt, table lines 782-786; explanation line 794; unit column is 吨)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "1,245.702 ... 653.74 ... 新能源材料 ... 461.44"
+  },
+  "JY3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225217044.PDF",
+   "publisher": "Jinyuan Environmental (金圆股份) 2025 annual report (local text team/evidence/filings/000546_2025.txt, lines 290, 9579, 9585)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2022 年公司通过收购阿里锂源 66%股权后 ... 革吉锂业 ... 66.00%"
+  },
+  "JY4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225217044.PDF",
+   "publisher": "Jinyuan Environmental (金圆股份) 2025 annual report (local text team/evidence/filings/000546_2025.txt, line 6534)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "革吉县锂业开发有限公司革吉县文布当桑乡罗玛村捌千错盐湖矿采矿许可证 2029 年 4 月到期，到期后可续办"
+  },
+  "DZ1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 742-743)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2,000 万吨/年采选规模，对应约可生产 8 万吨/年碳酸锂 ... 吨/年采选规模，对应约可生产 5 万吨/年碳酸锂，当前两矿合计 13 万吨/年碳酸锂"
+  },
+  "DZ2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 827 and 830)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "首张锂矿采矿许可证，露天开采规模为 2,000 万吨/年 ... 选矿方面，一期 1,000 万吨/年选矿厂全面开工建设"
+  },
+  "DZ3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 4968, 4971-4972)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司全资孙公司郴州城泰取得了自然资源部核发的湖南鸡脚山锂矿期限为 30 年的 ... 2,000 万吨/年，地下开采规模为 800 万吨/年 ... 矿每年 2,000 万吨原矿开采可生产 8 万吨碳酸锂"
+  },
+  "DZ4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 1786 and 1795)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期 1,000 万吨/年选矿厂已全面开工建设，年内将完成主体工程及核心设备安装 ... 加快推进碳酸锂厂建设工作，年内完成设备安装与系统调试并实现投料试产"
+  },
+  "DZ5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, project table lines 1643-1649 (progress 14.93%) and disclosure index line 1682)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期年产 2 万吨碳酸锂项目"
+  },
+  "DZ6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 848-849)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "加达锂矿自 2025 年 9 月起实现 0.41 万吨碳酸锂当量的副产原 ... 矿销售，贡献毛利 1.05 亿元"
+  },
+  "DZ7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, table lines 943-952, unit 吨, product 锂辉石副产原矿 (折合碳酸锂当量))",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂辉石副产原矿 ... 4,079.91 ... （折合碳酸锂当 ... 5,085.06 ... 1,005.95"
+  },
+  "DZ8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 4959, 4961-4962)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司全资子公司大中新能源提交的《加达锂矿矿产资源开采方案》通过了自然资源部 ... 开采方式为地下开采，开采规模为 260 万吨/年 ... 达产后每年开采的原矿可以生产约 5 万吨碳酸锂"
+  },
+  "DZ9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 836 and 844)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "资源部备案的锂矿石资源量为 4,343.60 万吨，平均品位为 1.38%，Li2O 矿物量为 60.09 万 ... 吨，折合碳酸锂当量约为 148.42 万吨"
+  },
+  "DZ10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+   "publisher": "Dazhong Mining (大中矿业) 2025 annual report (local text team/evidence/filings/001203_2025.txt, lines 845-846 and 1801-1802)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "均已通过专家评审，为后续 260 万吨/年采矿证 ... 的申报办理奠定坚实基础 ... 加快选矿厂建设进度，统筹推进土建施工、 ... 设备订货与安装，力争年底建成投产"
+  },
+  "GC1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 515-516)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "金鑫矿业拥有马尔康党坝锂辉石矿采矿权 1 宗 ... 证载采矿许可证规模 100 万吨/年"
+  },
+  "GC2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 787-788)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025 年金鑫 ... 矿业原矿开采量 57.7 万吨，未来矿山产能规模有望进一步扩大至 500 万吨/年"
+  },
+  "GC3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 107, 11714, 12128)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "马尔康金鑫矿业有限公司，本公司参股子公司 ... 金鑫矿业 ... 权益法核算 ... 子公司北京合融直接持有 48%股权"
+  },
+  "GC4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 522, 525-526)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "金鑫矿业正在积极办理 500 万吨/年采矿许可证的申请工作 ... 目前，马尔康党 ... 坝锂辉石矿 5000 吨/天选矿厂改扩建项目已进入试生产阶段"
+  },
+  "GC5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 518-519)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "8,425.5 万吨，Li2O 1,120,731 吨，平均品位 1.33%"
+  },
+  "GC6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+   "publisher": "Guocheng Mining (国城矿业) 2025 annual report (local text team/evidence/filings/000688_2025.txt, lines 529-530)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "国城锂业位于四川省绵竹市德阳-阿坝生态经济产业园，规划建设 20 万吨/年锂盐产能 ... 中一期 6 万吨/年基础锂盐项目正在稳步推进"
+  },
+  "KD1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225046387.PDF",
+   "publisher": "Keda Manufacturing (科达制造) 2025 annual report (local text team/evidence/filings/600499_.txt, line 507)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "业 48.58%股权为载体，目前蓝科锂业具备 4.1 万吨/年碳酸锂产能，是中国盐湖提锂"
+  },
+  "KD2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225046387.PDF",
+   "publisher": "Keda Manufacturing (科达制造) 2025 annual report (local text team/evidence/filings/600499_.txt, lines 737-738)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，蓝科锂业实现碳酸锂产量 4.10 万吨，销 ... 量 4.12 万吨，产销量同比维持稳定；最终，全年实现营业收入 25.94 亿元"
+  },
+  "KD3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225046387.PDF",
+   "publisher": "Keda Manufacturing (科达制造) 2025 annual report (local text team/evidence/filings/600499_.txt, lines 10117-10119)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司持有广东科达锂业 100%股权，通过其持有蓝科锂业 37.80%股权 ... 广东威锂力 53.62%股权，通过其持有蓝科锂业 10.78%股权 ... 的表决权为 48.58%，间接持有蓝科锂业股份为 43.58%"
+  },
+  "WL1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, lines 415 and 417)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司于 2022 年 1 月收购领辉科技 70%股权并将其纳入合并范围，业务拓展至锂 ... 云母选矿，具备年选矿产能 120 万吨"
+  },
+  "WL2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, lines 409 and 411)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司于 2021 年 11 月出资设立以碳酸锂生产、加工、销 ... 售为主要业务的领能锂业，该项目于 2022 年 9 月达到正式投产标准"
+  },
+  "WL3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, construction-in-progress table lines 9792-9793; project name only, no statement of which subsidiary)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宜春 1 万吨碳 ... 酸锂项目辅助"
+  },
+  "WL4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, subsidiary table lines 12309-12310; column (direct vs indirect) not unambiguous in text)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江西领能锂 ... 50.29%"
+  },
+  "WL5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, impairment table lines 9913-9916)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "贵溪领能锂业有 ... 限公司年产 3 万 ... 项目停建"
+  },
+  "WL6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, subsidiary table lines 12337-12338)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "贵溪领能锂 ... 55.00%"
+  },
+  "WL7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, lines 612 and 614)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司拟在郴州市临武县一 ... 期建设 1 万吨碳酸锂冶炼生产线"
+  },
+  "WL8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, impairment table lines 9918-9921)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "郴州领能科技有 ... 限公司年产 4GWh ... 项目缓建"
+  },
+  "WL9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, subsidiary table lines 12331-12332)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "郴州领能科 ... 100.00%"
+  },
+  "WL10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领) 2025 annual report (local text team/evidence/filings/002667_2025.txt, line 10201)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "本公司于 2021 年 12 月通过非同一控制下企业合并方式收购了江西领辉科技有限公司"
+  },
+  "WM1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-26/1225030831.PDF",
+   "publisher": "Western Mining (西部矿业) 2025 annual report (local text team/evidence/filings/601168_.txt, line 9528)",
+   "published": "2026-03-26",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "本集团的重要联营企业东台锂资源从事碳酸锂的加工与销售，采用权益法核算，该投资对本集团活动具有战略性"
+  },
+  "WM2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-26/1225030831.PDF",
+   "publisher": "Western Mining (西部矿业) 2025 annual report (local text team/evidence/filings/601168_.txt, lines 411 and 9475)",
+   "published": "2026-03-26",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "青海东台吉乃尔锂资源股份有限公司 ... 锂资源开发 ... 27%"
+  },
+  "WM3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-26/1225030831.PDF",
+   "publisher": "Western Mining (西部矿业) 2025 annual report (local text team/evidence/filings/601168_.txt, line 1809; unit 万元 per header line 1797; revenue also line 9516)",
+   "published": "2026-03-26",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "东台锂资源 ... 参股公司 ... 锂资源开发 ... 84,000 ... 122,511 ... 52,097"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "sichuan-energy-investment-lijiagou-china",
+   "fields": {
+    "production": 126800,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "ownership_json": {
+     "Sichuan New Energy Power (川能动力) - 62.75% of Nengtou Lithium (能投锂业), which holds 75% of Dexin Mining (德鑫矿业)": 62.75,
+     "Yahua Group - 37.25% of Nengtou Lithium (priority supply right)": 37.25
+    },
+    "reserves_resources": "Retained ore resource 38.81 Mt, Li2O 0.5022 Mt, average grade 1.29% (Sichuan New Energy Power FY2025 AR); equals about 1.24 Mt LCE",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-10"
+   },
+   "evidence": {
+    "production": ["SE2"],
+    "ownership_json": ["SE3"],
+    "reserves_resources": ["SE4"],
+    "capacity": ["SE1"],
+    "status": ["SE1"]
+   },
+   "confidence": 0.9,
+   "notes": "Sichuan New Energy Power (川能动力) FY2025 AR (000155_2025.txt): design capacity 1.05 Mt/yr ore and 180 kt/yr lithium concentrate (lines 568-569), formal full-load operation of mining/beneficiation/tailings from Sept 2025 (matches Yahua AR). 2025 output: ore 1.0011 Mt (sales 142,900 t of ore sold as such), lithium concentrate 126,800 t produced (self-produced plus toll-processed, per table lines 1091-1095) and 144,600 t sold (inventory fell from 33,600 t); i.e. 70% of the 180 kt nameplate in the first (ramp-up) year. production_norm left null: concentrate grade not stated. Ownership: 川能动力 holds 62.75% of Nengtou Lithium (能投锂业, lines 168-170), which holds 75% of Dexin Mining (德鑫矿业, lines 174-176); the AR text does not itself say that Dexin is the Lijiagou licence holder - the licence is described as the company's ('公司拥有 ... 李家沟锂辉石矿开采权', line 565) - so the Dexin link rests on the earlier SC003 row. The 37.25% Yahua stake in Nengtou is consistent with 100% - 62.75%. Effective 川能动力 look-through to Lijiagou would be about 47% if Dexin is the holder (62.75% x 75%), not stated in the filing. Company totals: lithium concentrate 126,800 t produced / 144,600 t sold; lithium salt design capacity 45,000 t/yr, output 9,700 t, sales 11,200 t (lines 574-575). The Lijiagou North exploration right is held by the controlling shareholder (Sichuan Energy Development Group, lines 923-924), exploration stage, no row."
+  },
+  {
+   "action": "update",
+   "id": "sichuan-energy-investment-deah-lithium-mianzhu-china",
+   "fields": {
+    "ownership_json": {
+     "Sichuan New Energy Power (川能动力)": 51
+    },
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-10"
+   },
+   "evidence": {
+    "status": ["SE6"],
+    "ownership_json": ["SE7"]
+   },
+   "confidence": 0.7,
+   "notes": "Sichuan New Energy Power FY2025 AR: Deah Lithium's new 30 kt/yr lithium salt project - carbonate line in trial production, qualified battery-grade product 2025-07-31, carbonate line reached design output ('达标达产') on 2025-10-26 (lines 576-577); 川能动力 holds 51% (line 2113), registered capital RMB 750m. The AR does NOT say the hydroxide line was commissioned: construction-in-progress for the '德阿产业园年产3万吨锂盐项目' fell from RMB 980.1m to RMB 180.9m (lines 10615-10617), only the carbonate line was pre-transferred to fixed assets in Oct 2025 (line 1638-1644), so part of the plant (likely the hydroxide line) was still in construction at 2025-12-31; capacity row unchanged (30,000 t salt = 15,000 carbonate + 15,000 hydroxide per SC007; not restated in AR). Plant output is not given separately: company-wide lithium salt output 9,700 t / sales 11,200 t in 2025 (Dingsheng + Deah, incl. toll processing; line 575), design capacity 45,000 t/yr. CONFLICT with SC007 third-party summary (川能动力 stakes '能投锂业 58%/鼎盛锂业 72%/德阿 51%'): the AR gives 62.75% / 51% / 51% - AR figures preferred, only Deah 51% matches."
+  },
+  {
+   "action": "add",
+   "id": "sichuan-energy-investment-dingsheng-lithium-china",
+   "fields": {
+    "asset_name": "Dingsheng Lithium (四川能投鼎盛锂业) lithium carbonate / hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate, lithium hydroxide, industrial lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate (group lithium salt business uses lithium concentrate, sulphuric acid, NaOH)",
+    "operator": "Sichuan Energy Investment Dingsheng Lithium (四川能投鼎盛锂业有限公司)",
+    "parent_company": "Sichuan New Energy Power (川能动力)",
+    "jv_partners": "Sichuan New Energy Power 51% (49% holders not named)",
+    "ownership_json": {
+     "Sichuan New Energy Power (川能动力)": 51
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan (inferred from company name; plant town not stated)",
+    "geo_precision": "none",
+    "status": "operational",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089876.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-10"
+   },
+   "evidence": {
+    "status": ["SE8"],
+    "ownership_json": ["SE8"]
+   },
+   "confidence": 0.55,
+   "notes": "Sichuan New Energy Power FY2025 AR: Dingsheng is a 51%-owned subsidiary producing lithium carbonate and hydroxide (line 2109-2110); its quality-system certifications date from 2019-2021 (line 933-943) so it is an established plant; subsidiary table (lines 2065-2070) shows registered capital RMB 291.8m, 2025 revenue about RMB 606.7m (cell split over lines, not quoted). No plant-level capacity or output disclosed. Group lithium salt design capacity 45,000 t/yr at end-2025 (line 575) and Deah is a stated 30,000 t/yr project, which would leave about 15,000 t/yr for Dingsheng, but the filing does not say so (the 30 kt Deah project might not have been fully counted at year-end) so capacity left null. Company-wide 2025 lithium salt output 9,700 t, sales 11,200 t (Dingsheng + Deah, incl. toll processing). Ownership CONFLICT with SC007 third-party snippet (72% for Dingsheng): AR says 51%."
+  },
+  {
+   "action": "update",
+   "id": "guocheng-mining-dangba-china",
+   "fields": {
+    "operator": "Jinxin Mining (马尔康金鑫矿业有限公司)",
+    "jv_partners": "Guocheng Mining 48% (equity-method associate via Beijing Hurong); other holders not named",
+    "ownership_json": {
+     "Guocheng Mining (国城矿业), via Beijing Hurong (associate, equity method)": 48
+    },
+    "production": 577000,
+    "production_unit": "t ore",
+    "production_year": 2025,
+    "production_norm": 577000,
+    "reserves_resources": "Cumulative identified ore 84.255 Mt, Li2O 1,120,731 t, grade 1.33% (MNR review 2024); at 2025-12-31 holdings within mining and exploration rights: ore 84.129 Mt, Li2O 1,118,369 t; within the mining right 45.84 Mt ore, Li2O 612,513 t, grade 1.34%",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025043.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-24"
+   },
+   "evidence": {
+    "status": ["GC2"],
+    "capacity": ["GC1"],
+    "production": ["GC2"],
+    "ownership_json": ["GC3"],
+    "reserves_resources": ["GC5"]
+   },
+   "confidence": 0.7,
+   "notes": "Guocheng Mining FY2025 AR (000688_2025.txt): Jinxin Mining holds the Dangba spodumene mining right (2.8336 km2) with a permit scale of 1 Mt/yr (lines 515-516); 2025 run-of-mine ore mined 577,000 t (line 787-788) - this RESOLVES the SC003 unit ambiguity: the 2024 figure of 465,000 t was ore, not concentrate, so the earlier 't ore' reading is right. An application for a 5 Mt/yr permit is in process (prerequisites done; undated, so not counted as capacity) and the 5,000 t/day concentrator expansion entered trial production (lines 522-526). Concentrate output is not disclosed. Jinxin 2025 revenue RMB 598.9m, net profit RMB 38.8m (lines 11745-11757). OWNERSHIP FLAG: the AR calls Jinxin an associate ('参股子公司') in which Guocheng holds only 48% via Beijing Hurong (lines 107, 11714, 12128) - the row's earlier parent_company 'Guocheng Mining' overstates control; the controlling holder is not named in the filing (history: Fujian Zhonghe bankruptcy restructuring, Guocheng Changqing and Guangzhou Guocheng Deyuan capital increase, lines 12688-12747). Operator kept as Jinxin Mining; status 'operational' now rests on the 2025 ore output (replaces reported-tier status). start_year 2024 retained from SC003 (licence 2024-01 per Mysteel) - not re-confirmed here."
+  },
+  {
+   "action": "update",
+   "id": "guocheng-mining-guocheng-lithium-mianzhu-china",
+   "fields": {
+    "province_state": "Sichuan (Mianzhu, Deyang-Aba eco-industrial park)",
+    "source_published_date": "2026-07-14"
+   },
+   "evidence": {
+    "capacity": ["GC6"]
+   },
+   "confidence": 0.7,
+   "notes": "Guocheng Mining FY2025 AR (000688_2025.txt): Guocheng Lithium (控股子公司) is in the Deyang-Aba eco-industrial park, Mianzhu, planning 200 kt/yr lithium salt with Phase 1 of 60 kt/yr 'basic lithium salt' (lines 529-530; no carbonate/hydroxide split, matches Xinhua figure in the row). At 2025-12-31 the project was still under construction: construction-in-progress RMB 836.8m, budget RMB 1,782.4m (178,236.68 万元), progress 46.95% (lines 9699-9721; 2025 additions RMB 819.9m); civil works for acidification, purification, sodium sulphate and carbonate sections and utilities at roof level (lines 531-534). This is consistent with the Xinhua report in the row that Phase 1 began production on 2026-07-12; the AR (published 2026-03-24) therefore does not conflict with 'operational'. Guocheng's stake percentage in Guocheng Lithium is not stated in the AR (description: 控股子公司; tax table line 8728 only)."
+  },
+  {
+   "action": "update",
+   "id": "dazhong-mining-jiada-china",
+   "fields": {
+    "operator": "Dazhong New Energy (安徽省大中新能源投资有限责任公司, wholly-owned by Dazhong Mining; submitter of the Jiada mining plan)",
+    "ownership_json": {
+     "Dazhong Mining (via wholly-owned Dazhong New Energy)": 100
+    },
+    "production": 5085.06,
+    "production_unit": "t LCE",
+    "production_year": 2025,
+    "production_norm": 5085.06,
+    "reserves_resources": "MNR-filed first-mining-area resource: ore 43.436 Mt, grade 1.38%, Li2O 0.6009 Mt, about 1.4842 Mt LCE",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "production": ["DZ6", "DZ7"],
+    "capacity": ["DZ8", "DZ1"],
+    "status": ["DZ10"],
+    "ownership_json": ["DZ8"],
+    "reserves_resources": ["DZ9"]
+   },
+   "confidence": 0.7,
+   "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): first-mining-area plan (underground, 2.6 Mt/yr, about 50,000 t LCE/yr at full output, lines 4959-4962) passed expert review (confirms the SMM-based capacity in the row); 260 万 t/yr mining-licence application still to be filed/processed (lines 845-846), concentrator civil works nearly complete and targeted for completion by end-2026 (lines 846-847, 1801-1802) - so 'under_construction' stands. By-product (tunnel development) raw ore sold from Sept 2025: produced 5,085.06 t, sold 4,079.91 t, stock 1,005.95 t, all stated as 'LCE-equivalent' (折合碳酸锂当量, table lines 943-952; text line 848: 0.41万 t LCE, gross profit RMB 105m; revenue RMB 132.5m). The LCE equivalence is the company's industry-experience conversion, ore tonnage is not stated, so production is in t LCE-equivalent of ore, not of chemical. Operator: the AR names the wholly-owned Dazhong New Energy as submitter of the plan (line 4959); the Sichuan subsidiary named in the row (SMM: 'Sichuan Dazhong New Energy', registered 2026-06-29) is post-period and not in the AR; Sichuan Dazhonghe Lithium (四川大中赫锂业) is also a wholly-owned subsidiary (glossary line 128) - the exact licence-holding entity remains unresolved. Capex progress for 'Jiada mining project' 40.64% of budget (table lines 1651-1655). Company totals: Jijiaoshan 20 Mt/yr (about 80 kt LCE) + Jiada phase 1 2.6 Mt/yr (about 50 kt LCE) = about 130 kt/yr LCE planned (lines 741-745); both due to be built in H2 2026; lithium mining revenue RMB 137.7m in 2025."
+  },
+  {
+   "action": "add",
+   "id": "dazhong-mining-jijiaoshan-china",
+   "fields": {
+    "asset_name": "Jijiaoshan (Tongtianmiao section) lepidolite mine, Linwu, Hunan",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lepidolite ore / concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "lepidolite",
+    "operator": "Chenzhou Chengtai Mining Investment (郴州市城泰矿业投资有限责任公司)",
+    "parent_company": "Dazhong Mining (大中矿业)",
+    "ownership_json": {
+     "Dazhong Mining (wholly-owned grandchild via Hunan Dazhonghe)": 100
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan (Linwu County, Chenzhou)",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 20000000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 80000,
+    "norm_unit": "t LCE",
+    "feeds": "dazhong-mining-hunan-lithium-carbonate-china",
+    "reserves_resources": "Jijiaoshan (Tongtianmiao) and Jiada first-mining-area filed resources together exceed 4.72 Mt LCE; Jiada alone is 1.4842 Mt LCE, so Jijiaoshan is roughly 3.2 Mt LCE (derived, not stated)",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": ["DZ2", "DZ4"],
+    "capacity": ["DZ2", "DZ3"],
+    "capacity_norm": ["DZ3", "DZ1"],
+    "ownership_json": ["DZ3"]
+   },
+   "confidence": 0.75,
+   "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): in 2025 the wholly-owned subsidiary Chenzhou Chengtai obtained the first lithium mining licence issued after the new Mineral Resources Law (30 years, open-pit 20 Mt/yr then underground 8 Mt/yr - sequential, not additive; lines 826-827, 4966-4972); the 20 Mt/yr mining-beneficiation-tailings project is approved; phase-1 concentrator 10 Mt/yr under construction; haulage tunnels (7.3 km) through and shield TBM advancing (lines 828-831); 2026 plan: complete concentrator main works and equipment, mining works to completion within the year (lines 1783-1787). Capacity 20 Mt/yr ore = permit scale; ~80 kt/yr LCE is the company's own estimate ('根据行业经验及公司试验', line 4971-4972) so capacity_norm 80,000 t LCE is a company conversion, not grade-derived. capacity_ref_year 2026 = publication-year fallback (no date for the full 20 Mt). The fund-raising project table (lines 1635-1642) lists '年处理2000万吨多金属资源综合回收利用项目' (lithium mining-beneficiation-smelting industry) at 28.37% of budget; it is presumed, not stated, to be this 20 Mt/yr project. No lithium output in 2025."
+  },
+  {
+   "action": "add",
+   "id": "dazhong-mining-hunan-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Dazhong Hunan phase 1 20,000 t/yr lithium carbonate plant (Jijiaoshan project)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (lepidolite, sulphuric-acid route)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lepidolite concentrate (Jijiaoshan)",
+    "operator": "Dazhong Mining (Hunan Dazhonghe Lithium Mining, 湖南大中赫锂矿, wholly-owned subsidiary; entity running the plant inferred)",
+    "parent_company": "Dazhong Mining (大中矿业)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 20000,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225170843.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": ["DZ4"],
+    "capacity": ["DZ5"]
+   },
+   "confidence": 0.55,
+   "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): project '一期年产2万吨碳酸锂项目' (convertible-bond fund-raising project with 14.93% of budget invested, table lines 1643-1649, line 1682) and the 2026 plan to install equipment, commission and begin trial feeding of the Hunan carbonate plant within 2026 (line 1795-1796) - the link of the 20 kt project to Hunan rests on that 2026 plan text and the 'Jijiaoshan' project context; the AR does not state the plant's site in one sentence. Phase 1 only (the 20 Mt/yr Jijiaoshan ore plan implies about 80 kt/yr LCE in total per the company). capacity_ref_year 2026 = plan year for commissioning (trial feed), full ramp undated. Construction-in-progress RMB 96.3m at year-end vs RMB 38.2m at start (lines 11932-11933)."
+  },
+  {
+   "action": "update",
+   "id": "qinghai-salt-lake-industry-lanke-qarhan-china",
+   "fields": {
+    "production": 41000,
+    "production_unit": "t Li2CO3",
+    "production_year": 2025,
+    "production_norm": 41000,
+    "jv_partners": "Keda Manufacturing (科达制造) 48.58% voting rights / 43.58% economic interest (via Guangdong Keda Lithium 37.80% and Guangdong Weililì 10.78%)",
+    "ownership_json": {
+     "Guangdong Keda Lithium (100% Keda Manufacturing)": 37.8,
+     "Guangdong Weililì (53.62% Keda Manufacturing)": 10.78
+    },
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225046387.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-28"
+   },
+   "evidence": {
+    "production": ["KD2"],
+    "capacity": ["KD1"],
+    "ownership_json": ["KD3"]
+   },
+   "confidence": 0.9,
+   "notes": "Keda Manufacturing FY2025 AR (600499_.txt, the 48.58% shareholder): Lanke Lithium (蓝科锂业) 'has 4.1万 t/yr lithium carbonate capacity' (line 507), 2025 output 41,000 t, sales 41,200 t, revenue RMB 2.594bn, net profit RMB 730m (lines 737-739; revenue and profit match the Qinghai Salt Lake AR figures in SC102 notes). This gives the Lanke-only 2025 production, which SC102 could not split: Qinghai Salt Lake's company-wide 2025 output was 46,543 t, so the new 40 kt integrated project (trial production from end-Sept 2025) contributed about 5,500 t (derived: 46,543 - 41,000, not reported). CONFLICT (minor): capacity 41,000 t/yr (Keda) vs 40,000 t/yr design (Qinghai Salt Lake AR table, SC102) - nameplate kept at 40,000; Keda's figure is a rounded operating capacity and the 2025 output slightly exceeds 40,000 t. Ownership: Keda holds 100% of Guangdong Keda Lithium (37.80% of Lanke) and 53.62% of Guangdong Weililì (10.78% of Lanke): voting 37.80 + 10.78 = 48.58%, economic 37.80 + 10.78 x 53.62% = 43.58% (lines 10117-10119); Qinghai Salt Lake Industry is the controlling shareholder (Keda text line 740, stake not given there). Keda has no lithium mine or plant of its own; its Tanzania subsidiary 'Keda Resource Tanzania' (lithium/graphite resource development, line 9230) has no disclosed project or capacity."
+  },
+  {
+   "action": "add",
+   "id": "jinyuan-geji-lithium-baqiancuo-china",
+   "fields": {
+    "asset_name": "Baqiancuo (捌千错) salt lake lithium project, Gerze (Geji) County, Tibet",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site; refined and industrial grade)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Geji County Lithium Development (革吉县锂业开发有限公司)",
+    "parent_company": "Jinyuan Environmental (金圆环保股份有限公司)",
+    "jv_partners": "Jinyuan 66% (via Ali Lithium Source, 西藏阿里锂源); 34% minority not named",
+    "ownership_json": {
+     "Jinyuan Environmental (金圆股份)": 66
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Tibet (Ngari / Ali Prefecture, Gerze County, Wenbudangsang Township)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "production": 653.74,
+    "production_unit": "t Li2CO3",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225217044.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-28"
+   },
+   "evidence": {
+    "status": ["JY1", "JY2"],
+    "production": ["JY2"],
+    "ownership_json": ["JY3"]
+   },
+   "confidence": 0.5,
+   "notes": "Jinyuan FY2025 AR (000546_2025.txt): the company's priority in 2025 was to bring the Baqiancuo project to design output ('尽早达产达效') on a trial-production carbonate line being upgraded (lines 581-583); mining licence (Geji Lithium Development, Luoma village, Wenbudangsang township) expires April 2029, renewable (line 6534, note on intangible assets). 'New energy materials' (lithium compounds and derivatives): 2025 production 653.74 t (2024: 618.94 t), sales 1,245.702 t (2024: none), stock 461.44 t (2024: 1,053.40 t), revenue RMB 73.51m (lines 782-786, 706, 715-716; implied RMB 59,000/t, consistent with carbonate pricing). The table unit is 吨 and the product line is 'lithium compounds and derivatives' (carbonate per line 570-571); recorded as t Li2CO3 on that basis. No nameplate capacity is disclosed (the target is 'project capacity goal'); construction-in-progress 'Gerze Baqiancuo salt lake boron-lithium resource comprehensive utilisation project' RMB 396.9m, budget RMB 879m, progress 80.40% (lines 8141-8193, table cells split). Equipment contracts with Tibet Lishang Technology (西藏锂尚科技, a related party): 2,000 t/yr LCE electrochemical de-intercalation lithium-rich liquor line equipment RMB 78m, and second-phase equipment RMB 182.4m (RMB 25.4m paid) (lines 811-821) - indicates expansion but the AR does not tie a tonnage to the project. Ownership: 66% of Ali Lithium Source (阿里锂源, line 290, 9579) and 66% shown for Geji Lithium (line 9585); direct/indirect columns not distinguishable in the text. Company revenue from new energy materials RMB 73.5m, net loss attributable RMB 30.9m. Not added as rows (exploration stage, no capacity, abandoned): Argentine Caro (卡罗) and Payi (帕依) salar exploration rights (Jinyuan decided not to develop; impairment RMB 159.2m and RMB 13.4m, lines 585-588, 8384-8396) and two lithium-niobium-tantalum exploration licences in Nasarawa State, Nigeria acquired via CGL Mining Development (61.6 km2, one expired, lines 3647-3649)."
+  },
+  {
+   "action": "add",
+   "id": "weiling-linghui-yichun-lepidolite-concentrator-china",
+   "fields": {
+    "asset_name": "Linghui Technology (领辉科技) lepidolite beneficiation plant, Yichun",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lepidolite concentrate, lithium feldspar powder, tantalum-niobium concentrate",
+    "asset_type": "concentrator (lepidolite beneficiation plant)",
+    "feedstock": "purchased lepidolite ore (long-term supply agreements of at least 1.3 Mt/yr)",
+    "operator": "Jiangxi Linghui Technology (江西领辉科技有限公司)",
+    "parent_company": "Weiling New Energy (威领新能源, 002667)",
+    "ownership_json": {
+     "Weiling New Energy": 70
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Yichun)",
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 1200000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": ["WL1"],
+    "capacity": ["WL1"],
+    "ownership_json": ["WL1", "WL10"]
+   },
+   "confidence": 0.65,
+   "notes": "Weiling FY2025 AR (002667_2025.txt): Linghui (70% owned, acquired Jan 2022 per the business section line 415, but Dec 2021 per the notes line 10201 - internal date inconsistency) has an annual beneficiation capacity of 1.2 Mt (ore feed; line 417), sited in Yichun, Jiangxi, supplied by local ore under agreements covering at least 1.3 Mt/yr (lines 578-582). Not a mine: processes purchased ore. 2025 revenue 'lithium concentrate and by-products' RMB 101.65m (+25.5%), cost RMB 78.15m (lines 715, 747-749); The subsidiary table (lines 1413-1419) has split cells and was not used for financials. Production and sales volumes: the AR reports one combined 'non-ferrous smelting and pressing' line (production 52,469 t, sales 29,849 t, stock 10,194 t; lines 774-777) which mixes lithium concentrate and lithium compounds - cannot be allocated, so production left null. Ownership 70% per line 415; the subsidiary table shows 70.00% in the column that appears to be indirect (lines 12312-12314). capacity_ref_year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "weiling-lingneng-yichun-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Lingneng Lithium (江西领能锂业) lepidolite lithium carbonate plant, Yichun",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (battery-grade and industrial grade), brine, lithium iron phosphate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lepidolite concentrate",
+    "operator": "Jiangxi Lingneng Lithium (江西领能锂业有限公司)",
+    "parent_company": "Weiling New Energy (威领新能源, 002667)",
+    "ownership_json": {
+     "Weiling New Energy (indirect)": 50.29
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Yichun)",
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2022,
+    "capacity": 10000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 10000,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": ["WL2"],
+    "start_year": ["WL2"],
+    "capacity": ["WL3"],
+    "ownership_json": ["WL4"]
+   },
+   "confidence": 0.45,
+   "notes": "Weiling FY2025 AR (002667_2025.txt): Lingneng set up Nov 2021, reached formal production standard Sept 2022 (lines 409-411); registered capital RMB 680m, ownership 50.29% per subsidiary table (line 12310, column indirect/direct not unambiguous). The capacity of 10,000 t/yr is INFERRED from the construction-in-progress entry '宜春 1 万吨碳酸锂项目辅助及零星工程' (lines 9792-9793, 9873-9877; project in Yichun, impaired as 'deferred') - the AR gives no explicit design capacity for the operating plant, confidence kept below 0.5. 2025 lithium compounds and derivatives revenue RMB 60.48m (-85.4%), gross margin -20.7%; output fell because of the lithium price cycle and production-line maintenance (lines 670-674, 744-746, 795-796). 2025 output of lithium compounds is not separated (see Linghui row note on the mixed 52,469 t figure). Fixed assets impaired RMB 10.9m in 2025 (line 684-686)."
+  },
+  {
+   "action": "add",
+   "id": "weiling-guixi-lingneng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Guixi Lingneng Lithium (贵溪领能锂业) 30,000 t/yr lithium carbonate line project, Guixi",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lepidolite (assumed from group route; not stated)",
+    "operator": "Guixi Lingneng Lithium (贵溪领能锂业有限公司)",
+    "parent_company": "Weiling New Energy (威领新能源, 002667)",
+    "ownership_json": {
+     "Weiling New Energy (indirect)": 55
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Guixi, Yingtan)",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "capacity": 30000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 30000,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": ["WL5"],
+    "capacity": ["WL5"],
+    "ownership_json": ["WL6"]
+   },
+   "confidence": 0.6,
+   "notes": "Weiling FY2025 AR (002667_2025.txt): construction project '贵溪领能锂业有限公司年产3万吨碳酸锂生产线建设项目' is halted ('项目停建'); construction-in-progress RMB 104.4m, impaired by RMB 82.5m in 2025 (lines 9774-9779, 9913-9916); budget RMB 3,031m, 3.44% progress (table lines 9829-9833, cells split). Guixi Lingneng 55% owned, registered capital RMB 1bn (lines 12337-12338). Management says Guixi and Chenzhou projects will be pushed 'steadily according to carbonate market conditions' (line 1489). Status under_construction because physical works began (RMB 104m spent) but project_state paused; no start date. capacity_ref_year 2026 = publication-year fallback (no due date)."
+  },
+  {
+   "action": "add",
+   "id": "weiling-chenzhou-lingneng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Chenzhou Lingneng Technology (郴州领能科技) phase 1 10,000 t/yr battery-grade lithium carbonate (4 GWh storage battery and materials project), Linwu",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "not stated",
+    "operator": "Chenzhou Lingneng Technology (郴州领能科技有限公司)",
+    "parent_company": "Weiling New Energy (威领新能源, 002667)",
+    "ownership_json": {
+     "Weiling New Energy (indirect)": 100
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan (Linwu County, Chenzhou)",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "capacity": 10000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 10000,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": ["WL8"],
+    "capacity": ["WL7", "WL8"],
+    "ownership_json": ["WL9"]
+   },
+   "confidence": 0.6,
+   "notes": "Weiling FY2025 AR (002667_2025.txt): phase 1 of the '年产4GWh储能电池及配套电池新材料建设项目' is a 10,000 t/yr battery-grade lithium carbonate line, planned in Linwu County, Chenzhou (lines 612-614); the project is 'deferred' (项目缓建) - construction-in-progress RMB 106.4m, RMB 5.6m impaired in 2025 (lines 9781-9791, 9918-9922); budget RMB 644.3m, progress 16.61% (table lines 9852-9856, cells split). Wholly owned by Weiling (郴州领能科技, registered capital RMB 500m, lines 12331-12332). The 4 GWh storage-battery part of the project is outside the lithium scope. capacity_ref_year 2026 = publication-year fallback (no due date)."
+  },
+  {
+   "action": "add",
+   "id": "dongtai-lithium-resources-east-taijinaier-china",
+   "fields": {
+    "asset_name": "Qinghai Dongtai Jinai'er Lithium Resources (青海东台吉乃尔锂资源) lithium carbonate processing and sales",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site; processing and sales per Western Mining AR)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Dongtai Jinai'er Lithium Resources (青海东台吉乃尔锂资源股份有限公司)",
+    "parent_company": null,
+    "jv_partners": "Western Mining 27% (equity-method associate); other holders not named in the AR",
+    "ownership_json": {
+     "Western Mining (西部矿业)": 27
+    },
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-26/1225030831.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-26"
+   },
+   "evidence": {
+    "status": ["WM1", "WM3"],
+    "ownership_json": ["WM2"]
+   },
+   "confidence": 0.45,
+   "notes": "Western Mining FY2025 AR (601168_.txt): Dongtai Lithium Resources (东台锂资源) is a 27% equity-method associate 'engaged in the processing and sale of lithium carbonate' (line 9528), described as strategic (registered capital RMB 840m; 2025 revenue RMB 1,225.1m (2024: RMB 1,478.1m), operating profit RMB 611.3m, net profit RMB 520.97m on the company's own books per line 1809; equity-method line shows a loss of RMB 444.9m after purchase-price fair-value adjustments, lines 9516-9526). Dividend of RMB 135m declared in 2025 (receivable, line 10498), RMB 270m received in 2024. The AR gives NO capacity, output, site or start year for the lithium business, and Western Mining itself has no lithium plant (its Tuanjie Lake work is R&D on magnesium-rich brine lithium extraction, lines 1904-1906). The location 'Qinghai' is from the equity table; the East Taijinaier salt lake location is inferred from the company name only. POSSIBLE OVERLAP with placeholder row east-taijinaier-brine-lithium-china (SC003, 20,000 t Li2CO3 reported-tier, operator unconfirmed): this row has null capacity to avoid double counting; the lead may merge them once capacity for Dongtai is found elsewhere. Western Mining company total: no lithium capacity/output disclosed."
+  }
+ ]
+}
