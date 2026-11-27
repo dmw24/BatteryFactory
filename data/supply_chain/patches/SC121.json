@@ -1,0 +1,550 @@
+{
+ "task": "SC121",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "Z1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1722-1724)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "拉果措盐湖锂矿、3Q 盐湖锂矿、湘源硬岩锂矿相继建成投产；马诺诺锂矿东北部项目建设稳步推进；藏格矿业控制权收购完成交割；公司产当量碳酸锂 2.55 万吨。"
+  },
+  "Z2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1729-1730)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "名称 持有权益 碳酸锂（吨） 权益碳酸锂（吨） 拉果措盐湖锂矿 63% 11,398 7,181"
+  },
+  "Z3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 1731)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "3Q 盐湖锂矿 100% 5,790 5,790"
+  },
+  "Z4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 1732)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "湘源硬岩锂矿 100% 2,589 2,589"
+  },
+  "Z5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1744-1746)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "3Q 盐湖锂矿拥有当量碳酸锂 842 万吨；一期 2 万吨 / 年碳酸锂项目于 2025 年 9 月投产，若技改获批达产后产量将提升到 3 万吨 / 年，二期 4 万吨 / 年碳酸锂项目建设正有序推进。2025 年产当量碳酸锂 0.58 万吨"
+  },
+  "Z6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 2965)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "3Q 一期工程 6.2 亿美元 项目已于 9 月份投产并生产出首批碳酸锂产品 ... 当量碳酸锂 2 万吨 / 年"
+  },
+  "Z7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1757-1759)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "拉果措盐湖锂矿拥有当量碳酸锂 215 万吨；一期 2 万吨 / 年当量碳酸锂项目已于 2025 年 3 月正式投产，二期 4 万吨 / 年当量碳酸锂项目正加紧规划。"
+  },
+  "Z8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1749-1751)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "马诺诺锂矿东北部项目拥有当量碳酸锂 647 万吨；一期 500 万吨 / 年采选项目有序推进，重介质选矿厂预计 2026 年 6 月底建成投产，冶炼厂计划于 2026 年底建成投产"
+  },
+  "Z9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 2966)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "马诺诺锂矿采选冶项目 14.05 亿美元 预计于 2026 年 6 月份实现选厂（重介质）投产 ... 当量碳酸锂 13 万吨 / 年"
+  },
+  "Z10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1401-1402)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "马诺诺锂矿 碳酸 54.9% 4771089 1699585 6470674"
+  },
+  "Z11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1762-1764)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "湘源硬岩锂矿拥有当量碳酸锂 143 万吨，伴生铷、铯、钨、锡等多种金属，500 万吨 / 年采选项目及配套电池级碳酸锂冶炼厂于 2025 年底建成投产，达产后年产电池级碳酸锂 3 万吨。2025 年产当量碳酸锂 0.26 万吨"
+  },
+  "Z12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 2974)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "湘源锂矿采选工程 26.57 亿元 已于 2025 年 12 月底建成投产 ... 当量碳酸锂 3 万吨 / 年"
+  },
+  "Z13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 2984)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "湖南紫金新材料工程 24.12 亿元 已于 2025 年 12 月底建成投产 ... 加工生产电池级碳酸锂 3 万吨 / 年"
+  },
+  "Z14": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, lines 1674-1675)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "科卢韦齐铜（钴）矿拥有资源量 113 万吨、钴 2.8 万吨；2025 年实现矿产铜 11.8 万吨、钴 21 吨，2026 年计划矿产铜 10.9 万吨、钴 997 吨。"
+  },
+  "Z15": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+   "publisher": "Zijin Mining 2025 annual report (local text team/evidence/filings/601899_.txt, line 1618)",
+   "published": "2026-03-21", "accessed": "2026-11-27", "language": "zh",
+   "quote": "刚果（金）科卢韦齐铜（钴）矿 67% 118,019 79,073"
+  },
+  "C1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF",
+   "publisher": "CATL 2025 annual report (local text team/evidence/filings/300750_2025.txt, lines 1624-1631 and 1628)",
+   "published": "2026-03-10", "accessed": "2026-11-27", "language": "zh",
+   "quote": "宜昌邦 ... 普一体 ... 化电池材料产 ... 业园项目 ... 2,262,305 16,528,380 ... 尚在建 ... 设中"
+  },
+  "C2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF",
+   "publisher": "CATL 2025 annual report (local text team/evidence/filings/300750_2025.txt, line 11980)",
+   "published": "2026-03-10", "accessed": "2026-11-27", "language": "zh",
+   "quote": "宜春龙蟠时代锂业科技有限公司 联营企业"
+  },
+  "B1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225045351.PDF",
+   "publisher": "BYD 2025 annual report (local text team/evidence/filings/002594_2025.txt, lines 10539 and 10544-10545)",
+   "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh",
+   "quote": "联营企业 ... 西藏日喀则扎布耶锂业 高科技有限公司 478,572"
+  },
+  "G1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, line 12109)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "宜丰国轩锂业一期厂房 634,545,853.02 正在办理中"
+  },
+  "G2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 14541-14542)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "宜丰国轩锂 600,000,000. 江西宜春 江西宜春 矿物开采 0.00% 42.32% 直接投资"
+  },
+  "G3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 12143-12145)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "庐江科宏年产 20 万吨高端正 9,772,016.30 9,772,016.30 极材料项目"
+  },
+  "G4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 12331-12337)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "庐江科宏年 ... 产 20 万吨高 ... 98.00 ... 已完 ... 端正极材料 ... 项目"
+  },
+  "G5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 12166-12170)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "内蒙古国轩年 产 10 万吨锂 20,008,653.51 20,008,653.51 740,191,332.77 740,191,332.77 电池负极材料 建造工程项目"
+  },
+  "G6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 751-752)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "公司在内蒙古乌海工厂发布 ... 全球首个零碳负极材料工厂正式投入运行。"
+  },
+  "G7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 6215-6217)",
+   "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh",
+   "quote": "国轩材料年产 30,000 吨高镍三元正极材料项目 ... 2025 年尚未达产。因前期固定成本较高，导致截止日累计实现的效益较低。"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "zijin-liex-tres-quebradas-argentina",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 20000,
+    "norm_unit": "t LCE",
+    "production": 5790,
+    "production_unit": "t LCE",
+    "production_year": 2025,
+    "production_norm": 5790,
+    "parent_company": "Zijin Mining Group",
+    "jv_partners": null,
+    "reserves_resources": "842 万吨 (8.42 Mt) LCE resource, Li ion basis (Zijin 2025 AR, line 1744; 100% interest)"
+   },
+   "evidence": {
+    "status": ["Z5", "Z6"],
+    "capacity": ["Z5", "Z6"],
+    "production": ["Z3", "Z5"],
+    "reserves_resources": ["Z5"]
+   },
+   "confidence": 0.85,
+   "notes": "[SC121 2026-11-27] Zijin 2025 AR (single company source; Argus/Panorama press from SC002 is the second source for start-up): phase 1 of 20,000 t/yr LCE was put into production in September 2025 and produced first carbonate (line 2965); Zijin interest 100% (line 1731). Phase 1 can reach 30,000 t/yr if a technical upgrade is approved (not a dated step, excluded); phase 2 of 40,000 t/yr 'under orderly construction' with no date (line 1744-1746; excluded, same rule as SC002). 2025 output 5,790 t carbonate (table, tonnes Li2CO3; text 0.58万吨 LCE) = ramp-up year; Zijin 2026 target 30,000 t LCE (target, not output). Capacity unit changed from t Li2CO3 to t LCE because the AR states 当量碳酸锂 (value unchanged, 20,000). Status now rests on the company filing (confirmed), replacing the reported-tier Argus snippet."
+  },
+  {
+   "action": "update",
+   "id": "zijin-mining-lagocuo-china",
+   "fields": {
+    "operator": "Tibet Ali Laguo Resources (西藏阿里拉果资源有限责任公司; 阿里拉果资源有限责任公司)",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 20000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-12-31",
+    "installed_norm": 20000,
+    "capacity_by_year_json": {"2025": 20000},
+    "production": 11398,
+    "production_unit": "t LCE",
+    "production_year": 2025,
+    "production_norm": 11398,
+    "jv_partners": "Zijin Mining 63% (other holders not named in the annual report)",
+    "reserves_resources": "215 万吨 (2.15 Mt) LCE resource, Li ion basis, 63% interest (Zijin 2025 AR, line 1757)"
+   },
+   "evidence": {
+    "status": ["Z7"],
+    "capacity": ["Z7"],
+    "installed_capacity": ["Z7"],
+    "capacity_by_year_json": ["Z7"],
+    "production": ["Z2"],
+    "jv_partners": ["Z2"],
+    "reserves_resources": ["Z7"]
+   },
+   "confidence": 0.85,
+   "notes": "[SC121 2026-11-27] Replaces the SC003 reported-tier forum-post entry (announced) with the Zijin 2025 AR. Phase 1, 20,000 t/yr LCE (adsorption plus membrane, line 2050), was formally put into production in March 2025 (line 1757); phase 2 of 40,000 t/yr LCE is 'being planned' with no date (excluded from capacity). Zijin holds 63% (line 1730); equity-share output 7,181 t. 2025 output 11,398 t carbonate (table; text 1.1万吨 LCE); Zijin 2026 target 20,000 t LCE (target). installed_as_of 2025-12-31 is the AR balance date, not a commissioning date (commissioned March 2025). Phase-1 power: 200 MW PV + 540 MWh storage built by Longking (line 1758-1759). Operator entity name from AR glossary line 227 (阿里拉果资源有限责任公司) and line 3591 (西藏阿里拉果资源有限责任公司). Zijin's earlier 'phase 1 adjusted to 20,000 t' forum post is superseded. Coordinates still not stated."
+  },
+  {
+   "action": "update",
+   "id": "zijin-manono-northeast-mine-drc",
+   "fields": {
+    "capacity": 130000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 130000,
+    "norm_unit": "t LCE",
+    "reserves_resources": "647 万吨 (6.47 Mt) LCE resource (Zijin 2025 AR, line 1749; table line 1402: 6,470,674 t LCE at 54.9% interest; Li2O to Li2CO3 factor 2.47)"
+   },
+   "evidence": {
+    "capacity": ["Z8", "Z9"],
+    "reserves_resources": ["Z8", "Z10"]
+   },
+   "confidence": 0.7,
+   "notes": "[SC121 2026-11-27] Zijin 2025 AR (published 2026-03-21): Manono mining-processing-smelting project, 13万吨/年 LCE at completion (line 2966; project budget USD 1.405bn, 51.39% of it spent, line 2966); phase 1 = 5 Mt/yr ore mining and processing, dense-media plant expected end-June 2026, smelter planned end-2026 (lines 1749-1751). capacity replaced: was 1,000,000 t spodumene concentrate (SC004, reported tier, search snippet) - the AR states the plan only as LCE; capacity_ref_year 2026 is when the plant and smelter come on line (smelter 'end 2026', dated step). The 130,000 t LCE covers the mining + smelting project, so it should not be added to a separate Manono refining row. Interest 54.9% in the AR table (line 1402; equity basis), consistent with SC004 ownership (Zijin affiliates 54.9%). Status left as SC004 set it (operational from May 2026 per Zijin July 2026 notice): the AR itself (March 2026) only says the plant was expected by end-June 2026. 2026 target 30,000 t LCE (line 1751, target). Hydropower: Mpiana-Mwanga plant phase 1 repair done, 37.5 MW installed (line 1750-1751)."
+  },
+  {
+   "action": "add",
+   "id": "zijin-hunan-xiangyuan-mine-china",
+   "fields": {
+    "asset_name": "Xiangyuan hard-rock lithium polymetallic mine (湘源硬岩锂多金属矿), Hunan",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "hard-rock lithium ore / concentrate processed to battery-grade lithium carbonate (reported as LCE)",
+    "asset_type": "hard-rock mine",
+    "feedstock": "hard-rock lithium polymetallic ore (associated Rb, Cs, W, Sn; mineral type not named)",
+    "operator": "Hunan Zijin Lithium (湖南紫金锂业有限公司)",
+    "parent_company": "Zijin Mining Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 30000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 30000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31",
+    "installed_norm": 30000,
+    "production": 2589,
+    "production_unit": "t LCE",
+    "production_year": 2025,
+    "production_norm": 2589,
+    "feeds": ["zijin-hunan-xiangyuan-refinery-china"],
+    "reserves_resources": "143 万吨 (1.43 Mt) LCE resource (Zijin 2025 AR, line 1762; Li2O to Li2CO3 factor 2.47, 100% interest)",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-21"
+   },
+   "evidence": {
+    "status": ["Z11", "Z12"],
+    "capacity": ["Z11", "Z12"],
+    "installed_capacity": ["Z12"],
+    "production": ["Z4", "Z11"],
+    "feeds": ["Z11"],
+    "reserves_resources": ["Z11"]
+   },
+   "confidence": 0.8,
+   "notes": "[SC121 2026-11-27] Zijin 2025 AR: 5 Mt/yr mining-processing project (RMB 2.657bn; 21.55% of the budget spent in 2025) plus supporting battery-grade carbonate smelter 'built and in production end of December 2025'; at full production 30,000 t/yr battery-grade lithium carbonate (lines 1762-1764, 2974). Capacity is stated in the AR as LCE at completion (30,000 t/yr), ore throughput 5 Mt/yr is in notes only (not entered to avoid mixing units). 2025 output 2,589 t carbonate equivalent (table line 1732, 100% interest) - first partial year; 2026 target 30,000 t LCE (target). The 30,000 t is the same output as the Xiangyuan refinery row (feeds link), so mining and refining capacities must not be summed as LCE supply. Mineral type of the ore is not named in the AR; Rb/Cs/W/Sn associated metals suggest lepidolite but this is not stated. Location: only 'Hunan' (company name Hunan Zijin Lithium; land-use rights of 湖南紫金锂多金属新材料有限公司, line 10707); no coordinates or town in the AR. installed_as_of is the AR balance date."
+  },
+  {
+   "action": "add",
+   "id": "zijin-hunan-xiangyuan-refinery-china",
+   "fields": {
+    "asset_name": "Hunan Zijin New Materials battery-grade lithium carbonate plant (湖南紫金新材料工程), supporting Xiangyuan mine",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate",
+    "asset_type": "carbonate plant",
+    "feedstock": "Xiangyuan hard-rock lithium concentrate",
+    "operator": "Zijin Mining Group (Hunan subsidiary; project entity not named, land-use rights held by 湖南紫金锂多金属新材料有限公司)",
+    "parent_company": "Zijin Mining Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 30000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 30000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31",
+    "installed_norm": 30000,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-21"
+   },
+   "evidence": {
+    "status": ["Z13"],
+    "capacity": ["Z13"],
+    "installed_capacity": ["Z13"]
+   },
+   "confidence": 0.75,
+   "notes": "[SC121 2026-11-27] Zijin 2025 AR line 2984: 'Hunan Zijin New Materials project', RMB 2.412bn, 17.39% of budget spent in 2025, built and in production end of December 2025, processes battery-grade lithium carbonate 30,000 t/yr at completion. The AR calls it the smelter supporting the Xiangyuan mine (lines 1762-1763). The legal entity running it is not named (RMB land-use rights of 湖南紫金锂多金属新材料有限公司 sit in line 10707; mine entity is 湖南紫金锂业有限公司, line 229) - operator wording kept generic. No separate output is reported: the 2,589 t 2025 production sits on the mine row (same product). Not the same as Zijin Lithium Yuan (紫金锂元, Fujian), which makes cathode material and recycles LFP (line 1950-1951; no capacity per plant given, not added). installed_as_of is the AR balance date."
+  },
+  {
+   "action": "add",
+   "id": "zijin-musonoi-kolwezi-drc",
+   "fields": {
+    "asset_name": "Kolwezi (Musonoi) copper-cobalt mine",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "copper-cobalt ore (copper principal product; cobalt reported as mine output)",
+    "asset_type": "open-pit mine",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Musonoi Mining (穆索诺伊矿业简易股份有限公司)",
+    "parent_company": "Zijin Mining Group",
+    "jv_partners": "Zijin Mining 67% (other holders not named in the annual report)",
+    "country": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "production": 21,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "production_norm": 21,
+    "reserves_resources": "1.13 Mt copper and 28 kt cobalt resource (Zijin 2025 AR, line 1674; 67% interest)",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-21/1225550242.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-21"
+   },
+   "evidence": {
+    "status": ["Z14"],
+    "production": ["Z14"],
+    "reserves_resources": ["Z14"],
+    "jv_partners": ["Z15"]
+   },
+   "confidence": 0.75,
+   "notes": "[SC121 2026-11-27] Zijin 2025 AR: 2025 mine output 118,019 t copper (table line 1618; text 11.8万吨) and 21 t cobalt (lines 1674, 1863); 2026 plan 109 kt copper and 997 t cobalt (line 1674-1675) - cobalt output is tiny and ramps in 2026 (plan, not output). Interest 67%. Capacity: no plant capacity stated for cobalt; left null. Copper-led mine, entered as cobalt because the supply-chain database tracks cobalt supply; the copper output is a by-product-scale context only. Province 'Lualaba' is the province of the named locality Kolwezi (not in the AR). Zijin's other DRC asset Kamoa-Kakula is copper-only in this AR (no cobalt figure) and not added. Not the same as Tengyuan/Hechuang Kolwezi rows."
+  },
+  {
+   "action": "add",
+   "id": "catl-brunp-yichang-integrated-battery-materials-china",
+   "fields": {
+    "asset_name": "Yichang Brunp integrated battery materials industrial park (宜昌邦普一体化电池材料产业园项目)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "lithium-ion battery cathode materials (project industry: 锂离子电池正极材料制造业); capacity not stated",
+    "asset_type": "cathode and materials park",
+    "operator": "Yichang Brunp (Brunp Recycling / CATL group; project entity named in CATL annual report as 宜昌邦普)",
+    "parent_company": "CATL",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2021,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-10/1225002214.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-10"
+   },
+   "evidence": {
+    "status": ["C1"]
+   },
+   "confidence": 0.5,
+   "notes": "[SC121 2026-11-27] CATL 2025 AR (lines 1624-1631): self-built project, disclosed 2021-10-12 (announcement 2021-100), RMB 2,262,305 thousand spent in 2025 and RMB 16,528,380 thousand cumulative, 'still under construction'. 2024 AR (line 1366-1368) showed RMB 14,266,075 thousand cumulative. No capacity or phase dates are stated, so capacity is null. Status is under_construction on that wording; other sources may show phase(s) already producing, not checked here (filing pass). Province Hubei: CATL lists 宜昌邦普 entities in the Hubei disclosure system (lines 3649-3662). Not added: CATL 'Indonesia power battery industry chain project' (RMB 5,369,789 thousand cumulative, line 1633-1641; mixes cell plant and materials, no split), Bolivia (no mention in the AR), Brunp-CATL (Argentina) S.A. (line 8989; tax-rate table only), PT Nickel Cobalt Halmahera and PT Cblib Battery Materials Indonesia (newly set up 2025, line 11390, 11398; no capacity)."
+  },
+  {
+   "action": "update",
+   "id": "longpan-yichun-times-lithium-carbonate-china",
+   "fields": {
+    "jv_partners": "Longpan Technology 70%; CATL (listed as an associate company in CATL 2025 AR; CATL share not stated)"
+   },
+   "evidence": {
+    "jv_partners": ["C2"]
+   },
+   "confidence": 0.45,
+   "notes": "[SC121 2026-11-27] CATL 2025 AR lists 宜春龙蟠时代锂业科技有限公司 among its associates (联营企业, line 11980) and discloses CATL guarantees for it (RMB 450,000 thousand approved 2023-03-10, lines 4187-4192; lines 12056-12059 list guarantee tranches maturing to 2031). This identifies the partner left open in SC104; CATL's percentage is not stated in the CATL AR (70% Longpan from SC104 implies about 30% for the rest, not stated and not entered). Capacity and unit assumption from SC104 unchanged."
+  },
+  {
+   "action": "update",
+   "id": "tibet-mining-zabuye-china",
+   "fields": {
+    "jv_partners": "BYD (associate of BYD, stake not stated in BYD 2025 AR)"
+   },
+   "evidence": {
+    "jv_partners": ["B1"]
+   },
+   "confidence": 0.85,
+   "notes": "[SC121 2026-11-27] BYD 2025 AR, long-term equity investments, associates table (line 10544-10545): 西藏日喀则扎布耶锂业高科技有限公司 (the Zabuye operator subsidiary named in SC102) carried at RMB 478,572 thousand at start of 2025 and RMB 463,001 thousand at year end, equity-method loss RMB 15,571 thousand. BYD's percentage is not stated in the BYD AR, so only the partner is added; the percentage, if any, must come from another source. Also in the same table: Shengxin Lithium Energy (盛新锂能) RMB 1,314,908 thousand (net of RMB 638,157 thousand impairment), line 10541-10542."
+  },
+  {
+   "action": "update",
+   "id": "gotion-yifeng-lithium-carbonate-china",
+   "fields": {
+    "status": "under_construction",
+    "jv_partners": "Gotion High-Tech indirect holding 42.32% via Yichun Gotion Lithium (宜春国轩锂业股份有限公司); other shareholders not named"
+   },
+   "evidence": {
+    "status": ["G1"],
+    "jv_partners": ["G2"]
+   },
+   "confidence": 0.4,
+   "notes": "[SC121 2026-11-27] Gotion 2025 AR. The subsidiary Yifeng Gotion Lithium (宜丰国轩锂业有限公司, business 矿物开采, registered capital RMB 600m, Gotion indirect holding 42.32%; lines 14541-14543, parent Yichun Gotion Lithium Co. 285m at the same 42.32%, lines 14536-14539) carries a fixed-asset 'Yifeng Gotion Lithium phase-1 plant building' of RMB 634.5m (title pending, line 12109; RMB 278.1m in the 2024 AR) and bank guarantees of RMB 1.47bn (lines 5950-5962). So phase-1 buildings exist; the AR names no output, capacity or production start, and it was recognised as a high-tech enterprise in October 2025 (line 10939-10940). Status moved announced -> under_construction on the physical works; production is NOT confirmed. The 50,000 t Li2CO3 capacity (CLS 2023) is unchanged and unconfirmed by the AR. Related entities not added (no capacity/status): Yichun Gotion Mining (宜春国轩矿业有限责任公司, line 5942-5948), Yifeng Huali Mining Development (宜丰县花锂矿业开发有限公司, goodwill only, line 12522), Jiangxi Weihong Lithium (江西纬宏锂业有限公司, goodwill only, line 12525), Yichun Kefeng New Materials (宜春科丰新材料有限公司, goodwill RMB 396.4m, impairment 95.6m, line 12528-12562; product not stated), Gotion Argentina (goodwill fully impaired, line 12531). The Gotion Fengxin row is not mentioned in this AR (no evidence; unchanged)."
+  },
+  {
+   "action": "add",
+   "id": "gotion-lujiang-kehong-cathode-china",
+   "fields": {
+    "asset_name": "Lujiang Kehong 200,000 t high-end cathode material project (庐江科宏年产20万吨高端正极材料项目)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-end cathode material (chemistry not stated in the AR)",
+    "asset_type": "cathode plant",
+    "operator": "Hefei Gotion Kehong New Energy Technology (合肥国轩科宏新能源科技有限公司)",
+    "parent_company": "Gotion High-Tech",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui",
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 200000,
+    "norm_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": ["G4"],
+    "capacity": ["G3"]
+   },
+   "confidence": 0.4,
+   "notes": "[SC121 2026-11-27] Gotion 2025 AR construction-in-progress tables (lines 12143-12145, 12331-12337): project 'Lujiang Kehong annual 200,000 t high-end cathode material', opening balance RMB 9.77m, 2025 additions RMB 13.03m, RMB 22.81m transferred to fixed assets, closing balance nil, progress 98.00%, flagged 已完工 (completed). Lujiang Kehong plant building RMB 603.3m (title pending, line 12102; RMB 453.2m in 2024). Capacity 200,000 t is the project name; the AR gives no phase, chemistry (LFP assumed by readers but NOT stated) or output. Status under_construction because construction is complete but no production or commissioning statement exists; set to operational once a production source is found. Whether Hefei Gotion Kehong (2025 revenue RMB 7.75bn, line 14696) is the cathode plant or a cell plant is not stated; the operator is the subsidiary whose name is in the project title. Province Anhui and town-level location: Lujiang (庐江) is named in the project; no coordinates. capacity_ref_year 2025 is the publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "gotion-wuhai-anode-china",
+   "fields": {
+    "asset_name": "Inner Mongolia Gotion zero-carbon anode plant, Wuhai (内蒙古国轩年产10万吨锂电池负极材料)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "lithium-ion battery anode material",
+    "asset_type": "anode plant",
+    "operator": "Inner Mongolia Gotion Zero-Carbon Technology (内蒙古国轩零碳科技有限公司)",
+    "parent_company": "Gotion High-Tech",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Inner Mongolia",
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "capacity": 100000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 100000,
+    "norm_unit": "t anode",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": ["G6", "G5"],
+    "capacity": ["G5"]
+   },
+   "confidence": 0.5,
+   "notes": "[SC121 2026-11-27] Gotion 2025 AR: in the reporting year the company launched its 'high-energy-consumption factory zero-carbon solution' at the Wuhai (Inner Mongolia) plant and 'the world's first zero-carbon anode material factory formally went into operation' (lines 751-752); Wuhai base runs on 100% direct green power (line 4141). Construction-in-progress table (lines 12166-12170, 12280-12285): project 'Inner Mongolia Gotion annual 100,000 t lithium battery anode material construction' RMB 740.2m opening balance, +RMB 162.7m in 2025, RMB 882.8m transferred to fixed assets, RMB 20.0m closing balance, progress 95.23% ('under construction'). Plant building RMB 186.7m, title pending (line 12108). So the plant is largely built and declared in operation, but the AR gives no output and does not say what share of the 100,000 t is installed; capacity 100,000 t is the project name (ref year = publication-year fallback), installed_capacity left null. The Wuhai site is the location (city-level only). Not to be confused with Wuhai Gotion Jindongli New Energy (乌海国轩金动历新能源股份, related-party, line 15192), whose business is not stated."
+  },
+  {
+   "action": "add",
+   "id": "gotion-materials-ncm-cathode-china",
+   "fields": {
+    "asset_name": "Gotion Materials 30,000 t/yr high-nickel NCM cathode project (国轩材料年产30,000吨高镍三元正极材料项目)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel ternary (NCM) cathode material",
+    "asset_type": "cathode plant",
+    "chemistry": "NCM (high-nickel)",
+    "operator": "Gotion Materials (国轩材料; legal entity not named in the project table)",
+    "parent_company": "Gotion High-Tech",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 30000,
+    "norm_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": ["G7"],
+    "capacity": ["G7"]
+   },
+   "confidence": 0.5,
+   "notes": "[SC121 2026-11-27] Gotion 2025 AR, use-of-proceeds table (lines 6152-6170, 6215-6217, 6278-6280): the 2021 private-placement project 'Gotion Materials annual 30,000 t high-nickel ternary cathode material project' (RMB 1.0bn committed, 89.67% invested, target ready date 2024-12-01) was closed out ('结项') in 2025, but 'had not reached full production in 2025' because high early fixed costs kept cumulative benefits low - i.e. it has produced and realised some benefit, so status is operational (ramp-up). Full production share, output and location are not stated; the executing entity is not named in the table (probably 合肥国轩电池材料有限公司, 95.924% held by Gotion, line 14717 - NOT confirmed) and province is therefore left null. capacity_ref_year 2025 is the publication-year fallback. Announced 2021-12 (placement date, line 6154)."
+  }
+ ]
+}

@@ -1,0 +1,658 @@
+{
+ "task": "SC020",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S01": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.6 Review of Operations; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "record production of another 1,055,658 tonnes of NPI produced. The 124,966 tonnes of nickel metal produced was below 2024s 127,261 tonnes of nickel metal due to a lower grade of nickel ore feed."},
+  "S02": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.4; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "At year end, the Company held an 80% interest in each of the Angel Nickel, Hengjaya Nickel, Oracle Nickel and Ranger Nickel projects and the Hengjaya Mine, a 10% interest in the Huayue Nickel Cobalt HPAL project (HNC) and a 44% interest in the Excelsior Nickel HPAL project (ENC)."},
+  "S03": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.8; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "the Huayue Nickel Cobalt (HNC) Project produced 85,031 tonnes of nickel and 8,023 tonnes of cobalt in mixed hydroxide precipitate (MHP), outperforming nameplate capacity (60,000 tonnes of nickel per annum) by 42%."},
+  "S04": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.10; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "delivered another year of record production of 19.2 million wmt of nickel ore (15.1 million wmt of limonite and 4.1 million wmt of saprolite), and record sales of 9.9 million wmt under the existing Rencana Kerja dan Anggaran Biaya (RKAB) annual mining quota."},
+  "S05": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.5; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "Subsequent to the end of the year the Company received an increase in its RKAB quota for 2026 to 14.3 million wmt."},
+  "S06": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.3 Chairman's Letter; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "The anticipated commissioning of the ENC HPAL Project in the first half of 2026 will mark a significant milestone for Nickel Industries"},
+  "S07": {"url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "publisher": "Nickel Industries Ltd, Annual Report 2025 (ASX, p.4-5; read from PDF page image)", "published": "2026-02-23", "accessed": "2026-11-27", "language": "en", "quote": "At the end of 2025, Sphere Corp., a global key vendor supplying special alloys to aerospace company SpaceX was introduced as a strategic offtake partner at the ENC Project, acquiring a 10% interest in ENC"},
+  "S08": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser, not independently re-checked)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "NPI production at Hengjaya Nickel commenced in March 2019 ... nameplate capacity of 15kt pa"},
+  "S09": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "NPI production at Ranger Nickel commenced in May 2019 ... nameplate capacity of 15kt pa"},
+  "S10": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "NPI production at Angel Nickel commenced in January 2022 ... nameplate capacity of 36kt pa"},
+  "S11": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "NPI production at Oracle Nickel commenced in November 2022 ... nameplate capacity of 36kt pa"},
+  "S12": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "expected to produce 72,000 metric tons per annum of contained nickel equivalent"},
+  "S13": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "MHP production at HNC commenced in November 2021"},
+  "S14": {"url": "https://www.nickelindustries.com/operations/", "publisher": "Nickel Industries Ltd, operations page (undated; quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "production commenced in October 2012"},
+  "S15": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 652-653)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "建成华越湿法项目、华飞湿法项目、华科火法项目，收购擎天火法项目，合计具备 24.5 万吨镍金属量的镍中间品生产能力。"},
+  "S16": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 653-655)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "与淡水河谷印尼、福特汽车合作的年产 12 万吨镍金属量 Pomalaa 湿法项目已启动建设；与淡水河谷印尼合作的年产 6 万吨镍金属量 Sorowako 湿法项目前期工作有序推进。"},
+  "S17": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 545-548)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "华越、华飞两大湿法项目持续稳产超产，实现 MHP 年出货量 23.65 万吨，较上年同期增长 30%；年产 12 万吨镍金属量 Pomalaa 湿法项目按计划稳步推进，预计将于今年年底前建成；年产 6 万吨镍金属量 Sorowako 湿法项目前期工作有序开展；年产 4 万吨镍金属量华星火法项目开工建设"},
+  "S18": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 1410-1411)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "印尼区，稳步建设年产 12 万吨镍金属量 ... Pomalaa 湿法项目，确保年内建成投产；启动年产 6 万吨镍金属量 Sorowako 湿法项目建设"},
+  "S19": {"url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "publisher": "PT Vale Indonesia Tbk press release, FY2025 results (p.1; read from PDF page image)", "published": "2026-03-16", "accessed": "2026-11-27", "language": "en", "quote": "with full-year nickel in matte production rising to 72,027 metric tons"},
+  "S20": {"url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "publisher": "PT Vale Indonesia Tbk press release, FY2025 results (p.1 and p.3; read from PDF page image)", "published": "2026-03-16", "accessed": "2026-11-27", "language": "en", "quote": "saprolite ore sales reached 2,316,023 wet metric tons ... Bahodopi Block (in wmt) 1,400,245 617,519 - 2,017,764 - ... In July, the Company began nickel ore sales from Bahodopi"},
+  "S21": {"url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "publisher": "PT Vale Indonesia Tbk press release, FY2025 results (p.2; read from PDF page image)", "published": "2026-03-16", "accessed": "2026-11-27", "language": "en", "quote": "as sales from the Pomalaa block were still limited to bulk sampling activities. Full mining operations in Pomalaa are expected to commence in 2026."},
+  "S22": {"url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "publisher": "PT Vale Indonesia Tbk press release, FY2025 results (p.3; read from PDF page image)", "published": "2026-03-16", "accessed": "2026-11-27", "language": "en", "quote": "our mining project has now reached 60% progress, with several supporting facilities for initial operations successfully completed. These developments are aligned with the advancement of the HPAL project, which has achieved approximately 50% construction progress"},
+  "S23": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM Co. 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 496-500)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "联合全球产业合作伙伴以自主回收技术主导建成 15 万金吨/年镍钴中间品（MHP）产能（其中控股产能为 9 万金吨镍/年，参股产能为 6 万金吨镍/年）"},
+  "S24": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM Co. 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 561-563)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "其中印尼镍资源项目镍金属出货超 110,839 ... 吨（含参股产能），同比增长 114%"},
+  "S25": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM Co. 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 1626-1628)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年 8 月，印尼政府主权财富基金 Danantara 与公司签署加盟公司和印尼淡水河谷的合资项目（年 ... 产 6.6 万吨镍的电池原料合作项目）"},
+  "S26": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM Co. 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 1608-1612)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "MHP 镍年产能 15 万金吨 ... （控股 9万金吨镍/年、参股 6 万金吨镍/年），总量居全球前三；硫酸镍钴锰晶体年产能 3 万金属吨、 ... 三元前驱体年产能 5 万吨、电积镍年产能 3 万吨"},
+  "S27": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR Advanced Material 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 950-951)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "公司在印尼拥有镍冶炼产能约 20 万金吨，采用 ... OESBF+RKEF 双技术路线"},
+  "S28": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR Advanced Material 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 7684)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼基地红土镍矿冶炼年产 6 万金吨高冰镍项目尚未达到投产满 1 年的统计节点"},
+  "S29": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR Advanced Material 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 1059)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼莫罗瓦利基地二期镍冶炼产线（红土镍矿转低冰镍、低冰镍转高冰镍）逐条拉通投产"},
+  "S30": {"url": "https://www.eramet.com/en/news/eramet-reaction-to-the-initial-production-and-sales-volumes-granted-by-the-indonesian-authorities-to-its-joint-venture-pt-weda-bay-nickel/", "publisher": "Eramet press release, 11 Feb 2026 (quotes as returned by fetch tool summariser)", "published": "2026-02-11", "accessed": "2026-11-27", "language": "en", "quote": "an initial RKAB of 32 Mwmt granted for 2025 and revised upward to 42 Mwmt in July 2025 ... an annual production and sales (internal and external) volume of 12 Mwmt"},
+  "S31": {"url": "https://www.mysteel.net/news/5096756-flash-eramet-plans-to-produce-42-million-tonnes-of-nickel-ore-in-indonesia", "publisher": "Mysteel flash (quotes as returned by fetch tool summariser)", "published": "2025-08-27", "accessed": "2026-11-27", "language": "en", "quote": "bringing its total approved RKAB volume at IWIP to 42 million tonnes."},
+  "S32": {"url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "publisher": "Metalnomist (Argus-style trade article, April 2026; quotes as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "MBMA produced 7mn wet metric tonnes of saprolite and 14.7mn wet metric tonnes of limonite during the year."},
+  "S33": {"url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "publisher": "Metalnomist (April 2026; quotes as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "NPI production fell 10pc to 73,871t in nickel metal equivalent because of maintenance at the RKEF smelters."},
+  "S34": {"url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "publisher": "Metalnomist (April 2026; quotes as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "high-grade nickel matte output fell much more sharply, dropping 60pc to 19,998t in nickel metal equivalent."},
+  "S35": {"url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "publisher": "Metalnomist (April 2026; quotes as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "The PT ESG HPAL plant, operated with Green Eco-Manufacture, produced 25,994t of nickel in MHP in 2025."},
+  "S36": {"url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "publisher": "Metalnomist (April 2026; quotes as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "The Sulawesi Nickel Cobalt HPAL project is expected to start commissioning in the second half of this year."},
+  "S37": {"url": "https://www.mysteel.net/news/5112475-flash-antam-reports-4329-year-on-year-decline-in-ferronickel-production-for-q4-2025", "publisher": "Mysteel flash (quotes as returned by fetch tool summariser)", "published": "2026-02-04", "accessed": "2026-11-27", "language": "en", "quote": "During the fiscal year, ANTAM's total ferronickel production amounted to 16,064 tonnes."},
+  "S38": {"url": "https://pintarsaham.id/kinerja-antam-2025-produksi-dan-penjualan-bijih-nikel-serta-bauksit-capai-rekor-tertinggi/", "publisher": "PintarSaham (press summary of Antam 2025 operations; quotes as returned by fetch tool summariser)", "published": "2026-02-03", "accessed": "2026-11-27", "language": "id", "quote": "realisasi produksi bijih nikel mencapai 16,11 juta wet metric ton (wmt)"},
+  "S39": {"url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "publisher": "Indonesia Business Post, 26 Mar 2025 (quotes as returned by fetch tool summariser)", "published": "2025-03-26", "accessed": "2026-11-27", "language": "en", "quote": "the total installed capacity for ferronickel (FeNi) has now reached 120,000 tons per year."},
+  "S40": {"url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "publisher": "Indonesia Business Post, 26 Mar 2025 (quotes as returned by fetch tool summariser)", "published": "2025-03-26", "accessed": "2026-11-27", "language": "en", "quote": "increases the company's low-grade nickel refining capacity to 120,000 tons of Mixed Hydroxide Precipitate (MHP) per year."},
+  "S41": {"url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "publisher": "Indonesia Business Post, 26 Mar 2025 (quotes as returned by fetch tool summariser)", "published": "2025-03-26", "accessed": "2026-11-27", "language": "en", "quote": "sales of 126,344 tons of FeNi, 63,431 tons of MHP, and 38,622 tons of Nickel Sulfate (NiSO4) in 2024 ... a total sales volume of 23.75 million wet metric tons (wmt) of nickel ore"},
+  "S42": {"url": "https://finance.yahoo.com/markets/commodities/articles/project-launches-ramp-ups-set-170121762.html", "publisher": "GlobalData / Mining Technology via Yahoo Finance, 24 Mar 2026 (quotes as returned by fetch tool summariser)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "en", "quote": "The PT Halmahera Persada Lygend Project suspended operations in 2024"},
+  "S43": {"url": "https://finance.yahoo.com/markets/commodities/articles/project-launches-ramp-ups-set-170121762.html", "publisher": "GlobalData / Mining Technology via Yahoo Finance, 24 Mar 2026 (summariser paraphrase; table row)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "IGP Pomalaa: Zhejiang Huayou Cobalt, PT Vale Indonesia, Ford Motor Company; under construction; operations scheduled for Q4 2026. Huafei Cobalt-Nickel (Zhejiang Huayou): production began Q1 2024; ramp-up ongoing."},
+  "S44": {"url": "https://finance.yahoo.com/markets/commodities/articles/project-launches-ramp-ups-set-170121762.html", "publisher": "GlobalData / Mining Technology via Yahoo Finance, 24 Mar 2026 (quotes as returned by fetch tool summariser)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "en", "quote": "which are planned to start in Q4 2026 and Q2 2027, respectively"},
+  "S45": {"url": "https://www.mysteel.net/news/5109548-flash-gems-mhp-shipments-exceed-110-000-tonnes-in-2025", "publisher": "Mysteel flash, 8 Jan 2026 (quotes as returned by fetch tool summariser)", "published": "2026-01-08", "accessed": "2026-11-27", "language": "en", "quote": "exceed 110,000 tonnes in Ni. content"},
+  "S46": {"url": "https://projectblue.com/blue/news-analysis/1384/tailings-constraints-at-indonesian-hpals-threaten-growing-nickel-and-cobalt-capacity", "publisher": "Project Blue news analysis (page not readable in full; search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The plant's nameplate capacity is 65ktpy Ni and 6.5ktpy Co-in-MHP, 30ktpy Ni-in-nickel cathode, and 25ktpy Ni-in-nickel sulphate. [PT QMB New Energy Materials] ... reportedly reduced output due to limited tailings storage capacity at the site."},
+  "S47": {"url": "https://market.bisnis.com/read/20260701/192/1984517/harita-nickel-nckl-kebut-tiga-proyek-strategis-di-pulau-obi", "publisher": "Bisnis.com, 1 Jul 2026 (HTTP 403 on fetch; search-result text only)", "published": "2026-07-01", "accessed": "2026-11-27", "language": "id", "tier": "reported", "snippet": "HJF runs eight production lines with installed capacity of 95,000 tons of nickel per year; KPS will add ferronickel capacity (Obi total 305,000 tons per year by end of 2026); CKM quicklime to feed HPAL at PT Halmahera Persada Lygend and Obi Nickel Cobalt."},
+  "S48": {"url": "https://news.metal.com/newscontent/101442367/indonesian-nickel-smelter-obtains-financing-of-us-625-million-the-first-phase-of-nickel-production-capacity-is-expected-to-reach-36000-tons", "publisher": "SMM (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The smelter, located on Obi Island in eastern Indonesia, has an annual production capacity of 36000 tons of nickel and 4400 tons of cobalt in the first phase. [Halmahera Persada Lygend]"},
+  "S49": {"url": "https://projectblue.com/blue/news-analysis/281/phase-two-of-lygend-smelter-commissioned-in-indonesia", "publisher": "Project Blue (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Lygend phase two commissioned; reported as adding an additional 18ktpy Ni capacity. (SMM: phase two put into production on 17 January 2023.)"},
+  "S50": {"url": "https://argusmedia.com/en/news-and-insights/latest-market-news/2483610-huayou-vale-commit-to-indonesian-huali-mhp-project", "publisher": "Argus Media (search-result text only; paywalled)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Argus reports that the second Huafei project in Weda Bay has a capacity of 120,000 t/yr nickel metal equivalent and 15,000 t/yr cobalt metal equivalent. (Project Blue: Huayou's two Indonesian HPALs, in IMIP and IWIP, combined 180ktpy Ni-in-MHP.)"},
+  "S51": {"url": "https://projectblue.com/blue/news-analysis/1169/jiangsu-delong&", "publisher": "Project Blue news analysis on Jiangsu Delong Indonesian assets (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Project Blue gives GNI a capacity of 180ktpy Ni-in-NPI; OSS 240ktpy Ni-in-NPI (fully owned by Xiamen Xiangyu); VDNI a JV with CFHI at 600ktpy NPI. Delong's Indonesian stakes (VDNI, OSS, Nadesico, GNI) taken over by Chinese partners except GNI; GNI close to shutting down (early 2025 reports)."},
+  "S52": {"url": "https://news.metal.com/en/newscontent/104039623-smm-nickel-market-flash-harita-nickel-h1-revenue-growth-volume-driven-as-new-mine-and-rkef-lines-ramp-up", "publisher": "SMM nickel market flash, Harita Nickel H1 2026 (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "CFO: ore sales up YoY, helped by the new PT Gane Tambang Sentosa (GTS) mine running since Q3 2025 and added lines at the KPS pyrometallurgy plant; ferronickel sales rose notably on higher KPS RKEF output; HPAL (MHP) sales stable."},
+  "S53": {"url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/1/indonesia-finalizing-reduced-nickel-ore-output-target-for-2026-97045526", "publisher": "S&P Global Market Intelligence, Jan 2026 (search-result text only)", "published": "2026-01-01", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Tsingshan holds 51.3% of Weda Bay, Antam holds 10%, and Eramet holds 38.7%."},
+  "S54": {"url": "https://www.thejakartapost.com/business/2025/02/25/merdeka-battery-to-build-1-8b-hpal-nickel-processing-plant", "publisher": "Jakarta Post, 25 Feb 2025 (search-result text only)", "published": "2025-02-25", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The facility, to be developed at Indonesia Morowali Industrial Park (IMIP) in Central Sulawesi and operated by PT Sulawesi Nickel Cobalt (SLNC), will have an annual production capacity of 90,000 tonnes of mixed hydroxide precipitate (MHP)."},
+  "S55": {"url": "https://investortrust.id/market/98472/usai-cetak-kenaikan-laba-34-di-2025-merdeka-battery-mbma-ungkap-target-pesat-tahun-ini", "publisher": "InvestorTrust.id, MBMA FY2025 results (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "id", "tier": "reported", "snippet": "SLNC HPAL plant, 90,000 tonnes/year, was 83% complete at end-2025, with the FPP at 67%; both AIM roaster/acid lines running stably in Q4 2025."},
+  "S56": {"url": "https://www.indonesiaminer.com/news/detail/mbma-reports-69-million-wmt-nickel-production-amid-strong-sales-growth-in-h1-2025", "publisher": "Indonesia Miner (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The PT ESG HPAL plant has 30,000 tonnes/year of nickel in MHP capacity and sold 9,465 tonnes in H1 2025."},
+  "S57": {"url": "https://bcasekuritas.co.id/en/latest-news/news/kolaborasi-strategis-antam-pln-dorong-hilirisasi-mineral", "publisher": "BCA Sekuritas (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "PLN provides an electricity supply of 150 Megavolt Ampere (MVA) for the ANTAM Ferronickel Smelter located in Pomalaa District."},
+  "S58": {"url": "https://mmta.co.uk/?p=25191", "publisher": "MMTA / CRU-derived article (search-result text only)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Vale plans to build a green ferronickel smelter complex using rotary kiln-electric furnace (RKEF) technology, designed to produce 73,000 tons of ferronickel annually. [Also: 53 operating RKEF lines in IMIP; IMIP nameplate 4.2 Mt/y NPI, 90 kt/y MHP.]"},
+  "S59": {"url": "https://news.metal.com/newscontent/103929952-SMM-Nickel-Market-Flash-Harita-Nickel-Reports-Q1-2026-Revenue-of-Rp681T-418M-Full-Year-2025-at-Rp2963T", "publisher": "SMM nickel market flash, Harita Nickel FY2025/Q1 2026 (quote as returned by fetch tool summariser)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "all production lines — nickel ore mining, RKEF pyrometallurgy, and HPAL hydrometallurgy producing MHP and nickel sulphate — running on target"},
+  "S60": {"url": "https://www.mysteel.net/news/5112472-flash-merdeka-battery-materials-reports-249-year-on-year-nickel-production-growth-in-q4-2025", "publisher": "Mysteel flash, 4 Feb 2026 (quotes as returned by fetch tool summariser)", "published": "2026-02-04", "accessed": "2026-11-27", "language": "en", "quote": "NPI production decreased by 10% year-on-year to 73,871 tonnes ... two of its three RKEF production lines"},
+  "S61": {"url": "https://www.mysteel.net/news/5142331-flash-indonesia-imip-confirms-nickel-smelter-production-cuts-as-el-nio-tightens-water-supply", "publisher": "Mysteel flash, Sep 2026 (quotes as returned by fetch tool summariser)", "published": "2026-09-22", "accessed": "2026-11-27", "language": "en", "quote": "The park's installed nickel smelting capacity is about 4.2 million mt/year, equivalent to about 350,000 mt/month."}
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "nickel-industries-hengjaya-mine-indonesia",
+   "fields": {
+    "asset_name": "Hengjaya Mine", "step": "mining", "commodity": "nickel", "product": "nickel laterite ore (limonite and saprolite)", "asset_type": "laterite open-pit mine", "feedstock": null,
+    "operator": "Nickel Industries (Hengjaya Mine, 80%)", "parent_company": "Nickel Industries Ltd", "jv_partners": "Nickel Industries 80%; 20% holder not named in source",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2012,
+    "capacity": 14300000, "capacity_unit": "t ore", "capacity_ref_year": 2026,
+    "production": 19156483, "production_unit": "t ore", "production_year": 2025,
+    "offtakers": "IMIP RKEF smelters and Indonesian HPAL plants (limonite)", "end_market": "stainless steel and battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "source_date": "2026-11-27", "source_published_date": "2026-02-23"
+   },
+   "evidence": {"status": ["S04", "S14"], "capacity": ["S05"], "production": ["S04"]},
+   "confidence": 0.8,
+   "notes": "Production 19,156,483 wmt mined in 2025 (15,085,829 limonite + 4,070,654 saprolite; table p.10) vs 9,902,504 wmt sold - production exceeds sales (stockpile / captive limonite). Capacity field = RKAB 2026 approved quota 14.3 Mwmt (a permit quota, not a nameplate); the 2025 RKAB value is not stated in the sources opened. start_year 2012 per NIC website (S14, summariser quote). Contained-Ni grade 1.46% saprolite / 1.12% limonite (AR table) - no *_norm set because ore is wmt. Province inferred from IMIP proximity (AR says mine is in close proximity to IMIP)."
+  },
+  {
+   "action": "add",
+   "id": "nickel-industries-hengjaya-nickel-indonesia",
+   "fields": {
+    "asset_name": "Hengjaya Nickel RKEF (HNI)", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Hengjaya Nickel Industry (Nickel Industries 80%)", "parent_company": "Nickel Industries Ltd", "jv_partners": "Tsingshan group JV (partner share 20%, per AR 'JVs with Tsingshan' in press)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2019,
+    "capacity": 15000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 15000, "norm_unit": "t Ni",
+    "offtakers": "Tsingshan group (stainless steel)", "end_market": "stainless steel",
+    "source_url": "https://www.nickelindustries.com/operations/", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S02", "S08"], "capacity": ["S08"]},
+   "confidence": 0.5,
+   "notes": "Two RKEF lines (website). Nameplate 15 kt pa per undated NIC website (summariser quote; basis 'kt pa' not stated as Ni vs NPI). CONFLICT: NIC group RKEF output in 2025 was 124,966 t Ni (S01) vs sum of website nameplates 15+15+36+36 = 102 kt, so the website figures look stale/understated; treat as lower bound. Per-plant 2025 output not disclosed in text (AR p.6 chart HNI/RNI/ANI/ONI has no labels). Group 2025 RKEF output 124,966 t Ni from 1,055,658 t NPI at 11.8% (AR p.6) is NOT allocated here. Located in IMIP per AR."
+  },
+  {
+   "action": "add",
+   "id": "nickel-industries-ranger-nickel-indonesia",
+   "fields": {
+    "asset_name": "Ranger Nickel RKEF (RNI)", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Ranger Nickel Industry (Nickel Industries 80%)", "parent_company": "Nickel Industries Ltd", "jv_partners": "Tsingshan group JV (20%)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2019,
+    "capacity": 15000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 15000, "norm_unit": "t Ni",
+    "offtakers": "Tsingshan group (stainless steel)", "end_market": "stainless steel",
+    "source_url": "https://www.nickelindustries.com/operations/", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S02", "S09"], "capacity": ["S09"]},
+   "confidence": 0.5,
+   "notes": "Two RKEF lines (website). Same caveat as Hengjaya Nickel: website nameplate understated relative to group output; per-plant output not disclosed. In IMIP per AR."
+  },
+  {
+   "action": "add",
+   "id": "nickel-industries-oracle-nickel-indonesia",
+   "fields": {
+    "asset_name": "Oracle Nickel RKEF (ONI)", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Oracle Nickel Industry (Nickel Industries 80%)", "parent_company": "Nickel Industries Ltd", "jv_partners": "Tsingshan group JV (20%)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2022,
+    "capacity": 36000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 36000, "norm_unit": "t Ni",
+    "offtakers": "Tsingshan group (stainless steel)", "end_market": "stainless steel",
+    "source_url": "https://www.nickelindustries.com/operations/", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S02", "S11"], "capacity": ["S11"]},
+   "confidence": 0.5,
+   "notes": "Four RKEF lines (website; third-party CRU snippet also says four lines). Same stale-nameplate caveat; per-plant output not disclosed. In IMIP per AR."
+  },
+  {
+   "action": "add",
+   "id": "nickel-industries-angel-nickel-indonesia",
+   "fields": {
+    "asset_name": "Angel Nickel RKEF (ANI)", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Angel Nickel Industry (Nickel Industries 80%)", "parent_company": "Nickel Industries Ltd", "jv_partners": "Tsingshan group JV (20%)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2022,
+    "capacity": 36000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 36000, "norm_unit": "t Ni",
+    "offtakers": "Tsingshan group (stainless steel)", "end_market": "stainless steel",
+    "source_url": "https://www.nickelindustries.com/operations/", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S02", "S10"], "capacity": ["S10"]},
+   "confidence": 0.5,
+   "notes": "Four RKEF lines (website). In IWIP (Weda Bay, Halmahera, North Maluku) per AR. Same stale-nameplate caveat: group 2025 RKEF output 124,966 t Ni (S01) exceeds sum of website nameplates (102 kt)."
+  },
+  {
+   "action": "add",
+   "id": "excelsior-nickel-cobalt-enc-hpal-indonesia",
+   "fields": {
+    "asset_name": "Excelsior Nickel Cobalt (ENC) HPAL and refinery", "step": "refining", "commodity": "nickel", "product": "MHP, nickel sulphate and cathode (integrated refinery)", "asset_type": "HPAL", "feedstock": "limonite laterite ore (Hengjaya Mine / Sampala)",
+    "operator": "PT Excelsior Nickel Cobalt", "parent_company": "Shanghai Decent / Nickel Industries", "jv_partners": "Nickel Industries 44% (46% from 31 Mar 2026); Shanghai Decent (largest holder pre-transfer); Sphere Corp 10%",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "under_construction", "announced_year": null, "start_year": null,
+    "capacity": 72000, "capacity_unit": "t Ni", "capacity_ref_year": 2026, "capacity_norm": 72000, "norm_unit": "t Ni",
+    "offtakers": "Sphere Corp (strategic offtake partner)", "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "source_date": "2026-11-27", "source_published_date": "2026-02-23"
+   },
+   "evidence": {"status": ["S06"], "capacity": ["S12"]},
+   "confidence": 0.6,
+   "notes": "AR 2025: staged commissioning could commence but commercial commissioning delayed pending ENC's IUI licence; first-half-2026 commissioning anticipated (S06); Sphere Corp 10% (S07). Capacity 72,000 t/yr contained nickel equivalent per NIC website (S12, summariser quote) - a search-result snippet (S&P/Argus, not opened) mentions 144 kt/yr in two phases, so phase 2 may double this; unresolved. Location IMIP per search snippet (not confirmed in opened source). 2025 production nil (not commissioned)."
+  },
+  {
+   "action": "add",
+   "id": "huayue-nickel-cobalt-hnc-hpal-indonesia",
+   "fields": {
+    "asset_name": "Huayue Nickel Cobalt (HNC) HPAL", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT Huayue Nickel Cobalt", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": "Huayou 60% (from Dec 2025; 57% before); Nickel Industries 10%; Tsingshan group (per press)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2021,
+    "capacity": 60000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2025, "capacity_norm": 60000, "norm_unit": "t Ni",
+    "installed_capacity": 60000, "installed_as_of": "2025-12-31",
+    "production": 85031, "production_unit": "t Ni in MHP", "production_year": 2025, "production_norm": 85031,
+    "offtakers": "Huayou (CAM/pCAM chain), Nickel Industries 10% attributable", "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20260223/pdf/06wm4x116x1lxg.pdf", "source_date": "2026-11-27", "source_published_date": "2026-02-23"
+   },
+   "evidence": {"status": ["S03", "S13"], "capacity": ["S03"], "installed_capacity": ["S03"], "production": ["S03"]},
+   "confidence": 0.85,
+   "notes": "100% basis: 85,031 t Ni and 8,023 t Co in MHP in 2025, 42% above 60 kt nameplate (S03). NIC 10% attributable = 8,503 t Ni. Huayou stake 57%->60% Dec 2025 from Huayou AR 2025 stake-change table (603799_.txt line 10562). Conflict: one 2023 industry-press snippet (Industrial Info) said capacity being raised to 120 kt/yr MHP; not confirmed by NIC (60 kt nameplate) or Project Blue (Huayue + Huafei = 180 kt) so ignored. Location IMIP inferred from CRU snippet. Part of Huayou's 23.65 万 t combined MHP shipments with Huafei (S17)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "asset_name": "Huafei Nickel Cobalt HPAL (IWIP)", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT Huafei Nickel Cobalt", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": "Huayou 51%; Tsingshan group and EVE Energy (per press snippets, unverified)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2024,
+    "capacity": 120000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2025, "capacity_norm": 120000, "norm_unit": "t Ni",
+    "offtakers": "Huayou (CAM/pCAM chain), LG/others", "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S17", "S43"], "capacity": ["S50"]},
+   "confidence": 0.5,
+   "notes": "Huayou AR: Huayue and Huafei 'continued stable above-design output', combined MHP shipments 23.65 万 t, +30% (S17; unit presumably Ni but not stated). Huafei-only output NOT disclosed (do not subtract HNC to derive). Capacity 120 kt Ni in MHP from Argus snippet (S50, reported tier) consistent with Project Blue's 180 kt combined for Huayou's two HPALs (60+120). Start: GlobalData says production began Q1 2024 (S43, summariser paraphrase); Bisnis snippet says operating since June 2023 - conflict, 2024 used. Huayou controls 51% (AR consolidation table, 603799_.txt line 10457)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huake-nickel-indonesia-pyro-indonesia",
+   "fields": {
+    "asset_name": "Huake Nickel Indonesia pyrometallurgical project (华科火法)", "step": "refining", "commodity": "nickel", "product": "nickel intermediate (pyrometallurgical; product not specified)", "asset_type": "pyrometallurgical smelter", "feedstock": "laterite ore",
+    "operator": "Huake Nickel Indonesia (华科镍业印尼有限公司)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S15"]},
+   "confidence": 0.4,
+   "notes": "Huayou AR: 'built' Huayue, Huafei HPAL and Huake pyro projects and 'acquired' the Qingtian pyro project; together 24.5 万 t Ni of nickel intermediates capacity (S15). Individual capacity for Huake/Qingtian not disclosed (24.5 - 6 - 12 = 6.5 万 t would be the two pyro assets together, but Huafei's 12 万 comes from a snippet so no split made). Huake has a 10-year tax holiday from start of commercial production (AR tax note, line 6337-6338) - start year not stated."
+  },
+  {
+   "action": "add",
+   "id": "huayou-qingtian-pyro-indonesia",
+   "fields": {
+    "asset_name": "Qingtian pyrometallurgical project (擎天火法, acquired by Huayou)", "step": "refining", "commodity": "nickel", "product": "nickel intermediate (pyrometallurgical; product not specified)", "asset_type": "pyrometallurgical smelter", "feedstock": "laterite ore",
+    "operator": "not named in source", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S15"]},
+   "confidence": 0.3,
+   "notes": "Existence/ownership only: Huayou AR says it acquired the 擎天 pyrometallurgical project (S15). Name/location/capacity unknown; may be an existing Tsingshan-system smelter. Possible duplicate of a row another task adds from the Huayou filing (SC105?) - lead to dedupe."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huaxing-pyro-indonesia",
+   "fields": {
+    "asset_name": "Huaxing pyrometallurgical project (华星火法)", "step": "refining", "commodity": "nickel", "product": "nickel intermediate (pyrometallurgical; product not specified)", "asset_type": "pyrometallurgical smelter", "feedstock": "laterite ore",
+    "operator": "Huayou Indonesia (entity not named)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "under_construction", "announced_year": null, "start_year": null,
+    "capacity": 40000, "capacity_unit": "t Ni", "capacity_ref_year": 2026, "capacity_norm": 40000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S17"], "capacity": ["S17"]},
+   "confidence": 0.6,
+   "notes": "Huayou AR: annual 4 万 t nickel-metal Huaxing pyrometallurgical project 'started construction' (S17). capacity_ref_year 2026 = publication-year fallback (no completion date stated). The AR construction-in-progress table (lines ~7866-7899) also lists a 4 万 t nickel-metal project at 612,214,10x RMB - not opened further."
+  },
+  {
+   "action": "add",
+   "id": "pt-kni-pomalaa-hpal-indonesia",
+   "fields": {
+    "asset_name": "IGP Pomalaa HPAL (Huayou-Vale-Ford)", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore (Vale Pomalaa block)",
+    "operator": "PT KNI", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": "PT Vale Indonesia; Ford Motor Company (Huayou ~73.2% per press snippet)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "geo_precision": "none",
+    "status": "under_construction", "announced_year": 2023, "start_year": null,
+    "capacity": 120000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2026, "capacity_norm": 120000, "norm_unit": "t Ni",
+    "offtakers": "Ford, Huayou", "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S22", "S16"], "capacity": ["S16", "S17"]},
+   "confidence": 0.8,
+   "notes": "Capacity 120,000 t/yr nickel metal (Huayou AR, S16/S17); Huayou expects completion by end-2026 (S17, S18); Vale PT press release: HPAL ~50% construction progress, four autoclaves arrived, first mechanical completion targeted 3Q26 (S22). GlobalData: operations scheduled Q4 2026 (S43). announced_year 2023 from Argus/Vale-Huayou deal coverage (not opened) - low weight. Possible overlap with the GEM-Vale-Danantara project row (different JV; location of that project not stated)."
+  },
+  {
+   "action": "add",
+   "id": "pt-vale-huayou-sorowako-hpal-indonesia",
+   "fields": {
+    "asset_name": "Sorowako Limonite HPAL (Vale-Huayou)", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore (Sorowako)",
+    "operator": "PT Vale Indonesia / Huayou JV", "parent_company": "Zhejiang Huayou Cobalt; PT Vale Indonesia", "jv_partners": "PT Vale Indonesia; Zhejiang Huayou Cobalt",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "South Sulawesi", "geo_precision": "none",
+    "status": "announced", "announced_year": null, "start_year": null,
+    "capacity": 60000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2027, "capacity_norm": 60000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["S18", "S44"], "capacity": ["S16", "S18"]},
+   "confidence": 0.7,
+   "notes": "Huayou AR 2025: 60 kt/yr Ni Sorowako HPAL at preparatory stage, construction to be started in 2026 (S16, S18). GlobalData: planned start Q2 2027 (S44; summariser quote). capacity_ref_year 2027 from that planned start. Province: Sorowako is in Luwu Timur, South Sulawesi (Vale press release address, S19-source doc)."
+  },
+  {
+   "action": "add",
+   "id": "pt-vale-indonesia-sorowako-matte-indonesia",
+   "fields": {
+    "asset_name": "Sorowako nickel-in-matte smelter", "step": "refining", "commodity": "nickel", "product": "nickel matte", "asset_type": "matte smelter (furnaces)", "feedstock": "saprolite ore (Sorowako)",
+    "operator": "PT Vale Indonesia Tbk", "parent_company": "Vale S.A.; MIND ID", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "South Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 72027, "production_unit": "t Ni in matte", "production_year": 2025, "production_norm": 72027,
+    "offtakers": null, "end_market": "battery and stainless",
+    "source_url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "source_date": "2026-11-27", "source_published_date": "2026-03-16"
+   },
+   "evidence": {"status": ["S19"], "production": ["S19"]},
+   "confidence": 0.85,
+   "notes": "Production 72,027 t Ni in matte 2025 (71,311 t 2024); deliveries 73,093 t; Furnace 3 rebuild began Nov 2025, target completion May 2026 (PR p.1). Nameplate NOT located in opened sources (search snippets conflict: ~70 kt current vs 90 kt target from a 2017 article) so capacity left null; Vale briefing book (saladeimprensa.vale.com ptvi-briefing-book Feb 2023) is the likely source but was not opened. The PR does not name buyers."
+  },
+  {
+   "action": "add",
+   "id": "pt-vale-indonesia-bahodopi-mine-indonesia",
+   "fields": {
+    "asset_name": "Bahodopi block (saprolite ore)", "step": "mining", "commodity": "nickel", "product": "saprolite nickel ore", "asset_type": "laterite open-pit mine", "feedstock": null,
+    "operator": "PT Vale Indonesia Tbk", "parent_company": "Vale S.A.; MIND ID", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2025,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 2017764, "production_unit": "t ore", "production_year": 2025,
+    "end_market": "stainless steel and battery",
+    "source_url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "source_date": "2026-11-27", "source_published_date": "2026-03-16"
+   },
+   "evidence": {"status": ["S20"], "production": ["S20"]},
+   "confidence": 0.8,
+   "notes": "Figure is saprolite ORE SALES (wmt), used as production proxy: 2,017,764 wmt in 2025 (1,400,245 in 4Q25, 617,519 in 3Q25; first sales July 2025). Search snippets (SMM/Jakarta Post, not opened) say the 2026 RKAB for Bahodopi is 2.31 Mt, ~74% below Vale's target; not recorded as capacity. Bahodopi is in Morowali (Central Sulawesi) - province from background knowledge."
+  },
+  {
+   "action": "add",
+   "id": "pt-vale-indonesia-pomalaa-mine-indonesia",
+   "fields": {
+    "asset_name": "Pomalaa block (limonite/saprolite ore, planned HPAL feed)", "step": "mining", "commodity": "nickel", "product": "nickel laterite ore", "asset_type": "laterite open-pit mine", "feedstock": null,
+    "operator": "PT Vale Indonesia Tbk", "parent_company": "Vale S.A.; MIND ID", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "geo_precision": "none",
+    "status": "under_construction", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 298259, "production_unit": "t ore", "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://vale.com/documents/d/guest/solid-2025-results-reflecting-resilience-in-navigating-dynamic-market-environment-reinforcing-foundation-for-sustainable-long-term-growth", "source_date": "2026-11-27", "source_published_date": "2026-03-16"
+   },
+   "evidence": {"status": ["S21", "S22"], "production": ["S20", "S21"]},
+   "confidence": 0.75,
+   "notes": "298,259 wmt ore sales 2025 were bulk-sampling volumes only; full mining expected 2026; mining project 60% complete (S22). Feeds the Pomalaa HPAL (pt-kni-pomalaa-hpal-indonesia). Province from background knowledge (Pomalaa, Kolaka)."
+  },
+  {
+   "action": "add",
+   "id": "pt-vale-indonesia-bahodopi-rkef-indonesia",
+   "fields": {
+    "asset_name": "Bahodopi RKEF ferronickel smelter (Vale-Tisco-Xinhai)", "step": "refining", "commodity": "nickel", "product": "ferronickel", "asset_type": "RKEF smelter", "feedstock": "saprolite ore (Bahodopi block)",
+    "operator": "PT Vale Indonesia (JV)", "parent_company": "Vale S.A.; MIND ID", "jv_partners": "Taiyuan Iron & Steel (Tisco); Shandong Xinhai Technology (per Wikipedia/IMIP page, unverified)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "announced", "announced_year": 2023, "start_year": null,
+    "capacity": 73000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2026, "capacity_norm": 73000, "norm_unit": "t Ni",
+    "end_market": "stainless steel",
+    "source_url": "https://mmta.co.uk/?p=25191", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S58"], "capacity": ["S58"]},
+   "confidence": 0.3,
+   "notes": "Snippet-only. 'Designed to produce 73,000 tons of ferronickel annually' (basis - product tons vs contained Ni - not stated; a Vale representative quoted 73-80 kt). Construction status not verified; status 'announced' is conservative. Vale PR (S19) does not mention this smelter. capacity_ref_year 2026 is a guess-free fallback (no date in snippet) - treat as undated."
+  },
+  {
+   "action": "add",
+   "id": "pt-weda-bay-nickel-mine-indonesia",
+   "fields": {
+    "asset_name": "Weda Bay Nickel mine", "step": "mining", "commodity": "nickel", "product": "saprolite and limonite nickel ore", "asset_type": "laterite open-pit mine", "feedstock": null,
+    "operator": "PT Weda Bay Nickel", "parent_company": "Eramet / Tsingshan", "jv_partners": "Tsingshan 51.3%; Eramet 38.7%; Antam 10% (S&P snippet)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2019,
+    "capacity": 42000000, "capacity_unit": "t ore", "capacity_ref_year": 2025,
+    "offtakers": "IWIP smelters (Tsingshan, Huayou, Nickel Industries Angel Nickel and others)", "end_market": "stainless steel and battery",
+    "source_url": "https://www.eramet.com/en/news/eramet-reaction-to-the-initial-production-and-sales-volumes-granted-by-the-indonesian-authorities-to-its-joint-venture-pt-weda-bay-nickel/", "source_date": "2026-11-27", "source_published_date": "2026-02-11"
+   },
+   "evidence": {"status": ["S30", "S31"], "capacity": ["S30", "S31"]},
+   "confidence": 0.6,
+   "notes": "Capacity field = 2025 RKAB approved volume (32 Mwmt initial, revised to 42 Mwmt in July 2025); it is a permit quota not a nameplate. 2026: initial RKAB 12 Mwmt, revision (>100 Mwmt per Eramet estimate in same PR) requested. FY2025 actual ore production/sales NOT found: Eramet FY2025 PR/presentation (eramet.com 2026-02-18/19 PDFs) not opened; H1 2025 external ore sales 11.0 Mwmt (SMM snippet); 2024 ore sold 30.3 Mwmt (search snippet). Start 2019 from Wikipedia (mine opened Oct 2019), unverified. Ownership from S&P snippet (S53), reported tier."
+  },
+  {
+   "action": "add",
+   "id": "pt-qmb-new-energy-materials-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT QMB New Energy Materials HPAL (青美邦)", "step": "refining", "commodity": "nickel", "product": "MHP, nickel sulphate, nickel cathode", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT QMB New Energy Materials", "parent_company": "GEM Co., Ltd.", "jv_partners": "Jingmen GEM (63%); Guangdong Brunp (CATL); Tsingshan/IMIP partners per press",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": 65000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2025, "capacity_norm": 65000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "https://projectblue.com/blue/news-analysis/1384/tailings-constraints-at-indonesian-hpals-threaten-growing-nickel-and-cobalt-capacity", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S26", "S45"], "capacity": ["S46"]},
+   "confidence": 0.5,
+   "notes": "Capacity 65 ktpy Ni + 6.5 ktpy Co in MHP (Project Blue, search snippet only, reported tier) plus downstream 30 ktpy Ni cathode and 25 ktpy Ni sulphate. GEM AR: group MHP nickel capacity 15 万 t/yr (9 万 controlled + 6 万 equity-participating), nickel sulphate crystals 3 万 t, pCAM 5 万 t, electrowon nickel 3 万 t, in a bonded park (S23, S26); GEM Indonesian-project Ni shipments >110,839 t in 2025 incl. participating capacity (S24) and 'MHP >110,000 t Ni' (S45). GEM's 150 kt includes QMB (65 kt) and other plants (ESG? the PT ESG plant is MBMA's, 30 kt) - allocation of the 150 kt not resolved, so no plant-level production given. QMB production curtailed by tailings limits until Q1 2026 (snippet); GlobalData says a new QMB HPAL is planned Q4 2026 (S44) - possibly a second line, not added. QMB sits in IMIP (IMIP press release title in search results)."
+  },
+  {
+   "action": "add",
+   "id": "gem-vale-danantara-igip-indonesia",
+   "fields": {
+    "asset_name": "GEM-Vale-Danantara (IGIP) battery nickel raw material project", "step": "refining", "commodity": "nickel", "product": "battery-grade nickel raw material (HPAL/MHP route)", "asset_type": "HPAL", "feedstock": "laterite ore",
+    "operator": "GEM / PT Vale Indonesia / Danantara JV (entity not named)", "parent_company": "GEM Co., Ltd.", "jv_partners": "Danantara; PT Vale Indonesia; Ecopro (per GEM AR); GEM",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "announced", "announced_year": 2025, "start_year": null,
+    "capacity": 66000, "capacity_unit": "t Ni", "capacity_ref_year": 2026, "capacity_norm": 66000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S25"], "capacity": ["S25"]},
+   "confidence": 0.5,
+   "notes": "GEM AR: August 2025 agreement with Danantara on a JV with PT Vale (6.6 万 t/yr nickel battery-raw-material project) (S25); GEM also calls the Indonesia International Green Industrial Park (IGIP) the world's first zero-carbon HPAL project (AR line ~1644). Location and technology link between IGIP and this JV not stated explicitly - may be the same site as the Pomalaa/Sorowako work (Vale) - lead to dedupe. capacity_ref_year 2026 = AR publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "pt-esg-new-energy-material-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT ESG New Energy Material HPAL (MBMA / Green Eco-Manufacture)", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT ESG New Energy Material (operated with Green Eco-Manufacture)", "parent_company": "Merdeka Battery Materials (MBMA)", "jv_partners": "Green Eco-Manufacture (GEM group)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": 30000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2025, "capacity_norm": 30000, "norm_unit": "t Ni",
+    "production": 25994, "production_unit": "t Ni in MHP", "production_year": 2025, "production_norm": 25994,
+    "end_market": "battery",
+    "source_url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S35"], "capacity": ["S56"], "production": ["S35"]},
+   "confidence": 0.6,
+   "notes": "2025 production 25,994 t Ni in MHP (S35, summariser quote); MBMA 2026 target 27-30 kt MHP from PT ESG (Mysteel, search text). Capacity 30 kt from Indonesia Miner snippet (S56, reported tier). Ownership split and exact site not found; no overlap with QMB assumed but GEM's 'controlled' 9 万 t may include ESG - unresolved."
+  },
+  {
+   "action": "add",
+   "id": "pt-sulawesi-nickel-cobalt-slnc-hpal-indonesia",
+   "fields": {
+    "asset_name": "Sulawesi Nickel Cobalt (SLNC) HPAL (MBMA, IMIP)", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT Sulawesi Nickel Cobalt", "parent_company": "Merdeka Battery Materials (MBMA)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "under_construction", "announced_year": 2025, "start_year": null,
+    "capacity": 90000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2026, "capacity_norm": 90000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S36", "S55"], "capacity": ["S54", "S55"]},
+   "confidence": 0.5,
+   "notes": "Commissioning expected 2H 2026 (S36); 83% complete at end-2025 (S55 snippet). Capacity 90,000 t/yr: Jakarta Post/Merdeka release says '90,000 tonnes of MHP' (product tonnes; S54) whereas MBMA/trade press say 90 kt nickel in MHP (S55, S36 text 'nickel in MHP') - treated as Ni, basis unresolved. Location IMIP per S54."
+  },
+  {
+   "action": "add",
+   "id": "merdeka-battery-materials-zhn-rkef-indonesia",
+   "fields": {
+    "asset_name": "MBMA RKEF NPI lines (ZHN, IMIP)", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "MBMA RKEF subsidiary (PT Zhao Hui Nickel per task brief; not named in opened sources)", "parent_company": "Merdeka Battery Materials (MBMA)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 73871, "production_unit": "t NPI Ni", "production_year": 2025, "production_norm": 73871,
+    "end_market": "stainless steel",
+    "source_url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S33", "S60"], "production": ["S33", "S60"]},
+   "confidence": 0.55,
+   "notes": "NPI output 73,871 t Ni in 2025 (-10%) due to maintenance on two of three RKEF lines (S33, S60). The plant/entity name (ZHN) and IMIP location come from the task brief and general knowledge, not from an opened source; MBMA may run more than one RKEF asset (e.g. SCM) - not resolved. Capacity not found."
+  },
+  {
+   "action": "add",
+   "id": "merdeka-battery-materials-nickel-matte-converter-indonesia",
+   "fields": {
+    "asset_name": "MBMA high-grade nickel matte (HGNM) converter", "step": "refining", "commodity": "nickel", "product": "high-grade nickel matte", "asset_type": "matte converter", "feedstock": "RKEF low matte / NPI",
+    "operator": "MBMA subsidiary (not named)", "parent_company": "Merdeka Battery Materials (MBMA)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 19998, "production_unit": "t Ni in matte", "production_year": 2025, "production_norm": 19998,
+    "end_market": "battery",
+    "source_url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S34"], "production": ["S34"]},
+   "confidence": 0.55,
+   "notes": "HGNM output fell 60% to 19,998 t Ni in 2025; production halted Q1 2025 and restarted in October after a new contract (S34, summariser paraphrase). Possible double count with the RKEF NPI row if matte is converted from the same RKEF output - source quotes them as separate product streams; lead to decide."
+  },
+  {
+   "action": "add",
+   "id": "merdeka-battery-materials-nickel-mining-indonesia",
+   "fields": {
+    "asset_name": "MBMA nickel ore mining (company-level aggregate)", "step": "mining", "commodity": "nickel", "product": "saprolite and limonite nickel ore", "asset_type": "laterite open-pit mines", "feedstock": null,
+    "operator": "Merdeka Battery Materials (MBMA)", "parent_company": "Merdeka Battery Materials (MBMA)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 21700000, "production_unit": "t ore", "production_year": 2025,
+    "end_market": "stainless steel and battery",
+    "source_url": "https://www.metalnomist.com/2026/04/merdeka-nickel-ore-production-hits.html", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S32"], "production": ["S32"]},
+   "confidence": 0.5,
+   "notes": "COMPANY-LEVEL AGGREGATE (concession/mine names not found): 7.0 Mwmt saprolite + 14.7 Mwmt limonite = 21.7 Mwmt in 2025 (S32). Reserves 578.8 Mwmt as of 31 Dec 2025 (Kontan snippet, not opened). Lead may split by concession once mine names are sourced."
+  },
+  {
+   "action": "add",
+   "id": "cngr-indonesia-high-matte-60kt-indonesia",
+   "fields": {
+    "asset_name": "CNGR Indonesia laterite-to-high-matte project (60 kt Ni, Morowali base)", "step": "refining", "commodity": "nickel", "product": "high-grade nickel matte", "asset_type": "matte smelter (OESBF + RKEF)", "feedstock": "laterite nickel ore",
+    "operator": "CNGR Advanced Material Indonesian subsidiaries (PT Debonair Nickel Indonesia / PT Jade Bay Metal Industry / PT Nadesico Nickel Industry; mapping to this project not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2025,
+    "capacity": 60000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2025, "capacity_norm": 60000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["S28", "S29"], "capacity": ["S28"]},
+   "confidence": 0.55,
+   "notes": "CNGR AR 2025: the fund-raising project 'Indonesia base laterite smelting 60,000 t Ni-metal high matte' had not reached one full year of production at end-2025 (S28), so production started during 2025 (start_year inferred); Morowali base phase-2 lines (ore to low matte to high matte) were 'brought on line one by one' in 2025 (S29). Company total Indonesian nickel smelting capacity ~20 万 t Ni via OESBF+RKEF (S27) - NOT split: other projects in the AR (an 80 kt Ni high-matte project in Indonesia, 4 万 t Ni projects at 维达贝/Weda Bay, North Morowali base) are not individually dated, so only the 60 kt project is added; remaining ~140 kt is a gap. Linking this 60 kt project to the 'Morowali base' is an inference. Hanrui rows already exist separately."
+  },
+  {
+   "action": "add",
+   "id": "pt-halmahera-jaya-feronikel-rkef-indonesia",
+   "fields": {
+    "asset_name": "Halmahera Jaya Feronikel (HJF) RKEF, Obi", "step": "refining", "commodity": "nickel", "product": "ferronickel", "asset_type": "RKEF smelter", "feedstock": "saprolite ore (Obi mines)",
+    "operator": "PT Halmahera Jaya Feronikel", "parent_company": "Harita Nickel (PT Trimegah Bangun Persada Tbk)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": 95000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 95000, "norm_unit": "t Ni",
+    "end_market": "stainless steel",
+    "source_url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "source_date": "2026-11-27", "source_published_date": "2025-03-26"
+   },
+   "evidence": {"status": ["S39", "S59"], "capacity": ["S47", "S39"]},
+   "confidence": 0.5,
+   "notes": "CONFLICT on capacity basis: Bisnis snippet (S47, reported) says 8 lines, 95,000 t Ni/yr; Indonesia Business Post (S39, opened) says total FeNi installed capacity 120,000 t/yr after HJF's 2nd RKEF smelter in 2023 (unit = product tonnes? contained Ni? unclear). 95,000 t Ni used; 120,000 recorded here. Harita group 2024 sales: 126,344 t FeNi, 63,431 t MHP, 38,622 t NiSO4 (S41) - group-level, not plant-level; FY2025 volumes NOT found (SMM flash S59 gives only 'all lines on target', revenue Rp29.63 T). Katadata snippet mentions an earlier 'MSP' smelter (Megah Surya Pertiwi?) not separately sourced - see gaps."
+  },
+  {
+   "action": "add",
+   "id": "pt-karunia-permai-sentosa-rkef-indonesia",
+   "fields": {
+    "asset_name": "Karunia Permai Sentosa (KPS) RKEF, Obi", "step": "refining", "commodity": "nickel", "product": "ferronickel", "asset_type": "RKEF smelter", "feedstock": "saprolite ore (Obi mines)",
+    "operator": "PT Karunia Permai Sentosa", "parent_company": "Harita Nickel (PT Trimegah Bangun Persada Tbk)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2025,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "end_market": "stainless steel",
+    "source_url": "https://news.metal.com/en/newscontent/104039623-smm-nickel-market-flash-harita-nickel-h1-revenue-growth-volume-driven-as-new-mine-and-rkef-lines-ramp-up", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S52"]},
+   "confidence": 0.35,
+   "notes": "Snippet-only. KPS lines added/ramping (SMM H1 2026 flash, S52); Bisnis snippet: Obi ferronickel capacity 305,000 t/yr by end-2026 after KPS (group total, not KPS alone), and Katadata snippet: three RKEF smelters ~240 kt Ni/yr with KPS's eight lines in 2025. Capacity not split by me. start_year 2025 inferred from 'lines ramping up'."
+  },
+  {
+   "action": "add",
+   "id": "pt-halmahera-persada-lygend-hpal-indonesia",
+   "fields": {
+    "asset_name": "Halmahera Persada Lygend (HPL) HPAL, Obi", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP) and nickel sulphate", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT Halmahera Persada Lygend", "parent_company": "Harita Nickel (TBP 45%) / Lygend Resources & Technology (55%)", "jv_partners": "Lygend Resources & Technology 55%; PT Trimegah Bangun Persada 45% (WoodMac listing via search snippet)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": 54000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2023, "capacity_norm": 54000, "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/101442367/indonesian-nickel-smelter-obtains-financing-of-us-625-million-the-first-phase-of-nickel-production-capacity-is-expected-to-reach-36000-tons", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S59", "S42"], "capacity": ["S48", "S49"]},
+   "confidence": 0.35,
+   "notes": "Capacity = phase 1 36 kt Ni (S48) + phase 2 +18 kt Ni (S49), phase 2 put into production 17 Jan 2023 (SMM) - both snippet-only; sum is mine. CONFLICT: GlobalData (S42, opened) says HPL suspended operations in 2024 while ramping additional lines; Harita FY2025 flash (S59) says all HPAL lines on target; project_state therefore uncertain (active assumed). WoodMac snippet says design 52 kt Ni in nickel sulphate. Combined HPL+ONC MHP capacity per Harita = 120,000 t MHP/yr (S40) - not split."
+  },
+  {
+   "action": "add",
+   "id": "pt-obi-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "asset_name": "Obi Nickel Cobalt (ONC) HPAL, Obi", "step": "refining", "commodity": "nickel", "product": "mixed hydroxide precipitate (MHP)", "asset_type": "HPAL", "feedstock": "limonite laterite ore",
+    "operator": "PT Obi Nickel Cobalt", "parent_company": "Harita Nickel (TBP 40%) / Lygend New Power (60%)", "jv_partners": "Lygend New Power (Hong Kong) 60%; PT Trimegah Bangun Persada 40% (WoodMac listing via search snippet)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2024,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "source_date": "2026-11-27", "source_published_date": "2025-03-26"
+   },
+   "evidence": {"status": ["S40", "S59"]},
+   "confidence": 0.45,
+   "notes": "Second Obi HPAL; Harita: with it, low-grade nickel refining capacity reaches 120,000 t MHP/yr (S40; HPL + ONC combined; unit 'tons of MHP' may be product not Ni). Commercial production since Aug 2024 per a search summary of the same article (not in the fetched excerpt; start_year 2024 low weight). ONC capacity deliberately null (not allocated from combined figure)."
+  },
+  {
+   "action": "add",
+   "id": "harita-nickel-obi-mines-indonesia",
+   "fields": {
+    "asset_name": "Harita Nickel Obi Island mines (Trimegah Bangun Persada / Gane concessions; aggregate)", "step": "mining", "commodity": "nickel", "product": "saprolite and limonite nickel ore", "asset_type": "laterite open-pit mines", "feedstock": null,
+    "operator": "PT Trimegah Bangun Persada Tbk (Harita Nickel); PT Gane Tambang Sentosa (GTS) from Q3 2025", "parent_company": "Harita Nickel", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "North Maluku", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 23750000, "production_unit": "t ore", "production_year": 2024,
+    "end_market": "stainless steel and battery",
+    "source_url": "https://indonesiabusinesspost.com/4005/corporate-affairs/politics", "source_date": "2026-11-27", "source_published_date": "2025-03-26"
+   },
+   "evidence": {"status": ["S52"], "production": ["S41"]},
+   "confidence": 0.4,
+   "notes": "COMPANY-LEVEL AGGREGATE. The 23.75 Mwmt figure is 2024 ORE SALES (not mined output, not 2025) used only as a proxy; FY2025 ore volume not found. A new mine (GTS) has been running since Q3 2025 (S52 snippet)."
+  },
+  {
+   "action": "add",
+   "id": "pt-aneka-tambang-pomalaa-ferronickel-indonesia",
+   "fields": {
+    "asset_name": "Antam Pomalaa ferronickel smelter", "step": "refining", "commodity": "nickel", "product": "ferronickel", "asset_type": "RKEF/ferronickel smelter", "feedstock": "saprolite ore (Antam mines)",
+    "operator": "PT Aneka Tambang Tbk (Antam)", "parent_company": "MIND ID (Indonesian state)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 16064, "production_unit": "t NPI Ni", "production_year": 2025, "production_norm": 16064,
+    "end_market": "stainless steel",
+    "source_url": "https://www.mysteel.net/news/5112475-flash-antam-reports-4329-year-on-year-decline-in-ferronickel-production-for-q4-2025", "source_date": "2026-11-27", "source_published_date": "2026-02-04"
+   },
+   "evidence": {"status": ["S37", "S57"], "production": ["S37"]},
+   "confidence": 0.6,
+   "notes": "2025 ferronickel production 16,064 t Ni (nickel content; Q4 2,755 t; sales 10,528 t) is the company total, assumed to be this single smelter (Pomalaa per BCA snippet S57; Antam has no other ferronickel smelter in sources opened). Capacity not stated in any opened source. Unit 'tonnes' in S37; 'nickel content' per Q4 sentence."
+  },
+  {
+   "action": "add",
+   "id": "pt-aneka-tambang-nickel-mining-indonesia",
+   "fields": {
+    "asset_name": "Antam nickel ore mining (company-level aggregate: Southeast Sulawesi and North Maluku)", "step": "mining", "commodity": "nickel", "product": "nickel laterite ore", "asset_type": "laterite open-pit mines", "feedstock": null,
+    "operator": "PT Aneka Tambang Tbk (Antam)", "parent_company": "MIND ID (Indonesian state)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "production": 16110000, "production_unit": "t ore", "production_year": 2025,
+    "end_market": "stainless steel and battery",
+    "source_url": "https://pintarsaham.id/kinerja-antam-2025-produksi-dan-penjualan-bijih-nikel-serta-bauksit-capai-rekor-tertinggi/", "source_date": "2026-11-27", "source_published_date": "2026-02-03"
+   },
+   "evidence": {"status": ["S38"], "production": ["S38"]},
+   "confidence": 0.55,
+   "notes": "COMPANY-LEVEL AGGREGATE: 16.11 Mwmt produced in 2025 (+62% YoY), 14.58 Mwmt sold (+75%) (press summary of Antam unaudited ops, S38). Mine-by-mine split (Pomalaa, Tanjung Buli/Halmahera Timur, Mornopo etc.) not found. Weda Bay Nickel (Antam 10%) is separate."
+  },
+  {
+   "action": "add",
+   "id": "pt-gunbuster-nickel-industry-npi-indonesia",
+   "fields": {
+    "asset_name": "Gunbuster Nickel Industry (GNI) RKEF complex", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Gunbuster Nickel Industry", "parent_company": "Jiangsu Delong Nickel Industry", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": 2021,
+    "capacity": 180000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 180000, "norm_unit": "t Ni",
+    "end_market": "stainless steel",
+    "source_url": "https://projectblue.com/blue/news-analysis/1169/jiangsu-delong&", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S51"], "capacity": ["S51"]},
+   "confidence": 0.3,
+   "notes": "Snippet-only (search summary of Project Blue + Jakarta Post/SMM). Capacity 180 ktpy Ni-in-NPI (Project Blue) vs 1.8 Mt/yr NPI gross (SMM/Jakarta Post) - consistent at ~10% grade. Early-2025 reports: close to shutting down amid parent's collapse; Delong in talks with Xiamen Xiangyu; current status unknown (project_state left active). Start 2021 from Jakarta Post 29 Dec 2021 headline (smelter starts up in Morowali) - snippet only. Location Morowali Utara per snippet; one source says Konawe - conflict."
+  },
+  {
+   "action": "add",
+   "id": "pt-virtue-dragon-nickel-industry-npi-indonesia",
+   "fields": {
+    "asset_name": "Virtue Dragon Nickel Industry (VDNI) RKEF complex, Konawe", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Virtue Dragon Nickel Industry", "parent_company": "Jiangsu Delong / CFHI (JV; stakes since taken over by Chinese partners)", "jv_partners": "CFHI (per Project Blue snippet)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "end_market": "stainless steel",
+    "source_url": "https://projectblue.com/blue/news-analysis/1169/jiangsu-delong&", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S51"]},
+   "confidence": 0.3,
+   "notes": "Snippet-only. Project Blue lists VDNI at 600 ktpy NPI (gross NPI tonnes, contained Ni not stated - capacity left null to avoid mixing bases); another snippet says 600-800 kt/yr NPI at 10-12% Ni. Delong's stake taken over by Chinese partners (2025). Location Konawe per task brief/snippet; one source says Morowali Utara."
+  },
+  {
+   "action": "add",
+   "id": "pt-obsidian-stainless-steel-oss-npi-indonesia",
+   "fields": {
+    "asset_name": "Obsidian Stainless Steel (OSS) RKEF complex, Konawe", "step": "refining", "commodity": "nickel", "product": "nickel pig iron", "asset_type": "RKEF smelter", "feedstock": "saprolite laterite ore",
+    "operator": "PT Obsidian Stainless Steel", "parent_company": "Xiamen Xiangyu (per Project Blue snippet)", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "geo_precision": "none",
+    "status": "operational", "announced_year": null, "start_year": null,
+    "capacity": 240000, "capacity_unit": "t NPI Ni", "capacity_ref_year": 2025, "capacity_norm": 240000, "norm_unit": "t Ni",
+    "end_market": "stainless steel",
+    "source_url": "https://projectblue.com/blue/news-analysis/1169/jiangsu-delong&", "source_date": "2026-11-27", "source_published_date": null
+   },
+   "evidence": {"status": ["S51"], "capacity": ["S51"]},
+   "confidence": 0.3,
+   "notes": "Snippet-only. 240 ktpy Ni-in-NPI per Project Blue; the snippet flags that an earlier Project Blue piece gave 2.5 Mtpy NPI (gross) so units differ. Ownership currently fully Xiamen Xiangyu per snippet. Location (Konawe) from task brief."
+  }
+ ]
+}

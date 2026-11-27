@@ -123,7 +123,13 @@ def apply_patches():
     return df, pd.DataFrame(ev_rows), pd.DataFrame(removed), log
 
 
+COUNTRY_ALIASES = {"DRC": "Democratic Republic of the Congo", "Congo (Kinshasa)": "Democratic Republic of the Congo",
+                   "USA": "United States", "US": "United States", "Korea": "South Korea",
+                   "Korea, Republic of": "South Korea", "Czechia": "Czech Republic", "UK": "United Kingdom"}
+
+
 def normalise(df):
+    df["country"] = df["country"].map(lambda c: COUNTRY_ALIASES.get(c, c))
     u = units()
     for c in NUMERIC:
         df[c] = pd.to_numeric(df[c], errors="coerce")

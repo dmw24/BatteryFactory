@@ -9,7 +9,11 @@ ours_production / benchmark. Processing: capacity_ratio = ours_capacity / benchm
 import os
 import re
 
+import sys
+
 import pandas as pd
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -17,6 +21,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
     a = pd.read_csv(os.path.join(ROOT, "sc_assets.csv"))
     b = pd.read_csv(os.path.join(ROOT, "data/supply_chain/benchmarks/aggregates.csv"))
+    from sc_build import COUNTRY_ALIASES
+    b["country"] = b["country"].map(lambda c: COUNTRY_ALIASES.get(c, c))
     a = a[(a.status == "operational") & (a.project_state.fillna("active") != "cancelled")]
     cc_path = os.path.join(ROOT, "sc_company_coverage.csv")
     cc = pd.read_csv(cc_path) if os.path.exists(cc_path) else pd.DataFrame(
@@ -43,6 +49,7 @@ def main():
                          capacity_ratio=round(cap / r.value, 2),
                          unallocated_capacity=round(cc[(cc.step == r.step) & (cc.metric == "capacity") & (cc.unit == r.norm_unit) & (cc.year == r.year)].unallocated.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
                          company_disclosed_output=round(cc[(cc.step == r.step) & (cc.metric == "production") & (cc.unit == r.norm_unit) & (cc.year == r.year)].disclosed.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
+                         unallocated_production=round(cc[(cc.step == r.step) & (cc.metric == "production") & (cc.unit == r.norm_unit) & (cc.year == r.year)].unallocated.sum()) if (r.country == "World" and not sub) else 0,
                          source=r.source))
     out = pd.DataFrame(rows)
     out.to_csv(os.path.join(ROOT, "sc_benchmark.csv"), index=False)
