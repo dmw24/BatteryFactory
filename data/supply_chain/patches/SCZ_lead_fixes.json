@@ -445,6 +445,24 @@
     "feeds": null
    },
    "notes": "lead (SC audit 3 #7): feeds 'lygend-obi-mhp-refinement-indonesia' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "posco-sal-de-oro-argentina",
+   "fields": {
+    "capacity": 23000,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC192 review): capacity was 23 kt Li2CO3 + 25 kt LiOH summed in t Li2CO3; the LiOH plant is the separate Güemes row and converts the same lithium — site capacity = 23,000 t Li2CO3."
+  },
+  {
+   "action": "fix",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {
+    "capacity": 66000,
+    "capacity_norm": null
+   },
+   "notes": "lead: Nornickel AR 2019 states 66 kt installed (SC192), above the 65 kt figure cited for capacity; capacity set to the installed 66 kt."
   }
  ]
 }

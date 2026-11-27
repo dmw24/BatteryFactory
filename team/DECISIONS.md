@@ -172,3 +172,7 @@ raises confidence for another reason (e.g. sourced feeds) cannot lift an unconfi
 Bulk open-dataset patches are named SA*_ so their updates apply before company-filing and research patches (D-106 order):
 filings and later research override dataset values. Evidence for values nulled later, and for removed assets, is dropped
 at build. `feeds` values need evidence like other key fields (check S4).
+## D-111 (2026-11-27, lead) CGS "Operating" as installed
+A smelter listed as "Operating" in the CGS Nickel Smelter Dataset with a Ni-equivalent capacity counts as installed at
+the dataset date (2025-01-04) — the dataset is an inventory of operating capacity. Rows where CGS gives no Ni-equivalent
+(OSS, GNI) are not set. Nickel Industries' four RKEF rows are floors (group 2025 output 125 kt > their 102 kt sum).

@@ -1,0 +1,878 @@
+{
+ "task": "SC192",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://clubofmozambique.com/news/mozambique-syrah-resources-balama-mine-delivers-26000-tonnes-in-q3-restart-295208",
+   "publisher": "Club of Mozambique (on Syrah Q3 2025 report)",
+   "published": "2025-10-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Balama remains the largest graphite mine in Africa, retaining its 350,000 tonnes annual capacity at full regime."
+  },
+  "S2": {
+   "url": "https://view.asiae.co.kr/en/article/2025021908201735590",
+   "publisher": "Asia Economy (Asiae) - Donghwa/Dongwha Electrolyte completes Tennessee plant",
+   "published": "2025-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Dongwha Electrolyte announced on the 19th that it has completed a new electrolyte production facility in Tennessee, USA. ... The annual production capacity is 86,000 tons, enough to produce 2 million electric vehicles."
+  },
+  "S3": {
+   "url": "https://www.koreatimes.co.kr/amp/business/companies/20260527/dongwha-electrolyte-clinches-orders-from-global-battery-maker-in-us",
+   "publisher": "The Korea Times",
+   "published": "2026-05-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Dongwha Electrolyte currently has annual production capacity of 86,000 metric tons in the United States."
+  },
+  "S4": {
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/06/minera-surcoreana-inaugura-su-segunda-planta-de-litio-en-argentina.shtml",
+   "publisher": "BioBioChile - POSCO inaugurates second lithium plant in Argentina (Sal de Oro)",
+   "published": "2026-10-06",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "quote": "La nueva planta produce carbonato de litio, con una capacidad para procesar 23.000 toneladas anuales. ... una capacidad de producción de 25.000 toneladas anuales.",
+   "tier": "reported",
+   "snippet": "La nueva planta produce carbonato de litio, con una capacidad para procesar 23.000 toneladas anuales. ... una capacidad de producción de 25.000 toneladas anuales.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S5": {
+   "url": "https://veramark.org/wp-content/uploads/2024/09/ENRC-Reasonable-Assurance-2025.pdf",
+   "publisher": "PwC reasonable assurance report with Copper Mark Assessment Summary, ERG Metalkol (ENRC Congo BV), assessment period 30-Jun-25 (page 5, 'About the participant'; small-print table read from the rendered PDF page)",
+   "published": "2026-02-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Metalkol has the capacity to produce ~100ktpa of LME-grade copper cathode and ~23ktpa of high-quality cobalt in hydroxide."
+  },
+  "S6": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc Form 10-K for FY ended 31 Dec 2024 (capacity table footnotes)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Represents theoretical capacity for lithium carbonate and lithium chloride at Fénix of 28,000 MT and 9,000 MT, respectively."
+  },
+  "S7": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc Form 10-K for FY ended 31 Dec 2024 (Olaroz capacity footnote)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Olaroz Stage 1 and Olaroz Stage 2 capacity of 17,500 MT and 25,000 MT, respectively, of lithium carbonate on a 100% basis."
+  },
+  "S8": {
+   "url": "https://ar2019.nornickel.ru/en/business-overview/operational-performance/finland.html",
+   "publisher": "Nornickel Annual Report 2019, Finland (Harjavalta)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Harjavalta’s capacity is 66 ktpa of nickel products."
+  },
+  "S9": {
+   "url": "https://www.mineralresources.com.au/our-business/lithium/wodgina/",
+   "publisher": "Mineral Resources (MinRes) - Wodgina site page (undated; latest news item on page 3 Nov 2026)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "three processing trains with a total annual production capacity of approximately 750,000 tonnes of spodumene concentrate"
+  },
+  "S10": {
+   "url": "https://www.mineralresources.com.au/news/company-updates/q1-fy27-quarterly-activity-report/",
+   "publisher": "Mineral Resources Q1 FY27 Quarterly Activity Report",
+   "published": "2026-10-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "All three processing trains operated continuously, lifting production 9% qoq to a record 102k dmt."
+  },
+  "S11": {
+   "url": "https://www.mineralresources.com.au/news/company-updates/mt-marion-flotation-plant-and-underground-development-fid/",
+   "publisher": "Mineral Resources - Mt Marion flotation plant and underground development FID",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "installed capacity from ~500ktpa SC6 to 600ktpa SC6"
+  },
+  "S12": {
+   "url": "https://www.mining-technology.com/news/prony-resources-nickel-goro-mine/",
+   "publisher": "Mining Technology - Prony Resources gears up for nickel production restart at Goro mine",
+   "published": "2024-11-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Goro mine in southern New Caledonia produces 57,000 tonnes per annum (tpa) of nickel and 5,000tpa of cobalt."
+  },
+  "S13": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp - Ramu Q4 and full year 2025 operating performance (press release via Yahoo Finance)",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ramu's design capacity of 32,600 t Ni per year is an annualized benchmark."
+  },
+  "S14": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp - Ramu Q4 and full year 2025 operating performance (press release via Yahoo Finance)",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full year production of 33,007 tonnes of contained nickel in MHP, compared to 28,669 tonnes last year."
+  },
+  "S15": {
+   "url": "https://www.aap.com.au/aapreleases/cision20250930ae86288",
+   "publisher": "Vale Base Metals press release via AAP (Toronto, 30 Sep 2025): start-up of Furnace 2 at Onca Puma",
+   "published": "2025-09-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "today began operating the second nickel processing furnace (\"Furnace 2\") ... bringing the operation to a nameplate production capacity of 40 ktpa."
+  },
+  "S16": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 549-551)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 5万吨硫酸锂项目于今年一季度建成试产"
+  },
+  "S17": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, line 545)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "华越、华飞两大湿法项目持续稳产超产，实现 MHP 年出货量 23.65 万吨"
+  },
+  "S18": {
+   "url": "https://cnmhk.cnmc.com.cn/ysen/BusinessScope/BusinessScopePage/Resource/dom/2025/5/I1371494382322057216.html",
+   "publisher": "CNMC (China Nonferrous Metal Mining) - Deziwa mining project in the DRC (page metadata publishdate 2026-01-05)",
+   "published": "2026-01-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "annual ore processing capacity of 4.5 million tonnes, producing 80,000 tonnes of cathode copper ... and 8,000 tonnes of cobalt metal annually."
+  },
+  "S19": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 628-631)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "phase I of the pyrometallurgical project is the Company’s equity-participated HJF project, with a designed annual capacity of 95,000 metal tons of ferronickel"
+  },
+  "S20": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, line 637-638)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The equity-participated HJF project maintained stable operation"
+  },
+  "S21": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 609-610)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "During the Reporting Period, the hydrometallurgy project was operated at full capacity across all lines"
+  },
+  "C75": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 75; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "75,Halmahera Jaya Feronikel,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Harita Nickel,North Maluku,South Halmahera Regency,-1.56014879697201,127.427420671122,Exact,RKEF,NPI,870000.0,95000.0,Operating"
+  },
+  "C73": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 73; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "73,Obi Nickel Cobalt,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Lygend New Power Ltd /Harita Nickel.,North Maluku,South Halmahera Regency,-1.53389444850468,127.41908725139,Exact,HPAL,MHP,,65000.0,Operating"
+  },
+  "C38": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 38; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "38,Obsidian Stainless Steel,Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park,PT Obsidian Stainless Steel,South East Sulawesi,Konawe Regency,-3.87107080589466,122.40347199787,Exact,RKEF,NPI,2500000.0,,Operating"
+  },
+  "C22": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 22; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "22,Gunbuster Nickel Industry,Kawasan Industri PT Stardust Estate Investment,Gunbuster Nickel Industry,Central Sulawesi,North Morowali Regency,-2.00042547039831,121.43504311042,Exact,RKEF,NPI,2000000.0,,Operating"
+  },
+  "C56": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 56; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "56,Huafei Nickel Cobalt,Indonesia Weda Bay Industrial Park (IWIP),Huafei Nickel Cobalt,North Maluku,Central Halmahera Regency,0.471071383571861,127.943123210915,Approximate within a group of smelters,HPAL,MHP,120000.0,,Operating"
+  },
+  "C17": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 17; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "17,Ceria Nugraha Indotama (RKEF) / Merah Putih smelter,,PT Ceria Nugraha Indotama,South East Sulawesi,Kolaka Regency,-3.85415246173602,121.297981864151,Exact,RKEF,FeNi,252728.0,55600.0,Operating"
+  },
+  "C72": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 72; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "72,Sunny Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Sunny Metal Industry,North Maluku,Central Halmahera Regency,0.487106858706739,127.981324757247,Approximate within a group of smelters,RKEF,FeNi,400000.0,55000.0,Operating"
+  },
+  "C94": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 94; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "94,PT Westrong Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Harum Energy,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,Ni Matte,,56000.0,Operating"
+  },
+  "C37": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 37; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "37,Megah Surya Pertiwi,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Megah Surya Pertiwi,North Maluku,South Halmahera Regency,-1.52952559965166,127.422421955604,Exact,RKEF,NPI,240000.0,25000.0,Operating"
+  },
+  "C43": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 43; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "43,Sulawesi Mining Investment,Indonesia Morowali Industrial Park (IMIP),Sulawesi Mining Investment,Central Sulawesi,Morowali Regency,-2.82450203373249,122.162005624412,Exact,RKEF,NPI,300000.0,30000.0,Operating"
+  },
+  "C54": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 54; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "54,Yashi Indonesia Investment,Indonesia Weda Bay Industrial Park (IWIP),PT Fajar Bakti Lintas Nusantra,North Maluku,Central Halmahera Regency,0.48073,127.99653,Exact,RKEF,NPI,300000.0,35000.0,Operating"
+  },
+  "C84": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 84; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "84,PT Langit Metal Industry,,PT Langit Metal Industry,North Maluku,Central Halmahera Regency,0.485177317918801,127.984867275989,Approximate within a group of smelters,RKEF,NPI,300000.0,36000.0,Operating"
+  },
+  "C83": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 83; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "83,PT Andalan Metal Industry ,Indonesia Weda Bay Industrial Park (IWIP),PT Andalan Metal Industry ,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,NPI,150000.0,24000.0,Operating"
+  },
+  "C55": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 55; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "55,Youshan Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Youshan Nickel Industry,North Maluku,Central Halmahera Regency,0.48068,127.99945,Exact,RKEF,NPI,300000.0,34000.0,Operating"
+  },
+  "C53": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 53; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "53,Weda Bay Nickel,Indonesia Weda Bay Industrial Park (IWIP),Strand Minerals Indonesia,North Maluku,Central Halmahera Regency,0.48075,127.99338,Exact,RKEF,NPI,300000.0,30000.0,Operating"
+  },
+  "C1": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 1; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "1,ANTAM Pomalaa RKEF,Kawasan Industri Antam Timur,PT Aneka Tambang,South East Sulawesi,Kolaka Regency,-4.18597128870594,121.611100571282,Exact,RKEF,FeNi,90000.0,27000.0,Operating"
+  },
+  "C4": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 4; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "4,Angel Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Nickel Mines,North Maluku,Central Halmahera Regency,0.48068,127.99074,Exact,RKEF,NPI,350000.0,36000.0,Operating"
+  },
+  "C25": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 25; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "25,Hengjaya Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.84720726843122,122.164215585423,Exact,RKEF,NPI,150000.0,15000.0,Operating"
+  },
+  "C82": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 82; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "82,Oracle Nickel,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.86090888374523,122.155868800702,Exact,RKEF,NPI,,36000.0,Operating"
+  },
+  "C40": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 40; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "40,Ranger Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.85105650826125,122.163937924412,Approximate within a group of smelters,RKEF,NPI,150000.0,15000.0,Operating"
+  },
+  "C81": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 81; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "81,PT ESG New Energy Material,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.85718814631921,122.172082174176,Exact,HPAL,MHP,,30000.0,Operating"
+  },
+  "C100": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (CC BY 4.0), row 100; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "100,Nadesico Nickel Industry,Kawasan Industri PT Stardust Estate Investment,CNGR,Central Sulawesi,North Morowali Regency,-2.01427457604686,121.430177208944,Exact,RKEF,Ni Matte,1800000.0,80000.0,Operating"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "syrah-balama-mozambique",
+   "fields": {
+    "installed_capacity": 350000,
+    "installed_as_of": "2025-10-30"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Plant capacity of the built Balama operation (2 Mtpa ore, ~350 ktpa graphite) stated as retained annual capacity in the Oct 2025 press report on Syrah's Q3 2025 report. Installed = nameplate of the existing plant; the mine ran in campaign mode (zero output in Q1 2025, restart June 2025, 67 kt produced in 2025 per Syrah's page), so installed is not output. Syrah's own page (https://www.syrahresources.com.au/balama-project, undated) says 'Plant capacity: 2Mtpa ore throughput yielding ~350ktpa graphite' - not used as evidence because it carries no date."
+  },
+  {
+   "action": "update",
+   "id": "dongwha-electrolyte-clarksville-united-states",
+   "fields": {
+    "installed_capacity": 86000,
+    "installed_as_of": "2025-02-19",
+    "capacity_by_year_json": {
+     "2025": 86000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S2",
+     "S3"
+    ],
+    "capacity_by_year_json": [
+     "S2"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Dongwha announced completion of the Tennessee facility on 19 Feb 2025 with 86,000 t/yr capacity (Asiae); Korea Times of 27 May 2026 says it 'currently has' 86,000 t/yr in the US. Third-party database battery-tech.net gives >70,000 t/y (not used). Mass-production start date not found; completion announcement used as the dated step."
+  },
+  {
+   "action": "update",
+   "id": "posco-sal-de-oro-argentina",
+   "fields": {
+    "installed_capacity": 23000,
+    "installed_as_of": "2026-10-06"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] BioBioChile 6 Oct 2026: POSCO inaugurated the second Sal de Oro plant (lithium carbonate, 23,000 t/yr) next to the existing lithium hydroxide plant (25,000 t/yr, phase 1 inaugurated Oct 2024 per other press). 48,000 = 23,000 t Li2CO3 + 25,000 t LiOH, mixed product units as in the row's capacity (IIR reports 48,000 t LCE across both phases). The article states the carbonate plant's processing capacity at inauguration, not a ramp-up level; whether it was already producing at that date is not stated, so treat as upper end of built capacity. Combined total is the sum of two stated plant capacities (article does not print 48,000). [lead] installed = 23,000 t Li2CO3 (Sal de Oro carbonate plant); the 25,000 t LiOH is the separate Güemes row and converts the same lithium."
+  },
+  {
+   "action": "update",
+   "id": "erg-metalkol-rtr-drc",
+   "fields": {
+    "installed_capacity": 23000,
+    "installed_as_of": "2025-06-30"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S5"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] ERG Metalkol Copper Mark self-assessment (PwC assured, assessment period to 30 Jun 2025): 'capacity to produce ~100ktpa copper cathode and ~23ktpa cobalt in hydroxide'. Operating plant (production reported by ERG); figure is the company's stated capacity, not output. Quote read from the rendered small-print page of the PDF (no text layer via fetch) - verify_quotes may not match it."
+  },
+  {
+   "action": "update",
+   "id": "minera-del-altiplano-fenix-argentina",
+   "fields": {
+    "installed_capacity": 28000,
+    "installed_as_of": "2024-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S6"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Arcadium FY2024 10-K: theoretical capacity at Fenix of 28,000 MT lithium carbonate and 9,000 MT lithium chloride (the LiCl is processed at Guemes - a separate row). Installed here = the carbonate figure only to avoid double counting with the Guemes row; the row's 40,000 t LCE plan is the expansion target. Figure is labelled 'theoretical capacity'. Rio Tinto closing of the Arcadium acquisition not checked."
+  },
+  {
+   "action": "update",
+   "id": "sales-de-jujuy-olaroz-argentina",
+   "fields": {
+    "installed_capacity": 17500,
+    "installed_as_of": "2024-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S7"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Arcadium FY2024 10-K: Olaroz Stage 1 capacity 17,500 MT and Stage 2 25,000 MT lithium carbonate (100% basis); the same filing says Stage 2 was in 'ongoing production start-up' at 31 Dec 2024. Only Stage 1 (17,500) is recorded as installed and running; Stage 2's 25,000 is built but ramping and is NOT counted (no source for its commissioning date). Floor value; the row's 42,500 plan = Stage 1 + Stage 2."
+  },
+  {
+   "action": "update",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {
+    "installed_capacity": 66000,
+    "installed_as_of": "2019-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S8"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Nornickel Annual Report 2019: 'Harjavalta's capacity is 66 ktpa of nickel products' (row's plan figure is 65,000 from press; 66 vs 65 kt is a minor source difference, installed left at the filing's 66,000). Dated 2019: the planned expansion to 75 ktpa (2021 announcement) is not counted as installed - no source confirming it was completed."
+  },
+  {
+   "action": "update",
+   "id": "mineral-resources-wodgina-australia",
+   "fields": {
+    "installed_capacity": 750000,
+    "installed_as_of": "2026-10-23"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S9",
+     "S10"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] MinRes Wodgina page: three processing trains, total annual production capacity ~750,000 t spodumene concentrate (page states 5.5% Li2O); Q1 FY27 quarterly report (23 Oct 2026): all three trains operated continuously, record 102k dmt in the quarter. The Wodgina page carries no publication date, so installed_as_of is the date of the quarterly confirming the three trains running."
+  },
+  {
+   "action": "update",
+   "id": "mineral-resources-mt-marion-australia",
+   "fields": {
+    "installed_capacity": 500000,
+    "installed_as_of": "2026-05-26"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S11"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] MinRes/Ganfeng Mt Marion FID release (26 May 2026): flotation plant and underground projects raise 'installed capacity from ~500ktpa SC6 to 600ktpa SC6'. Installed = ~500 ktpa SC6; the 600 ktpa in the row is the post-FID plan (not yet built). Whole-site 100% basis (MinRes 50%, Ganfeng 50%). Older MinRes material mentions 900 ktpa mixed-grade concentrate - different basis, not used."
+  },
+  {
+   "action": "update",
+   "id": "prony-resources-goro-nickel-new-caledonia",
+   "fields": {
+    "installed_capacity": 57000,
+    "installed_as_of": "2024-11-19"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S12"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Mining Technology (19 Nov 2024): Goro 'produces 57,000 tpa of nickel and 5,000 tpa of cobalt' and 'is designed to produce 57,000tpa of nickel' - design capacity of the built HPAL plant (commissioned 2010; restarted Dec 2024 after 7-month stoppage). Operating at less than design in 2025-26 (July 2026 tailings-dam leak curtailment per press); installed = design capacity, not output."
+  },
+  {
+   "action": "update",
+   "id": "prony-resources-goro-new-caledonia",
+   "fields": {
+    "installed_capacity": 5000,
+    "installed_as_of": "2024-11-19"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S12"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Same source and caveats as the Goro nickel row: 5,000 tpa cobalt design capacity of the built plant (Mining Technology, 19 Nov 2024)."
+  },
+  {
+   "action": "update",
+   "id": "mcc-ramu-nico-nickel-png",
+   "fields": {
+    "installed_capacity": 32600,
+    "installed_as_of": "2025-12-31",
+    "production": 33007,
+    "production_unit": "t Ni in MHP",
+    "production_year": 2025
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S13",
+     "S14"
+    ],
+    "production": [
+     "S14"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Nickel 28 (8.56% holder) Q4/FY2025 release of 23 Feb 2026: Ramu design capacity 32,600 t Ni per year; calendar-2025 production 33,007 t contained nickel in MHP (above design, so the design capacity is built and running). installed_as_of = 31 Dec 2025 (period end of the production year); statement published 2026-02-23. Cobalt 3,099 t in 2025 not recorded on this nickel row."
+  },
+  {
+   "action": "update",
+   "id": "vale-onca-puma-nickel-brazil",
+   "fields": {
+    "installed_capacity": 40000,
+    "installed_as_of": "2025-09-30"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S15"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Vale Base Metals release 30 Sep 2025: Furnace 2 began operating, bringing Onca Puma to nameplate 40 ktpa nickel (press says +15 kt from Furnace 1's 25 kt). Ramp-up of Furnace 2 after start-up not documented; installed = nameplate at the start-up date."
+  },
+  {
+   "action": "update",
+   "id": "huayou-arcadia-sulphate-plant-zimbabwe",
+   "fields": {
+    "installed_capacity": 50000,
+    "installed_as_of": "2026-03-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S16"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Huayou 2025 annual report (published 2026-04-08): 'the 50,000 t/yr lithium sulphate project was completed and trial-produced in Q1 of this year' (今年 = 2026). Built and in trial production, not yet commercial/steady output - installed is the built nameplate; as_of is the end of Q1 2026 (the report gives no exact day). Lower confidence than other rows."
+  },
+  {
+   "action": "update",
+   "id": "cnmc-deziwa-drc",
+   "fields": {
+    "installed_capacity": 8000,
+    "installed_as_of": "2026-01-05"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S18"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CNMC project page (publishdate metadata 2026-01-05): annual ore processing capacity 4.5 Mt, producing 80,000 t cathode copper and 8,000 t cobalt metal annually. Mine opened Jan 2020 (press). The page does not say 'installed' or give a phase history and has no 2025 output; treated as the built plant's capacity (medium-low confidence). 'Cobalt metal' wording as on CNMC's page; actual product is hydroxide/cobalt products per the row."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-jaya-feronikel-rkef-indonesia",
+   "fields": {
+    "installed_capacity": 95000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S19",
+     "S20",
+     "C75"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] Lygend 2025 annual report: HJF (phase I of Obi RKEF) designed annual capacity 95,000 metal t ferronickel and 'maintained stable operation' in 2025; CGS dataset (published 2025-01-04) also lists it Operating at 95,000 t Ni-eq. Installed = designed capacity of the operating phase I."
+  },
+  {
+   "action": "update",
+   "id": "pt-obi-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "installed_capacity": 65000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S21",
+     "C73"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Obi Nickel Cobalt Operating, 65,000 t Ni-eq (2025 dataset). Lygend 2025 AR says the Obi hydrometallurgy project (six lines, HPL + ONC combined designed 120,000 t Ni) 'was operated at full capacity across all lines' in 2025, i.e. ONC's lines are running. AR does not split capacity between HPL and ONC (SC180 finding); the 65,000 is CGS's ONC figure. HPL row (54,000 plan vs CGS 55,000) not updated because plan and CGS differ."
+  },
+  {
+   "action": "update",
+   "id": "pt-obsidian-stainless-steel-oss-npi-indonesia",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC192 2026-11-27] CGS dataset lists OSS with status 'Operating' (gross NPI output 2,500,000 t; Ni-eq blank in the dataset). Installed = the row's capacity (derived from the CGS gross NPI figure at the grade used in SA0). Dataset does not use the word 'installed'; no company confirmation found. Treat as a floor for a plant whose status is Operating; unverified lines may still be commissioning. [lead] installed not set: CGS gives no Ni-equivalent for this plant; capacity rests on a reported snippet."
+  },
+  {
+   "action": "update",
+   "id": "pt-gunbuster-nickel-industry-npi-indonesia",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC192 2026-11-27] CGS dataset lists Gunbuster (GNI) as 'Operating' (gross NPI output 2,000,000 t; Ni-eq blank). Installed = the row's capacity as derived in SA0 from that gross figure. Dataset-only evidence (no company filing found); treat as lower-confidence floor. [lead] installed not set: CGS gives no Ni-equivalent for this plant; capacity rests on a reported snippet."
+  },
+  {
+   "action": "update",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "installed_capacity": 120000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C56",
+     "S17"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Huafei Operating, 120,000 (gross MHP output column; Ni-eq blank), consistent with the row's 120,000 t Ni in MHP plan. Huayou 2025 AR (published 2026-04-08): Huayue and Huafei 'continued stable and above-plan production' with 236,500 t MHP shipments (both plants combined). No separate Huafei nameplate in the AR; installed taken as the CGS figure (dataset-only for the capacity value)."
+  },
+  {
+   "action": "update",
+   "id": "ceria-nugraha-indotama-rkef-merah-putih-smelter-indonesia",
+   "fields": {
+    "installed_capacity": 55600,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C17"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 55,600 t Ni-eq. Treated as installed (dataset has no separate installed field); no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "sunny-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": 55000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C72"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 55,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "pt-westrong-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": 56000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C94"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 56,000 t Ni-eq in matte. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "megah-surya-pertiwi-indonesia",
+   "fields": {
+    "installed_capacity": 25000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C37"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 25,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "sulawesi-mining-investment-indonesia",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C43"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 30,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "yashi-indonesia-investment-indonesia",
+   "fields": {
+    "installed_capacity": 35000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C54"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 35,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "pt-langit-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": 36000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C84"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 36,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "pt-andalan-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": 24000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C83"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Operating, 24,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "shengtun-mining-youshan-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 34000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C55"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Youshan Nickel Industry Operating, 34,000 t Ni-eq. Shengtun's 2025 AR (local text 600711_.txt) says the Youshan project 'achieved stable production and operation' in 2025 but gives no capacity. Treated as installed from the dataset."
+  },
+  {
+   "action": "update",
+   "id": "weda-bay-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C53"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Weda Bay Nickel (Strand Minerals) RKEF Operating, 30,000 t Ni-eq. Treated as installed; no company confirmation found. (Separate from the Weda Bay mine row.)"
+  },
+  {
+   "action": "update",
+   "id": "pt-aneka-tambang-pomalaa-ferronickel-indonesia",
+   "fields": {
+    "installed_capacity": 27000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C1"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: ANTAM Pomalaa RKEF Operating, 90,000 t FeNi gross / 27,000 t Ni-eq. Treated as installed; no company confirmation found."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-angel-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 36000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C4"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Angel Nickel Industry Operating, 36,000 t Ni-eq. Treated as installed. Nickel Industries' 2025 annual report (ASX, 23 Feb 2026) gives no per-line nameplate and reports group RKEF output of 124,966 t Ni in 2025, above the 102,000 t sum of the CGS capacities of its four RKEF rows, so the CGS value understates installed capacity (floor)."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-hengjaya-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 15000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C25"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Hengjaya Nickel Industry Operating, 15,000 t Ni-eq. Treated as installed; understates installed capacity (see Angel row note: NIC group RKEF output 124,966 t Ni in 2025 exceeds the 102,000 t sum of CGS capacities)."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-oracle-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 36000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C82"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Oracle Nickel Operating, 36,000 t Ni-eq. Treated as installed; understates installed capacity (see Angel row note)."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-ranger-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 15000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C40"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Ranger Nickel Industry Operating, 15,000 t Ni-eq. Treated as installed; understates installed capacity (see Angel row note)."
+  },
+  {
+   "action": "update",
+   "id": "pt-esg-new-energy-material-hpal-indonesia",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C81"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: PT ESG New Energy Material HPAL Operating, 30,000 t Ni-eq (MHP). Treated as installed; MBMA annual report not opened, so no company confirmation."
+  },
+  {
+   "action": "update",
+   "id": "cngr-nadesico-low-matte-indonesia",
+   "fields": {
+    "installed_capacity": 80000,
+    "installed_as_of": "2025-01-04"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "C100"
+    ]
+   },
+   "notes": "[SC192 2026-11-27] CGS dataset: Nadesico Nickel Industry (CNGR) Operating, 80,000 t Ni-eq in low matte. CNGR's 2025 AR (local text 300919_2025.txt line 950) gives only a company-wide ~200,000 t Ni Indonesian smelting capacity and says the Morowali phase-2 lines were being brought on stream 'one by one' - so the 80,000 may include lines not yet fully commissioned; treat as upper bound of built capacity, lower confidence."
+  }
+ ]
+}

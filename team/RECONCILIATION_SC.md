@@ -14,7 +14,7 @@ Assets: 901 — by step and status (never summed across statuses):
 | refining | 178 | 24 | 28 | 48 |
 | separator | 34 | 8 | 2 | 1 |
 
-Evidence: 756 rows confirmed, 145 reported-tier; 498 with coordinates; mean confidence 0.53.
+Evidence: 755 rows confirmed, 146 reported-tier; 498 with coordinates; mean confidence 0.53.
 
 ## Mining — 2025 production vs USGS MCS 2026 (operational assets; company-level output not tied to a site shown separately)
 
@@ -76,12 +76,12 @@ Evidence: 756 rows confirmed, 145 reported-tier; 498 with coordinates; mean conf
 | refining | lithium hydroxide | production | China | 2025 | 356,000 t LiOH | – | – | – | – | – |
 | electrolyte | LiPF6 | production | World | 2025 | 279,000 t LiPF6 | 69,000 | – | 65,000 | 39,568 | 39,568 |
 | electrolyte | electrolyte | shipments | China | 2025 | 2,235,000 t electrolyte | 695,000 | 150,000 | 300,000 | – | 1,320,686 |
-| refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 173,000 | 1,168,561 | – | – | – |
+| refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 692,600 | 649,961 | – | – | – |
 | refining | cobalt | production | World | 2025 | 240,000 t Co | – | 30,500 | 39,500 | – | – |
 | refining | lithium | production | China | 2025 | 1,289,280 t LCE | 774,720 | 387,604 | 131,800 | 154,156 | 553,716 |
 | cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 517,500 | 60,000 | – | – | – |
 
-Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 173,000 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 60,000 t Ni shown separately, not added.
+Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 692,600 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 411,000 t Ni shown separately, not added.
 
 Notes: benchmarks are comparison only (USGS public domain; MIIT official; industry figures via open press — see data/supply_chain/benchmarks/aggregates.csv for quotes and URLs). Capacity ≥ output is expected; company-disclosed output is the share of the benchmark produced by companies whose filings we read.
 
