@@ -22,7 +22,7 @@ Zhongke Electric,anode,2025,capacity,anode,348683.0,t anode,0,0,4,348683,300035_
 Zhongke Electric,anode,2025,production,anode,378469.0,t anode,0,0,0,378469,300035_2025.txt l.634,china
 Xiangfenghua,anode,2025,capacity,anode,114660.0,t anode,0,0,1,114660,300890_.txt l.930-932,china
 Xiangfenghua,anode,2025,production,anode,83426.0,t anode,0,0,0,83426,300890_.txt l.932,china
-BTR,anode,2025,capacity,anode,782500.0,t anode,640000,7,11,142500,835185_2025.txt l.519-527,global
+BTR,anode,2025,capacity,anode,782500.0,t anode,607500,7,11,175000,835185_2025.txt l.519-527,global
 BTR,anode,2025,production,anode,594844.0,t anode,0,0,0,594844,835185_2025.txt l.3597,global
 Shanshan,anode,2025,production,anode,442681.0,t anode,0,0,0,442681,600884_.txt l.1267,china
 Ronbay,cathode,2025,capacity,cathode,300000.0,t CAM,426000,6,7,0,688005_2025.txt l.1876,global

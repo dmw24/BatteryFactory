@@ -1,0 +1,539 @@
+{
+ "task": "SC191",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191233.PDF",
+   "publisher": "Jiangsu Ruitai New Energy Materials (瑞泰新材, 301238) 2025 annual report (local text team/evidence/filings/301238_2025.txt, lines 5102 and 5116)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司于 2025 年 8 月 21 日召开的第二届董事会第十六次会议 ... 该项目已投入正常使用且满足结项条件"
+  },
+  "S2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191233.PDF",
+   "publisher": "Jiangsu Ruitai New Energy Materials (瑞泰新材, 301238) 2025 annual report (local text team/evidence/filings/301238_2025.txt, lines 5028, 5163, 5167)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宁德华荣年产 8 万吨新材料项目：受市场供求关系影响，产能利用率低 ... 3、 宁德华荣年产 8 万吨新材料项目 ... 根据 2025 年 4 月 24 日召开的第二届董事会第十三次会议"
+  },
+  "S3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191233.PDF",
+   "publisher": "Jiangsu Ruitai New Energy Materials (瑞泰新材, 301238) 2025 annual report (local text team/evidence/filings/301238_2025.txt, lines 5027, 5145, 5148)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "波兰华荣新建 Prusice 4 万吨/年锂离子动力电池电解液项目：产销量已逐步提升 ... 公司在实施“波兰华荣新建 Prusice 4 万吨/年锂离子动力电池电解液项目”的建设过程中 ... 根据公司 2024 年 8 月 22 日召开的第二届董事会第九次会议"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225062219.PDF",
+   "publisher": "Shida Shenghua New Materials Group (石大胜华, 603026) 2025 annual report (local text team/evidence/filings/603026_.txt, line 586)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "武汉基地 20 万吨电解液项目 2025 年产能不断爬坡提升"
+  },
+  "S5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225254220.pdf",
+   "publisher": "Gotion High-Tech (国轩高科, 002074) 2025 annual report (local text team/evidence/filings/002074_2025.txt, lines 6215-6217, 6276, 6278)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025 年尚未达产 ... 2025 年 4 月 24 日、2025 年 5 月 28 日分别召开第九届董事会第十二次会议 ... 同意将募投项目“国轩材料年产 30,000 吨高镍三元正极材料项目”予以结项"
+  },
+  "S6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay Technology (容百科技, 688005) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 901)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司通过并购贵州新仁，拥有年产 6 万吨/年产能"
+  },
+  "S7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium (赣锋锂业, 002460) 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1796, 1802, 1824, 1826)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川赣锋年产 5 万吨锂盐项目于上半年完成生产线调试，产能逐步释放，碳酸锂产能满负荷生 ... 截至本报告披露日，公司现有锂盐产品产能分布情况如下 ... 碳酸锂           25,000 吨/年 ... 氢氧化锂          25,000 吨/年"
+  },
+  "S8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium (赣锋锂业, 002460) 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1642, 1651, 1802, 1817)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司目前已建成的主要生产基地如下 ... 丰城赣锋       江西丰城                       氢氧化锂                   2024 年 ... 丰城赣锋（一期）          江西丰城         氢氧化锂          25,000 吨/年"
+  },
+  "S9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium (赣锋锂业, 002460) 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1827, 1828, 1928)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "电池级碳酸锂         20,000 吨/年 ... 循环科技（一期）          江西新余 ... 循环科技（一期）项目已建成并逐步释放产能"
+  },
+  "S10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium (赣锋锂业, 002460) 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1766-1768)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "蒙金矿业加不斯锂钽矿项目位于内蒙古自治区镶黄旗 ... 目前项目一期 60 万吨/年采选项目验收取证通过，2025 ... 年开始试生产并实现单月达产"
+  },
+  "S11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium (天齐锂业, 002466) 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 1031-1032, 2803-2804)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江苏张家港年产 3 万吨氢氧化锂项目（可柔性调剂生产碳酸锂产品）已竣工 ... 已于 2025 年 10 月 17 日确认所有参数达到电池级氢氧化锂标准 ... 在生产爬坡状态"
+  },
+  "S12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium (天齐锂业, 002466) 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 1034-1035, 11572)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "澳大利亚奎纳纳一期氢氧化锂项目是澳大利亚首个在产氢氧化锂项目 ... 奎纳纳一期氢氧化锂项目仍处于爬坡阶段 ... 奎纳纳年产 2.4 万吨电池级单水氢氧化锂工厂一期资产"
+  },
+  "S13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225269073.PDF",
+   "publisher": "Weiling New Energy (威领新能源, *ST威领, 002667) 2025 annual report (local text team/evidence/filings/002667_2025.txt, lines 411, 9792-9793)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目于 2022 年 9 月达到正式投产标准 ... 宜春 1 万吨碳 ... 酸锂项目辅助及零星工程",
+   "tier": "reported",
+   "snippet": "该项目于 2022 年 9 月达到正式投产标准 ... 宜春 1 万吨碳 ... 酸锂项目辅助及零星工程",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S14": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF",
+   "publisher": "BTR New Material Group (贝特瑞, 835185) 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 523, 7024-7025)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "及深圳 7500 吨硅基产能实现投产 ... 光明年产 4 万吨硅基负极材料 ... 厂房已完工，部分产线已投产"
+  },
+  "S15": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225126560.PDF",
+   "publisher": "Guangdong Jiayuan Technology (嘉元科技, 688388) 2025 annual report (local text team/evidence/filings/688388_.txt, lines 6525-6532; PDF table is column-split, so the project name and status words are quoted from separate cells)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "本项目已 ... 年产1.5 万吨 ... 项目（宁德） ... 实现效益"
+  },
+  "S16": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology (HKEX 2245) 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 396-397, 629-630)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The equity-participated HJF project (phase I of the ... RKEF project) under the laterite nickel ore pyrometallurgy project (RKEF project) operated stably ... equity-participated HJF project, with a designed annual capacity of ... 95,000 metal tons of ferronickel"
+  },
+  "S17": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology (HKEX 2245) 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 632-633, 642)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has established a ferronickel smelting plant in Jiangsu, also adopting the RKEF process, with a designed annual ... capacity of 18,000 metal tons of ferronickel ... the ferronickel smelting plant in Jiangsu, through measures such as reasonably scheduling production to avoid"
+  },
+  "S18": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining (西藏矿业, 000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 419-420, 565, 1094)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "同时随着扎布耶盐湖二期项目建成投产，公司碳酸锂设计年产能达 1.2 ... 西藏扎布耶万吨电池级碳酸锂项目于 2025 年 10 月投产 ... 扎布耶二期投产后尚处在产能爬坡阶段"
+  },
+  "S19": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (融捷股份, 002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 351, 628)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "产品为电池级碳酸锂，产能为 3,000 吨/年 ... 公司合并范围内的锂盐业务以长和华锂为运营主体，目前产能规模较小"
+  },
+  "S20": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF",
+   "publisher": "GEM Co. (格林美, 002340) 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 617, 1610, 1612)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "积镍成功投产，构建了全球少有的 ... 硫酸镍钴锰晶体年产能 3 万金属吨 ... 电积镍年产能 3 万吨"
+  },
+  "S21": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF",
+   "publisher": "Tianhua New Energy (天华新能, 300390) 2025 annual report (local text team/evidence/filings/300390_2025.txt, lines 9480-9482; construction-in-progress table, see notes)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 2.65 万吨电 ... 池级碳酸锂二线"
+  },
+  "S22": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (华友钴业, 603799) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 550-551, 7896)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "品位提升至 1.34%；年产 5 ... 万吨硫酸锂项目于今年一季度建成试产 ... 年产 5 万吨硫酸锂"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "ruitai-quzhou-300kt-electrolyte-china",
+   "fields": {
+    "installed_capacity": 300000,
+    "installed_as_of": "2025-08-21"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ruitai 2025 AR (lines 5112-5118): the over-raised-funds project 'Quzhou Ruitai 300 kt/yr lithium-ion battery electrolyte' was closed out (结项) by the board meeting of 2025-08-21 because it 'has been put into normal use and meets the closing conditions' (已投入正常使用且满足结项条件); the AR also says utilisation is low (line 5030). Installed = project design 300,000 t as of that board date; actual output is far lower (company-wide electronic-chemicals table: design 710,954 t at 10.04% utilisation, line 627, not allocated to this plant). Plan capacity unchanged."
+  },
+  {
+   "action": "update",
+   "id": "ruitai-huarong-ningde-80kt-electrolyte-china",
+   "fields": {
+    "installed_capacity": 80000,
+    "installed_as_of": "2025-04-24"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S2"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ruitai 2025 AR: 'Ningde Huarong 80 kt/yr new-materials project' appears in the 2025 benefit shortfall list with 'low capacity utilisation' (line 5028, i.e. built and running) and its IPO-proceeds project was closed out with surplus funds moved to working capital per the board meeting of 2025-04-24 (lines 5163-5167). Installed = the project name figure 80,000 t/yr; the AR does not give tonnage output for this plant and utilisation is low. The separate 400 kt Ningde Huarong electrolyte project was terminated (Sep 2025, line 5084) and is not part of this row."
+  },
+  {
+   "action": "update",
+   "id": "ruitai-huarong-poland-prusice-electrolyte-poland",
+   "fields": {
+    "installed_capacity": 40000,
+    "installed_as_of": "2024-08-22"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S3"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ruitai 2025 AR: Poland Prusice 4 万吨/年 EV electrolyte project - 'output and sales have gradually increased' (line 5027, FY2025) and its IPO-proceeds project was closed out with surplus funds moved to working capital per the board meeting of 2024-08-22 (lines 5144-5150). Installed = project figure 40,000 t/yr as of the close-out decision; production tonnage not disclosed."
+  },
+  {
+   "action": "update",
+   "id": "shida-shenghua-wuhan-electrolyte-china",
+   "fields": {
+    "installed_capacity": 200000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Shida Shenghua 2025 AR line 586: the Wuhan base 20 万吨 electrolyte project 'continued to ramp up in 2025'. Company-wide electrolyte design capacity is 50 万吨/年 at 23% utilisation (line 1298; consistent with Dongying 30 + Wuhan 20, split not stated in the table). Installed = 200,000 t (built, ramping, low utilisation); as_of = report period end."
+  },
+  {
+   "action": "update",
+   "id": "gotion-materials-ncm-cathode-china",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-05-28"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S5"
+    ]
+   },
+   "notes": "INSTALLED (SC191, lower-confidence): Gotion 2025 AR: the proceeds-funded project '国轩材料年产 30,000 吨高镍三元正极材料项目' was closed out (结项) by the 2024 AGM of 2025-05-28 (lines 6276-6280), i.e. construction complete; but the AR also says it 'had not reached full production (尚未达产) in 2025' (lines 6215-6217). Installed = project size 30,000 t as of the close-out date; actual output is below that and not disclosed. Treat as built-but-ramping."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-guizhou-xinren-lfp-china",
+   "fields": {
+    "installed_capacity": 60000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S6"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ronbay 2025 AR line 901: through the Guizhou Xinren acquisition the company 'has 60,000 t/yr capacity' (LFP, one-step process) and existing buildings/utilities could support 300,000 t/yr (expansion not counted). Acquisition agreement dated 2025-11-22 (line 11491). The text does not give a build date or utilisation, so as_of is the report period end 2025-12-31; confidence moderate."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-lithium-sichuan-china",
+   "fields": {
+    "installed_capacity": 47000,
+    "installed_as_of": "2026-03-31",
+    "capacity_by_year_json": {
+     "2025": 47000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S7"
+    ],
+    "capacity_by_year_json": [
+     "S7"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ganfeng 2025 AR 'existing lithium-salt capacity as of the report disclosure date': Sichuan Ganfeng (Dazhou) lithium carbonate 25,000 t/yr + lithium hydroxide 25,000 t/yr (lines 1824-1826); the 50 kt lithium-salt project finished line commissioning in H1 2025 and the carbonate line ran at full load (line 1796); production-start year 2025 (line 1652). Installed in the row unit (t LCE) = 25,000 + 25,000 x 0.88 = 47,000, equal to the existing plan figure. as_of = AR disclosure date (SOURCE line gives 2026-03-31). Step {2025: 47000} from the 2025 production-start year; hydroxide-line start month not stated."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-lithium-fengcheng-china",
+   "fields": {
+    "installed_capacity": 25000,
+    "installed_as_of": "2026-03-31",
+    "capacity_by_year_json": {
+     "2024": 25000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ganfeng 2025 AR: Fengcheng Ganfeng (phase 1) lithium hydroxide 25,000 t/yr listed among existing lithium-salt capacity at the report disclosure date (line 1817) and among 'main production bases already built' with production-start year 2024 (line 1651). as_of = AR disclosure date 2026-03-31. Step {2024: 25000} from the 2024 production-start year (a year column, no month)."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-recycling-xinyu-china",
+   "fields": {
+    "installed_capacity": 20000,
+    "installed_as_of": "2026-03-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S9"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Ganfeng 2025 AR: 'Recycling Technology (phase 1)' in Xinyu - battery-grade lithium carbonate 20,000 t/yr and battery-grade iron phosphate 40,000 t/yr in the existing-capacity table (lines 1827-1829); 'the 循环科技(一期) project has been built and is gradually releasing capacity' (line 1928, reporting year 2025). Installed = 20,000 t Li2CO3 (the row unit); the 40,000 t FePO4 is a separate product line not counted here. Ramp-up ongoing."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-jiabusi-mine-china",
+   "fields": {
+    "installed_capacity": 600000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S10"
+    ]
+   },
+   "notes": "INSTALLED (SC191, lower-confidence): Ganfeng 2025 AR lines 1766-1768: Jiabusi lithium-tantalum project (70% held) - phase 1 60 万吨/年 mining-and-processing project passed acceptance (验收取证通过), trial production began in 2025 with a single month at design rate, full output expected in 2026. Installed = phase 1 600,000 t/yr ore (built, in trial production/ramp); as_of = report period end. No ore tonnage output stated."
+  },
+  {
+   "action": "update",
+   "id": "tianqi-lithium-zhangjiagang-hydroxide-china",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-07-30",
+    "capacity_by_year_json": {
+     "2025": 30000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S11"
+    ],
+    "capacity_by_year_json": [
+     "S11"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Tianqi 2025 AR: the Zhangjiagang 30 kt/yr lithium hydroxide project (flexible to carbonate) was completed (竣工) on 2025-07-30; all parameters confirmed to battery-grade hydroxide standard on 2025-10-17; the line is in quality/output ramp-up and not yet at design output (lines 1031-1032, 2803-2806). Installed = 30,000 t/yr completed plant (ramping)."
+  },
+  {
+   "action": "update",
+   "id": "tlea-kwinana-lithium-hydroxide-australia",
+   "fields": {
+    "installed_capacity": 24000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S12"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Tianqi 2025 AR: Kwinana phase 1 is 'the first operating lithium hydroxide project in Australia' and was still in ramp-up in 2025 (lines 1034-1036); the impairment test names the 'Kwinana 24,000 t/yr battery-grade lithium hydroxide monohydrate plant, phase 1' asset group (line 11572); phase 2 is the separate (impaired, unbuilt) project (lines 11692-11773). Installed = 24,000 t LiOH (phase 1, ramping); as_of = report period end. Output tonnage not stated."
+  },
+  {
+   "action": "update",
+   "id": "weiling-lingneng-yichun-lithium-carbonate-china",
+   "fields": {
+    "installed_capacity": 10000,
+    "installed_as_of": "2022-09-30"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S13"
+    ]
+   },
+   "notes": "INSTALLED (SC191, lower-confidence): Weiling 2025 AR line 411: Lingneng Lithium (set up Nov 2021) 'reached formal production standard in September 2022' (day not stated; month-end used). The 10,000 t figure ties to the construction-in-progress line '宜春 1 万吨碳酸锂项目辅助及零星工程' (line 9792-9793, Yichun 1 万吨 lithium carbonate project, auxiliary works); the AR does not state the plant capacity in one sentence. Production tonnage not given."
+  },
+  {
+   "action": "update",
+   "id": "btr-guangming-silicon-anode-china",
+   "fields": {
+    "installed_capacity": 7500,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S14"
+    ]
+   },
+   "notes": "INSTALLED (SC191, floor): BTR 2025 AR line 523: '深圳 7500 吨硅基产能实现投产' in 2025; the CIP table says the Guangming 4 万吨 silicon-based anode project has its 'plant completed, part of the lines already in production' (line 7025; RMB 621.7m transferred to fixed assets in 2025, line 6943). Installed = 7,500 t as a lower bound (the AR does not say whether earlier Shenzhen silicon capacity exists or how much of the 40,000 t is built); plan capacity 40,000 t unchanged."
+  },
+  {
+   "action": "update",
+   "id": "jiayuan-ningde-china",
+   "fields": {
+    "installed_capacity": 15000,
+    "installed_as_of": "2024-12-31",
+    "capacity_by_year_json": {
+     "2024": 15000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S15"
+    ],
+    "capacity_by_year_json": [
+     "S15"
+    ]
+   },
+   "notes": "INSTALLED (SC191, lower-confidence): Jiayuan 2025 AR proceeds-use table (lines 6525-6532, column-split PDF text): '年产1.5 万吨高性能铜箔项目（宁德）' 100.00% invested, reached its intended usable state in December 2024 (the date cells '2024 / 年 / 12 / 月' sit on separate lines 6526-6532, so the date is not a single verbatim string) and the row reads 'project has realised benefits'; the Ningde subsidiary booked revenue RMB 1,554.6m and net profit RMB 29.9m in 2025 (line 3233). Installed = project design 15,000 t/yr, as_of 2024-12-31 (month-end of the stated December 2024). Production tonnage for Ningde alone not disclosed (group output 9.83 万吨, line 1033)."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-jaya-feronikel-rkef-indonesia",
+   "fields": {
+    "installed_capacity": 95000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S16"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Lygend 2025 AR: HJF (phase I of the Obi RKEF project, equity-participated) 'operated stably' in 2025 and phase I has a designed annual capacity of 95,000 metal tons of ferronickel (lines 396-397, 629-630, 637-638). Installed = 95,000 t Ni (phase I fully built, eight lines by subtraction per SC180); as_of = report period end. The AR gives no HJF output (equity accounted)."
+  },
+  {
+   "action": "update",
+   "id": "lygend-jiangsu-wisdom-suqian-ferronickel-china",
+   "fields": {
+    "installed_capacity": 18000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S17"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Lygend 2025 AR: the Jiangsu RKEF ferronickel plant (designed 18,000 metal tons of ferronickel) was in production in 2025 ('reasonably scheduling production to avoid peak times', lines 632-643). Installed = 18,000 t Ni design (operating, scheduling around power peaks); as_of = report period end. No separate output figure."
+  },
+  {
+   "action": "update",
+   "id": "tibet-mining-zabuye-china",
+   "fields": {
+    "installed_capacity": 12000,
+    "installed_as_of": "2025-10-31",
+    "capacity_by_year_json": {
+     "2025": 12000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S18"
+    ],
+    "capacity_by_year_json": [
+     "S18"
+    ]
+   },
+   "notes": "INSTALLED (SC191, built but ramping): Tibet Mining 2025 AR: the Zabuye 10,000 t-class battery-grade lithium carbonate project (phase 2) was put into production in October 2025 (line 565); with phase 2 the company's lithium carbonate design capacity is 12,000 t/yr (lines 419-420); the plant is still in ramp-up and capacity is not fully released (line 1094; 2026 target 'reach production, standard, efficiency', lines 1150-1153). as_of 2025-10-31 (month-end of the stated October 2025); output below design in 2025."
+  },
+  {
+   "action": "update",
+   "id": "rongjie-sichuan-changhe-hualithium-china",
+   "fields": {
+    "installed_capacity": 3000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S19"
+    ]
+   },
+   "notes": "INSTALLED (SC191): Rongjie 2025 AR lines 350-354 and 628: the consolidated lithium-salt business (operating entity Changhe Hualithium) refines crude/industrial lithium carbonate to battery grade, capacity 3,000 t/yr; the company deliberately cut activity in 2025 and upgraded the line in H2 2025. Installed = 3,000 t/yr at the report period end; output well below capacity. The associated (equity) Chengdu Rongjie plant (20,000 t/yr in operation) is a different asset and not in this row."
+  },
+  {
+   "action": "update",
+   "id": "gem-qmb-electrowon-nickel-indonesia",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S20"
+    ]
+   },
+   "notes": "INSTALLED (SC191): GEM 2025 AR: overseas nickel-cobalt chemicals and electrowon nickel 'successfully put into production' in 2025 (line 615-617) and the QMB park has 'electrowon nickel annual capacity 3 万吨' (line 1612; same paragraph: NiCoMn sulphate crystal 3 万 metal t, ternary precursor 5 万 t, MHP nickel 15 万 metal t of which 9 controlled and 6 equity). Installed = 30,000 t Ni; as_of = report period end. No output tonnage for this line."
+  },
+  {
+   "action": "update",
+   "id": "gem-qmb-niso4-indonesia",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S20"
+    ]
+   },
+   "notes": "INSTALLED (SC191): GEM 2025 AR line 1610: the QMB park has 'nickel-cobalt-manganese sulphate crystal annual capacity 3 万 metal tons' and the nickel-cobalt chemicals were put into production in 2025 (lines 615-617). Installed = 30,000 t Ni (metal tons); as_of = report period end. No output figure for this line."
+  },
+  {
+   "action": "update",
+   "id": "tianhua-lithium-carbonate-line2-china",
+   "fields": {
+    "installed_capacity": 26500,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S21"
+    ]
+   },
+   "notes": "INSTALLED (SC191, inferred from CIP table, lower-confidence): Tianhua 2025 AR construction-in-progress note: '年产 2.65 万吨电池级碳酸锂二线' had an opening balance of RMB 1.62m, additions of RMB 115.99m, transfer to fixed assets of RMB 117.61m, closing balance nil, progress 100% (lines 9480-9482 and 9508-9514 - the second table is column-split so only the project-name cells are quoted). Transfer to fixed assets = construction complete in 2025. The AR text gives no capacity or production statement for the line; as_of = report period end."
+  },
+  {
+   "action": "update",
+   "id": "huayou-arcadia-sulphate-plant-zimbabwe",
+   "fields": {
+    "installed_capacity": 50000,
+    "installed_as_of": "2026-03-31"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S22"
+    ]
+   },
+   "notes": "INSTALLED (SC191, trial production): Huayou 2025 AR (published 2026-04-08): the 50,000 t/yr lithium sulphate project at Arcadia 'was built and entered trial production in Q1 of this year' (i.e. Q1 2026, lines 550-551; CIP line 7896 shows the project at RMB 1,073m). Installed = 50,000 t as of 2026-03-31, in trial production and not yet at 达产 (line 1413: aim to reach full production). Treat as built, ramping."
+  }
+ ]
+}

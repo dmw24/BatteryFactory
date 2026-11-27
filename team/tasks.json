@@ -4440,12 +4440,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "21/22 quotes found; 1 demoted"
+   }
   },
   {
    "id": "SC192",
