@@ -168,7 +168,7 @@ Review these — they may be the same physical site under different names, or le
 | same operator + shared location token 'changshu' | Zenergy new 50 GWh battery base (Changshu High-tech Zone per Jiemian/STCN; English press says Xiangcheng, Suzhou) ⟷ Zenergy Changshu Plant | jiangsu-zenergy-suzhou-xiangcheng-plant-china, jiangsu-zenergy-zenergy-changshu-plant-china |
 | same operator + shared location token 'suichang' | Yuheng Battery Suichang 3 GWh LFP energy-storage battery project (Suichang Economic Development Zone, Lishui, Zhejiang) ⟷ Yuheng Battery Suichang (Lishui) 1 GWh lithium/sodium battery project | yuheng-battery-suichang-3gwh-lfp-storage-battery-project-china, yuheng-battery-yuheng-suichang-lishui-lithium-sodium-base-china |
 
-## 2. Capacity double-count / consistency flags (30 rows)
+## 2. Capacity double-count / consistency flags (32 rows)
 
 | plant | operator | region | nameplate GWh | flag |
 |---|---|---|---:|---|
@@ -186,6 +186,7 @@ Review these — they may be the same physical site under different names, or le
 | Zenergy Changshu Plant | Jiangsu Zenergy | China | 70.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | LG Energy Solution Nanjing (LGESNJ; Plants 6 and 9, Jiangning) | LG Energy Solution (Nanjing) Co., Ltd. | China | 54.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Li-FUN Zhuzhou Plant | Li-FUN Technology | China | 2.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| Gotion Liuzhou power battery base | Liuzhou Gotion Battery Co., Ltd. (Gotion High-tech subsidiary) | China | 30.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Narada Jiuquan storage cell base (Jiuquan Narada Smart Energy Storage Manufacturing Base) | Narada Power (Jiuquan Narada, wholly-owned subsidiary) | China | 4.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Phylion Suzhou Plant (Suzhou manufacturing base) | Phylion Battery (Xingheng Power Co., Ltd.) | China | 2.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | PowerCo Sagunto (Gigafactory Valencia) | PowerCo | Europe | 29.1 | capacity may be a hub/company-wide aggregate (double-count risk) |
@@ -196,6 +197,7 @@ Review these — they may be the same physical site under different names, or le
 | SVOLT Chengdu plant (Chengdu Eastern New Area base) | SVOLT Energy Technology (Honeycomb Energy / 蜂巢能源) | China | 31.5 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | SVOLT Shangrao Base | SVOLT Energy Technology | China | 24.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | SVOLT Ma'anshan plant | SVOLT (Svolt Energy Technology / 蜂巢能源) | China | 28.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
+| SVOLT Jintan plant (Changzhou) | SVOLT | China | 65.41 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Talent New Energy Chongqing Solid-State Plant | Talent New Energy | China | 2.2 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Lishen Chuzhou base (Quanjiao) | Tianjin Lishen Battery | China | 42.0 | capacity may be a hub/company-wide aggregate (double-count risk) |
 | Tianneng Changxing (South Taihu) Lithium Battery Base | Tianneng New Energy (Huzhou) Co., Ltd. (Zhejiang Tianneng Energy Storage Co.) | China | 10.0 | capacity may be a hub/company-wide aggregate (double-count risk) |

@@ -1,0 +1,152 @@
+{
+ "task": "T114",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1208/2023120800019.pdf",
+   "publisher": "REPT BATTERO Energy Co., Ltd. Global Offering prospectus (HKEX, 2023-12-08), Summary p.3; local text copy team/evidence/filings/REPT_prospectus_2023120800019.txt line 651 (line wraps collapsed to single spaces)",
+   "published": "2023-12-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Our designed annual production capacity reached 4.2GWh as of December 31, 2020 and up to December 31, 2021, and then reached 35.2GWh as of December 31, 2022 and up to June 30, 2023."
+  },
+  "S2": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1208/2023120800019.pdf",
+   "publisher": "REPT BATTERO prospectus (HKEX, 2023-12-08), Business - Existing Production Facilities table p.253 (Wenzhou Facilities, lines commenced in January 2019); PDF table whitespace/dot leaders collapsed; text copy line 12751-12753",
+   "published": "2023-12-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production lines commenced in January 2019 ... Effective production capacity (MWh)(1) ....... 2,281 2,281 2,281 1,140"
+  },
+  "S3": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/1208/2023120800019.pdf",
+   "publisher": "REPT BATTERO prospectus (HKEX, 2023-12-08), Business - Existing Production Facilities table p.254, Wenzhou Facilities subtotal (columns 2020, 2021, 2022, H1 2023; the H1 2023 column is six months); text copy line 12789; whitespace collapsed",
+   "published": "2023-12-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production lines commenced in September 2022 ... Subtotal ... Effective production capacity (MWh)(1) ....... 3,260 4,239 20,073 13,205"
+  },
+  "S4": {
+   "url": "https://cn.solarbe.com/news/20250331/50001426.html",
+   "publisher": "SolarBE / 碳索储能网 (reprint), Weichai-FinDreams (Yantai) phase 1 start-up; extracted via fetch tool, auditor please string-match",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "3月28日，“新质新动力 向电向未来”山东重工潍柴集团新能源战略转型推进会在烟台举行，潍柴弗迪（烟台）新能源动力产业园首台电池产品下线，标志着产业园项目一期正式投产。"
+  },
+  "S5": {
+   "url": "https://cn.solarbe.com/news/20250331/50001426.html",
+   "publisher": "SolarBE / 碳索储能网 (reprint), Weichai-FinDreams (Yantai) phase 1 capacity; extracted via fetch tool, auditor please string-match",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "建成20GWh电芯及PACK产线，相当于年产30万套商用车动力电池系统 ... 具备20GWh/年电芯产能"
+  },
+  "S6": {
+   "url": "https://cn.solarbe.com/news/20250331/50001426.html",
+   "publisher": "SolarBE / 碳索储能网 (reprint), Weichai-FinDreams (Yantai) phases 2-3 (no dates, no per-phase GWh); extracted via fetch tool, auditor please string-match",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目2023年11月正式落地，共分三期建设。 ... 专注打造50GWh动力电池和储能系统电芯及配套零部件生产基地"
+  },
+  "S7": {
+   "url": "https://autonews.gasgoo.com/articles/ev/byd-scales-up-battery-production-capacity-to-support-fast-growing-nev-sales-70019325",
+   "publisher": "Gasgoo, 'BYD scales up battery production capacity to support fast-growing NEV sales' (quote as recorded in T056 S3 and re-seen in T114 via fetch tool; capitalisation of 'The' per T056)",
+   "published": "2021-12-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The first phase of 10GWh ternary-lithium batteries was put into production in 2019."
+  },
+  "S8": {
+   "url": "https://autonews.gasgoo.com/articles/ev/byd-scales-up-battery-production-capacity-to-support-fast-growing-nev-sales-70019325",
+   "publisher": "Gasgoo, BYD Xi'an phase 2 status (undated; fetch tool extraction, auditor please string-match)",
+   "published": "2021-12-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The second phase is still under construction, according to an official reply given in Nov. 2020"
+  },
+  "S9": {
+   "url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+   "publisher": "SMM (Shanghai Metals Market), Far East First commissions 2GWh power battery capacity in Jiangsu (published 2019-05-13)",
+   "published": "2019-05-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "on Friday May 10 commissioned the first stage of its power battery project in Yixing of Jiangsu province."
+  },
+  "S10": {
+   "url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+   "publisher": "SMM (Shanghai Metals Market), Far East First phase 1 design capacity",
+   "published": "2019-05-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed to produce 2GWh of high-security, long-lifespan and low-cost soft pack power batteries per year."
+  },
+  "S11": {
+   "url": "https://news.metal.com/newscontent/100924947/Far-East-First-commissions-2GWh-power-battery-capacity-in-Jiangsu/",
+   "publisher": "SMM (Shanghai Metals Market), Far East First whole-project plan (plan, not a date)",
+   "published": "2019-05-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The whole project, with capacity of 12GWh, is expected to completely come online in three years"
+  }
+ },
+ "rows": [
+  {
+   "id": "rept-battero-rept-battero-wenzhou-plant-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 2.3, \"2020\": 4.2, \"2022\": 26.4}"
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S1", "S2", "S3"]
+   },
+   "confidence": 0.75,
+   "notes": "[T114] Dated Wenzhou phases from REPT's own HK prospectus (Dec 2023, open PDF), production-line commencement table: lines commenced Jan 2019 (effective 2,281 MWh/yr, S2), Jul 2020 (1,958 MWh), Jan 2022 (10,316 MWh/yr: 5,158 for six months), Jul 2022 (4,700 for six months = 9.4 GWh/yr), Sep 2022 (1,227 for six months = 2.454 GWh/yr) (S3 shows only the subtotal). Steps (design basis; the company's 'designed annual production capacity' equals the table's annualised effective capacity: 4.2 GWh at end-2020 and end-2021 = 2.281 + 1.958 = 4.239, S1): 2019 = 2.3 (Jan-2019 lines, S2; CONFLICT: T099's Jiemian 2023-12-18 quote said phase-1 line 3 GWh; the company's own table is used and 2.3 replaces 3); 2020 = 4.2 (S1; Jul-2020 lines add 1.958; only Wenzhou existed then, Jiashan lines began May 2022); 2022 = 26.4 = REPORTED SUM, my arithmetic: Wenzhou subtotal effective capacity for H1 2023 13,205 MWh (six months, S3) x 2 = 26.41 GWh/yr, all Wenzhou lines having commenced by Sep 2022; cross-check: company designed 35.2 GWh at 2022-end/Jun-2023 (S1) minus Jiashan 4,404 MWh x 2 = 8.8 GWh (prospectus Jiashan subtotal, not quoted) = 26.4, which also matches the '26 GWh phases 1+2 built' MarkLines figure in T007. Phase III (24 GWh): construction started July 2023 (prospectus), 竣工验收 (completion acceptance) of the Phase III workshops Jul 2025 (T007 S6, cscec.com.cn) - that is construction completion, not a production date; REPT FY2025 annual report gives only the group total (90 GWh designed at end-2025), no Wenzhou phase-III start-up. So phase III is undated for production: no step. capacity_ref_year NOT changed in this patch (stays 2025 = phase-III completion-acceptance year, ref_year: fallback, searched; phase III production undated), 26.4 of 50 GWh dated. Evidence tier note: effective-capacity basis equals design capacity per S1."
+  },
+  {
+   "id": "weichai-findreams-weichai-findreams-yantai-new-energy-power-industrial-park-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2025\": 20}",
+    "capacity_ref_year": 2025,
+    "start_year": 2025
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S4", "S5"],
+    "capacity_ref_year": ["S4", "S6"],
+    "start_year": ["S4"]
+   },
+   "confidence": 0.7,
+   "notes": "[T114] Re-confirmed (v1 step was reported tier): SolarBE 2025-03-31 (S4): first battery product off the line on 28 March 2025 'marks the official start of production of phase 1' (year from the article date/URL 20250331); S5: phase 1 built 20 GWh cell + PACK lines, '具备20GWh/年电芯产能' -> step 2025 = 20 (design basis, press). Phases 2-3 (remaining 30 of 50 GWh): the same article says the project is built in three phases and targets a 50 GWh cell base but gives no dates or per-phase GWh (S6); Xinhua/other Aug-2026 coverage mentions phase 2 'started' with 50 GWh for the commercial-vehicle 'big three electric' park, not a production date (search summary, not quoted). ref_year: latest dated phase; remainder undated (2025 = phase 1 production start). start_year 2025 from S4 (28 March 2025). Basis: design capacity, not output."
+  },
+  {
+   "id": "findreams-battery-byd-byd-findreams-xi-an-plant-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 10}",
+    "capacity_ref_year": 2019
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S7"],
+    "capacity_ref_year": ["S7", "S8"]
+   },
+   "confidence": 0.45,
+   "notes": "[T114] Phase table: phase 1 10 GWh ternary-lithium put into production 2019 (S7, Gasgoo 2021-12-13) -> step 2019 = 10 (same figure as T056 installed 10 as of 2019-12-31, dated floor). Phase 2 (reportedly blade-battery) 'still under construction' per a Nov-2020 official reply (S8); no later page located that dates its production (searches: 西安弗迪 草堂 30GWh 满产 二期 投产; Shaanxi S&T dept page kjt.shaanxi.gov.cn 2026-01-23 returned HTTP 503 again, so 'full production of 30 GWh' is still unverified). Remaining 20 of 30 GWh undated. capacity_ref_year 2025 (fallback) -> 2019: ref_year: latest dated phase; remainder undated. Nameplate 30 itself (Xueqiu aggregator, weak) unchanged; confidence unchanged."
+  },
+  {
+   "id": "far-east-first-new-energy-far-east-yixing-power-battery-plant-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 2}",
+    "capacity_ref_year": 2019
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S9", "S10"],
+    "capacity_ref_year": ["S9", "S10", "S11"]
+   },
+   "confidence": 0.4,
+   "notes": "[T114] Phase table (re-fetched SMM page, published 2019-05-13): phase 1 commissioned 2019-05-10 (S9), designed for 2 GWh/yr soft-pack batteries (S10) -> step 2019 = 2 (design basis; 'commissioned' not explicitly 'in production'; same figure as installed 2 as of 2019-05-10). Phases 2+ (10 GWh): only the 2019 plan that the whole 12 GWh 'is expected to completely come online in three years' (S11) - a plan target, not a production date; no later phase news found (checked local copy of the 2025 annual report of 600869: no Yixing battery capacity; search 远东首诺 宜兴 二期 投产 found only the 2019 report). capacity_ref_year 2022 (derived 2019+3 years from the plan wording) -> 2019: ref_year: latest dated phase; remainder undated (the plan year 2022 is not a stated or confirmed phase year; lead may revert to 2022 if derived plan years are wanted). Confidence stays 0.4 (stale plan, status of phases 2+ unknown)."
+  }
+ ]
+}

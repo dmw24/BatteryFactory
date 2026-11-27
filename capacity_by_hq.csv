@@ -1,5 +1,5 @@
 year,hq,plant_region,gwh_built_nameplate,gwh_producing
-2020,China,China,116.6,102.6
+2020,China,China,109.8,95.8
 2020,China,Europe,0.0,0.0
 2020,China,Japan,2.6,2.6
 2020,China,USA,0.0,0.0
@@ -10,7 +10,7 @@ year,hq,plant_region,gwh_built_nameplate,gwh_producing
 2020,South Korea,Europe,7.5,7.5
 2020,South Korea,South Korea,5.0,5.0
 2020,South Korea,USA,0.0,0.0
-2021,China,China,246.9,232.9
+2021,China,China,240.1,226.1
 2021,China,Europe,0.0,0.0
 2021,China,Japan,2.6,2.6
 2021,China,USA,0.0,0.0
@@ -27,7 +27,7 @@ year,hq,plant_region,gwh_built_nameplate,gwh_producing
 2021,South Korea,Europe,37.5,37.5
 2021,South Korea,South Korea,5.0,5.0
 2021,South Korea,USA,0.0,0.0
-2022,China,China,613.9,589.9
+2022,China,China,614.3,589.9
 2022,China,Europe,8.0,8.0
 2022,China,Japan,2.6,2.6
 2022,China,USA,0.0,0.0
@@ -48,7 +48,7 @@ year,hq,plant_region,gwh_built_nameplate,gwh_producing
 2022,South Korea,Europe,57.0,50.0
 2022,South Korea,South Korea,5.0,5.0
 2022,South Korea,USA,14.8,14.8
-2023,China,China,1344.2,1321.2
+2023,China,China,1344.6,1321.2
 2023,China,Europe,14.0,14.0
 2023,China,Japan,2.6,2.6
 2023,China,USA,0.0,0.0
@@ -71,7 +71,7 @@ year,hq,plant_region,gwh_built_nameplate,gwh_producing
 2023,South Korea,Europe,143.0,130.0
 2023,South Korea,South Korea,33.0,33.0
 2023,South Korea,USA,57.0,57.0
-2024,China,China,1603.2,1580.2
+2024,China,China,1608.6,1580.2
 2024,China,Europe,14.0,14.0
 2024,China,Japan,2.6,2.6
 2024,China,USA,0.0,0.0
@@ -96,7 +96,7 @@ year,hq,plant_region,gwh_built_nameplate,gwh_producing
 2024,South Korea,South Korea,33.0,33.0
 2024,South Korea,Southeast Asia,25.0,25.0
 2024,South Korea,USA,92.0,92.0
-2025,China,China,2686.3,2603.2
+2025,China,China,2691.8,2603.2
 2025,China,Europe,39.8,39.8
 2025,China,Japan,2.6,2.6
 2025,China,Southeast Asia,42.4,42.4

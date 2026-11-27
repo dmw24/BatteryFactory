@@ -1,0 +1,70 @@
+{
+ "task": "T115",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.parkworld.net/post/8dc72b0515f936c",
+   "publisher": "Parkworld (园区世界), Gotion Liuzhou phase 1 (re-fetched 2026-11-27, same wording as T005 S27)",
+   "published": "2024-05-12",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期年产能10GWh项目已于2022年9月投产，2024年将建成年产能20GWh的磷酸铁锂电池生产基地。"
+  },
+  "S2": {
+   "url": "https://www.parkworld.net/post/8dc72b0515f936c",
+   "publisher": "Parkworld (园区世界), Gotion Liuzhou phase 2 first 5 GWh line (re-fetched 2026-11-27, same wording as T005 S26)",
+   "published": "2024-05-12",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目第一阶段的5GWh（亿瓦时）产线已投产，预计今年5月底至6月初实现量产。"
+  },
+  "S3": {
+   "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202306/001266_20230630_W9V9.pdf",
+   "publisher": "SVOLT (蜂巢能源) STAR-market prospectus inquiry reply, June 2023, p.8-1-734 table row 常州新能源动力电池生产项目 (status at 2022-12-31); text read from local copy team/evidence/filings/SVOLT_prospectus_202306.txt lines 28886-28892 (table cells split over lines)",
+   "published": "2023-06-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期项目-完工并投产；...二期项目-完工并投产；...三期项目-完工并投产；...四期项目-建设中；"
+  },
+  "S4": {
+   "url": "https://auto.sina.cn/news/zz/2019-11-28/detail-iihnzhfz2176579.d.html",
+   "publisher": "Sina Auto (新浪汽车, reporting Beijing News), SVOLT Jintan phase 1 start-up 2019-11-27 (re-fetched 2026-11-27)",
+   "published": "2019-11-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "工程建设分为三期，本次投产的一期项目规划产能4GWh，二期项目规划产能8GWh，预计2020年年底投产，随后将进行三期6GWh产能的建设。"
+  }
+ },
+ "rows": [
+  {
+   "id": "liuzhou-gotion-battery-co-ltd-gotion-high-tech-subsidiary-gotion-liuzhou-power-battery-base-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2022\": 10, \"2024\": 15}",
+    "capacity_ref_year": 2024
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S1", "S2"],
+    "capacity_ref_year": ["S1", "S2"]
+   },
+   "confidence": 0.45,
+   "notes": "[T115] Phase dating: phase 1 10 GWh in production since 2022-09 (S1) -> step 2022 = 10 (already in the row, now carried with its quote). Phase 2 first-stage 5 GWh line described as '已投产' on 2024-05-12 with mass production (量产) expected end-May/early-June 2024 (S2) -> cumulative step 2024 = 15 = 10 (S1) + 5 (S2); this is a SUM of two quoted phases (reported step) and rests on one press page (Parkworld) that says the line is 'put into production' but not yet in mass production, so it may be a trial-production statement: lead/auditor may drop the 2024 step. The same page says phase 2 as a whole is 'expected to be completed in 2025' (二期项目整体预计于2025年建设完成) = a construction-completion estimate, NOT a production year, so the remaining phase-2 5 GWh and phase 3 10 GWh (site plan 30 GWh) stay undated. ref_year: latest dated phase; remainder undated (2024). No 竣工环境保护验收 notice found for Liuzhou Gotion in 3 searches (only 2022 announcements/MarkLines plan items); the Liuzhou government page tzcjj.liuzhou.gov.cn returned 503. installed_capacity_gwh (10 as of 2024-05-12, T005) not touched."
+  },
+  {
+   "id": "svolt-svolt-jintan-plant-changzhou-china",
+   "action": "update",
+   "fields": {
+    "capacity_by_year_json": "{\"2019\": 4, \"2022\": 18}",
+    "capacity_ref_year": 2022,
+    "start_year": 2019
+   },
+   "evidence": {
+    "capacity_by_year_json": ["S3", "S4"],
+    "capacity_ref_year": ["S3", "S4"],
+    "start_year": ["S4"]
+   },
+   "confidence": 0.5,
+   "notes": "[T115] Phase dating: phase 1 4 GWh 'the phase put into production this time' on 2019-11-27 (S4, Sina 2019-11-28) -> step 2019 = 4; phases 1-3 all '完工并投产' at 2022-12-31 per SVOLT's June-2023 filing (S3) with phase sizes 4 + 8 + 6 (S4: phase 2 8 GWh, phase 3 6 GWh are plan figures in the 2019 article) -> cumulative step 2022 = 18 (sum of quoted phases: 4 + 8 + 6 = 18; reported step; year 2022 = latest date by which all three were in production, the individual phase 2/3 years are not found: S4 only says phase 2 was 'expected end-2020'). v1 step 2020 = 12 DROPPED (rests on a plan 'expected end-2020' and a Wikipedia line, no production statement quoted). Phase 4 (the 47.41 GWh expansion in nameplate 65.41) was 'under construction' at 2022-12-31 (S3) and has no production year anywhere in the filings I could read (the Nov-2022 prospectus table lists only planned dates; the filing's projected output 2.9 GWh 2024 / 7.4 GWh 2025 is output, not capacity) -> undated. ref_year: latest dated phase; remainder undated (2022 = year phases 1-3 were in production; 47.41 of 65.41 GWh undated). start_year 2019 = phase 1 production start 2019-11-27 (S4), upgraded from v1-reported. No 竣工环境保护验收 notice found (Changzhou EPB search returned no SVOLT acceptance document)."
+  }
+ ]
+}
