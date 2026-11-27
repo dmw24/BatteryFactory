@@ -1,0 +1,127 @@
+year,hq,plant_region,gwh_built_nameplate,gwh_producing
+2020,China,China,116.6,102.6
+2020,China,Europe,0.0,0.0
+2020,China,Japan,2.6,2.6
+2020,China,USA,0.0,0.0
+2020,Europe,Europe,1.0,1.0
+2020,Japan,Japan,0.1,0.1
+2020,Japan,USA,35.0,35.0
+2020,Other/unknown,China,0.1,0.1
+2020,South Korea,Europe,7.5,7.5
+2020,South Korea,South Korea,5.0,5.0
+2020,South Korea,USA,0.0,0.0
+2021,China,China,246.9,232.9
+2021,China,Europe,0.0,0.0
+2021,China,Japan,2.6,2.6
+2021,China,USA,0.0,0.0
+2021,Europe,Europe,1.0,1.0
+2021,India,India,0.0,0.0
+2021,Japan,India,0.0,0.0
+2021,Japan,Japan,0.1,0.1
+2021,Japan,USA,39.0,39.0
+2021,North America,Europe,0.0,0.0
+2021,Other/unknown,China,0.1,0.1
+2021,Other/unknown,Europe,0.3,0.3
+2021,Other/unknown,Southeast Asia,1.0,1.0
+2021,South Korea,China,10.0,10.0
+2021,South Korea,Europe,37.5,37.5
+2021,South Korea,South Korea,5.0,5.0
+2021,South Korea,USA,0.0,0.0
+2022,China,China,613.9,589.9
+2022,China,Europe,8.0,8.0
+2022,China,Japan,2.6,2.6
+2022,China,USA,0.0,0.0
+2022,Europe,Europe,1.0,1.0
+2022,India,India,0.0,0.0
+2022,India,South Korea,2.0,2.0
+2022,Japan,India,0.0,0.0
+2022,Japan,Japan,0.1,0.1
+2022,Japan,USA,39.0,39.0
+2022,North America,Europe,0.0,0.0
+2022,North America,USA,0.0,0.0
+2022,Other/unknown,China,1.1,1.1
+2022,Other/unknown,Europe,0.5,0.5
+2022,Other/unknown,India,0.3,0.3
+2022,Other/unknown,Southeast Asia,1.0,1.0
+2022,Other/unknown,USA,1.0,1.0
+2022,South Korea,China,27.0,27.0
+2022,South Korea,Europe,57.0,50.0
+2022,South Korea,South Korea,5.0,5.0
+2022,South Korea,USA,14.8,14.8
+2023,China,China,1344.2,1321.2
+2023,China,Europe,14.0,14.0
+2023,China,Japan,2.6,2.6
+2023,China,USA,0.0,0.0
+2023,Europe,Europe,14.4,14.4
+2023,India,India,0.1,0.1
+2023,India,South Korea,2.0,2.0
+2023,Japan,India,0.0,0.0
+2023,Japan,Japan,0.1,0.1
+2023,Japan,USA,39.0,39.0
+2023,North America,Europe,0.0,0.0
+2023,North America,USA,5.0,5.0
+2023,Other/unknown,China,6.1,6.1
+2023,Other/unknown,Europe,0.8,0.8
+2023,Other/unknown,India,0.3,0.3
+2023,Other/unknown,Rest of World,0.0,0.0
+2023,Other/unknown,South Korea,0.0,0.0
+2023,Other/unknown,Southeast Asia,1.0,1.0
+2023,Other/unknown,USA,2.0,2.0
+2023,South Korea,China,27.0,27.0
+2023,South Korea,Europe,143.0,130.0
+2023,South Korea,South Korea,33.0,33.0
+2023,South Korea,USA,57.0,57.0
+2024,China,China,1603.2,1580.2
+2024,China,Europe,14.0,14.0
+2024,China,Japan,2.6,2.6
+2024,China,USA,0.0,0.0
+2024,Europe,Europe,15.9,15.9
+2024,India,India,0.1,0.1
+2024,India,South Korea,2.0,2.0
+2024,Japan,India,0.0,0.0
+2024,Japan,Japan,6.1,6.1
+2024,Japan,Rest of World,0.0,0.0
+2024,Japan,USA,39.0,39.0
+2024,North America,Europe,16.0,16.0
+2024,North America,USA,20.0,20.0
+2024,Other/unknown,China,10.1,10.1
+2024,Other/unknown,Europe,0.8,0.8
+2024,Other/unknown,India,0.3,0.3
+2024,Other/unknown,Rest of World,3.0,3.0
+2024,Other/unknown,South Korea,0.0,0.0
+2024,Other/unknown,Southeast Asia,1.1,1.1
+2024,Other/unknown,USA,2.0,2.0
+2024,South Korea,China,27.0,27.0
+2024,South Korea,Europe,173.0,160.0
+2024,South Korea,South Korea,33.0,33.0
+2024,South Korea,Southeast Asia,25.0,25.0
+2024,South Korea,USA,92.0,92.0
+2025,China,China,2686.3,2603.2
+2025,China,Europe,39.8,39.8
+2025,China,Japan,2.6,2.6
+2025,China,Southeast Asia,42.4,42.4
+2025,China,USA,7.0,7.0
+2025,Europe,Europe,39.9,39.9
+2025,Europe,Rest of World,0.0,0.0
+2025,India,India,1.4,1.4
+2025,India,South Korea,0.0,0.0
+2025,Japan,India,0.0,0.0
+2025,Japan,Japan,13.1,13.1
+2025,Japan,Rest of World,0.0,0.0
+2025,Japan,USA,103.0,103.0
+2025,North America,China,3.5,3.5
+2025,North America,Europe,0.0,0.0
+2025,North America,USA,20.0,20.0
+2025,Other/unknown,China,20.1,20.1
+2025,Other/unknown,Europe,3.8,3.8
+2025,Other/unknown,India,0.3,0.3
+2025,Other/unknown,Rest of World,3.0,3.0
+2025,Other/unknown,South Korea,0.0,0.0
+2025,Other/unknown,Southeast Asia,4.1,1.1
+2025,Other/unknown,USA,0.2,0.2
+2025,South Korea,China,27.0,27.0
+2025,South Korea,Europe,173.0,160.0
+2025,South Korea,Rest of World,49.5,49.5
+2025,South Korea,South Korea,35.0,35.0
+2025,South Korea,Southeast Asia,25.0,25.0
+2025,South Korea,USA,141.5,141.5

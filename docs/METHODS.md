@@ -40,6 +40,13 @@ Rules: never sum across statuses; aggregates use `factories_active` (active, com
 | 2024 | 0.40 | 2.05 | 2.09 | 2.68 | 2.47 | 2.51 | 3.0 | 3.1 | – |
 | 2025 | 1.20 | 3.34 | 3.44 | 4.33 | 3.50 | 3.50 | >4.0 | – | 4.8 |
 
+## Extra views
+- `company_utilisation.csv` — disclosed output vs disclosed capacity (utilisation) and vs our producing capacity; output
+  above our capacity proves missing site capacity. Output is also used as a labelled floor in Series E (D-038).
+- `capacity_by_hq.csv` — capacity by the cell maker's headquarters × plant region (JVs assigned to the battery maker;
+  IEA splits JVs by ownership share). 2025 built nameplate: China-HQ 2.78 TWh, Korea-HQ 0.45, Japan-HQ 0.12, Europe 0.04,
+  North America 0.02.
+
 ## Completeness checks done
 Two geographic passes (every Chinese province, every region), operator site lists for the top makers, China's
 CABIA top-15 and ESS rankings, the official MIIT 锂离子电池行业规范条件 lists (batches 1–9; ~81 cell makers, 68
