@@ -4205,12 +4205,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "all sampled MIIT quotes found locally; 18 adds, 16 updates"
+   }
   },
   {
    "id": "SC030",
@@ -4245,6 +4249,58 @@
    "owner": "worker",
    "files": [
     "data/supply_chain/patches/SC031.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC021",
+   "title": "Nickel — mines and refineries outside Indonesia (Philippines, Russia, Canada, New Caledonia, Australia, China, Brazil, other) + nickel sulphate plants",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC021.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC016",
+   "title": "Graphite — China natural graphite mines and spherical graphite plants",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC016.json"
    ],
    "depends_on": [],
    "acceptance": [

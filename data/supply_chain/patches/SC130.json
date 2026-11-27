@@ -1,0 +1,1032 @@
+{
+ "task": "SC130",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S01": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_d7e3fb3400e149ab82d54256f2e2bd6f.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第一批）",
+   "published": "2017-04-17",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "天津巴莫科技股份有限公司（正极材料） 天津市高新区"
+  },
+  "S02": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_d7e3fb3400e149ab82d54256f2e2bd6f.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第一批）",
+   "published": "2017-04-17",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "江苏必康制药股份有限公司（电解液） 江苏省南通市"
+  },
+  "S03": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_d7e3fb3400e149ab82d54256f2e2bd6f.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第一批）",
+   "published": "2017-04-17",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "九江天赐高新材料有限公司（电解液） 江西省九江市"
+  },
+  "S04": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "中信国安盟固利电源技术有限公司（正极材料） 北京市昌平区"
+  },
+  "S05": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "天津市贝特瑞新能源科技有限公司（负极材料） 天津市宝坻区"
+  },
+  "S06": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "河北金力新能源科技股份有限公司（隔膜） 河北省邯郸市"
+  },
+  "S07": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "多氟多化工股份有限公司（电解液） 河南省焦作市"
+  },
+  "S08": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "珠海市赛纬电子材料股份有限公司（电解液） 广东省珠海市"
+  },
+  "S09": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第二批）",
+   "published": "2018-01-15",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "佛山市德方纳米科技有限公司（正极材料） 广东省佛山市"
+  },
+  "S10": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第三批）",
+   "published": "2019-01-02",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "南通新宙邦电子材料有限公司（电解液） 江苏省南通市"
+  },
+  "S11": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第三批）",
+   "published": "2019-01-02",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "福建翔丰华新能源材料有限公司（负极材料） 福建省永安市"
+  },
+  "S12": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第三批）",
+   "published": "2019-01-02",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "河南科隆新能源股份有限公司（正极材料） 河南省新乡市"
+  },
+  "S13": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第三批）",
+   "published": "2019-01-02",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "桑顿新能源科技有限公司（正极材料） 湖南省湘潭市"
+  },
+  "S14": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第三批）",
+   "published": "2019-01-02",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "贵州振华新材料有限公司（正极材料） 贵州省贵阳市"
+  },
+  "S15": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第六批）",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "贝特瑞（天津）纳米材料制造有限公司（正极 1 天津 材料）"
+  },
+  "S16": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第六批）",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "3 安徽 界首市天鸿新材料股份有限公司（隔膜）"
+  },
+  "S17": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第六批）",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "11 河南 新乡天力锂能股份有限公司（正极材料）"
+  },
+  "S18": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第六批）",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "13 陕西 陕西红马科技有限公司（正极材料）"
+  },
+  "S19": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第七批）",
+   "published": "2023-12-26",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "5 江西 江西省金锂科技股份有限公司（正极材料）"
+  },
+  "S20": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第七批）",
+   "published": "2023-12-26",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "6 江西 江西智锂科技股份有限公司（正极材料）"
+  },
+  "S21": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2024/art_5ad6b19cb6fd4c9cbface21e7a5bbf1a.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第八批）",
+   "published": "2024-08-30",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "17 湖北 湖北容百锂电材料有限公司 正极材料"
+  },
+  "S22": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2024/art_5ad6b19cb6fd4c9cbface21e7a5bbf1a.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第八批）",
+   "published": "2024-08-30",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "18 湖北 湖北万润新能源科技股份有限公司 正极材料"
+  },
+  "S23": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2024/art_5ad6b19cb6fd4c9cbface21e7a5bbf1a.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第八批）",
+   "published": "2024-08-30",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "27 新疆 新疆天宏基科技有限公司 负极材料"
+  },
+  "S24": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "1 山西 山西新创新材料有限公司 负极材料"
+  },
+  "S25": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "7 浙江 浙江巴莫科技有限责任公司 正极材料"
+  },
+  "S26": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "9 安徽 合肥国轩电池材料有限公司 正极材料"
+  },
+  "S27": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "17 山东 中材锂膜有限公司 隔膜"
+  },
+  "S28": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "河南惠强新能源材料科技股份有限 21 河南 隔膜 公司"
+  },
+  "S29": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "湖南裕能新能源电池材料股份有限 24 湖南 正极材料 公司"
+  },
+  "S30": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "25 湖南 中材锂膜（宁乡）有限公司 隔膜"
+  },
+  "S31": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "33 四川 成都巴莫科技有限责任公司 正极材料"
+  },
+  "S32": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+   "publisher": "MIIT 符合《锂离子电池行业规范条件》企业名单（第九批）",
+   "published": "2026-03-04",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "34 四川 四川杉杉新材料有限公司 负极材料"
+  },
+  "S33": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+   "publisher": "MIIT 锂离子电池行业规范企业变更公告信息 (2023; change notice for listed enterprises, 公告2023年第39号)",
+   "published": "2023-12-26",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "湖南杉杉新能源有限公司 巴斯夫杉杉电池材料（宁乡） 4 （正极材料） 有限公司（正极材料）"
+  },
+  "S34": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+   "publisher": "MIIT 锂离子电池行业规范企业变更公告信息 (2023; change notice for listed enterprises, 公告2023年第39号)",
+   "published": "2023-12-26",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "杉杉能源（宁夏）有限公司 巴斯夫杉杉电池材料（宁夏） 5 （正极材料） 有限公司（正极材料）"
+  },
+  "S35": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 撤销锂离子电池行业规范公告企业名单（第一批）(公告2022年第37号)",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "2 北京 中信国安盟固利电源技术有限公司（正极材料）"
+  },
+  "S36": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+   "publisher": "MIIT 撤销锂离子电池行业规范公告企业名单（第一批）(公告2022年第37号)",
+   "published": "2022-12-29",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "4 江苏 江苏必康制药股份有限公司（电解液）"
+  },
+  "S37": {
+   "url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+   "publisher": "MIIT 撤销锂离子电池行业规范公告企业名单（第二批）(公告2023年第39号)",
+   "published": "2023-12-26",
+   "accessed": "2026-11-23",
+   "language": "zh",
+   "quote": "1 湖南 湖南桑顿新能源科技有限公司（正极材料）"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "citic-guoan-mengguli-beijing-changping-china",
+   "fields": {
+    "asset_name": "CITIC Guoan Mengguli Power Technology (中信国安盟固利电源技术有限公司), Changping, Beijing - cathode materials (MIIT-listed, listing revoked 2022)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "CITIC Guoan Mengguli Power Technology (中信国安盟固利电源技术有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Beijing (Changping)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S04"
+    ],
+    "project_state": [
+     "S35"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Listed in MIIT batch 2 (2018-01-15) as a cathode-materials maker, Changping district, Beijing; REVOKED from the compliant list in announcement 2022 No.37 (2022-12-29). project_state set to paused because the revocation reason is not stated in the list (it may mean closure, relocation or a missed re-audit); status 'operational' reflects only that the entity was listed as producing. Capacity not disclosed (an official listing proves the entity produces, not its size). Possible relation to existing row mengguli-baodi-cathode-china (Tianjin Guoan Mengguli, Baodi; same brand, different legal entity and place; batch5_proposed lists 天津国安盟固利新材料科技有限公司 at Baodi) is NOT evidenced by any opened source - kept as a separate row with null capacity so nothing double counts."
+  },
+  {
+   "action": "add",
+   "id": "henan-kelong-new-energy-xinxiang-china",
+   "fields": {
+    "asset_name": "Henan Kelong New Energy (河南科隆新能源股份有限公司), Xinxiang - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Henan Kelong New Energy (河南科隆新能源股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan (Xinxiang)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2019-01-02"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 3 (2019-01-02), cathode materials, Xinxiang, Henan. Not found in the later revocation lists (revoked1/revoked2) but current operating status after 2019 is not evidenced. Capacity not disclosed in the list. Not to be confused with Kehen (科恒, Yingde) row kehen-yingde-cathode-china - different entity."
+  },
+  {
+   "action": "add",
+   "id": "sundon-new-energy-xiangtan-china",
+   "fields": {
+    "asset_name": "Sundon New Energy Technology (桑顿新能源科技有限公司), Xiangtan - cathode materials (MIIT-listed, listing revoked 2023)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Sundon New Energy Technology (桑顿新能源科技有限公司; revoked-list name 湖南桑顿新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan (Xiangtan)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_c89a8b0d805642139e77027cb736f046.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2019-01-02"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "project_state": [
+     "S37"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Listed in MIIT batch 3 (2019-01-02) as 桑顿新能源科技有限公司 (Xiangtan, Hunan, cathode materials); the revocation list 2 (announcement 2023 No.39, 2023-12-26) removes 湖南桑顿新能源科技有限公司 (cathode, Hunan). The two names are matched as the same entity on province, product and the shared 桑顿 brand - the names differ by the prefix 湖南, so this match is probable, not certain. project_state paused because the revocation reason is not stated. Capacity not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "btr-tianjin-nano-materials-tianjin-china",
+   "fields": {
+    "asset_name": "BTR (Tianjin) Nano Materials Manufacturing (贝特瑞（天津）纳米材料制造有限公司) - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料 per the MIIT list; chemistry not stated)",
+    "asset_type": "cathode plant",
+    "operator": "BTR (Tianjin) Nano Materials Manufacturing (贝特瑞（天津）纳米材料制造有限公司)",
+    "parent_company": "BTR New Material Group (贝特瑞)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Tianjin",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-29"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 6 (2022-12-29), category 正极材料 (cathode), province Tianjin; the list gives no district. Distinct legal entity from 天津市贝特瑞新能源科技有限公司 (anode, Baodi; existing row btr-tianjin-anode-china). Parent BTR inferred from the 贝特瑞 name. Capacity not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "xinxiang-tianli-lithium-energy-xinxiang-china",
+   "fields": {
+    "asset_name": "Xinxiang Tianli Lithium Energy (新乡天力锂能股份有限公司), Xinxiang - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Xinxiang Tianli Lithium Energy (新乡天力锂能股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan (Xinxiang)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-29"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 6 (2022-12-29), cathode materials, Henan; city Xinxiang inferred from the company name. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "shaanxi-hongma-technology-china",
+   "fields": {
+    "asset_name": "Shaanxi Hongma Technology (陕西红马科技有限公司) - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Shaanxi Hongma Technology (陕西红马科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shaanxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-29"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 6 (2022-12-29), cathode materials, Shaanxi. City not stated. Capacity not disclosed in the list. Not to be confused with Wanrun's Hongmai Gaoke (宏迈高科)."
+  },
+  {
+   "action": "add",
+   "id": "jiangxi-jinli-technology-china",
+   "fields": {
+    "asset_name": "Jiangxi Jinli Technology (江西省金锂科技股份有限公司) - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Jiangxi Jinli Technology (江西省金锂科技股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-12-26"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 7 (2023-12-26), cathode materials, Jiangxi. City not stated. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "jiangxi-zhili-technology-china",
+   "fields": {
+    "asset_name": "Jiangxi Zhili Technology (江西智锂科技股份有限公司) - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Jiangxi Zhili Technology (江西智锂科技股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2023/art_52bbdfbded4a4b4581dedb94f9f6bdd4.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-12-26"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 7 (2023-12-26), cathode materials, Jiangxi. City not stated. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "zhejiang-bamo-technology-china",
+   "fields": {
+    "asset_name": "Zhejiang Bamo Technology (浙江巴莫科技有限责任公司) - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Zhejiang Bamo Technology (浙江巴莫科技有限责任公司)",
+    "parent_company": "Zhejiang Huayou Cobalt (巴莫 brand)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 9 (2026-03-04), cathode materials, Zhejiang. City not stated in the list; parent inferred from the 巴莫 name (Bamo = Huayou's cathode business per existing rows). POSSIBLE OVERLAP with existing row huayou-quzhou-china (Huayou New Energy Technology (Quzhou), capacity null) or zhejiang-pohua-cathode-china; no opened source ties the Zhejiang Bamo legal entity to either site, so kept separate with null capacity. Capacity not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "hefei-gotion-battery-materials-hefei-china",
+   "fields": {
+    "asset_name": "Hefei Gotion Battery Materials (合肥国轩电池材料有限公司), Hefei - cathode materials (MIIT-listed)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode material (正极材料; chemistry not stated in the list)",
+    "asset_type": "cathode plant",
+    "operator": "Hefei Gotion Battery Materials (合肥国轩电池材料有限公司)",
+    "parent_company": "Gotion High-Tech (国轩高科)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Hefei)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t CAM",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 9 (2026-03-04), cathode materials, Anhui; city Hefei inferred from the company name. POSSIBLE OVERLAP: the SC121 note on existing row gotion-materials-ncm-cathode-china (30 kt NCM, capacity 30,000 t) says the executing entity is 'probably 合肥国轩电池材料有限公司' (not confirmed). Kept as a separate row with null capacity so that the 30 kt is not counted twice; the lead may merge. Also distinct from 合肥国轩科宏 (Lujiang Kehong project row). Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "xinjiang-tianhongji-technology-china",
+   "fields": {
+    "asset_name": "Xinjiang Tianhongji Technology (新疆天宏基科技有限公司) - anode materials (MIIT-listed)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "anode material (负极材料; type not stated in the list)",
+    "asset_type": "anode plant",
+    "operator": "Xinjiang Tianhongji Technology (新疆天宏基科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Xinjiang",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t anode",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2024/art_5ad6b19cb6fd4c9cbface21e7a5bbf1a.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-08-30"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 8 (2024-08-30), anode materials, Xinjiang. City not stated. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "shanxi-xinchuang-new-materials-china",
+   "fields": {
+    "asset_name": "Shanxi Xinchuang New Materials (山西新创新材料有限公司) - anode materials (MIIT-listed)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "anode material (负极材料; type not stated in the list)",
+    "asset_type": "anode plant",
+    "operator": "Shanxi Xinchuang New Materials (山西新创新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shanxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t anode",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 9 (2026-03-04), anode materials, Shanxi. City not stated. Possible relation to the Shanxi Shangtai (Xiyang) rows is NOT evidenced (different name). Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "hebei-jinli-new-energy-handan-china",
+   "fields": {
+    "asset_name": "Hebei Jinli New Energy Technology (河北金力新能源科技股份有限公司), Handan - separator (MIIT-listed)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (隔膜)",
+    "asset_type": "separator plant",
+    "operator": "Hebei Jinli New Energy Technology (河北金力新能源科技股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hebei (Handan)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "Mm2 separator",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S06"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 2 (2018-01-15), separator, Handan, Hebei. Not in the revocation lists. Capacity not disclosed in the list; later operating status not evidenced."
+  },
+  {
+   "action": "add",
+   "id": "jieshou-tianhong-new-materials-jieshou-china",
+   "fields": {
+    "asset_name": "Jieshou Tianhong New Materials (界首市天鸿新材料股份有限公司), Jieshou - separator (MIIT-listed)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (隔膜)",
+    "asset_type": "separator plant",
+    "operator": "Jieshou Tianhong New Materials (界首市天鸿新材料股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Jieshou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "Mm2 separator",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2022/art_17e765bb3c0547d6854fc20559f58936.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-29"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 6 (2022-12-29), separator, Anhui; city Jieshou taken from the company name. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "henan-huiqiang-new-energy-materials-china",
+   "fields": {
+    "asset_name": "Henan Huiqiang New Energy Materials Technology (河南惠强新能源材料科技股份有限公司) - separator (MIIT-listed)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator (隔膜)",
+    "asset_type": "separator plant",
+    "operator": "Henan Huiqiang New Energy Materials Technology (河南惠强新能源材料科技股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "Mm2 separator",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_b27da8133cf04e2c94d35cbb0e5d84c0.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 9 (2026-03-04), separator, Henan. City not stated. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "jiangsu-bikang-pharmaceutical-nantong-china",
+   "fields": {
+    "asset_name": "Jiangsu Bikang Pharmaceutical (江苏必康制药股份有限公司), Nantong - electrolyte (MIIT-listed, listing revoked 2022)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte (电解液)",
+    "asset_type": "electrolyte plant",
+    "operator": "Jiangsu Bikang Pharmaceutical (江苏必康制药股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu (Nantong)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity_unit": "t electrolyte",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_d7e3fb3400e149ab82d54256f2e2bd6f.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2017-04-17"
+   },
+   "evidence": {
+    "status": [
+     "S02"
+    ],
+    "project_state": [
+     "S36"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Listed in MIIT batch 1 (2017-04-17) as an electrolyte maker, Nantong, Jiangsu; REVOKED in announcement 2022 No.37 (2022-12-29). project_state paused because the revocation reason is not stated in the list; status 'operational' reflects only that it was listed as producing. Capacity not disclosed. Not to be confused with Capchem Nantong (南通新宙邦)."
+  },
+  {
+   "action": "add",
+   "id": "jiujiang-tinci-advanced-materials-jiujiang-china",
+   "fields": {
+    "asset_name": "Jiujiang Tinci Advanced Materials (九江天赐高新材料有限公司), Jiujiang - electrolyte (MIIT-listed)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte (电解液)",
+    "asset_type": "electrolyte plant",
+    "operator": "Jiujiang Tinci Advanced Materials (九江天赐高新材料有限公司)",
+    "parent_company": "Tinci Materials (天赐材料, 002709)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Jiujiang)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t electrolyte",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_d7e3fb3400e149ab82d54256f2e2bd6f.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2017-04-17"
+   },
+   "evidence": {
+    "status": [
+     "S03"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 1 (2017-04-17), electrolyte, Jiujiang, Jiangxi. The same legal entity is the operator of existing row tinci-jiujiang-200kt-lithium-materials-china (an under_construction 200 kt project at Hukou Jinshawan park). The MIIT listing (2017) concerns an older operating plant and cannot be tied to that project's site, so a separate row is used and the under_construction row is left unchanged; capacity null here to avoid double counting. The lead may merge if the plants are the same. Capacity not disclosed in the list."
+  },
+  {
+   "action": "add",
+   "id": "zhuhai-saiwei-electronic-materials-zhuhai-china",
+   "fields": {
+    "asset_name": "Zhuhai Saiwei Electronic Materials (珠海市赛纬电子材料股份有限公司), Zhuhai - electrolyte (MIIT-listed)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte (电解液)",
+    "asset_type": "electrolyte plant",
+    "operator": "Zhuhai Saiwei Electronic Materials (珠海市赛纬电子材料股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong (Zhuhai)",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity_unit": "t electrolyte",
+    "end_market": "battery",
+    "source_url": "https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_a9cf0c3bb7a347a0a3c61bc21520b5df.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S08"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed in MIIT batch 2 (2018-01-15), electrolyte, Zhuhai, Guangdong. Not in the revocation lists. Capacity not disclosed in the list; later operating status not evidenced."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-tianjin-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S01"
+    ]
+   },
+   "notes": "MIIT batch 1 lists 天津巴莫科技股份有限公司 (cathode, Tianjin high-tech zone); matched to this row by operator name (Tianjin B&M Science and Technology) and city. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "dynanonic-foshan-lfp-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S09"
+    ]
+   },
+   "notes": "MIIT batch 2 lists 佛山市德方纳米科技有限公司 (cathode, Foshan); exact operator-name match. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "zhenhua-new-material-guiyang-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S14"
+    ]
+   },
+   "notes": "MIIT batch 3 lists 贵州振华新材料有限公司 (cathode, Guiyang); exact operator-name match. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-ezhou-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S21"
+    ]
+   },
+   "notes": "MIIT batch 8 lists 湖北容百锂电材料有限公司 (cathode, Hubei). Matched to the Ezhou row because SC103 notes on this row identify Hubei Ronbay (湖北容百) with Ezhou; the MIIT list itself gives only the province, so the site match is inferred. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-hubei-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S22"
+    ]
+   },
+   "notes": "MIIT batch 8 lists 湖北万润新能源科技股份有限公司 (cathode, Hubei). Matched to the Wanrun Hubei aggregate row by company name and province; the list does not say which Hubei site (Shiyan/Ezhou) is covered. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-xiangtan-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
+   "notes": "MIIT batch 9 lists 湖南裕能新能源电池材料股份有限公司 (cathode, Hunan); matched to the Xiangtan base by company name and province (the list gives no city). No field changes."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-chengdu-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "notes": "MIIT batch 9 lists 成都巴莫科技有限责任公司 (cathode, Sichuan); operator-name match (Chengdu B&M). No field changes."
+  },
+  {
+   "action": "update",
+   "id": "basf-shanshan-changsha-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S33"
+    ]
+   },
+   "notes": "MIIT change notice (announcement 2023 No.39) records that listed cathode maker 湖南杉杉新能源有限公司 was renamed 巴斯夫杉杉电池材料（宁乡）有限公司 - i.e. the Ningxiang (Changsha) BSBM entity is on the MIIT compliant list. The original listing batch (batch 5, final text not retrieved) is not cited; evidence is the change notice. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "basf-shanshan-shuizuishan-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S34"
+    ]
+   },
+   "notes": "MIIT change notice (announcement 2023 No.39) records that listed cathode maker 杉杉能源（宁夏）有限公司 was renamed 巴斯夫杉杉电池材料（宁夏）有限公司 - i.e. the Ningxia BSBM entity is on the MIIT compliant list. The original listing batch (batch 5, final text not retrieved) is not cited; evidence is the change notice. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "btr-tianjin-anode-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S05"
+    ]
+   },
+   "notes": "MIIT batch 2 lists 天津市贝特瑞新能源科技有限公司 (anode, Tianjin Baodi); exact operator-name match. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "xiangfenghua-fujian-yongan-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "notes": "MIIT batch 3 lists 福建翔丰华新能源材料有限公司 (anode, Yong'an, Fujian); exact operator-name match. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "shanshan-meishan-anode-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S32"
+    ]
+   },
+   "notes": "MIIT batch 9 lists 四川杉杉新材料有限公司 (anode, Sichuan); exact operator-name match (the list gives only the province; Meishan is the row's site). No field changes."
+  },
+  {
+   "action": "update",
+   "id": "sinoma-lithium-film-tengzhou-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S27"
+    ]
+   },
+   "notes": "MIIT batch 9 lists 中材锂膜有限公司 (separator, Shandong); matched to the Tengzhou base by company name and province (Tengzhou is the Shandong base in the DB). No field changes."
+  },
+  {
+   "action": "update",
+   "id": "sinoma-lithium-film-ningxiang-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S30"
+    ]
+   },
+   "notes": "MIIT batch 9 lists 中材锂膜（宁乡）有限公司 (separator, Hunan); exact operator-name match. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "duofluoride-jiaozuo-lipf6-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S07"
+    ]
+   },
+   "notes": "MIIT batch 2 lists 多氟多化工股份有限公司 (electrolyte, Jiaozuo, Henan), the former name of 多氟多新材料股份有限公司 (this row's operator); matched on city and group, name change is not evidenced by an opened source here. MIIT category is 'electrolyte' while this row is the LiPF6 base. No field changes."
+  },
+  {
+   "action": "update",
+   "id": "capchem-nantong-electrolyte-china",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S10"
+    ]
+   },
+   "notes": "MIIT batch 3 lists 南通新宙邦电子材料有限公司 (electrolyte, Nantong, Jiangsu); exact operator-name match. No field changes."
+  }
+ ]
+}
