@@ -1,0 +1,109 @@
+step,commodity,metric,country,year,value,norm_unit,source,url,estimate
+mining,lithium,production,Argentina,2024,73457,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Argentina,2025,122429,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Australia,2024,440212,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Australia,2025,489716,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Brazil,2024,54295,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Brazil,2025,63876,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Canada,2024,25657,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Canada,2025,29809,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Chile,2024,260295,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Chile,2025,298088,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,China,2024,220372,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,China,2025,330026,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Mali,2024,4099,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Mali,2025,50036,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Portugal,2024,2023,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Portugal,2025,2023,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,Zimbabwe,2024,106460,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,Zimbabwe,2025,149044,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,lithium,production,World,2024,1181706,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,
+mining,lithium,production,World,2025,1543670,t LCE,USGS MCS 2026 (Li content x5.323),https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf,2025=estimate
+mining,nickel,production,United States,2024,7490,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,United States,2025,10000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Australia,2024,98000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Australia,2025,45000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Brazil,2024,67500,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Brazil,2025,70000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Canada,2024,125000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Canada,2025,140000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,China,2024,115000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,China,2025,120000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Indonesia,2024,2310000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Indonesia,2025,2600000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,New Caledonia,2024,116000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,New Caledonia,2025,140000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Philippines,2024,354000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Philippines,2025,270000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Russia,2024,205000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Russia,2025,200000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,Other countries,2024,308000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,Other countries,2025,290000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,nickel,production,World,2024,3710000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,
+mining,nickel,production,World,2025,3900000,t Ni,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-nickel.pdf,2025=estimate
+mining,cobalt,production,United States,2024,200,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,United States,2025,300,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Australia,2024,4780,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Australia,2025,3700,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Canada,2024,3350,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Canada,2025,3500,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,China,2024,2000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,China,2025,2000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Congo (Kinshasa),2024,226000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Congo (Kinshasa),2025,230000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Cuba,2024,3450,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Cuba,2025,2000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Indonesia,2024,35000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Indonesia,2025,44000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Madagascar,2024,3100,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Madagascar,2025,3900,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Papua New Guinea,2024,2630,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Papua New Guinea,2025,2800,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Philippines,2024,3100,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Philippines,2025,3700,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Russia,2024,8000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Russia,2025,7700,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Turkey,2024,2200,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Turkey,2025,1900,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,Other countries,2024,7780,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,Other countries,2025,9100,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,cobalt,production,World,2024,302000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,
+mining,cobalt,production,World,2025,310000,t Co,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-cobalt.pdf,2025=estimate
+mining,graphite,production,Brazil,2024,58000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Brazil,2025,65000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Canada,2024,11700,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Canada,2025,8000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,China,2024,1270000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,China,2025,1400000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,India,2024,17600,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,India,2025,17000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,"Korea, North",2024,8100,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,"Korea, North",2025,8000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,"Korea, Republic of",2024,1000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,"Korea, Republic of",2025,500,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Madagascar,2024,85000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Madagascar,2025,80000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Mexico,2024,706,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Mexico,2025,740,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Mozambique,2024,39000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Mozambique,2025,60000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Norway,2024,5340,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Norway,2025,6600,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Russia,2024,20000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Russia,2025,25000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Sri Lanka,2024,3000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Sri Lanka,2025,3200,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Tanzania,2024,27000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Tanzania,2025,75000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Turkey,2024,2600,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Turkey,2025,2200,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Ukraine,2024,900,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Ukraine,2025,800,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Vietnam,2024,500,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Vietnam,2025,500,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Austria,2024,100,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Austria,2025,200,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,Germany,2024,140,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,Germany,2025,140,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
+mining,graphite,production,World,2024,1550000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,
+mining,graphite,production,World,2025,1800000,t graphite,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-graphite.pdf,2025=estimate
