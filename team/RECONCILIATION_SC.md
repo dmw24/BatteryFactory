@@ -71,6 +71,7 @@ Evidence: 697 rows confirmed, 123 reported-tier; 168 with coordinates; mean conf
 | refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 1,443,600 | 66,990 | – | – | – |
 | refining | cobalt | production | World | 2025 | 240,000 t Co | 30,500 | 10,000 | 39,500 | – | – |
 | refining | lithium | production | China | 2025 | 1,289,280 t LCE | 1,234,017 | 26,800 | 131,800 | 154,156 | 553,716 |
+| cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 1,175,500 | – | – | – | – |
 
 Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 1,443,600 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 796,300 t Ni shown separately, not added.
 

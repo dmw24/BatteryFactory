@@ -153,3 +153,5 @@ recycling,recycling,capacity,2024,China,4230000.0,t feed,52576,1,100000,20000,0,
 recycling,recycling,production,2024,China,654000.0,t feed,52576,1,100000,20000,0,0.08,0.15,0,0,0,0,Mysteel 2025-07-31 (recycling volume)
 recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0,0.0,0.0,0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"
 mining,graphite,production,2020,China (Luobei county),380000.0,t graphite,0,0,0,0,0,0.0,0.0,0,0,0,0,MEE inspection bulletin 2021-12-16
+mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,659337,879963,0,0.69,0.37,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
+cathode,cathode (LFP),production,2025,World,3915000.0,t CAM,0,0,1175500,0,0,0.0,0.3,0,0,0,0,ICC 鑫椤 via CNGR 2025 annual report
