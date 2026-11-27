@@ -72,6 +72,10 @@ def main():
     key = df.assign(k=df.asset_name.str.lower().str.replace(r"[^a-z0-9]", "", regex=True) + "|" + df.country + "|" + df.step + "|" + df["product"].fillna(""))
     check("S11", "no duplicate asset name+country+step+product", list(key[key.k.duplicated(keep=False)].id))
     check("S12", "confidence in [0,1]", [x.id for _, x in df.iterrows() if pd.isna(x.confidence) or not 0 <= x.confidence <= 1])
+    ORE = {"t ore", "t spodumene concentrate", "t SC6", "t lepidolite concentrate", "t petalite concentrate", "t Mn ore"}
+    check("S13", "normalised LCE/metal values plausible vs ore/concentrate tonnes (norm <= 20% of gross)",
+          [f"{x.id}:{c}" for _, x in df.iterrows() for c, gu in (("production_norm", "production_unit"), ("capacity_norm", "capacity_unit"))
+           if x[gu] in ORE and x["production_norm_unit" if c == "production_norm" else "norm_unit"] not in ORE and pd.notna(x[c]) and pd.notna(x[c.replace("_norm", "")]) and x[c] > 0.2 * x[c.replace("_norm", "")]])
     fails = 0
     for code, name, bad in res:
         ok = not bad

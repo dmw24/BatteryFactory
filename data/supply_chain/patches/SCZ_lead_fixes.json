@@ -101,6 +101,14 @@
    "action": "remove",
    "id": "east-taijinaier-brine-lithium-china",
    "reason": "duplicate of dongtai-lithium-resources-east-taijinaier-china (SC003 forum-sourced lake-level placeholder; SC120 filing names the operator); 20 kt figure was reported-tier only"
+  },
+  {
+   "action": "fix",
+   "id": "guocheng-mining-dangba-china",
+   "fields": {
+    "production_norm": 19121
+   },
+   "notes": "lead: SC120 set production_norm = 577,000 (ore tonnes) in t LCE — unit error; restored SC030's contained-LCE estimate 19,121 t (577 kt ore × 1.34% Li2O × 2.473, upper bound before recovery losses)."
   }
  ]
 }

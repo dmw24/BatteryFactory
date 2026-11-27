@@ -139,6 +139,7 @@ def normalise(df):
         df.at[i, "norm_unit"] = r.norm_unit if isinstance(r.norm_unit, str) and r.norm_unit else (nu or pu)
         if pd.isna(r.capacity_norm) and fac is not None and pd.notna(r.capacity):
             df.at[i, "capacity_norm"] = round(r.capacity * fac, 1)
+            df.at[i, "norm_unit"] = nu          # a factor-derived value is in the unit's own norm unit
         if pd.isna(r.installed_norm) and fac is not None and pd.notna(r.installed_capacity):
             df.at[i, "installed_norm"] = round(r.installed_capacity * fac, 1)
         if pd.isna(r.production_norm) and pfac is not None and pd.notna(r.production):
