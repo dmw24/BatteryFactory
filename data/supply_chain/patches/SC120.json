@@ -373,11 +373,21 @@
     "source_published_date": "2026-04-10"
    },
    "evidence": {
-    "production": ["SE2"],
-    "ownership_json": ["SE3"],
-    "reserves_resources": ["SE4"],
-    "capacity": ["SE1"],
-    "status": ["SE1"]
+    "production": [
+     "SE2"
+    ],
+    "ownership_json": [
+     "SE3"
+    ],
+    "reserves_resources": [
+     "SE4"
+    ],
+    "capacity": [
+     "SE1"
+    ],
+    "status": [
+     "SE1"
+    ]
    },
    "confidence": 0.9,
    "notes": "Sichuan New Energy Power (川能动力) FY2025 AR (000155_2025.txt): design capacity 1.05 Mt/yr ore and 180 kt/yr lithium concentrate (lines 568-569), formal full-load operation of mining/beneficiation/tailings from Sept 2025 (matches Yahua AR). 2025 output: ore 1.0011 Mt (sales 142,900 t of ore sold as such), lithium concentrate 126,800 t produced (self-produced plus toll-processed, per table lines 1091-1095) and 144,600 t sold (inventory fell from 33,600 t); i.e. 70% of the 180 kt nameplate in the first (ramp-up) year. production_norm left null: concentrate grade not stated. Ownership: 川能动力 holds 62.75% of Nengtou Lithium (能投锂业, lines 168-170), which holds 75% of Dexin Mining (德鑫矿业, lines 174-176); the AR text does not itself say that Dexin is the Lijiagou licence holder - the licence is described as the company's ('公司拥有 ... 李家沟锂辉石矿开采权', line 565) - so the Dexin link rests on the earlier SC003 row. The 37.25% Yahua stake in Nengtou is consistent with 100% - 62.75%. Effective 川能动力 look-through to Lijiagou would be about 47% if Dexin is the holder (62.75% x 75%), not stated in the filing. Company totals: lithium concentrate 126,800 t produced / 144,600 t sold; lithium salt design capacity 45,000 t/yr, output 9,700 t, sales 11,200 t (lines 574-575). The Lijiagou North exploration right is held by the controlling shareholder (Sichuan Energy Development Group, lines 923-924), exploration stage, no row."
@@ -394,8 +404,12 @@
     "source_published_date": "2026-04-10"
    },
    "evidence": {
-    "status": ["SE6"],
-    "ownership_json": ["SE7"]
+    "status": [
+     "SE6"
+    ],
+    "ownership_json": [
+     "SE7"
+    ]
    },
    "confidence": 0.7,
    "notes": "Sichuan New Energy Power FY2025 AR: Deah Lithium's new 30 kt/yr lithium salt project - carbonate line in trial production, qualified battery-grade product 2025-07-31, carbonate line reached design output ('达标达产') on 2025-10-26 (lines 576-577); 川能动力 holds 51% (line 2113), registered capital RMB 750m. The AR does NOT say the hydroxide line was commissioned: construction-in-progress for the '德阿产业园年产3万吨锂盐项目' fell from RMB 980.1m to RMB 180.9m (lines 10615-10617), only the carbonate line was pre-transferred to fixed assets in Oct 2025 (line 1638-1644), so part of the plant (likely the hydroxide line) was still in construction at 2025-12-31; capacity row unchanged (30,000 t salt = 15,000 carbonate + 15,000 hydroxide per SC007; not restated in AR). Plant output is not given separately: company-wide lithium salt output 9,700 t / sales 11,200 t in 2025 (Dingsheng + Deah, incl. toll processing; line 575), design capacity 45,000 t/yr. CONFLICT with SC007 third-party summary (川能动力 stakes '能投锂业 58%/鼎盛锂业 72%/德阿 51%'): the AR gives 62.75% / 51% / 51% - AR figures preferred, only Deah 51% matches."
@@ -427,8 +441,12 @@
     "source_published_date": "2026-04-10"
    },
    "evidence": {
-    "status": ["SE8"],
-    "ownership_json": ["SE8"]
+    "status": [
+     "SE8"
+    ],
+    "ownership_json": [
+     "SE8"
+    ]
    },
    "confidence": 0.55,
    "notes": "Sichuan New Energy Power FY2025 AR: Dingsheng is a 51%-owned subsidiary producing lithium carbonate and hydroxide (line 2109-2110); its quality-system certifications date from 2019-2021 (line 933-943) so it is an established plant; subsidiary table (lines 2065-2070) shows registered capital RMB 291.8m, 2025 revenue about RMB 606.7m (cell split over lines, not quoted). No plant-level capacity or output disclosed. Group lithium salt design capacity 45,000 t/yr at end-2025 (line 575) and Deah is a stated 30,000 t/yr project, which would leave about 15,000 t/yr for Dingsheng, but the filing does not say so (the 30 kt Deah project might not have been fully counted at year-end) so capacity left null. Company-wide 2025 lithium salt output 9,700 t, sales 11,200 t (Dingsheng + Deah, incl. toll processing). Ownership CONFLICT with SC007 third-party snippet (72% for Dingsheng): AR says 51%."
@@ -452,11 +470,21 @@
     "source_published_date": "2026-03-24"
    },
    "evidence": {
-    "status": ["GC2"],
-    "capacity": ["GC1"],
-    "production": ["GC2"],
-    "ownership_json": ["GC3"],
-    "reserves_resources": ["GC5"]
+    "status": [
+     "GC2"
+    ],
+    "capacity": [
+     "GC1"
+    ],
+    "production": [
+     "GC2"
+    ],
+    "ownership_json": [
+     "GC3"
+    ],
+    "reserves_resources": [
+     "GC5"
+    ]
    },
    "confidence": 0.7,
    "notes": "Guocheng Mining FY2025 AR (000688_2025.txt): Jinxin Mining holds the Dangba spodumene mining right (2.8336 km2) with a permit scale of 1 Mt/yr (lines 515-516); 2025 run-of-mine ore mined 577,000 t (line 787-788) - this RESOLVES the SC003 unit ambiguity: the 2024 figure of 465,000 t was ore, not concentrate, so the earlier 't ore' reading is right. An application for a 5 Mt/yr permit is in process (prerequisites done; undated, so not counted as capacity) and the 5,000 t/day concentrator expansion entered trial production (lines 522-526). Concentrate output is not disclosed. Jinxin 2025 revenue RMB 598.9m, net profit RMB 38.8m (lines 11745-11757). OWNERSHIP FLAG: the AR calls Jinxin an associate ('参股子公司') in which Guocheng holds only 48% via Beijing Hurong (lines 107, 11714, 12128) - the row's earlier parent_company 'Guocheng Mining' overstates control; the controlling holder is not named in the filing (history: Fujian Zhonghe bankruptcy restructuring, Guocheng Changqing and Guangzhou Guocheng Deyuan capital increase, lines 12688-12747). Operator kept as Jinxin Mining; status 'operational' now rests on the 2025 ore output (replaces reported-tier status). start_year 2024 retained from SC003 (licence 2024-01 per Mysteel) - not re-confirmed here."
@@ -469,7 +497,9 @@
     "source_published_date": "2026-07-14"
    },
    "evidence": {
-    "capacity": ["GC6"]
+    "capacity": [
+     "GC6"
+    ]
    },
    "confidence": 0.7,
    "notes": "Guocheng Mining FY2025 AR (000688_2025.txt): Guocheng Lithium (控股子公司) is in the Deyang-Aba eco-industrial park, Mianzhu, planning 200 kt/yr lithium salt with Phase 1 of 60 kt/yr 'basic lithium salt' (lines 529-530; no carbonate/hydroxide split, matches Xinhua figure in the row). At 2025-12-31 the project was still under construction: construction-in-progress RMB 836.8m, budget RMB 1,782.4m (178,236.68 万元), progress 46.95% (lines 9699-9721; 2025 additions RMB 819.9m); civil works for acidification, purification, sodium sulphate and carbonate sections and utilities at roof level (lines 531-534). This is consistent with the Xinhua report in the row that Phase 1 began production on 2026-07-12; the AR (published 2026-03-24) therefore does not conflict with 'operational'. Guocheng's stake percentage in Guocheng Lithium is not stated in the AR (description: 控股子公司; tax table line 8728 only)."
@@ -492,11 +522,23 @@
     "source_published_date": "2026-04-24"
    },
    "evidence": {
-    "production": ["DZ6", "DZ7"],
-    "capacity": ["DZ8", "DZ1"],
-    "status": ["DZ10"],
-    "ownership_json": ["DZ8"],
-    "reserves_resources": ["DZ9"]
+    "production": [
+     "DZ6",
+     "DZ7"
+    ],
+    "capacity": [
+     "DZ8",
+     "DZ1"
+    ],
+    "status": [
+     "DZ10"
+    ],
+    "ownership_json": [
+     "DZ8"
+    ],
+    "reserves_resources": [
+     "DZ9"
+    ]
    },
    "confidence": 0.7,
    "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): first-mining-area plan (underground, 2.6 Mt/yr, about 50,000 t LCE/yr at full output, lines 4959-4962) passed expert review (confirms the SMM-based capacity in the row); 260 万 t/yr mining-licence application still to be filed/processed (lines 845-846), concentrator civil works nearly complete and targeted for completion by end-2026 (lines 846-847, 1801-1802) - so 'under_construction' stands. By-product (tunnel development) raw ore sold from Sept 2025: produced 5,085.06 t, sold 4,079.91 t, stock 1,005.95 t, all stated as 'LCE-equivalent' (折合碳酸锂当量, table lines 943-952; text line 848: 0.41万 t LCE, gross profit RMB 105m; revenue RMB 132.5m). The LCE equivalence is the company's industry-experience conversion, ore tonnage is not stated, so production is in t LCE-equivalent of ore, not of chemical. Operator: the AR names the wholly-owned Dazhong New Energy as submitter of the plan (line 4959); the Sichuan subsidiary named in the row (SMM: 'Sichuan Dazhong New Energy', registered 2026-06-29) is post-period and not in the AR; Sichuan Dazhonghe Lithium (四川大中赫锂业) is also a wholly-owned subsidiary (glossary line 128) - the exact licence-holding entity remains unresolved. Capex progress for 'Jiada mining project' 40.64% of budget (table lines 1651-1655). Company totals: Jijiaoshan 20 Mt/yr (about 80 kt LCE) + Jiada phase 1 2.6 Mt/yr (about 50 kt LCE) = about 130 kt/yr LCE planned (lines 741-745); both due to be built in H2 2026; lithium mining revenue RMB 137.7m in 2025."
@@ -535,10 +577,21 @@
     "source_published_date": "2026-04-24"
    },
    "evidence": {
-    "status": ["DZ2", "DZ4"],
-    "capacity": ["DZ2", "DZ3"],
-    "capacity_norm": ["DZ3", "DZ1"],
-    "ownership_json": ["DZ3"]
+    "status": [
+     "DZ2",
+     "DZ4"
+    ],
+    "capacity": [
+     "DZ2",
+     "DZ3"
+    ],
+    "capacity_norm": [
+     "DZ3",
+     "DZ1"
+    ],
+    "ownership_json": [
+     "DZ3"
+    ]
    },
    "confidence": 0.75,
    "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): in 2025 the wholly-owned subsidiary Chenzhou Chengtai obtained the first lithium mining licence issued after the new Mineral Resources Law (30 years, open-pit 20 Mt/yr then underground 8 Mt/yr - sequential, not additive; lines 826-827, 4966-4972); the 20 Mt/yr mining-beneficiation-tailings project is approved; phase-1 concentrator 10 Mt/yr under construction; haulage tunnels (7.3 km) through and shield TBM advancing (lines 828-831); 2026 plan: complete concentrator main works and equipment, mining works to completion within the year (lines 1783-1787). Capacity 20 Mt/yr ore = permit scale; ~80 kt/yr LCE is the company's own estimate ('根据行业经验及公司试验', line 4971-4972) so capacity_norm 80,000 t LCE is a company conversion, not grade-derived. capacity_ref_year 2026 = publication-year fallback (no date for the full 20 Mt). The fund-raising project table (lines 1635-1642) lists '年处理2000万吨多金属资源综合回收利用项目' (lithium mining-beneficiation-smelting industry) at 28.37% of budget; it is presumed, not stated, to be this 20 Mt/yr project. No lithium output in 2025."
@@ -572,8 +625,12 @@
     "source_published_date": "2026-04-24"
    },
    "evidence": {
-    "status": ["DZ4"],
-    "capacity": ["DZ5"]
+    "status": [
+     "DZ4"
+    ],
+    "capacity": [
+     "DZ5"
+    ]
    },
    "confidence": 0.55,
    "notes": "Dazhong Mining FY2025 AR (001203_2025.txt): project '一期年产2万吨碳酸锂项目' (convertible-bond fund-raising project with 14.93% of budget invested, table lines 1643-1649, line 1682) and the 2026 plan to install equipment, commission and begin trial feeding of the Hunan carbonate plant within 2026 (line 1795-1796) - the link of the 20 kt project to Hunan rests on that 2026 plan text and the 'Jijiaoshan' project context; the AR does not state the plant's site in one sentence. Phase 1 only (the 20 Mt/yr Jijiaoshan ore plan implies about 80 kt/yr LCE in total per the company). capacity_ref_year 2026 = plan year for commissioning (trial feed), full ramp undated. Construction-in-progress RMB 96.3m at year-end vs RMB 38.2m at start (lines 11932-11933)."
@@ -596,9 +653,15 @@
     "source_published_date": "2026-03-28"
    },
    "evidence": {
-    "production": ["KD2"],
-    "capacity": ["KD1"],
-    "ownership_json": ["KD3"]
+    "production": [
+     "KD2"
+    ],
+    "capacity": [
+     "KD1"
+    ],
+    "ownership_json": [
+     "KD3"
+    ]
    },
    "confidence": 0.9,
    "notes": "Keda Manufacturing FY2025 AR (600499_.txt, the 48.58% shareholder): Lanke Lithium (蓝科锂业) 'has 4.1万 t/yr lithium carbonate capacity' (line 507), 2025 output 41,000 t, sales 41,200 t, revenue RMB 2.594bn, net profit RMB 730m (lines 737-739; revenue and profit match the Qinghai Salt Lake AR figures in SC102 notes). This gives the Lanke-only 2025 production, which SC102 could not split: Qinghai Salt Lake's company-wide 2025 output was 46,543 t, so the new 40 kt integrated project (trial production from end-Sept 2025) contributed about 5,500 t (derived: 46,543 - 41,000, not reported). CONFLICT (minor): capacity 41,000 t/yr (Keda) vs 40,000 t/yr design (Qinghai Salt Lake AR table, SC102) - nameplate kept at 40,000; Keda's figure is a rounded operating capacity and the 2025 output slightly exceeds 40,000 t. Ownership: Keda holds 100% of Guangdong Keda Lithium (37.80% of Lanke) and 53.62% of Guangdong Weililì (10.78% of Lanke): voting 37.80 + 10.78 = 48.58%, economic 37.80 + 10.78 x 53.62% = 43.58% (lines 10117-10119); Qinghai Salt Lake Industry is the controlling shareholder (Keda text line 740, stake not given there). Keda has no lithium mine or plant of its own; its Tanzania subsidiary 'Keda Resource Tanzania' (lithium/graphite resource development, line 9230) has no disclosed project or capacity."
@@ -634,9 +697,16 @@
     "source_published_date": "2026-04-28"
    },
    "evidence": {
-    "status": ["JY1", "JY2"],
-    "production": ["JY2"],
-    "ownership_json": ["JY3"]
+    "status": [
+     "JY1",
+     "JY2"
+    ],
+    "production": [
+     "JY2"
+    ],
+    "ownership_json": [
+     "JY3"
+    ]
    },
    "confidence": 0.5,
    "notes": "Jinyuan FY2025 AR (000546_2025.txt): the company's priority in 2025 was to bring the Baqiancuo project to design output ('尽早达产达效') on a trial-production carbonate line being upgraded (lines 581-583); mining licence (Geji Lithium Development, Luoma village, Wenbudangsang township) expires April 2029, renewable (line 6534, note on intangible assets). 'New energy materials' (lithium compounds and derivatives): 2025 production 653.74 t (2024: 618.94 t), sales 1,245.702 t (2024: none), stock 461.44 t (2024: 1,053.40 t), revenue RMB 73.51m (lines 782-786, 706, 715-716; implied RMB 59,000/t, consistent with carbonate pricing). The table unit is 吨 and the product line is 'lithium compounds and derivatives' (carbonate per line 570-571); recorded as t Li2CO3 on that basis. No nameplate capacity is disclosed (the target is 'project capacity goal'); construction-in-progress 'Gerze Baqiancuo salt lake boron-lithium resource comprehensive utilisation project' RMB 396.9m, budget RMB 879m, progress 80.40% (lines 8141-8193, table cells split). Equipment contracts with Tibet Lishang Technology (西藏锂尚科技, a related party): 2,000 t/yr LCE electrochemical de-intercalation lithium-rich liquor line equipment RMB 78m, and second-phase equipment RMB 182.4m (RMB 25.4m paid) (lines 811-821) - indicates expansion but the AR does not tie a tonnage to the project. Ownership: 66% of Ali Lithium Source (阿里锂源, line 290, 9579) and 66% shown for Geji Lithium (line 9585); direct/indirect columns not distinguishable in the text. Company revenue from new energy materials RMB 73.5m, net loss attributable RMB 30.9m. Not added as rows (exploration stage, no capacity, abandoned): Argentine Caro (卡罗) and Payi (帕依) salar exploration rights (Jinyuan decided not to develop; impairment RMB 159.2m and RMB 13.4m, lines 585-588, 8384-8396) and two lithium-niobium-tantalum exploration licences in Nasarawa State, Nigeria acquired via CGL Mining Development (61.6 km2, one expired, lines 3647-3649)."
@@ -671,9 +741,16 @@
     "source_published_date": "2026-04-30"
    },
    "evidence": {
-    "status": ["WL1"],
-    "capacity": ["WL1"],
-    "ownership_json": ["WL1", "WL10"]
+    "status": [
+     "WL1"
+    ],
+    "capacity": [
+     "WL1"
+    ],
+    "ownership_json": [
+     "WL1",
+     "WL10"
+    ]
    },
    "confidence": 0.65,
    "notes": "Weiling FY2025 AR (002667_2025.txt): Linghui (70% owned, acquired Jan 2022 per the business section line 415, but Dec 2021 per the notes line 10201 - internal date inconsistency) has an annual beneficiation capacity of 1.2 Mt (ore feed; line 417), sited in Yichun, Jiangxi, supplied by local ore under agreements covering at least 1.3 Mt/yr (lines 578-582). Not a mine: processes purchased ore. 2025 revenue 'lithium concentrate and by-products' RMB 101.65m (+25.5%), cost RMB 78.15m (lines 715, 747-749); The subsidiary table (lines 1413-1419) has split cells and was not used for financials. Production and sales volumes: the AR reports one combined 'non-ferrous smelting and pressing' line (production 52,469 t, sales 29,849 t, stock 10,194 t; lines 774-777) which mixes lithium concentrate and lithium compounds - cannot be allocated, so production left null. Ownership 70% per line 415; the subsidiary table shows 70.00% in the column that appears to be indirect (lines 12312-12314). capacity_ref_year 2026 = publication-year fallback."
@@ -711,10 +788,18 @@
     "source_published_date": "2026-04-30"
    },
    "evidence": {
-    "status": ["WL2"],
-    "start_year": ["WL2"],
-    "capacity": ["WL3"],
-    "ownership_json": ["WL4"]
+    "status": [
+     "WL2"
+    ],
+    "start_year": [
+     "WL2"
+    ],
+    "capacity": [
+     "WL3"
+    ],
+    "ownership_json": [
+     "WL4"
+    ]
    },
    "confidence": 0.45,
    "notes": "Weiling FY2025 AR (002667_2025.txt): Lingneng set up Nov 2021, reached formal production standard Sept 2022 (lines 409-411); registered capital RMB 680m, ownership 50.29% per subsidiary table (line 12310, column indirect/direct not unambiguous). The capacity of 10,000 t/yr is INFERRED from the construction-in-progress entry '宜春 1 万吨碳酸锂项目辅助及零星工程' (lines 9792-9793, 9873-9877; project in Yichun, impaired as 'deferred') - the AR gives no explicit design capacity for the operating plant, confidence kept below 0.5. 2025 lithium compounds and derivatives revenue RMB 60.48m (-85.4%), gross margin -20.7%; output fell because of the lithium price cycle and production-line maintenance (lines 670-674, 744-746, 795-796). 2025 output of lithium compounds is not separated (see Linghui row note on the mixed 52,469 t figure). Fixed assets impaired RMB 10.9m in 2025 (line 684-686)."
@@ -751,9 +836,15 @@
     "source_published_date": "2026-04-30"
    },
    "evidence": {
-    "status": ["WL5"],
-    "capacity": ["WL5"],
-    "ownership_json": ["WL6"]
+    "status": [
+     "WL5"
+    ],
+    "capacity": [
+     "WL5"
+    ],
+    "ownership_json": [
+     "WL6"
+    ]
    },
    "confidence": 0.6,
    "notes": "Weiling FY2025 AR (002667_2025.txt): construction project '贵溪领能锂业有限公司年产3万吨碳酸锂生产线建设项目' is halted ('项目停建'); construction-in-progress RMB 104.4m, impaired by RMB 82.5m in 2025 (lines 9774-9779, 9913-9916); budget RMB 3,031m, 3.44% progress (table lines 9829-9833, cells split). Guixi Lingneng 55% owned, registered capital RMB 1bn (lines 12337-12338). Management says Guixi and Chenzhou projects will be pushed 'steadily according to carbonate market conditions' (line 1489). Status under_construction because physical works began (RMB 104m spent) but project_state paused; no start date. capacity_ref_year 2026 = publication-year fallback (no due date)."
@@ -790,9 +881,16 @@
     "source_published_date": "2026-04-30"
    },
    "evidence": {
-    "status": ["WL8"],
-    "capacity": ["WL7", "WL8"],
-    "ownership_json": ["WL9"]
+    "status": [
+     "WL8"
+    ],
+    "capacity": [
+     "WL7",
+     "WL8"
+    ],
+    "ownership_json": [
+     "WL9"
+    ]
    },
    "confidence": 0.6,
    "notes": "Weiling FY2025 AR (002667_2025.txt): phase 1 of the '年产4GWh储能电池及配套电池新材料建设项目' is a 10,000 t/yr battery-grade lithium carbonate line, planned in Linwu County, Chenzhou (lines 612-614); the project is 'deferred' (项目缓建) - construction-in-progress RMB 106.4m, RMB 5.6m impaired in 2025 (lines 9781-9791, 9918-9922); budget RMB 644.3m, progress 16.61% (table lines 9852-9856, cells split). Wholly owned by Weiling (郴州领能科技, registered capital RMB 500m, lines 12331-12332). The 4 GWh storage-battery part of the project is outside the lithium scope. capacity_ref_year 2026 = publication-year fallback (no due date)."
@@ -825,8 +923,13 @@
     "source_published_date": "2026-03-26"
    },
    "evidence": {
-    "status": ["WM1", "WM3"],
-    "ownership_json": ["WM2"]
+    "status": [
+     "WM1",
+     "WM3"
+    ],
+    "ownership_json": [
+     "WM2"
+    ]
    },
    "confidence": 0.45,
    "notes": "Western Mining FY2025 AR (601168_.txt): Dongtai Lithium Resources (东台锂资源) is a 27% equity-method associate 'engaged in the processing and sale of lithium carbonate' (line 9528), described as strategic (registered capital RMB 840m; 2025 revenue RMB 1,225.1m (2024: RMB 1,478.1m), operating profit RMB 611.3m, net profit RMB 520.97m on the company's own books per line 1809; equity-method line shows a loss of RMB 444.9m after purchase-price fair-value adjustments, lines 9516-9526). Dividend of RMB 135m declared in 2025 (receivable, line 10498), RMB 270m received in 2024. The AR gives NO capacity, output, site or start year for the lithium business, and Western Mining itself has no lithium plant (its Tuanjie Lake work is R&D on magnesium-rich brine lithium extraction, lines 1904-1906). The location 'Qinghai' is from the equity table; the East Taijinaier salt lake location is inferred from the company name only. POSSIBLE OVERLAP with placeholder row east-taijinaier-brine-lithium-china (SC003, 20,000 t Li2CO3 reported-tier, operator unconfirmed): this row has null capacity to avoid double counting; the lead may merge them once capacity for Dongtai is found elsewhere. Western Mining company total: no lithium capacity/output disclosed."

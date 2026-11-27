@@ -73,3 +73,19 @@ Sinomine,refining,2025,production,lithium salts,37408,t LCE,group,002738_2025.tx
 Shengxin,refining,2025,capacity,lithium salts,137000,t LCE,built (77 kt Sichuan + 60 kt Indonesia),002240_2025.txt,386-400,SC101,shengxin|chengxin
 Shengxin,refining,2025,production,lithium products,77477,t LCE,group,002240_2025.txt,1179,SC101,shengxin|chengxin
 Glencore,mining,2025,production,cobalt (own-sourced),36100,t Co,group (DRC 33.5 kt),Glencore FY2025 production report,n/a,SC025,glencore
+Sichuan Energy Power,refining,2025,capacity,lithium salts,45000,t LCE,design,000155_2025.txt,575,SC120,sichuan-energy-investment
+Sichuan Energy Power,refining,2025,production,lithium salts,9700,t LCE,group,000155_2025.txt,575,SC120,sichuan-energy-investment
+Zijin,mining,2025,production,lithium (LCE),25459,t LCE,group incl. Zangge since 2025-04-30,601899_.txt,1722-1734,SC121,zijin|zangge
+Anda,cathode,2025,capacity,LFP,150000,t CAM,end-2025,830809_2025.txt,643-645,SC122,anda
+Mengguli,cathode,2025,capacity,LCO+NCM,30560,t CAM,group,301487_2025.txt,848-853,SC122,mengguli
+Mengguli,cathode,2025,production,LCO+NCM,23464,t CAM,group,301487_2025.txt,497-498,SC122,mengguli
+Kehen,cathode,2025,capacity,cathode,20000,t CAM,group,300340_2025.txt,1349,SC122,kehen
+Kehen,cathode,2025,production,cathode,10391,t CAM,group,300340_2025.txt,1359-1360,SC122,kehen
+Suotong,anode,2025,production,anode,74000,t anode,group,603612_.txt,540-541,SC122,suotong
+Shida Shenghua,electrolyte,2025,capacity,electrolyte,500000,t electrolyte,design (23% utilisation),603026_.txt,1292-1302,SC122,shida-shenghua
+Shida Shenghua,electrolyte,2025,capacity,LiPF6,32000,t LiPF6,design (22% utilisation),603026_.txt,1292-1302,SC122,shida-shenghua
+Zhongyi,foil,2025,capacity,copper foil,55500,t copper foil,nominal,301150_2025.txt,438,SC122,zhongyi
+Zhongyi,foil,2025,production,copper foil,70400,t copper foil,group,301150_2025.txt,1092,SC122,zhongyi
+Hailiang,foil,2025,capacity,copper foil,105000,t copper foil,at 2026-03-31 (90 domestic + 15 SE Asia),002203_2025.txt,599,SC122,hailiang
+Keda,anode,2025,capacity,anode,150000,t anode,artificial graphite,600499_.txt,503,SC120,keda
+Keda,anode,2025,production,anode,115800,t anode,artificial graphite,600499_.txt,730-731,SC120,keda

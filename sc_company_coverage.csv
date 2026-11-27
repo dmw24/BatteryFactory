@@ -50,7 +50,7 @@ Longpan,cathode,2025,production,LFP,202115.0,t CAM,0,0,0,202115,603906_.txt l.12
 Fulin,cathode,2025,capacity,LFP,273333.0,t CAM,0,0,2,273333,300432_2025.txt l.1234
 Fulin,cathode,2025,production,LFP,273795.0,t CAM,0,0,0,273795,300432_2025.txt l.1257-1258
 Yongxing,refining,2025,production,lithium carbonate,24823.0,t LCE,24823,1,1,0,002756_2025.txt l.811-815
-Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543.0,t LCE,40000,1,1,6543,000792_2025.txt l.1269-1271
+Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543.0,t LCE,41000,1,1,5543,000792_2025.txt l.1269-1271
 Zangge,mining,2025,production,lithium carbonate,8808.0,t LCE,8808,1,1,0,000408_2025.txt l.47
 Jiangte,refining,2025,production,lithium carbonate,13610.0,t LCE,13610,1,1,0,002176_2025.txt l.1067-1070
 Huayou,refining,2025,production,lithium products,51728.0,t LCE,0,0,0,51728,603799_.txt l.820
@@ -64,3 +64,19 @@ Sinomine,refining,2025,production,lithium salts,37408.0,t LCE,0,0,0,37408,002738
 Shengxin,refining,2025,capacity,lithium salts,137000.0,t LCE,137604,5,5,0,002240_2025.txt l.386-400
 Shengxin,refining,2025,production,lithium products,77477.0,t LCE,0,0,0,77477,002240_2025.txt l.1179
 Glencore,mining,2025,production,cobalt (own-sourced),36100.0,t Co,35700,3,3,400,Glencore FY2025 production report l.nan
+Sichuan Energy Power,refining,2025,capacity,lithium salts,45000.0,t LCE,28200,1,1,16800,000155_2025.txt l.575
+Sichuan Energy Power,refining,2025,production,lithium salts,9700.0,t LCE,0,0,0,9700,000155_2025.txt l.575
+Zijin,mining,2025,production,lithium (LCE),25459.0,t LCE,28585,4,4,0,601899_.txt l.1722-1734
+Anda,cathode,2025,capacity,LFP,150000.0,t CAM,150000,1,1,0,830809_2025.txt l.643-645
+Mengguli,cathode,2025,capacity,LCO+NCM,30560.0,t CAM,30560,1,1,0,301487_2025.txt l.848-853
+Mengguli,cathode,2025,production,LCO+NCM,23464.0,t CAM,23464,1,1,0,301487_2025.txt l.497-498
+Kehen,cathode,2025,capacity,cathode,20000.0,t CAM,0,0,0,20000,300340_2025.txt l.1349
+Kehen,cathode,2025,production,cathode,10391.0,t CAM,0,0,0,10391,300340_2025.txt l.1359-1360
+Suotong,anode,2025,production,anode,74000.0,t anode,0,0,0,74000,603612_.txt l.540-541
+Shida Shenghua,electrolyte,2025,capacity,electrolyte,500000.0,t electrolyte,200000,1,1,300000,603026_.txt l.1292-1302
+Shida Shenghua,electrolyte,2025,capacity,LiPF6,32000.0,t LiPF6,32000,1,1,0,603026_.txt l.1292-1302
+Zhongyi,foil,2025,capacity,copper foil,55500.0,t copper foil,0,0,2,55500,301150_2025.txt l.438
+Zhongyi,foil,2025,production,copper foil,70400.0,t copper foil,0,0,0,70400,301150_2025.txt l.1092
+Hailiang,foil,2025,capacity,copper foil,105000.0,t copper foil,105000,2,2,0,002203_2025.txt l.599
+Keda,anode,2025,capacity,anode,150000.0,t anode,0,0,0,150000,600499_.txt l.503
+Keda,anode,2025,production,anode,115800.0,t anode,0,0,0,115800,600499_.txt l.730-731
