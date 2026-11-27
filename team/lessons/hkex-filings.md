@@ -1,0 +1,2 @@
+HKEX annual reports are fetchable from the sandbox: stockId via https://www1.hkexnews.hk/search/prefix.do?callback=callback&lang=EN&type=A&name=<code>&market=SEHK, then titleSearchServlet.do (t1code=40000, t2code=40100 = annual reports) → FILE_LINK → `scripts/fetch_filings.py --url https://www1.hkexnews.hk<link> <NAME>`.
+Prefix search matches the start of the English short name only (e.g. 2245 LYGEND RESOURCE, 2362 JINCHUAN INTL, 1091 SOUTH MANGANESE, 2579 CNGR, 2465 LOPAL TECH).

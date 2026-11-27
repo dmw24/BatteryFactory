@@ -4363,6 +4363,56 @@
     "by": "lead",
     "notes": "1 dup removed, 1 phase merge; part_of added for 10 project rows; East Taijinaier placeholder removed"
    }
+  },
+  {
+   "id": "SC170",
+   "title": "Cross-step supply links (feeds/offtakers)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC170.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass",
+    "quotes found"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC180",
+   "title": "HKEX filings pass: Lygend, Jinchuan Intl, South Manganese",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC180.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass",
+    "quotes found"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }
