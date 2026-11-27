@@ -19,26 +19,26 @@ mining,lithium,production,2024,Zimbabwe,106460.0,t LCE,0,0,0,0,0,0.0,0.0,0,0,0,0
 mining,lithium,production,2025,Zimbabwe,149044.0,t LCE,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,World,1181706.0,t LCE,995433,23,459420,1079880,0,0.84,0.39,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,World,1543670.0,t LCE,1238204,27,659337,879963,0,0.8,0.43,0,5543,80810,80810,USGS MCS 2026 (Li content x5.323)
-mining,nickel,production,2024,United States,7490.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,United States,10000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2024,Australia,98000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,Australia,45000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2024,Brazil,67500.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,Brazil,70000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2024,Canada,125000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,Canada,140000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,United States,7490.0,t Ni,9907,1,0,0,0,1.32,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,United States,10000.0,t Ni,9907,1,0,0,0,0.99,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,Australia,98000.0,t Ni,32100,1,0,0,0,0.33,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,Australia,45000.0,t Ni,32100,1,0,0,0,0.71,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,Brazil,67500.0,t Ni,65500,2,0,80000,0,0.97,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,Brazil,70000.0,t Ni,65500,2,80000,0,0,0.94,1.14,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,Canada,125000.0,t Ni,120200,4,0,0,0,0.96,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,Canada,140000.0,t Ni,120200,4,0,0,0,0.86,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,China,115000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,China,120000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,China,120000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,199000,USGS MCS 2026
 mining,nickel,production,2024,Indonesia,2310000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,Indonesia,2600000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2024,New Caledonia,116000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,New Caledonia,140000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,New Caledonia,116000.0,t Ni,0,0,57000,0,0,0.0,0.49,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,New Caledonia,140000.0,t Ni,0,0,57000,0,0,0.0,0.41,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,Philippines,354000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,Philippines,270000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,Russia,205000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,Russia,200000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2024,World,3710000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
-mining,nickel,production,2025,World,3900000.0,t Ni,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2024,World,3710000.0,t Ni,326814,11,57000,137600,0,0.09,0.02,0,0,0,0,USGS MCS 2026
+mining,nickel,production,2025,World,3900000.0,t Ni,326814,11,137000,57600,0,0.08,0.04,0,199000,199000,199000,USGS MCS 2026
 mining,cobalt,production,2024,United States,200.0,t Co,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,cobalt,production,2025,United States,300.0,t Co,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,cobalt,production,2024,Australia,4780.0,t Co,2200,1,0,0,0,0.46,0.0,0,0,0,0,USGS MCS 2026
@@ -144,8 +144,8 @@ mining,cobalt,production,2025,World,270000.0,t Co,47870,8,8000,40700,0,0.18,0.03
 mining,cobalt,production,2025,Indonesia,42500.0,t Co,0,0,0,0,0,0.0,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2025 (mined; Indonesia HPAL/MHP)
 mining,cobalt,production,2023,World,208000.0,t Co,0,0,0,48700,0,0.0,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
 mining,cobalt,production,2024,World,254000.0,t Co,47870,8,0,48700,0,0.19,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
-refining,"nickel (primary, all forms)",production,2024,World,3589000.0,t Ni,403824,7,0,1510590,264000,0.11,0.0,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
-refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,403824,7,1443600,66990,796300,0.1,0.37,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
+refining,"nickel (primary, all forms)",production,2024,World,3589000.0,t Ni,616364,12,109961,1932590,264000,0.17,0.03,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
+refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,616364,12,1553561,488990,796300,0.16,0.4,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
 refining,lithium,production,2023,China,713800.0,t LCE,0,0,931207,329610,0,0.0,1.3,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 refining,lithium,production,2024,China,986800.0,t LCE,108619,10,997207,263610,0,0.11,1.01,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 refining,lithium,production,2025,China,1289280.0,t LCE,108619,10,1234017,26800,0,0.08,0.96,131800,115723,154156,553716,derived: SC090 carbonate + hydroxide x0.880 (D-102)

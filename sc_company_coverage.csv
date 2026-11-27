@@ -82,3 +82,4 @@ Keda,anode,2025,capacity,anode,150000.0,t anode,0,0,0,150000,600499_.txt l.503,c
 Keda,anode,2025,production,anode,115800.0,t anode,0,0,0,115800,600499_.txt l.730-731,china
 Tengyuan Cobalt,refining,2025,capacity,cobalt (group smelting),39500.0,t Co,0,0,1,39500,301219_2025.txt l.4040-4041,global
 Tengyuan Cobalt,refining,2025,capacity,nickel (group),60000.0,t Ni,0,0,1,60000,301219_2025.txt l.4040-4041,global
+Nornickel,mining,2025,production,nickel,199000.0,t Ni,0,0,0,199000,SC021 notes l.nan,global

@@ -1,0 +1,2045 @@
+{
+ "task": "SC021",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; Integrated Nickel Operations block, own sources)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Integrated Nickel Operations (Sudbury, Raglan, Nikkelverk) Nickel metal kt 11.8 10.4 11.6 5.5 12.3 39.8 42.9"
+  },
+  "S2": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; INO total including third party feed)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Integrated Nickel Operations – total production including third party feed Nickel metal kt 25.4 25.1 24.9 25.2 26.3 101.5 98.4"
+  },
+  "S3": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; Murrin Murrin blocks)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Murrin Murrin Total Nickel metal kt 8.1 8.4 6.2 10.3 7.2 32.1 34.3 ... Total Nickel metal kt 8.7 9.1 7.0 10.8 7.6 34.5 37.7"
+  },
+  "S4": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; Koniambo row; dash = nil)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Koniambo Nickel in ferronickel kt – – – – – – 5.0 (100) n.m."
+  },
+  "S5": {
+   "url": "https://www.glencore.com/en/what-we-do/recycling",
+   "publisher": "Glencore plc, recycling page (Nikkelverk description; undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nikkelverk is a major nickel refinery with a production capacity of approximately 92,000 tonnes of nickel per year."
+  },
+  "S6": {
+   "url": "https://nickelasia.com/assets/documents/PRESS-RELEASE-NICKEL-ASIA-CORPORATION-ATTRIBUTABLE-EARNINGS-TRIPLE-IN-FY2025.pdf",
+   "publisher": "Nickel Asia Corporation press release, 'Attributable earnings triple in 2025', p.1",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Operating mines sold a combined 18.56 million wet metric tons (WMT) of nickel ore"
+  },
+  "S7": {
+   "url": "https://nickelasia.com/assets/documents/PRESS-RELEASE-NICKEL-ASIA-CORPORATION-ATTRIBUTABLE-EARNINGS-TRIPLE-IN-FY2025.pdf",
+   "publisher": "Nickel Asia Corporation press release, 'Attributable earnings triple in 2025', p.4 (About NAC)",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "portfolio that includes seven operating nickel mines, a 10-percent stake in the Taganito HPAL project"
+  },
+  "S8": {
+   "url": "https://nickelasia.com/assets/documents/PRESS-RELEASE-NICKEL-ASIA-CORPORATION-ATTRIBUTABLE-EARNINGS-TRIPLE-IN-FY2025.pdf",
+   "publisher": "Nickel Asia Corporation press release, 'Attributable earnings triple in 2025', p.1",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Deliveries of limonite ore to the Coral Bay and Taganito HPAL plants reached 7.64 million WMT"
+  },
+  "S9": {
+   "url": "https://tribune.net.ph/2026/02/08/dmci-mining-bullish-on-growth-after-record-nickel-year",
+   "publisher": "Daily Tribune (Philippines), 'DMCI Mining bullish on growth after record nickel year'",
+   "published": "2026-02-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "posting record nickel ore production of 2.0 million wet metric tons (WMT) in 2025"
+  },
+  "S10": {
+   "url": "https://tribune.net.ph/2026/05/21/fni-targets-higher-output-after-strong-2025-2",
+   "publisher": "Daily Tribune (Philippines), 'FNI targets higher output after strong 2025'",
+   "published": "2026-05-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Shipment volumes declined 15.5 percent to 4.605 million WMT after bad weather disrupted operations"
+  },
+  "S11": {
+   "url": "https://www.akm.ru/eng/news/norilsk-nickel-reduced-nickel-production-by-3-in-2025/",
+   "publisher": "AK&M news agency (Interfax-style wire), 'Norilsk Nickel reduced nickel production by 3% in 2025'",
+   "published": "2026-01-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In 2025, Norilsk Nickel reduced nickel production by 3% to 199,000 tons compared to a year earlier."
+  },
+  "S12": {
+   "url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+   "publisher": "Nornickel Annual Report 2024, Operational performance (Norilsk site)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In 2024, total ore production by the Norilsk site was 20.2 mln t"
+  },
+  "S13": {
+   "url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+   "publisher": "Nornickel Annual Report 2024, Operational performance (Kola site)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In 2024, Kola site produced 7.0 mln t of ore."
+  },
+  "S14": {
+   "url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+   "publisher": "Nornickel Annual Report 2024, Operational performance (Foreign site = Harjavalta)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Foreign site hosts a nickel refinery with a total production capacity of up to 65 ktpa of nickel products."
+  },
+  "S15": {
+   "url": "https://nornickel.com/business/assets/kola-division-finland",
+   "publisher": "Nornickel corporate site, Kola Division page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nornickel's Kola site in Russia is Nornickel's nickel refining hub, a wholly owned key production site."
+  },
+  "S16": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25 (released 2026-01-27), Annex 1 'Finished production by source' (table row; whitespace normalised)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Sudbury 8.2 10.6 -22.6% 8.5 -3.5% 35.2 36.6 -3.8%"
+  },
+  "S17": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by source' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Voisey's Bay 7.4 6.5 13.8% 10.7 -30.8% 33.2 19.2 72.9%"
+  },
+  "S18": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by source' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Thompson 1.4 2.9 -51.7% 2.9 -51.7% 12.0 9.9 21.2%"
+  },
+  "S19": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by source' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Brazil 10.0 4.8 108.3% 5.9 69.5% 26.1 14.2 83.8%"
+  },
+  "S20": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by site' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Clydach 7.0 10.5 -33.3% 8.6 -18.6% 29.5 34.2 -13.7%"
+  },
+  "S21": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by site' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Matsusaka 7.1 5.2 36.5% 5.2 36.5% 20.3 20.4 -0.5%"
+  },
+  "S22": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by site' (table row)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Voisey's Bay & Long Harbour 7.6 9.2 -17.4% 11.7 -35.0% 40.3 30.5 32.1%"
+  },
+  "S23": {
+   "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+   "publisher": "Vale S.A. Form 6-K/A, Production and sales report 4Q25, Annex 1 'Finished production by site' (table rows)",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Sudbury 14.4 14.8 -2.7% 15.0 -4.0% 59.4 50.5 17.6% ... Nickel Production 46.2 45.5 1.5% 46.8 -1.3% 177.2 159.9 10.8%"
+  },
+  "S24": {
+   "url": "https://www.industrialinfo.com/news/article/vales-2025-key-metals-production-surpasses-guidance--352649",
+   "publisher": "IIR / industrialinfo.com, 'Vale's 2025 key metals production surpasses guidance'",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "strong performance came from the Onca Puma mine, where the second furnace reached full capacity by November."
+  },
+  "S25": {
+   "url": "https://projectblue.com/blue/news-analysis/1329/vale-boosts-onça-puma-output-with-second-furnace-start-up",
+   "publisher": "Project Blue news analysis, 'Vale boosts Onça Puma output with second furnace start-up' (page body not opened; search-result text)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Onça Puma: a second furnace adds 15ktpy of Ni capacity, lifting nameplate capacity to 40ktpy"
+  },
+  "S26": {
+   "url": "https://www.bnnbloomberg.ca/business/2026/02/19/vale-to-form-new-consortium-to-invest-in-thompson-mine-complex/",
+   "publisher": "BNN Bloomberg, 'Vale to form new consortium to invest in Thompson mine complex'",
+   "published": "2026-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Exiro, Orion and CGF will own a combined 81.1 per cent stake in the new company"
+  },
+  "S27": {
+   "url": "https://news.cision.com/lundin-mining-corporation/r/lundin-mining-announces-2025-production-results-and-2026-guidance,c4296017",
+   "publisher": "Lundin Mining, 'Announces 2025 Production Results and 2026 Guidance' (Cision)",
+   "published": "2026-01-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nickel production at Eagle of 9,907 t;"
+  },
+  "S28": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-06-11/madagascan-miner-ambatovy-resumes-nickel-production-after-cyclone",
+   "publisher": "Reuters via Kitco News, 'Madagascan miner Ambatovy resumes nickel production after cyclone'",
+   "published": "2026-06-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Its production was at around 29,000 tons of nickel and 2,700 tons of cobalt in 2025."
+  },
+  "S29": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp. release via Yahoo Finance, Ramu Q4 2025",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full year production of 33,007 tonnes of contained nickel in MHP, compared to 28,669 tonnes last year."
+  },
+  "S30": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp. release via Yahoo Finance, Ramu Q4 2025",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ramu's design capacity of 32,600 t Ni per year is an annualized benchmark."
+  },
+  "S31": {
+   "url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+   "publisher": "Sherritt International, Q4 and full-year 2025 results press release, p.1 (rendered PDF page read as image)",
+   "published": "2026-02-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full year 2025 production reached 25,240 tonnes of nickel and 2,728 tonnes of cobalt (100% basis)"
+  },
+  "S32": {
+   "url": "https://mining-technology.com/newsletters/prony-resources-nickel-goro-mine",
+   "publisher": "Mining Technology, 'Prony Resources nickel Goro mine'",
+   "published": "2024-11-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Goro mine is designed to produce 57,000tpa of nickel and 5,000tpa of cobalt."
+  },
+  "S33": {
+   "url": "https://www.lnc.nc/article/nouvelle-caledonie/economie/mines/nickel/la-sln-aborde-2026-avec-davantage-de-serenite",
+   "publisher": "Les Nouvelles Caledoniennes, 'La SLN aborde 2026 avec davantage de serenite'",
+   "published": "2026-01-20",
+   "accessed": "2026-11-27",
+   "language": "fr",
+   "quote": "la SLN a réalisé environ 36 000 tonnes en 2025"
+  },
+  "S34": {
+   "url": "https://www.lnc.nc/article/nouvelle-caledonie/economie/mines/nickel/la-sln-aborde-2026-avec-davantage-de-serenite",
+   "publisher": "Les Nouvelles Caledoniennes, 'La SLN aborde 2026 avec davantage de serenite'",
+   "published": "2026-01-20",
+   "accessed": "2026-11-27",
+   "language": "fr",
+   "quote": "À Poro, l'industriel accompagne la relance d'une activité adaptée à l'usine de Doniambo"
+  },
+  "S35": {
+   "url": "https://www.mysteel.net/news/5114035-flash-eramet-reports-1310-year-on-year-increase-in-feni-and-npi-production-for-q4-2025",
+   "publisher": "Mysteel flash, Eramet Q4 2025 FeNi and NPI production (page not opened; search-result text)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "SLN produced 762,000 wet metric tonnes of nickel ore and 9,600 tonnes in Ni content from FeNi production in the fourth quarter"
+  },
+  "S36": {
+   "url": "https://www.mining-technology.com/news/glencore-to-sell-stake-new-caledonia-nickel/",
+   "publisher": "Mining Technology, 'Glencore to sell stake in troubled New Caledonia nickel operation'",
+   "published": "2024-02-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "suspend operations at the Koniambo Nickel SAS (KNS) joint venture (JV)."
+  },
+  "S37": {
+   "url": "https://www.bhp.com/news/media-centre/releases/2024/07/western-australia-nickel-to-temporarily-suspend-operations",
+   "publisher": "BHP media release, 'Western Australia Nickel to temporarily suspend operations' (page returned HTTP 403; search-result text)",
+   "published": "2024-07-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "All Western Australia Nickel sites will be temporarily suspended - including the Kwinana Nickel Refinery, Kalgoorlie Nickel Smelter, Mt Keith and Leinster operations ... BHP intends to review the decision to temporarily suspend Western Australia Nickel by February 2027."
+  },
+  "S38": {
+   "url": "https://announcements.asx.com.au/asxpdf/20261109/pdf/076ctb0d6ct91d.pdf",
+   "publisher": "IGO Limited ASX release, 'Nova concludes mining, beats production and cost guidance' (rendered PDF page 1 read as image)",
+   "published": "2026-11-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nickel production 21,340 t 15,000 – 18,000 19,000 – 20,000",
+   "tier": "reported",
+   "snippet": "Nickel production 21,340 t 15,000 – 18,000 19,000 – 20,000",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S39": {
+   "url": "https://announcements.asx.com.au/asxpdf/20261109/pdf/076ctb0d6ct91d.pdf",
+   "publisher": "IGO Limited ASX release, 'Nova concludes mining, beats production and cost guidance' (rendered PDF page 1 read as image)",
+   "published": "2026-11-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "mining and processing at the Nova Nickel Operation (Nova) have concluded, almost a decade after production began."
+  },
+  "S40": {
+   "url": "https://www.first-quantum.com/?p=1678",
+   "publisher": "First Quantum Minerals, Ravensthorpe Nickel Operation page (undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In July 2024, RNO was placed into a care and maintenance process"
+  },
+  "S41": {
+   "url": "https://www.first-quantum.com/?p=1678",
+   "publisher": "First Quantum Minerals, Ravensthorpe Nickel Operation page (undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "30kt of nickel capacity annually"
+  },
+  "S42": {
+   "url": "https://miningmx.com/news/base-metals/2025-07-07-south32-sells-colombian-nickel-operations-amid-price-collapse/",
+   "publisher": "Miningmx, 'South32 sells Colombian nickel operations amid price collapse'",
+   "published": "2025-07-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "sale of its Cerro Matoso ferronickel operations in northern Colombia to a unit of global industrial group CoreX Holding."
+  },
+  "S43": {
+   "url": "https://www.argusmedia.com/news-and-insights/latest-market-news/2712144-australia-s-south32-hits-global-cu-zn-mn-ni-targets",
+   "publisher": "Argus Media, 'Australia's South32 hits global Cu, Zn, Mn, Ni targets' (page body not opened; search-result text quoting South32 table)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Output was about 37.1kt of nickel for the year to June 2025 ... Cerro Matoso (kt) 8.9 9.7 37.1 35.0 106%"
+  },
+  "S44": {
+   "url": "https://www.mmg.com/?p=163320",
+   "publisher": "MMG Limited media release, 'MMG to acquire Anglo American's nickel business'",
+   "published": "2025-02-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "producing ~40 ktpa of nickel in ferronickel across two operating assets"
+  },
+  "S45": {
+   "url": "https://www.mining-technology.com/news/anglo-american-nickel-brazil-mmg/",
+   "publisher": "Mining Technology, 'Anglo American to sell Brazil nickel business to MMG' (page body not opened; search-result text)",
+   "published": "2025-02-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The operating assets (Barro Alto and Niquelandia mines, plus the Barro Alto and Codemin ferronickel plants) together produced 39,400t of nickel in 2024. Anglo expects to produce 37,000-39,000t in 2025."
+  },
+  "S46": {
+   "url": "https://www.mining-technology.com/news/horizontes-araguaia-nickel-project/",
+   "publisher": "Mining Technology, 'Horizonte's Araguaia nickel project'",
+   "published": "2024-02-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the project will now require nearly $454m to construct, commission and deliver the first metal."
+  },
+  "S47": {
+   "url": "https://www.mining.com/horizonte-minerals-enters-administration/",
+   "publisher": "Mining.com, 'Horizonte Minerals in administration after failed financing attempt' (HTTP 403; search-result text)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "unable to secure the necessary financing to finish building its $1 billion Araguaia nickel project in Brazil ... disposing of the Araguaia project while it's in care and maintenance"
+  },
+  "S48": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-01-29/solway-restart-guatemala-nickel-plant-after-price-surge",
+   "publisher": "Reuters via Kitco News, 'Solway to restart Guatemala nickel plant after price surge'",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the PRONICO facility with annual production capacity of 25,000 metric tons of nickel in ferronickel"
+  },
+  "S49": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-01-29/solway-restart-guatemala-nickel-plant-after-price-surge",
+   "publisher": "Reuters via Kitco News, 'Solway to restart Guatemala nickel plant after price surge'",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The anticipated timeline for restarting CGN is around April to May 2026, aligned with the restart of PRONICO"
+  },
+  "S50": {
+   "url": "https://www.prensa-latina.cu/2026/05/19/reactivaron-procesamiento-de-ferroniquel-en-izabal-guatemala/",
+   "publisher": "Prensa Latina, 'Reactivaron procesamiento de ferroniquel en Izabal, Guatemala' (page not opened; search-result text)",
+   "published": "2026-05-19",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "tier": "reported",
+   "snippet": "Tras suspensión y cierre en marzo de 2023, una nueva estructura de Fenix Nickel reactivó el proceso"
+  },
+  "S51": {
+   "url": "https://www.riotimesonline.com/dominican-court-orders-falcondo-liquidation-nickel-2026/",
+   "publisher": "Rio Times, 'Dominican court orders Falcondo liquidation'",
+   "published": "2026-11-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Falcondo has been closed since 2023 and lacks a mining permit, a court-appointed verifier found."
+  },
+  "S52": {
+   "url": "https://news.cision.com/terrafame/r/terrafame-2025--ebitda-increased-despite-a-challenging-market,c4313987",
+   "publisher": "Terrafame Oy, 'Terrafame 2025: EBITDA increased despite a challenging market' (Cision)",
+   "published": "2026-02-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we achieved a new production record for nickel both on a quarterly and full-year level"
+  },
+  "S53": {
+   "url": "https://im-mining.com/?p=49554",
+   "publisher": "International Mining, 'Terrafame to go ahead with nickel-cobalt sulphate plant in Sotkamo, Finland'",
+   "published": "2018-10-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The production capacity of the battery chemicals plant will be 170,000 t/y of nickel sulphate"
+  },
+  "S54": {
+   "url": "https://terrafame.com/offering/battery-chemicals.html",
+   "publisher": "Terrafame Oy, Battery chemicals page (undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "At its integrated industrial site in Sotkamo, Finland, the company produces battery chemicals and critical metals."
+  },
+  "S55": {
+   "url": "https://www.mysteel.net/news/5112473-flash-boliden-reports-2219-year-on-year-decline-in-nickel-matte-production-for-q4-2025",
+   "publisher": "Mysteel flash, Boliden Q4 2025 nickel production (page not opened; search-result text)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Nickel in concentrate production amounted to 2,525 tonnes, down 22.00% quarter-on-quarter and 11.37% year-on-year (Kevitsa, Q4 2025); Harjavalta nickel matte 9,116 tonnes Ni content in Q4 2025"
+  },
+  "S56": {
+   "url": "https://enerji.gov.tr/info-banknatural-resourcesnickel",
+   "publisher": "Republic of Turkiye, Ministry of Energy and Natural Resources, nickel info bank (update 30 June 2026)",
+   "published": "2026-06-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "This downward trend continued in 2025, with production falling further to approximately 182 thousand tonnes"
+  },
+  "S57": {
+   "url": "https://www.e-mj.com/news/europe/european-nickel-halts-calda-project-over-permit-delays/",
+   "publisher": "E&MJ, 'European Nickel halts Caldag project over permit delays' (page not opened; search-result text, undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "the ENK board took the painful decision of putting the Caldag project on care and maintenance ... design target 20,000mt/year of nickel and mine life estimated at 14 years"
+  },
+  "S58": {
+   "url": "https://www.miningweekly.com/article/kabanga-nickel-project-tanzania-update-2026-05-29",
+   "publisher": "Mining Weekly / Engineering News, Kabanga update (page not opened; search-result text from Lifezone coverage)",
+   "published": "2026-05-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Nameplate mill throughput is 3.4 Mtpa, and the mine life is 18 years; Lifezone secured BHP's remaining 17% share, securing complete ownership of Kabanga Nickel (FID targeted 2026)"
+  },
+  "S59": {
+   "url": "https://periskopi.com/en/2025/4/ferronikli-stops-production-difficult-essential-decision",
+   "publisher": "Periskopi, 'Ferronikli stops production by year's end'",
+   "published": "2025-04-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "imposed a complete ban on production activity until 31 December this year"
+  },
+  "S60": {
+   "url": "https://projectblue.com/blue/news-analysis/497/kosovo-nickel-plant-restarts-production",
+   "publisher": "Project Blue, 'Kosovo nickel plant restarts production' (page not opened; search-result text, older)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ferronickel capacity was 12ktpy Ni-in-FeNi with output of 9kt achieved in 2020"
+  },
+  "S61": {
+   "url": "https://subsites.chinadaily.com.cn/jnmc/2026-06/29/c_1010397.htm",
+   "publisher": "China Daily Jinchuan subsite (Jinchuan Group profile), updated 29 June 2026",
+   "published": "2026-06-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has an annual production capacity of 330,000 tons of nickel products and 17,000 tons of cobalt products, including 190,000 tons of electrolytic nickel, 7,000 tons of electrolytic cobalt and 10,000 tons of carbonyl nickel."
+  },
+  "S62": {
+   "url": "https://woodmac.com/reports/metals-niihama-smm-nickel-sulphate-refinery-150006841/",
+   "publisher": "Wood Mackenzie asset report, Niihama (SMM) nickel sulphate refinery (paywalled; search-result text only)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The Niihama nickel sulphate refinery produces nickel sulphate from feedstocks from integrated HPAL mines operated by SMM. The plant had a nickel sulphate capacity of 7.0kt (in contained Ni) in 2021 and produced 6.5kt in that year."
+  },
+  "S63": {
+   "url": "https://glencore.ca/en/raglan/who-we-are/at-a-glance",
+   "publisher": "Glencore Canada, Raglan Mine 'At a glance' page (undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "39,900 tonnes of nickel produced annually"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "glencore-integrated-nickel-operations-sudbury-raglan-canada",
+   "fields": {
+    "asset_name": "Glencore Integrated Nickel Operations - Sudbury (Ontario) and Raglan (Quebec) mines, own-sourced (aggregate)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel in concentrate/matte (feeds Nikkelverk)",
+    "asset_type": "underground nickel-copper-PGM mines, mills and smelter (aggregate)",
+    "feedstock": "sulphide ore",
+    "operator": "Glencore (Integrated Nickel Operations)",
+    "parent_company": "Glencore plc",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario; Quebec (Nunavik)",
+    "status": "operational",
+    "project_state": "active",
+    "production": 39800,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "feeds": "glencore-nikkelverk-nickel-norway",
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "production": [
+     "S1"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Glencore FY2025 production report p.12: INO (Sudbury, Raglan, Nikkelverk) own-source nickel metal 39.8 kt in 2025 (42.9 kt in 2024); the line is labelled 'Nickel metal' (not 'in concentrate'), so it is read as Ni from own Sudbury/Raglan ore. Total INO incl. third-party feed 101.5 kt (see Nikkelverk row; not additive). Raglan alone: Glencore Raglan page says '39,900 tonnes of nickel produced annually' (S63; year not stated on page, not used as a row value and not additive to this row) - the two figures are not reconciled (possible concentrate-vs-metal basis). Sudbury and Raglan are held in this single aggregate row because Glencore does not split them. Provinces named from general knowledge of the assets (not in the quoted lines). No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "glencore-nikkelverk-nickel-norway",
+   "fields": {
+    "asset_name": "Nikkelverk (Kristiansand) refinery - nickel (Integrated Nickel Operations)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel (cathode, briquettes, sulphate etc.)",
+    "asset_type": "electrolytic nickel refinery",
+    "feedstock": "Sudbury/Raglan matte and third-party feed",
+    "operator": "Glencore (Nikkelverk)",
+    "parent_company": "Glencore plc",
+    "country": "Norway",
+    "region": "Europe",
+    "province_state": "Agder (Kristiansand)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 92000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2026,
+    "production": 101500,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.glencore.com/en/what-we-do/recycling",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S5"
+    ],
+    "production": [
+     "S2"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Capacity: Glencore page (undated) 'approximately 92,000 tonnes of nickel per year'; capacity_ref_year = access-year fallback because the page is undated. Production: 101.5 kt is Glencore's 'Integrated Nickel Operations - total production including third party feed, Nickel metal' for 2025 (98.4 kt in 2024); it is used as a proxy for Nikkelverk refined output because Nikkelverk is the INO refinery, but Glencore does not label it as Nikkelverk output and it exceeds the stated 92 kt capacity (conflict, unresolved). Existing cobalt row for the same site: glencore-nikkelverk-cobalt-norway (different commodity)."
+  },
+  {
+   "action": "add",
+   "id": "glencore-murrin-murrin-nickel-australia",
+   "fields": {
+    "asset_name": "Murrin Murrin nickel-cobalt operation (nickel)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel metal (with cobalt)",
+    "asset_type": "laterite mine, HPAL and refinery",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Glencore (Murrin Murrin)",
+    "parent_company": "Glencore plc",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "active",
+    "production": 32100,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "production": [
+     "S3"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Glencore FY2025 production report p.12: own-sourced nickel metal 32.1 kt (34.3 kt in 2024); 34.5 kt including third-party feed (37.7 kt in 2024). SAME physical asset and step as existing row glencore-murrin-murrin-cobalt-australia (commodity cobalt, 2.2 kt Co); a separate nickel-commodity row is added so nickel aggregates see it. Existing cobalt row left untouched; lead may merge. Nameplate capacity not retrieved."
+  },
+  {
+   "action": "add",
+   "id": "glencore-koniambo-nickel-new-caledonia",
+   "fields": {
+    "asset_name": "Koniambo Nickel (KNS) mine and ferronickel smelter",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and ferronickel smelter",
+    "feedstock": "saprolite ore",
+    "operator": "Koniambo Nickel SAS (KNS)",
+    "parent_company": "Glencore (49%)",
+    "jv_partners": "Glencore 49%; SMSP (Société Minière du Sud Pacifique, northern province)",
+    "country": "New Caledonia",
+    "region": "Australia & Oceania",
+    "province_state": "North Province",
+    "status": "operational",
+    "project_state": "paused",
+    "production": 0,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S36"
+    ],
+    "production": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Glencore FY2025 production report p.12: Koniambo nickel in ferronickel shows nil (dash) in all 2025 quarters vs 5.0 kt in 2024 (production 0 recorded). Mining Technology (12 Feb 2024): Glencore moved to suspend KNS operations and place the JV in care and maintenance. Search snippets (not opened, not used as evidence) say furnaces were shut at end-Aug 2024 and bids for Glencore's stake were under review; no restart found. Nameplate capacity (commonly cited ~60 kt Ni) NOT sourced here, left null. Province from general knowledge. 51% SMSP share not stated in the opened pages."
+  },
+  {
+   "action": "add",
+   "id": "nickel-asia-operating-mines-aggregate-philippines",
+   "fields": {
+    "asset_name": "Nickel Asia Corporation operating nickel mines (seven mines incl. Rio Tuba, Taganito, Cagdianao, Dinagat, Manicani; aggregate)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "saprolite and limonite ore (direct shipping + HPAL feed)",
+    "asset_type": "open-pit laterite mines (aggregate)",
+    "feedstock": "nickel laterite",
+    "operator": "Nickel Asia Corporation",
+    "parent_company": "Nickel Asia Corporation",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "status": "operational",
+    "project_state": "active",
+    "production": 18560000,
+    "production_unit": "t ore",
+    "production_year": 2025,
+    "end_market": null,
+    "source_url": "https://nickelasia.com/assets/documents/PRESS-RELEASE-NICKEL-ASIA-CORPORATION-ATTRIBUTABLE-EARNINGS-TRIPLE-IN-FY2025.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-25"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "production": [
+     "S6"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "NAC FY2025 press release: operating mines SOLD a combined 18.56 million wet metric tons (WMT) of nickel ore (17.02 Mwmt in 2024): saprolite+limonite exports 10.93 Mwmt, limonite deliveries to Coral Bay and Taganito HPAL plants 7.64 Mwmt (S8; remainder domestic/other). Unit is wet ore sales, not contained nickel; the release gives no nickel grade (HPAL payability 9.87% is a price term, not a grade), so no contained-Ni conversion was made. 'Seven operating mines' (S7); the release does not name them or split volumes by mine - Rio Tuba, Taganito, Cagdianao, Dinagat (Hinatuan) and Manicani are named in press coverage only, so per-mine rows are NOT created (gap). Company reports sales, not mined output."
+  },
+  {
+   "action": "add",
+   "id": "dmci-mining-zambales-long-point-berong-philippines",
+   "fields": {
+    "asset_name": "DMCI Mining nickel operations (Zambales, Long Point, Berong; aggregate)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel laterite ore",
+    "asset_type": "open-pit laterite mines (aggregate)",
+    "feedstock": "nickel laterite",
+    "operator": "DMCI Mining Corporation",
+    "parent_company": "DMCI Holdings",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "province_state": "Zambales; Palawan",
+    "status": "operational",
+    "project_state": "active",
+    "production": 2000000,
+    "production_unit": "t ore",
+    "production_year": 2025,
+    "source_url": "https://tribune.net.ph/2026/02/08/dmci-mining-bullish-on-growth-after-record-nickel-year",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-09"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "production": [
+     "S9"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Daily Tribune: record nickel ore production 2.0 million WMT in 2025 (1.5 Mwmt in 2024); shipments 1.9 Mwmt (+31%); driven by Zambales operations and initial production at Long Point; Berong Nickel (Palawan) rehabilitation mentioned. 2026 target up to 3 Mwmt (search coverage, not opened). Wet tonnes, nickel grade not stated -> no contained Ni. Parent DMCI Holdings and the Palawan location of Long Point are from search-result text / general knowledge, not the quoted sentence. One row for the three sites because the article gives only a company total."
+  },
+  {
+   "action": "add",
+   "id": "global-ferronickel-holdings-surigao-palawan-philippines",
+   "fields": {
+    "asset_name": "Global Ferronickel Holdings (FNI) nickel mines (Surigao and Palawan incl. Ipilan; aggregate)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel laterite ore (low-grade majority)",
+    "asset_type": "open-pit laterite mines (aggregate)",
+    "feedstock": "nickel laterite",
+    "operator": "Global Ferronickel Holdings (FNI)",
+    "parent_company": "Global Ferronickel Holdings",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "province_state": "Surigao; Palawan",
+    "status": "operational",
+    "project_state": "active",
+    "production": 4605000,
+    "production_unit": "t ore",
+    "production_year": 2025,
+    "source_url": "https://tribune.net.ph/2026/05/21/fni-targets-higher-output-after-strong-2025-2",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-21"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "production": [
+     "S10"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Daily Tribune: 2025 shipment volumes declined 15.5% to 4.605 million WMT (bad weather); low-grade ore 83% of volume; planned doubling of Ipilan Nickel (Palawan) capacity from 1.5 to 3 Mwmt is under regulatory review (not recorded as capacity). Shipments, not mined output; wet tonnes; no grade -> no contained Ni. Marcventures and other Philippine producers not found (gap)."
+  },
+  {
+   "action": "add",
+   "id": "nornickel-polar-division-norilsk-russia",
+   "fields": {
+    "asset_name": "Nornickel Polar Division - Norilsk site mines (Talnakh and Norilsk deposits)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "copper-nickel sulphide ore (to Talnakh concentrator and Norilsk smelters)",
+    "asset_type": "underground and open-pit sulphide mines",
+    "feedstock": "sulphide ore",
+    "operator": "Nornickel (Polar Division)",
+    "parent_company": "MMC Norilsk Nickel",
+    "country": "Russia",
+    "region": "Russia & Central Asia",
+    "province_state": "Krasnoyarsk Krai (Norilsk)",
+    "status": "operational",
+    "project_state": "active",
+    "production": 20200000,
+    "production_unit": "t ore",
+    "production_year": 2024,
+    "feeds": "nornickel-kola-mmc-nickel-russia",
+    "source_url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "production": [
+     "S12"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Nornickel AR2024: Norilsk site ore production 20.2 Mt in 2024; capacity not stated. GROUP nickel metal: 199,000 t in 2025, -3% (S11, AK&M 28 Jan 2026; search coverage cites 198,521 t and guidance 204-211 kt missed, 2026 guidance 193-203 kt, not opened); 205.1 kt saleable nickel in 2024 (AR2024 table). The group figure is NOT split by site and is not stored on a row to avoid double counting with the Kola and Harjavalta rows; compare to USGS Russia 2025e 200 kt. Ore tonnes are not nickel; 2024 is the latest site-level year found."
+  },
+  {
+   "action": "add",
+   "id": "nornickel-kola-site-mines-russia",
+   "fields": {
+    "asset_name": "Nornickel Kola site mines (Zapolyarny / Nikel disseminated copper-nickel ores) and concentrator",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "copper-nickel sulphide ore",
+    "asset_type": "sulphide mines and concentrator",
+    "feedstock": "disseminated sulphide ore",
+    "operator": "Nornickel (Kola MMC)",
+    "parent_company": "MMC Norilsk Nickel",
+    "country": "Russia",
+    "region": "Russia & Central Asia",
+    "province_state": "Murmansk Oblast",
+    "status": "operational",
+    "project_state": "active",
+    "production": 7000000,
+    "production_unit": "t ore",
+    "production_year": 2024,
+    "source_url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "production": [
+     "S13"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Nornickel AR2024: Kola site produced 7.0 Mt ore in 2024. Murmansk Oblast is general knowledge. Ore tonnes only; nickel in ore not stated."
+  },
+  {
+   "action": "add",
+   "id": "nornickel-kola-mmc-nickel-russia",
+   "fields": {
+    "asset_name": "Nornickel Kola MMC nickel refinery (Monchegorsk)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel (cathode, briquettes) from Norilsk converter matte",
+    "asset_type": "nickel refinery",
+    "feedstock": "Norilsk converter matte and Kola concentrate",
+    "operator": "Nornickel (Kola MMC)",
+    "parent_company": "MMC Norilsk Nickel",
+    "country": "Russia",
+    "region": "Russia & Central Asia",
+    "province_state": "Murmansk Oblast",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://nornickel.com/business/assets/kola-division-finland",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Nornickel site page: Kola site is the company's nickel refining hub. Capacity and site-level output not disclosed on the pages opened; group nickel 2025 = 199 kt (S11) - see Norilsk row note. Existing cobalt row for the Kola cobalt workshop: nornickel-kola-mmc-cobalt-russia. 'Monchegorsk' follows the existing row name (not in the quoted text)."
+  },
+  {
+   "action": "add",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {
+    "asset_name": "Nornickel Harjavalta nickel refinery (Nornickel 'Foreign site')",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel products (powder, briquettes, cathode, salts)",
+    "asset_type": "nickel refinery",
+    "feedstock": "Nornickel matte and third-party feed",
+    "operator": "Norilsk Nickel Harjavalta Oy",
+    "parent_company": "MMC Norilsk Nickel",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Satakunta",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 65000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2024,
+    "source_url": "https://ar2024.nornickel.ru/en/business-overview/operational-performance.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "capacity": [
+     "S14"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Nornickel AR2024: Foreign site hosts a nickel refinery with total capacity of up to 65 ktpa of nickel products (search coverage: AR2019 gave 66 ktpa). AR2024 does not use the name Harjavalta; the identification Foreign site = Harjavalta is from other Nornickel report titles in search results (kola-finland / finland pages). 2025 output not found; 2020 report value of 63.4 kt saleable nickel is from a search snippet only (not used). capacity_ref_year 2024 = AR data year. Boliden also operates a separate Harjavalta smelter (see Boliden row)."
+  },
+  {
+   "action": "add",
+   "id": "vale-sudbury-mines-and-smelter-nickel-canada",
+   "fields": {
+    "asset_name": "Vale Sudbury mines, mill and smelter (Ontario) - own-sourced nickel",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel in matte (to Clydach, Matsusaka, Long Harbour feed mixes)",
+    "asset_type": "underground nickel-copper mines, mill and smelter",
+    "feedstock": "sulphide ore",
+    "operator": "Vale Base Metals (Vale Canada)",
+    "parent_company": "Vale S.A.",
+    "jv_partners": "Manara Minerals (10% of Vale Base Metals)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "status": "operational",
+    "project_state": "active",
+    "production": 35200,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ],
+    "production": [
+     "S16"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Vale 4Q25 production report, Annex 1 'Finished production by source': Sudbury own-sourced finished nickel 35.2 kt in 2025 (36.6 kt in 2024). By-site view (S23) shows Sudbury finished nickel 59.4 kt incl. external feed - not additive, not recorded. Table lines copied with whitespace normalised (HTML table). Search coverage: Sudbury's strongest ore production since 2016; Q4 down on reactor maintenance."
+  },
+  {
+   "action": "add",
+   "id": "vale-voiseys-bay-nickel-canada",
+   "fields": {
+    "asset_name": "Voisey's Bay mine (nickel)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel-copper-cobalt concentrates (nickel to Long Harbour)",
+    "asset_type": "underground nickel-copper-cobalt mine",
+    "feedstock": "sulphide ore",
+    "operator": "Vale Base Metals",
+    "parent_company": "Vale S.A.",
+    "jv_partners": "Manara Minerals (10% of Vale Base Metals)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Newfoundland and Labrador",
+    "status": "operational",
+    "project_state": "active",
+    "production": 33200,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "feeds": "vale-long-harbour-nickel-canada",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "production": [
+     "S17"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Vale 4Q25 report Annex 1: Voisey's Bay own-sourced finished nickel 33.2 kt in 2025 (19.2 kt in 2024, +72.9%), underground ramp-up. SAME physical asset as existing row vale-voiseys-bay-cobalt-canada (commodity cobalt); separate nickel row added. Vale accounts finished nickel at the refinery, so this is Ni attributed to Voisey's Bay feed."
+  },
+  {
+   "action": "add",
+   "id": "vale-thompson-nickel-canada",
+   "fields": {
+    "asset_name": "Thompson mine and mill complex (Manitoba)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel concentrate",
+    "asset_type": "underground nickel mines and mill",
+    "feedstock": "sulphide ore",
+    "operator": "Vale Base Metals (sale to Exiro Nickel agreed 2026)",
+    "parent_company": "Vale S.A.",
+    "jv_partners": "Exiro Minerals, Orion Resource Partners, Canada Growth Fund (81.1% combined of new Exiro Nickel company); Vale 18.9%",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Manitoba",
+    "status": "operational",
+    "project_state": "active",
+    "production": 12000,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ],
+    "production": [
+     "S18"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Vale 4Q25 report Annex 1: Thompson own-sourced finished nickel 12.0 kt in 2025 (9.9 kt in 2024). BNN Bloomberg 19 Feb 2026: consortium 'Exiro Nickel Company' to own 81.1% of the new company, Vale 18.9%; the page does not confirm closing. Search coverage (not opened): Vale launched a strategic review in Jan 2025 and retains an offtake. Status 'active' until the sale is confirmed closed."
+  },
+  {
+   "action": "add",
+   "id": "vale-onca-puma-nickel-brazil",
+   "fields": {
+    "asset_name": "Onça Puma laterite mine and ferronickel smelter (Pará)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and RKEF ferronickel smelter (two furnaces)",
+    "feedstock": "saprolite ore",
+    "operator": "Vale Base Metals",
+    "parent_company": "Vale S.A.",
+    "jv_partners": "Manara Minerals (10% of Vale Base Metals)",
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Pará",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 40000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2025,
+    "production": 26100,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ],
+    "capacity": [
+     "S25"
+    ],
+    "production": [
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Vale 4Q25 report Annex 1: Brazil (Onça Puma) finished nickel 26.1 kt in 2025 (14.2 kt in 2024), 10.0 kt in Q4 (record) after the second furnace reached full capacity in November (S24). Capacity 40 ktpa after the second furnace (+15 ktpa) is from a Project Blue search snippet only (reported tier; page not opened) -> confidence capped at 0.55 overall; capacity_ref_year 2025 = publication year of the 2025 article (not a stated due date). Pará from general knowledge. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "vale-long-harbour-nickel-canada",
+   "fields": {
+    "asset_name": "Long Harbour hydrometallurgical nickel processing plant (Newfoundland and Labrador)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel (Voisey's Bay concentrate)",
+    "asset_type": "hydrometallurgical nickel refinery",
+    "feedstock": "Voisey's Bay concentrate",
+    "operator": "Vale Base Metals",
+    "parent_company": "Vale S.A.",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Newfoundland and Labrador",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Vale reports 'Voisey's Bay & Long Harbour' finished nickel together: 40.3 kt in 2025 (30.5 kt in 2024) - not split, so no production recorded here (Ni attributed to the mine on the Voisey's Bay row via the by-source table; do not add both). Search coverage: Long Harbour exceeded nameplate capacity in 2025 (nameplate not retrieved)."
+  },
+  {
+   "action": "add",
+   "id": "vale-clydach-nickel-refinery-united-kingdom",
+   "fields": {
+    "asset_name": "Clydach nickel refinery (Wales)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel (carbonyl nickel pellets and powders)",
+    "asset_type": "nickel refinery",
+    "feedstock": "Sudbury/external matte",
+    "operator": "Vale Base Metals (Vale UK)",
+    "parent_company": "Vale S.A.",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "province_state": "Wales",
+    "status": "operational",
+    "project_state": "active",
+    "production": 29500,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "production": [
+     "S20"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Vale 4Q25 report Annex 1 'Finished production by site': Clydach 29.5 kt in 2025 (34.2 kt in 2024). Includes external/PTVI-matte feed, so refinery output is NOT additive with the mine rows (Sudbury, Voisey's Bay, Onça Puma). Product description and Wales location are general knowledge, not in the quoted line."
+  },
+  {
+   "action": "add",
+   "id": "vale-matsusaka-nickel-refinery-japan",
+   "fields": {
+    "asset_name": "Matsusaka nickel refinery (Japan)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel",
+    "asset_type": "nickel refinery",
+    "feedstock": "matte (incl. PTVI offtake)",
+    "operator": "Vale Base Metals (Vale Japan)",
+    "parent_company": "Vale S.A.",
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Mie",
+    "status": "operational",
+    "project_state": "active",
+    "production": 20300,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426000247/vale20260205_6ka.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "production": [
+     "S21"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Vale 4Q25 report Annex 1 'Finished production by site': Matsusaka 20.3 kt in 2025 (20.4 kt in 2024). Refinery output incl. external feed; not additive with mine rows. Vale total finished nickel 177.2 kt in 2025 (159.9 kt in 2024) per S23; Kaohsiung/Dalian not listed in the table (no data). Mie prefecture from general knowledge."
+  },
+  {
+   "action": "add",
+   "id": "talon-metals-eagle-mine-united-states",
+   "fields": {
+    "asset_name": "Eagle nickel-copper mine (Michigan)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel and copper concentrates",
+    "asset_type": "underground nickel-copper mine",
+    "feedstock": "sulphide ore",
+    "operator": "Eagle Mine (Lundin Mining; sale to Talon Metals agreed Dec 2025)",
+    "parent_company": "Lundin Mining / Talon Metals Corp.",
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Michigan",
+    "status": "operational",
+    "project_state": "active",
+    "production": 9907,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://news.cision.com/lundin-mining-corporation/r/lundin-mining-announces-2025-production-results-and-2026-guidance,c4296017",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-21"
+   },
+   "evidence": {
+    "status": [
+     "S27"
+    ],
+    "production": [
+     "S27"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Lundin Mining 21 Jan 2026: nickel production at Eagle 9,907 t in 2025 (100% basis); 2026 guidance excludes Eagle 'after accounting for the sale of the Eagle Mine to Talon Metals Corp.' (agreement 18 Dec 2025 per search coverage; closing/ownership detail not verified from an opened page). Michigan from general knowledge. USGS US 2025e 10,000 t Ni matches."
+  },
+  {
+   "action": "add",
+   "id": "ambatovy-minerals-ambatovy-nickel-madagascar",
+   "fields": {
+    "asset_name": "Ambatovy nickel-cobalt mine, HPAL and refinery (nickel)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel briquettes/powder (with cobalt)",
+    "asset_type": "laterite mine, HPAL and refinery",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Ambatovy Minerals",
+    "parent_company": "Sumitomo Corporation (sold 54% stake to investors in May 2026)",
+    "jv_partners": "KOMIR (Korea), other investors",
+    "country": "Madagascar",
+    "region": "Africa",
+    "status": "operational",
+    "project_state": "active",
+    "production": 29000,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-06-11/madagascan-miner-ambatovy-resumes-nickel-production-after-cyclone",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-11"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ],
+    "production": [
+     "S28"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Reuters via Kitco 11 Jun 2026: production 'around 29,000 tons of nickel and 2,700 tons of cobalt in 2025'; restarting after a February 2026 cyclone; Sumitomo sold its 54% stake to a group of investors in May 2026. SAME physical asset and step as existing row ambatovy-cobalt-madagascar (commodity cobalt); separate nickel row added. Rounded figure; nameplate (60 kt Ni seen in a snippet) not used."
+  },
+  {
+   "action": "add",
+   "id": "mcc-ramu-nico-nickel-png",
+   "fields": {
+    "asset_name": "Ramu NiCo laterite mine and HPAL (nickel in MHP)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "mixed hydroxide precipitate (MHP), contained nickel",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "MCC (Metallurgical Corporation of China)",
+    "parent_company": "MCC",
+    "jv_partners": "Nickel 28 (8.56%)",
+    "country": "Papua New Guinea",
+    "region": "Australia & Oceania",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 32600,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2026,
+    "production": 33007,
+    "production_unit": "t Ni in MHP",
+    "production_year": 2025,
+    "source_url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-23"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ],
+    "capacity": [
+     "S30"
+    ],
+    "production": [
+     "S29"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Nickel 28 release 23 Feb 2026: 2025 production 33,007 t contained nickel in MHP (28,669 t in 2024); 'design capacity of 32,600 t Ni per year is an annualized benchmark' (capacity_ref_year 2026 = publication-year fallback). 100% plant basis. SAME physical asset and step as existing row mcc-ramu-nico-png (commodity cobalt, 3,099 t Co); separate nickel row added. MHP is an intermediate, not refined metal."
+  },
+  {
+   "action": "add",
+   "id": "moa-jv-moa-nickel-cuba",
+   "fields": {
+    "asset_name": "Moa Joint Venture - Moa laterite mine and mixed-sulphides plant (nickel)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel-cobalt mixed sulphides (feed to Fort Saskatchewan)",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Moa JV (Sherritt / Cuban state)",
+    "parent_company": "Sherritt International",
+    "jv_partners": "Sherritt (50%)",
+    "country": "Cuba",
+    "region": "North America",
+    "status": "operational",
+    "project_state": "active",
+    "feeds": "sherritt-fort-saskatchewan-nickel-canada",
+    "source_url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-10"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Sherritt Q4 2025 release: Moa JV finished nickel/cobalt 25,240 t Ni and 2,728 t Co (100% basis) in 2025 - recorded ONCE on the Fort Saskatchewan nickel row (this row has no production, to avoid double counting). Mixed-sulphides tonnage is on later pages not opened. SAME physical asset and step as existing row sherritt-moa-jv-cuba (commodity cobalt)."
+  },
+  {
+   "action": "add",
+   "id": "sherritt-fort-saskatchewan-nickel-canada",
+   "fields": {
+    "asset_name": "Fort Saskatchewan nickel-cobalt refinery (nickel; Moa JV metals refinery)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "finished nickel (briquettes/powder)",
+    "asset_type": "hydrometallurgical nickel-cobalt refinery",
+    "feedstock": "Moa mixed sulphides and third-party feed",
+    "operator": "Sherritt International",
+    "parent_company": "Sherritt International",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Alberta",
+    "status": "operational",
+    "project_state": "active",
+    "production": 25240,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-10"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ],
+    "production": [
+     "S31"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Sherritt Q4 2025 release: Moa JV finished nickel 25,240 t in 2025 (100% basis; guidance ranges revised). Attributed to the Fort Saskatchewan refinery because finished metal is produced there (Sherritt 'Fort Site'); the release phrase is 'finished nickel and cobalt production at the Moa Joint Venture'. Refinery nameplate not retrieved. Existing cobalt row: sherritt-fort-saskatchewan-refinery-canada (carries 2,728 t Co). Alberta from general knowledge (Fort Saskatchewan)."
+  },
+  {
+   "action": "add",
+   "id": "prony-resources-goro-nickel-new-caledonia",
+   "fields": {
+    "asset_name": "Goro (Prony Resources) nickel-cobalt mine and HPAL plant (nickel)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel-cobalt hydroxide cake (NHC) / nickel chemicals",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Prony Resources New Caledonia",
+    "parent_company": "Prony Resources",
+    "country": "New Caledonia",
+    "region": "Australia & Oceania",
+    "province_state": "South Province",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 57000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2024,
+    "source_url": "https://mining-technology.com/newsletters/prony-resources-nickel-goro-mine",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-11-19"
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ],
+    "capacity": [
+     "S32"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Mining Technology 19 Nov 2024: Goro designed for 57,000 tpa nickel and 5,000 tpa cobalt; restart date not confirmed at publication (search snippets, not opened: restarted Dec 2024, target 3,500 t/month of Ni+Co chemicals, output cut after a tailings-dam leak, ~EUR150m state support). Design capacity, not actual; no 2025 production found (gap). Status weakly evidenced as of 2024-11. SAME asset/step as existing row prony-resources-goro-new-caledonia (commodity cobalt)."
+  },
+  {
+   "action": "add",
+   "id": "sln-doniambo-ferronickel-new-caledonia",
+   "fields": {
+    "asset_name": "SLN (Eramet) Doniambo ferronickel smelter and mines (Poro, Poum, east coast)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mines and ferronickel smelter",
+    "feedstock": "saprolite ore",
+    "operator": "Société Le Nickel (SLN)",
+    "parent_company": "Eramet",
+    "country": "New Caledonia",
+    "region": "Australia & Oceania",
+    "province_state": "South Province (Nouméa, Doniambo)",
+    "status": "operational",
+    "project_state": "active",
+    "production": 36000,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://www.lnc.nc/article/nouvelle-caledonie/economie/mines/nickel/la-sln-aborde-2026-avec-davantage-de-serenite",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-20"
+   },
+   "evidence": {
+    "status": [
+     "S34"
+    ],
+    "production": [
+     "S33"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "LNC 20 Jan 2026: SLN produced about 36,000 t in 2025 after 32,000 t of ferronickel in 2024; plans 43,000 t in 2026; Poum idle since 2023 (authorisations regained), Poro relaunched. UNIT AMBIGUITY: the article says 'tonnes de ferro-nickel' without stating Ni content; recorded as t Ni because a Mysteel search snippet (S35, reported) gives Q4 2025 SLN output of 9,600 t Ni in FeNi (~38 kt/yr pace) and Eramet reports SLN in contained Ni; if 36,000 were gross FeNi, Ni content would be ~25% of it. Eramet's FY2025 release (opened, p.3-6) gives no SLN volumes (SLN reported outside adjusted figures). SLN ore extraction not found (Q4: 762,000 wmt, snippet). Province from general knowledge. USGS New Caledonia 2025e 140 kt Ni (mine, includes ore exports by SMSP/others and SLN ore)."
+  },
+  {
+   "action": "add",
+   "id": "bhp-nickel-west-mt-keith-leinster-kalgoorlie-australia",
+   "fields": {
+    "asset_name": "BHP Nickel West - Mt Keith and Leinster mines, concentrators and Kalgoorlie smelter",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel concentrate and matte",
+    "asset_type": "open-pit/underground sulphide mines, concentrators, smelter",
+    "feedstock": "sulphide ore",
+    "operator": "BHP (Western Australia Nickel)",
+    "parent_company": "BHP Group",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "paused",
+    "source_url": "https://www.bhp.com/news/media-centre/releases/2024/07/western-australia-nickel-to-temporarily-suspend-operations",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-07-11"
+   },
+   "evidence": {
+    "status": [
+     "S37"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "BHP release 11 Jul 2024 (HTTP 403 for the fetcher; search-result text only -> reported tier): all WA Nickel sites temporarily suspended (from Oct 2024 per snippet) with a review of the decision by Feb 2027. No production or capacity retrieved; FY2024/25 figures not found. Contributes ~0 in 2025; USGS Australia fell from 98 kt (2024) to 45 kt (2025e) consistent with the suspension."
+  },
+  {
+   "action": "add",
+   "id": "bhp-kwinana-nickel-refinery-australia",
+   "fields": {
+    "asset_name": "BHP Kwinana nickel refinery",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "refined nickel and nickel sulphate",
+    "asset_type": "nickel refinery",
+    "feedstock": "Kalgoorlie matte",
+    "operator": "BHP (Western Australia Nickel)",
+    "parent_company": "BHP Group",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "paused",
+    "source_url": "https://www.bhp.com/news/media-centre/releases/2024/07/western-australia-nickel-to-temporarily-suspend-operations",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-07-11"
+   },
+   "evidence": {
+    "status": [
+     "S37"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Same BHP release (reported tier): Kwinana Nickel Refinery temporarily suspended; capacity not retrieved."
+  },
+  {
+   "action": "add",
+   "id": "igo-nova-nickel-operation-australia",
+   "fields": {
+    "asset_name": "Nova nickel-copper-cobalt operation (IGO) - mining concluded",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel concentrate (with copper and cobalt)",
+    "asset_type": "underground nickel-copper-cobalt mine and plant",
+    "feedstock": "sulphide ore",
+    "operator": "IGO Limited (sale to Global Lithium Resources pending)",
+    "parent_company": "IGO Limited",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "cancelled",
+    "production": 21340,
+    "production_unit": "t Ni",
+    "production_year": 2026,
+    "source_url": "https://announcements.asx.com.au/asxpdf/20261109/pdf/076ctb0d6ct91d.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-09",
+    "end_market": null
+   },
+   "evidence": {
+    "status": [
+     "S39"
+    ],
+    "production": [
+     "S38"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "IGO ASX release 9 Nov 2026: mining and processing at Nova have concluded; life-of-mine production for FY26+FY27 (1 Jul 2025 to final production) was 21,340 t Ni, 9,517 t Cu, 765 t Co, above revised guidance of 19-20 kt; Nova is being divested to Global Lithium Resources, which will repurpose the plant for its Manna lithium project. production_year 2026 is a convention: the 21,340 t covers 1 Jul 2025 - closure (FY26+FY27), NOT a calendar year. FY2025 (Jul24-Jun25) output of 16,371 t is from search coverage only (not used). project_state 'cancelled' is used for a permanently closed (mined-out) asset - lead to confirm convention; contributes 0 after closure. Calendar-2025 output is therefore only part of the 21.3 kt (USGS Australia 2025e 45 kt Ni). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "first-quantum-ravensthorpe-nickel-australia",
+   "fields": {
+    "asset_name": "Ravensthorpe Nickel Operation (RNO) mine and hydrometallurgical plant",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "mixed hydroxide precipitate (MHP)",
+    "asset_type": "laterite mine and hydrometallurgical plant",
+    "feedstock": "nickel laterite",
+    "operator": "First Quantum Minerals",
+    "parent_company": "First Quantum Minerals",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity": 30000,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2026,
+    "source_url": "https://www.first-quantum.com/?p=1678",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S40"
+    ],
+    "capacity": [
+     "S41"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "First Quantum page (undated): RNO placed into a care and maintenance process in July 2024 (earlier brief care and maintenance from 2017, restarted 2020); '30kt of nickel capacity annually' (read as Ni in MHP; product not stated on the quoted line; capacity_ref_year = access-year fallback). Dates conflict across search coverage (care and maintenance from 1 May vs 1 Jun vs July 2024). No 2025 production (care and maintenance)."
+  },
+  {
+   "action": "add",
+   "id": "corex-cerro-matoso-nickel-colombia",
+   "fields": {
+    "asset_name": "Cerro Matoso laterite mine and ferronickel smelter",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and ferronickel smelter",
+    "feedstock": "saprolite ore",
+    "operator": "CoreX Holding unit (from South32 sale)",
+    "parent_company": "CoreX Holding B.V.",
+    "country": "Colombia",
+    "region": "South America",
+    "province_state": "Cordoba",
+    "status": "operational",
+    "project_state": "active",
+    "production": 37100,
+    "production_unit": "t Ni",
+    "production_year": 2025,
+    "source_url": "https://miningmx.com/news/base-metals/2025-07-07-south32-sells-colombian-nickel-operations-amid-price-collapse/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-07"
+   },
+   "evidence": {
+    "status": [
+     "S42"
+    ],
+    "production": [
+     "S43"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Miningmx 7 Jul 2025: South32 agreed to sell Cerro Matoso to a unit of CoreX Holding (up to US$100m). Production 37.1 kt Ni (South32 FY2025, year to 30 Jun 2025; guidance 35.0 kt) is from an Argus search snippet quoting South32's table (reported tier). Search coverage (not opened): sale closed 1 Dec 2025; Mysteel reports Q4 CY2025 FeNi output 5,600 t Ni (-43% y/y). Fiscal-year basis, not calendar. Cordoba from general knowledge. Nameplate not found."
+  },
+  {
+   "action": "add",
+   "id": "mmg-barro-alto-codemin-nickel-brazil",
+   "fields": {
+    "asset_name": "Anglo American Nickel Brazil - Barro Alto and Codemin (Niquelândia) mines and ferronickel plants (aggregate)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mines and RKEF ferronickel plants (two sites)",
+    "feedstock": "saprolite ore",
+    "operator": "Anglo American Níquel Brasil (sale to MMG announced Feb 2025)",
+    "parent_company": "Anglo American / MMG",
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Goiás",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 40000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2025,
+    "production": 39400,
+    "production_unit": "t Ni",
+    "production_year": 2024,
+    "source_url": "https://www.mmg.com/?p=163320",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-02-18"
+   },
+   "evidence": {
+    "status": [
+     "S44"
+    ],
+    "capacity": [
+     "S44"
+    ],
+    "production": [
+     "S45"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "MMG release 18 Feb 2025: Nickel Brazil is 'producing ~40 ktpa of nickel in ferronickel across two operating assets' (capacity_ref_year 2025 = publication year; the line is a producing rate, not nameplate); completion of the sale was 'expected by Q3 2025' - closing NOT confirmed from any opened page. 2024 production 39.4 kt Ni and Anglo's 2025 guidance 37-39 kt are from a search snippet (reported). Two physical sites held in one aggregate row because no site split was found - lead may split. Goiás from general knowledge. Jacaré and Morro Sem Boné are development projects (not added)."
+  },
+  {
+   "action": "add",
+   "id": "horizonte-minerals-araguaia-nickel-brazil",
+   "fields": {
+    "asset_name": "Araguaia nickel project (Horizonte Minerals)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and RKEF ferronickel plant (project)",
+    "feedstock": "saprolite ore",
+    "operator": "Horizonte Minerals (in administration)",
+    "parent_company": "Horizonte Minerals",
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Pará",
+    "status": "under_construction",
+    "project_state": "paused",
+    "source_url": "https://www.mining-technology.com/news/horizontes-araguaia-nickel-project/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-02-20"
+   },
+   "evidence": {
+    "status": [
+     "S46",
+     "S47"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Mining Technology 20 Feb 2024: project needed ~US$454m to construct, commission and deliver first metal; mechanical completion then expected Q1 2026. Search-result text (reported, S47): Horizonte unable to finance completion (capex US$1bn), entered administration; options include sale of the project while in care and maintenance. Nameplate capacity not stated in opened pages (left null). Status/date of administration not dated in snippet. Pará from general knowledge."
+  },
+  {
+   "action": "add",
+   "id": "solway-fenix-pronico-cgn-guatemala",
+   "fields": {
+    "asset_name": "Fenix nickel project - CGN mine and PRONICO ferronickel plant (El Estor)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and ferronickel plant",
+    "feedstock": "nickel laterite",
+    "operator": "Fenix Nickel (Solway Investment Group)",
+    "parent_company": "Solway Investment Group",
+    "country": "Guatemala",
+    "region": "North America",
+    "province_state": "Izabal (El Estor)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 25000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2026,
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-01-29/solway-restart-guatemala-nickel-plant-after-price-surge",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S49",
+     "S50"
+    ],
+    "capacity": [
+     "S48"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Reuters via Kitco 29 Jan 2026: PRONICO annual capacity 25,000 t nickel in ferronickel; CGN mine up to 2.2 Mt ore; both closed after Nov 2022 US sanctions (lifted Jan 2024); restart of CGN targeted April-May 2026 aligned with PRONICO. Prensa Latina (19 May 2026, search snippet, reported) says processing was reactivated, so project_state set to active as of the research date - NOT confirmed from an opened page; 2025 output = nil (closed). Search coverage gives conflicting ramp-up (17,000 t in 2026 vs 2027) - not recorded. capacity_ref_year 2026 = publication year."
+  },
+  {
+   "action": "add",
+   "id": "falcondo-bonao-ferronickel-dominican-republic",
+   "fields": {
+    "asset_name": "Falcondo (Falconbridge Dominicana) Bonao ferronickel mine and smelter",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mine and ferronickel smelter",
+    "feedstock": "saprolite ore",
+    "operator": "Falconbridge Dominicana (Falcondo)",
+    "parent_company": "Americano Nickel (owner per search coverage)",
+    "country": "Dominican Republic",
+    "region": "North America",
+    "province_state": "Monseñor Nouel (Bonao)",
+    "status": "operational",
+    "project_state": "cancelled",
+    "source_url": "https://www.riotimesonline.com/dominican-court-orders-falcondo-liquidation-nickel-2026/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-06"
+   },
+   "evidence": {
+    "status": [
+     "S51"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Rio Times 6 Nov 2026: Falcondo closed since 2023 and lacks a mining permit; a court in Santiago ordered judicial liquidation on 4 November (extraction ended 17 Nov 2023 per a mining-directorate certificate). Search coverage (not opened): concession terminated by court in Aug 2026. Contributes 0 in 2025. Capacity not retrieved. Location (Bonao) from general knowledge."
+  },
+  {
+   "action": "add",
+   "id": "terrafame-sotkamo-nickel-mine-finland",
+   "fields": {
+    "asset_name": "Terrafame Sotkamo mine and bioheapleaching (nickel-cobalt-zinc-copper)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel-cobalt intermediates (mixed sulphide) and nickel sulphate",
+    "asset_type": "open-pit black-schist mine with bioheap leaching",
+    "feedstock": "polymetallic black schist ore",
+    "operator": "Terrafame Oy",
+    "parent_company": "Terrafame Group (Finnish Minerals Group, Trafigura)",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Kainuu (Sotkamo)",
+    "status": "operational",
+    "project_state": "active",
+    "feeds": "terrafame-sotkamo-battery-chemicals-finland",
+    "source_url": "https://news.cision.com/terrafame/r/terrafame-2025--ebitda-increased-despite-a-challenging-market,c4313987",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-27"
+   },
+   "evidence": {
+    "status": [
+     "S52",
+     "S54"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Terrafame full-year 2025 release (27 Feb 2026): a new production record for nickel on quarterly and full-year level - no tonnage in the opened release or media-release page. Tonnage possibly in the Financial Review 2025 (26 Mar 2026, PDF not read); a search snippet mentions '30,000 mt' without year - not used. Owner names (Finnish Minerals Group, Trafigura) are from search coverage. Production left null."
+  },
+  {
+   "action": "add",
+   "id": "terrafame-sotkamo-battery-chemicals-finland",
+   "fields": {
+    "asset_name": "Terrafame Sotkamo battery chemicals plant (nickel and cobalt sulphate)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel sulphate and cobalt sulphate",
+    "asset_type": "hydrometallurgical battery-chemicals plant",
+    "feedstock": "Terrafame nickel-cobalt intermediates",
+    "operator": "Terrafame Oy",
+    "parent_company": "Terrafame Group",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Kainuu (Sotkamo)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 170000,
+    "capacity_unit": "t NiSO4",
+    "capacity_ref_year": 2018,
+    "source_url": "https://im-mining.com/?p=49554",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-10-25"
+   },
+   "evidence": {
+    "status": [
+     "S54"
+    ],
+    "capacity": [
+     "S53"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "International Mining (25 Oct 2018, investment decision): capacity of the battery chemicals plant will be 170,000 t/y nickel sulphate and 7,400 t/y cobalt sulphate (design/plan; capacity_ref_year 2018 = publication year). Terrafame site page confirms the plant operates (ramp-up started 2021 per search coverage, not opened). Actual nickel sulphate output not found. 170,000 t NiSO4 x 0.2233 = ~38 kt Ni (build converts)."
+  },
+  {
+   "action": "add",
+   "id": "boliden-kevitsa-nickel-finland",
+   "fields": {
+    "asset_name": "Kevitsa nickel-copper mine (Boliden)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel-in-concentrate (nickel/copper concentrates)",
+    "asset_type": "open-pit nickel-copper-PGM mine",
+    "feedstock": "sulphide ore",
+    "operator": "Boliden",
+    "parent_company": "Boliden AB",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Lapland (Sodankylä)",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.mysteel.net/news/5112473-flash-boliden-reports-2219-year-on-year-decline-in-nickel-matte-production-for-q4-2025",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S55"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Only a Q4 2025 figure found (search-result text of a Mysteel flash, reported tier): nickel in concentrate 2,525 t in Q4 2025. Full-year 2025 tonnage is in Boliden's year-end report / annual report (PDFs not read) - gap. Search coverage: environmental permit renewed July 2025 allowing 10.5 Mt ore a year. Lapland location from general knowledge."
+  },
+  {
+   "action": "add",
+   "id": "boliden-harjavalta-smelter-nickel-finland",
+   "fields": {
+    "asset_name": "Boliden Harjavalta smelter (nickel matte from Kevitsa concentrate)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel matte",
+    "asset_type": "smelter",
+    "feedstock": "Kevitsa nickel concentrate",
+    "operator": "Boliden Harjavalta Oy",
+    "parent_company": "Boliden AB",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Satakunta",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.mysteel.net/news/5112473-flash-boliden-reports-2219-year-on-year-decline-in-nickel-matte-production-for-q4-2025",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S55"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Search-result text only (reported tier): Q4 2025 nickel matte 9,116 t Ni content (-22% y/y, process disruption). No capacity or full-year figure found. Distinct from the Nornickel Harjavalta nickel refinery (nornickel-harjavalta-nickel-refinery-finland), which sits in the same town."
+  },
+  {
+   "action": "add",
+   "id": "european-nickel-caldag-nickel-turkey",
+   "fields": {
+    "asset_name": "Çaldağ nickel-cobalt project (Manisa)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel (heap leach, project)",
+    "asset_type": "laterite mine and processing (project)",
+    "feedstock": "nickel laterite",
+    "operator": "European Nickel / ENK (per search coverage)",
+    "parent_company": "European Nickel",
+    "country": "Turkey",
+    "region": "Europe",
+    "province_state": "Manisa",
+    "status": "under_construction",
+    "project_state": "paused",
+    "capacity": 20000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2026,
+    "source_url": "https://www.e-mj.com/news/europe/european-nickel-halts-calda-project-over-permit-delays/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S57"
+    ],
+    "capacity": [
+     "S57"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Search-result text only (E&MJ, undated, reported tier): ENK board put the project on care and maintenance after a forestry-permit failure; design target 20,000 t/y nickel, 14-year life. Current ownership/status unverified (search coverage mentions Turkish interests acquiring nickel assets). Status 'under_construction' is a best reading (project stage unclear); capacity_ref_year = access-year fallback. Turkey national context (opened page S56, Ministry of Energy, update 30 Jun 2026): run-of-mine nickel ore fell from ~1.6 Mt (2023) to 840 kt (2024) to ~182 kt (2025); deposits at Manisa-Çaldağ, Manisa-Gördes and Eskişehir-Mihalıççık-Yunus Emre. Gördes (Meta Nikel) not added - no sourced figures."
+  },
+  {
+   "action": "add",
+   "id": "lifezone-metals-kabanga-nickel-tanzania",
+   "fields": {
+    "asset_name": "Kabanga nickel project (Ngara)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel sulphide concentrate / refined nickel (project)",
+    "asset_type": "underground sulphide nickel mine (project)",
+    "feedstock": "sulphide ore",
+    "operator": "Kabanga Nickel Ltd (Lifezone Metals)",
+    "parent_company": "Lifezone Metals",
+    "country": "Tanzania",
+    "region": "Africa",
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 3400000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "source_url": "https://www.miningweekly.com/article/kabanga-nickel-project-tanzania-update-2026-05-29",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-29"
+   },
+   "evidence": {
+    "status": [
+     "S58"
+    ],
+    "capacity": [
+     "S58"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Search-result text only (reported tier): feasibility study (July 2025) nameplate mill throughput 3.4 Mtpa ore, 18-year life; Lifezone holds 100% after buying BHP's remaining 17%; final investment decision targeted 2026 (sources differ: mid- vs late-2026). Annual tonnes of nickel not retrieved. Ngara location is from general knowledge. 'announced' = feasibility-complete, pre-FID."
+  },
+  {
+   "action": "add",
+   "id": "newco-ferronikeli-drenas-kosovo",
+   "fields": {
+    "asset_name": "Newco Ferronikeli (Drenas/Glogovac) ferronickel smelter and mines",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "laterite mines and ferronickel smelter",
+    "feedstock": "nickel laterite",
+    "operator": "Newco Ferronikeli Complex LLC",
+    "parent_company": "Yildirim Group (per search coverage)",
+    "country": "Kosovo",
+    "region": "Europe",
+    "province_state": "Drenas (Glogovac)",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity": 12000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2020,
+    "source_url": "https://periskopi.com/en/2025/4/ferronikli-stops-production-difficult-essential-decision",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-10"
+   },
+   "evidence": {
+    "status": [
+     "S59"
+    ],
+    "capacity": [
+     "S60"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Periskopi 10 Apr 2025: after 17 months of suspension management imposed a complete ban on production until 31 December (2025) and shut the electric furnace from the warm state. Capacity 12 ktpa Ni-in-FeNi (9 kt achieved in 2020) is from an older search snippet (reported tier; capacity_ref_year 2020 = data year). Status after Dec 2025 unverified. Ownership (Yildirim since 2022) from search coverage only."
+  },
+  {
+   "action": "add",
+   "id": "jinchuan-group-nickel-refining-china",
+   "fields": {
+    "asset_name": "Jinchuan Group nickel and cobalt smelting/refining (Jinchang, Gansu; group capacity)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "electrolytic nickel, carbonyl nickel and other nickel products",
+    "asset_type": "nickel smelter and refinery complex",
+    "feedstock": "Jinchuan sulphide concentrate and imported feed",
+    "operator": "Jinchuan Group",
+    "parent_company": "Jinchuan Group Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Gansu",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 330000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2026,
+    "source_url": "https://subsites.chinadaily.com.cn/jnmc/2026-06/29/c_1010397.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-29"
+   },
+   "evidence": {
+    "status": [
+     "S61"
+    ],
+    "capacity": [
+     "S61"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "China Daily Jinchuan subsite (updated 29 Jun 2026): annual capacity 330,000 t of nickel products (incl. 190,000 t electrolytic nickel and 10,000 t carbonyl nickel) and 17,000 t cobalt products. This is a GROUP figure that may include products or sites outside Jinchang (the quote does not name the site), recorded here as one aggregate row; capacity_ref_year = publication-year fallback. Another China Daily page (23 Apr 2026) says the group ranks second globally for nickel and fourth for cobalt. No 2025 output retrieved. Jinchuan's Jinchang mines (sulphide, ~dominant share of USGS China 120 kt) not added as a mine row - no sourced mine figure."
+  },
+  {
+   "action": "add",
+   "id": "smm-taganito-hpal-nickel-philippines",
+   "fields": {
+    "asset_name": "Taganito HPAL Nickel Corporation (THPAL) plant",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel-cobalt mixed sulphide",
+    "asset_type": "HPAL plant",
+    "feedstock": "limonite ore (Nickel Asia Taganito mine)",
+    "operator": "Taganito HPAL Nickel Corporation",
+    "parent_company": "Sumitomo Metal Mining",
+    "jv_partners": "Nickel Asia (10%); other partners not verified",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "province_state": "Surigao del Norte",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://nickelasia.com/assets/documents/PRESS-RELEASE-NICKEL-ASIA-CORPORATION-ATTRIBUTABLE-EARNINGS-TRIPLE-IN-FY2025.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-25"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "NAC release: Nickel Asia holds a 10% stake in the Taganito HPAL project and delivered limonite ore to the Coral Bay and Taganito HPAL plants (7.64 Mwmt in 2025, both plants combined). Capacity and output NOT retrieved: search coverage gives conflicting capacity (~50 kt Ni vs older 30 kt design) and ownership splits, and Mysteel quarterly 'NAC project' mixed-sulphide output (Q3 CY2025 9,900 t Ni) is not attributed to a plant - none used. Sumitomo Metal Mining ownership (SMM operates) and Surigao location from general knowledge. Coral Bay Nickel: existing row smm-coral-bay-nickel-philippines (cobalt); search coverage (reported): SMM impairment on Coral Bay, expected to cease production FY2028-30 - not recorded."
+  },
+  {
+   "action": "add",
+   "id": "smm-niihama-nickel-sulphate-refinery-japan",
+   "fields": {
+    "asset_name": "SMM Niihama nickel refinery - nickel sulphate line (Ehime)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel sulphate",
+    "asset_type": "nickel sulphate refinery",
+    "feedstock": "mixed sulphide from SMM HPAL plants",
+    "operator": "Sumitomo Metal Mining",
+    "parent_company": "Sumitomo Metal Mining",
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Ehime (Niihama)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 7000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2021,
+    "production": 6500,
+    "production_unit": "t Ni",
+    "production_year": 2021,
+    "source_url": "https://woodmac.com/reports/metals-niihama-smm-nickel-sulphate-refinery-150006841/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S62"
+    ],
+    "capacity": [
+     "S62"
+    ],
+    "production": [
+     "S62"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Wood Mackenzie asset-report search text only (paywalled; reported tier): nickel sulphate capacity 7.0 kt contained Ni in 2021, output 6.5 kt in 2021 - stale (2021). SMM's electrolytic nickel capacity at Niihama (older target 65,000 t/yr, 2013, from a Metal.com snippet) and 2025 output (SMM quarterly ~16.6 kt electrolytic Ni in one quarter per Mysteel snippet) NOT recorded - need SMM securities report. Isoura (battery materials) not added - no capacity found."
+  }
+ ]
+}
