@@ -1,0 +1,682 @@
+{
+ "task": "SC161",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://static.cninfo.com.cn/finalpage/2024-04-02/1219493146.PDF",
+   "publisher": "Shenzhen Capchem Technology announcement 2024-017 on postponing part of the convertible-bond fundraising projects (cninfo; board meeting 2024-03-29)",
+   "published": "2024-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "荆门新宙邦已具备年产8万吨电池电解液的产能 ... 荆门新宙邦年产28.3万吨锂电池材料项目”一期年产6万吨锂电池电解液已完成建设 ... 二期103,000吨锂电池电解液产能的预计可使用状态日期延长至2026年12月31日"
+  },
+  "S2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225026296.PDF",
+   "publisher": "Shenzhen Capchem 2025 annual report (local text team/evidence/filings/300037_2025.txt, lines 539-541)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "荆门新宙邦年产 28.3 万吨锂电池材料项目二期、马来西亚诺莱特电子化学品项目等正在建设中 ... 波兰锂离子电池材料项目二期等正在筹建中"
+  },
+  "S3": {
+   "url": "https://www.cls.cn/detail/1682486",
+   "publisher": "CLS (财联社)",
+   "published": "2024-05-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2023年上半年，波兰基地4万吨/年锂电池电解液产能投产"
+  },
+  "S4": {
+   "url": "https://www.cls.cn/detail/1508068",
+   "publisher": "CLS (财联社)",
+   "published": "2023-11-06",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司波兰4万吨锂离子电池电解液项目已于2023年4月正式投产"
+  },
+  "S5": {
+   "url": "https://www.cls.cn/detail/1212249",
+   "publisher": "CLS (财联社)",
+   "published": "2022-12-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "据悉，目前新宙邦惠州子公司具有电解液年产能3.5万吨，溶剂年产能5万吨。"
+  },
+  "S6": {
+   "url": "https://finance.eastmoney.com/a/202607093799401941.html",
+   "publisher": "China Business Journal (中国经营报) via Eastmoney",
+   "published": "2026-07-09",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "天赐材料江苏溧阳基地现有20万吨电解液产能 ... 福鼎基地现有产能20万吨 ... 改扩建完成后将增加25万吨电解液产能"
+  },
+  "S7": {
+   "url": "https://www.mysteel.net/news/5111512-flash-tinci-materials-200-000-tonne-electrolyte-project-commences-operation",
+   "publisher": "Mysteel",
+   "published": "2026-01-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has completed construction and begun operation ... an annual production capacity of 200,000 tonnes of lithium battery electrolyte ... is located in Xinhui District, Jiangmen, Guangdong"
+  },
+  "S8": {
+   "url": "https://news.metal.com/pt/newscontent/103814257-SMM-Nova-Energia-Projeto-de-eletrólito-de-500-mil-t-da-Jiujiang-Tinci-é-aprovado-incluindo-capacidade-de-50-mil-t-para-í",
+   "publisher": "SMM (metal.com) New Energy brief",
+   "published": "2026-03-19",
+   "accessed": "2026-11-27",
+   "language": "pt",
+   "quote": "será localizada no Parque Industrial de Alta Tecnologia de Hukou, em Jiujiang, Jiangxi ... A construção está prevista para começar em março de 2026 e ser concluída em dezembro de 2026"
+  },
+  "S9": {
+   "url": "https://m.jiemian.com/article/15329421.html",
+   "publisher": "Jiemian (界面新闻)",
+   "published": "2026-11-13",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "项目设计产能为50万吨，其中40万吨为锂离子电池电解液，10万吨为钠离子电池电解液。 ... 天赐材料今年还在推进九江年产50万吨电解液及相关材料项目"
+  },
+  "S10": {
+   "url": "https://www.cls.cn/detail/2490504",
+   "publisher": "CLS (财联社)",
+   "published": "2026-09-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "拟在内蒙古包头市青山区投资建设年产15万吨锂离子电池负极材料一体化基地项目"
+  },
+  "S11": {
+   "url": "https://stock.10jqka.com.cn/20260923/c680186225.shtml",
+   "publisher": "Shanghai Securities News via 10jqka (同花顺)",
+   "published": "2026-09-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "与公司现有青山、九原工厂形成产能协同"
+  },
+  "S12a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan 2025 annual report (local text team/evidence/filings/600884_.txt, lines 6941-6943)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "云南安宁年产 30 万吨锂离子电池 ... 一期已投产，二期暂 ... 未开工"
+  },
+  "S12b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan 2025 annual report (local text team/evidence/filings/600884_.txt, lines 6932-6934)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川眉山年产 20 万吨锂离子电池 ... 一期已投产，二期仓 ... 库和宿舍在建中"
+  },
+  "S13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF",
+   "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, lines 1366-1367)",
+   "published": "2026-03-06",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川紫宸年产 28 万吨一体化建设项目，项目分为三期建设，一期 10 万吨项目的部分产线已逐步投产；二期 10 万吨项目将于 2026 年根据市场 ... 三期 8 万吨项目将根据市场需求情况逐步推进建设。"
+  },
+  "S14": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF",
+   "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 7037-7039)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "山西瑞君年产 10 万吨人造石 ... 厂房完工并投入使用，部分石墨化 ... 产线已投入使用，石墨化剩余工程 ... 正在建设安装中"
+  },
+  "S15": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225148267.PDF",
+   "publisher": "SEMCORP (Yunnan Energy New Material) 2025 annual report (local text team/evidence/filings/002812_2025.txt, lines 4219-4223)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "“江西省通瑞新能源科技发展有限公司年产 4 亿平方米锂离子电池隔膜项目（一期）” ... 亿平方米项目”、“江苏恩捷动力汽车锂电池隔膜产业项目”已达产"
+  },
+  "S16": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225148267.PDF",
+   "publisher": "SEMCORP (Yunnan Energy New Material) 2025 annual report (local text team/evidence/filings/002812_2025.txt, lines 4221-4223)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "苏州捷力年产锂离子电池涂覆隔膜 2 ... 亿平方米项目”、“江苏恩捷动力汽车锂电池隔膜产业项目”已达产"
+  },
+  "S17": {
+   "url": "https://stock.stockstar.com/IG2026100800023241.shtml",
+   "publisher": "Stockstar (证券之星), 电鳗快报",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "页面文字乱码; 抽取结果: 规划建设为16亿平方米的湿法隔膜和涂覆隔膜项目，总投资52亿元 (Hubei Enjie; SEMCORP acquiring the 45% held by EVE for RMB 1.15bn)"
+  },
+  "S18": {
+   "url": "https://wap.stockstar.com/detail/IG2026092800028616",
+   "publisher": "Stockstar (证券之星)",
+   "published": "2026-09-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前公司拥有8条基膜产线以及10条配套涂覆产线，设计年产能9.4亿平方米"
+  },
+  "S19": {
+   "url": "https://finance.eastmoney.com/a/202605203743677029.html",
+   "publisher": "Eastmoney (东方财富网)",
+   "published": "2026-05-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产30万吨磷酸盐正极材料项目 ... 20万吨/年磷酸盐新材料生产线"
+  },
+  "S20": {
+   "url": "https://www.cls.cn/detail/976459",
+   "publisher": "CLS (财联社)",
+   "published": "2022-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2022年公司新增产能主要是荆门新宙邦一期已投产的产能和海斯福二期改造产能"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "capchem-jingmen-electrolyte-china",
+   "fields": {
+    "capacity": 183000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 80000,
+    "installed_as_of": "2024-03-29",
+    "capacity_by_year_json": {
+     "2024": 80000,
+     "2026": 183000
+    }
+   },
+   "evidence": {
+    "capacity": [
+     "S1",
+     "S2"
+    ],
+    "installed_capacity": [
+     "S1"
+    ],
+    "capacity_by_year_json": [
+     "S1",
+     "S20"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Capchem board announcement 2024-017: Jingmen already had 80 kt/yr electrolyte capacity (phase I 60 kt, a technical upgrade of the original line, built and in production) and phase II adds 103 kt electrolyte (extended to 2026-12-31; the company says phase II will be pushed ahead as Central-China orders grow). The 28.3 万吨 project has three phases; phases I+II are electrolyte (6 + 10.3 万吨); the remaining ~12 万吨 (phase III) is not described as electrolyte in the opened sources and is excluded. capacity 183 kt = 80 kt existing + 103 kt phase II (both electrolyte); the 2026 step in capacity_by_year_json is the extended target date, not a confirmation. 2025 AR (S2) says phase II is still under construction at end-2025 and the 28.3 万吨 project EIA was re-approved 2025-11-13 (AR line 873-874). The 80 kt installed figure is as of the 2024-03-29 board date; later 2025 additions at Jingmen are not stated. Capchem company total (battery chemicals design capacity 681,577 t, AR 2025) is NOT split by the company."
+  },
+  {
+   "action": "update",
+   "id": "capchem-poland-walbrzych-electrolyte-poland",
+   "fields": {
+    "capacity": 40000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2023,
+    "start_year": 2023,
+    "installed_capacity": 40000,
+    "installed_as_of": "2023-11-06"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S4",
+     "S3"
+    ],
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Poland 40 kt/yr Li-ion electrolyte project went into formal production in April 2023 (Capchem Q3-2023 results call, via CLS; confirmed again by CLS 2024-05-21: 2023H1 production start). Phase 2 is only 'being prepared' per the 2025 annual report (S2) and its capacity is not stated (a Dec-2025 announcement gives investment <= RMB 200m per a search snippet, not opened). capacity_ref_year 2023 = date the 40 kt was built; phase 2 not added because no tonnage is sourced."
+  },
+  {
+   "action": "update",
+   "id": "capchem-huizhou-daya-bay-electrolyte-china",
+   "fields": {
+    "capacity": 35000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2022,
+    "installed_capacity": 35000,
+    "installed_as_of": "2022-12-14"
+   },
+   "evidence": {
+    "capacity": [
+     "S5"
+    ],
+    "installed_capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Dated and unattributed: CLS 2022-12-14 writes 'according to reports' that Capchem's Huizhou subsidiary had 35 kt/yr electrolyte and 50 kt/yr solvent capacity. This is a 2022 figure; the 2025 AR (S2 context, line 537) lists Huizhou phase-IV electronic-chemicals project as under construction (separate phase-4 200 kt row exists). Current Huizhou electrolyte capacity is probably higher but is not sourced; do not read 35 kt as 2025 capacity."
+  },
+  {
+   "action": "update",
+   "id": "tinci-jiangmen-200kt-electrolyte-china",
+   "fields": {
+    "status": "operational",
+    "installed_capacity": 200000,
+    "installed_as_of": "2026-01-27"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "installed_capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Mysteel 2026-01-27: Tinci's Xinhui District (Jiangmen, Guangdong) project (200 kt/yr electrolyte plus a 100 kt/yr battery-recycling part; construction began Dec 2022 per the article) 'has completed construction and begun operation'. The page names Tinci Materials, not the Jiangmen subsidiary; the match to this row is by location. installed 200 kt is the stated annual capacity at start-up (ramp-up not described). Tinci AR 2025 still lists the Jiangmen 20万吨 project as under construction at end-2025 (line 8223), consistent with a Jan-2026 start."
+  },
+  {
+   "action": "update",
+   "id": "tinci-jiangsu-liyang-200kt-electrolyte-china",
+   "fields": {
+    "installed_capacity": 200000,
+    "installed_as_of": "2026-07-09"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S6"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "China Business Journal 2026-07-09 (and Jiemian, Nov 2026) state that the Liyang base 'now has 200 kt electrolyte capacity'. This matches the row's 200 kt project capacity. Company-level: Tinci AR 2025 lists lithium-ion battery materials design capacity 1,362,360 t (all materials, not electrolyte only) with ~1,000,000 t in construction (AR line 648); electrolyte sales 2025 >720 kt."
+  },
+  {
+   "action": "add",
+   "id": "tinci-fuding-electrolyte-china",
+   "fields": {
+    "asset_name": "Tinci Fuding (Ningde, Fujian) electrolyte base",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": null,
+    "operator": "Tinci Materials (天赐材料) - Fuding base (operating entity not named in the source)",
+    "parent_company": "Tinci Materials (Guangzhou Tinci, 002709)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian (Ningde, Fuding)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 450000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 200000,
+    "installed_as_of": "2026-07-09",
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202607093799401941.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-09"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S6"
+    ],
+    "installed_capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Fuding (Ningde prefecture, Fujian) base: 200 kt/yr existing electrolyte capacity plus a 250 kt/yr electrolyte renovation/expansion funded in July 2026 with ~RMB 406m of leftover raised funds (replacing the terminated Nantong 24.3 万吨 project). capacity 450 kt = 200 existing + 250 planned; the expansion has no stated completion date, so capacity_ref_year 2026 is the publication-year fallback. The task brief lists 'Ningde' and 'Fuding' separately; Fuding is under Ningde and no separate Ningde electrolyte site is sourced - treat as one base. Existing 200 kt is as of the article date. Coordinates not provided (lead geocode pass)."
+  },
+  {
+   "action": "add",
+   "id": "tinci-jiujiang-500kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Jiujiang Tinci 500 kt electrolyte project (Hukou High-Tech Industrial Park; 450 kt Li-ion + 50 kt Na-ion)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion and sodium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": null,
+    "operator": "Jiujiang Tinci Advanced Materials (九江天赐高新材料)",
+    "parent_company": "Tinci Materials (Guangzhou Tinci, 002709)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Jiujiang, Hukou)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "capacity_by_year_json": {
+     "2026": 500000
+    },
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/pt/newscontent/103814257-SMM-Nova-Energia-Projeto-de-eletrólito-de-500-mil-t-da-Jiujiang-Tinci-é-aprovado-incluindo-capacidade-de-50-mil-t-para-í",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-19"
+   },
+   "evidence": {
+    "status": [
+     "S8",
+     "S9"
+    ],
+    "capacity": [
+     "S8",
+     "S9"
+    ],
+    "capacity_by_year_json": [
+     "S8"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "SMM 2026-03-19: Jiujiang Tinci's 500 kt/yr electrolyte project received regulatory approval; two lines, 450 kt Li-ion + 50 kt Na-ion; investment RMB 542m; construction scheduled March-December 2026. Jiemian (Nov 2026) says Tinci is still 'advancing' the Jiujiang 500 kt project. No physical-works confirmation found, so status 'announced' (approved). The 2026 step in capacity_by_year_json is the scheduled completion month, not confirmed. May overlap with the existing Jiujiang rows (tinci-jiujiang-200kt-lithium-materials-china, 20万吨 lithium-battery materials project; jiujiang-tinci-advanced-materials-jiujiang-china, MIIT-listed plant) - the sources do not say whether the 500 kt includes or replaces the 20万吨 project; lead should check before summing."
+  },
+  {
+   "action": "add",
+   "id": "tinci-chizhou-dongzhi-500kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Chizhou Tinci (Dongzhi, Anhui) 500 kt electrolyte and supporting materials project (400 kt Li-ion + 100 kt Na-ion)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion and sodium-ion battery electrolyte",
+    "asset_type": "electrolyte plant",
+    "feedstock": null,
+    "operator": "Chizhou Tinci Advanced Materials (池州天赐高新材料) or its subsidiary",
+    "parent_company": "Tinci Materials (Guangzhou Tinci, 002709)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Chizhou, Dongzhi)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2028,
+    "end_market": "battery",
+    "source_url": "https://m.jiemian.com/article/15329421.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-13"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Board-approved 2026-11-12 (per Jiemian and search snippets): investment cap RMB 5bn, 24-month build, project design capacity 50万吨 = 40万吨 Li-ion electrolyte + 10万吨 Na-ion electrolyte (S9), i.e. 400 kt + 100 kt = 500 kt. The same base also plans 30万吨 liquid LiPF6 (search snippet, not opened) - not counted. capacity_ref_year 2028 = board date + 24-month build period (inferred; start date not stated). Publication date 2026-11-13 is inferred from the page (board meeting 2026-11-12). Site 'Dongzhi' from the search/fetch summaries (not a verbatim quote). Existing row tinci-chizhou-lipf6-china is the separate operating LiPF6 plant."
+  },
+  {
+   "action": "update",
+   "id": "semcorp-jiangxi-tongrui-china",
+   "fields": {
+    "capacity": 400,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 400,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "capacity": [
+     "S15"
+    ],
+    "installed_capacity": [
+     "S15"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "SEMCORP 2025 AR fundraising-project table: Jiangxi Tongrui '年产 4 亿平方米锂离子电池隔膜项目（一期）' (4 bn m2 = 400 Mm2, design date 2019-12-31) and the 'phase-I expansion' project are listed among projects that 'have reached production capacity (已达产)' but missed expected profit. 400 Mm2 is phase I only; the phase-I expansion (RMB 1.48bn) tonnage is NOT stated, so this is a lower bound for the site (and Jiangxi Enbo, Yichun, is a separate row). installed_as_of is the AR period end. The company total 14,400 Mm2 (AR 2025, line 435) is not split by the company."
+  },
+  {
+   "action": "update",
+   "id": "semcorp-suzhou-jieli-china",
+   "fields": {
+    "capacity": 200,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 200,
+    "installed_as_of": "2025-12-31"
+   },
+   "evidence": {
+    "capacity": [
+     "S16"
+    ],
+    "installed_capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "SEMCORP 2025 AR: Suzhou Jieli '年产锂离子电池涂覆隔膜 2 亿平方米项目' (2 bn m2 = 200 Mm2 of COATED separator, fundraising project completed 2023-11-30) is listed as having reached production capacity (已达产). This is coating capacity on bought-in/own base film; it likely overlaps with base-film capacity at other SEMCORP sites and should not be added to the company's base-film total without checking."
+  },
+  {
+   "action": "update",
+   "id": "semcorp-hubei-china",
+   "fields": {
+    "capacity": 1600,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported tier (page text garbled/mojibake, only the extracted statement is available): Hubei Enjie (Jingmen) is planned as a 16 bn m2 (1,600 Mm2) wet-process base-film and coated separator project, total investment RMB 5.2bn; SEMCORP is buying the 45% held by EVE for RMB 1.15bn (Sept 2026), so the EVE JV share in jv_partners may be outdated. 1,600 Mm2 is the planned total; installed capacity is not stated; the row is operational (existing). capacity_ref_year 2026 = publication fallback. Search for a cleaner source before relying on this."
+  },
+  {
+   "action": "update",
+   "id": "sk-ie-technology-changzhou-china",
+   "fields": {
+    "capacity": 940,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S18"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Stockstar 2026-09-28: SEMCORP has acquired SK IE Technology's Jiangsu (Changzhou) plant; 'now has 8 base-film lines and 10 coating lines, design annual capacity 9.4 亿平方米' (940 Mm2, base film; coated output is not additive). The article says the business-registration change took effect 14 Sept 2026 (paraphrase from the fetch summary, not a verbatim quote), so the plant is now SEMCORP-owned; operator/parent fields were NOT changed here - lead to decide. Possible overlap: the existing row semcorp-jiangsu-changzhou-china (Jiangsu Enjie, Changzhou, a RMB 2.8bn EV separator project 'reached capacity' per the AR) may be a different plant in the same city; the sources do not say. The 2025 AR company total of 14,400 Mm2 predates the acquisition."
+  },
+  {
+   "action": "update",
+   "id": "shanshan-anning-anode-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S12a"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Shanshan 2025 AR construction-in-progress table: Anning 30万吨 integrated base - 'phase I in production (一期已投产), phase II not yet started (二期暂未开工)'; accumulated investment 43.42% of the RMB 9.7bn budget. So the row's 300 kt is the full plan; installed phase-I tonnage is NOT stated in the AR (an unopened search summary suggests phase I = 200 kt - not used). Capacity fields left unchanged."
+  },
+  {
+   "action": "update",
+   "id": "shanshan-meishan-anode-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S12b"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Shanshan 2025 AR: Meishan 20万吨 integrated base - phase I in production (一期已投产), phase II warehouse/dormitory under construction (二期仓库和宿舍在建中); 59.86% of the RMB 8bn budget (phase 1 = RMB 4.2bn). The row's 200 kt is the full plan; installed phase-I tonnage is not stated. Capacity fields unchanged."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-baotou-qingshan-150kt-anode-china",
+   "fields": {
+    "asset_name": "Baotou Qingshan (Inner Mongolia) 150 kt integrated anode base project",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "lithium-ion battery anode material (artificial graphite)",
+    "asset_type": "integrated anode base",
+    "feedstock": null,
+    "operator": "Shanshan subsidiary (entity not named in the opened pages)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Inner Mongolia (Baotou, Qingshan District)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 150000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2028,
+    "part_of": "shanshan-baotou-anode-china",
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/2490504",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-22"
+   },
+   "evidence": {
+    "status": [
+     "S10",
+     "S11"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Shanshan announcement 2026-09-22: new 15万吨/yr anode integrated base in Qingshan District, Baotou, total investment RMB 5.106bn, with an additional 50 kt graphitisation capacity to fill the Jiuyuan plant's graphitisation gap; it creates 'production synergy with the existing Qingshan and Jiuyuan plants' (S11). Timing from the 10jqka fetch summary (not a verbatim quote): 17-month build, start March 2027, completion July 2028 - hence capacity_ref_year 2028; verify. A Oct-2026 private-placement plan puts RMB 2.5bn of up to RMB 4bn into it (search snippet, not opened). The existing row shanshan-baotou-anode-china (Qingshan+Jiuyuan operating plants, no capacity sourced) is the site; this is an expansion increment (do not sum across statuses)."
+  },
+  {
+   "action": "update",
+   "id": "putailai-sichuan-zichen-qionglai-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Putailai 2025 AR: Sichuan Zichen 28万吨 integrated project in three phases - phase I 10万吨: some lines already in production; phase II 10万吨: to start in 2026 'when market demand warrants'; phase III 8万吨: advanced step by step with demand. So the row's 280 kt is the full plan; installed tonnage is not stated. Company total installed anode capacity is 250 kt at end-2025 (AR line 659-660; note 150 kt of graphitisation/carbonisation are largely outsourced per search snippets), i.e. below this single row's full plan. Phase II timing is conditional, so no dated step is recorded."
+  },
+  {
+   "action": "update",
+   "id": "btr-changzhi-ruijun-anode-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "BTR 2025 AR construction-in-progress table: Shanxi Ruijun 10万吨 artificial-graphite anode line (phase I): building completed and in use, 'part of the graphitisation lines in use, the remaining graphitisation works under installation/commissioning' (progress 55.55% of RMB 1.84bn). So only part of the 100 kt is installed and producing; installed tonnage not stated. AR also states 2025 anode capacity additions of 12万吨 at Jiangsu/Tianjin/Sichuan/Huizhou/Shandong bases via technical upgrades, plus Indonesia phase II 8万吨 and Shenzhen 7,500 t silicon (AR lines 521-523) - not split by base, so Huizhou/Tianjin/Jiangsu/Jixi remain unallocated."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-luquan-phosphate-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Luquan (Kunming, Yunnan) green phosphorus-based new-energy materials integrated project - 300 kt phosphate cathode",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "phosphate cathode material (LFP / nano-LFP)",
+    "asset_type": "cathode plant (integrated project)",
+    "feedstock": null,
+    "operator": "Dynanonic (德方纳米) - project entity not named in the opened page",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Kunming, Luquan)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202605203743677029.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-20"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Eastmoney 2026-05-20: Dynanonic plans the 禄劝 'green phosphorus-based new-energy materials integrated project' including 30万吨/yr phosphate cathode plus a 27万吨/yr nitric-acid supporting project (not CAM, not counted); total investment RMB 6.3bn, 24-month build (start date not stated, so capacity_ref_year 2026 is the publication fallback; ~2028 if built on schedule). Replaces the earlier plans that the company reportedly terminated (Qujing 33万吨 and Huize 11万吨, from a search summary - not opened/quoted). Not in the company's built-capacity total of 450 kt (AR 2025)."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-qujing-hightech-20wt-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Qujing high-tech zone lithium-battery new-materials integrated project (phase 1) - 200 kt phosphate line",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "phosphate cathode material (LFP)",
+    "asset_type": "cathode plant (integrated project)",
+    "feedstock": null,
+    "operator": "Dynanonic (德方纳米) - project entity not named in the opened page",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Qujing, high-tech zone)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2028,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202605203743677029.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-20"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Eastmoney 2026-05-20: 德方纳米锂电新材料一体化项目 in the Qujing high-tech zone with a 20万吨/yr phosphate new-material line, ~RMB 2.4bn, construction to start May 2026 over 24 months (fetch summary, not verbatim) -> capacity_ref_year 2028. A search summary says the Aug-2026 private placement accepted by SZSE funds this 20万吨 project (not opened). A Qujing Huashan-area EIA reportedly lists 20万吨 LFP design capacity for phases 1-2 (docx not readable; not used). Separate from the existing operating row dynanonic-qujing-lfp-china (no plant-level capacity is disclosed for operating Qujing, Foshan or Yibin: AR 2025 gives only company totals 333,625 t monthly-sum effective / 450,000 t built nameplate)."
+  }
+ ]
+}

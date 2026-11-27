@@ -1,6 +1,6 @@
 company,step,year,metric,product,disclosed,unit,sites_sum,n_sites,n_site_rows,unallocated,source,geo_scope
 CMOC,mining,2025,production,cobalt,117500.0,t Co,0,0,0,117500,603993_.txt l.371-385,global
-SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,0,0,10,14400,"002812_2025.txt l.435,439",global
+SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,2200,3,10,12200,"002812_2025.txt l.435,439",global
 SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718,global
 Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235,global
 Sinoma Lithium Film,separator,2025,capacity,separator,6000.0,Mm2,4320,5,7,1680,"002080_2025.txt l.502,687",china
@@ -33,7 +33,7 @@ XTC,cathode,2025,production,cathode,144305.0,t CAM,0,0,0,144305,688778_.txt l.15
 Minmetals New Energy,cathode,2025,production,cathode,114773.0,t CAM,0,0,0,114773,688779_.txt l.1170,china
 Zhenhua,cathode,2025,production,cathode,11521.0,t CAM,0,0,0,11521,688707_2025.txt l.1174,china
 Tinci,electrolyte,2025,production,electrolyte (sales),720000.0,t electrolyte,0,0,0,720000,002709_2025.txt l.815,global
-Capchem,electrolyte,2025,capacity,battery chemicals,681577.0,t electrolyte,0,0,0,681577,300037_2025.txt l.1476-1478,global
+Capchem,electrolyte,2025,capacity,battery chemicals,681577.0,t electrolyte,155000,3,3,526577,300037_2025.txt l.1476-1478,global
 Capchem,electrolyte,2025,production,battery chemicals,529311.0,t electrolyte,0,0,0,529311,300037_2025.txt l.1510,global
 Ruitai,electrolyte,2025,production,electronic chemicals,71375.0,t electrolyte,0,0,0,71375,301238_2025.txt l.1176,global
 Duofluoride,electrolyte,2025,capacity,LiPF6,65000.0,t LiPF6,0,0,0,65000,002407_2025.txt l.668,china
