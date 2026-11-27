@@ -88,3 +88,6 @@ Notes: benchmarks are comparison only (USGS public domain; MIIT official; indust
   concentrate ≈ USGS 28 kt Li at ~5.3% Li2O). Australia >100%: mixed CY25/FY25/FY26 reporting years (D-104).
 - Cobalt: CMOC (117.5 kt) reports a group total only (company-level). Graphite China: official county data only (Luobei
   2020: 380 kt concentrate). Recycling: China capacity 4.23 Mt/yr vs 0.65 Mt processed (Mysteel) — capacity, not output.
+- Nickel mining (SC021): Canada 86%, Brazil ~94% (mixed years), US ~99%; world 13% on a contained-Ni basis because
+  Indonesian and Philippine mines report wet ore only (no grade) — Indonesia's ~2.6 Mt Ni is captured downstream at the
+  smelters (CGS dataset; built final-product + intermediate capacity in the refining table). Nornickel 199 kt is a group figure.
