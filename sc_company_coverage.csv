@@ -1,82 +1,84 @@
-company,step,year,metric,product,disclosed,unit,sites_sum,n_sites,n_site_rows,unallocated,source
-CMOC,mining,2025,production,cobalt,117500.0,t Co,0,0,0,117500,603993_.txt l.371-385
-SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,0,0,10,14400,"002812_2025.txt l.435,439"
-SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718
-Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235
-Sinoma Lithium Film,separator,2025,capacity,separator,6000.0,Mm2,4320,5,7,1680,"002080_2025.txt l.502,687"
-Sinoma Lithium Film,separator,2025,production,separator,3926.0,Mm2,0,0,0,3926,002080_2025.txt l.854-855
-Cangzhou Mingzhu,separator,2025,capacity,separator,740.0,Mm2,300,1,3,440,002108_2025.txt l.531
-Nuode,foil,2025,capacity,copper foil,140000.0,t copper foil,0,0,4,140000,600110_.txt l.1291
-Nuode,foil,2025,production,copper foil,71800.0,t copper foil,0,0,0,71800,600110_.txt l.1747
-Jiayuan,foil,2025,capacity,copper foil,135000.0,t copper foil,65000,3,5,70000,688388_.txt l.975
-Jiayuan,foil,2025,production,copper foil,98268.0,t copper foil,0,0,0,98268,688388_.txt l.2557-2559
-Defu,foil,2025,capacity,copper foil,175000.0,t copper foil,50000,1,3,125000,301511_2025.txt l.656
-Defu,foil,2025,production,copper foil,139585.0,t copper foil,0,0,0,139585,301511_2025.txt l.780-781
-Tongguan,foil,2025,capacity,copper foil,80000.0,t copper foil,0,0,2,80000,301217_2025.txt l.436
-Tongguan,foil,2025,production,copper foil,71462.0,t copper foil,0,0,0,71462,301217_2025.txt l.968
-Putailai,anode,2025,capacity,anode,250000.0,t anode,280000,1,2,0,603659_.txt l.659-660
-Putailai,anode,2025,production,anode,151179.0,t anode,0,0,0,151179,603659_.txt l.914
-Shangtai,anode,2025,capacity,anode,300000.0,t anode,300000,2,2,0,001301_2025.txt l.1140-1141
-Shangtai,anode,2025,production,anode,349057.0,t anode,0,0,0,349057,001301_2025.txt l.1385
-Zhongke Electric,anode,2025,capacity,anode,348683.0,t anode,0,0,4,348683,300035_2025.txt l.634-637
-Zhongke Electric,anode,2025,production,anode,378469.0,t anode,0,0,0,378469,300035_2025.txt l.634
-Xiangfenghua,anode,2025,capacity,anode,114660.0,t anode,0,0,1,114660,300890_.txt l.930-932
-Xiangfenghua,anode,2025,production,anode,83426.0,t anode,0,0,0,83426,300890_.txt l.932
-BTR,anode,2025,capacity,anode,782500.0,t anode,640000,7,11,142500,835185_2025.txt l.519-527
-BTR,anode,2025,production,anode,594844.0,t anode,0,0,0,594844,835185_2025.txt l.3597
-Shanshan,anode,2025,production,anode,442681.0,t anode,0,0,0,442681,600884_.txt l.1267
-Ronbay,cathode,2025,capacity,cathode,300000.0,t CAM,426000,6,7,0,688005_2025.txt l.1876
-Ronbay,cathode,2025,production,cathode,103634.0,t CAM,0,0,0,103634,688005_2025.txt l.2144
-Easpring,cathode,2025,capacity,cathode,228000.0,t CAM,120000,1,3,108000,300073_2025.txt l.1285-1290
-Easpring,cathode,2025,production,cathode,161342.0,t CAM,0,0,0,161342,300073_2025.txt l.1299-1300
-XTC,cathode,2025,production,cathode,144305.0,t CAM,0,0,0,144305,688778_.txt l.1543-1544
-Minmetals New Energy,cathode,2025,production,cathode,114773.0,t CAM,0,0,0,114773,688779_.txt l.1170
-Zhenhua,cathode,2025,production,cathode,11521.0,t CAM,0,0,0,11521,688707_2025.txt l.1174
-Tinci,electrolyte,2025,production,electrolyte (sales),720000.0,t electrolyte,0,0,0,720000,002709_2025.txt l.815
-Capchem,electrolyte,2025,capacity,battery chemicals,681577.0,t electrolyte,0,0,0,681577,300037_2025.txt l.1476-1478
-Capchem,electrolyte,2025,production,battery chemicals,529311.0,t electrolyte,0,0,0,529311,300037_2025.txt l.1510
-Ruitai,electrolyte,2025,production,electronic chemicals,71375.0,t electrolyte,0,0,0,71375,301238_2025.txt l.1176
-Duofluoride,electrolyte,2025,capacity,LiPF6,65000.0,t LiPF6,0,0,0,65000,002407_2025.txt l.668
-Yongtai,electrolyte,2025,capacity,electrolyte,150000.0,t electrolyte,150000,1,1,0,002326_2025.txt l.742
-Tianji,electrolyte,2025,capacity,LiPF6,37000.0,t LiPF6,37000,3,3,0,002759_2025.txt l.575-582
-Tianji,electrolyte,2025,production,LiPF6,39568.0,t LiPF6,0,0,0,39568,002759_2025.txt l.931-933
-Hunan Yuneng,cathode,2025,capacity,LFP,994500.0,t CAM,0,0,6,994500,301358_2025.txt l.879
-Hunan Yuneng,cathode,2025,production,LFP,1131305.0,t CAM,0,0,0,1131305,301358_2025.txt l.895-896
-Dynanonic,cathode,2025,capacity,LFP,450000.0,t CAM,0,0,3,450000,300769_2025.txt l.901
-Dynanonic,cathode,2025,production,LFP,285775.0,t CAM,0,0,0,285775,300769_2025.txt l.1121-1122
-Wanrun,cathode,2025,production,LFP,370401.0,t CAM,0,0,0,370401,688275_2025.txt l.2346
-Longpan,cathode,2025,capacity,LFP,265000.0,t CAM,117500,2,6,147500,603906_.txt l.2029
-Longpan,cathode,2025,production,LFP,202115.0,t CAM,0,0,0,202115,603906_.txt l.1232
-Fulin,cathode,2025,capacity,LFP,273333.0,t CAM,0,0,2,273333,300432_2025.txt l.1234
-Fulin,cathode,2025,production,LFP,273795.0,t CAM,0,0,0,273795,300432_2025.txt l.1257-1258
-Yongxing,refining,2025,production,lithium carbonate,24823.0,t LCE,24823,1,1,0,002756_2025.txt l.811-815
-Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543.0,t LCE,41000,1,1,5543,000792_2025.txt l.1269-1271
-Zangge,mining,2025,production,lithium carbonate,8808.0,t LCE,8808,1,1,0,000408_2025.txt l.47
-Jiangte,refining,2025,production,lithium carbonate,13610.0,t LCE,13610,1,1,0,002176_2025.txt l.1067-1070
-Huayou,refining,2025,production,lithium products,51728.0,t LCE,0,0,0,51728,603799_.txt l.820
-Tianqi,refining,2025,capacity,lithium chemicals,121600.0,t LCE,114599,6,6,7001,002466_2025.txt l.709
-Tianqi,refining,2025,production,lithium compounds,87936.0,t LCE,7778,1,1,80158,002466_2025.txt l.1862
-Ganfeng,refining,2025,production,basic lithium chemicals,182419.0,t LCE,0,0,0,182419,002460_2025.txt l.2055
-Yahua,refining,2025,capacity,lithium salts,130000.0,t LCE,20000,1,1,110000,002497_2025.txt l.583
-Yahua,refining,2025,production,lithium salts,68615.0,t LCE,0,0,0,68615,002497_2025.txt l.2054
-Sinomine,refining,2025,capacity,lithium salts,65000.0,t LCE,60000,1,1,5000,002738_2025.txt l.435
-Sinomine,refining,2025,production,lithium salts,37408.0,t LCE,0,0,0,37408,002738_2025.txt l.1645
-Shengxin,refining,2025,capacity,lithium salts,137000.0,t LCE,137604,5,5,0,002240_2025.txt l.386-400
-Shengxin,refining,2025,production,lithium products,77477.0,t LCE,0,0,0,77477,002240_2025.txt l.1179
-Glencore,mining,2025,production,cobalt (own-sourced),36100.0,t Co,35700,3,3,400,Glencore FY2025 production report l.nan
-Sichuan Energy Power,refining,2025,capacity,lithium salts,45000.0,t LCE,28200,1,1,16800,000155_2025.txt l.575
-Sichuan Energy Power,refining,2025,production,lithium salts,9700.0,t LCE,0,0,0,9700,000155_2025.txt l.575
-Zijin,mining,2025,production,lithium (LCE),25459.0,t LCE,28585,4,4,0,601899_.txt l.1722-1734
-Anda,cathode,2025,capacity,LFP,150000.0,t CAM,150000,1,1,0,830809_2025.txt l.643-645
-Mengguli,cathode,2025,capacity,LCO+NCM,30560.0,t CAM,30560,1,1,0,301487_2025.txt l.848-853
-Mengguli,cathode,2025,production,LCO+NCM,23464.0,t CAM,23464,1,1,0,301487_2025.txt l.497-498
-Kehen,cathode,2025,capacity,cathode,20000.0,t CAM,0,0,0,20000,300340_2025.txt l.1349
-Kehen,cathode,2025,production,cathode,10391.0,t CAM,0,0,0,10391,300340_2025.txt l.1359-1360
-Suotong,anode,2025,production,anode,74000.0,t anode,0,0,0,74000,603612_.txt l.540-541
-Shida Shenghua,electrolyte,2025,capacity,electrolyte,500000.0,t electrolyte,200000,1,1,300000,603026_.txt l.1292-1302
-Shida Shenghua,electrolyte,2025,capacity,LiPF6,32000.0,t LiPF6,32000,1,1,0,603026_.txt l.1292-1302
-Zhongyi,foil,2025,capacity,copper foil,55500.0,t copper foil,0,0,2,55500,301150_2025.txt l.438
-Zhongyi,foil,2025,production,copper foil,70400.0,t copper foil,0,0,0,70400,301150_2025.txt l.1092
-Hailiang,foil,2025,capacity,copper foil,105000.0,t copper foil,105000,2,2,0,002203_2025.txt l.599
-Keda,anode,2025,capacity,anode,150000.0,t anode,0,0,0,150000,600499_.txt l.503
-Keda,anode,2025,production,anode,115800.0,t anode,0,0,0,115800,600499_.txt l.730-731
+company,step,year,metric,product,disclosed,unit,sites_sum,n_sites,n_site_rows,unallocated,source,geo_scope
+CMOC,mining,2025,production,cobalt,117500.0,t Co,0,0,0,117500,603993_.txt l.371-385,global
+SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,0,0,10,14400,"002812_2025.txt l.435,439",global
+SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718,global
+Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235,global
+Sinoma Lithium Film,separator,2025,capacity,separator,6000.0,Mm2,4320,5,7,1680,"002080_2025.txt l.502,687",china
+Sinoma Lithium Film,separator,2025,production,separator,3926.0,Mm2,0,0,0,3926,002080_2025.txt l.854-855,china
+Cangzhou Mingzhu,separator,2025,capacity,separator,740.0,Mm2,300,1,3,440,002108_2025.txt l.531,china
+Nuode,foil,2025,capacity,copper foil,140000.0,t copper foil,0,0,4,140000,600110_.txt l.1291,china
+Nuode,foil,2025,production,copper foil,71800.0,t copper foil,0,0,0,71800,600110_.txt l.1747,china
+Jiayuan,foil,2025,capacity,copper foil,135000.0,t copper foil,65000,3,5,70000,688388_.txt l.975,china
+Jiayuan,foil,2025,production,copper foil,98268.0,t copper foil,0,0,0,98268,688388_.txt l.2557-2559,china
+Defu,foil,2025,capacity,copper foil,175000.0,t copper foil,50000,1,3,125000,301511_2025.txt l.656,china
+Defu,foil,2025,production,copper foil,139585.0,t copper foil,0,0,0,139585,301511_2025.txt l.780-781,china
+Tongguan,foil,2025,capacity,copper foil,80000.0,t copper foil,0,0,2,80000,301217_2025.txt l.436,china
+Tongguan,foil,2025,production,copper foil,71462.0,t copper foil,0,0,0,71462,301217_2025.txt l.968,china
+Putailai,anode,2025,capacity,anode,250000.0,t anode,280000,1,2,0,603659_.txt l.659-660,china
+Putailai,anode,2025,production,anode,151179.0,t anode,0,0,0,151179,603659_.txt l.914,china
+Shangtai,anode,2025,capacity,anode,300000.0,t anode,300000,2,2,0,001301_2025.txt l.1140-1141,china
+Shangtai,anode,2025,production,anode,349057.0,t anode,0,0,0,349057,001301_2025.txt l.1385,china
+Zhongke Electric,anode,2025,capacity,anode,348683.0,t anode,0,0,4,348683,300035_2025.txt l.634-637,china
+Zhongke Electric,anode,2025,production,anode,378469.0,t anode,0,0,0,378469,300035_2025.txt l.634,china
+Xiangfenghua,anode,2025,capacity,anode,114660.0,t anode,0,0,1,114660,300890_.txt l.930-932,china
+Xiangfenghua,anode,2025,production,anode,83426.0,t anode,0,0,0,83426,300890_.txt l.932,china
+BTR,anode,2025,capacity,anode,782500.0,t anode,640000,7,11,142500,835185_2025.txt l.519-527,global
+BTR,anode,2025,production,anode,594844.0,t anode,0,0,0,594844,835185_2025.txt l.3597,global
+Shanshan,anode,2025,production,anode,442681.0,t anode,0,0,0,442681,600884_.txt l.1267,china
+Ronbay,cathode,2025,capacity,cathode,300000.0,t CAM,426000,6,7,0,688005_2025.txt l.1876,global
+Ronbay,cathode,2025,production,cathode,103634.0,t CAM,0,0,0,103634,688005_2025.txt l.2144,global
+Easpring,cathode,2025,capacity,cathode,228000.0,t CAM,120000,1,3,108000,300073_2025.txt l.1285-1290,china
+Easpring,cathode,2025,production,cathode,161342.0,t CAM,0,0,0,161342,300073_2025.txt l.1299-1300,china
+XTC,cathode,2025,production,cathode,144305.0,t CAM,0,0,0,144305,688778_.txt l.1543-1544,china
+Minmetals New Energy,cathode,2025,production,cathode,114773.0,t CAM,0,0,0,114773,688779_.txt l.1170,china
+Zhenhua,cathode,2025,production,cathode,11521.0,t CAM,0,0,0,11521,688707_2025.txt l.1174,china
+Tinci,electrolyte,2025,production,electrolyte (sales),720000.0,t electrolyte,0,0,0,720000,002709_2025.txt l.815,global
+Capchem,electrolyte,2025,capacity,battery chemicals,681577.0,t electrolyte,0,0,0,681577,300037_2025.txt l.1476-1478,global
+Capchem,electrolyte,2025,production,battery chemicals,529311.0,t electrolyte,0,0,0,529311,300037_2025.txt l.1510,global
+Ruitai,electrolyte,2025,production,electronic chemicals,71375.0,t electrolyte,0,0,0,71375,301238_2025.txt l.1176,global
+Duofluoride,electrolyte,2025,capacity,LiPF6,65000.0,t LiPF6,0,0,0,65000,002407_2025.txt l.668,china
+Yongtai,electrolyte,2025,capacity,electrolyte,150000.0,t electrolyte,150000,1,1,0,002326_2025.txt l.742,china
+Tianji,electrolyte,2025,capacity,LiPF6,37000.0,t LiPF6,37000,3,3,0,002759_2025.txt l.575-582,china
+Tianji,electrolyte,2025,production,LiPF6,39568.0,t LiPF6,0,0,0,39568,002759_2025.txt l.931-933,china
+Hunan Yuneng,cathode,2025,capacity,LFP,994500.0,t CAM,0,0,6,994500,301358_2025.txt l.879,china
+Hunan Yuneng,cathode,2025,production,LFP,1131305.0,t CAM,0,0,0,1131305,301358_2025.txt l.895-896,china
+Dynanonic,cathode,2025,capacity,LFP,450000.0,t CAM,0,0,3,450000,300769_2025.txt l.901,china
+Dynanonic,cathode,2025,production,LFP,285775.0,t CAM,0,0,0,285775,300769_2025.txt l.1121-1122,china
+Wanrun,cathode,2025,production,LFP,370401.0,t CAM,0,0,0,370401,688275_2025.txt l.2346,china
+Longpan,cathode,2025,capacity,LFP,265000.0,t CAM,117500,2,6,147500,603906_.txt l.2029,global
+Longpan,cathode,2025,production,LFP,202115.0,t CAM,0,0,0,202115,603906_.txt l.1232,global
+Fulin,cathode,2025,capacity,LFP,273333.0,t CAM,0,0,2,273333,300432_2025.txt l.1234,china
+Fulin,cathode,2025,production,LFP,273795.0,t CAM,0,0,0,273795,300432_2025.txt l.1257-1258,china
+Yongxing,refining,2025,production,lithium carbonate,24823.0,t LCE,24823,1,1,0,002756_2025.txt l.811-815,china
+Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543.0,t LCE,41000,1,1,5543,000792_2025.txt l.1269-1271,china
+Zangge,mining,2025,production,lithium carbonate,8808.0,t LCE,8808,1,1,0,000408_2025.txt l.47,china
+Jiangte,refining,2025,production,lithium carbonate,13610.0,t LCE,13610,1,1,0,002176_2025.txt l.1067-1070,china
+Huayou,refining,2025,production,lithium products,51728.0,t LCE,0,0,0,51728,603799_.txt l.820,global
+Tianqi,refining,2025,capacity,lithium chemicals,121600.0,t LCE,114599,6,6,7001,002466_2025.txt l.709,global
+Tianqi,refining,2025,production,lithium compounds,87936.0,t LCE,7778,1,1,80158,002466_2025.txt l.1862,global
+Ganfeng,refining,2025,production,basic lithium chemicals,182419.0,t LCE,0,0,0,182419,002460_2025.txt l.2055,global
+Yahua,refining,2025,capacity,lithium salts,130000.0,t LCE,20000,1,1,110000,002497_2025.txt l.583,china
+Yahua,refining,2025,production,lithium salts,68615.0,t LCE,0,0,0,68615,002497_2025.txt l.2054,china
+Sinomine,refining,2025,capacity,lithium salts,65000.0,t LCE,60000,1,1,5000,002738_2025.txt l.435,china
+Sinomine,refining,2025,production,lithium salts,37408.0,t LCE,0,0,0,37408,002738_2025.txt l.1645,china
+Shengxin,refining,2025,capacity,lithium salts,137000.0,t LCE,137604,5,5,0,002240_2025.txt l.386-400,global
+Shengxin,refining,2025,production,lithium products,77477.0,t LCE,0,0,0,77477,002240_2025.txt l.1179,global
+Glencore,mining,2025,production,cobalt (own-sourced),36100.0,t Co,35700,3,3,400,Glencore FY2025 production report l.nan,global
+Sichuan Energy Power,refining,2025,capacity,lithium salts,45000.0,t LCE,28200,1,1,16800,000155_2025.txt l.575,china
+Sichuan Energy Power,refining,2025,production,lithium salts,9700.0,t LCE,0,0,0,9700,000155_2025.txt l.575,china
+Zijin,mining,2025,production,lithium (LCE),25459.0,t LCE,28585,4,4,0,601899_.txt l.1722-1734,global
+Anda,cathode,2025,capacity,LFP,150000.0,t CAM,150000,1,1,0,830809_2025.txt l.643-645,china
+Mengguli,cathode,2025,capacity,LCO+NCM,30560.0,t CAM,30560,1,1,0,301487_2025.txt l.848-853,china
+Mengguli,cathode,2025,production,LCO+NCM,23464.0,t CAM,23464,1,1,0,301487_2025.txt l.497-498,china
+Kehen,cathode,2025,capacity,cathode,20000.0,t CAM,0,0,0,20000,300340_2025.txt l.1349,china
+Kehen,cathode,2025,production,cathode,10391.0,t CAM,0,0,0,10391,300340_2025.txt l.1359-1360,china
+Suotong,anode,2025,production,anode,74000.0,t anode,0,0,0,74000,603612_.txt l.540-541,china
+Shida Shenghua,electrolyte,2025,capacity,electrolyte,500000.0,t electrolyte,200000,1,1,300000,603026_.txt l.1292-1302,china
+Shida Shenghua,electrolyte,2025,capacity,LiPF6,32000.0,t LiPF6,32000,1,1,0,603026_.txt l.1292-1302,china
+Zhongyi,foil,2025,capacity,copper foil,55500.0,t copper foil,0,0,2,55500,301150_2025.txt l.438,china
+Zhongyi,foil,2025,production,copper foil,70400.0,t copper foil,0,0,0,70400,301150_2025.txt l.1092,china
+Hailiang,foil,2025,capacity,copper foil,105000.0,t copper foil,105000,2,2,0,002203_2025.txt l.599,global
+Keda,anode,2025,capacity,anode,150000.0,t anode,0,0,0,150000,600499_.txt l.503,china
+Keda,anode,2025,production,anode,115800.0,t anode,0,0,0,115800,600499_.txt l.730-731,china
+Tengyuan Cobalt,refining,2025,capacity,cobalt (group smelting),39500.0,t Co,0,0,1,39500,301219_2025.txt l.4040-4041,global
+Tengyuan Cobalt,refining,2025,capacity,nickel (group),60000.0,t Ni,0,0,1,60000,301219_2025.txt l.4040-4041,global

@@ -843,7 +843,7 @@
     ]
    },
    "confidence": 0.3,
-   "notes": "CGS dataset: HPAL → MHP, gross output 76500.0 t, Ni-equivalent 30400.0 t; status 2025 'Unclear'; park nan; location status 'Mine - No smelter'."
+   "notes": "CGS dataset: HPAL → MHP, gross output 76500.0 t, Ni-equivalent 30400.0 t; status 2025 'Unclear'; park nan; location status 'Mine - No smelter'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "update",
@@ -897,7 +897,7 @@
     ]
    },
    "confidence": 0.3,
-   "notes": "CGS dataset: RKEF → FeNi, gross output 64655.0 t, Ni-equivalent 13500.0 t; status 2025 'Unclear'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: RKEF → FeNi, gross output 64655.0 t, Ni-equivalent 13500.0 t; status 2025 'Unclear'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -968,7 +968,7 @@
     ]
    },
    "confidence": 0.35,
-   "notes": "CGS dataset: RKEF → NPI, gross output 144000.0 t, Ni-equivalent 14400.0 t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+   "notes": "CGS dataset: RKEF → NPI, gross output 144000.0 t, Ni-equivalent 14400.0 t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -981,7 +981,7 @@
     "capacity_ref_year": 2025,
     "latitude": -4.894,
     "longitude": 121.98715,
-    "geo_precision": "site",
+    "geo_precision": "town",
     "asset_name": "Artha Mining Industry",
     "step": "refining",
     "commodity": "nickel",
@@ -1004,7 +1004,7 @@
     ]
    },
    "confidence": 0.35,
-   "notes": "CGS dataset: Unknown → NPI, gross output 200000.0 t, Ni-equivalent 21500.0 t; status 2025 'Stalled'; park nan; location status 'Construction'."
+   "notes": "CGS dataset: Unknown → NPI, gross output 200000.0 t, Ni-equivalent 21500.0 t; status 2025 'Stalled'; park nan; location status 'Construction'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -1190,7 +1190,7 @@
     ]
    },
    "confidence": 0.45,
-   "notes": "CGS dataset: RKEF → FeNi, gross output 200000.0 t, Ni-equivalent 20000.0 t; status 2025 'Planned'; park nan; location status 'Unconfirmed'."
+   "notes": "CGS dataset: RKEF → FeNi, gross output 200000.0 t, Ni-equivalent 20000.0 t; status 2025 'Planned'; park nan; location status 'Unconfirmed'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -1624,7 +1624,7 @@
    "fields": {
     "latitude": -4.23163,
     "longitude": 121.58477,
-    "geo_precision": "site"
+    "geo_precision": "town"
    },
    "evidence": {},
    "notes": "CGS dataset: HPAL → MSP, gross output nan t, Ni-equivalent 120000.0 t; status 2025 'Construction'; park Indonesia Pomalaa Industrial Park (IPIP); location status 'Construction'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
@@ -1637,7 +1637,7 @@
     "project_state": "paused",
     "latitude": -4.45508,
     "longitude": 122.36099,
-    "geo_precision": "site",
+    "geo_precision": "town",
     "asset_name": "Macika Mineral Industri",
     "step": "refining",
     "commodity": "nickel",
@@ -2212,7 +2212,7 @@
     ]
    },
    "confidence": 0.35,
-   "notes": "CGS dataset: HPAL → MHP, gross output 326000.0 t, Ni-equivalent 120000.0 t; status 2025 'Stalled'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: HPAL → MHP, gross output 326000.0 t, Ni-equivalent 120000.0 t; status 2025 'Stalled'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "update",
@@ -2259,7 +2259,7 @@
     ]
    },
    "confidence": 0.45,
-   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 55000.0 t; status 2025 'Planned'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 55000.0 t; status 2025 'Planned'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -2698,7 +2698,7 @@
    "fields": {
     "latitude": -1.56863,
     "longitude": 127.42875,
-    "geo_precision": "site",
+    "geo_precision": "town",
     "capacity": 185000.0,
     "capacity_unit": "t NPI Ni",
     "capacity_ref_year": 2025
@@ -2771,7 +2771,7 @@
     ]
    },
    "confidence": 0.55,
-   "notes": "CGS dataset: HPAL → MHP, gross output 293200.0 t, Ni-equivalent 110900.0 t; status 2025 'Construction'; park nan; location status 'Mine - No smelter'."
+   "notes": "CGS dataset: HPAL → MHP, gross output 293200.0 t, Ni-equivalent 110900.0 t; status 2025 'Construction'; park nan; location status 'Mine - No smelter'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "update",
@@ -3203,7 +3203,7 @@
     ]
    },
    "confidence": 0.55,
-   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 67000.0 t; status 2025 'Construction'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 67000.0 t; status 2025 'Construction'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -3422,7 +3422,7 @@
     ]
    },
    "confidence": 0.3,
-   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 27500.0 t; status 2025 'Unclear'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 27500.0 t; status 2025 'Unclear'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "add",
@@ -3458,7 +3458,7 @@
     ]
    },
    "confidence": 0.55,
-   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 25000.0 t; status 2025 'Construction'; park Indonesia Morowali Industrial Park (IMIP); location status 'Approximate within a group of smelters'."
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 25000.0 t; status 2025 'Construction'; park Indonesia Morowali Industrial Park (IMIP); location status 'Approximate within a group of smelters'. capacity_ref_year 2025 = dataset-year fallback (CGS gives no completion year for this project)."
   },
   {
    "action": "remove",

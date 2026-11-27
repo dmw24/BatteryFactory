@@ -32,7 +32,7 @@ def main():
         out.append(dict(company=r.company, step=r.step, year=r.year, metric=r.metric, product=r.product,
                         disclosed=r.value, unit=r.unit, sites_sum=round(sites), n_sites=int(v.notna().sum()),
                         n_site_rows=len(s), unallocated=round(max(0.0, r.value - sites)),
-                        source=f"{r.source_file} l.{r.line_ref}"))
+                        source=f"{r.source_file} l.{r.line_ref}", geo_scope=getattr(r, 'geo_scope', 'global')))
     o = pd.DataFrame(out)
     o.to_csv(os.path.join(ROOT, "sc_company_coverage.csv"), index=False)
     print(o.groupby(["step", "metric", "unit"])[["disclosed", "sites_sum", "unallocated"]].sum().to_string())

@@ -50,7 +50,7 @@ UNIT = {"NPI": "t NPI Ni", "FeNi": "t NPI Ni", "Ni Matte": "t Ni in matte", "MHP
 STATUS = {"Operating": ("operational", "active", 0.6), "Construction": ("under_construction", "active", 0.55),
           "Planned": ("announced", "active", 0.45), "Stalled": ("announced", "paused", 0.35),
           "Unclear": ("announced", "paused", 0.3), "No longer operational": ("operational", "paused", 0.45)}
-GEO = {"Exact": "site", "Approximate within a group of smelters": "town", "Construction": "site"}
+GEO = {"Exact": "site", "Approximate within a group of smelters": "town", "Construction": "town"}  # audit: construction-site points are approximate
 
 
 def main():

@@ -34,13 +34,18 @@ def main():
         cov = (r.ours_production + extra) / r.benchmark
         L.append(f"| {r.commodity} | {r.country} | {fmt(r.benchmark)} {r.unit} | {fmt(r.ours_production)} | {fmt(extra)} | {cov:.0%} |")
     L += ["", "## Processing — China/world output benchmarks vs our capacity and company-disclosed output", "",
-          "| step | product | metric | area | year | benchmark | site capacity (operational) | unallocated company capacity | company-disclosed output |",
-          "|---|---|---|---|---|---:|---:|---:|---:|"]
+          "| step | product | metric | area | year | benchmark | built site capacity | plan-only (unbuilt phases) | unallocated company capacity | company output (China-only cos.) | company output incl. overseas |",
+          "|---|---|---|---|---|---:|---:|---:|---:|---:|---:|"]
     p = b[(b.step != "mining") & b.year.between(2024, 2025)]
     p = p.sort_values("year").groupby(["step", "commodity", "metric", "country"]).tail(1)
     for r in p.itertuples():
         L.append(f"| {r.step} | {r.commodity} | {r.metric} | {r.country} | {r.year} | {fmt(r.benchmark)} {r.unit} | {fmt(r.ours_capacity)} | "
-                 f"{fmt(r.unallocated_capacity)} | {fmt(r.company_disclosed_output)} |")
+                 f"{fmt(r.plan_only_capacity)} | {fmt(r.unallocated_capacity)} | {fmt(r.company_disclosed_output)} | {fmt(r.company_disclosed_output_incl_overseas)} |")
+    ni = b[(b.commodity.str.startswith("nickel")) & (b.step == "refining") & (b.year == 2025)]
+    if len(ni):
+        r = ni.iloc[0]
+        L += ["", f"Nickel: INSG primary nickel {fmt(r.benchmark)} t Ni vs our built final-product capacity {fmt(r.ours_capacity)} "
+              f"(NPI/FeNi/refined/sulphate); intermediates (MHP, matte) {fmt(r.intermediate_capacity)} t Ni shown separately, not added."]
     L += ["", "Notes: benchmarks are comparison only (USGS public domain; MIIT official; industry figures via open press — "
           "see data/supply_chain/benchmarks/aggregates.csv for quotes and URLs). Capacity ≥ output is expected; company-disclosed "
           "output is the share of the benchmark produced by companies whose filings we read.", "", MARK]

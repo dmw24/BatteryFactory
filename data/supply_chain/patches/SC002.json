@@ -32,7 +32,10 @@
    "published": null,
    "accessed": "2026-11-27",
    "language": "en",
-   "quote": "Aggregate Annual Production (metric tonnes in thousands)... Lithium production amounts shown as lithium metal. Conversion to lithium carbonate equivalent (\"LCE\") is 0.1878 metric tonne of lithium metal to 1 metric tonne of LCE."
+   "quote": "Aggregate Annual Production (metric tonnes in thousands)... Lithium production amounts shown as lithium metal. Conversion to lithium carbonate equivalent (\"LCE\") is 0.1878 metric tonne of lithium metal to 1 metric tonne of LCE.",
+   "tier": "reported",
+   "snippet": "Aggregate Annual Production (metric tonnes in thousands)... Lithium production amounts shown as lithium metal. Conversion to lithium carbonate equivalent (\"LCE\") is 0.1878 metric tonne of lithium metal to 1 metric tonne of LCE.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
   },
   "S5": {
    "url": "https://www.industrialinfo.com/news/article/codelco-receives-government-contract-to-further-develop-chiles-maricunga-salt-flat-for-lithium--353473",
@@ -442,8 +445,8 @@
      "S4"
     ]
    },
-   "confidence": 0.7,
-   "notes": "Production 14 thousand tonnes lithium metal for Salar de Atacama in 2025 (13 in 2024, 10 in 2023) is read from the 10-K Item 2 aggregate production table; the quote locates the table and states the conversion factor 0.1878 t Li per t LCE, so production_norm = 14,000/0.1878 = 74,547 t LCE (rounded; 10-K reports whole thousands so +/-3.6 kt LCE). Albemarle gives no nameplate capacity in the 10-K excerpt read; capacity left null. Authorised quota: 'up to 200,000 metric tons of lithium metal equivalent' plus 262,132 t LME (2017 annex), ends earlier of quota exhaustion or 1 Jan 2044 (S40, 10-K; second figure seen in the same page, not separately quoted). Chilean carbonate/chloride plants at La Negra are off-salar (SC008)."
+   "confidence": 0.5,
+   "notes": "Production 14 thousand tonnes lithium metal for Salar de Atacama in 2025 (13 in 2024, 10 in 2023) is read from the 10-K Item 2 aggregate production table; the quote locates the table and states the conversion factor 0.1878 t Li per t LCE, so production_norm = 14,000/0.1878 = 74,547 t LCE (rounded; 10-K reports whole thousands so +/-3.6 kt LCE). Albemarle gives no nameplate capacity in the 10-K excerpt read; capacity left null. Authorised quota: 'up to 200,000 metric tons of lithium metal equivalent' plus 262,132 t LME (2017 annex), ends earlier of quota exhaustion or 1 Jan 2044 (S40, 10-K; second figure seen in the same page, not separately quoted). Chilean carbonate/chloride plants at La Negra are off-salar (SC008). [lead] confidence capped at 0.5: key field rests on reported evidence."
   },
   {
    "action": "add",

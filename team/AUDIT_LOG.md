@@ -130,3 +130,13 @@ rejected v1 rows still used rejected points (Lyten 2021, Yaoning Jianhu 2023); A
 installed floor; B plan-filled before first step; D ignored newer lower anchors; pipeline overlapped C; CALB Luoyang
 mapped after its sale; Zenergy Nanjing idle since 2022; XCMG via an unconfirmed v1 plan point; Yaoning 0.62. All fixed.
 Passed: F caps and ramp, 22/22 company figures vs filings, T107–T109.
+
+## SC audit 1 (supply chain, Opus auditor) — 2026-11-27 — FAIL → fixed
+Sample 68 rows; 0 fabricated quotes; 21% rows with a defect, 10% number-changing. Benchmark layer FAIL (not like-for-like).
+Fixed (SCZ_lead_fixes.json, scripts): SQM Carmen LCE double count; Tengyuan group capacities moved to company_totals;
+SKIET Poland company-wide capacity nulled; Jianxiawo estimate removed from data; Qinghai 40 kt and Huixin → under
+construction (trial runs); Albemarle Atacama production quote demoted; Shanshan Anning ref year; Mitsubishi installed date;
+Jade Bay duplicate removed; CGS construction points → town precision. sc_benchmark v2: built vs plan-only capacity,
+nickel one stage per chain (intermediates separate), D-103 brine chemicals in Li refining, China-only vs incl.-overseas
+company totals, active rows only; scripts/sc_build_all.py regenerates every derived file. Open: CNGR Indonesian
+smelter chain links (part_of), Goulamina design-grade norm, Wanrun Hubei aggregate row.

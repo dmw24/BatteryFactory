@@ -1,61 +1,80 @@
 #!/usr/bin/env python3
-"""Compare supply-chain asset totals with open benchmarks (data/supply_chain/benchmarks/aggregates.csv).
+"""Compare supply-chain asset totals with open benchmarks (data/supply_chain/benchmarks/aggregates.csv). v2 after SC audit 1.
 
-For each benchmark row: ours_production = operational assets' production_norm (production_year in [year-1, year],
-same unit); ours_capacity = operational assets' installed_norm, else capacity_norm (same unit). Mining coverage =
-ours_production / benchmark. Processing: capacity_ratio = ours_capacity / benchmark (≥1 expected against output;
-≈1 against capacity). commodity "cathode (LFP)" filters product by the bracketed text. Writes sc_benchmark.csv.
+Active assets only (project_state active), operational status. Per benchmark row:
+- ours_production: production_norm with production_year in [year-1, year+1] (D-104), same unit;
+- ours_capacity (built): installed_norm, else capacity_norm when capacity_ref_year <= benchmark year (dated/built);
+- plan_only_capacity: capacity_norm of operational rows whose ref year is later (unbuilt phases) — reported separately;
+- lithium refining also counts on-site brine chemical plants (mining rows whose product is a lithium chemical, D-103);
+- nickel vs INSG primary nickel: intermediates (t Ni in MHP / matte) are excluded and shown separately (one stage per chain);
+- company-level figures (sc_company_coverage.csv): for a China benchmark only companies whose totals are China-only
+  (geo_scope = china) count in *_china columns; *_incl_overseas columns are upper bounds.
 """
 import os
 import re
-
 import sys
 
 import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from sc_build import COUNTRY_ALIASES  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+INTERMEDIATE = {"t Ni in MHP", "t Ni in matte"}
+LI_CHEM = re.compile(r"carbonate|chloride|hydroxide|Li2CO3|LiOH|LiCl|lithium salt", re.I)
 
 
 def main():
     a = pd.read_csv(os.path.join(ROOT, "sc_assets.csv"))
     b = pd.read_csv(os.path.join(ROOT, "data/supply_chain/benchmarks/aggregates.csv"))
-    from sc_build import COUNTRY_ALIASES
     b["country"] = b["country"].map(lambda c: COUNTRY_ALIASES.get(c, c))
-    a = a[(a.status == "operational") & (a.project_state.fillna("active") != "cancelled")]
+    a = a[(a.status == "operational") & (a.project_state.fillna("active") == "active")]
     cc_path = os.path.join(ROOT, "sc_company_coverage.csv")
     cc = pd.read_csv(cc_path) if os.path.exists(cc_path) else pd.DataFrame(
-        columns=["step", "metric", "unit", "unallocated", "disclosed", "year"])
+        columns=["step", "metric", "unit", "unallocated", "disclosed", "year", "geo_scope"])
     rows = []
     for r in b.itertuples():
-        if r.country == "Other countries":
+        if r.country == "Other countries" or not str(r.year).isdigit():
             continue
+        yr = int(r.year)
         m = re.match(r"([^(]+?)\s*(?:\((.+)\))?$", str(r.commodity))
         com, sub = m.group(1).strip(), m.group(2)
         s = a[(a.step == r.step) & (a.commodity == com)]
+        if r.step == "refining" and com == "lithium":
+            s = pd.concat([s, a[(a.step == "mining") & (a.commodity == "lithium") & a["product"].fillna("").str.contains(LI_CHEM)]])
         if sub and com != "nickel":
-            key = sub.split("/")[0]
-            s = s[s["product"].fillna("").str.contains(key, case=False)]
+            s = s[s["product"].fillna("").str.contains(sub.split("/")[0], case=False)]
         if r.country != "World":
             s = s[s.country == r.country]
-        p = s[s.production_year.between(r.year - 1, r.year + 1) & (s.production_norm_unit == r.norm_unit)]
+        inter = 0.0
+        if com == "nickel" and r.step == "refining":
+            im = s.capacity_unit.isin(INTERMEDIATE)
+            si = s[im]
+            inter = si.installed_norm.where(si.installed_norm.notna(),
+                                            si.capacity_norm.where(si.capacity_ref_year.fillna(9999) <= yr)).sum()
+            s = s.assign(norm_unit=s.norm_unit.where(~im, "t Ni (intermediate)"))
+        p = s[s.production_year.between(yr - 1, yr + 1) & (s.production_norm_unit == r.norm_unit)]
         c = s[s.norm_unit == r.norm_unit]
-        cap = c.installed_norm.fillna(c.capacity_norm).sum()
-        rows.append(dict(step=r.step, commodity=r.commodity, metric=r.metric, year=r.year, country=r.country,
-                         benchmark=r.value, unit=r.norm_unit, ours_production=round(p.production_norm.sum()),
-                         n_prod=len(p), ours_capacity=round(cap), n_cap=int(c.installed_norm.fillna(c.capacity_norm).notna().sum()),
+        built = c.installed_norm.where(c.installed_norm.notna(),
+                                       c.capacity_norm.where(c.capacity_ref_year.fillna(9999) <= yr))
+        plan = c.capacity_norm.where(c.installed_norm.isna() & (c.capacity_ref_year.fillna(9999) > yr))
+        cco = cc[(cc.step == r.step) & (cc.unit == r.norm_unit) & (cc.year == yr)] if (r.country in ("China", "World") and not sub) else cc.iloc[0:0]
+        china = cco[cco.geo_scope == "china"] if r.country == "China" else cco
+        rows.append(dict(step=r.step, commodity=r.commodity, metric=r.metric, year=yr, country=r.country,
+                         benchmark=r.value, unit=r.norm_unit,
+                         ours_production=round(p.production_norm.sum()), n_prod=len(p),
+                         ours_capacity=round(built.sum()), plan_only_capacity=round(plan.sum()),
+                         intermediate_capacity=round(inter),
                          production_coverage=round(p.production_norm.sum() / r.value, 2),
-                         capacity_ratio=round(cap / r.value, 2),
-                         unallocated_capacity=round(cc[(cc.step == r.step) & (cc.metric == "capacity") & (cc.unit == r.norm_unit) & (cc.year == r.year)].unallocated.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
-                         company_disclosed_output=round(cc[(cc.step == r.step) & (cc.metric == "production") & (cc.unit == r.norm_unit) & (cc.year == r.year)].disclosed.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
-                         unallocated_production=round(cc[(cc.step == r.step) & (cc.metric == "production") & (cc.unit == r.norm_unit) & (cc.year == r.year)].unallocated.sum()) if (r.country == "World" and not sub) else 0,
+                         capacity_ratio=round(built.sum() / r.value, 2),
+                         unallocated_capacity=round(china[china.metric == "capacity"].unallocated.sum()),
+                         unallocated_production=round(china[china.metric == "production"].unallocated.sum()) if r.country == "World" or r.step != "mining" else 0,
+                         company_disclosed_output=round(china[china.metric == "production"].disclosed.sum()),
+                         company_disclosed_output_incl_overseas=round(cco[cco.metric == "production"].disclosed.sum()),
                          source=r.source))
     out = pd.DataFrame(rows)
     out.to_csv(os.path.join(ROOT, "sc_benchmark.csv"), index=False)
-    latest = out.sort_values("year").groupby(["step", "commodity", "metric", "country"]).tail(1)
-    show = latest[latest.country.isin(["World", "China"]) | (latest.step == "mining")]
-    print(show.drop(columns="source").to_string(index=False))
+    print(f"sc_benchmark: {len(out)} comparisons")
 
 
 if __name__ == "__main__":

@@ -117,6 +117,116 @@
     "country": "Europe (site not stated)"
    },
    "notes": "lead: site/country not announced; placeholder country so the row passes S1 (excluded from country benchmarks)."
+  },
+  {
+   "action": "fix",
+   "id": "sqm-salar-del-carmen-chile",
+   "fields": {
+    "capacity_norm": 240000,
+    "norm_unit": "t LCE"
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #1): capacity_norm = 240 kt Li2CO3 only — the 100 kt LiOH target converts the same carbonate (not additive); 240/100 kt are SQM Chile-wide targets, not built plant capacity."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-cobalt-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #3): 39.5 kt Co is Tengyuan's GROUP smelting capacity held unchanged, not a Ganzhou post-expansion figure; moved to company_totals."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-manganese-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #3): 21.8 kt Mn is group capacity; moved to company_totals."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-nickel-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #3): 60 kt Ni is group capacity; moved to company_totals."
+  },
+  {
+   "action": "fix",
+   "id": "sk-ie-technology-dabrowa-gornicza-poland",
+   "fields": {
+    "capacity": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #4): 1.54 bn m2 is SKIET's company-wide total in the confirmed 2026 source; only a 2021 snippet ties it to Poland — capacity nulled, installed 680 Mm2 kept."
+  },
+  {
+   "action": "fix",
+   "id": "catl-jianxiawo-china",
+   "fields": {
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #5): analyst run-rate × months estimate (≈56 kt LCE, range 40–73 kt) removed from production — estimates are kept in notes only."
+  },
+  {
+   "action": "fix",
+   "id": "qinghai-salt-lake-industry-40kt-lithium-salt-china",
+   "fields": {
+    "status": "under_construction",
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #6): '建成并投料试车' = trial run, not commercial production → under_construction; 5,543 t by subtraction of a rounded figure removed (notes only)."
+  },
+  {
+   "action": "fix",
+   "id": "china-salt-lake-qinghai-huixin-china",
+   "fields": {
+    "status": "under_construction",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #7): evidence describes trial run / first batch only → under_construction; capacity quote does not state 20,000 (URL slug only) — capacity kept at confidence ≤0.5.",
+   "confidence": 0.45
+  },
+  {
+   "action": "fix",
+   "id": "shanshan-anning-anode-china",
+   "fields": {
+    "capacity_ref_year": 2026
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #9): phase 2 not started (暂未开工); 300 kt is the full plan — ref year = publication-year fallback, not 2025."
+  },
+  {
+   "action": "fix",
+   "id": "mitsubishi-chemical-yokkaichi-japan",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 1) #10): 'current 11,000 t' is from an undated (likely 2018) release; installed date unknown → nulled."
+  },
+  {
+   "action": "remove",
+   "id": "jade-bay-metal-industry-indonesia",
+   "reason": "audit 2026-11-27 (SC audit 1) CGS (e): same 27.5 kt figure and IWIP location as cngr-debonair-low-matte-indonesia; CGS 'Unclear' duplicate of the Debonair project"
   }
  ]
 }
