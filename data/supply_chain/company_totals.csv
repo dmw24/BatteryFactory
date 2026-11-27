@@ -91,4 +91,6 @@ Keda,anode,2025,capacity,anode,150000.0,t anode,artificial graphite,600499_.txt,
 Keda,anode,2025,production,anode,115800.0,t anode,artificial graphite,600499_.txt,730-731,SC120,keda,china
 Tengyuan Cobalt,refining,2025,capacity,cobalt (group smelting),39500.0,t Co,group (held unchanged),301219_2025.txt,4040-4041,SC113,tengyuan,global
 Tengyuan Cobalt,refining,2025,capacity,nickel (group),60000.0,t Ni,group,301219_2025.txt,4040-4041,SC113,tengyuan,global
-Nornickel,mining,2025,production,nickel,199000.0,t Ni,"group (AK&M 2026-01-28, via SC021 notes)",SC021 notes,n/a,SC021,nornickel,global
+Nornickel,mining,2025,production,nickel,199000.0,t Ni,"group (AK&M 2026-01-28, via SC021 notes)",SC021 notes,,SC021,nornickel,global
+Lygend,refining,2025,capacity,nickel (HPAL MHP),120000.0,t Ni,Obi HPAL HPL+ONC designed,LYGEND_2245_AR2025.txt,93-95,SC180,pt-halmahera-persada-lygend|pt-obi-nickel-cobalt,global
+Jinchuan Intl,mining,2025,production,cobalt,1085.0,t Co,group,HK_2362_AR2025.txt,391-392,SC180,jinchuan,global

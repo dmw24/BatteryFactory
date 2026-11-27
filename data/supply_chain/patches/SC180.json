@@ -1,0 +1,1029 @@
+{
+ "task": "SC180",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "LY1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 90-92)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "facilities in Suqian, Jiangsu Province, China ... have three ferronickel production lines using the Rotary Kiln-Electric Furnace process ... The aggregate designed production capacity of our Jiangsu Facilities is 18,000 metal tons of ferronickel per annum."
+  },
+  "LY2": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 93-95)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the HPAL project, a hydrometallurgy project with an aggregate designed production capacity of 120,000 metal tons of nickel-cobalt compound per annum (including 14,250 metal tons of cobalt)"
+  },
+  "LY3": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 97-98)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "aggregate designed production capacity of 280,000 metal tons of ferronickel (among which, the pyrometallurgy production capacity of HJF, in which the Company holds equity interests, is 95,000 metal tons of ferronickel)"
+  },
+  "LY4": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 529-531)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "capacity of these smelting projects reaches 400,000 metal tons of nickel, with hydrometallurgical capacity at 120,000 metal tons of nickel-cobalt compounds and pyrometallurgical capacity at 280,000 metal tons of ferronickel"
+  },
+  "LY5": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, line 531)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "pyrometallurgical capacity is 95,000 metal tons of nickel"
+  },
+  "LY6": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 605-607)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has been planned with a total of six production lines, with a total designed capacity of 120,000 metal tons of nickel and 14,250 metal tons of cobalt. The project produces nickel-cobalt hydroxide, nickel sulfate, cobalt sulfate, and electrodeposited cobalt products based on market demand."
+  },
+  "LY7": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 609-611)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "During the Reporting Period, the hydrometallurgy project was operated at full capacity across all lines, with the HPAL project continuing to run at full load stably and the electrodeposited cobalt project achieving efficient production."
+  },
+  "LY8": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 627-630)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with a total of 20 production lines and a total annual capacity of 280,000 metal tons of ferronickel, of which phase I of the pyrometallurgical project is the Company’s equity-participated HJF project, with a designed annual capacity of 95,000 metal tons of ferronickel"
+  },
+  "LY9": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 630-631)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "phase II of the pyrometallurgical project is the Company’s majority-held KPS project, with a designed annual capacity of 185,000 metal tons of ferronickel"
+  },
+  "LY10": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 631-633)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the Company has established a ferronickel smelting plant in Jiangsu, also adopting the RKEF process, with a designed annual capacity of 18,000 metal tons of ferronickel."
+  },
+  "LY11": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 637-639)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The equity-participated HJF project maintained stable operation, and the majority-held KPS project was put into production as planned, with six production lines reaching full capacity"
+  },
+  "LY12": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 1024-1025)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "concentrated its advantageous resources to implement the construction of the pyrometallurgical KPS project in an orderly manner. The Company plans to achieve full capacity for all 12 production lines of the project by 2026."
+  },
+  "LY13": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 642-643)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the ferronickel smelting plant in Jiangsu, through measures such as reasonably scheduling production to avoid peak times and adding new energy storage stations, has further reduced costs and increased efficiency"
+  },
+  "LY14": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 4896-4900, subsidiary table: direct % / indirect %)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "PT. Halmahera Persada Lygend ... IDR 36.9 18 Smelting and production ... PT. OBI Nickel Cobalt ... 60 Smelting and production ... PT. Karunia Permai Sentosa ... 65 Smelting and production"
+  },
+  "LY15": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, line 8043, material associate table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "PT Halmahera Jaya Indonesia IDR 36.9% Smelting and"
+  },
+  "LY16": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 9783-9785, note 36)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Percentage of equity interest held by non-controlling interests: HPL 45.1% 45.1% ONC 40.0% 40.0%"
+  },
+  "LY17": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 1050-1052)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "actively promoted MHP refinement production project and further processed the nickel-cobalt hydroxide products produced by ONC into nickel/cobalt sulfate, or electrodeposited nickel/cobalt."
+  },
+  "LY18": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 399-401)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Company has officially launched the hydrometallurgical slag resource utilization demonstration project and the MHP refinement project, completing the feasibility studies and regulatory filings for these projects to ensure their timely constructions."
+  },
+  "LY19": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 772-774)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we have jointly invested in hydrometallurgy and pyrometallurgy projects with the Indonesian partner on Obi Island and signed a 20-year long-term supply agreement for laterite nickel ore, effective from 1 January 2021."
+  },
+  "LY20": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 913-915)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Company has entered into long-term supply agreements with leading new energy material producers and bulk commodity traders in the industry, including subsidiaries of CATL (Hunan Bangpu, Ningde Bangpu and Ningbo Bangpu), Rongbay Technology and GEM."
+  },
+  "LY21": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 1184-1185, revenue table RMB'000: production business)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ferronickel 6,589,515 16.4 1,302,192 4.5 ... Nickel-cobalt compounds 15,230,537 37.8 11,100,635 38.0"
+  },
+  "LY22": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, line 4855, subsidiary table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Jiangsu Wisdom Industrial Co., Ltd. PRC/Chinese Mainland RMB 100"
+  },
+  "LY23": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+   "publisher": "Lygend Resources & Technology 2025 annual report (local text team/evidence/filings/LYGEND_2245_AR2025.txt, lines 884-886)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the optimized ONC iron-aluminum slag washing process has significantly improved the recovery rate of smelted metals, and the construction of the ONC residual ore project is being carried out"
+  },
+  "JC1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 81-85)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Musonoi Mine commenced commercial operations in November 2025, its final products are copper cathode and cobalt hydroxide, it produced 5,041 tonnes of copper and 955 tonnes of cobalt since November 2025."
+  },
+  "JC2": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 1232-1233, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Musonoi Mine has produced 955 tonnes of cobalt ... content of in cobalt hydroxide since November 2025."
+  },
+  "JC3": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 1147-1148 and 1219-1221, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Musonoi Mine has transitioned from the construction ... phase to the production phase in November 2025. ... The Musonoi Mine commenced operations in ... November 2025, when the processing plant reached ... nameplate capacity."
+  },
+  "JC4": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 1108-1109 and 1112-1113, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ownership: JCI (70%), Gécamines SA (25%) and the ... DRC State (5%) ... Resources#: 1,330kt Cu, 396kt Co ... Reserves#: 654kt Cu, 200kt Co"
+  },
+  "JC5": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 66-68)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ruashi Mine produced 26,343 tonnes of copper and 130 tonnes of cobalt respectively in 2025."
+  },
+  "JC6": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 875-876, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ruashi Mine produced 130 tonnes of cobalt content ... included in cobalt hydroxide during 2025"
+  },
+  "JC7": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 784-794, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Location: Lubumbashi, Haut Katanga Province, the ... Ownership: JCI (70%), Gécamines SA (25%), the ... DRC State (5%) ... Resources#: 441kt Cu, 59kt Co ... Reserves#: 272kt Cu, 36kt Co"
+  },
+  "JC8": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 861-863)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "additional diesel generators and the SX-EW System resumed its operations in mid of May 2025."
+  },
+  "JC9": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 958-959, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "There were no cobalt sales for 2025 due to the cobalt ... export ban in 2025."
+  },
+  "JC10": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 391-392, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Company produced 61,867 tonnes of ... copper and 1,085 tonnes of cobalt throughout the year"
+  },
+  "JC11": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0526/2026052600099.pdf",
+   "publisher": "Jinchuan Group International Resources 2025 annual report (local text team/evidence/filings/HK_2362_AR2025.txt, lines 1174-1176, bilingual page, English fragments)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The hydrometallurgical cobalt system commenced ... feeding in September 2025, producing the first batch of ... high-grade cobalt hydroxide in October 2025."
+  },
+  "MN1": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1858-1870)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin Manganese Mine ... Total mining production (thousand tonnes) 890 593"
+  },
+  "MN2": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1937-1941)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin Concentration Plant ... Total 876 873"
+  },
+  "MN3": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1795-1799, two-column page, right column)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Our outsourced contractor continued the 1,000,000 tonnes/year expansion project for the underground mining at southern mining zone of Daxin Manganese Mine. As at 31 December 2025, the tunnel construction works amounted to approximately 19,683 metres in length."
+  },
+  "MN4": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1635 and 1641, JORC resources table 31.12.2025, million tonnes / % Mn)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin Manganese Mine 100% Measured 3.24 26.08 3.32 26.05 ... Total 57.99 22.25 58.56 22.24"
+  },
+  "MN5": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1692 and 1694, JORC ore reserves table 31.12.2025, million tonnes / % Mn)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin Manganese Mine 100% Proved 3.02 20.61 3.10 20.72 ... Total 54.88 19.25 55.45 19.27"
+  },
+  "MN6": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 996-998)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "results of this segment for 2025 was affected by losses incurred by Tiandeng Branch due to suspension of part of its manganese mine operations in the absence of a valid mining right."
+  },
+  "MN7": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1643 and 1649, JORC resources table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Tiandeng Manganese Mine 100% Measured 0.53 18.43 0.53 18.43 ... Total 6.02 15.90 6.18 15.90"
+  },
+  "MN8": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1696 and 1698, JORC ore reserves table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Tiandeng Manganese Mine 100% Proved 0.49 15.86 0.49 15.86 ... Total 2.58 16.20 2.58 16.20"
+  },
+  "MN9": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1877-1883 and 1947-1951)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mining production volume (thousand tonnes) – 234 ... Tiandeng Concentration Plant ... Total 225 571"
+  },
+  "MN10": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1900-1906)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Changgou Manganese Mine ... Mining production volume (thousand tonnes) 188 33"
+  },
+  "MN11": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1659 and 1665, JORC resources table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Changgou Manganese 64% Measured 4.58 20.45 3.06 20.45 ... Total 20.50 20.37 20.95 20.37"
+  },
+  "MN12": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1705 and 1707, JORC ore reserves table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Changgou Manganese 64% Proved 4.58 20.45 3.06 20.45 ... Total 17.27 20.34 17.71 20.34"
+  },
+  "MN13": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 9227-9230, glossary)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a manganese mine located in Bembélé, Moyen-Ogooue Province, Gabon, the exploration rights and mining rights of which are owned by Compagnie"
+  },
+  "MN14": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1667 and 1673, JORC resources table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Bembélé Manganese 51% Measured ... Total 71.33 27.80 14.77 33.01"
+  },
+  "MN15": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1709 and 1711, JORC ore reserves table 31.12.2025)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Bembélé Manganese 51% Proved ... Total 10.90 29.21 2.39 22.35"
+  },
+  "MN16": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1910-1917 and 1957-1959)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mining production volume (thousand tonnes) 1,549 1,954 ... Bembélé Concentration Plant ... Manganese oxide concentrate 1,002 1,078"
+  },
+  "MN17": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, line 1070, manganese mining segment sales table)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Gabon ore 1,721,054 860 1,479,403 785 1,350,399 129,004 8.7"
+  },
+  "MN18": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 9263-9264, glossary)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "an EMD production plant located in Daxin county, Guangxi, owned and operated by a wholly owned subsidiary of the Group"
+  },
+  "MN19": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 2037-2043, EMD production table, thousand tonnes)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin EMD Plant 8.9 17.2 ... Huiyuan Manganese 31.1 62.8 ... Total 40.0 80.0"
+  },
+  "MN20": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 2057-2063, manganese sulfate production table, thousand tonnes)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Daxin Manganese Sulfate Plant 4.6 20.2 ... Huiyuan Manganese 18.1 28.5"
+  },
+  "MN21": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 9269-9270, glossary)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a manganese sulfate production plant located in Daxin county, Guangxi, owned and operated by a wholly owned subsidiary of the Group"
+  },
+  "MN22": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 4986-4987, principal subsidiaries table)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Guangxi Huiyuan Manganese Industry ... 100.00 Manufacture and sale of ... EMD/PRC"
+  },
+  "MN23": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 9245-9247, glossary)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a production facility owned and operated by Chongzuo Branch that produces and sells trimanganese tetraoxide, lithium manganese oxide and lithium cobalt oxide"
+  },
+  "MN24": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 2049-2051, lithium manganese oxide production table, thousand tonnes)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Chongzuo Branch 1.6 6.4"
+  },
+  "MN25": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 234-237, Chairman's Statement, two-column page, right column fragments)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The technical transformation ... projects at the Daxin Branch and the Chongzuo Branch ... were successfully completed and put into operation during ... the year."
+  },
+  "MN26": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+   "publisher": "South Manganese Investment 2025 annual report (local text team/evidence/filings/HK_1091_AR2025.txt, lines 1019-1023, battery materials segment sales table: tonnes sold, HK$/t, HK$'000)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "EMD 83,944 14,974 1,256,957 8,727 732,619 524,338 41.7 ... Lithium manganese oxide 3,372 31,371 105,784 32,063 108,117 (2,333) (2.2) ... Trimanganese tetraoxide 3,623 12,194 44,178 11,306 40,961 3,217 7.3"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "pt-halmahera-persada-lygend-hpal-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "jv_partners": "Lygend Resources & Technology 54.9% (36.9% direct + 18% indirect); PT Trimegah Bangun Persada (TBP, Harita) 45.1%",
+    "offtakers": "Long-term supply agreements with subsidiaries of CATL (Hunan Bangpu, Ningde Bangpu, Ningbo Bangpu), Rongbay Technology and GEM (Lygend AR; project-level split between HPL and ONC not stated)"
+   },
+   "evidence": {
+    "status": [
+     "LY7",
+     "LY6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (HKEX, published 2026-04-30). STATUS: AR says the hydrometallurgy (HPAL) project 'was operated at full capacity across all lines' in 2025 (line 609-611) - resolves the SC020 conflict with the GlobalData note that HPL suspended in 2024; project_state kept active. Products of the Obi HPAL project: nickel-cobalt hydroxide (MHP), nickel sulfate, cobalt sulfate, electrodeposited cobalt (line 606-607). CAPACITY NOT CHANGED: the AR gives only the COMBINED HPL + ONC design capacity - six production lines, 120,000 t Ni and 14,250 t Co (lines 93-95, 529-530, 605-607) - and does not split it between HPL and ONC, so the existing 54,000 t Ni (snippet-only, reported) stays and no 120,000 allocation was made. Existing HPL 54,000 + ONC 65,000 = 119,000 ~ 120,000 (consistent within rounding but unconfirmed split). OWNERSHIP: HPL direct 36.9% + indirect 18% = 54.9% Lygend (subsidiary table line 4896; HPAL NB 54.9% line 4904); non-controlling 45.1% (note 36, line 9784) = TBP (line 9364 'Shareholder of HPL'). TBP supplies ore under 20-year agreement from 2021 (line 772-774; line 9598 ore supply agreement effective 12 April 2021 to 31 December 2030 with GPS and TBP). HPL has 8-year offtake agreements (2021) with two customers, one performing normally in 2025, and a 5-year nickel sulfate offtake from 2023 (lines 6979-6989). Production tonnage for HPL NOT disclosed in the AR (revenue only: Lygend nickel-cobalt compounds RMB 15,230,537k in 2025 vs 11,100,635k in 2024, line 1185). Reported-tier flag on capacity remains."
+  },
+  {
+   "action": "update",
+   "id": "pt-obi-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "jv_partners": "Lygend Resources & Technology 60% (indirect); PT Trimegah Bangun Persada (TBP, Harita) 40%",
+    "offtakers": "Long-term supply agreements with subsidiaries of CATL (Hunan Bangpu, Ningde Bangpu, Ningbo Bangpu), Rongbay Technology and GEM (Lygend AR; project-level split between HPL and ONC not stated)",
+    "feeds": "lygend-obi-mhp-refinement-indonesia"
+   },
+   "evidence": {
+    "status": [
+     "LY7",
+     "LY23"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (published 2026-04-30). STATUS: hydrometallurgy project (HPL + ONC) 'operated at full capacity across all lines' in 2025 (lines 609-611); ONC-specific operation: optimized ONC iron-aluminum slag washing improved metal recovery and an ONC residual-ore (nickel in gravel) project is under construction (lines 884-886). OWNERSHIP: ONC indirect 60% Lygend (subsidiary table line 4898; ONC NB 60% line 4907), non-controlling 40.0% (note 36, line 9785) = TBP. In July 2025 ONC distributed USD 300 million dividends (line 7497). CAPACITY NOT CHANGED (existing 65,000 t Ni in MHP, CGS Ni-equivalent): AR gives only the combined six-line HPAL total of 120,000 t Ni + 14,250 t Co (lines 93-95, 605-607), not an ONC split. ONC product is nickel-cobalt hydroxide (MHP); the MHP refinement project (new row lygend-obi-mhp-refinement-indonesia, status announced) would process ONC MHP into nickel/cobalt sulfate or electrodeposited nickel/cobalt (line 1050-1052) - linked via feeds. Production tonnage not disclosed. Existing 2024 start year (S40) unchanged and not re-evidenced by the AR."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-jaya-feronikel-rkef-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 95000,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 95000,
+    "norm_unit": "t Ni",
+    "jv_partners": "Lygend Resources & Technology 36.9% (associate); other shareholders not stated in the Lygend AR",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "LY11"
+    ],
+    "capacity": [
+     "LY3",
+     "LY5",
+     "LY8"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (published 2026-04-30). CAPACITY CONFIRMED: HJF (phase I of the Obi RKEF project) designed annual capacity 95,000 metal tons of ferronickel (lines 97-98, 629-630); line 531 states the same 95,000 as 'metal tons of nickel', i.e. contained Ni (matches CGS Ni-equivalent 95,000 t; CGS gross FeNi 870,000 t). This resolves the SC020 conflict in favour of 95,000 t Ni (Bisnis) over the 120,000 t figure (Indonesia Business Post, which may include later expansion or product basis). Lygend's RKEF project total = 20 lines / 280,000 t Ni (line 627-628); KPS is 12 lines (line 1025) so HJF = 8 lines by subtraction (derived, matches Bisnis '8 lines'; not stated in the AR). STATUS: 'The equity-participated HJF project maintained stable operation' in 2025 (line 637-638). OWNERSHIP: Lygend holds 36.9% of PT Halmahera Jaya Feronikel, accounted as a material associate (line 8043); associate profit share RMB 431.2 million in 2025 (line 1293), attributed to 'phase I of the RKEF project' cost control. No HJF production tonnage in the AR (equity-accounted, so not in Lygend's sales). The reported-tier flag on this row's capacity is superseded by this confirmed company-filing evidence."
+  },
+  {
+   "action": "update",
+   "id": "pt-karunia-permai-sentosa-rkef-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 185000,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 185000,
+    "norm_unit": "t Ni",
+    "jv_partners": "Lygend Resources & Technology 65% (indirect, controlling); other shareholders not stated in the Lygend AR",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "LY11",
+     "LY12"
+    ],
+    "capacity": [
+     "LY9",
+     "LY12"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (published 2026-04-30). KPS = phase II of the Obi RKEF project, 'majority-held', designed annual capacity 185,000 metal tons of ferronickel (lines 630-631; metal tons = contained Ni, consistent with the 95,000 t HJF figure the AR also gives as 'metal tons of nickel'). capacity_ref_year 2026 = year in which the company plans full capacity on all 12 production lines (line 1024-1025). STATUS: operating in 2025 - 'put into production as planned, with six production lines reaching full capacity' (lines 638-639; chairman statement line 346-348); the other six of 12 lines were still being built/ramped in 2025 (line 1024-1025). INSTALLED CAPACITY deliberately left null: six of twelve lines reached full capacity, but the AR gives no per-line capacity (pro-rating 6/12 x 185,000 = 92,500 t would be an unsourced estimate). Sales: ferronickel production revenue RMB 6,589,515k in 2025 vs 1,302,192k in 2024 (line 1184), mainly from KPS (line 1221-1222: increase of RMB 5,287.3 million 'with the KPS production of RKEF phase II project'); ferronickel segment gross margin 14.6% (line 1245); no tonnage disclosed. OWNERSHIP: Lygend indirect 65% (line 4900; KPS NB 65% line 4910). This supersedes the earlier snippet-only 'reported' status/capacity (SC020), which also mentioned Katadata '8 lines in 2025' and Bisnis '305,000 t by end-2026' (group figure; AR says 280,000 t for the whole Lygend RKEF project incl. HJF)."
+  },
+  {
+   "action": "add",
+   "id": "lygend-jiangsu-wisdom-suqian-ferronickel-china",
+   "fields": {
+    "asset_name": "Jiangsu Wisdom Industrial (Lygend) Suqian RKEF ferronickel plant (Jiangsu Facilities)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "ferronickel",
+    "asset_type": "RKEF smelter",
+    "feedstock": "laterite nickel ore",
+    "operator": "Jiangsu Wisdom Industrial Co., Ltd.",
+    "parent_company": "Lygend Resources & Technology Co., Ltd. (HKEX 2245)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": 33.96,
+    "longitude": 118.28,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 18000,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 18000,
+    "norm_unit": "t Ni",
+    "end_market": "stainless steel",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "LY13",
+     "LY1"
+    ],
+    "capacity": [
+     "LY1",
+     "LY10"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (published 2026-04-30): 'Jiangsu Facilities' in Suqian, Jiangsu: three RKEF ferronickel lines, aggregate designed capacity 18,000 metal tons of ferronickel per annum (lines 90-92 and 631-633; 'metal tons' is Lygend's contained-nickel convention - the same AR states HJF's 95,000 'metal tons of ferronickel' as 'metal tons of nickel', line 531). Operating in 2025: production scheduled to avoid peak power times and new energy storage stations added (lines 642-643). Operator is the 100%-held subsidiary Jiangsu Wisdom Industrial Co., Ltd. (subsidiary table line 4855; Lygend acquired a majority interest in 2017, line 2688-2689 - this is the company acquisition date, not the plant start year, so start_year left null). capacity_ref_year 2025 = reporting year (design capacity, no phase dates). Coordinates are the Suqian city centre (named locality in the AR), geo_precision city, not the plant site. Output tonnage not disclosed. Ferronickel is mainly a stainless-steel feed (not battery chain) - included because the task asks for all Lygend nickel smelting."
+  },
+  {
+   "action": "add",
+   "id": "lygend-obi-mhp-refinement-indonesia",
+   "fields": {
+    "asset_name": "Obi Island MHP refinement project (nickel/cobalt sulfate and electrodeposited Ni/Co from ONC MHP)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "battery-grade nickel sulfate, cobalt sulfate; electrodeposited nickel and cobalt",
+    "asset_type": "MHP refinery",
+    "feedstock": "nickel-cobalt hydroxide (MHP) produced by ONC",
+    "operator": "Lygend Resources & Technology (project company not named in the AR)",
+    "parent_company": "Lygend Resources & Technology Co., Ltd. (HKEX 2245)",
+    "jv_partners": null,
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "status": "announced",
+    "project_state": "active",
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001098.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "LY18",
+     "LY17"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC180 2026-11-27] Lygend 2025 AR (published 2026-04-30): the company 'officially launched' the MHP refinement project and completed its feasibility studies and regulatory filings 'to ensure their timely constructions' (lines 399-401), to further process the nickel-cobalt hydroxide produced by ONC into nickel/cobalt sulfate or electrodeposited nickel/cobalt (lines 1050-1052). No capacity, start date, investment or site coordinates given, so capacity and years are null; status announced (feasibility-stage project with a stated development plan). Province North Maluku is inferred from the Obi Island Industrial Park location of ONC (existing rows), the AR itself says 'Obi Island Industrial Park, Indonesia' (line 527-528). Also launched in 2025 but OUT OF SCOPE (iron/rebar, not battery chain): hydrometallurgical slag resource utilization demonstration project (lines 1027-1046)."
+  },
+  {
+   "action": "update",
+   "id": "jinchuan-musonoi-drc",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "jv_partners": "Gécamines SA 25%; DRC State 5% (Jinchuan Group International Resources 70%)",
+    "production": 955,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "production_norm": 955,
+    "reserves_resources": "31 Dec 2025: resources 1,330 kt Cu and 396 kt Co; reserves 654 kt Cu and 200 kt Co; LoM 16 years (Jinchuan Intl AR 2025)"
+   },
+   "evidence": {
+    "status": [
+     "JC1",
+     "JC3"
+    ],
+    "production": [
+     "JC1",
+     "JC2"
+    ],
+    "reserves_resources": [
+     "JC4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC180 2026-11-27] Jinchuan Group International Resources 2025 AR (HKEX 2362, published 2026-05-26). STATUS: transitioned from construction to production phase and began commercial production in November 2025; the processing plant reached nameplate capacity then (JC3, lines 1147-1148, 1219-1221); first copper cathode Sept 2025, first cobalt hydroxide Oct 2025 (JC11, lines 1174-1176); the 'deep-processing project' has 38 sub-items (line 1163). PRODUCTION: 955 t cobalt (contained in cobalt hydroxide) and 5,041 t copper for the TWO MONTHS Nov-Dec 2025 only (table header '(operational for 2 months)', line 1195; JC1, JC2) - NOT a full-year figure and not annualisable; no cobalt SOLD in 2025 because of the DRC cobalt export ban (lines 1238-1239). Cross-check: group cobalt 1,085 t = Ruashi 130 + Musonoi 955 (JC10, lines 391-392). OWNERSHIP CONFLICT: AR says JCI 70% / Gécamines SA 25% / DRC State 5% (JC4, lines 1108-1109); the SC025 note (Mining Technology/GlobalData summary) had Jinchuan 75% / Gécamines 25% - AR taken as authoritative. CAPACITY NOT CHANGED: the existing 7,400 t Co (GlobalData analyst, 2026-03) remains the only capacity figure; the AR gives no tonnage capacity for Musonoi (only 'reached nameplate capacity'), so it cannot be confirmed here. installed_capacity left null for that reason. Location in AR: northern outskirts of Kolwezi, Lualaba, ~360 km NW of Lubumbashi (line 1131-1132), consistent with existing coordinates."
+  },
+  {
+   "action": "update",
+   "id": "jinchuan-ruashi-drc",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "jv_partners": "Gécamines SA 25%; DRC State 5% (Jinchuan Group International Resources 70%)",
+    "production": 130,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "production_norm": 130,
+    "reserves_resources": "31 Dec 2025: resources 441 kt Cu and 59 kt Co; reserves 272 kt Cu and 36 kt Co; LoM 6 years (Jinchuan Intl AR 2025)"
+   },
+   "evidence": {
+    "status": [
+     "JC5",
+     "JC8"
+    ],
+    "production": [
+     "JC5",
+     "JC6"
+    ],
+    "reserves_resources": [
+     "JC7"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC180 2026-11-27] Jinchuan Group International Resources 2025 AR (HKEX 2362, published 2026-05-26). PRODUCTION 2025: 130 t cobalt content in cobalt hydroxide (JC6, lines 875-876), down 85% from 2024 (table 855 t, lines 818; text line 876 says 885 t - internal inconsistency in the AR, table value 855 matches the 85% fall) because the SX-EW circuit was suspended Jan to mid-May 2025 (power instability) and cobalt output was deliberately cut after the DRC export ban (lines 877-881; cobalt operation suspended until November 2025, line 903); copper 26,343 t (10,865 t as cathode + 15,478 t in sulphide concentrate; lines 817, 843-846). No cobalt sales in 2025 (JC9). SX-EW resumed mid-May 2025 (JC8). Ore mined 196,169 t in 2025 vs 2,846,215 t in 2024 (line 908-909). OWNERSHIP CONFLICT: AR says JCI 70% / Gécamines SA 25% / DRC State 5% (JC7, lines 786-787); SC025 had Metorex 75% / Gécamines 25% from a search snippet - AR taken as authoritative. Location: Lubumbashi, Haut Katanga (line 784). CAPACITY NOT CHANGED: existing 5,300 t Co (Jinchuan web page, reported tier, undated) is not contradicted or confirmed - the AR states no capacity tonnage; the 2025 output (130 t) is ramp-disrupted and not a capacity indicator. Mining licence PE578 renewed 2021 to September 2036 (line 961-963). Confidence kept at 0.5 because the capacity field still rests on a reported-tier source. OUT OF SCOPE in the same AR (no cobalt): Kinsenda copper mine (30,483 t Cu in 2025, Haut Katanga, JCI 77%), Lubembe copper exploration project, and Chibuluma South (Zambia) copper mine leased out since Dec 2020 (lessee produced 3,462 t payable copper in 2025, lines 1361-1362) - none made battery-chain rows."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-daxin-manganese-mine-china",
+   "fields": {
+    "asset_name": "Daxin Manganese Mine (Daxin Dameng Manganese Limited Company)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese carbonate ore and concentrate",
+    "asset_type": "underground mine (carbonate manganese) with concentrator and grinding plant",
+    "feedstock": "manganese carbonate ore",
+    "operator": "Daxin Dameng Manganese Limited Company",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "status": "operational",
+    "project_state": "active",
+    "production": 890000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "reserves_resources": "JORC 31 Dec 2025: resources 57.99 Mt at 22.25% Mn (total); reserves 54.88 Mt at 19.25% Mn (proved + probable); 100% owned",
+    "end_market": "mixed (feed to EMM for steel, EMD and manganese sulfate for batteries)",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN1"
+    ],
+    "production": [
+     "MN1"
+    ],
+    "reserves_resources": [
+     "MN4",
+     "MN5"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[SC180 2026-11-27] South Manganese Investment (ex-CITIC Dameng) 2025 AR (published 2026-04-15). Production = run-of-mine underground output 890 kt in 2025 (593 kt in 2024), average carbonate ore grade 12.0% Mn (MN1, lines 1861-1873); no open-pit output. Daxin concentration plant produced 876 kt concentrate in 2025 (835 kt carbonate at 16.3% Mn + 41 kt oxide at 33.0% Mn; 873 kt in 2024; MN2, lines 1937-1944) and the grinding plant 874 kt powder (line 1968). Ownership 100% (resources table). CAPACITY left null on purpose: the AR mentions only a 1,000,000 tonnes/year expansion project for the underground mining at the SOUTHERN mining zone, still under way in 2025 with ~19,683 m of tunnel built and no completion date (MN3, lines 1795-1799) - it is unclear whether 1 Mt/yr is the whole-mine nameplate, so it was not recorded as capacity. IPO-proceeds table shows the Daxin underground mining and ore-processing expansion (HK$278 million) fully used (line 1385-1386). Mining right extension paid in 2025 (line 1405-1406). Province Guangxi is from the Daxin county references in the glossary (line 9263) and Group base in Guangxi; no coordinates stated. Unit 't Mn ore' = tonnes of ore (grade 12% Mn); not normalised."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-tiandeng-manganese-mine-china",
+   "fields": {
+    "asset_name": "Tiandeng Manganese Mine (South Manganese Group Tiandeng Branch)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese carbonate and oxide ore and concentrate",
+    "asset_type": "open-pit mine with concentrator and grinding plant",
+    "feedstock": "manganese carbonate and oxide ore",
+    "operator": "South Manganese Group Limited, Tiandeng Manganese Mine Branch",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "status": "operational",
+    "project_state": "paused",
+    "reserves_resources": "JORC 31 Dec 2025: resources 6.02 Mt at 15.90% Mn (total); reserves 2.58 Mt at 16.20% Mn (proved + probable); 100% owned",
+    "end_market": "mixed (feed to EMM for steel, EMD and manganese sulfate for batteries)",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN6",
+     "MN9"
+    ],
+    "reserves_resources": [
+     "MN7",
+     "MN8"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Part of the mine's operations were suspended in 2025 'in the absence of a valid mining right' (MN6, lines 996-998), hence project_state paused (partial suspension - the AR does not say the whole mine is closed). Open-pit mining output was nil in 2025 (table shows a dash vs 234 kt in 2024); the concentration plant produced 225 kt concentrate in 2025 (164 kt carbonate at 12.4% Mn + 61 kt oxide at 19.2% Mn) vs 571 kt in 2024 (MN9, lines 1947-1955), presumably from stockpiles; grinding plant 157 kt powder vs 477 kt (line 1971). Production field left null (no 2025 mining output). Resources/reserves 100% owned (JORC, tables lines 1643-1649, 1696-1698). The mining right of Tiandeng was among those for which HK$13.7 million was paid to the PRC government in 2025 to extend it (line 1404-1406). Province Guangxi inferred from the Group's Guangxi base and the Tiandeng (Chongzuo) place name; the AR text read does not state the province - treat as inferred. No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-changgou-manganese-mine-china",
+   "fields": {
+    "asset_name": "Changgou Manganese Mine (Zunyi Huixing Changgou Manganese Mine Co., Ltd.)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese carbonate ore",
+    "asset_type": "underground mine",
+    "feedstock": "manganese carbonate ore",
+    "operator": "Zunyi Huixing Changgou Manganese Mine Co., Ltd.",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091), via Guizhou Zunyi Huixing Ferroalloy Co., Ltd. (64%)",
+    "jv_partners": "South Manganese Investment 64% (other shareholders not stated)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "status": "operational",
+    "project_state": "active",
+    "production": 188000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "reserves_resources": "JORC 31 Dec 2025: resources 20.50 Mt at 20.37% Mn (total); reserves 17.27 Mt at 20.34% Mn (proved + probable); 64% owned",
+    "end_market": "mixed (steel and battery manganese chain)",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN10"
+    ],
+    "production": [
+     "MN10"
+    ],
+    "reserves_resources": [
+     "MN11",
+     "MN12"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Underground ROM output 188 kt in 2025 (33 kt in 2024), average carbonate grade 15.9% Mn (MN10, lines 1903-1907). Ownership 64% (resources table; subsidiary table lines 4933-4940: Guizhou Zunyi Huixing Ferroalloy 64%, Zunyi Huixing Changgou Manganese Mine Co. 64%, established 18 May 2020). Province Guizhou from the Zunyi/Guizhou entity names (the AR also mentions weak ore demand in the Zunyi region and significant losses at Zunyi Company in 2025, lines 1096-1098). No capacity stated. Purchases of mining machinery HK$12.1 million in 2025 (line 2100). No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-bembele-manganese-mine-gabon",
+   "fields": {
+    "asset_name": "Bembélé Manganese Mine and concentration plant (CICMHZ)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese oxide ore and concentrate (Gabon ore)",
+    "asset_type": "open-pit mine with concentration plant",
+    "feedstock": "manganese oxide ore",
+    "operator": "Compagnie Industrielle et Commerciale des Mines de Huazhou (Gabon) (CICMHZ)",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": "South Manganese Investment 51% (indirect); other shareholders not stated",
+    "country": "Gabon",
+    "region": "Africa",
+    "province_state": "Moyen-Ogooué",
+    "status": "operational",
+    "project_state": "active",
+    "production": 1549000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "reserves_resources": "JORC 31 Dec 2025: resources 71.33 Mt at 27.80% Mn (total, incl. 22.18 Mt inferred); reserves 10.90 Mt at 29.21% Mn (probable); 51% owned",
+    "end_market": "mixed (steel and battery manganese chain)",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN16",
+     "MN13"
+    ],
+    "production": [
+     "MN16"
+    ],
+    "reserves_resources": [
+     "MN14",
+     "MN15"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Open-pit ROM output 1,549 kt in 2025 (1,954 kt in 2024), average manganese oxide grade 31.5% Mn (lines 1915-1917); Bembélé concentration plant produced 1,002 kt of oxide concentrate at 34.6% Mn in 2025 (1,078 kt in 2024; lines 1957-1959). Group sales of 'Gabon ore' were 1,721,054 t in 2025 (1,330,646 t in 2024; MN17, line 1070; revenue HK$1,479.4 million) - larger than 2025 concentrate output (stock draw and/or non-concentrate ore; AR does not reconcile). Location: Bembélé, Moyen-Ogooué Province, Gabon (MN13, glossary line 9227); the rail extension line at the Ndjole transfer station was in acceptance/trial operation in 2025 and the tailings pond was being heightened (lines 1818-1825). Exploration rights and mining rights owned by CICMHZ in which the Group indirectly holds 51% (glossary line 9228-9230; subsidiary table line 4909-4910). Resources jumped from 14.77 Mt to 71.33 Mt and reserves from 2.39 Mt to 10.90 Mt after an independent technical review during 2025 (lines 1736-1737). Capacity not stated. No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-daxin-emd-plant-china",
+   "fields": {
+    "asset_name": "Daxin EMD Plant",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD)",
+    "asset_type": "EMD plant",
+    "operator": "Wholly owned subsidiary of South Manganese Investment (entity not named in the AR glossary)",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "status": "operational",
+    "project_state": "active",
+    "production": 8900,
+    "production_unit": "t EMD",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN19",
+     "MN18"
+    ],
+    "production": [
+     "MN19"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Daxin EMD Plant is located in Daxin county, Guangxi and owned/operated by a wholly owned subsidiary (glossary lines 9263-9264). EMD production 2025: 8.9 kt (17.2 kt in 2024) (MN19, line 2039); the Group's other EMD plant is Huiyuan Manganese (separate row). An 'Expansion project at Daxin EMD Plant' (HK$79 million) was fully funded from the IPO proceeds (line 1383) and a Daxin Branch technical-transformation project was completed and put into operation in 2025 (line 234-237). No nameplate capacity is stated anywhere in the AR, so capacity is null. SEE company-level conflict in the hand-back: Group EMD production table totals 40.0 kt in 2025 (80.0 kt in 2024) while EMD sales were 83,944 t in 2025 (73,407 t in 2024; line 1019) - the AR does not reconcile production to sales."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-huiyuan-manganese-emd-mnso4-china",
+   "fields": {
+    "asset_name": "Guangxi Huiyuan Manganese Industry (EMD and manganese sulfate)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD) and manganese sulfate",
+    "asset_type": "EMD and manganese sulfate plant",
+    "operator": "Guangxi Huiyuan Manganese Industry Co., Ltd.",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "project_state": "active",
+    "production": 31100,
+    "production_unit": "t EMD",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN19",
+     "MN22"
+    ],
+    "production": [
+     "MN19"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Guangxi Huiyuan Manganese Industry Co., Ltd. is a 100%-owned subsidiary engaged in 'manufacture and sale of EMD' (subsidiary table lines 4986-4987; registered capital RMB 300 million, established 14 October 2003). 2025 production: EMD 31.1 kt (62.8 kt in 2024; MN19, line 2041) and manganese sulfate 18.1 kt (28.5 kt in 2024; MN20, line 2061; unit t MnSO4 - not recorded in the production field, which holds the EMD figure). The AR does not state where the Huiyuan plant is located (province left null; the 'Guangxi' in the company name is not a plant-location statement). No nameplate capacity stated. A related entity Guangxi Daxin Huiyuan New Energy Technology Co. (100%, RMB 93.0 million, 'battery and related raw materials') is listed at line 4992-4994; no output disclosed. See company-level production/sales conflict in the hand-back."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-daxin-manganese-sulfate-plant-china",
+   "fields": {
+    "asset_name": "Daxin Manganese Sulfate Plant",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "manganese sulfate",
+    "asset_type": "manganese sulfate plant",
+    "operator": "Wholly owned subsidiary of South Manganese Investment (entity not named in the AR glossary)",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "status": "operational",
+    "project_state": "active",
+    "production": 4600,
+    "production_unit": "t MnSO4",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN20",
+     "MN21"
+    ],
+    "production": [
+     "MN20"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Manganese sulfate plant in Daxin county, Guangxi, owned/operated by a wholly owned subsidiary (glossary lines 9269-9270). Production 4.6 kt in 2025 vs 20.2 kt in 2024 (MN20, line 2059). Group manganese sulfate production 22.7 kt (48.7 kt in 2024) vs sales 49,014 t in 2025 at HK$3,055/t and a gross loss of 4.1% (line 1020) - production and sales do not reconcile in the AR. Whether the product is battery-grade (HPMSM) is NOT stated; the AR lists 'manganese sulfate' under Battery materials production. No capacity stated. Unit 't MnSO4' follows units.csv (monohydrate assumed by the build)."
+  },
+  {
+   "action": "add",
+   "id": "south-manganese-chongzuo-base-lmo-mn3o4-china",
+   "fields": {
+    "asset_name": "Chongzuo Base (Chongzuo Branch) - lithium manganese oxide, trimanganese tetraoxide, lithium cobalt oxide",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "lithium manganese oxide (LMO); trimanganese tetraoxide (Mn3O4); lithium cobalt oxide",
+    "asset_type": "cathode material plant",
+    "operator": "South Manganese Group Limited, Chongzuo Branch",
+    "parent_company": "South Manganese Investment Limited (HKEX 1091)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "status": "operational",
+    "project_state": "active",
+    "production": 1600,
+    "production_unit": "t CAM",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0415/2026041500949.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-15"
+   },
+   "evidence": {
+    "status": [
+     "MN23",
+     "MN25"
+    ],
+    "production": [
+     "MN24"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC180 2026-11-27] South Manganese Investment 2025 AR (published 2026-04-15). Chongzuo Base is a production facility owned and operated by the Chongzuo Branch that produces and sells trimanganese tetraoxide, lithium manganese oxide and lithium cobalt oxide (glossary lines 9245-9247). 2025 LMO production 1.6 kt (6.4 kt in 2024; MN24, line 2051) - recorded as t CAM because LMO is a cathode active material; Mn3O4 production tonnage is not given. Sales 2025: LMO 3,372 t (6,510 t in 2024; HK$31,371/t; gross margin -2.2%) and Mn3O4 3,623 t (1,009 t in 2024; MN26, lines 1021-1023); NCM nil in 2025 (line 1022). LMO sales (3,372 t) exceed LMO production (1,600 t) - not reconciled in the AR. A Chongzuo Base construction project (HK$59 million) was funded from IPO proceeds (line 1389) and the Chongzuo Branch technical-transformation project was completed and put into operation in 2025 (MN25). Province Guangxi inferred from the place name Chongzuo (not stated in the AR text read); no coordinates; no capacity stated."
+  }
+ ]
+}
