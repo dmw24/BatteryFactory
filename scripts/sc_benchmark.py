@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 """Compare supply-chain asset totals with open benchmarks (data/supply_chain/benchmarks/aggregates.csv).
 
-Mining: sum of operational assets' latest production_norm (production_year within 1 year of the benchmark year).
-Processing: sum of operational assets' installed_norm (else capacity_norm) vs benchmark capacity or production.
-Writes sc_benchmark.csv and prints a table. Never sums across statuses.
+For each benchmark row: ours_production = operational assets' production_norm (production_year in [year-1, year],
+same unit); ours_capacity = operational assets' installed_norm, else capacity_norm (same unit). Mining coverage =
+ours_production / benchmark. Processing: capacity_ratio = ours_capacity / benchmark (≥1 expected against output;
+≈1 against capacity). commodity "cathode (LFP)" filters product by the bracketed text. Writes sc_benchmark.csv.
 """
 import os
+import re
+
 import pandas as pd
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -14,30 +17,32 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
     a = pd.read_csv(os.path.join(ROOT, "sc_assets.csv"))
     b = pd.read_csv(os.path.join(ROOT, "data/supply_chain/benchmarks/aggregates.csv"))
-    a = a[(a.status == "operational")]
+    a = a[(a.status == "operational") & (a.project_state.fillna("active") != "cancelled")]
     rows = []
-    for (step, com, metric, yr), g in b.groupby(["step", "commodity", "metric", "year"]):
-        s = a[(a.step == step) & (a.commodity == com)]
-        if metric == "production":
-            s = s[s.production_year.between(yr - 1, yr) & s.production_norm.notna()
-                  & (s.production_norm_unit == g.norm_unit.iloc[0])]
-            val = lambda d: d.production_norm.sum()
-        else:
-            s = s.assign(v=s.installed_norm.fillna(s.capacity_norm))
-            s = s[s.norm_unit == g.norm_unit.iloc[0]]
-            val = lambda d: d.v.sum()
-        for r in g.itertuples():
-            sub = s if r.country == "World" else s[s.country == r.country]
-            if r.country == "Other countries":
-                continue
-            ours = val(sub)
-            rows.append(dict(step=step, commodity=com, metric=metric, year=yr, country=r.country, ours=round(ours),
-                             n_assets=len(sub), benchmark=r.value, unit=r.norm_unit,
-                             coverage=round(ours / r.value, 2) if r.value else None, source=r.source))
+    for r in b.itertuples():
+        if r.country == "Other countries":
+            continue
+        m = re.match(r"([^(]+?)\s*(?:\((.+)\))?$", str(r.commodity))
+        com, sub = m.group(1).strip(), m.group(2)
+        s = a[(a.step == r.step) & (a.commodity == com)]
+        if sub and com != "nickel":
+            key = sub.split("/")[0]
+            s = s[s["product"].fillna("").str.contains(key, case=False)]
+        if r.country != "World":
+            s = s[s.country == r.country]
+        p = s[s.production_year.between(r.year - 1, r.year) & (s.production_norm_unit == r.norm_unit)]
+        c = s[s.norm_unit == r.norm_unit]
+        cap = c.installed_norm.fillna(c.capacity_norm).sum()
+        rows.append(dict(step=r.step, commodity=r.commodity, metric=r.metric, year=r.year, country=r.country,
+                         benchmark=r.value, unit=r.norm_unit, ours_production=round(p.production_norm.sum()),
+                         n_prod=len(p), ours_capacity=round(cap), n_cap=int(c.installed_norm.fillna(c.capacity_norm).notna().sum()),
+                         production_coverage=round(p.production_norm.sum() / r.value, 2),
+                         capacity_ratio=round(cap / r.value, 2), source=r.source))
     out = pd.DataFrame(rows)
     out.to_csv(os.path.join(ROOT, "sc_benchmark.csv"), index=False)
-    if len(out):
-        print(out[out.year == out.year.max()].to_string(index=False))
+    latest = out.sort_values("year").groupby(["step", "commodity", "metric", "country"]).tail(1)
+    show = latest[latest.country.isin(["World", "China"]) | (latest.step == "mining")]
+    print(show.drop(columns="source").to_string(index=False))
 
 
 if __name__ == "__main__":
