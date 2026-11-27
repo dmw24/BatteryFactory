@@ -1,0 +1,830 @@
+{
+ "task": "SC013",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.umicore.com/en/locations/poland/",
+   "publisher": "Umicore",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "launched in 2022"
+  },
+  "S2": {
+   "url": "https://www.umicore.com/en/media/newsroom/umicore-accelerates-european-e-mobility-with-nysa-gigafactory/",
+   "publisher": "Umicore",
+   "published": "2023-03-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In September 2022, Umicore took a landmark step when it inaugurated Europe's first battery materials gigafactory"
+  },
+  "S3": {
+   "url": "https://www.umicore.com/en/media/newsroom/umicore-unveils-roadmap-to-2028/",
+   "publisher": "Umicore",
+   "published": "2025-03-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "to finish footprint in Nysa and Korea"
+  },
+  "S4": {
+   "url": "https://www.umicore.com/en/media/newsroom/ionway-first-production-plant-in-nysa/",
+   "publisher": "Umicore",
+   "published": "2023-10-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "grow its annual production capacity to 160 GWh by the end of the decade"
+  },
+  "S5": {
+   "url": "https://autotechinsight.spglobal.com/news/5277187/umicore-halts-ontario-battery-plant-construction-amid-declining-revenue",
+   "publisher": "S&P Global Mobility AutoTechInsight",
+   "published": "2024-08-02",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "pause on the construction of a proposed $2.8 billion battery-materials manufacturing plant in Loyalist, Ontario"
+  },
+  "S6": {
+   "url": "https://globalnews.ca/news/10647319/ontario-battery-plant-suspend-construction/amp",
+   "publisher": "Global News (Canadian Press)",
+   "published": "2024-07-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The plant was set to build cathode active materials and precursor cathode active materials."
+  },
+  "S7": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2024/04/p-24-158.html",
+   "publisher": "BASF",
+   "published": "2024-04-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "BASF announces the commencement of change negotiations at its precursor cathode active materials plant"
+  },
+  "S8": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2020/06/p-20-214",
+   "publisher": "BASF",
+   "published": "2020-06-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "BASF remains on schedule for start-up of plants in 2022"
+  },
+  "S9": {
+   "url": "https://www.basf.com/global/en/investors/calendar-and-publications/factbook/segments/surface-technologies/battery-materials",
+   "publisher": "BASF Factbook",
+   "published": "2026-05-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CAM manufacturing plant in Schwarzheide, Germany"
+  },
+  "S10": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2018/03/p-18-132",
+   "publisher": "BASF",
+   "published": "2018-03-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "With facilities in Elyria, Ohio and Battle Creek, Michigan, BTA will deliver leading expertise in the manufacturing of CAM."
+  },
+  "S11": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2022/06/p-22-253.html",
+   "publisher": "BASF",
+   "published": "2022-06-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "BSBM is expanding its battery materials capacity in Changsha, Hunan Province, and Shuizuishan, Ningxia Province",
+   "tier": "reported",
+   "snippet": "BSBM is expanding its battery materials capacity in Changsha, Hunan Province, and Shuizuishan, Ningxia Province",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S12": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2021/05/p-21-215",
+   "publisher": "BASF",
+   "published": "2021-05-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "BASF Shanshan Battery Materials ... joint venture formed by BASF and Shanshan in 2021 (BASF 51% and Shanshan 49%) [search-result summary; page itself not opened]"
+  },
+  "S13": {
+   "url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+   "publisher": "Canary Media",
+   "published": "2025-03-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "That project, called Apex 1, is still happening."
+  },
+  "S14": {
+   "url": "https://ascendelements.com/?p=6245",
+   "publisher": "Ascend Elements",
+   "published": "2025-03-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ascend Elements and U.S. Department of Energy (DOE) Mutually Agree to Cancel $164M Cathode Active Material (CAM) Grant [page title from search result; page returned HTTP 503 when fetched; publication date approximate]"
+  },
+  "S15": {
+   "url": "https://www.industrialinfo.com/iirenergy/industry-news/article/contractor-partnership-wins-kentucky-battery-recycling-plant-in-chapter-11-auction--359113",
+   "publisher": "IIR Energy / industrialinfo.com",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "approved TKJV's $31.7 million bid for the facility on June 4"
+  },
+  "S16": {
+   "url": "https://en.wikipedia.org/wiki/Northvolt",
+   "publisher": "Wikipedia (reference title citing Renewables Now, 2024)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Northvolt ditches plan for CAM giga-factory in Sweden, sells land"
+  },
+  "S17": {
+   "url": "https://www.mitrachem.com/lfp",
+   "publisher": "Mitra Chem",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "US scale-up in Muskegon, MI"
+  },
+  "S18": {
+   "url": "https://en.wikipedia.org/wiki/Redwood_Materials",
+   "publisher": "Wikipedia",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "supplying battery manufacturing partners with anode copper foil and cathode active materials"
+  },
+  "S19": {
+   "url": "https://www.redwoodmaterials.com/news/",
+   "publisher": "Redwood Materials",
+   "published": "2022-12-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Redwood chooses Charleston, South Carolina region for new Battery Materials Campus"
+  },
+  "S20": {
+   "url": "https://www.aleees.com/en/",
+   "publisher": "Aleees",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "our cumulative mass production and sales of LFP CAM (Cathode Active Material) have reached nearly 30,000 metric tons"
+  },
+  "S21": {
+   "url": "https://www.umicore.com/en/media/newsroom/umicore-battery-materials-from-strategic-plan-to-execution-with-global-footprint-in-place/",
+   "publisher": "Umicore",
+   "published": "2023-10-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "total global installed CAM production base by the end of 2026 of 195 GWh"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "umicore-nysa-cathode-poland",
+   "fields": {
+    "asset_name": "Umicore Nysa CAM gigafactory",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NMC cathode active material",
+    "asset_type": "CAM plant",
+    "feedstock": "pCAM",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": null,
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Opole",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2018,
+    "start_year": 2022,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.umicore.com/en/locations/poland/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S2"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Status from Umicore location page (launched 2022) and Mar-2023 release (inaugurated Sept 2022). Announced 2018 (site selection in Nysa, Umicore release 2018-06-01, page opened but not quoted). Capacity published only in GWh: ~20 GWh by end-2023 and 40 GWh in 2024 (S2, targets), 45 GWh planned after remaining capex (S3, 2025-03-27: 'bring CAM capacity in Poland to 45 GWh'). No t CAM figure found, so capacity left null; no GWh-to-t conversion applied. Q1-2026 Umicore update (via search summary only) says CAM volumes ramping slower than planned. Province Opole is the voivodeship of Nysa (not stated in cited source)."
+  },
+  {
+   "action": "add",
+   "id": "ionway-nysa-cathode-poland",
+   "fields": {
+    "asset_name": "IONWAY Nysa CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NMC cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "IONWAY",
+    "parent_company": "Umicore / Volkswagen PowerCo",
+    "jv_partners": "Umicore, PowerCo (split not stated)",
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Opole",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.umicore.com/en/media/newsroom/ionway-first-production-plant-in-nysa/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-10-07"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "JV target 160 GWh/yr by end of the decade (S4, JV-wide, not only the Nysa plant; units GWh so capacity null). Production 'expected to begin as soon as construction is completed'; permitting pending at publication. Umicore's 2025-03-27 roadmap (S3) lists ~EUR 500m equity for IONWAY. Current (2026) construction status not confirmed; check before use."
+  },
+  {
+   "action": "add",
+   "id": "umicore-loyalist-cam-canada",
+   "fields": {
+    "asset_name": "Umicore Loyalist (eastern Ontario) CAM and pCAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NMC cathode active material (with integrated pCAM)",
+    "asset_type": "CAM plant",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://autotechinsight.spglobal.com/news/5277187/umicore-halts-ontario-battery-plant-construction-amid-declining-revenue",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-08-02"
+   },
+   "evidence": {
+    "status": [
+     "S5",
+     "S6"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Loveland/Loyalist (Loyalist Township, Ontario). Construction paused July 2024; plant had been expected to begin production in 2026 (S6); output stated as CAM for 800,000 EVs/yr (S5), no tonnage. Umicore announced 'CAM and pCAM plant in Ontario, Canada' in Oct 2023 (S21). Whether the project was later cancelled is not confirmed in sources opened (a 2025 strategic update, not opened, may have changed it). Status under_construction taken from 'pause on the construction' wording; ground-breaking date not verified. Original announcement year 2022 per S5 text ('Initially announced in 2022', page extraction)."
+  },
+  {
+   "action": "add",
+   "id": "umicore-korea-cam-south-korea",
+   "fields": {
+    "asset_name": "Umicore Korea CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NMC cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.umicore.com/en/media/newsroom/umicore-unveils-roadmap-to-2028/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-27"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Umicore (Belgium HQ) CAM capacity in Korea planned to reach 40 GWh after remaining capex (S3; page extraction: 'bring CAM capacity in Poland to 45 GWh and Korea to 40 GWh'). Site not named in sources opened (Cheonan is believed but NOT confirmed). Overlaps SC012 (Korea); lead to dedupe. Quote in S3 is the extractor's rendering; verify. GWh only, capacity null."
+  },
+  {
+   "action": "add",
+   "id": "basf-schwarzheide-cam-germany",
+   "fields": {
+    "asset_name": "BASF Schwarzheide CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM cathode active material",
+    "asset_type": "CAM plant",
+    "feedstock": "pCAM",
+    "operator": "BASF",
+    "parent_company": "BASF",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Brandenburg",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2020,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/investors/calendar-and-publications/factbook/segments/surface-technologies/battery-materials",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-28"
+   },
+   "evidence": {
+    "status": [
+     "S9",
+     "S7",
+     "S8"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "BASF Factbook lists 'CAM manufacturing plant in Schwarzheide, Germany' (2023 entry); BASF said in Apr 2024 Schwarzheide operations are not affected by the Harjavalta delay (S7, extractor rendering); 2020 plan was start-up in 2022 (S8). Capacity: only 'initial capacities ... around 400,000 full electric vehicles per year' for the new plants jointly (2020), no tonnage. Start year not verified; status operational is inferred from S7/S9 phrasing, not from an explicit 'commercial production' statement."
+  },
+  {
+   "action": "add",
+   "id": "basf-harjavalta-pcam-finland",
+   "fields": {
+    "asset_name": "BASF Harjavalta pCAM plant",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM precursor (pCAM)",
+    "asset_type": "pCAM plant",
+    "operator": "BASF",
+    "parent_company": "BASF",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Satakunta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": 2018,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2024/04/p-24-158.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S7",
+     "S8"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Precursor (not CAM) row, added because it was on SC013 list; precursor-task owner should dedupe by id. Plant built (construction started 2020, S8) but formal start-up blocked: April 2024 BASF started change negotiations, 'further postponement of and uncertainty around the formal startup date' (S7). Vaasa Administrative Court cancelled a temporary permit in Feb 2024 (electrive 2024-04-12, opened, not cited as a source here). A June-2024 report (search summary only) says BASF abandoned the plans: not confirmed; status after 2024 unverified. No capacity figure found."
+  },
+  {
+   "action": "add",
+   "id": "basf-toda-america-elyria-united-states",
+   "fields": {
+    "asset_name": "BASF TODA America Elyria CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM/NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "BASF TODA America",
+    "parent_company": "BASF",
+    "jv_partners": "BASF; TODA (formed 2015, BASF took full ownership later - not verified)",
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Ohio",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2012,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2018/03/p-18-132",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-03-08"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "2018 BASF release: BTA facilities in Elyria and Battle Creek (S10). Plant opened 2012 per search summary only (DOE-supported; start_year reported, not confirmed). Current ownership/operational status NOT re-confirmed (source is 2018). jv_partners wording is loose; BASF Toda America was a BASF/TODA JV in 2018."
+  },
+  {
+   "action": "add",
+   "id": "basf-toda-america-battle-creek-united-states",
+   "fields": {
+    "asset_name": "BASF Battle Creek CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM/NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "BASF",
+    "parent_company": "BASF",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Michigan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2018/03/p-18-132",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-03-08"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "2018 release (S10) names Battle Creek as a BTA CAM facility. A BASF 2024 site fact sheet (found via search, fetch returned 403) reportedly describes Battle Creek as producing cathode materials with 50 employees (year-end 2023 data) - not cited (not opened). No capacity figure found."
+  },
+  {
+   "action": "add",
+   "id": "basf-shanshan-changsha-china",
+   "fields": {
+    "asset_name": "BASF Shanshan (BSBM) Changsha CAM site",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM/NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "BASF Shanshan Battery Materials (BSBM)",
+    "parent_company": "BASF",
+    "jv_partners": "Shanshan (49%), BASF (51%)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2022/06/p-22-253.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-06-15"
+   },
+   "evidence": {
+    "status": [
+     "S11",
+     "S9"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "BSBM combined target is 100 kt/yr CAM across Changsha (Hunan) and Shuizuishan (Ningxia) after the 2022 expansion ('BSBM to achieve 100 kt annual capacity', S11) - no per-site split found, so capacity null on both rows; do NOT sum both rows with 100 kt. BASF Factbook lists a 2023 'CAM capacity expansion for the joint venture BASF Shanshan in Chansha' (S9). JV share 51/49 is reported-tier (S12). Possible overlap with SC009-011 (Shanshan's own ids) - lead to dedupe."
+  },
+  {
+   "action": "add",
+   "id": "basf-shanshan-shuizuishan-china",
+   "fields": {
+    "asset_name": "BASF Shanshan (BSBM) Shuizuishan CAM site",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM/NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "BASF Shanshan Battery Materials (BSBM)",
+    "parent_company": "BASF",
+    "jv_partners": "Shanshan (49%), BASF (51%)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Ningxia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2022/06/p-22-253.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-06-15"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "See Changsha row for the combined 100 kt figure. Source says BSBM 'is expanding' capacity here (2022); whether this site is solely CAM vs pCAM was not stated in the quote. Current status not re-confirmed after 2022."
+  },
+  {
+   "action": "add",
+   "id": "ascend-elements-apex-1-cam-united-states",
+   "fields": {
+    "asset_name": "Ascend Elements Apex 1 CAM line (Hopkinsville)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Ascend Elements",
+    "parent_company": "Ascend Elements",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Kentucky",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-05"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "S13"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CAM portion of Apex 1 was dropped in March 2025 when Ascend and DOE agreed to cancel the $164M CAM grant (S14 title, reported tier; Canary Media S13 says Apex 1 'is still happening' as pCAM/lithium carbonate). Canary article (opened) reports Ascend 'scrapping plans' for CAM; wording not quoted verbatim. No CAM tonnage found."
+  },
+  {
+   "action": "add",
+   "id": "ascend-elements-apex-1-pcam-united-states",
+   "fields": {
+    "asset_name": "Ascend Elements Apex 1 pCAM plant (Hopkinsville)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "pCAM",
+    "asset_type": "pCAM plant",
+    "operator": "Ascend Elements",
+    "parent_company": "Ascend Elements",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Kentucky",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-05"
+   },
+   "evidence": {
+    "status": [
+     "S13",
+     "S15"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Precursor row added for completeness (precursor-task owner to dedupe). Canary 2025-03-05: completion target moved to Q3 2026 and Apex 1 'still happening' (S13). Search summaries (not opened) say construction paused since late 2024. A Texas bankruptcy court approved a $31.7M bid by Turner-Kokosing JV for the facility on 'June 4' (S15; year not shown in extracted text - likely 2026, unverified), i.e. the site changed hands via Chapter 11; current project state uncertain. Paused state is an inference."
+  },
+  {
+   "action": "add",
+   "id": "northvolt-skelleftea-cam-sweden",
+   "fields": {
+    "asset_name": "Northvolt CAM plant (Sweden)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Northvolt",
+    "parent_company": "Northvolt",
+    "jv_partners": null,
+    "country": "Sweden",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://en.wikipedia.org/wiki/Northvolt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Only evidence is the title of a Renewables Now 2024 article cited by Wikipedia: 'Northvolt ditches plan for CAM giga-factory in Sweden, sells land' (S16). Town (Skellefteå) NOT confirmed in sources opened; no capacity or announcement date found. Northvolt AB applied for bankruptcy in Sweden 2025-03-12 (Wikipedia extract). Original article not opened."
+  },
+  {
+   "action": "add",
+   "id": "mitra-chem-muskegon-united-states",
+   "fields": {
+    "asset_name": "Mitra Chem Muskegon LFP CAM scale-up",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP/LMFP cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Mitra Chem",
+    "parent_company": "Mitra Chem",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Michigan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV/ESS",
+    "source_url": "https://www.mitrachem.com/lfp",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Company page: 'US scale-up in Muskegon, MI', output scale 1 kg/day lab to 1,000 kg/day production (about 1 t/day; not an annual nameplate, so capacity null), under qualification with EV and ESS customers. Company news lists a USD 100M DOE selection (2024-09-20) and a multi-ton LFP CAM milestone (2024-02-12). Whether Muskegon is physically built/operating is not stated; status announced is conservative."
+  },
+  {
+   "action": "add",
+   "id": "redwood-materials-carson-city-united-states",
+   "fields": {
+    "asset_name": "Redwood Materials Carson City cathode production",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material (from recycled content)",
+    "asset_type": "CAM plant",
+    "operator": "Redwood Materials",
+    "parent_company": "Redwood Materials",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://en.wikipedia.org/wiki/Redwood_Materials",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Weak: Wikipedia says Redwood is headquartered in Carson City, Nevada and supplies anode copper foil and cathode active materials (S18); Redwood news headlines (2022-2023) cite Panasonic and Toyota sourcing cathode. Whether CAM is made at Carson City at commercial scale, its capacity, and any 2025-26 pause are NOT confirmed. Row kept so the asset is on the list; do not use for capacity."
+  },
+  {
+   "action": "add",
+   "id": "redwood-materials-charleston-united-states",
+   "fields": {
+    "asset_name": "Redwood Materials Charleston Battery Materials Campus",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material and copper foil",
+    "asset_type": "CAM plant",
+    "operator": "Redwood Materials",
+    "parent_company": "Redwood Materials",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "South Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://www.redwoodmaterials.com/news/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-14"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Announced Dec 2022 (headline, S19). Wikipedia extract says ground broken Jan 2024 on a USD 3.5bn South Carolina factory (not cited; could imply under_construction). Redwood news Nov 2025 headline refers to 'critical materials recovery' in South Carolina - cathode content and any pause/cancellation NOT confirmed. Verify before use."
+  },
+  {
+   "action": "add",
+   "id": "aleees-taiwan-lfp-taiwan",
+   "fields": {
+    "asset_name": "Aleees LFP CAM plant(s) (Taiwan)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Aleees (Advanced Lithium Electrochemistry)",
+    "parent_company": "Aleees",
+    "jv_partners": null,
+    "country": "Taiwan",
+    "region": "East Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV/ESS",
+    "source_url": "https://www.aleees.com/en/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Company site: production entirely in Taiwan; cumulative mass-production sales of LFP CAM nearly 30,000 t (lifetime total, not annual capacity, so capacity/production null). Plant locations and annual capacity not found. Taiwan HQ is outside CN/KR/JP so placed here."
+  }
+ ]
+}

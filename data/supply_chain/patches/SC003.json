@@ -1,0 +1,1685 @@
+{
+ "task": "SC003",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "And it owns the annual output of 70,000-80,000 tonnes of lithium concentrate per year at full capacity."
+  },
+  "S2": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "officially commenced production in November 2019, with an annual raw ore production capacity of 405,000 tonnes, equivalent to about 75,000 tonnes of lithium concentrate."
+  },
+  "S3": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Jinxin Mining secured the Mining License for 30 years for annual production capacity of 1 million tonnes."
+  },
+  "S3b": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the actual output in 2024 totaled 465,000 tonnes."
+  },
+  "S3c": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Dangba Township | Guocheng Mining (equity-held subsidiary Jinxin Mining) | 174,500 t/yr lithium concentrate (2025 summary) | Operating; 5,000 t/day concentrator expansion due H2 2025 (status as summarised by the fetch tool from the Mysteel table; exact table text not copied)"
+  },
+  "S4": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "And it will begin full-scale construction of concentrator facilities in 2025."
+  },
+  "S5": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "operations remain suspended due to previous corporate bankruptcy and equity transitions."
+  },
+  "S6": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Murong has obtained a mining license for 3 million tonnes of raw ore, with designed LCE capacity of 70,000 tonnes."
+  },
+  "S7": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "ranks as the world's second-largest and Asia's largest solid spodumene deposit."
+  },
+  "S7b": {
+   "url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+   "publisher": "Mysteel",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "currently in stable production phase."
+  },
+  "S8": {
+   "url": "https://news.metal.com/newscontent/103646712/[SMM-Analysis]-The-Lijiagou-lithium-mine-project-had-basically-reached-its-designed-capacity-by-the-end-of-August/",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the Lijiagou lithium mine project had basically reached its designed capacity by the end of August 2025."
+  },
+  "S9": {
+   "url": "https://news.metal.com/newscontent/103646712/[SMM-Analysis]-The-Lijiagou-lithium-mine-project-had-basically-reached-its-designed-capacity-by-the-end-of-August/",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with an annual production scale of 1.05 million mt of raw ore and about 180,000 mt of concentrate."
+  },
+  "S10": {
+   "url": "https://news.metal.com/newscontent/103646712/[SMM-Analysis]-The-Lijiagou-lithium-mine-project-had-basically-reached-its-designed-capacity-by-the-end-of-August/",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Yahua Group and Sichuan Energy Investment as the main development entities."
+  },
+  "S11": {
+   "url": "https://www.mysteel.net/news/5102123-flash-the-lijiagou-lithium-mine-has-reached-full-production-capacity-with-an-annual-output-of-180-000-tonnes-of-lithium-concentrate",
+   "publisher": "Mysteel",
+   "published": "2025-10-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "operating normally after trial production and commissioning phases"
+  },
+  "S11b": {
+   "url": "https://news.metal.com/newscontent/103646713/[SMM-Analysis:-Sichuan-Energy-Power:-Lijiagou-Lithium-Mine-Reaches-Design-Capacity,-Lithium-Salt-Projects-Commence-Production]/",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "successfully commenced trial feeding and produced its first batch of lithium concentrate in 2023."
+  },
+  "S12": {
+   "url": "https://news.metal.com/newscontent/103835148-análisis-de-smm-últimos-avances-de-la-mina-de-litio-murong",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed for a production scale of 3 million mt/year."
+  },
+  "S12b": {
+   "url": "https://news.metal.com/newscontent/103835148-análisis-de-smm-últimos-avances-de-la-mina-de-litio-murong",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "large-scale construction is expected to begin soon."
+  },
+  "S13": {
+   "url": "https://news.metal.com/newscontent/104138581-smm-analysis-dazhong-minings-jiada-mine-registers-lce-expansion",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the first mining area of Jiada has an MNR-approved mining capacity of 2.6 million tonnes per annum (Mtpa)"
+  },
+  "S14": {
+   "url": "https://news.metal.com/newscontent/104138581-smm-analysis-dazhong-minings-jiada-mine-registers-lce-expansion",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Jiada's mining permit yet to be granted."
+  },
+  "S15": {
+   "url": "https://www.mysteel.net/news/5121321-flash-dazhong-mining-2025-net-profit-hits-yuan-736-million-as-lithium-and-sulfuric-acid-businesses-gain-traction",
+   "publisher": "Mysteel",
+   "published": "2026-04-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "began selling run-of-mine ore as a byproduct from September 2025."
+  },
+  "S16": {
+   "url": "https://www.cls.cn/detail/2456593",
+   "publisher": "Cailianshe (CLS)",
+   "published": "2026-08-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "设计满产年碳酸锂产能约10万吨。"
+  },
+  "S17": {
+   "url": "https://www.cls.cn/detail/2456593",
+   "publisher": "Cailianshe (CLS)",
+   "published": "2026-08-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "采矿权有效期为2022年8月9日至2025年8月9日。"
+  },
+  "S18": {
+   "url": "https://finance.eastmoney.com/a/202608103836048320.html",
+   "publisher": "Eastmoney / Shujubao",
+   "published": "2026-08-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025年8月9日，公司在该矿采矿许可证到期后暂停了开采，至今已停产整整一年。"
+  },
+  "S18b": {
+   "url": "https://finance.eastmoney.com/a/202608103836048320.html",
+   "publisher": "Eastmoney / Shujubao",
+   "published": "2026-08-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "4500万吨/年陶瓷土（含锂）矿采矿项目"
+  },
+  "S19": {
+   "url": "https://cnevpost.com/2026/06/29/catl-final-permit-jianxiawo-lithium-mine/",
+   "publisher": "CnEVPost",
+   "published": "2026-06-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CATL's (HKEX: 3750) Jianxiawo lithium mine in Yichun, Jiangxi, has cleared the final hurdle to resume production."
+  },
+  "S20": {
+   "url": "https://wap.stockstar.com/detail/IG2026081500006905",
+   "publisher": "Securities Star (reprint of Economic Observer)",
+   "published": "2026-08-15",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "截至发稿，部分核心矿山仍处在储量核实、出让收益评估或评审上会阶段，相关复产批复未完全落地。"
+  },
+  "S21": {
+   "url": "https://news.metal.com/newscontent/102583659/China-to-remain-heavily-reliant-on-imported-lithium-ore-amid-falling-domestic-production",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Yichun tantalum-niobium mine (414) closed for about 20 days for maintenance."
+  },
+  "S22": {
+   "url": "https://news.metal.com/newscontent/102583659/China-to-remain-heavily-reliant-on-imported-lithium-ore-amid-falling-domestic-production",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Xinjiang Nonferrous Metal's Dahongliutan is ramping up, with output at about 5,000 mt monthly due to weather."
+  },
+  "S23": {
+   "url": "https://yicaiglobal.com/news/construction-starts-on-world-biggest-lithium-mining-extraction-hub-in-china-xinjiang-",
+   "publisher": "Yicai Global",
+   "published": "2023-02-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Together the two projects, once completed, are expected to output 600,000 of high-quality lithium concentrate each year."
+  },
+  "S24": {
+   "url": "https://wap.stockstar.com/detail/RB2026091200007538",
+   "publisher": "Securities Star (company investor-interaction reply, Yongxing Materials 002756)",
+   "published": "2026-09-12",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025年度化山矿开采规模为300万吨，碳酸锂销量为2.5万吨"
+  },
+  "S24b": {
+   "url": "https://wap.stockstar.com/detail/RB2026091200007538",
+   "publisher": "Securities Star (company investor-interaction reply, Yongxing Materials 002756)",
+   "published": "2026-09-12",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "化山矿本年度采矿量已接近年度生产目标"
+  },
+  "S25": {
+   "url": "https://www.nbd.com.cn/articles/2026-03-18/4297351",
+   "publisher": "National Business Daily",
+   "published": "2026-03-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年报显示，公司全年完成碳酸锂产量8808吨。"
+  },
+  "S26": {
+   "url": "https://www.nbd.com.cn/articles/2026-03-18/4297351",
+   "publisher": "National Business Daily",
+   "published": "2026-03-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司正基于察尔汗盐湖现有的产能基础，推进6000吨/年的提锂扩能项目，若项目顺利落地，察尔汗大本营的碳酸锂总产能将提升至1.6万吨。"
+  },
+  "S27": {
+   "url": "https://www.nbd.com.cn/articles/2026-03-18/4297351",
+   "publisher": "National Business Daily",
+   "published": "2026-03-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前项目主体厂房封闭已完成，预计2026年第三季度全面投产。"
+  },
+  "S28": {
+   "url": "https://www.chyxx.com/industry/1244011.html",
+   "publisher": "Zhiyan Consulting (chyxx)",
+   "published": "2025-11-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "藏格矿业全力推进麻米错盐湖5万吨/年碳酸锂项目，并规划后续5-8万吨产能"
+  },
+  "S29": {
+   "url": "https://www.mysteel.net/news/5092597-flash-zangge-minings-subsidiary-receives-a-notice-to-suspend-lithium-operations",
+   "publisher": "Mysteel",
+   "published": "2025-07-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has suspended production as required."
+  },
+  "S30": {
+   "url": "https://www.asianmetal.com/news/2242626/Zangge-Lithium-resumes-lithium-carbonate-production/1",
+   "publisher": "Asian Metal",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Asian Metal reported that the temporary production suspension lasted a total of 87 days, with production resuming on October 11, 2025. (search-result summary; page itself returned System Error)"
+  },
+  "S31": {
+   "url": "https://www.chyxx.com/industry/1235570.html",
+   "publisher": "Zhiyan Consulting (chyxx)",
+   "published": "2025-09-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2024年公司碳酸锂产量达到4万吨，较2023年增加0.39万吨，销售量达到4.16万吨，较2023年增加0.4万吨。"
+  },
+  "S32": {
+   "url": "https://news.metal.com/newscontent/103689825",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-12-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "40,000 mt lithium chemicals project was officially commissioned at the end of September this year, bringing the company's total lithium carbonate capacity to 80,000 mt."
+  },
+  "S33": {
+   "url": "https://news.metal.com/newscontent/103689825",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-12-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with a constructed capacity of 160,000 mt/year and a planned capacity of 220,000 mt/year."
+  },
+  "S34": {
+   "url": "https://news.metal.com/newscontent/103689825",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-12-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Zangge Mining's 50,000 mt/year lithium carbonate project commenced full-scale construction in Q3."
+  },
+  "S35": {
+   "url": "https://www.mysteel.net/news/5106140-flash-salt-lake-to-exceed-the-3-000-tonne-lithium-carbonate-production-plan",
+   "publisher": "Mysteel",
+   "published": "2025-12-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company's production plan for lithium carbonate this year is 3,000 tonnes"
+  },
+  "S36": {
+   "url": "https://caifuhao.eastmoney.com/news/20260609040347967751620",
+   "publisher": "Eastmoney Caifuhao (user-contributed brokerage commentary)",
+   "published": "2026-06-09",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025年盐湖股份锂产品生产4.65万吨，销售4.56万吨，销售收入是29.02亿元，碳酸锂销售单价是6.36万元，碳酸锂成本是3.06万元"
+  },
+  "S37": {
+   "url": "https://news.metal.com/newscontent/103436082/[Successful-commissioning-of-20000-mtyear-lithium-carbonate-project]",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-07-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the trial run commenced smoothly on June 10, and the first batch of products was officially rolled out on June 17"
+  },
+  "S38": {
+   "url": "https://news.metal.com/newscontent/103436082/[Successful-commissioning-of-20000-mtyear-lithium-carbonate-project]",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-07-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Qinghai Huixin, a subsidiary of China Salt Lake"
+  },
+  "S39": {
+   "url": "https://www.mysteel.net/news/5097150-flash-qinghai-salt-lake-industry-40-000-tonne-lithium-salt-project-to-undergo-trial-operation-by-the-end-of-sept",
+   "publisher": "Mysteel",
+   "published": "2025-09-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the company's 40,000-tonne-per-year lithium salt project has reached 71% overall progress."
+  },
+  "S40": {
+   "url": "https://mcn.solarbe.com/news/20250303/50000806.html",
+   "publisher": "Battery Industry Net (solarbe)",
+   "published": "2025-03-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2023年，青海锂业全线投运了1.5万吨电池级碳酸锂项目，公司碳酸锂产能由两年前的不到7000吨/年迅速提升至4.5万吨/年。"
+  },
+  "S41": {
+   "url": "https://news.metal.com/newscontent/103749155-smm-analysis-qinghai-salt-lake-lithium-extraction-achieves-major-breakthrough-overall-plant-recovery-rate-exceeds-90",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-01-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "20,000-tonne desalinated brine adsorption lithium extraction production line"
+  },
+  "S42": {
+   "url": "https://xueqiu.com/3785553888/314477232/346652619",
+   "publisher": "Xueqiu user post (forum; low reliability)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "东台吉乃尔盐湖: 产能2万t，183万吨LCE"
+  },
+  "S43": {
+   "url": "https://xueqiu.com/3785553888/314477232/346652619",
+   "publisher": "Xueqiu user post (forum; low reliability)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "一里坪盐湖: 产能1万t，资源量165万吨LCE"
+  },
+  "S44": {
+   "url": "https://xueqiu.com/3785553888/314477232/346652619",
+   "publisher": "Xueqiu user post (forum; low reliability)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "大柴旦盐湖: 产能1万t氯化锂"
+  },
+  "S45": {
+   "url": "https://xueqiu.com/3785553888/314477232/346652619",
+   "publisher": "Xueqiu user post (forum; low reliability)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "拉果错盐湖: 一期产能拟调整为2万吨/年碳酸锂"
+  },
+  "S46": {
+   "url": "https://www.cls.cn/detail/2156492",
+   "publisher": "Cailianshe (CLS)",
+   "published": "2025-09-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目设计年产电池级碳酸锂9600吨，工业级碳酸锂2400吨"
+  },
+  "S47": {
+   "url": "https://www.cls.cn/detail/2156492",
+   "publisher": "Cailianshe (CLS)",
+   "published": "2025-09-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "于2025年9月20日至24日顺利完成120小时的功能考核，标志着该项目正式投产。"
+  },
+  "S48": {
+   "url": "https://en.wikipedia.org/wiki/Jiajika_mine",
+   "publisher": "Wikipedia",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "located in Tagong township, Sichuan province, central China."
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "yongxing-materials-huashan-china",
+   "fields": {
+    "asset_name": "Huashan porcelain-stone (lepidolite) mine, Yifeng, Yichun",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lepidolite ore (lithium-bearing porcelain stone)",
+    "asset_type": "hard-rock mine",
+    "feedstock": "lepidolite",
+    "operator": "Yongxing Materials (Huaqiao Mining)",
+    "parent_company": "Yongxing Materials",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 3000000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": 3000000,
+    "production_unit": "t ore",
+    "production_year": 2025,
+    "production_norm": null,
+    "offtakers": "captive: Yongxing Materials lithium carbonate plant",
+    "end_market": "battery",
+    "source_url": "https://wap.stockstar.com/detail/RB2026091200007538",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-12"
+   },
+   "evidence": {
+    "status": [
+     "S24b"
+    ],
+    "installed_capacity": [
+     "S24"
+    ],
+    "production": [
+     "S24"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Company investor-interaction reply (2026-09-12): 2025 mining scale at Huashan 3 Mt (ore, taken as 2025 output and as installed/operating scale); lithium carbonate sales 25,000 t in 2025 (company-wide, carbonate sales not mine output; carbonate plant is a separate refining asset not in this task). Mine mineral-type change (porcelain stone to lithium) 'being actively advanced'; 2026 mining already near annual target, so treated as active. Reports (not opened) say licensed scale rose from 3 Mt to 9 Mt/yr with expansion 14% complete at H1-2025; capacity left null because the company reply does not confirm the 9 Mt figure. No LCE/ore-grade stated, so no norm. Baishuidong mine (same company): company says 'not producing' (see Gaps)."
+  },
+  {
+   "action": "add",
+   "id": "catl-jianxiawo-china",
+   "fields": {
+    "asset_name": "Jianxiawo (Zhenkouli-Jianxiawo) lepidolite mine, Yichun",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lepidolite ore (lithium-bearing ceramic clay)",
+    "asset_type": "hard-rock mine",
+    "feedstock": "lepidolite",
+    "operator": "Yichun Times New Energy Mining (CATL)",
+    "parent_company": "CATL",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 100000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/2456593",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-18"
+   },
+   "evidence": {
+    "status": [
+     "S18",
+     "S19"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Design full-production capacity about 100,000 t LCE/yr (CLS, 2026-08-18); capacity_ref_year is the publication-year fallback. Pre-halt ore scale 45 Mt/yr ceramic clay (S18b) cut to 30 Mt/yr in the 2026 EIA draft (per search-result text, not opened). Mining right expired 2025-08-09 (S17); mine halted since; reserve report approved end-Sept 2025; new licence valid 2025-11-28 to 2047-11-27 (search-result text); final safety permit reported 2026-06-29 (S19) but EIA still in public notice Aug 2026 (S18), restart not confirmed as of Aug 2026 -> status operational, project_state paused. Pre-halt output ~8-10% of national lithium output (CLS) / ~7-8 kt LCE per month (search-result text, not opened); no sourced annual production, so production null. Part of the eight Yichun mining rights required to file reserve reports in 2025 (S20 for the wider re-permitting)."
+  },
+  {
+   "action": "add",
+   "id": "yichun-tantalum-niobium-mine-414-china",
+   "fields": {
+    "asset_name": "Yichun tantalum-niobium mine (414 mine)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lepidolite ore",
+    "asset_type": "hard-rock mine",
+    "feedstock": "lepidolite",
+    "operator": "Yichun Tantalum-Niobium Mine (414)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "third-party Yichun lepidolite processors (reported)",
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102583659/China-to-remain-heavily-reliant-on-imported-lithium-ore-amid-falling-domestic-production",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Only a Jan-2024 SMM mention that the 414 mine closed for ~20 days for maintenance, i.e. operating in Dec 2023. No owner, capacity or output found in open pages (owner identity left null; the task brief associates it with Yongxing/Ganfeng but this was not confirmed). Current status after the 2025 Yichun permit review unknown. For context SMM reports domestic lepidolite mines produced 8,700 t LCE in Dec 2023 (national, not this mine)."
+  },
+  {
+   "action": "add",
+   "id": "chengxin-lithium-yelonggou-china",
+   "fields": {
+    "asset_name": "Yelonggou spodumene mine, Jinchuan County",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Jinchuan Aoyinuo Mining (Chengxin Lithium)",
+    "parent_company": "Chengxin Lithium",
+    "jv_partners": "Chengxin Lithium holds 75% of Jinchuan Aoyinuo Mining (per Mysteel summary)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2019,
+    "capacity": 405000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 405000,
+    "installed_as_of": "2025-07-23",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "capacity": [
+     "S2"
+    ],
+    "installed_capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "405,000 t/yr raw ore, about 75,000 t/yr lithium concentrate (grade not stated; no LCE norm). Production began Nov 2019. A 2023 Mysteel article also gives 405,000 t/yr. ref year = publication-year fallback. No sourced annual output found."
+  },
+  {
+   "action": "add",
+   "id": "rongda-lithium-jiajika-134-china",
+   "fields": {
+    "asset_name": "Jiajika No.134 vein spodumene mine, Kangding/Tagong",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Rongda Lithium",
+    "parent_company": "Rongy (Sichuan Rongy Mining / Rongda Lithium parent)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 30.296,
+    "longitude": 101.302,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 80000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S7b"
+    ],
+    "capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Mysteel: 70,000-80,000 t/yr lithium concentrate at full capacity (upper end recorded; grade not stated) and 1.05 Mt/yr open-pit mining capacity (the latter from the same article, not recorded as capacity). Described as in stable production. Coordinates are the Wikipedia point for Jiajika mine (Tagong township), geo_precision town; the Wikipedia quote S48 places the mine at Tagong. Other Jiajika-area operators (Fusheng, Yajiang) not covered (see Gaps). No sourced annual production found; the Rongda-Rongy company reports on cninfo were not accessible."
+  },
+  {
+   "action": "add",
+   "id": "sichuan-energy-investment-lijiagou-china",
+   "fields": {
+    "asset_name": "Lijiagou spodumene mine, Jinchuan County",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Sichuan Energy Investment Lithium Technology (Dexin Mining)",
+    "parent_company": "Sichuan Energy Investment Group (Sichuan New Energy Power)",
+    "jv_partners": "Yahua Group (percentages not found)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 180000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 180000,
+    "installed_as_of": "2025-08-31",
+    "capacity_by_year_json": {
+     "2025": 180000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Yahua Group / Sichuan Energy Investment lithium salt plants (integrated)",
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103646712/[SMM-Analysis]-The-Lijiagou-lithium-mine-project-had-basically-reached-its-designed-capacity-by-the-end-of-August/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-11-29"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S9"
+    ],
+    "installed_capacity": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "1.05 Mt/yr ROM ore -> ~180,000 t/yr concentrate (design 4,200 t ore/day, ~720 t concentrate/day; ore grade 0.62% Li2O per Mysteel; concentrate grade not stated, no LCE norm). Trial feed and first concentrate 2023 (S11b); design capacity basically reached end Aug 2025 (S8); company announced full production 2025-10-20 (S11, Mysteel 2025-10-24). H1-2025 sales of 48,600 t concentrate reported by Mysteel (summary, not verbatim-quoted; not used as production). Mysteel July 2025 table lists safety licence Oct 2024; construction began 2018. Capacity_by_year has a single step (2025) because no earlier ramp step is sourced. Earlier (2023) plan numbers differed (printed as 105 t/yr, an obvious typo) - ignored."
+  },
+  {
+   "action": "add",
+   "id": "guocheng-mining-dangba-china",
+   "fields": {
+    "asset_name": "Dangba spodumene mine, Maerkang (Barkam)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Jinxin Mining (Guocheng Mining)",
+    "parent_company": "Guocheng Mining",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 1000000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 465000,
+    "production_unit": "t ore",
+    "production_year": 2024,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S3c"
+    ],
+    "capacity": [
+     "S3"
+    ],
+    "production": [
+     "S3b"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Mining licence for 1 Mt/yr for 30 years (licence dated 2024-01-03 per Mysteel summary). Mysteel quote: actual 2024 output 465,000 t; the unit is not stated in the quoted sentence - recorded as t ore because it exceeds the 174,500 t/yr concentrate figure in the same table (AMBIGUITY: could be concentrate or ore; verify against Guocheng/Dazhong filings). Status 'operating' rests on the fetch-tool summary of the Mysteel table (reported tier). 5,000 t/day concentrator expansion due H2 2025. SMM (2025-03-06) reports the MNR filed 440,000 t of added Li2O resources, total 1.1207 Mt Li2O. Location: Maerkang City, Aba Prefecture (not recorded as coordinates)."
+  },
+  {
+   "action": "add",
+   "id": "tianqi-lithium-cuola-china",
+   "fields": {
+    "asset_name": "Cuola spodumene mine, Sichuan",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Tianqi Lithium",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Mysteel (July 2025): mining licence 2012, preliminary work resumed 2022, concentrator work resumed Aug 2024, full-scale concentrator construction to begin 2025. No capacity stated in the page; null. Status after July 2025 not checked."
+  },
+  {
+   "action": "add",
+   "id": "catl-dechelongba-snowy-mining-china",
+   "fields": {
+    "asset_name": "Dechelongba (Snowy Mining Development) lithium project, Sichuan",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Snowy Mining Development (CATL)",
+    "parent_company": "CATL",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5093210-tracking-of-chinese-lithium-mine-projects-sichuan-province",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Mysteel July 2025: operations suspended after prior corporate bankruptcy; CATL became sole shareholder of Snowy Mining in March 2023. No capacity or development plan stated; kept as announced/paused so it is visible but carries no capacity."
+  },
+  {
+   "action": "add",
+   "id": "dazhong-mining-jiada-china",
+   "fields": {
+    "asset_name": "Jiada spodumene mine, Sichuan",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene ore / concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Sichuan Dazhong New Energy / Dazhong Mining",
+    "parent_company": "Dazhong Mining",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 2600000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 50000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104138581-smm-analysis-dazhong-minings-jiada-mine-registers-lce-expansion",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-29"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "S15"
+    ],
+    "capacity": [
+     "S13"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "First mining area has MNR-approved capacity 2.6 Mtpa ore, roughly 50,000 t/yr LCE at full run-rate (SMM's own estimate; used as norm). Mining permit not yet granted as of 2026-09-29 (S14). Run-of-mine ore sold as by-product from Sept 2025 during tunnel/shield construction (S15; no tonnage disclosed) so status kept under_construction. Filed resources raised from 1.4842 to 2.531 Mt LCE. ref year = publication-year fallback. Mysteel July 2025 table gives Li2O reserves 601,000 t (43.4 Mt ore) at an earlier date. Phase I vehicle Sichuan Dazhong New Energy (registered 2026-06-29)."
+  },
+  {
+   "action": "add",
+   "id": "chengxin-lithium-murong-china",
+   "fields": {
+    "asset_name": "Murong (Muluo) spodumene mine, Yajiang County",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Chengxin Lithium",
+    "parent_company": "Chengxin Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 3000000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 70000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103835148-análisis-de-smm-últimos-avances-de-la-mina-de-litio-murong",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S12b"
+    ],
+    "capacity": [
+     "S12",
+     "S6"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "3 Mt/yr ore design scale; Mysteel (2025-07-23) gives design capacity 70,000 t LCE (S6; used as norm). SMM 2026-03-31 (Chengxin investor reply): pre-construction preparations largely complete, large-scale construction 'expected to begin soon'; mining licence to 2048-09-05; resource 61.095 Mt at 1.62%. Mysteel July 2025 called it 'under construction' - SMM's later wording used (announced). ref year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "xinjiang-nonferrous-dahongliutan-china",
+   "fields": {
+    "asset_name": "Dahongliutan lithium mine, Hotan, Xinjiang",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Xinjiang Nonferrous Metal Industry (Group)",
+    "parent_company": "Xinjiang Nonferrous Metal Industry (Group)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Xinjiang",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": 2023,
+    "capacity": 600000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "captive: Xinjiang Nonferrous lithium salt plants",
+    "end_market": "battery",
+    "source_url": "https://yicaiglobal.com/news/construction-starts-on-world-biggest-lithium-mining-extraction-hub-in-china-xinjiang-",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-02-27"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Yicai (2023-02-27): mining project (3 Mt ore/yr) plus a 100,000 t/yr lithium compound facility in Luofu county together expected to output 600,000 t high-quality lithium concentrate each year when complete; this is a combined plan figure, so capacity is low-confidence and the concentrate grade is not stated. SMM Jan 2024: mine ramping up at about 5,000 t per month (unit not stated; weather-limited). SMM Jun 2024: first-phase 30,000 t/yr lithium carbonate line completed in 323 days and qualified product made (a refining asset, not added here). start_year 2023 is an inference from the 2023 construction news and the Jan-2024 ramp-up statement; the Jan-2024 SMM text says 'ramping up' so first output is 2023 or Jan 2024. Mar-2026 Asian Metal item (page not opened) says Tianyi Mining plans a 154,300 t/yr concentrate plant fed from the Huoshaoyun-Dahongliutan base. No annual production found."
+  },
+  {
+   "action": "add",
+   "id": "qinghai-salt-lake-industry-lanke-qarhan-china",
+   "fields": {
+    "asset_name": "Qarhan (Chaerhan) salt lake - Lanke Lithium carbonate operation",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Salt Lake Industry (Lanke Lithium)",
+    "parent_company": "China Salt Lake Group (Minmetals)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2024,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 40000,
+    "production_unit": "t Li2CO3",
+    "production_year": 2024,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.chyxx.com/industry/1235570.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-11"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ],
+    "capacity": [
+     "S32"
+    ],
+    "production": [
+     "S31"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Capacity 40,000 t Li2CO3 is DERIVED: SMM says the new 40,000 t project brings the company's total lithium carbonate capacity to 80,000 t (S32), hence the pre-existing operation is 40,000 t; no source states the Lanke plant capacity directly (a broker note cited in search text gave 30,000 t nameplate with 40,000 t output after debottlenecking). 2024 company carbonate output 40,000 t, sales 41,600 t (S31). 2025 company lithium-product output 46,500 t, sales 45,600 t (S36; user-contributed Eastmoney commentary, product basis not specified as carbonate) - covers both the Lanke plant and the new 40 kt project, so recorded in notes only to avoid double-counting. Plan for 2025 was 43,000 t Li2CO3 (SMM 2025-12-25). Operator is Qinghai Salt Lake Industry (000792) whose Lanke subsidiary runs the Qarhan brine plant. Qinghai provincial constructed salt-lake lithium capacity 160,000 t/yr, planned 220,000 t/yr (S33) - a benchmark, not additive here."
+  },
+  {
+   "action": "add",
+   "id": "qinghai-salt-lake-industry-40kt-lithium-salt-china",
+   "fields": {
+    "asset_name": "Qinghai Salt Lake 40,000 t/yr basic lithium salt integrated project, Golmud",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Salt Lake Industry",
+    "parent_company": "China Salt Lake Group (Minmetals)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103689825",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-25"
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ],
+    "capacity": [
+     "S32"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Commissioned end-Sept 2025 (S32); 71% complete at 2025-08-29 (S39). Mysteel 2025-12-04: operating stably, daily output 60-70 t, plan for 2025 only 3,000 t carbonate (S35) - so installed_capacity left null (ramping). Search-result text (xinhua/Shanghai Securities News, 2025-09/10, not quoted) describes it as 4+2 project, 40,000 t integrated lithium salt (originally 20,000 t carbonate + 20,000 t lithium chloride) in Golmud, with a separate 20,000 t carbonate project (see Qinghai Huixin row). Treated as brine-site carbonate (D-103); the chloride component is not separated. Company-wide 2025 lithium product output 46,500 t is recorded under the Lanke row notes."
+  },
+  {
+   "action": "add",
+   "id": "zangge-mining-chaerhan-china",
+   "fields": {
+    "asset_name": "Chaerhan (Qarhan) salt lake - Zangge Lithium",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Golmud Zangge Lithium (Zangge Mining)",
+    "parent_company": "Zangge Mining",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 16000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 10000,
+    "installed_as_of": "2026-03-18",
+    "capacity_by_year_json": null,
+    "production": 8808,
+    "production_unit": "t Li2CO3",
+    "production_year": 2025,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.nbd.com.cn/articles/2026-03-18/4297351",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-18"
+   },
+   "evidence": {
+    "status": [
+     "S29",
+     "S30"
+    ],
+    "capacity": [
+     "S26"
+    ],
+    "installed_capacity": [
+     "S26"
+    ],
+    "production": [
+     "S25"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Company 2025 annual report: Li2CO3 output 8,808 t (S25). Capacity: 6,000 t/yr expansion would lift Chaerhan total to 16,000 t (S26) -> existing/installed 10,000 t is DERIVED (16,000-6,000); capacity 16,000 is the full plan (ref year = publication-year fallback, expansion date not stated). Production halted by the Qinghai regulators 2025-07-16/17 over the mining licence (S29); resumed 2025-10-11 after 87 days (S30, reported tier, search-result text). 2025 target 11,000 t (S29/Mysteel). Mining right was to expire 2025-08-09 (renewal). Project Blue (search text) quotes 10 ktpa Li2CO3; metals-wire (search text) quotes 20,000 t rating - the 20,000 t figure conflicts and is not used."
+  },
+  {
+   "action": "add",
+   "id": "zangge-mining-mamicuo-china",
+   "fields": {
+    "asset_name": "Mamicuo (Mami Co) salt lake lithium project, Tibet",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Zangge Mining",
+    "parent_company": "Zangge Mining",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tibet",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.nbd.com.cn/articles/2026-03-18/4297351",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-18"
+   },
+   "evidence": {
+    "status": [
+     "S27",
+     "S34"
+    ],
+    "capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "50,000 t/yr Li2CO3 project with a further 50-80 kt planned later (S28, 2025-11-28); full-scale construction began Q3 2025 (S34); NBD 2026-03-18: main plant enclosed, full commissioning expected Q3 2026, phase 1 to add about 5,000-6,000 t of attributable output (S27). No evidence found of actual commissioning by 2026-11-27 - status not re-checked. Phase-1 size is not stated directly (the 5-6 kt is Zangge's equity share). ref year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "citic-guoan-qinghai-lithium-west-taijinaier-china",
+   "fields": {
+    "asset_name": "West Taijinaier salt lake - Qinghai Lithium Industry",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai CITIC Guoan Lithium Industry (Qinghai Lithium)",
+    "parent_company": "CITIC Guoan Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 45000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 45000,
+    "installed_as_of": "2023-12-31",
+    "capacity_by_year_json": {
+     "2023": 45000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://mcn.solarbe.com/news/20250303/50000806.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-03"
+   },
+   "evidence": {
+    "status": [
+     "S40",
+     "S41"
+    ],
+    "capacity": [
+     "S40"
+    ],
+    "installed_capacity": [
+     "S40"
+    ],
+    "capacity_by_year_json": [
+     "S40"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Battery Industry Net (2025-03-03): after the 15,000 t battery-grade carbonate project fully started in 2023, carbonate capacity rose from under 7,000 t/yr two years earlier to 45,000 t/yr. The page does not say 'West Taijinaier' - the link to the West Taijinaier (Xitai) brine comes from its reference to the Xitai mother-liquor recovery project and from the task brief; the xueqiu list (reported) also gives 45,000 t for West Taijinaier. A 20,000 t desalinated-brine adsorption line began operation 2026-01-19 and a 6,000 t demonstration line for mother-liquor extraction existed in 2025 (S41) - whether these add to or are part of the 45,000 t is not stated, so not added. No production figure found. A 2023-era 'less than 7,000 t' figure is not recorded as a step (inexact)."
+  },
+  {
+   "action": "add",
+   "id": "china-salt-lake-qinghai-huixin-china",
+   "fields": {
+    "asset_name": "Qinghai Huixin 20,000 t/yr lithium carbonate project (China Salt Lake / Minmetals)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Huixin (China Salt Lake Group)",
+    "parent_company": "China Minmetals (China Salt Lake Group)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-06-17",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103436082/[Successful-commissioning-of-20000-mtyear-lithium-carbonate-project]",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-20"
+   },
+   "evidence": {
+    "status": [
+     "S37"
+    ],
+    "capacity": [
+     "S37",
+     "S38"
+    ],
+    "installed_capacity": [
+     "S37"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "SMM: trial run began 2025-06-10, first product 2025-06-17, project (yuan 2.29 bn per SMM English piece) fully commissioned 13 days early; owner Qinghai Huixin, subsidiary of China Salt Lake. The brine lake/plant location is not stated in the pages opened. POSSIBLE OVERLAP: the Yiliping row below (10 kt, reported) may be the same or a neighbouring operation of China Salt Lake / Minmetals Salt Lake - lead to reconcile. installed_capacity 20,000 equals nameplate at commissioning, no ramp data."
+  },
+  {
+   "action": "add",
+   "id": "minmetals-salt-lake-yiliping-china",
+   "fields": {
+    "asset_name": "Yiliping salt lake lithium carbonate (Minmetals Salt Lake)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Minmetals Salt Lake (China Salt Lake Group) - per task brief, not verified",
+    "parent_company": "China Minmetals",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://xueqiu.com/3785553888/314477232/346652619",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S43"
+    ],
+    "capacity": [
+     "S43"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Reported tier only: forum post lists Yiliping 'capacity 1 万 t' (carbonate assumed). Operator is from the task brief. May overlap with the Qinghai Huixin 20,000 t row (unclear whether Huixin is at Yiliping). Needs a company/official source."
+  },
+  {
+   "action": "add",
+   "id": "east-taijinaier-brine-lithium-china",
+   "fields": {
+    "asset_name": "East Taijinaier salt lake lithium carbonate operation(s)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Hengxinrong Lithium and others - per task brief, not verified",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://xueqiu.com/3785553888/314477232/346652619",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S42"
+    ],
+    "capacity": [
+     "S42"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Reported tier only: forum post lists East Taijinaier 'capacity 2 万 t'. This is a lake-level aggregate (may be several operators); the single row is a placeholder to be split by operator once company sources are found. Operator not confirmed in any opened page."
+  },
+  {
+   "action": "add",
+   "id": "dachaidan-salt-lake-lithium-chloride-china",
+   "fields": {
+    "asset_name": "Da Qaidam (Dachaidan) salt lake lithium chloride operation",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium chloride (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": null,
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t LiCl",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://xueqiu.com/3785553888/314477232/346652619",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S44"
+    ],
+    "capacity": [
+     "S44"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "Reported tier only: forum post lists Da Qaidam 'capacity 1 万 t lithium chloride'. Operator unknown (not in any opened source). Placeholder; needs verification."
+  },
+  {
+   "action": "add",
+   "id": "tibet-mining-zabuye-china",
+   "fields": {
+    "asset_name": "Zabuye salt lake lithium carbonate project, Tibet",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Tibet Mining (Zabuye Lithium)",
+    "parent_company": "Tibet Mining (000762.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tibet",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 12000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/2156492",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-25"
+   },
+   "evidence": {
+    "status": [
+     "S47"
+    ],
+    "capacity": [
+     "S46"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Design: 9,600 t battery-grade + 2,400 t industrial-grade Li2CO3 per year (sum 12,000 t, headline calls it a 10,000 t line); 120-hour function test 2025-09-20 to 24, declared in production 2025-09-25 (S47). SMM 2024-06-30 said the line entered trial production on 2024-06-30. Tibet Mining said in Jan 2026 it is ramping up the Zabuye phase-2 carbonate project (search text, not opened). Any earlier small-scale Zabuye carbonate production is not covered. No annual production found; installed null (ramping)."
+  },
+  {
+   "action": "add",
+   "id": "zijin-mining-lagocuo-china",
+   "fields": {
+    "asset_name": "Lagocuo (Lakkor Tso) salt lake lithium project, Tibet",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Zijin Mining",
+    "parent_company": "Zijin Mining",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tibet",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://xueqiu.com/3785553888/314477232/346652619",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S45"
+    ],
+    "capacity": [
+     "S45"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Reported tier only: forum post says phase 1 'proposed to be adjusted to 20,000 t/yr carbonate'. SMM 2025-12-25 names Zijin's Lakkor Tso project among Qinghai-Tibet projects without capacity. Construction/commissioning status not confirmed in any opened source, hence announced; the operator (Zijin) is from SMM naming Zijin's Lakkor Tso project. Needs Zijin Mining filings."
+  }
+ ]
+}

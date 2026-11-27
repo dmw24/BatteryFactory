@@ -1,0 +1,1224 @@
+{
+ "task": "SC012",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.electrive.com/2025/12/01/ecopro-bm-starts-cathode-material-production-in-hungary",
+   "publisher": "electrive.com",
+   "published": "2025-12-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "EcoPro BM has begun operations at its cathode material plant in Debrecen, Hungary. ... it will initially produce only 54,000 tonnes of cathode materials for around 600,000 electric vehicles per year",
+   "tier": "reported",
+   "snippet": "EcoPro BM has begun operations at its cathode material plant in Debrecen, Hungary. ... it will initially produce only 54,000 tonnes of cathode materials for around 600,000 electric vehicles per year",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S2": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20251126/ecopro-to-launch-high-voltage-mid-nickel-cathodes-production",
+   "publisher": "The Korea Times",
+   "published": "2025-11-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "currently operates three production lines with a total annual capacity of 54,000 tons"
+  },
+  "S3": {
+   "url": "https://kbmaeil.com/article/20251130500109",
+   "publisher": "kbmaeil.com",
+   "published": "2025-11-30",
+   "accessed": "2026-11-27",
+   "language": "ko",
+   "quote": "초기 양극재 생산능력(CAPA)은 연 5만4000t, 전기차 약 60만대 분량이며 고객 수요에 따라 10만8000t까지 단계적 증설을 추진한다."
+  },
+  "S4": {
+   "url": "https://view.asiae.co.kr/en/article/2024022314145924543",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2024-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Combined with 150,000 tons in Pohang, EcoPro's annual cathode material production capacity reached 180,000 tons as of 2023. ... EcoPro currently operates five cathode material plants in Ochang alone, producing 30,000 tons of cathode materials annually.",
+   "tier": "reported",
+   "snippet": "Combined with 150,000 tons in Pohang, EcoPro's annual cathode material production capacity reached 180,000 tons as of 2023. ... EcoPro currently operates five cathode material plants in Ochang alone, producing 30,000 tons of cathode materials annually.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S5": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20221021/ecopro-bm-samsung-sdi-jv-completes-construction-of-new-cathode-plant-in-pohang",
+   "publisher": "The Korea Times",
+   "published": "2022-10-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "touts an annual production capacity of 54,000 tons"
+  },
+  "S6": {
+   "url": "https://www.poscofuturem.com/en/pr/view.do?num=683",
+   "publisher": "POSCO Future M (press release)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a 30,000-ton-capacity joint cathode production plant in Quebec, Canada with General Motors (GM)"
+  },
+  "S7": {
+   "url": "https://www.kedglobal.com/newsView/ked202304240016",
+   "publisher": "Korea Economic Daily Global (KED)",
+   "published": "2023-04-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "90,000 tons from the Gwangyang plant in South Jeolla Province ... 10,000 tons from the Gumi plant in North Gyeongsang Province ... 5,000 tons from a factory in Zhejiang Province, China"
+  },
+  "S8": {
+   "url": "https://www.segye.com/newsView/20230424514204",
+   "publisher": "Segye Ilbo",
+   "published": "2023-04-24",
+   "accessed": "2026-11-27",
+   "language": "ko",
+   "quote": "현재 생산능력은 광양공장과 구미공장(1만t), 중국 저장성 절강포화 공장(5000t)을 더해 10만5000t이다."
+  },
+  "S9": {
+   "url": "https://www.koreajoongangdaily.com/business/posco-future-m-bets-even-bigger-on-highdensity-batteries/10680852",
+   "publisher": "Korea JoongAng Daily",
+   "published": "2023-04-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a total of 106,000 tons of cathode production ... a 30,000-ton cathode plant in Quebec, Canada ... another 30,000-ton plant in Zhejiang, China"
+  },
+  "S10": {
+   "url": "https://view.asiae.co.kr/en/article/2023072508550105584",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2023-07-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the world's largest single-plant high-nickel cathode material plant with an annual capacity of 90,000 tons."
+  },
+  "S11": {
+   "url": "https://newsroom.posco.com/en/posco-future-m-holds-a-completion-ceremony-for-the-gwangyang-precursor-plant/",
+   "publisher": "POSCO Newsroom",
+   "published": "2025-06-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "high-nickel NCA single-crystal cathode material plant with an annual capacity of 52,500 tons"
+  },
+  "S12": {
+   "url": "https://newsroom.posco.com/kr/%ED%8F%AC%EC%8A%A4%EC%BD%94%ED%93%A8%EC%B2%98%EC%97%A0-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%8F%85%EB%A6%BD-%EC%96%91%EA%B7%B9%EC%9E%AC-%EB%AF%B8%EA%B5%AD%E5%90%91-%EC%B2%AB-%EC%B6%9C%ED%95%98/",
+   "publisher": "POSCO Newsroom (KR)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "ko",
+   "quote": "7월26일에 초도 출하한 양극재는 ... 포항 양극재공장에서도 생산을 확대해 나간다는 계획이다"
+  },
+  "S13": {
+   "url": "https://view.asiae.co.kr/en/article/2025121609370049265",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2025-12-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "dedicated LFP cathode material factory in the Yeongilman 4 General Industrial Complex in Pohang; board approval 15 Dec 2025, construction 2026, mass production 2H 2027, maximum annual capacity 50,000 tons; via CNP New Material Technology, JV with CNGR (page opened; capacity sentence paraphrased, not copied verbatim)"
+  },
+  "S14": {
+   "url": "https://www.electrive.com/2025/10/17/gm-and-posco-halt-expansion-of-canadian-cathode-material-plant",
+   "publisher": "electrive.com",
+   "published": "2025-10-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The annual capacity of 30,000 tonnes was intended to supply the Ultium Cells battery plants."
+  },
+  "S15": {
+   "url": "https://www.koreaherald.com/article/10597156",
+   "publisher": "The Korea Herald",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Posco Future M cathode plant in Quebec via Ultium CAM: Posco Future M 85 percent, GM 15 percent; phase 1 to start late October 2026; 20,000 tons of high-nickel cathode per year, all to Ultium Cells; phase 2 to raise capacity to 33,000 tons cathode and 45,000 tons precursor with no confirmed timeline (page opened; figures paraphrased, not verbatim)"
+  },
+  "S16": {
+   "url": "https://www.electrive.com/2023/08/18/ford-sk-on-and-ecoprobm-build-cathode-factory-in-canada/",
+   "publisher": "electrive.com",
+   "published": "2023-08-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "annual capacity of 45,000 tonnes of CAM/year"
+  },
+  "S17": {
+   "url": "https://www.koreaherald.com/article/3456876",
+   "publisher": "The Korea Herald",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "EcoPro BM / SK On / Ford cathode plant in Becancour, Quebec: groundbreaking 17 Aug 2023, original start target 1H 2026 pushed to 2027; paused April 2024 and resumed late May; per La Presse standstill since 5 Aug (2024) because of a redesign (page opened; paraphrased, not verbatim)"
+  },
+  "S18": {
+   "url": "https://dealsite.co.kr/articles/131022",
+   "publisher": "dealsite.co.kr",
+   "published": "2024-11-07",
+   "accessed": "2026-11-27",
+   "language": "ko",
+   "quote": "포항 5만4000톤 규모 CAM9 공장"
+  },
+  "S19": {
+   "url": "https://view.asiae.co.kr/en/article/2023071316345091678",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2023-07-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "annual production capacity of 710,000 tons of cathode materials"
+  },
+  "S20": {
+   "url": "https://www.electrive.com/2023/12/20/lg-chem-commences-construction-of-mega-cam-factory-in-tennessee/",
+   "publisher": "electrive.com",
+   "published": "2023-12-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "set the annual capacity at 60,000 tonnes instead of 120,000"
+  },
+  "S21": {
+   "url": "https://www.electrive.com/2025/09/10/toyota-tsusho-acquires-decisive-stake-in-lg-chem-cathode-plant-in-south-korea/",
+   "publisher": "electrive.com",
+   "published": "2025-09-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "cathode material plant in Gumi, South Korea",
+   "tier": "reported",
+   "snippet": "cathode material plant in Gumi, South Korea",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S22": {
+   "url": "https://www.electrive.com/2023/06/29/lg-chem-mass-produces-single-crystal-cathode-materials/",
+   "publisher": "electrive.com",
+   "published": "2023-06-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a production capacity of 20,000 tonnes per year"
+  },
+  "S23": {
+   "url": "https://www.electrive.com/2021/07/06/sumitomo-to-invest-%c2%a547-billion-in-cathode-material-production/",
+   "publisher": "electrive.com",
+   "published": "2021-07-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from about 5,000 tonnes to around 7,000 tonnes per month in 2025"
+  },
+  "S24": {
+   "url": "https://www.smm.co.jp/en/ir/library/integrated_report/pdf/2026/2026_All_EN.pdf?261030",
+   "publisher": "Sumitomo Metal Mining (Integrated Report 2026, p.43)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Line No. 1 at the Niihama Plant manufactured NCA cathode materials as planned, while Line No. 2 began conducting trials in the second half of FY2025",
+   "tier": "reported",
+   "snippet": "Line No. 1 at the Niihama Plant manufactured NCA cathode materials as planned, while Line No. 2 began conducting trials in the second half of FY2025",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S25": {
+   "url": "https://view.asiae.co.kr/en/article/2026091809213284514",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2026-09-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production capacity will be increased to 60,000 tons per year by the first half of 2027."
+  },
+  "S26": {
+   "url": "https://www.mt.co.kr/en/industry/2026/09/08/2026090814234089308",
+   "publisher": "Money Today (mt.co.kr)",
+   "published": "2026-09-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "current production capacity of 30,000 tons will increase to 60,000 tons"
+  },
+  "S27": {
+   "url": "https://view.asiae.co.kr/en/article/2026110516231354137",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2026-11-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the first plant outside China to establish a commercial production system for cathode materials for LFP batteries"
+  },
+  "S28": {
+   "url": "https://view.asiae.co.kr/en/article/2025052911003197092",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2025-05-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "L&F Guji Plant 3 produces 30 tons per day per single production line."
+  },
+  "S29": {
+   "url": "https://www.electrive.com/2020/06/03/samsung-sdi-ecopro-bm-form-jv/",
+   "publisher": "electrive.com",
+   "published": "2020-06-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Construction of a factory in the city of Pohang will start this year."
+  },
+  "S30": {
+   "url": "https://www.nichia.co.jp/en/product/battery.html",
+   "publisher": "Nichia Corporation",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nichia's cathode materials for Lithium-ion batteries are widely used for secondary batteries in consumer products"
+  },
+  "S31": {
+   "url": "https://ja.wikipedia.org/wiki/日亜化学工業",
+   "publisher": "Wikipedia (ja), secondary source",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "ja",
+   "quote": "蛍光体、LED、電池材料、医薬品原材料、蒸着材料・薄膜材料を製造"
+  },
+  "S32": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20260824/ecopro-bm-begins-overhaul-of-hungary-plant-to-target-european-ev-market",
+   "publisher": "The Korea Times",
+   "published": "2026-08-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "three production lines have combined annual capacity of 54,000 tons"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "ecopro-bm-debrecen-hungary",
+   "fields": {
+    "asset_name": "EcoPro BM Debrecen CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCA/NCM cathode active material",
+    "asset_type": "CAM plant",
+    "feedstock": "pCAM, lithium hydroxide",
+    "operator": "EcoPro BM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Hajdu-Bihar (Debrecen)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": 2021,
+    "start_year": 2026,
+    "capacity": 54000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 54000,
+    "installed_as_of": "2026-08-24",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "Samsung SDI (reported elsewhere, not confirmed here)",
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2025/12/01/ecopro-bm-starts-cathode-material-production-in-hungary",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-01"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1",
+     "S3"
+    ],
+    "installed_capacity": [
+     "S2",
+     "S32"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "54,000 t/yr = three lines, started Nov-Dec 2025 (electrive) with commercial ramp in 2026 (start_year 2026 per Korea Herald/Korea Times coverage; the sources differ on commercial start timing). Further 54,000 t (to 108,000 t, 'three additional lines') is demand-contingent and undated (S3 'depending on customer demand') so excluded from capacity per undated-aspiration rule; site land could host 12 lines (200 kt) per dealsite 2024-11-07 (not used). Coordinates not given in sources. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-bm-ochang-south-korea",
+   "fields": {
+    "asset_name": "EcoPro BM Ochang CAM plants (5 plants)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCA/NCM cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "EcoPro BM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Chungcheong (Cheongju, Ochang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": 30000,
+    "installed_as_of": "2024-02-23",
+    "end_market": "EV",
+    "source_url": "https://view.asiae.co.kr/en/article/2024022314145924543",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-02-23"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S4"
+    ],
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Five plants at Ochang aggregated into one row (source gives only the combined 30,000 t/yr). capacity_ref_year 2023 from the same article's 'as of 2023' total; publication Feb 2024. Per-plant split not found. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-bm-pohang-cam-other-south-korea",
+   "fields": {
+    "asset_name": "EcoPro BM Pohang CAM plants (excl. CAM7 JV and CAM9) - residual",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCA/NCM cathode active material",
+    "asset_type": "CAM plants (aggregate)",
+    "operator": "EcoPro BM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 96000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://view.asiae.co.kr/en/article/2024022314145924543",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-02-23"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S4",
+     "S5"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "DERIVED value: 150,000 t Pohang total as of 2023 (S4) minus 54,000 t CAM7 (S5; EcoPro EM JV row) = 96,000 t. Assumes the 150,000 t figure includes the JV CAM7 plant (a 2020 article describes the 150 -> 180 kt target as 'including the JV' but this is not re-confirmed). If CAM7 is excluded from the 150 kt, capacity here is 150,000. Per-plant (CAM1-6, CAM8) capacities not found in open sources. 2026 reports of ~160 kt Pohang at end-2025 and ~240 kt total (a broker research note via search snippet only) were not opened and are not used."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-em-pohang-cam7-south-korea",
+   "fields": {
+    "asset_name": "EcoPro EM Pohang CAM7",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "EcoPro EM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": "Samsung SDI",
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": 2020,
+    "start_year": 2023,
+    "capacity": 54000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.koreatimes.co.kr/business/companies/20221021/ecopro-bm-samsung-sdi-jv-completes-construction-of-new-cathode-plant-in-pohang",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-10-21"
+   },
+   "evidence": {
+    "status": [
+     "S5",
+     "S29"
+    ],
+    "capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "EcoPro BM + Samsung SDI JV (EcoPro EM; electrive 2020 text gives 60/40 EcoPro BM/Samsung SDI but this was not in a copied quote). Construction completion announced 21 Oct 2022, operation planned from Q1 2023 (per the Korea Times summary); no later article confirming commercial output was opened, so status 'operational' rests on the 2023 aggregate in S4. Capacity ref year 2022 = publication year."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-bm-pohang-cam9-south-korea",
+   "fields": {
+    "asset_name": "EcoPro BM Pohang CAM9",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "EcoPro BM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "start_year": null,
+    "capacity": 54000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://dealsite.co.kr/articles/131022",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-11-07"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S18"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Source (Nov 2024) says completion target moved from end-2024 to end-2026; current (Nov 2026) status not re-confirmed, so under_construction is the Nov 2024 state. Capacity ref year 2026 = stated completion year."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-bm-pohang-blue-valley-south-korea",
+   "fields": {
+    "asset_name": "EcoPro Pohang Blue Valley campus (planned)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM campus",
+    "operator": "EcoPro BM",
+    "parent_company": "EcoPro Group",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2023,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2028,
+    "end_market": "EV",
+    "source_url": "https://view.asiae.co.kr/en/article/2023071316345091678",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-07-13"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "2 trillion won, 694,214 sqm site, completion 2028 (2023 article). The article's 710,000 t/yr figure is the EcoPro group-wide 2027 target including Blue Valley (other 2024 coverage), not a Blue Valley-only capacity, so capacity is left null. Dated 2023; later EcoPro reports (Nov 2024) say the 710 kt target slipped to 2030. Status not re-verified."
+  },
+  {
+   "action": "add",
+   "id": "ecopro-cam-canada-becancour-canada",
+   "fields": {
+    "asset_name": "EcoPro CAM Canada Becancour",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "EcoPro CAM Canada LP (EcoPro BM)",
+    "parent_company": "EcoPro Group",
+    "jv_partners": "SK On, Ford (planned shareholders per 2023 announcement; Ford reported to have exited, not confirmed)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec (Becancour)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 45000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2023/08/18/ford-sk-on-and-ecoprobm-build-cathode-factory-in-canada/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-08-18"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "45,000 t/yr CAM (S16). Construction began Aug 2023; paused April 2024, resumed, then standstill since 5 Aug 2024 for redesign; start target pushed from 1H 2026 to 2027 (S17, Korea Herald, paraphrase = reported tier). Nov 2025 Korean press says Quebec plant is 'still being pursued' (kbmaeil, no capacity/timing). Current 2026 construction status not found; project_state paused is the latest evidence. One search-result summary said Ford withdrew - not confirmed by a page I opened. Capacity ref year 2027 = pushed start target (not a confirmed phase date)."
+  },
+  {
+   "action": "add",
+   "id": "posco-future-m-gwangyang-cathode-south-korea",
+   "fields": {
+    "asset_name": "POSCO Future M Gwangyang CAM plant (existing)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel NCM/NCMA/NCA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "POSCO Future M",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "South Jeolla (Gwangyang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 90000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": 90000,
+    "installed_as_of": "2023-04-24",
+    "end_market": "EV",
+    "source_url": "https://www.kedglobal.com/newsView/ked202304240016",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S7",
+     "S12"
+    ],
+    "capacity": [
+     "S7",
+     "S10"
+    ],
+    "installed_capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "90,000 t/yr stated in 2023 (KED, asiae). First US shipment from the Gwangyang cathode plant on 26 July (2025; S12). The additional 52,500 t NCA plant is a separate row. Whether the 2023 90 kt figure is unchanged at end-2025 was not confirmed (POSCO Future M annual report/DART not accessible)."
+  },
+  {
+   "action": "add",
+   "id": "posco-future-m-gwangyang-nca-52500-south-korea",
+   "fields": {
+    "asset_name": "POSCO Future M Gwangyang NCA single-crystal plant (Yulchon 1st Industrial Complex)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel NCA single-crystal CAM",
+    "asset_type": "CAM plant",
+    "operator": "POSCO Future M",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "South Jeolla (Gwangyang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 52500,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://newsroom.posco.com/en/posco-future-m-holds-a-completion-ceremony-for-the-gwangyang-precursor-plant/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-06-17"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S10",
+     "S11"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Board-approved July 2023 for completion in 2H 2025 (S10); the June 2025 release still calls it 'under-construction' (S11). Completion/commissioning after June 2025 not confirmed."
+  },
+  {
+   "action": "add",
+   "id": "posco-future-m-pohang-cathode-south-korea",
+   "fields": {
+    "asset_name": "POSCO Future M Pohang (Yeongilman) high-nickel CAM plants (phases 1, 2, 2-2)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel NCA/NCM cathode active material",
+    "asset_type": "CAM plants (aggregate)",
+    "operator": "POSCO Future M",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 106000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.segye.com/newsView/20230424514204",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S8",
+     "S9"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Plan (Apr 2023): phase 1 30,000 t (1st plant, construction started Apr 2023), phase 2 30,000 t, phase 2-2 46,000 t (completion 2025) = 106,000 t (S8, S9; phase split from search snippets/KED, not copied as a quote). Status operational only because S12 says production at the Pohang cathode plant is being expanded; the installed amount and which phases run is not known. Part of Pohang NCM lines is to be converted to LFP (see LFP row); that conversion could reduce NCM capacity."
+  },
+  {
+   "action": "add",
+   "id": "posco-future-m-pohang-lfp-south-korea",
+   "fields": {
+    "asset_name": "POSCO Future M Pohang LFP cathode plant (planned)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "POSCO Future M",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": "CNGR (via CNP New Material Technology JV)",
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2025,
+    "start_year": 2027,
+    "capacity": 50000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "ESS",
+    "source_url": "https://view.asiae.co.kr/en/article/2025121609370049265",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-16"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S13"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Board approval 15 Dec 2025; construction 2026, mass production 2H 2027; partly converts existing NCM line (supply from converted line by end 2026). A Korea Times 2026-11-09 article (opened) says Pohang capacity rises from about 20,000 t to as much as 105,000 t by end-2027 - conflicts with 50,000 t; not resolved (S13 is the board-approval report). Quote for capacity is paraphrase -> reported tier."
+  },
+  {
+   "action": "add",
+   "id": "posco-future-m-gumi-cathode-south-korea",
+   "fields": {
+    "asset_name": "POSCO Future M Gumi CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "POSCO Future M",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Gumi)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": 10000,
+    "installed_as_of": "2023-04-24",
+    "end_market": "EV",
+    "source_url": "https://www.kedglobal.com/newsView/ked202304240016",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S7",
+     "S8"
+    ],
+    "capacity": [
+     "S7",
+     "S8"
+    ],
+    "installed_capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "10,000 t/yr, stated twice (KED, Segye) as of April 2023. Product mix not stated in opened pages. Not re-verified for 2025/26."
+  },
+  {
+   "action": "add",
+   "id": "zhejiang-pohua-cathode-china",
+   "fields": {
+    "asset_name": "Zhejiang Pohua CAM plant (POSCO Future M - Huayou)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Zhejiang Pohua",
+    "parent_company": "POSCO Future M / Huayou Cobalt",
+    "jv_partners": "POSCO Future M, Zhejiang Huayou Cobalt (names/shares not confirmed in an opened quote)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 5000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": 5000,
+    "installed_as_of": "2023-04-24",
+    "end_market": "EV",
+    "source_url": "https://www.segye.com/newsView/20230424514204",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S7",
+     "S8"
+    ],
+    "installed_capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Segye calls it 절강포화 (Zhejiang Pohua); the JV composition comes from a search-result summary, not a copied quote. Possible overlap with Chinese-maker rows in SC011/SC013 (Huayou) - dedupe at merge."
+  },
+  {
+   "action": "add",
+   "id": "huayou-posco-zhejiang-cam-china",
+   "fields": {
+    "asset_name": "POSCO Future M - Huayou Zhejiang 30 kt CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "POSCO Future M - Zhejiang Huayou JV",
+    "parent_company": "POSCO Future M / Huayou Cobalt",
+    "jv_partners": "Zhejiang Huayou Cobalt",
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.koreajoongangdaily.com/business/posco-future-m-bets-even-bigger-on-highdensity-batteries/10680852",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "April 2023 report: 'under construction', 30,000 t; no completion date or later status found. Capacity ref year = publication year. May be the same site as the Zhejiang Pohua expansion - unresolved."
+  },
+  {
+   "action": "add",
+   "id": "ultium-cam-becancour-canada",
+   "fields": {
+    "asset_name": "Ultium CAM Becancour (POSCO Future M - GM)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel NCMA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Ultium CAM",
+    "parent_company": "POSCO Future M",
+    "jv_partners": "GM (reported 15%), POSCO Future M (reported 85%)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec (Becancour)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2025/10/17/gm-and-posco-halt-expansion-of-canadian-cathode-material-plant",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-10-17"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "S15"
+    ],
+    "capacity": [
+     "S15",
+     "S14",
+     "S6"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CONFLICT on capacity: Korea Herald (S15, reported) phase 1 = 20,000 t with phase 2 to 33,000 t CAM; electrive Oct 2025 and POSCO Future M 2023 release say 30,000 t. Phase 2 (more CAM + precursor) suspended indefinitely (S14, Oct 2025), so capacity = phase 1 only (20,000 t) in this row; full original plan 30-33 kt. Oct 2025: phase 1 'on track' to start producing in 2026; production start (reported late Oct 2026) not confirmed - status under_construction as of last evidence."
+  },
+  {
+   "action": "add",
+   "id": "lg-chem-clarksville-cam-united-states",
+   "fields": {
+    "asset_name": "LG Chem Clarksville CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCMA cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "LG Chem",
+    "parent_company": "LG Chem",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Tennessee (Clarksville)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2023/12/20/lg-chem-commences-construction-of-mega-cam-factory-in-tennessee/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-12-20"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Dec 2023: construction began; capacity cut to 60,000 t from 120,000 t (investment about USD 1.6bn vs 3.2bn); operations then scheduled 2026 (originally mid-2025). No 2026 status update found; capacity ref year 2026 = scheduled start."
+  },
+  {
+   "action": "add",
+   "id": "lg-chem-gumi-cathode-south-korea",
+   "fields": {
+    "asset_name": "LG Chem Gumi CAM plant (LG Chem - Huayou, Toyota Tsusho)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "LG Chem",
+    "parent_company": "LG Chem",
+    "jv_partners": "Huayou Cobalt (24% after Sep 2025 sale), Toyota Tsusho (25% bought from Huayou)",
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Gumi)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2025/09/10/toyota-tsusho-acquires-decisive-stake-in-lg-chem-cathode-plant-in-south-korea/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-10"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "capacity": [
+     "S21"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "electrive (Sep 2025): plant 'with a capacity for producing over 60,000 tonnes'; LG Chem's three Korean plants total 80,000 t/yr (so Cheongju + Iksan about 20,000 t). Start year and ramp not found; status operational inferred from article wording (existing plant, stake sale). Stakes (25% sold, Huayou 49% -> 24%) are from the page summary, not quote-confirmed; partner list is a note rather than evidence."
+  },
+  {
+   "action": "add",
+   "id": "lg-chem-cheongju-cathode-south-korea",
+   "fields": {
+    "asset_name": "LG Chem Cheongju (+ Iksan) CAM plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCMA / single-crystal cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "LG Chem",
+    "parent_company": "LG Chem",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Chungcheong (Cheongju)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2023/06/29/lg-chem-mass-produces-single-crystal-cathode-materials/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-06-29"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity": [
+     "S22"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "20,000 t/yr is the single-crystal capacity at Cheongju and Iksan combined (June 2023); Iksan is therefore not a separate row. Figure is for single-crystal materials, may not be total Cheongju CAM capacity. Consistent with 80,000 t total Korea minus Gumi 60,000 t (S21)."
+  },
+  {
+   "action": "add",
+   "id": "smm-niihama-cathode-japan",
+   "fields": {
+    "asset_name": "Sumitomo Metal Mining Niihama/Besshi NCA cathode plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCA (nickel-based) cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "Sumitomo Metal Mining",
+    "parent_company": "Sumitomo Metal Mining",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Ehime (Niihama)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 84000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "https://www.electrive.com/2021/07/06/sumitomo-to-invest-%c2%a547-billion-in-cathode-material-production/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-07-06"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Capacity 84,000 t/yr = 7,000 t/month x 12 from the July 2021 plan (output to rise from about 5,000 to about 7,000 t/month in 2025; a further target of 10,000 t/month by 2027 was also stated and is not used here because later status is unknown). Integrated Report 2026 (p.43-44) confirms Niihama Plant Line 1 producing NCA, Line 2 in trials for High-Ni NMC, planned to be sold after FY2027, and shows NCA output of roughly 4,000-5,000 t/month in a bar chart (values not readable as text, not used). Production NCA 'reached a record high' in FY2025 per the same report. Isoura plant makes precursor and nickel sulphate, not CAM (other task). Sumiko Energy Materials Co. (SEMCO) appears in the SMM supply-chain chart as a battery-materials site; no capacity found."
+  },
+  {
+   "action": "add",
+   "id": "nichia-anan-cathode-japan",
+   "fields": {
+    "asset_name": "Nichia Anan (Tatsumi/Niino) cathode materials",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "lithium-ion cathode materials (LCO type, consumer)",
+    "asset_type": "CAM plant",
+    "operator": "Nichia Corporation",
+    "parent_company": "Nichia Corporation",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Tokushima (Anan)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "consumer",
+    "source_url": "https://www.nichia.co.jp/en/product/battery.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S30",
+     "S31"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Nichia sells Li-ion cathode materials for consumer batteries (S30); a Japanese Wikipedia list (secondary) says its Anan (Tokushima) Tatsumi plant produces battery materials among others (S31). Which plant makes the cathode and the capacity are not disclosed in anything opened; chemistry (LCO) is not stated in the quotes. Row is a placeholder for an existing producer."
+  },
+  {
+   "action": "add",
+   "id": "l-f-guji-plant3-ncm-south-korea",
+   "fields": {
+    "asset_name": "L&F Guji Plant 3 (NCM)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel / single-crystal NCM cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "L&F",
+    "parent_company": "L&F",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "Daegu (Dalseong-gun, Guji)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "EV",
+    "source_url": "https://view.asiae.co.kr/en/article/2025052911003197092",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-05-29"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Operating per May 2025 factory report: '30 tons per day per single production line' (the same page also says over 600 t/month per line - internally inconsistent; line count not found, so capacity left null). Guji Plants 1 and 2 and the Dalseong plant exist per L&F but no capacity was found in any opened page; L&F total NCM capacity not found."
+  },
+  {
+   "action": "add",
+   "id": "l-f-plus-daegu-lfp-south-korea",
+   "fields": {
+    "asset_name": "L&F Plus Daegu LFP plant (Guji, Phase 2 complex)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "CAM plant",
+    "operator": "L&F Plus",
+    "parent_company": "L&F",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "Daegu (Dalseong-gun, Guji)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "announced_year": 2025,
+    "start_year": 2026,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2027,
+    "installed_capacity": 30000,
+    "installed_as_of": "2026-09-08",
+    "capacity_by_year_json": {
+     "2026": 30000,
+     "2027": 60000
+    },
+    "end_market": "ESS",
+    "source_url": "https://view.asiae.co.kr/en/article/2026091809213284514",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-18"
+   },
+   "evidence": {
+    "status": [
+     "S27",
+     "S26"
+    ],
+    "capacity": [
+     "S25",
+     "S26"
+    ],
+    "installed_capacity": [
+     "S26",
+     "S27"
+    ],
+    "capacity_by_year_json": [
+     "S25",
+     "S26"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Built in about nine months from Aug 2025, 338.2 bn won; 30,000 t/yr running, 60,000 t/yr by 1H 2027 (two more lines). Further expansion to 120,000 t is 'under review' (Korea Times Nov 2026: 120,000 t by 2H 2028) - undated aspiration, excluded. Some May 2026 articles say mass production starts end-Q3 2026; Nov 2026 articles say 30 kt is current capacity. Status operational from S27 (first commercial LFP plant outside China) and S26 ('currently operates at 30,000 tons')."
+  }
+ ]
+}

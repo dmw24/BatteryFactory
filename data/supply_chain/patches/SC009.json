@@ -1,0 +1,636 @@
+{
+ "task": "SC009",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.energytrend.com/print/32342",
+   "publisher": "EnergyTrend",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ronbay has set up 250,000 tons per year for cathode materials. ... These bases have a total planned production capacity of more than 700,000 tons per year."
+  },
+  "S2": {
+   "url": "https://www.nsenergybusiness.com/?p=333007",
+   "publisher": "NS Energy",
+   "published": "2023-08-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the project of 40,000-ton-per-annum high-nickel ternary cathode"
+  },
+  "S3": {
+   "url": "https://news.metal.com/newscontent/100826672/Report:-Cathode-project-with-100,000-mt-annual-capacity-to-commission-by-end-2018",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2018-08-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with 100,000 mt annual capacity ... expected to be commissioned by the end of this year"
+  },
+  "S4": {
+   "url": "https://www.jiemian.com/article/7275156.html",
+   "publisher": "Jiemian",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "其中，湖北鄂州已成为全球产能最大的高镍三元材料生产基地，产能突破10万吨。"
+  },
+  "S5": {
+   "url": "https://www.cls.cn/detail/1905805",
+   "publisher": "Cailian Press (cls.cn)",
+   "published": "2024-12-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "韩国工厂一期2万吨/年三元材料产能已大规模出货，出货量持续提升，二期4万吨/年三元材料产能正在进行调试工作，预计2025年年初投产。"
+  },
+  "S6": {
+   "url": "https://news.metal.com/newscontent/102897879",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2024-08-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the project will add 20,000 tons/year of NCM cathode material production capacity"
+  },
+  "S7": {
+   "url": "https://www.jiemian.com/article/12604065.html",
+   "publisher": "Jiemian",
+   "published": "2025-04-13",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "但根据其年报数据，其正极材料产能为30万吨，而去年的生产量仅为13.74万吨，其正极材料产线的产能利用率约为45.8%。"
+  },
+  "S8": {
+   "url": "https://news.metal.com/newscontent/104036775-lithium-battery-ronbay-technology-plans-to-invest-in-annual-300000-ton-sodium-cathode-material-integrated-project",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2026-07-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The project has a planned total capacity of 300,000 tons per year"
+  },
+  "S9": {
+   "url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225095532.PDF",
+   "publisher": "Ronbay (cninfo) - FY2025 annual report summary (page not opened; PDF unreadable by fetch; attribution of snippet to this PDF is inferred from the search result list)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "公司已建成湖北鄂州、湖北仙桃、贵州遵义、浙江宁波、韩国忠州五大生产基地及多处办事处,欧洲基地在 2026 年将完成建设,投入生产运营"
+  },
+  "S10": {
+   "url": "https://pdf.dfcfw.com/pdf/H3_AP202605261822871170_1.pdf",
+   "publisher": "Eastmoney/dfcfw broker report on Ronbay (2026; page not opened; attribution inferred from search result list)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "韩国二期年产 4 万吨新产线于 2025 年完成产品调试以及客户认证 ... 波兰工厂 2.5 万吨预计 2026 年下半年完成建设"
+  },
+  "S11": {
+   "url": "https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt",
+   "publisher": "Wikipedia (Zhejiang Huayou Cobalt)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "four major bases in Chengdu, Tianjin, Quzhou, and Guangxi"
+  },
+  "S12": {
+   "url": "https://m.thepaper.cn/detail/33463132",
+   "publisher": "The Paper (page returned 403; text only via search-result summary)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "拟计划投资9.9亿元，在海璟基地投资建设锂离子电池正极材料3万吨扩产项目 ... 拟投资39.61亿元建设年产4万吨三元正极材料生产线"
+  },
+  "S13": {
+   "url": "https://www.mysteel.net/news/5043886-flash-ronbay-has-built-a-cathode-material-production-project-overseas",
+   "publisher": "Mysteel",
+   "published": "2023-10-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has realized a cathode material production capacity of 20,000 tons"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "ronbay-ezhou-china",
+   "fields": {
+    "asset_name": "Ezhou base (Hubei)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM (high-nickel)",
+    "asset_type": "cathode plant",
+    "feedstock": "NCM pCAM + lithium salt",
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": 30.39,
+    "longitude": 114.89,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2021,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.jiemian.com/article/7275156.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Jiemian article (undated; it reports the FY2021 annual report: 'capacity of high-nickel ternary tripled', Ezhou/Zunyi/Korea expanded from 40kt at start of year to 120kt at year end) says Ezhou capacity exceeds 100kt ('突破10万吨'). 100,000 t is therefore a lower bound as of ~2021; capacity_ref_year 2021 is inferred from the article context, not stated. Current capacity not found. Company total reported at ~300kt (FY2024, S7); 250kt/yr in 2023 and >700kt planned across 4 hubs (S1) - no per-base split disclosed, not allocated. Coordinates = Ezhou city centroid (named locality). Quote was extracted via WebFetch summariser; status evidence is a reported snippet (page not opened)."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-zunyi-china",
+   "fields": {
+    "asset_name": "Zunyi base (Guizhou)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM (high-nickel)",
+    "asset_type": "cathode plant",
+    "feedstock": "NCM pCAM + lithium salt",
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": 27.72,
+    "longitude": 106.93,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": 2018,
+    "start_year": 2018,
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2018,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/100826672/Report:-Cathode-project-with-100,000-mt-annual-capacity-to-commission-by-end-2018",
+    "source_date": "2026-11-27",
+    "source_published_date": "2018-08-06"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "2018 SMM report: Ronbay Zunyi cathode project 100kt/yr planned, phase 1 (300 mu) to be commissioned by end-2018. That is the planned figure at the time (ref year 2018 = publication-year fallback); present capacity and built phases not found. Operational status from FY2025 annual-report summary snippet (reported tier, 'five bases built' incl. Zunyi). Zunyi was one of three sites expanded in 2021 (S4: Ezhou/Zunyi/Korea 40kt -> 120kt in total) - no split. Coordinates = Zunyi city centroid."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-xiantao-china",
+   "fields": {
+    "asset_name": "Xiantao base (Hubei)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM (ternary) / LMFP / sodium-ion cathode",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": 30.36,
+    "longitude": 113.45,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225095532.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Base listed among Ronbay's five built bases (reported snippet, S9). No ternary capacity found; the base is documented mainly for sodium-ion/LMFP (6,000 t sodium first phase built per 2026 reports; a 300kt sodium-cathode integrated project planned in 3 phases of 50/100/150kt, S8 - sodium, not NCM, so not entered as capacity). Coordinates = Xiantao city centroid."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-ningbo-china",
+   "fields": {
+    "asset_name": "Ningbo base (Zhejiang)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": 29.87,
+    "longitude": 121.54,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-11/1225095532.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Base named '浙江宁波' in the FY2025 summary snippet (reported tier); Ronbay is headquartered in Yuyao, Ningbo. Product mix (NCM vs precursor vs other) and capacity not found; may be mainly precursor/R&D - UNVERIFIED that it makes CAM. Coordinates = Ningbo city centroid."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-chungju-south-korea",
+   "fields": {
+    "asset_name": "Chungju plant (Korea)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM (high-nickel)",
+    "asset_type": "cathode plant",
+    "feedstock": "NCM pCAM + lithium salt",
+    "operator": "Ronbay Technology (容百科技) - Korean subsidiary",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Chungcheong",
+    "latitude": 36.99,
+    "longitude": 127.93,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 20000,
+    "installed_as_of": "2024-12-31",
+    "capacity_by_year_json": {
+     "2023": 20000,
+     "2025": 60000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/1905805",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-12-31"
+   },
+   "evidence": {
+    "status": [
+     "S5",
+     "S13"
+    ],
+    "capacity": [
+     "S5",
+     "S2"
+    ],
+    "installed_capacity": [
+     "S5"
+    ],
+    "capacity_by_year_json": [
+     "S13",
+     "S5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Phase 1 20kt/yr high-nickel NCM: producing since Q1 2023 (S2/S13: 20,000 t realised in 2023), large-scale shipments by Dec 2024 (S5). Phase 2 40kt/yr in commissioning, start expected early 2025 (S5); a reported 2026 snippet says phase 2 commissioning and customer qualification were completed in 2025 (S10, reported tier, not re-confirmed). Capacity 60kt = 20kt + 40kt; the 2025 step is the planned/expected date, not a confirmed installed figure - installed_capacity therefore only the 20kt phase 1. Separate Korean 20kt LMFP/phosphate and 6kt precursor plans exist (S2 / search snippets) - different products, not included. 2023 plan: 40kt ternary plant; target 100kt ternary in Korea by end-2025 (S2 article) - superseded/unconfirmed. Coordinates = Chungju city centroid."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-poland-poland",
+   "fields": {
+    "asset_name": "Ronbay Poland (JS Europe) phase I",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "JS Europe (Ronbay subsidiary)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2024,
+    "start_year": 2026,
+    "capacity": 20000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102897879",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-08-09"
+   },
+   "evidence": {
+    "status": [
+     "S6",
+     "S9"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "SMM 2024-08-09: JS Europe acquired Polish 'JM Company'; phase I construction from H2 2024, equipment 2025, commissioning early 2026, +20kt/yr NCM at full production. Overall European plan 105kt NCM, 100kt phosphate, 50kt sodium-ion (not entered). CONFLICT: a 2026 reported snippet (S10) gives 25kt phase I with construction completing H2 2026 and FY2025 summary says European base completes 2026 (S9). Status under_construction as of the 2026 snippets; ref year 2026 is the stated commissioning year in the 2024 article. Exact site/town not found - no coordinates."
+  },
+  {
+   "action": "add",
+   "id": "huayou-quzhou-china",
+   "fields": {
+    "asset_name": "Huayou New Energy Technology (Quzhou)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Huayou New Energy Technology (Quzhou)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": 28.94,
+    "longitude": 118.87,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Listed as one of four Huayou new-energy (cathode) bases. Capacity not found. Related LG Chem JV 'Huajin New Energy Material (Quzhou)' (formed 2018) is also a cathode entity - whether it shares this site is not established; not entered as separate row. Wikipedia wording extracted via WebFetch summariser. Coordinates = Quzhou city centroid. Product (NCM) inferred from Huayou's ternary business, not stated in the quote."
+  },
+  {
+   "action": "add",
+   "id": "huayou-bamo-tianjin-china",
+   "fields": {
+    "asset_name": "Tianjin B&M (Bamo) base",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Tianjin B&M Science and Technology (Huayou/Bamo)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tianjin",
+    "latitude": 39.13,
+    "longitude": 117.2,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Tianjin base of the Bamo (巴莫) cathode business now owned by Huayou; Wikipedia also reports an LG/Tianjin B&M NCM JV announced 2022-05-31 (jv_partners not entered, unverified). Capacity not found. Coordinates = Tianjin city centroid."
+  },
+  {
+   "action": "add",
+   "id": "huayou-bamo-chengdu-china",
+   "fields": {
+    "asset_name": "Chengdu B&M (Bamo) base",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Chengdu B&M Science and Technology (Huayou/Bamo)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 30.66,
+    "longitude": 104.07,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Chengdu base (Wikipedia: PAS2060 carbon-neutral certification in 2022). Capacity not found. Coordinates = Chengdu city centroid."
+  },
+  {
+   "action": "add",
+   "id": "huayou-bamo-guangxi-china",
+   "fields": {
+    "asset_name": "Guangxi B&M (Bamo) base",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Guangxi B&M (Huayou/Bamo)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Zhejiang_Huayou_Cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "Wikipedia: Guangxi B&M established 2021, plant under construction in 2023; the status may be stale (likely operating by 2026) - needs a dated source. Town (Qinzhou) not stated in what I read, so no coordinates. Capacity not found."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-haijing-xiamen-china",
+   "fields": {
+    "asset_name": "Haijing base (Xiamen)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LCO / NCM CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "parent_company": "Xiamen Tungsten",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 24.48,
+    "longitude": 118.09,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://m.thepaper.cn/detail/33463132",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "Only a search-result summary: Dec 2021 XTC announced RMB 0.99bn for a 30kt cathode expansion at the Haijing base; Sept 2023 announced RMB 3.961bn for a 40kt ternary cathode line (site and Orano/France link unconfirmed, progress slow). Neither phase confirmed built; no base-level capacity. Company-level sales 2025 (summary): LCO 65.3kt, ternary (incl. LFP/other) 55.5kt, LFP 22.0kt - not entered. Coordinates = Xiamen city centroid; base location in Xiamen assumed, not stated."
+  }
+ ],
+ "injected_instructions": "none seen"
+}

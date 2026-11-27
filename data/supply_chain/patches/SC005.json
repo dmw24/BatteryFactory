@@ -1,0 +1,1372 @@
+{
+ "task": "SC005",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://investingnews.com/sigma-lithium-announces-full-year-2025-results-us-31m-cash-flow-and-47-cash-margin-in-4q25-signed-us-146m-in-two-offtake-agreements/",
+   "publisher": "Sigma Lithium via Investing News Network (company press release)",
+   "published": "2026-03-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "currently has a nameplate capacity to produce 270,000 tonnes of lithium oxide concentrate on an annualized basis ... has initiated a Phase 2 expansion designed to close to double production capacity to 520,000 tonnes"
+  },
+  "S2": {
+   "url": "https://quartr.com/events/sigma-lithium-corp-sgml-q4-2025_FGKENBK5",
+   "publisher": "Quartr (summary of Sigma Lithium Q4 2025 call)",
+   "published": "2026-03-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Sigma Lithium Q4 2025 call summary: 183,000 tons of high-grade lithium oxide in 2025, down 24% year-over-year due to mining restructuring; Plant 2 commissioning targeted early 2027; third line long-term capacity 770,000 tonnes (search-result summary; page body not opened)."
+  },
+  "S3": {
+   "url": "https://amg-nv.com/wp-content/uploads/AMG-Fact-Sheet-August-2026-Updated.pdf",
+   "publisher": "AMG Critical Materials N.V. (company fact sheet; PDF title says August 2025, file metadata created 2026-08-21)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company has an annual spodumene production capacity of 90 ktpa at present and is currently undertaking a project ... to expand this annual capacity by 44% to 130 ktpa. ... The current 90 ktpa is sold through long-term offtake agreements (through 2028)."
+  },
+  "S4": {
+   "url": "https://www.gov.br/anm/pt-br/assuntos/economia-mineral/publicacoes/sumario-mineral/sumario-mineral-brasileiro-2026/litio-versao-final.pdf",
+   "publisher": "ANM (Agencia Nacional de Mineracao), Sumario Mineral Brasileiro 2026 - Litio",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "pt",
+   "tier": "reported",
+   "snippet": "Search-result summary: Brazil produced 20,034 tonnes of lithium (contained) in 2025; CBL (Cachoeira underground mine, Itinga/Aracuai), AMG and Sigma Lithium are the three producers. PDF exceeded the fetch size limit (10 MB) and was not opened."
+  },
+  "S5": {
+   "url": "https://diariodocomercio.com.br/economia/cbl-estuda-dobrar-producao-de-litio-em-minas-gerais-ainda-neste-ano/",
+   "publisher": "Diario do Comercio (Brazil) with Fastmarkets interview as summarised in search results",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "pt",
+   "tier": "reported",
+   "snippet": "Search-result summary: CBL currently produces 45,000 t/yr spodumene concentrate (30,000 t exported, rest feeds own refinery); Fastmarkets interview cites 50,000 t/yr; plan to double mining to 100,000 tpy and lithium carbonate from 2,000 to 6,000 tpy; expansion about US$70 million. Page not opened; dates unconfirmed."
+  },
+  "S6": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126006998/ef20066615_ex99-4.htm",
+   "publisher": "Elevra Lithium Ltd, Form 6-K exhibit (half-year report)",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "NAL produced 96,156 dry metric tonnes (dmt) of spodumene concentrate during the FY26 half year"
+  },
+  "S7": {
+   "url": "https://www.aap.com.au/aapreleases/globenewswire9643976",
+   "publisher": "Elevra Lithium, Quarterly Activities Report (GlobeNewswire via AAP), September 2026 quarter",
+   "published": "2026-10-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production increased to 54,907 dmt of spodumene concentrate at an average grade of 5.1% for the September 2026 quarter. ... increase in annual spodumene concentrate production from approximately 199 thousand tonnes per annum",
+   "tier": "reported",
+   "snippet": "Production increased to 54,907 dmt of spodumene concentrate at an average grade of 5.1% for the September 2026 quarter. ... increase in annual spodumene concentrate production from approximately 199 thousand tonnes per annum",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S8": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260828/pdf/073cfdp5gvsvh3.pdf",
+   "publisher": "Elevra Lithium via ASX (June 2026 quarter / FY26), as summarised in search results",
+   "published": "2026-08-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: FY26 (year to 30 June 2026) NAL output totalled 197,967 dmt, 3% lower than FY25 (204,857/204,858 dmt); FY26 sales 181,494 dmt; June quarter 54,479 dmt at 5.0%; recovery averaged 67%. PDF is binary/compressed and could not be read by the fetch tool."
+  },
+  "S9": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126002674/ef20064087_6k.htm",
+   "publisher": "Elevra Lithium Ltd, Form 6-K (December 2025 quarterly activities report)",
+   "published": "2026-01-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "an initial 15-20% increase in annual spodumene concentrate production above current levels by mid-CY2027 ... further staged expansions progressing toward the outlined production target of 315,000 tonnes per annum."
+  },
+  "S9b": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126002674/ef20064087_6k.htm",
+   "publisher": "Elevra Lithium Ltd, Form 6-K (December 2025 quarterly activities report)",
+   "published": "2026-01-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Company received General Stormwater Permits covering both the proposed mine and conversion plant operations"
+  },
+  "S10": {
+   "url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000002/ex05d04lithiumsupportinf.htm",
+   "publisher": "Rio Tinto plc, Form 6-K exhibit, lithium Mineral Resources and Ore Reserves supporting information (as at 30 June 2025)",
+   "published": "2025-12-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "is being developed by Nemaska Lithium, a joint venture between Investissement Québec (50%) and Rio Tinto (50%)."
+  },
+  "S10b": {
+   "url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000002/ex05d04lithiumsupportinf.htm",
+   "publisher": "Rio Tinto plc, Form 6-K exhibit, lithium Mineral Resources and Ore Reserves supporting information (as at 30 June 2025)",
+   "published": "2025-12-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "It is 100% owned by Rio Tinto. ... Ore Reserves comprise 37.3 Mt at 1.27% Li2O of Probable Ore Reserves."
+  },
+  "S11": {
+   "url": "https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/rio-20251231.htm",
+   "publisher": "Rio Tinto plc, Form 20-F FY2025, as summarised in search results",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: Whabouchi is a development stage property; concentrator, metallurgical laboratory, crushing circuit etc. partially completed at year-end 2025; Rio raised stake to 53.9% and took management of Nemaska in Feb 2026 (engineeringnews 2026-02-19); Rio evaluating Whabouchi and Galaxy as spodumene supply for Becancour hydroxide plant (decision 1H 2026)."
+  },
+  "S12": {
+   "url": "https://en.wikipedia.org/wiki/Tanco_Mine",
+   "publisher": "Wikipedia, Tanco Mine (secondary source; no company/government page found)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "owned and since 2019 owned and operated by Sinomine Resource Group ... on the north west shore of Bernic Lake, Manitoba, Canada"
+  },
+  "S13": {
+   "url": "https://www.frontierlithium.com/",
+   "publisher": "Frontier Lithium Inc. (company website)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Frontier Lithium is focused on developing the PAK Lithium Project, a key resource in Ontario. ... is a preproduction business with an objective to become a strategic domestic supplier of high purity spodumene concentrates.",
+   "tier": "reported",
+   "snippet": "Frontier Lithium is focused on developing the PAK Lithium Project, a key resource in Ontario. ... is a preproduction business with an objective to become a strategic domestic supplier of high purity spodumene concentrates.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S14": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Albemarle uses the Silver Peak site for the production of lithium brines, which are used to make lithium carbonate."
+  },
+  "S14b": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025 (production table as summarised by the fetch tool, not copied verbatim)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Fetch-tool summary of the 10-K aggregate production table: Silver Peak 1 thousand metric tonnes of lithium metal for each of 2025, 2024 and 2023 (rounded). Kings Mountain (NC) is listed with stage 'Exploration'."
+  },
+  "S15": {
+   "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2021/1/albemarle-spending-up-to-50m-to-double-capacity-at-nev-lithium-plant-62014666",
+   "publisher": "S&P Global Market Intelligence, 2021 (as summarised in search results)",
+   "published": "2021-01-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: Albemarle planned to double Silver Peak output from 5,000 t/yr LCE by 2025 (US$30-50 million); S&P put capacity at 6,000 t Li/yr in Jan 2021; BMO cited 10,000 t LCE after expansion. Completion not confirmed. Publication day not known (2021-01 from URL)."
+  },
+  "S16": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001966983/000119312526461851/d109046dex991.htm",
+   "publisher": "Lithium Americas Corp., Form 8-K exhibit 99.1 (Q3 2026 results)",
+   "published": "2026-11-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "nominal production capacity of 40,000 tonnes per year of battery-quality lithium carbonate. ... Mechanical completion of Thacker Pass Phase 1 construction is targeted for late 2027, with ramp-up through 2028."
+  },
+  "S17": {
+   "url": "https://im-mining.com/2026/06/23/ioneer-signals-progress-on-rhyolite-ridge-lithium-boron-project-with-kind-and-hyundai-engineering-pacts/",
+   "publisher": "International Mining (im-mining.com)",
+   "published": "2026-06-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ioneer is targeting a final investment decision for the second half of 2026. ... first commercial production expected in 2029. ... annual lithium hydroxide and annual boric acid production to 27,800 t/y and 135,500 t/y, respectively.",
+   "tier": "reported",
+   "snippet": "Ioneer is targeting a final investment decision for the second half of 2026. ... first commercial production expected in 2029. ... annual lithium hydroxide and annual boric acid production to 27,800 t/y and 135,500 t/y, respectively.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S17b": {
+   "url": "https://www.miningweekly.com/article/rhyolite-ridge-lithiumboron-project-us-update-2026-06-26",
+   "publisher": "Mining Weekly (search-result summary; page returned HTTP 403)",
+   "published": "2026-06-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: updated study average lithium carbonate equivalent production over first 25 years about 24,500 t/y; initial capex US$1.68 billion; Sibanye-Stillwater withdrew its planned US$490 million investment in February 2026; US$996 million DOE loan; construction about 36 months."
+  },
+  "S18": {
+   "url": "https://www.ogj.com/energy-transition/news/55362995/southwest-arkansas-lithium-project-moves-toward-fid-with-10-year-offtake-deal",
+   "publisher": "Oil & Gas Journal",
+   "published": "2026-03-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "22,500 tonnes of annual nameplate lithium carbonate capacity ... expected to achieve final investment decision (FID) for the project"
+  },
+  "S19": {
+   "url": "https://finviz.com/news/354376/smackover-lithium-concludes-national-environmental-policy-act-review-for-south-west-arkansas-project-with-finding-of-no-significant-impact",
+   "publisher": "Smackover Lithium press release via Finviz (search-result summary, May 2026)",
+   "published": "2026-05-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: DOE completed NEPA review; FID and construction expected in 2026 and first commercial production in 2029; initial phase 45,000 tpa lithium carbonate in two phases of 22,500 tpa; Standard Lithium operator with 55%, Equinor 45%; plant on 118 acres in Lafayette County, AR. Exact day of release not confirmed."
+  },
+  "S20": {
+   "url": "https://calmatters.org/environment/2026/09/lithium-valley-salton-sea-projects/",
+   "publisher": "CalMatters",
+   "published": "2026-09-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "300,000 metric tons of lithium carbonate per year ... has permits for a lithium facility called Project ATLiS"
+  },
+  "S21": {
+   "url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+   "publisher": "SMM (Shanghai Metals Market) news",
+   "published": "2026-09-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "approximately 15,000 t/y of battery-grade lithium hydroxide monohydrate ... Mining at Syväjärvi began in February 2026"
+  },
+  "S22": {
+   "url": "https://www.miningweekly.com/article/keliber-lithium-hydroxide-project-finland-update-2026-09-04",
+   "publisher": "Mining Weekly / Engineering News (search-result summary)",
+   "published": "2026-09-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: concentrator estimated capacity 200 000 t/y spodumene concentrate, transported 66 km to Keliber refinery in Kokkola; steady-state production projected 2028; ore processed at Paiväneva concentrator from Syväjarvi and Rapasaari open pits; cumulative capex EUR 719 million at 30 June 2026 vs EUR 783 million forecast."
+  },
+  "S23": {
+   "url": "https://www.mining.com/web/savannah-speeds-up-portugal-lithium-project-sees-longer-lifespan/",
+   "publisher": "Mining.com / Reuters (search-result summary; page returned HTTP 403)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summaries: Barroso Phase 1 DFS about 183,000 t/yr spodumene concentrate over initial 14-year life (scoping study had ~191,000 t/yr); FID later guided to early 2027 with construction in 2027 and first concentrate late 2028 (H1 2026 results); Portuguese grant up to EUR 110 million; injunction halted work for three weeks, lifted late June 2026."
+  },
+  "S24": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/portugal",
+   "publisher": "USGS National Minerals Information Center, Minerals Yearbook 2024 Vol. III, Portugal chapter (K. Macias)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Lithium production remained steady in 2024, with an estimated 25,000 metric tons (t) of ore mined ... an estimated 380 t of lithium content produced, unchanged from that in 2023"
+  },
+  "S25": {
+   "url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-portugal.pdf",
+   "publisher": "USGS Minerals Yearbook 2019 Portugal chapter, as summarised in search results (Felmica/Gondiaes/Alvarroes)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: Felmica (Mota Ceramics Solutions subsidiary) operated the Gondiaes mine at Cabeceiras de Basto, described by the company as Europe's largest lithium mine; Alvarroes deposit near Guarda exploited by Felmica; Portuguese lithium sold crude to ceramics industry, no domestic refinery. Not opened."
+  },
+  "S26": {
+   "url": "https://www.riotinto.com/en/operations/projects/jadar",
+   "publisher": "Rio Tinto, Jadar project page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "We are transitioning the Jadar Project into care and maintenance. ... The Jadar deposit located in Eastern Serbia.",
+   "tier": "reported",
+   "snippet": "We are transitioning the Jadar Project into care and maintenance. ... The Jadar deposit located in Eastern Serbia.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S27": {
+   "url": "https://www.mining.com/web/rio-tinto-says-output-from-2-4bn-serbia-lithium-project-to-be-delayed/",
+   "publisher": "Mining.com (search-result summary)",
+   "published": "2025-01-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: planned output 2.3 million tons of battery-grade lithium carbonate over 40-year mine life, i.e. 58,000 tons annually, plus 160,000 t boric acid and 255,000 t sodium sulfate; production slipped from 2026 to 2028; Serbia revoked spatial plan in 2022. Article date uncertain."
+  },
+  "S28": {
+   "url": "https://www.miningweekly.com/article/wolfsberg-lithium-project-austria-update-2026-02-06",
+   "publisher": "Mining Weekly (search-result summary)",
+   "published": "2026-02-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: Austria renewed Wolfsberg mining licence for two years (confirmed 30 Jan 2026); decision to mine framed for end-2026; DFS ore throughput about 780,000 t/y (peak 840,000), about 8,800 t/y lithium hydroxide monohydrate, 129,000 t LHM over life; capex US$873 million; operator Critical Metals Corp (merged with European Lithium)."
+  },
+  "S29": {
+   "url": "https://www.miningweekly.com/article/european-metals-geomet-opts-for-cheaper-cleaner-tech-choice-for-cinovec-lithium-processing-2026-10-23",
+   "publisher": "Mining Weekly (search-result summary)",
+   "published": "2026-10-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary: DFS steady-state 37,500 tpa battery-grade lithium carbonate; CEZ 51% / European Metals 49% of Geomet; EIA submitted Dec 2025, expected complete end-2026; EUR 360 million grant (Nov 2025); grid connection expected 2031-2032; no FID or construction start found."
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "sigma-lithium-grota-do-cirilo-brazil",
+   "fields": {
+    "asset_name": "Grota do Cirilo (Barreiro / Xuxa / Nezinho do Chicao)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate (SC5.5, 'green lithium')",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Sigma Lithium",
+    "parent_company": "Sigma Lithium",
+    "jv_partners": null,
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Minas Gerais",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 520000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2027,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 270000,
+    "installed_as_of": "2026-03-30",
+    "capacity_by_year_json": null,
+    "production": 183000,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://investingnews.com/sigma-lithium-announces-full-year-2025-results-us-31m-cash-flow-and-47-cash-margin-in-4q25-signed-us-146m-in-two-offtake-agreements/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-30"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1",
+     "S2"
+    ],
+    "installed_capacity": [
+     "S1"
+    ],
+    "production": [
+     "S2"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Installed 270,000 t/yr nameplate (Plant 1) quoted in S1. Capacity 520,000 t = Phase 2 'designed to close to double' (quote S1); ref year 2027 rests only on the S2 summary (Plant 2 commissioning 'early 2027'), so capacity ref year is reported-tier. A third line to 770,000 t (S2 summary) is a long-term target and excluded (D-015). 2025 production 183,000 t is from a Quartr call summary only (reported tier, unit stated as 'tons of high-grade lithium oxide' = concentrate; not in the press-release text I could open). Mining was demobilised early Oct 2025 and remobilised late Jan 2026 (S1 fetch summary), so 2025 is below nameplate; S1 also gives guidance of 240,000 t over the next 12 months. Grade (about 5.5% Li2O) is not in my sources so *_norm left null. Coordinates not in sources (Itinga/Araçuai area, Jequitinhonha valley) so left null. Fastmarkets summary seen via search claimed AMG had '270,000 tpy -> 520,000 tpy': that is actually Sigma's figure and I did not attribute it to AMG."
+  },
+  {
+   "action": "add",
+   "id": "amg-mibra-brazil",
+   "fields": {
+    "asset_name": "Mibra (Volta Grande)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "AMG Brasil (Mineracao Brasileira de Litio / Mibra)",
+    "parent_company": "AMG Critical Materials",
+    "jv_partners": null,
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Minas Gerais",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 90000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 90000,
+    "installed_as_of": "2025-08-21",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "long-term offtake agreements through 2028 (counterparties not named in the fact sheet)",
+    "end_market": "battery",
+    "source_url": "https://amg-nv.com/wp-content/uploads/AMG-Fact-Sheet-August-2026-Updated.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ],
+    "installed_capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Fact sheet says 90 ktpa 'at present' and a project to expand 44% to 130 ktpa (undated, so excluded from capacity per D-015; ref year uses document year fallback 2025; fact-sheet PDF title says August 2025 although file metadata says 2026-08-21 - installed_as_of therefore low-precision). A Q3-2025 AMG report seen via search snippet said 'operating at 110 thousand tons per year' (not opened, not used). 2025 production not located; S&P Global says Brazilian output rose 32% in 2025 (not opened). Mibra's own lithium chemical conversion plant is a refining asset, not in this slice."
+  },
+  {
+   "action": "add",
+   "id": "cbl-cachoeira-brazil",
+   "fields": {
+    "asset_name": "Cachoeira (Itinga/Aracuai) underground mine",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "CBL (Companhia Brasileira de Litio)",
+    "parent_company": "CBL",
+    "jv_partners": null,
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Minas Gerais",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 45000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://diariodocomercio.com.br/economia/cbl-estuda-dobrar-producao-de-litio-em-minas-gerais-ainda-neste-ano/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Reported tier only (search-result summaries; pages not opened). 45,000 t/yr concentrate (Fastmarkets interview cites 50,000) and a plan to double to 100,000 tpy; plan is undated so excluded. Own refinery at Divisa Alegre about 2,000 t/yr lithium carbonate (refining slice, not recorded here). ANM Sumario Mineral 2026 lists CBL as a main producer (S4 summary). Capacity ref year unknown; confidence low. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "elevra-north-american-lithium-canada",
+   "fields": {
+    "asset_name": "North American Lithium (NAL), La Corne",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Elevra Lithium (formerly Sayona Mining)",
+    "parent_company": "Elevra Lithium",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 199000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 197967,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2026,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.aap.com.au/aapreleases/globenewswire9643976",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-27"
+   },
+   "evidence": {
+    "status": [
+     "S6",
+     "S7"
+    ],
+    "capacity": [
+     "S7",
+     "S9"
+    ],
+    "production": [
+     "S8",
+     "S6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Production = FY26 (year to 30 June 2026) 197,967 dmt from the S8 search summary (reported tier; PDF unreadable); quote evidence S6 gives H1 FY26 96,156 dmt and S7 gives Sept 2026 quarter 54,907 dmt at 5.1%. FY25 was 204,857/204,858 dmt (sources differ by 1 t) per search summaries. Capacity 199,000 t/yr is the 'approximately 199 thousand tonnes per annum' base quoted in S7 (unexpanded PFS base case), not a formally stated nameplate; S9: initial 15-20% increase by mid-CY2027, further staged expansion to 315,000 t/yr (undated, excluded). Concentrate grade about 5.0-5.2% Li2O (S7 gives 5.1% for the Sept-2026 quarter) so *_norm left null. Capacity ref year 2026 = fallback (publication year). Authier (Elevra) not covered - no source found."
+  },
+  {
+   "action": "add",
+   "id": "sinomine-tanco-canada",
+   "fields": {
+    "asset_name": "Tanco (Bernic Lake)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene (also caesium, tantalum)",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Sinomine Resource Group (Tanco)",
+    "parent_company": "Sinomine Resource Group",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Manitoba",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Tanco_Mine",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Only a secondary source (Wikipedia) found: owned and operated by Sinomine since 2019, 'Currently open' in infobox. No lithium capacity or production located (Tanco is a small lithium producer; Canada's 2025 USGS total of about 5,600 t Li is dominated by NAL). Needs a Sinomine annual report / Manitoba government page."
+  },
+  {
+   "action": "add",
+   "id": "nemaska-lithium-whabouchi-canada",
+   "fields": {
+    "asset_name": "Whabouchi",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Nemaska Lithium",
+    "parent_company": "Rio Tinto",
+    "jv_partners": "Investissement Quebec, Rio Tinto (50/50 per 2025 filing; Rio reported at 53.9% after Feb 2026)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000002/ex05d04lithiumsupportinf.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-04"
+   },
+   "evidence": {
+    "status": [
+     "S10",
+     "S11"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "S10 quote confirms ownership/development; S11 (reported tier) says concentrator and other surface facilities only partially complete at end-2025 and the property is development stage; Rio was evaluating Whabouchi vs Galaxy as supply for the Becancour hydroxide plant (first production targeted 2028 per same summary). Ore Reserves 26.5 Mt at 1.32% Li2O and Resources 26.9 Mt at 1.45% Li2O (30 June 2025) per S10 fetch summary; 24-year mine life (S11 summary). No capacity in tonnes stated in the sources I could read. The Becancour hydroxide plant is a refining asset (not recorded here)."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-galaxy-james-bay-canada",
+   "fields": {
+    "asset_name": "Galaxy / James Bay",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Rio Tinto (ex-Arcadium Lithium / Galaxy Resources)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/863064/000086306426000002/ex05d04lithiumsupportinf.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-04"
+   },
+   "evidence": {
+    "status": [
+     "S10b",
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "James Bay is the Galaxy property (Arcadium acquired by Rio Tinto Mar 2025; Rio page: 100% owned by Rio Tinto). Reserves 37.3 Mt at 1.27% Li2O probable, resources 74.0 Mt at 1.25% Li2O (30 June 2025, S10 fetch summary). No capacity or development decision stated; Rio evaluating Galaxy as Becancour feed (S11 summary). Kept as 'announced' only because a development evaluation exists; reviewer may drop it as a pre-decision project."
+  },
+  {
+   "action": "add",
+   "id": "frontier-lithium-pak-canada",
+   "fields": {
+    "asset_name": "PAK Lithium Project (with Spark deposit)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Frontier Lithium",
+    "parent_company": "Frontier Lithium",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.frontierlithium.com/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Company site states a development focus but gives no capacity or schedule (PAK 4.1 Mt at 2.00% Li2O M&I; Spark 31.1 Mt at 1.47% M&I). Capacity from the company's PEA/PFS not located. Mavis Lake and Georgia Lake are not mentioned on the page and are listed in Gaps."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-silver-peak-usa",
+   "fields": {
+    "asset_name": "Silver Peak (Clayton Valley)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium brine (to carbonate and hydroxide on site)",
+    "asset_type": "brine (evaporation ponds)",
+    "feedstock": "brine",
+    "operator": "Albemarle",
+    "parent_company": "Albemarle",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 1966,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 1000,
+    "production_unit": "t Li",
+    "production_year": 2025,
+    "production_norm": 5323,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "production": [
+     "S14b"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Production 1 thousand t lithium metal (rounded to nearest thousand) for 2025, 2024 and 2023 per the FY2025 10-K table as summarised by the fetch tool (reported tier - not copied verbatim); production_norm = 1,000 x 5.323 = 5,323 t LCE, but the true figure is anywhere in about 500-1,500 t Li. Nameplate not stated in the 10-K; 2021 reports (S15, reported tier) cite 5,000 t LCE with a plan to double to 10,000 t LCE by 2025 - completion unconfirmed, so capacity left null. start_year 1966 is from my background knowledge, not from a fetched source, and should be treated as unverified. Albemarle Kings Mountain (NC) is listed as 'Exploration' stage in the 10-K summary and is excluded (no capacity or development decision)."
+  },
+  {
+   "action": "add",
+   "id": "elevra-carolina-lithium-usa",
+   "fields": {
+    "asset_name": "Carolina Lithium (Gaston County)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate / lithium hydroxide",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Elevra Lithium (formerly Piedmont Lithium)",
+    "parent_company": "Elevra Lithium",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "North Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1739016/000114036126002674/ef20064087_6k.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-28"
+   },
+   "evidence": {
+    "status": [
+     "S9b"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Only evidence: Elevra Jan-2026 6-K says general stormwater permits were received for the proposed mine and conversion plant (project still proposed; no FID, no capacity stated in the text I read). Capacity (previously about 2.7 Mt/yr ore plan) not sourced here."
+  },
+  {
+   "action": "add",
+   "id": "lithium-americas-thacker-pass-usa",
+   "fields": {
+    "asset_name": "Thacker Pass (Phase 1)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "battery-quality lithium carbonate from clay (mine and on-site plant)",
+    "asset_type": "clay mine",
+    "feedstock": "clay (claystone)",
+    "operator": "Lithium Americas Corp.",
+    "parent_company": "Lithium Americas Corp.",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2028,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t Li2CO3",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0001966983/000119312526461851/d109046dex991.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-11"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Phase 1 nominal 40,000 t/yr lithium carbonate; mechanical completion late 2027, ramp-up through 2028 (ref year 2028 = end of ramp, my reading of the quote). Phase 2 capacity not stated in the 8-K, so not included (the previously announced 80,000 t total is not confirmed by an opened source). Mine and processing plant are one capacity figure, expressed in lithium carbonate; refining slice should not double count. Joint-venture partners (e.g. GM, DOE stake) not confirmed by an opened source so jv_partners left null. Capex US$2.93 billion; US$1.8 billion capitalised at 30 June 2026 (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "ioneer-rhyolite-ridge-usa",
+   "fields": {
+    "asset_name": "Rhyolite Ridge",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide (plus boric acid)",
+    "asset_type": "clay/sediment-hosted mine (searlesite)",
+    "feedstock": "sediment",
+    "operator": "ioneer",
+    "parent_company": "ioneer",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 27800,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2029,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t LiOH",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://im-mining.com/2026/06/23/ioneer-signals-progress-on-rhyolite-ridge-lithium-boron-project-with-kind-and-hyundai-engineering-pacts/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-23"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17",
+     "S17b"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "FID not yet taken (targeted 2H 2026); first commercial production expected 2029 (ref year = first production year, fallback). 27,800 t/yr LiOH (quote) is consistent with the 24,500 t/yr LCE average in the updated study (S17b, reported) at the 0.88 factor. Sibanye-Stillwater withdrew its US$490 million investment in Feb 2026 (S17b); Korean KIND and Hyundai Engineering MoUs not binding. Caution: some older Mining Weekly/mining.com items still say 2H 2026 production start; I treated those as outdated. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "smackover-lithium-south-west-arkansas-usa",
+   "fields": {
+    "asset_name": "South West Arkansas Project (SWA)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate via DLE (brine from Smackover Formation)",
+    "asset_type": "brine (direct lithium extraction)",
+    "feedstock": "oilfield brine",
+    "operator": "Smackover Lithium (Standard Lithium 55%, operator)",
+    "parent_company": "Standard Lithium",
+    "jv_partners": "Standard Lithium 55%, Equinor 45%",
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Arkansas",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 22500,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2029,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t Li2CO3",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Trafigura (first binding offtake, 10-year; volume reported as about 8,000 tpy in one report)",
+    "end_market": "battery",
+    "source_url": "https://www.ogj.com/energy-transition/news/55362995/southwest-arkansas-lithium-project-moves-toward-fid-with-10-year-offtake-deal",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-10"
+   },
+   "evidence": {
+    "status": [
+     "S18",
+     "S19"
+    ],
+    "capacity": [
+     "S18",
+     "S19"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Initial phase 22,500 t/yr lithium carbonate (quote S18); S19 (reported) says initial 45,000 t/yr in two 22,500 t phases - I recorded only the first phase (second phase undated). FID expected 2026, not yet announced in sources found. First production: OGJ (Mar 2026) says 2028, the May-2026 release summary says 2029 - conflict; ref year set to 2029 (later date, more recent source). US DOE US$225 million award (Jan 2025, Equinor page seen in search results, not opened). ExxonMobil's Smackover project not covered - no source found."
+  },
+  {
+   "action": "add",
+   "id": "controlled-thermal-resources-hells-kitchen-usa",
+   "fields": {
+    "asset_name": "Hell's Kitchen (Salton Sea)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate from geothermal brine (DLE)",
+    "asset_type": "geothermal brine (direct lithium extraction)",
+    "feedstock": "geothermal brine",
+    "operator": "Controlled Thermal Resources",
+    "parent_company": "Controlled Thermal Resources",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "California",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t Li2CO3",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://calmatters.org/environment/2026/09/lithium-valley-salton-sea-projects/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-01"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CalMatters: up to 300,000 t/yr lithium carbonate plus about 50 MW geothermal power at full build-out; this is a promotional ceiling that CTR phases (earlier phase sizes not located), so treat as an upper bound. Appeals court sent the EIR back to Imperial County (water and air) in 2026, no production. Confidence low; capacity ref year unknown. Kept project_state active (legal delay, not cancelled). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "energysource-minerals-atlis-usa",
+   "fields": {
+    "asset_name": "Project ATLiS (Salton Sea)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium compounds from geothermal brine (DLE)",
+    "asset_type": "geothermal brine (direct lithium extraction)",
+    "feedstock": "geothermal brine",
+    "operator": "EnergySource Minerals",
+    "parent_company": "EnergySource Minerals",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "California",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t LCE",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://calmatters.org/environment/2026/09/lithium-valley-salton-sea-projects/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-01"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Permitted per CalMatters but no timeline or capacity stated. CalEnergy (Berkshire Hathaway) DLE pilot / planned Calipatria demonstration plant is pilot-stage with no development decision, so not added."
+  },
+  {
+   "action": "add",
+   "id": "savannah-resources-barroso-portugal",
+   "fields": {
+    "asset_name": "Mina do Barroso",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Savannah Resources (Savannah Lithium)",
+    "parent_company": "Savannah Resources",
+    "jv_partners": null,
+    "country": "Portugal",
+    "region": "Europe",
+    "province_state": "Boticas/Montalegre, Vila Real",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 183000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2028,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mining.com/web/savannah-speeds-up-portugal-lithium-project-sees-longer-lifespan/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Reported tier (search-result summaries; mining.com returned 403). Phase 1 DFS about 183,000 t/yr (scoping study had about 191,000; another summary said 175,000 was not found). FID guided to early 2027, first concentrate late 2028 (ref year 2028). Work was halted three weeks by a court injunction, lifted late June 2026. USGS Minerals Yearbook 2024 (S24) says Portugal's lithium production was an estimated 380 t Li (25,000 t ore) in 2024, all ceramic-grade; Barroso itself is not producing. Province/municipality names are from the search summaries, not a quoted source."
+  },
+  {
+   "action": "add",
+   "id": "felmica-gondiaes-portugal",
+   "fields": {
+    "asset_name": "Gondiaes (Cabeceiras de Basto); Alvarroes (Guarda) also operated by Felmica",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "ceramic-grade lepidolite/petalite",
+    "asset_type": "hard-rock mine",
+    "feedstock": "lepidolite",
+    "operator": "Felmica Minerais Industriais (Mota Ceramics Solutions)",
+    "parent_company": "Mota Ceramics Solutions",
+    "jv_partners": null,
+    "country": "Portugal",
+    "region": "Europe",
+    "province_state": "Braga/Guarda",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t ore",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t ore",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "ceramics",
+    "source_url": "https://pubs.usgs.gov/myb/vol3/2019/myb3-2019-portugal.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Ceramic/glass grade, not battery; included because it is the main source of Portugal's USGS-reported 380 t Li (2024, S24: 25,000 t ore mined). Status taken from a 2019 USGS chapter via a search summary - current operating status of Gondiaes versus Alvarroes unverified; production per mine not found. Reviewer may exclude as non-battery-feed."
+  },
+  {
+   "action": "add",
+   "id": "keliber-syvajarvi-rapasaari-finland",
+   "fields": {
+    "asset_name": "Syvajarvi and Rapasaari mines with Paivaneva concentrator",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Keliber Oy",
+    "parent_company": "Sibanye-Stillwater",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Central Ostrobothnia / Kaustinen area",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2028,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-07"
+   },
+   "evidence": {
+    "status": [
+     "S21",
+     "S22"
+    ],
+    "capacity": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Mining began at Syvajarvi in Feb 2026 and concentrator hot commissioning in April 2026 with stable concentrate output targeted for 2H 2026 (S21 quote/fetch) - commercial production not yet confirmed, so status stays under_construction. Concentrator capacity 200,000 t/yr is reported tier (S22). Hydroxide refinery at Kokkola (15,000 t/yr LiOH monohydrate, S21 quote) has no fixed commissioning date (market conditions) - refining slice, not recorded here. Steady state 2028 (S22 summary). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-jadar-serbia",
+   "fields": {
+    "asset_name": "Jadar",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (jadarite; also boric acid)",
+    "asset_type": "underground mine (jadarite)",
+    "feedstock": "jadarite",
+    "operator": "Rio Tinto (Rio Sava Exploration)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Serbia",
+    "region": "Europe",
+    "province_state": "Loznica",
+    "latitude": 44.5333,
+    "longitude": 19.225,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 58000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2028,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t Li2CO3",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.riotinto.com/en/operations/projects/jadar",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ],
+    "capacity": [
+     "S27"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Rio page: 'transitioning the Jadar Project into care and maintenance' (project_state paused). Capacity 58,000 t/yr Li2CO3 is the previous design (2.3 Mt over 40 years) from a Mining.com summary (reported tier); ref year 2028 reflects the last-guided first output, now superseded. Coordinates are the town of Loznica (location of Rio's project information centre per the Rio page), not the deposit. Serbia revoked the spatial plan in 2022 (S27 summary)."
+  },
+  {
+   "action": "add",
+   "id": "critical-metals-wolfsberg-austria",
+   "fields": {
+    "asset_name": "Wolfsberg",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide monohydrate (mine plus hydromet plant)",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Critical Metals Corp (European Lithium)",
+    "parent_company": "Critical Metals Corp",
+    "jv_partners": null,
+    "country": "Austria",
+    "region": "Europe",
+    "province_state": "Carinthia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 8800,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t LiOH",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "BMW (supply agreement, per summary)",
+    "end_market": "battery",
+    "source_url": "https://www.miningweekly.com/article/wolfsberg-lithium-project-austria-update-2026-02-06",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-06"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ],
+    "capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported tier. Licence renewed for two years (Jan 2026); decision to mine framed for end-2026; DFS about 8,800 t/yr LiOH monohydrate from about 780,000 t/yr ore, capex US$873 million. No production date reconfirmed, so ref year null. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "geomet-cinovec-czechia",
+   "fields": {
+    "asset_name": "Cinovec",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (mine plus planned plant); tin by-product",
+    "asset_type": "underground hard-rock mine",
+    "feedstock": "zinnwaldite",
+    "operator": "Geomet s.r.o.",
+    "parent_company": "CEZ",
+    "jv_partners": "CEZ 51%, European Metals Holdings 49%",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "province_state": "Usti nad Labem Region",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 37500,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t Li2CO3",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.miningweekly.com/article/european-metals-geomet-opts-for-cheaper-cleaner-tech-choice-for-cinovec-lithium-processing-2026-10-23",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-23"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ],
+    "capacity": [
+     "S29"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported tier. DFS steady state 37,500 t/yr battery-grade lithium carbonate; no FID or construction start found; EIA expected complete end-2026; grid connection 2031-2032 implies production not before the early 2030s (ref year left null). EUR 360 million grant (Nov 2025). Zinnwald/Altenberg (Germany, across the border) not covered. [lead] capacity_ref_year = publication-year fallback."
+  }
+ ]
+}

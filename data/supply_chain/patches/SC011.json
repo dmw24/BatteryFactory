@@ -1,0 +1,1119 @@
+{
+ "task": "SC011",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://finance.eastmoney.com/a/202512293603812483.html",
+   "publisher": "East Money (reprint of Economic Reference Daily)",
+   "published": "2025-12-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "在四川遂宁分三期建设年产15万吨磷酸铁锂正极材料产能 ... 一期项目2.5万吨/年产能和二期项目6.25万吨/年产能已建成投产。"
+  },
+  "S1b": {
+   "url": "https://finance.eastmoney.com/a/202512293603812483.html",
+   "publisher": "East Money (reprint of Economic Reference Daily)",
+   "published": "2025-12-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "规划产能由6.25万吨/年提升至10万吨/年"
+  },
+  "S2": {
+   "url": "https://cj.sina.com.cn/articles/view/1650111241/625ab30902001fdjy",
+   "publisher": "China Business Journal via Sina Finance",
+   "published": "2026-01-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "其控股子公司拟在江苏省常州市金坛华罗庚高新区内新建研发中心及年产24万吨高压实磷酸铁锂生产基地"
+  },
+  "S3": {
+   "url": "https://www.cls.cn/detail/2046760",
+   "publisher": "Cailian (CLS)",
+   "published": "2025-06-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "印尼锂源一期3万吨项目已于2025年年初投产 ... 印尼锂源二期9万吨项目目前已启动建设工作 ... 总规划建设12万吨磷酸铁锂产能"
+  },
+  "S4": {
+   "url": "https://m.cls.cn/detail/2207968",
+   "publisher": "Cailian / STAR Market Daily",
+   "published": "2025-11-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前厦钨新能磷酸铁锂的有效产能是2万吨。同时，公司还有规划的2万吨产能在按计划推进，会结合下游需求情况来开展投产，预计到2026年总产能能达到4万吨以上。"
+  },
+  "S4b": {
+   "url": "https://m.cls.cn/detail/2207968",
+   "publisher": "Cailian / STAR Market Daily",
+   "published": "2025-11-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前一期已满产，二期即将完成调试，2026年三期建成后总产能可达12万吨。"
+  },
+  "S5": {
+   "url": "https://paper.people.com.cn/zgnyb/pc/content/202606/01/content_30160821.html",
+   "publisher": "China Energy News (People's Daily Online e-paper)",
+   "published": "2026-06-01",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "分别建设20万吨/年磷酸铁锂生产线，计划于2026年末建成投产 ... 万华莱州一期32万吨/年磷酸铁锂项目于3月17日开工"
+  },
+  "S6a": {
+   "url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+   "publisher": "10jqka (Straight Flush) finance",
+   "published": "2026-07-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "海阳一期10万吨/年磷酸铁锂项目已于今年3月建成投产；二、三期各20万吨产线同步开工"
+  },
+  "S6b": {
+   "url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+   "publisher": "10jqka (Straight Flush) finance",
+   "published": "2026-07-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2月宣布拟投资建设60万吨/年磷酸铁锂项目"
+  },
+  "S6c": {
+   "url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+   "publisher": "10jqka (Straight Flush) finance",
+   "published": "2026-07-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "新建10万吨项目预计2026年下半年建成"
+  },
+  "S6d": {
+   "url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+   "publisher": "10jqka (Straight Flush) finance",
+   "published": "2026-07-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产16万吨高压实磷酸铁锂项目前期工作"
+  },
+  "S7": {
+   "url": "https://finance.eastmoney.com/a/202608033829628812.html",
+   "publisher": "East Money",
+   "published": "2026-08-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "拟投资47.23亿元建设仙桃年产30万吨钠电正极材料一体化项目 ... 按照一期5万吨、二期10万吨、三期15万吨分期建设、分步投产；"
+  },
+  "S7b": {
+   "url": "https://finance.eastmoney.com/a/202608033829628812.html",
+   "publisher": "East Money",
+   "published": "2026-08-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期建设周期预计为2026年8月至2027年5月。 ... 项目建设周期预计24个月"
+  },
+  "S8": {
+   "url": "https://www.cls.cn/detail/2352996",
+   "publisher": "Cailian (CLS)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司控股子公司雅安厦钨新能拟在原有年产40000吨磷酸铁锂基础上，投资新建年产40000吨磷酸铁（锰）锂产线项目。"
+  },
+  "S9": {
+   "url": "https://finance.eastmoney.com/a/202604253718634284.html",
+   "publisher": "East Money (China Business Network)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "友天科技计划投资26.54亿元，改扩建15万吨/年磷酸铁锂产能。 ... 如今，上述项目中仅10万吨/年磷酸铁及配套项目已经建成投产。"
+  },
+  "S9b": {
+   "url": "https://finance.eastmoney.com/a/202604253718634284.html",
+   "publisher": "East Money (China Business Network)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "当升科技拟以自有或自筹资金1.45亿元受让浙江友山（华友集团全资子公司）持有的聚能新材49%股权和友天科技51%股权。"
+  },
+  "S10a": {
+   "url": "https://www.jiemian.com/article/7695122.html",
+   "publisher": "Jiemian News",
+   "published": "2022-07-05",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "投资120亿元建设年产20万吨磷酸铁锂、20万吨磷酸铁及配套产品项目"
+  },
+  "S10b": {
+   "url": "https://www.jiemian.com/article/7695122.html",
+   "publisher": "Jiemian News",
+   "published": "2022-07-05",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "建设年产50万吨的磷酸铁锂项目"
+  },
+  "S10c": {
+   "url": "https://www.jiemian.com/article/7695122.html",
+   "publisher": "Jiemian News",
+   "published": "2022-07-05",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "建设年产20万吨电池级磷酸铁和20万吨磷酸铁锂"
+  },
+  "S11": {
+   "url": "https://www.yicai.com/news/102849142.html",
+   "publisher": "Yicai (First Financial)",
+   "published": "2025-09-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "华阳股份（600348.SH）年产万吨级钠离子电池正负极材料项目被纳入山西省省级重点工程建设项目，当前该项目处于在建阶段。"
+  },
+  "S12a": {
+   "url": "https://cj.sina.com.cn/articles/view/2853016445/aa0d937d0270183io",
+   "publisher": "TMTPost via Sina Finance",
+   "published": "2026-09-19",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "众钠能源眉山基地一期1万吨正极及2GWh钠电池Pack项目已投产，2026年目标2GWh。"
+  },
+  "S12b": {
+   "url": "https://cj.sina.com.cn/articles/view/2853016445/aa0d937d0270183io",
+   "publisher": "TMTPost via Sina Finance",
+   "published": "2026-09-19",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目首批生产产品钠电池正极材料-复合焦磷酸铁钠，规划产能4万吨/年，分阶段实施。 ... 一阶段投资1.70亿元，计划2028年8月前建成1.3万吨/年产能；"
+  },
+  "S13": {
+   "url": "https://www.chinabaogao.com/jingzheng/202605/797351.html",
+   "publisher": "Chinabaogao (related-article teaser)",
+   "published": "2026-05-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "厦钨新能马来西亚年产1万吨正极材料项目规划产能10000吨/年，2026年上半年完工投产，定位钴酸锂核心生产基地"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "longpan-suining-lithium-source-china",
+   "fields": {
+    "asset_name": "Sichuan Lithium Source, Suining (LFP)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Sichuan Lithium Source (Longpan subsidiary)",
+    "parent_company": "Longpan Technology (龙蟠科技)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2020,
+    "start_year": null,
+    "capacity": 187500,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 87500,
+    "installed_as_of": "2025-12-29",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202512293603812483.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-29"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1",
+     "S1b"
+    ],
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Original 3-phase plan 150kt (2.5 + 6.25 + 6.25 kt); phases 1 and 2 (8.75 万t = 87,500 t) built and producing. Board raised phase 3 from 62.5kt to 100kt on 24 Dec 2025, so capacity = 25,000+62,500+100,000 = 187,500 t (my arithmetic from the two quotes). capacity_ref_year 2025 = publication-year fallback; a search-result summary (not opened, not evidence) said phase 3 is due ~May 2026. Suining is in Sichuan per the quote; no coordinates. Other Longpan bases (Jintan, Tianjin Baodi, Heze Shandong, Xiangyang Hubei) are named only in an unopened search summary - no capacity found, not entered. Company-level LFP revenue 2025 68.84亿元 (chinabaogao 794166, not used as evidence)."
+  },
+  {
+   "action": "add",
+   "id": "longpan-jintan-high-compaction-lfp-china",
+   "fields": {
+    "asset_name": "Jintan high-compaction LFP base (new, Changzhou)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM (high-compaction)",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Longpan Technology controlled subsidiary (Changzhou Lithium Source)",
+    "parent_company": "Longpan Technology (龙蟠科技)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 240000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://cj.sina.com.cn/articles/view/1650111241/625ab30902001fdjy",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-08"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Announced 4 Jan 2026: new R&D centre + 240kt/yr high-compaction LFP base, Jintan Hua Luogeng High-tech Zone, Changzhou (CNY 2bn cap). Page text read via WebFetch: phase 1 120kt (~9-month build), phase 2 'when market allows'; those phase details are not in the stored quote. capacity_ref_year 2026 = publication-year fallback (phase 2 undated). Not clear whether it is a separate site from any existing Longpan/Changzhou Lithium Source plant in Jintan (existing Jintan capacity not found) - treat as the new base only."
+  },
+  {
+   "action": "add",
+   "id": "longpan-lithium-source-indonesia-indonesia",
+   "fields": {
+    "asset_name": "Indonesia Lithium Source LFP plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "PT Indonesia Lithium Source (Longpan / Changzhou Lithium Source)",
+    "parent_company": "Longpan Technology (龙蟠科技)",
+    "jv_partners": null,
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": 2025,
+    "capacity": 120000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-06-02",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "Eve Energy (Malaysia) 152kt 2026-2030; CATL overseas plants (per unopened summary)",
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/2046760",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-06-02"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ],
+    "installed_capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "OUTSIDE the China slice (included because LFP CAM and sourced; lead may dedupe against non-China tasks). Jun 2025: phase 1 30kt producing since early 2025, phase 2 90kt under construction (due end-2025), 120kt total plan since 2021. Phase 2 was reported as 'nearly commissioned' on 22 Nov 2025 (S4b). CONFLICT: S4b says 'total capacity can reach 120kt after phase 3 completes in 2026' (counts phases differently) and press from Jun-Jul 2026 reports a further 'Phase III 120kt' project (second/third-gen LFP, 10jqka 20260728 / East Money 202607223816083663) - unclear whether that is additional to the 120kt here; NOT added to capacity. Offtake: Eve Energy Malaysia quote '预计自2026至2030年间向EveEnergy及其关联企业销售15.2万吨磷酸铁锂正极材料' (S3 page, same article). Province/coordinates not stated."
+  },
+  {
+   "action": "add",
+   "id": "wanhua-chemical-haiyang-lfp-china",
+   "fields": {
+    "asset_name": "Haiyang LFP project (phases 1-3)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Wanhua Chemical (万华化学)",
+    "parent_company": "Wanhua Chemical Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 500000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 100000,
+    "installed_as_of": "2026-07-28",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-28"
+   },
+   "evidence": {
+    "status": [
+     "S6a"
+    ],
+    "capacity": [
+     "S6a",
+     "S5"
+    ],
+    "installed_capacity": [
+     "S6a"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Phase 1 100kt/yr built and producing since Mar 2026; phases 2 and 3 are 200kt each, under construction (started together), planned end-2026 (S5 quote). Capacity 500kt = 100+200+200 (arithmetic). Haiyang is in Shandong (Yantai) - province from general geography / the 10jqka summary, not in the stored quotes; no coordinates entered. S5 (China Energy News 2026-06-01) is consistent: Haiyang phase 1 'built and operating since March 2026'."
+  },
+  {
+   "action": "add",
+   "id": "wanhua-chemical-laizhou-lfp-china",
+   "fields": {
+    "asset_name": "Laizhou LFP project (phase 1)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Wanhua Chemical (万华化学)",
+    "parent_company": "Wanhua Chemical Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 320000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://paper.people.com.cn/zgnyb/pc/content/202606/01/content_30160821.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-01"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Construction started 17 Mar 2026 on phase 1 (320kt/yr). Completion 'end-2026' is my reading of the article's statement that Wanhua expects 820kt of new LFP capacity in 2026 (100+200+200+320); that sentence is not in the stored quote, so ref year 2026 is partly inferred. Province (Shandong) not in the quote."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-yaan-china",
+   "fields": {
+    "asset_name": "Ya'an Xiamen Tungsten New Energy (LFP / LMFP)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP / LMFP CAM",
+    "chemistry": "LFP / LMFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Ya'an Xiamen Tungsten New Energy (雅安厦钨新能)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 80000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-11-22",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/2352996",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S8"
+    ],
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CONFLICT: Apr 2026 (S8) calls the existing line 'original 40,000 t/yr LFP' and adds a new 40,000 t/yr LFP/LMFP line (CNY 734m, 25-month build) -> 80kt plan; Nov 2025 (S4) said effective capacity was only 20kt with another 20kt planned to reach >40kt in 2026. Installed set to the confirmed Nov-2025 figure (20kt); the 40kt nameplate of the first line is nameplate not necessarily running. Ref year 2026 = publication-year fallback (new line has 25-month build). 2025 LFP sales 2.20万t (page: 'capacity still ramping'). Ya'an = Sichuan by geography, not in quote. Xiamen Tungsten LCO plants: Haijing base already in SC009 (xiamen-tungsten-new-energy-haijing-xiamen-china); not duplicated. 2025 LCO sales 6.53万t (search snippet) - company aggregate, not entered."
+  },
+  {
+   "action": "add",
+   "id": "youtian-technology-lfp-china",
+   "fields": {
+    "asset_name": "Youtian Technology LFP upgrade/expansion (Yuntianhua-Dangsheng)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Youtian Technology (友天科技)",
+    "parent_company": "Yuntianhua (云天化) / Dangsheng Technology (当升科技, buying Huayou's stake)",
+    "jv_partners": "Dangsheng Technology 51% (pending purchase from Zhejiang Youshan/Huayou), Yuntianhua 49%",
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 150000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202604253718634284.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9",
+     "S9b"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Rebuild/expansion of 150kt/yr LFP (CNY 2.654bn). Only the 100kt iron-phosphate (precursor) project has been built; LFP not built per the article. Original Yuntianhua-Huayou (Zhejiang Youshan) agreements terminated 15 Apr 2026; Dangsheng to take Huayou's stakes (1.45亿元) - pending at article date. This is how Huayou's LFP plans (task list) end up. Location not stated (Yunnan assumed by parent but not entered). ref year 2026 = publication-year fallback. A separate 200kt iron-phosphate precursor (Juneng New Materials) belongs to the precursor step - not entered here."
+  },
+  {
+   "action": "add",
+   "id": "chuanfa-longmang-lfp-china",
+   "fields": {
+    "asset_name": "Chuanfa Longmang LFP project (200kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Chuanfa Longmang (川发龙蟒)",
+    "parent_company": "Sichuan Development (川发) group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.jiemian.com/article/7695122.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-07-05"
+   },
+   "evidence": {
+    "status": [
+     "S10a"
+    ],
+    "capacity": [
+     "S10a"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "STALE: 2022 announcement (CNY 12bn for 200kt LFP + 200kt FePO4 + supporting products). Current progress/status not found; an unopened 2026 search summary also lists 'Chuanfa Longmang plans 200kt/yr LFP', so it may be unchanged. ref year 2022 = publication-year fallback. Location not stated."
+  },
+  {
+   "action": "add",
+   "id": "cnnc-titanium-lfp-china",
+   "fields": {
+    "asset_name": "CNNC Titanium (中核钛白) LFP project (500kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "CNNC Hua Yuan Titanium Dioxide (中核钛白)",
+    "parent_company": "CNNC",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.jiemian.com/article/7695122.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-07-05"
+   },
+   "evidence": {
+    "status": [
+     "S10b"
+    ],
+    "capacity": [
+     "S10b"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "STALE: announced Feb 2021 as a proposed 500kt LFP investment (Jiemian 2022-07-05). Whether any capacity has been built is unknown - candidate for removal/downgrade if a later source shows it was dropped. Location not stated."
+  },
+  {
+   "action": "add",
+   "id": "jinpu-titanium-lfp-china",
+   "fields": {
+    "asset_name": "Jinpu Titanium (金浦钛业) LFP project (200kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Jinpu Titanium (金浦钛业)",
+    "parent_company": "Jinpu Titanium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.jiemian.com/article/7695122.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-07-05"
+   },
+   "evidence": {
+    "status": [
+     "S10c"
+    ],
+    "capacity": [
+     "S10c"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "STALE: Mar 2022 announcement of CNY 10bn lithium-battery entry (200kt FePO4 + 200kt LFP); phase 1 construction was expected from Sept 2022 per the article. Current status unknown. Location not stated."
+  },
+  {
+   "action": "add",
+   "id": "hubei-yihua-lfp-china",
+   "fields": {
+    "asset_name": "Hubei Yihua LFP project (600kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Hubei Yihua (湖北宜化)",
+    "parent_company": "Hubei Yihua Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 600000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-28"
+   },
+   "evidence": {
+    "status": [
+     "S6b"
+    ],
+    "capacity": [
+     "S6b"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Press roundup (Jul 2026): Yihua announced in Feb (2026) an intended 600kt/yr LFP project. Site/phasing not in the article; Hubei province is the company's home province (not stated in the quote). ref year 2026 = publication-year fallback. Primary announcement not opened."
+  },
+  {
+   "action": "add",
+   "id": "xingfa-group-lfp-china",
+   "fields": {
+    "asset_name": "Xingfa Group LFP new 100kt project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Xingfa Group (兴发集团)",
+    "parent_company": "Xingfa Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-28"
+   },
+   "evidence": {
+    "status": [
+     "S6c"
+    ],
+    "capacity": [
+     "S6c"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Press roundup (Jul 2026): a new 100kt project 'expected to be completed in H2 2026' (ref year 2026 from that quote). Whether it is physically under construction is not stated, so status set to announced (conservative). Existing Xingfa LFP capacity, site and operator subsidiary not found."
+  },
+  {
+   "action": "add",
+   "id": "tinci-materials-lfp-china",
+   "fields": {
+    "asset_name": "Tinci Materials (天赐材料) high-compaction LFP project (160kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM (high-compaction)",
+    "chemistry": "LFP",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Tinci Materials (天赐材料)",
+    "parent_company": "Tinci Materials",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 160000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260728/c678498756.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-28"
+   },
+   "evidence": {
+    "status": [
+     "S6d"
+    ],
+    "capacity": [
+     "S6d"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Press roundup (Jul 2026): 'pre-construction work' for a 160kt/yr high-compaction LFP project. Quote is a fragment (no 'Tinci' in it); company attribution taken from the page summary. Location not found. Tinci is primarily an electrolyte maker (electrolyte task, not this row)."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-xiantao-sodium-integrated-china",
+   "fields": {
+    "asset_name": "Xiantao 300kt sodium-ion cathode integrated project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "sodium-ion CAM",
+    "chemistry": "sodium-ion",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2028,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2027": 50000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202608033829628812.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-03"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S7",
+     "S7b"
+    ],
+    "capacity_by_year_json": [
+     "S7b"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Announced 30 Jul 2026: CNY 4.723bn, 380 mu, phases 50kt / 100kt / 150kt. Phase 1 build Aug 2026 - May 2027; whole project ~24 months, so ref year 2028 is INFERRED (Aug 2026 + 24 months), only phase 1 (2027) is dated. Construction was 'planned to start formally in H2'. H1 2026 sodium-cathode shipments ~1,000 t (article). Separately, 36kr (2026-01-21, page opened, not quoted) says Ronbay converted part of its 400kt Xiantao cathode project to sodium: phase 1 -> 16.8kt sodium cathode, target 50kt sodium in 2026 - this belongs to the existing Xiantao base row in SC009 (ronbay-xiantao-china), not added here to avoid double counting. Unclear whether the 300kt integrated project is on the same Xiantao site as that base."
+  },
+  {
+   "action": "add",
+   "id": "huayang-yangquan-sodium-cathode-china",
+   "fields": {
+    "asset_name": "Huayang Shares sodium-ion cathode/anode project (Shanxi)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "sodium-ion CAM (layered oxide)",
+    "chemistry": "sodium-ion",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Huayang New Materials / Huayang Shares (华阳股份)",
+    "parent_company": "Huayang Shares (Yangquan Coal group)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shanxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.yicai.com/news/102849142.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-29"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Sep 2025: 'ten-thousand-tonne-class' sodium-ion cathode + anode materials project listed as a Shanxi provincial key project, under construction. Cathode share and exact tonnage not stated -> capacity null. An earlier 2,000 t/yr layered-oxide sodium cathode line (operating since H1 2022) appeared only in an unopened search summary of an unidentified page - not entered. Yangquan location not stated in the quote."
+  },
+  {
+   "action": "add",
+   "id": "zhongna-energy-meishan-china",
+   "fields": {
+    "asset_name": "Meishan base phase 1 (sodium-ion cathode + 2 GWh pack)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "sodium-ion CAM",
+    "chemistry": "sodium-ion",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Zhongna Energy (众钠能源)",
+    "parent_company": "Zhongna Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 10000,
+    "installed_as_of": "2026-09-19",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://cj.sina.com.cn/articles/view/2853016445/aa0d937d0270183io",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-19"
+   },
+   "evidence": {
+    "status": [
+     "S12a"
+    ],
+    "capacity": [
+     "S12a"
+    ],
+    "installed_capacity": [
+     "S12a"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Industry roundup quote: Meishan base phase 1 = 10kt cathode + 2 GWh sodium cell pack project, 'already in production'. The sentence does not state the cathode chemistry explicitly (read as sodium-ion cathode because Zhongna is a sodium-ion company and the sentence sits in the sodium-battery section). Whether the 10kt is nameplate or actual is not stated; ref year 2026 = publication-year fallback. Province from page summary."
+  },
+  {
+   "action": "add",
+   "id": "naichuang-qingshen-china",
+   "fields": {
+    "asset_name": "Naichuang Qingshen sodium iron pyrophosphate cathode project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "sodium-ion CAM (sodium iron pyrophosphate)",
+    "chemistry": "sodium-ion",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Zhejiang Naichuang New Energy (浙江钠创新能源)",
+    "parent_company": "Naichuang New Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2028,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2028": 13000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://cj.sina.com.cn/articles/view/2853016445/aa0d937d0270183io",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-19"
+   },
+   "evidence": {
+    "status": [
+     "S12b"
+    ],
+    "capacity": [
+     "S12b"
+    ],
+    "capacity_by_year_json": [
+     "S12b"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Pre-approval public notice (environmental/planning scheme, 15 Sept): 40kt/yr composite sodium iron pyrophosphate in Qingshen County (Sichuan), phase 1 13kt by Aug 2028, phase 2 27kt (undated). capacity_ref_year 2028 = phase-1 date used as the only dated step (phase 2 undated), so the 40kt total has no sourced date. Year of the notice assumed 2026 (article dated 2026-09-19)."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-malaysia-lco-malaysia",
+   "fields": {
+    "asset_name": "Malaysia 10kt cathode project (LCO core base)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LCO CAM",
+    "chemistry": "LCO",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "parent_company": "Xiamen Tungsten New Energy Materials",
+    "jv_partners": null,
+    "country": "Malaysia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": null,
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.chinabaogao.com/jingzheng/202605/797351.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-29"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S13"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "OUTSIDE the China slice (included as the only LCO plant capacity found). Quote is from a related-article teaser on the page (teaser date given as 2026-10-26, main article 2026-05-29): 10,000 t/yr, completion/production planned H1 2026, positioned as the core LCO base. Whether it was commissioned is NOT confirmed -> status under_construction at low confidence. Location in Malaysia not stated. The same teaser lists a 30kt Haijing-base expansion (LCO-compatible, ~CNY 450m) - that base is in SC009, not duplicated."
+  }
+ ],
+ "injected_instructions": "none seen"
+}

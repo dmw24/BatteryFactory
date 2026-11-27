@@ -1,0 +1,988 @@
+{
+ "task": "SC008",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738wn6jzgy3zt.pdf",
+   "publisher": "IGO Limited (ASX announcement, FY26 Financial Results)",
+   "published": "2026-08-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Kwinana Refinery, in which IGO holds a 49% interest, produced 8,839t of lithium hydroxide in FY26 compared with 6,782t in FY25"
+  },
+  "S2": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738wn6jzgy3zt.pdf",
+   "publisher": "IGO Limited (ASX announcement, FY26 Financial Results)",
+   "published": "2026-08-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production remained below guidance of 9,000–11,000t as operational challenges associated with the ramp-up continued"
+  },
+  "S3": {
+   "url": "https://www.wa.gov.au/government/media-statements/McGowan%20Labor%20Government/Largest-of-its-kind-lithium-hydroxide-plant-launched-in-Kwinana-20190910",
+   "publisher": "Government of Western Australia (media statement)",
+   "published": "2019-09-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Once fully operational, the two-stage plant will produce 48,000 tonnes of battery grade lithium hydroxide a year."
+  },
+  "S4": {
+   "url": "https://www.miningweekly.com/article/kwinana-lithium-hydroxide-refinery-australia-update-2023-10-06",
+   "publisher": "Mining Weekly",
+   "published": "2023-10-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The first train was designed for 24,000 tonnes per year of battery-grade lithium hydroxide ... The refinery comprises two individual production trains that will target the production of up to 48 000 t of lithium hydroxide once ramped up. (web-search result text; page returned HTTP 403)"
+  },
+  "S5": {
+   "url": "https://www.kitco.com/news/off-the-wire/2025-01-24/igo-ceases-work-impaired-kwinana-lithium-hydroxide-plant",
+   "publisher": "Kitco / Reuters wire",
+   "published": "2025-01-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "In January 2025, the TLEA joint venture announced it would suspend the construction of the second train of the Kwinana plant, triggering an impairment charge for IGO. (web-search result text; page not opened)"
+  },
+  "S6": {
+   "url": "https://www.albemarle.com/au/en/news/albemarle-reports-fourth-quarter-and-full-year-2025-results",
+   "publisher": "Albemarle Corporation (press release, Charlotte NC, Feb. 11, 2026)",
+   "published": "2026-02-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "placing Kemerton Train 2 in care and maintenance"
+  },
+  "S7": {
+   "url": "https://www.electrive.com/2026/02/19/albemarle-halts-lithium-processing-in-australia/",
+   "publisher": "electrive.com",
+   "published": "2026-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "as Albemarle idled the last remaining operational line, Train 1, in February."
+  },
+  "S8": {
+   "url": "https://www.nasdaq.com/articles/albemarle-announces-idling-operations-kemerton-processing-plant",
+   "publisher": "Nasdaq (Albemarle press release text, 2026-02-11)",
+   "published": "2026-02-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Each Kemerton train has an annual production capacity of 25,000 tonnes of lithium hydroxide. The full expansion would have reached 100,000 tonnes of lithium hydroxide annually at full capacity, up from the previous 50,000 tonnes. (web-search result summary of Albemarle announcement; Nasdaq page returned HTTP 503)"
+  },
+  "S9": {
+   "url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery",
+   "publisher": "Covalent Lithium (company news release, dated 14 August; year 2025 inferred from July 2025 production reference)",
+   "published": "2025-08-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "it produced its first battery-grade lithium hydroxide at its refinery in Kwinana, Western Australia."
+  },
+  "S10": {
+   "url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery",
+   "publisher": "Covalent Lithium (company news release)",
+   "published": "2025-08-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the operation is expected to ramp-up to 50,000 tonnes per annum nameplate capacity over the next 18 months."
+  },
+  "S11": {
+   "url": "https://www.albemarle.com/cl/en/what-we-offer/reliable-supply/la-negra",
+   "publisher": "Albemarle Corporation (La Negra site page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "doubled our production capacity to exceed 85,000 tons of battery-grade lithium annually"
+  },
+  "S12": {
+   "url": "https://www.albemarle.com/cl/en/what-we-offer/reliable-supply/la-negra",
+   "publisher": "Albemarle Corporation (La Negra site page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Plant III was inaugurated in June 2022 and is now fully operational."
+  },
+  "S13": {
+   "url": "https://www.albemarle.com/cl/en/what-we-offer/reliable-supply/la-negra",
+   "publisher": "Albemarle Corporation (La Negra site page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "began operations in 1984, when Plant I made the first production of Lithium Carbonate."
+  },
+  "S14": {
+   "url": "https://ir.sqm.com/system/files-encrypted/nasdaq_kms/assets/2024/12/08/20-10-55/sqm-2022-annual-report.pdf",
+   "publisher": "SQM (2022 Annual Report)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "expansion plans that will increase our capacity to 210,000 tons of lithium carbonate by 2023 and 100,000 tons of lithium hydroxide by 2025 (web-search result text; PDF not opened; plant = Salar del Carmen, Antofagasta, per same search result set / BNamericas)"
+  },
+  "S15": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024 (Item 2 Properties)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Arcadium Lithium has eight operational manufacturing facilities in six countries."
+  },
+  "S16": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "theoretical capacity for lithium carbonate and lithium chloride at Fénix of 28,000 MT and 9,000 MT"
+  },
+  "S17": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "into lithium chloride at our nearby manufacturing facility in Güemes, Argentina"
+  },
+  "S18": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Our lithium hydroxide manufacturing plant in Naraha, Japan, in which we have a 49% ownership interest"
+  },
+  "S19": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10,000 MT of lithium carbonate to lithium hydroxide capacity at Naraha Plant"
+  },
+  "S20": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc, Form 10-K FY2024",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Naraha is owned through a joint venture, TLC, with economic ownership of 75% by Arcadium and 25% by TTC."
+  },
+  "S21": {
+   "url": "https://electrek.co/2026/01/15/tesla-rare-look-lithium-refinery-confirms-production-start/",
+   "publisher": "Electrek",
+   "published": "2026-01-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "From breaking ground in 2023 to running rock through the kiln in 2024"
+  },
+  "S22": {
+   "url": "https://www.mining-technology.com/news/rio-tinto-secures-majority-interest-nemaska-lithium/",
+   "publisher": "Mining Technology",
+   "published": "2026-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Construction at the site was 60% completed by the end of 2025"
+  },
+  "S23": {
+   "url": "https://www.mining-technology.com/news/rio-tinto-secures-majority-interest-nemaska-lithium/",
+   "publisher": "Mining Technology",
+   "published": "2026-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "initial production anticipated in 2028"
+  },
+  "S24": {
+   "url": "https://www.miningweekly.com/article/rio-assumes-control-of-nemaska-lithium-after-lifting-stake-to-539-2026-02-19",
+   "publisher": "Mining Weekly",
+   "published": "2026-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "a new lithium hydroxide plant in Bécancour, Quebec, which was about 60% complete at the end of 2025 and is projected to have an annual capacity of 32,000 tonnes (web-search result text; page returned HTTP 403)"
+  },
+  "S25": {
+   "url": "https://www.electrive.com/2024/09/18/amg-lithium-opens-first-lithium-refinery-in-europe",
+   "publisher": "electrive.com",
+   "published": "2024-09-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "producing up to 20,000 tonnes of lithium hydroxide per year"
+  },
+  "S26": {
+   "url": "https://amg-nv.com/investors/press-release/amg-reports-a-solid-set-of-full-year-2025-results/",
+   "publisher": "AMG Critical Materials N.V. (press release, Amsterdam)",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The refinery in Bitterfeld has continued to ramp up its production"
+  },
+  "S27": {
+   "url": "https://amg-nv.com/investors/press-release/amg-reports-a-solid-set-of-full-year-2025-results/",
+   "publisher": "AMG Critical Materials N.V. (press release, Amsterdam)",
+   "published": "2026-02-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "reach full production capacity in the second half of 2026"
+  },
+  "S28": {
+   "url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+   "publisher": "SMM (Shanghai Metals Market) News",
+   "published": "2026-09-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "expected to produce approximately 15,000 t/y of battery-grade lithium hydroxide monohydrate"
+  },
+  "S29": {
+   "url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+   "publisher": "SMM (Shanghai Metals Market) News",
+   "published": "2026-09-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will be determined based on operational readiness and lithium market conditions"
+  },
+  "S30": {
+   "url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+   "publisher": "SMM (Shanghai Metals Market) News",
+   "published": "2026-09-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "owned 79.82% by Sibanye-Stillwater, with Finnish Minerals Group holding 20%"
+  },
+  "S31": {
+   "url": "https://www.electrive.com/2026/06/25/rock-tech-struggles-with-financing-for-lithium-converter-in-guben/",
+   "publisher": "electrive.com",
+   "published": "2026-06-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "A construction and operating permit for the lithium converter in Guben has already been in place for some time."
+  },
+  "S32": {
+   "url": "https://www.electrive.com/2026/06/25/rock-tech-struggles-with-financing-for-lithium-converter-in-guben/",
+   "publisher": "electrive.com",
+   "published": "2026-06-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "until 2029 at the earliest"
+  },
+  "S33": {
+   "url": "https://www.electrive.com/2026/06/25/rock-tech-struggles-with-financing-for-lithium-converter-in-guben/",
+   "publisher": "electrive.com",
+   "published": "2026-06-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The plant is designed for 24,000 tonnes a year of battery-grade lithium hydroxide, and a construction and operating permit has been in place for some time. (web-search result text, electrive 2026-06-25; page fetch summary agrees: 24,000 t battery-grade LiOH a year)"
+  },
+  "S34": {
+   "url": "https://en.wikipedia.org/wiki/Vulcan_Energy_Resources",
+   "publisher": "Wikipedia (secondary; no primary company source opened)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Phase One is designed to produce 24,000 tonnes of lithium hydroxide monohydrate annually"
+  },
+  "S35": {
+   "url": "https://en.wikipedia.org/wiki/Vulcan_Energy_Resources",
+   "publisher": "Wikipedia (secondary)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "took a final investment decision on Phase One of its Lionheart project in Germany"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "tlea-kwinana-lithium-hydroxide-australia",
+   "fields": {
+    "asset_name": "Kwinana lithium hydroxide refinery (Tianqi Lithium Energy Australia, TLEA)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate",
+    "operator": "Tianqi Lithium Energy Australia (TLEA)",
+    "parent_company": "Tianqi Lithium Corporation (51%)",
+    "jv_partners": "Tianqi Lithium Corporation 51%, IGO Limited 49%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -32.24,
+    "longitude": 115.77,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 24000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 8839,
+    "production_unit": "t LiOH",
+    "production_year": 2026,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738wn6jzgy3zt.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-27"
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S2"
+    ],
+    "capacity": [
+     "S4",
+     "S5"
+    ],
+    "production": [
+     "S1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Production 8,839 t LiOH is for IGO fiscal year ended 30 June 2026 (FY25: 6,782 t); FY27 guidance 9,000-11,000 t; below guidance due to ramp-up problems (100% basis). Capacity = Train 1 only (24,000 t/y design, reported tier from Mining Weekly 2023 snippet); original two-train plan was 48,000 t/y (WA Govt 2019: 'two-stage plant will produce 48,000 tonnes'; source S3 not cited in evidence because it describes the superseded full plan). Train 2 construction suspended Jan 2025 (reported snippet S5). Train 1 was fully impaired by IGO at 30 June 2025 but continues to operate. capacity_ref_year 2025 = date Train 2 suspended (publication-year-style fallback). Installed capacity not separately stated; left null. Capacity confidence lower than production. Greenbushes (spodumene feed) is a separate mining asset. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-kemerton-lithium-hydroxide-australia",
+   "fields": {
+    "asset_name": "Kemerton lithium hydroxide processing plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate",
+    "operator": "Albemarle Corporation",
+    "parent_company": "Albemarle Corporation",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -33.17,
+    "longitude": 115.75,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.albemarle.com/au/en/news/albemarle-reports-fourth-quarter-and-full-year-2025-results",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-11"
+   },
+   "evidence": {
+    "status": [
+     "S6",
+     "S7"
+    ],
+    "capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Train 2 placed in care and maintenance in 2024 and construction of Trains 3 and 4 stopped (Albemarle FY2025 release, S6 and same release text 'stopping construction of Kemerton Trains 3 and 4'); remaining operating Train 1 idled / put in care and maintenance on 11 Feb 2026 (S7 electrive; press release reported via Nasdaq/search summaries). So the plant has zero operating trains from Feb 2026: status stays operational (commercial production was reached) with project_state paused. Capacity 50,000 t/y = two built trains x 25,000 (reported tier, search-result summary of the Albemarle announcement; Nasdaq page 503). The 100,000 t/y 4-train plan is cancelled/superseded and not used. capacity_ref_year 2024 = year Trains 3/4 were cancelled. No plant-level production disclosed by Albemarle in sources opened. A Mineral Resources (MinRes) minority stake in the Kemerton asset (task brief mentions Albemarle/MinRes) was NOT verified in any source opened, so jv_partners is left null."
+  },
+  {
+   "action": "add",
+   "id": "covalent-lithium-kwinana-refinery-australia",
+   "fields": {
+    "asset_name": "Covalent Lithium Kwinana lithium hydroxide refinery",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate (Mt Holland)",
+    "operator": "Covalent Lithium Pty Ltd",
+    "parent_company": "Wesfarmers / SQM (50:50)",
+    "jv_partners": "Wesfarmers Limited 50%, Sociedad Química y Minera de Chile (SQM) 50%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -32.25,
+    "longitude": 115.77,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 50000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-08-14"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "First battery-grade LiOH July/Aug 2025; ramp-up to 50,000 t/y nameplate expected 'over the next 18 months' from the Aug 2025 release, so capacity_ref_year 2027 is my inference (Aug 2025 + 18 months = early 2027). Web-search summary of Wesfarmers FY26 results (27 Aug 2026; not opened) says ramp-up affected by intermittent odour issues and conversion below design rate through FY27 - no hydroxide tonnage found. Release page shows '14 August' without year; 2025 inferred from content. Production not disclosed in sources opened."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-la-negra-lithium-carbonate-chile",
+   "fields": {
+    "asset_name": "La Negra chemical plant (Plants I-III)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "carbonate conversion plant",
+    "feedstock": "brine concentrate from Salar de Atacama",
+    "operator": "Albemarle Limitada",
+    "parent_company": "Albemarle Corporation",
+    "jv_partners": null,
+    "country": "Chile",
+    "region": "South America",
+    "province_state": "Antofagasta",
+    "latitude": -23.77,
+    "longitude": -70.31,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 1984,
+    "capacity": 85000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2022,
+    "installed_capacity": 85000,
+    "installed_as_of": "2022-06-30",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.albemarle.com/cl/en/what-we-offer/reliable-supply/la-negra",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S11"
+    ],
+    "installed_capacity": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Company page: Plant I began 1984, Plant II inaugurated May 2017, Plant III inaugurated June 2022 and fully operational; capacity 'exceed 85,000 tons of battery-grade lithium annually' (unit stated as tons of battery-grade lithium; recorded as t Li2CO3 because the plant makes carbonate - ambiguous whether metric tons LCE; page undated). installed_as_of 2022-06-30 = month Plant III inaugurated (day approximated; page gives only 'June 2022'). Page does not state current utilisation. Search-result snippet from a 2020 Albemarle 10-K: ~42,000 t LCE produced at La Negra in 2020 (before Plant III) - not used. Albemarle's FY2024 release (search snippet) reports record Q4-2024 production at La Negra. Plant is at Antofagasta, the brine itself is mined at Salar de Atacama (mining row belongs to SC002)."
+  },
+  {
+   "action": "add",
+   "id": "sqm-salar-del-carmen-chile",
+   "fields": {
+    "asset_name": "Salar del Carmen lithium carbonate and hydroxide plants",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate and lithium hydroxide",
+    "asset_type": "carbonate and hydroxide plant",
+    "feedstock": "brine concentrate from Salar de Atacama",
+    "operator": "SQM (Nova Andino Litio, formerly SQM Salar)",
+    "parent_company": "SQM",
+    "jv_partners": null,
+    "country": "Chile",
+    "region": "South America",
+    "province_state": "Antofagasta",
+    "latitude": -23.65,
+    "longitude": -70.4,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 210000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://ir.sqm.com/system/files-encrypted/nasdaq_kms/assets/2024/12/08/20-10-55/sqm-2022-annual-report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "capacity": [
+     "S14"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "REPORTED TIER ONLY (annual report PDF and 20-F not opened; SQM IR site returned 403). 2022 annual report plan: 210,000 t Li2CO3 by 2023 and 100,000 t LiOH by 2025 (other search results cite 210,000/40,000 in 2022 S&P and 30,000 t LiOH capacity in 2022; a 2024 Bloomberg/Mining.com piece says expansion from ~200,000 to up to 300,000 t, and a Statista chart says LiOH 100,000 t by end-2025). Hydroxide capacity (100,000 t by 2025) not entered as a separate figure because unit/products are mixed in one row; the lead may split carbonate vs hydroxide. Search snippets for SQM FY2025 results (27 Feb 2026) say Nova Andino Litio sold 233.1 kt LCE in 2025 (all Chile, incl. Salar de Atacama brine products; not plant production) and ops 'running at full capacity'. Plant location: Antofagasta area (city coordinate only). Coya Sur (at the salar) is salar-side = SC002."
+  },
+  {
+   "action": "add",
+   "id": "arcadium-guemes-lithium-chloride-argentina",
+   "fields": {
+    "asset_name": "Güemes lithium chloride plant (Fénix chain)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium chloride",
+    "asset_type": "chloride plant",
+    "feedstock": "brine from Salar del Hombre Muerto (Fénix)",
+    "operator": "Arcadium Lithium (Minera del Altiplano)",
+    "parent_company": "Arcadium Lithium plc (acquired by Rio Tinto; closing not verified in sources opened)",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": -24.67,
+    "longitude": -65.05,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 9000,
+    "capacity_unit": "t LiCl",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S15",
+     "S17"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Güemes is the non-salar finishing plant (lithium chloride) fed from Fénix at Salar del Hombre Muerto (Catamarca; salar-side = SC002). 10-K FY2024 quote gives 9,000 MT LiCl 'theoretical capacity ... at Fénix' (the LiCl is made at Güemes per second quote); unit is 'MT' of LiCl product, assumed metric tons LiCl. FY2024 10-K filed 2025 (exact date not captured). Fénix combined output ~47,600 t LCE in 2024 (carbonate+LiCl) per 10-K - not attributable to Güemes alone. Livent/Arcadium 'Palpalá' not found in any source opened (Sales de Jujuy / Olaroz is at the salar in Jujuy: SC002)."
+  },
+  {
+   "action": "add",
+   "id": "arcadium-bessemer-city-lithium-hydroxide-united-states",
+   "fields": {
+    "asset_name": "Bessemer City lithium hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide plant",
+    "feedstock": "lithium carbonate",
+    "operator": "Arcadium Lithium (ex-Livent)",
+    "parent_company": "Arcadium Lithium plc (acquired by Rio Tinto; closing not verified in sources opened)",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "North Carolina",
+    "latitude": 35.28,
+    "longitude": -81.28,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Item 2 Properties table of the Arcadium FY2024 10-K lists 'Bessemer City, North Carolina - Manufacturing and Research - Owned' among eight operational manufacturing facilities; the 10-K also says battery-grade hydroxide in 'the U.S., China and Japan' is made from lithium carbonate. Capacity NOT found in the parts of the 10-K I read (about 300k of 358k characters; Item 1 business capacity table not located). Status operational is inferred from 'eight operational manufacturing facilities' + site listing. Located gap: nameplate (~ 20,000 t LiOH historically) must be sourced by a follow-up."
+  },
+  {
+   "action": "add",
+   "id": "toyotsu-lithium-naraha-lithium-hydroxide-japan",
+   "fields": {
+    "asset_name": "Naraha lithium hydroxide plant (Toyotsu Lithium Corporation, TLC)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide plant",
+    "feedstock": "lithium carbonate",
+    "operator": "Toyotsu Lithium Corporation (TLC)",
+    "parent_company": "Toyota Tsusho / Arcadium Lithium",
+    "jv_partners": "Arcadium Lithium 75% economic interest, Toyota Tsusho Corporation (TTC) 25%",
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Fukushima",
+    "latitude": 37.28,
+    "longitude": 140.98,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "10-K FY2024 phrase: '10,000 MT of lithium carbonate to lithium hydroxide capacity at Naraha Plant' (excluded from Arcadium's company-wide total because it is equity-method). Interpreted as 10,000 t/y LiOH (unit 'MT', hydroxide basis not stated: monohydrate assumed per D-102). Ownership: Arcadium holds 49% directly and 75% economic via TLC (S18 and S20: 'Naraha is owned through a joint venture, TLC, with economic ownership of 75% by Arcadium and 25% by TTC.'). Parent after Rio Tinto acquisition not verified. Toyotsu Lithium = Toyota Tsusho entity (name not verified in sources)."
+  },
+  {
+   "action": "add",
+   "id": "tesla-robstown-lithium-refinery-united-states",
+   "fields": {
+    "asset_name": "Tesla Texas lithium refinery (Robstown)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene",
+    "operator": "Tesla, Inc.",
+    "parent_company": "Tesla, Inc.",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Texas",
+    "latitude": 27.79,
+    "longitude": -97.67,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "Tesla (captive)",
+    "end_market": "battery",
+    "source_url": "https://electrek.co/2026/01/15/tesla-rare-look-lithium-refinery-confirms-production-start/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Electrek (15 Jan 2026): Tesla video confirms production start; site manager timeline: broke ground 2023, rock through kiln 2024, full integrated startup 2025. Process: kiln, alkaline leach, crystallisation to battery-grade LiOH. NO capacity in tonnes found: secondary web-search results quote ~50 GWh/yr-equivalent and 'over 500,000 EVs/yr' (Argus) vs '1 million vehicles' (Musk/blog) - these are not tonnage and not entered. Electrek says it is unclear whether the plant operates at meaningful capacity. start_year 2025 is the full integrated startup per site manager (kiln run in 2024)."
+  },
+  {
+   "action": "add",
+   "id": "nemaska-lithium-becancour-lithium-hydroxide-canada",
+   "fields": {
+    "asset_name": "Bécancour lithium hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate (Whabouchi)",
+    "operator": "Nemaska Lithium",
+    "parent_company": "Rio Tinto",
+    "jv_partners": "Rio Tinto 53.9%, Government of Québec (Investissement Québec) 46.1%",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Québec",
+    "latitude": 46.35,
+    "longitude": -72.43,
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 32000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2028,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mining-technology.com/news/rio-tinto-secures-majority-interest-nemaska-lithium/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-19"
+   },
+   "evidence": {
+    "status": [
+     "S22",
+     "S23"
+    ],
+    "capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Construction 60% complete at end-2025; commissioning to begin 2026; initial production 2028 (Mining Technology 19 Feb 2026). Ownership 53.9/46.1 per same article (fetched summary). Capacity 32,000 t/y LiOH is reported tier (Mining Weekly 403; search-result text); sources I saw consistently say 32,000 t. A later search summary (undated) says Rio is slowing the build pace with timeline 'largely unaffected' and Bloomberg suggests full restart in 2027 / ~70% complete - unverified, conflicting with 2028 first production; check Rio Tinto Q3-2026 operations review. capacity_ref_year 2028 = first-production year (full-rate year not stated). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "amg-lithium-bitterfeld-lithium-hydroxide-germany",
+   "fields": {
+    "asset_name": "AMG Lithium Bitterfeld hydroxide refinery",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate (AMG Mibra, Brazil)",
+    "operator": "AMG Lithium GmbH",
+    "parent_company": "AMG Critical Materials N.V.",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Saxony-Anhalt",
+    "latitude": 51.62,
+    "longitude": 12.32,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 20000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "European cathode makers (qualification stage)",
+    "end_market": "battery",
+    "source_url": "https://amg-nv.com/investors/press-release/amg-reports-a-solid-set-of-full-year-2025-results/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-25"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ],
+    "capacity": [
+     "S25",
+     "S27"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "First module opened Sept 2024 (electrive 18 Sep 2024: 'producing up to 20,000 tonnes of lithium hydroxide per year' at full capacity). AMG FY2025 release (25 Feb 2026): refinery continuing to ramp up, producing in-spec battery-grade hydroxide, ton-scale customer qualification shipments H1 2026, 'full production capacity in the second half of 2026'. No annual production tonnage disclosed (not found). AMG's longer-term ambition of 100,000 t/y (search summaries, five modules) is not included - undated aspiration. A separate 5,000 t carbonate-to-hydroxide recycling-feed plant at the site is engineering-stage (US$50m) and not added. Conflicting search-result claim of 'initial capacity up to 35,000 tpa' / EUR 1bn not used (unverified). start_year 2024 = opening/first production."
+  },
+  {
+   "action": "add",
+   "id": "keliber-kokkola-lithium-hydroxide-finland",
+   "fields": {
+    "asset_name": "Keliber Kokkola lithium hydroxide refinery",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide monohydrate",
+    "asset_type": "hydroxide refinery",
+    "feedstock": "spodumene concentrate (Syväjärvi etc.)",
+    "operator": "Keliber Oy",
+    "parent_company": "Sibanye-Stillwater",
+    "jv_partners": "Sibanye-Stillwater 79.82%, Finnish Minerals Group 20%, other Finnish shareholders 0.18%",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Central Ostrobothnia",
+    "latitude": 63.84,
+    "longitude": 23.13,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 15000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2028,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104101588-smm-news-sibanye-stillwaters-keliber-lithium-hydroxide-project-advances-to-staged-production-in-finland",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-07"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ],
+    "capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "SMM 7 Sep 2026: ~15,000 t/y LiOH monohydrate at full integrated production; refinery ramp-up timing 'determined based on operational readiness and lithium market conditions'. Search summaries (S&P Jul 2026, others, not opened) say refinery construction is complete and moving through commissioning prep, hot commissioning planned Q4 2026, steady state 2028 - so status could be argued as commissioning; kept under_construction since no commercial production is reported. capacity_ref_year 2028 from search summaries (steady-state date), not from the opened page. Ownership quote S30."
+  },
+  {
+   "action": "add",
+   "id": "rock-tech-lithium-guben-converter-germany",
+   "fields": {
+    "asset_name": "Guben lithium converter",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "hydroxide converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Rock Tech Lithium (Rock Tech Lithium GmbH)",
+    "parent_company": "Rock Tech Lithium Inc.",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Brandenburg",
+    "latitude": 51.95,
+    "longitude": 14.72,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 24000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2029,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "Mercedes-Benz (10,000 t/y binding offtake, per Argus search snippet)",
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2026/06/25/rock-tech-struggles-with-financing-for-lithium-converter-in-guben/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-25"
+   },
+   "evidence": {
+    "status": [
+     "S31",
+     "S32"
+    ],
+    "capacity": [
+     "S33"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Permitted but no financing (EUR 750m capex, lacks private investors); no construction start date; production could start 'until 2029 at the earliest' (originally 2027); construction ~2.5 years. Status announced (permitted, no physical works); project_state paused (stalled on financing, not cancelled: company says it still intends to build). capacity_ref_year 2029 = earliest start, not a full-rate date. Argus snippet says design was transferred to Canada for an integrated Ontario model (Red Rock converter) - fragmentary, unverified."
+  },
+  {
+   "action": "add",
+   "id": "vulcan-lionheart-hoechst-lithium-hydroxide-germany",
+   "fields": {
+    "asset_name": "Vulcan Lionheart Phase One lithium hydroxide (Frankfurt-Höchst)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide monohydrate",
+    "asset_type": "hydroxide plant (geothermal brine route)",
+    "feedstock": "lithium chloride from geothermal brine (Upper Rhine Valley)",
+    "operator": "Vulcan Energy Resources",
+    "parent_company": "Vulcan Energy Resources",
+    "jv_partners": "Nobian (Höchst hydroxide JV announced; share not stated in source)",
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Hesse",
+    "latitude": 50.1,
+    "longitude": 8.54,
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 24000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://en.wikipedia.org/wiki/Vulcan_Energy_Resources",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S35"
+    ],
+    "capacity": [
+     "S34"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "WEAK: sourced only from Wikipedia (secondary), no company/ASX source opened (search budget exhausted; vulcan website timed out). Wikipedia: FID on Phase One Dec 2025, construction began that month, financial close May 2026, Phase One 24,000 t/y LiOH monohydrate; separately Nobian-Vulcan JV announced for a lithium refinery at Höchst Industrial Park (Frankfurt) converting LiCl to LiOH by electrolysis - Wikipedia gives no capacity/status for that plant. Unclear whether the 24,000 t LiOH Phase One conversion is physically at Höchst (the lead should verify against Vulcan's ASX/company releases). Brine extraction (geothermal) sites are salar-side equivalents and not in this row. Needs re-verification before use. [lead] capacity_ref_year = access-year (source undated) fallback."
+  }
+ ]
+}

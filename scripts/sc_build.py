@@ -29,7 +29,7 @@ COLUMNS = [
     "status", "project_state", "announced_year", "start_year",
     "capacity", "capacity_unit", "capacity_ref_year", "capacity_norm", "installed_capacity", "installed_as_of",
     "installed_norm", "capacity_by_year_json",
-    "production", "production_unit", "production_year", "production_norm", "norm_unit",
+    "production", "production_unit", "production_year", "production_norm", "norm_unit", "production_norm_unit",
     "reserves_resources", "feeds", "offtakers", "end_market",
     "source_url", "source_date", "source_published_date", "confidence", "research_notes",
     "last_verified", "verified_by_task", "reported_fields", "evidence_tier",
@@ -56,7 +56,7 @@ def units():
 
 
 def apply_patches():
-    df = pd.DataFrame(columns=COLUMNS).set_index("id", drop=False)
+    df = pd.DataFrame({c: pd.Series(dtype=object) for c in COLUMNS}).set_index("id", drop=False)
     ev_rows, removed, log = [], [], []
     for path in sorted(glob.glob(os.path.join(SC, "patches/*.json"))):
         name = os.path.basename(path)
@@ -79,7 +79,7 @@ def apply_patches():
                     sys.exit(f"ERROR {name}: add of existing id {rid}; use update")
                 new = {c: None for c in COLUMNS}
                 new.update(id=rid, project_state="active")
-                df.loc[rid] = pd.Series(new)
+                df.loc[rid] = pd.Series(new, dtype=object)
             elif action in ("update", "fix"):
                 if rid not in df.index:
                     sys.exit(f"ERROR {name}: {action} of unknown id {rid}")
@@ -134,6 +134,9 @@ def normalise(df):
             df.at[i, "installed_norm"] = round(r.installed_capacity * fac, 1)
         if pd.isna(r.production_norm) and pfac is not None and pd.notna(r.production):
             df.at[i, "production_norm"] = round(r.production * pfac, 1)
+        if pd.notna(df.at[i, "production_norm"]):
+            # researcher-given production_norm is in the row's norm_unit; otherwise the unit's own norm unit
+            df.at[i, "production_norm_unit"] = pu if (pd.isna(r.production_norm) and pu) else df.at[i, "norm_unit"]
     return df
 
 

@@ -33,3 +33,5 @@ t copper foil,t copper foil,1,battery copper foil
 t aluminium foil,t aluminium foil,1,battery aluminium foil
 t black mass,t black mass,1,recycling output
 t feed,t feed,1,recycling input (batteries/scrap)
+t lithium sulphate,t LCE,0.672,Li2SO4 to LCE (73.89/109.94)
+t petalite concentrate,t LCE,,grade varies; normalised only via capacity_lce_t

@@ -1,0 +1,1373 @@
+{
+ "task": "SC002",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://source.benchmarkminerals.com/article/sqm-atacama-lithium-operation-secured-to-2060-with-codelco-partnership-approval",
+   "publisher": "Benchmark Mineral Intelligence (free article)",
+   "published": "2026-01-02",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The operation currently has a capacity of ~210,000 tonnes of lithium carbonate per year,... with capacity due to ramp up to 300,000 tonnes per year by 2030."
+  },
+  "S2": {
+   "url": "https://finance.yahoo.com/news/sociedad-quimica-y-minera-q4-171553093.html",
+   "publisher": "Yahoo Finance (SQM Q4 2025 earnings call summary)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "2025 production ran according to schedule, reaching 234,000"
+  },
+  "S3": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025 (SEC)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we process it into lithium carbonate and lithium chloride at our manufacturing facilities in nearby La Negra, Chile."
+  },
+  "S4": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025 (SEC), Item 2 Properties, aggregate annual production table",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Aggregate Annual Production (metric tonnes in thousands)... Lithium production amounts shown as lithium metal. Conversion to lithium carbonate equivalent (\"LCE\") is 0.1878 metric tonne of lithium metal to 1 metric tonne of LCE."
+  },
+  "S5": {
+   "url": "https://www.industrialinfo.com/news/article/codelco-receives-government-contract-to-further-develop-chiles-maricunga-salt-flat-for-lithium--353473",
+   "publisher": "Industrial Info Resources",
+   "published": "2026-02-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The project targets producing 55,000 tons of lithium carbonate equivalent (LCE) per year by 2033, in two phases."
+  },
+  "S6": {
+   "url": "https://www.riotinto.com/news/releases/2025/rio-tinto-partners-with-codelco-to-develop-lithium-project-in-chiles-salar-de-maricunga",
+   "publisher": "Rio Tinto (press release)",
+   "published": "2025-05-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Rio Tinto will acquire a 49.99% interest in Salar de Maricunga SpA."
+  },
+  "S7": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+   "publisher": "Rio Tinto Q1 2026 operations review (Form 6-K, SEC)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Binding agreement with ENAMI to form a JV to develop the Salares Altoandinos project."
+  },
+  "S8": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+   "publisher": "Rio Tinto Q1 2026 operations review (Form 6-K, SEC)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Olaroz: Impacted by early-year heavy rainfall along with subsequent low evaporation rates."
+  },
+  "S9": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+   "publisher": "Rio Tinto Q1 2026 operations review (Form 6-K, SEC)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Capacity: 60ktpa (battery grade lithium carbonate)."
+  },
+  "S10": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+   "publisher": "Rio Tinto Q1 2026 operations review (Form 6-K, SEC)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Rincón starter plant: Continued to ramp up and delivered higher output versus the previous quarter."
+  },
+  "S11": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+   "publisher": "Rio Tinto Q1 2026 operations review (Form 6-K, SEC)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The project achieved mechanical completion and full commissioning in February 2026."
+  },
+  "S12": {
+   "url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+   "publisher": "Rio Tinto (press release)",
+   "published": "2026-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Both projects achieved first production in the second quarter ahead of plan and are now ramping up production."
+  },
+  "S13": {
+   "url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+   "publisher": "Rio Tinto (press release)",
+   "published": "2026-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Fénix 1B expansion adds 10,000 tonnes of annual LCE capacity to the existing operation"
+  },
+  "S14": {
+   "url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+   "publisher": "Rio Tinto (press release)",
+   "published": "2026-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with a target of annual LCE capacity of 15,000 tonnes."
+  },
+  "S15": {
+   "url": "https://www.northernminer.com/news/rio-opens-1-4b-lithium-projects-in-argentina/1003896271/",
+   "publisher": "The Northern Miner",
+   "published": "2026-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "combined target capacity of 97,500 tonnes LCE annually"
+  },
+  "S16": {
+   "url": "https://miningdataonline.com/property/3457/Olaroz-Mine.aspx",
+   "publisher": "MiningDataOnline (free page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "raising total capacity at Olaroz to 42.5 ktpa LCE in 2030."
+  },
+  "S17": {
+   "url": "https://www.argentina.gob.ar/sites/default/files/compendio_estadistico_de_la_actividad_minera_1er_semestre_2025.pdf",
+   "publisher": "Secretaría de Minería de la Nación Argentina, Compendio Estadístico de la Actividad Minera Metalífera y Compuestos de Litio, 1er semestre 2025 (p.11)",
+   "published": "2025-11-01",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "quote": "La producción nacional de litio alcanzó aproximadamente 74.860 Tn LCE, generadas en 5 proyectos operativos. Es importante mencionar que los mayores volúmenes provienen de Fénix, Olaroz y Cauchari-Olaroz"
+  },
+  "S18": {
+   "url": "https://finviz.com/news/267854/lithium-argentina-announces-2025-production-results-for-cauchari-olaroz-and-leadership-updates",
+   "publisher": "Lithium Argentina AG press release (via Finviz), 2026-01-06",
+   "published": "2026-01-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full-year 2025 production totaled approximately 34,100 tonnes of lithium carbonate"
+  },
+  "S19": {
+   "url": "https://finviz.com/news/267854/lithium-argentina-announces-2025-production-results-for-cauchari-olaroz-and-leadership-updates",
+   "publisher": "Lithium Argentina AG press release (via Finviz), 2026-01-06",
+   "published": "2026-01-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Fourth quarter 2025 production reached approximately 9,700 tonnes,... an average operating rate of 97% nameplate capacity."
+  },
+  "S20": {
+   "url": "https://www.industrialinfo.com/news/article/lithium-argentina-eyes-two-major-project-kickoffs-in-2026--351649",
+   "publisher": "Industrial Info Resources",
+   "published": "2026-01-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "preparing to submit the RIGI application for its Pozuelos-Pastos Grandes (PPG) project"
+  },
+  "S21": {
+   "url": "https://www.barchart.com/story/news/36019490/lithium-argentina-reports-third-quarter-2025-results-and-results-of-ppg-scoping-study",
+   "publisher": "Lithium Argentina Q3 2025 results (via Barchart)",
+   "published": "2025-11-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary only (page body not opened): Lithium Argentina has executed a letter of intent with Ganfeng to jointly develop the Pozuelos-Pastos Grandes projects, with a capacity of up to 150,000 tpa; scoping study after-tax NPV $8.1 billion at $18,000/t."
+  },
+  "S22": {
+   "url": "https://www.panorama-minero.com/en/news/catamarca-zijin-liex-launches-tres-quebradas-in-fiambala",
+   "publisher": "Panorama Minero",
+   "published": "2025-09-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The 3Q plant will initially produce 20,000 tons per year of industrial-grade lithium carbonate."
+  },
+  "S23": {
+   "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2731496-china-s-zijin-to-start-li-output-in-argentina",
+   "publisher": "Argus Media",
+   "published": "2025-09-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search-result summary only (page body not opened): Zijin-Liex began lithium carbonate production at its Tres Quebradas (3Q) project in Catamarca province on Friday 12 September 2025; Zijin expects 3Q to reach 40,000-60,000 t/yr once all expansion phases are complete."
+  },
+  "S24": {
+   "url": "https://news.metal.com/newscontent/103180768/Ganfeng-Lithiums-Mariana-project-commences-production",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-02-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Its first phase has an annual production capacity of 20,000 tonnes of lithium chloride."
+  },
+  "S25": {
+   "url": "https://news.metal.com/newscontent/103180768/Ganfeng-Lithiums-Mariana-project-commences-production",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-02-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ganfeng Lithium's Mariana salt lake project officially commenced production"
+  },
+  "S26": {
+   "url": "https://www.riotimesonline.com/argentina-posco-lithium-plant-salta-2026/",
+   "publisher": "The Rio Times",
+   "published": "2026-10-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "On Tuesday 6 October, POSCO formally inaugurated Plant II of its Sal de Oro project"
+  },
+  "S27": {
+   "url": "https://www.riotimesonline.com/argentina-posco-lithium-plant-salta-2026/",
+   "publisher": "The Rio Times",
+   "published": "2026-10-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The plant is designed to make about 23,000 tonnes of lithium carbonate a year, all of it for export."
+  },
+  "S28": {
+   "url": "https://www.just-auto.com/news/posco-completes-second-upstream-lithium-plant-in-argentina/",
+   "publisher": "Just Auto",
+   "published": "2026-10-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "total lithium processing capacity at the Salar del Hombre Muerto site is now around 48,000 tons per year"
+  },
+  "S29": {
+   "url": "https://smallcaps.com.au/article/galan-produces-first-batch-of-processed-lithium-chloride-from-hmw-project",
+   "publisher": "Smallcaps (Galan Lithium ASX news)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "expects processing to be stabilised at an annualised rate of 4,000 tonnes per annum lithium carbonate equivalent (LCE)."
+  },
+  "S30": {
+   "url": "https://smallcaps.com.au/article/galan-produces-first-batch-of-processed-lithium-chloride-from-hmw-project",
+   "publisher": "Smallcaps (Galan Lithium ASX news)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Pond construction works for a Phase 1 expansion to 5,200tpa"
+  },
+  "S31": {
+   "url": "https://smallcaps.com.au/article/galan-produces-first-batch-of-processed-lithium-chloride-from-hmw-project",
+   "publisher": "Smallcaps (Galan Lithium ASX news)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Galan holds construction permits for Phase 2 of the HMW project (up 21,000tpa LCE)"
+  },
+  "S32": {
+   "url": "https://smallcaps.com.au/article/galan-produces-first-batch-of-processed-lithium-chloride-from-hmw-project",
+   "publisher": "Smallcaps (Galan Lithium ASX news)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Galan Lithium (ASX: GLN) has commissioned the first batch of processed lithium chloride"
+  },
+  "S33": {
+   "url": "https://eramine.eramet.com/en/?p=52183",
+   "publisher": "Eramine Sudamerica (Eramet), news 2024-12-24",
+   "published": "2024-12-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we have reached our most anticipated milestone: the first production of lithium carbonate at our Centenario plant... It is designed to extract and produce 24,000 tons annually of battery-grade lithium carbonate."
+  },
+  "S34": {
+   "url": "https://eramine.eramet.com/en/?p=50940",
+   "publisher": "Eramine Sudamerica (Eramet), news 2026-11-06",
+   "published": "2026-11-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In October 2026, we reached our nominal production capacity of 2,000 tonnes of lithium carbonate per month"
+  },
+  "S35": {
+   "url": "https://www.argosyminerals.com.au/",
+   "publisher": "Argosy Minerals (company website)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "toward a 12,000tpa scale operation"
+  },
+  "S36": {
+   "url": "https://lakeresources.com.au/",
+   "publisher": "Lake Resources (company website)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "MAJOR MILESTONE ACHIEVED: LAKE RESOURCES GRANTED ENVIRONMENTAL IMPACT DECLARATION FOR KACHI; ADVANCES TO FEED PHASE",
+   "tier": "reported",
+   "snippet": "MAJOR MILESTONE ACHIEVED: LAKE RESOURCES GRANTED ENVIRONMENTAL IMPACT DECLARATION FOR KACHI; ADVANCES TO FEED PHASE",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S37": {
+   "url": "https://www.lithiumenergy.com.au/",
+   "publisher": "Lithium Energy Ltd (company website, media headline 2025-02-17)",
+   "published": "2025-02-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Lithium Energy granted final permit for project in Argentina"
+  },
+  "S38": {
+   "url": "https://chequeado.com/el-explicador/litio-en-jujuy-salta-y-catamarca-cuales-son-los-proyectos-mas-importantes-en-esta-region/",
+   "publisher": "Chequeado (data: Secretaría de Minería dashboard updated 2025-12-04)",
+   "published": "2026-02-26",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "tier": "reported",
+   "snippet": "Table row as extracted by the fetch tool (page body is a table, not a sentence): Sal de los Ángeles | Revotech Asia | Salta | Construcción. Also: 'En esta región, hay 57 proyectos de litio. Existen 7 que ya están en etapa de producción y 5, en construcción.'"
+  },
+  "S39": {
+   "url": "https://www.df.cl/empresas/mineria/escondida-impulsa-record-anual-de-cobre-de-rio-tinto-produccion-total-de",
+   "publisher": "Diario Financiero (Chile)",
+   "published": "2026-01-21",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "quote": "En total, Rio Tinto alcanzó una producción de 68.000 toneladas de carbonato de litio equivalente (LCE)"
+  },
+  "S40": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025 (SEC)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The contract originally permitted the production and sale of up to 200,000 metric tons of lithium metal equivalent"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "novaandino-litio-salar-de-atacama-chile",
+   "fields": {
+    "asset_name": "Salar de Atacama (SQM / NovaAndino Litio)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium brine (LCE; carbonate/hydroxide made off-salar at Salar del Carmen, task SC008)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "NovaAndino Litio (SQM Salar / Codelco Minera Tarar)",
+    "parent_company": "SQM; Codelco",
+    "jv_partners": "Codelco, SQM",
+    "country": "Chile",
+    "region": "South America",
+    "province_state": "Antofagasta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2030,
+    "capacity_norm": 300000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 210000,
+    "installed_as_of": "2026-01-02",
+    "capacity_by_year_json": {
+     "2030": 300000
+    },
+    "production": 234000,
+    "production_unit": "t LCE",
+    "production_year": 2025,
+    "production_norm": 234000,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://source.benchmarkminerals.com/article/sqm-atacama-lithium-operation-secured-to-2060-with-codelco-partnership-approval",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-02"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "capacity": [
+     "S1"
+    ],
+    "installed_capacity": [
+     "S1"
+    ],
+    "capacity_by_year_json": [
+     "S1"
+    ],
+    "production": [
+     "S2"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Single Salar de Atacama brine row for SQM's concession (NovaAndino Litio since 2025 SQM-Codelco merger; SQM controls until 2031 per press). Production 234,000 t LCE 2025 is quoted by the NovaAndino CEO on the SQM Q4 2025 call (Yahoo summary); search-result text from a second report gives chairman figure 233,000 t LCE (not opened). The same call says ~50 (unit missing in the page) was produced in China from Atacama lithium, so this is brine-sourced LCE sold/produced across Chile and China conversion, not Chilean plant output alone. Benchmark's ~210,000 t current capacity is below the 234,000 t 2025 output: conflict, capacity is a press estimate; installed_as_of is the Benchmark article date. Brine-extraction quota and Salar del Carmen carbonate plant belong to SC008 / are not modelled here. Coordinates not taken (no source coordinates)."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-salar-de-atacama-chile",
+   "fields": {
+    "asset_name": "Salar de Atacama (Albemarle)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium brine (LCE; carbonate/chloride made off-salar at La Negra, task SC008)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Albemarle (Sociedad Chilena del Litio)",
+    "parent_company": "Albemarle Corp",
+    "jv_partners": null,
+    "country": "Chile",
+    "region": "South America",
+    "province_state": "Antofagasta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 14000,
+    "production_unit": "t Li",
+    "production_year": 2025,
+    "production_norm": 74547,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "production": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Production 14 thousand tonnes lithium metal for Salar de Atacama in 2025 (13 in 2024, 10 in 2023) is read from the 10-K Item 2 aggregate production table; the quote locates the table and states the conversion factor 0.1878 t Li per t LCE, so production_norm = 14,000/0.1878 = 74,547 t LCE (rounded; 10-K reports whole thousands so +/-3.6 kt LCE). Albemarle gives no nameplate capacity in the 10-K excerpt read; capacity left null. Authorised quota: 'up to 200,000 metric tons of lithium metal equivalent' plus 262,132 t LME (2017 annex), ends earlier of quota exhaustion or 1 Jan 2044 (S40, 10-K; second figure seen in the same page, not separately quoted). Chilean carbonate/chloride plants at La Negra are off-salar (SC008)."
+  },
+  {
+   "action": "add",
+   "id": "codelco-salar-de-maricunga-chile",
+   "fields": {
+    "asset_name": "Salar de Maricunga (Codelco / Rio Tinto)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (planned)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Salar de Maricunga SpA (Codelco)",
+    "parent_company": "Codelco",
+    "jv_partners": "Rio Tinto (49.99%)",
+    "country": "Chile",
+    "region": "South America",
+    "province_state": "Atacama",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": null,
+    "capacity": 55000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2033,
+    "capacity_norm": 55000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2033": 55000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.industrialinfo.com/news/article/codelco-receives-government-contract-to-further-develop-chiles-maricunga-salt-flat-for-lithium--353473",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-17"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S5"
+    ],
+    "capacity_by_year_json": [
+     "S5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Phase I from 2030 at 15,000-20,000 t LCE/yr (evaporation), Phase II by 2033 to 55,000 t LCE/yr with DLE (Industrial Info, 2026-02-17; range not stored in capacity_by_year_json). Rio Tinto release (2025-05-19) states JV aim of 'delivering first lithium by the end of 2030' and 49.99% for Rio Tinto. A July 2026 Mining Weekly report (403, not opened; known only via search-result text) says the Rio-Codelco agreement was still awaiting approvals and the chair spoke of a project 'in eight years' - timeline may have slipped; project_state kept active, status announced. Industrial Info gives Rio stake as 49.9% (vs 49.99% in Rio's release)."
+  },
+  {
+   "action": "add",
+   "id": "enami-salares-altoandinos-chile",
+   "fields": {
+    "asset_name": "Salares Altoandinos (ENAMI / Rio Tinto JV)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium (planned, product not stated)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "ENAMI / Rio Tinto JV (planned)",
+    "parent_company": "ENAMI",
+    "jv_partners": "Rio Tinto, ENAMI",
+    "country": "Chile",
+    "region": "South America",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Rio Tinto Q1 2026 report: binding agreement with ENAMI to form a JV; closure expected within 2026 subject to regulatory approvals (per the fetched summary). No capacity, location or product stated in the pages read. Included only because a binding JV exists; drop if the lead deems it pre-development."
+  },
+  {
+   "action": "add",
+   "id": "sales-de-jujuy-olaroz-argentina",
+   "fields": {
+    "asset_name": "Salar de Olaroz",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Sales de Jujuy S.A. (Rio Tinto, ex-Allkem/Arcadium)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": "Rio Tinto 66.5%, Toyota Tsusho 25%, JEMSE 8.5%",
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Jujuy",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 42500,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2030,
+    "capacity_norm": 42500,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://miningdataonline.com/property/3457/Olaroz-Mine.aspx",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S17",
+     "S8"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Ownership split 66.5/25/8.5 read from MiningDataOnline owner table (owner names partly masked in the page; Rio Tinto 66.5% also stated in Rio's Q1 2026 report). Capacity 42.5 ktpa LCE 'in 2030' per MiningDataOnline; a Panorama Minero profile (seen only in search-result text, page not served) calls 42,500 t the current capacity and says stage 2 performed in line - CONFLICT on whether stage 2 is complete; installed capacity therefore left null. Rio Tinto no longer reports Olaroz output separately: 2025 production not isolated. Rio's Argentine operations total 68,000 t LCE in 2025 per Diario Financiero (S39, unclear basis; may include Fenix, Olaroz at 100%, Rincon starter) vs Rio group 2025 total ~57 kt LCE on a Rio-share basis (sum of Q1-Q4 quarterly figures in the Q1 2026 report: 17.2+12.2+12.5+15.4 = 57.3 kt, includes Mt Cattlin in Q1) - not allocated to rows. Secretaria de Minería (S17): Fenix, Olaroz and Cauchari-Olaroz are the largest 2024 producers."
+  },
+  {
+   "action": "add",
+   "id": "minera-del-altiplano-fenix-argentina",
+   "fields": {
+    "asset_name": "Fenix (Salar del Hombre Muerto)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate and lithium chloride",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Minera del Altiplano (Rio Tinto, ex-Arcadium/Livent)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 1997,
+    "capacity": 40000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 40000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-29"
+   },
+   "evidence": {
+    "status": [
+     "S17",
+     "S12"
+    ],
+    "capacity": [
+     "S13",
+     "S15"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Fenix 1B adds 10,000 t LCE/yr and reached first production in Q2 2026 (Rio, 2026-10-29), ramping. Total 40,000 t LCE is DERIVED: Rio/Northern Miner give a combined Fenix+Sal de Vida+Olaroz target of 97,500 t LCE; 97,500 - 42,500 (Olaroz) - 15,000 (Sal de Vida) = 40,000; Northern Miner summary also says Fenix total target about 40,000 t (not a verbatim quote). Existing (pre-1B) capacity not directly sourced, so installed capacity and phase steps left null. start_year 1997 comes from search-result text ('Fenix began in 1997'), not a quoted source - treat as reported. 2025 output not separable (see Olaroz notes)."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-sal-de-vida-argentina",
+   "fields": {
+    "asset_name": "Sal de Vida",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Rio Tinto (ex-Allkem/Galan JV area)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 15000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 15000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-celebrates-opening-of-1-4-billion-lithium-projects-in-argentina",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-29"
+   },
+   "evidence": {
+    "status": [
+     "S11",
+     "S12"
+    ],
+    "capacity": [
+     "S14"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Rio Q1 2026: mechanical completion and full commissioning Feb 2026, first commercial production 'on track for H2 2026'; Rio 2026-10-29: first production in Q2 2026, ramping, but slower than expected (equipment availability) per Northern Miner. Status set to operational because first production is reported; commercial-production status is borderline and the Secretaria dashboard (Dec 2025, via Chequeado) still lists it as construction. Capacity 15,000 t LCE/yr target. Installed capacity not sourced."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-rincon-argentina",
+   "fields": {
+    "asset_name": "Salar del Rincon (Rio Tinto)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Rio Tinto (Rincon Mining)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2031,
+    "capacity_norm": 60000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 3000,
+    "installed_as_of": "2026-03-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000022/ex1d21rt1q26results.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S9"
+    ],
+    "installed_capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Rio Q1 2026: capacity 60 ktpa battery-grade lithium carbonate = 3 ktpa starter plant + 57 ktpa expansion, first production from the expansion planned 2028 (Northern Miner: followed by a three-year ramp-up toward 60,000 t, so ref year 2031 is derived = 2028+3). Starter plant 'continued to ramp up'; its output included in Rio Q1 2026 figures for the first time. installed 3,000 t is the starter-plant nameplate (installed_as_of = quarter end 2026-03-31), not a measured output. Rio expansion capex US$2.744 bn per Chequeado. Distinct from Argosy's Rincon project (separate row)."
+  },
+  {
+   "action": "add",
+   "id": "argosy-rincon-argentina",
+   "fields": {
+    "asset_name": "Rincon Lithium Project (Argosy)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Argosy Minerals",
+    "parent_company": "Argosy Minerals",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 12000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 12000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.argosyminerals.com.au/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S38"
+    ],
+    "capacity": [
+     "S35"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Company site: development 'toward a 12,000tpa scale operation'; 'Site demonstration operations produced battery quality LCE product' (undated); company holds 77.5% (ultimate 90%). Status construction taken from the Secretaria dashboard as relayed by Chequeado (reported tier). capacity_ref_year not stated. Small earlier output not quantified; production null. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-mariana-argentina",
+   "fields": {
+    "asset_name": "Mariana (Salar de Llullaillaco)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium chloride",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Ganfeng Lithium (Litio Minera Argentina)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t LiCl",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-02-12",
+    "capacity_by_year_json": {
+     "2025": 20000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103180768/Ganfeng-Lithiums-Mariana-project-commences-production",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-02-17"
+   },
+   "evidence": {
+    "status": [
+     "S25",
+     "S17"
+    ],
+    "capacity": [
+     "S24"
+    ],
+    "installed_capacity": [
+     "S24"
+    ],
+    "capacity_by_year_json": [
+     "S24"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Phase I commissioned 12 Feb 2025 (SMM); 20,000 t/yr LiCl nameplate (build converts at 0.871 -> ~17.4 kt LCE). installed_capacity is the commissioned phase-I nameplate, not measured output; no 2025 output figure found. Reports of a later phase: none found. Ownership percentages and the Secretaria dashboard 'Producción' stage (via Chequeado) agree on operating status."
+  },
+  {
+   "action": "add",
+   "id": "minera-exar-cauchari-olaroz-argentina",
+   "fields": {
+    "asset_name": "Cauchari-Olaroz",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Minera Exar (Lithium Argentina / Ganfeng)",
+    "parent_company": "Ganfeng Lithium; Lithium Argentina",
+    "jv_partners": "Ganfeng Lithium, Lithium Argentina, JEMSE (percentages not confirmed in pages read)",
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Jujuy",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 40000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 40000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": 34100,
+    "production_unit": "t Li2CO3",
+    "production_year": 2025,
+    "production_norm": 34100,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finviz.com/news/267854/lithium-argentina-announces-2025-production-results-for-cauchari-olaroz-and-leadership-updates",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-06"
+   },
+   "evidence": {
+    "status": [
+     "S18",
+     "S17"
+    ],
+    "capacity": [
+     "S19"
+    ],
+    "installed_capacity": [
+     "S19"
+    ],
+    "production": [
+     "S18"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "2025 production ~34,100 t lithium carbonate (guidance 30-35 kt) at 100% of the operation; Q4 2025 ~9,700 t at 97% of nameplate. Nameplate 40,000 t is DERIVED (9,700 x 4 / 0.97 = 40,000) - the release does not state it in the text read; widely reported nameplate is 40 ktpa. Stage 2 expansion of 45,000 tpa (RIGI and environmental applications filed Dec 2025, RIGI decision pending) is not in capacity (undated/unapproved); Industrial Info words it as raising output 'to 45,000 tons LCE per year', Lithium Argentina as 'expansion of 45,000 tpa' - the two readings differ (total vs addition) and are unresolved. installed_as_of is the end of FY2025 (derived from the operating-rate statement). Ownership percentages (Ganfeng/LAR/JEMSE) were not in the pages read; JEMSE is not confirmed by a fetched source."
+  },
+  {
+   "action": "add",
+   "id": "lithium-argentina-ppg-argentina",
+   "fields": {
+    "asset_name": "Pozuelos-Pastos Grandes (PPG)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (planned)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Lithium Argentina / Ganfeng (planned JV)",
+    "parent_company": "Lithium Argentina; Ganfeng Lithium",
+    "jv_partners": "Ganfeng Lithium, Lithium Argentina",
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 150000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 150000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.industrialinfo.com/news/article/lithium-argentina-eyes-two-major-project-kickoffs-in-2026--351649",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-12"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S21"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Scoping-stage joint project; RIGI application expected Q1 2026 (Industrial Info, 2026-01-12). The 'up to 150,000 tpa' capacity is from search-result text only (reported tier; page body not opened) and is the scoping-study scale, no dated phases. Secretaria dashboard lists PPG at feasibility. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "zijin-liex-tres-quebradas-argentina",
+   "fields": {
+    "asset_name": "Tres Quebradas (3Q)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (industrial grade)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Zijin-Liex (Zijin Mining)",
+    "parent_company": "Zijin Mining",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 20000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-09-12",
+    "capacity_by_year_json": {
+     "2025": 20000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.panorama-minero.com/en/news/catamarca-zijin-liex-launches-tres-quebradas-in-fiambala",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-15"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S22"
+    ],
+    "installed_capacity": [
+     "S22"
+    ],
+    "capacity_by_year_json": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Start of lithium carbonate production 12 Sep 2025 (Argus, via search-result text: reported tier). Phase 1 20,000 t/yr industrial-grade carbonate (adsorption). Phase 2 underway; Argus says 40,000-60,000 t/yr once all phases complete (no dates; excluded from capacity). Mysteel describes phase 1 as 20,000 t LCE - basis differs slightly. No 2025 output found. Reserves 8.3 Mt LCE (Argus). Secretaria dashboard (via Chequeado) lists Tres Quebradas as 'Producción'."
+  },
+  {
+   "action": "add",
+   "id": "posco-sal-de-oro-argentina",
+   "fields": {
+    "asset_name": "Sal de Oro (Salar del Hombre Muerto, north)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "POSCO Argentina (POSCO Holdings)",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta/Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 48000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 48000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2026": 48000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.just-auto.com/news/posco-completes-second-upstream-lithium-plant-in-argentina/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-08"
+   },
+   "evidence": {
+    "status": [
+     "S26",
+     "S17"
+    ],
+    "capacity": [
+     "S28",
+     "S27"
+    ],
+    "capacity_by_year_json": [
+     "S28"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Upstream (brine to carbonate) plants only. Plant I upstream completed 2024; Plant II upstream 23,000 t Li2CO3/yr inaugurated 6 Oct 2026 (Rio Times says no second post-event report or official release yet confirmed the opening). Site total ~48,000 t/yr (Just Auto) = Plant I ~25,000 (derived 48,000-23,000, not directly quoted) + Plant II 23,000. Plants 3 and 4 (25,000 t each, 100,000 t brine system by 2033) are undated aspirations and excluded. The 25,000 t/yr LiOH plant at General Guemes (inaugurated Oct 2024) is off-salar: task SC008. Plant II ramp-up and 2025 output not sourced; installed capacity left null because Plant II may not be producing. start_year 2024 = Plant I completion."
+  },
+  {
+   "action": "add",
+   "id": "galan-lithium-hombre-muerto-west-argentina",
+   "fields": {
+    "asset_name": "Hombre Muerto West (HMW)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium chloride concentrate (LCE basis)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Galan Lithium",
+    "parent_company": "Galan Lithium",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 5200,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 5200,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": {
+     "2027": 5200
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://smallcaps.com.au/article/galan-produces-first-batch-of-processed-lithium-chloride-from-hmw-project",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ],
+    "capacity": [
+     "S29",
+     "S30"
+    ],
+    "capacity_by_year_json": [
+     "S30"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Phase 1 plant completed March 2026, first processed LiCl batch commissioned (about May 2026); first concentrate sales targeted Q4 2026, 4,000 t/yr LCE stabilised rate expected H1 2027, expansion to 5,200 t/yr targeted H2 2027 (company update Sept/Oct 2026 per search-result text; the smallcaps page itself is undated). Status kept under_construction (commissioning; no commercial sales yet). Phase 2: construction permits for up to 21,000 t LCE/yr, no start date found - excluded from capacity (undated); stated growth path up to 60,000 tpa also excluded. Secretaria dashboard (via Chequeado) lists HMW as construction with RIGI investment US$217M. Page publication date not shown."
+  },
+  {
+   "action": "add",
+   "id": "eramet-centenario-ratones-argentina",
+   "fields": {
+    "asset_name": "Centenario-Ratones",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Eramine Sudamerica (Eramet)",
+    "parent_company": "Eramet",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 24000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 24000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 24000,
+    "installed_as_of": "2026-10-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://eramine.eramet.com/en/?p=50940",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-06"
+   },
+   "evidence": {
+    "status": [
+     "S33"
+    ],
+    "capacity": [
+     "S33"
+    ],
+    "installed_capacity": [
+     "S34"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "First lithium carbonate Dec 2024; design 24,000 t/yr battery-grade carbonate; nominal rate of 2,000 t/month reached October 2026 (Eramine news 2026-11-06). installed_as_of is derived as end October 2026. 2025 production NOT found: Eramine news give exports only (80 t first export via Chile 2025-10-30; ~5,040 t exports by mid-December 2025 per search-result text, not production); Eramet FY2025 results not located. Eramet/Tsingshan shareholding not confirmed by a fetched source, so jv_partners null."
+  },
+  {
+   "action": "add",
+   "id": "lake-resources-kachi-argentina",
+   "fields": {
+    "asset_name": "Kachi",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (planned)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Lake Resources",
+    "parent_company": "Lake Resources",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Catamarca",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://lakeresources.com.au/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S36"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Company site: environmental impact declaration granted, project advances to FEED phase (undated headline). Capacity not stated on the page read (earlier public studies quote 25,000 tpa but that was not verified here)."
+  },
+  {
+   "action": "add",
+   "id": "lithium-energy-solaroz-argentina",
+   "fields": {
+    "asset_name": "Solaroz",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (planned)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Lithium Energy Ltd",
+    "parent_company": "Lithium Energy Ltd",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Jujuy",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.lithiumenergy.com.au/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-02-17"
+   },
+   "evidence": {
+    "status": [
+     "S37"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Company site lists a media headline (2025-02-17) that Lithium Energy was granted a final permit and a Scoping Study presentation dated 2023-10-31; Secretaria dashboard (via Chequeado) lists Solaroz as advanced exploration. Capacity not found; included as an announced project with a development plan, drop if treated as exploration."
+  },
+  {
+   "action": "add",
+   "id": "revotech-sal-de-los-angeles-argentina",
+   "fields": {
+    "asset_name": "Sal de los Angeles",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium (product not stated)",
+    "asset_type": "brine project",
+    "feedstock": "brine",
+    "operator": "Revotech Asia",
+    "parent_company": "Revotech Asia",
+    "jv_partners": null,
+    "country": "Argentina",
+    "region": "South America",
+    "province_state": "Salta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://chequeado.com/el-explicador/litio-en-jujuy-salta-y-catamarca-cuales-son-los-proyectos-mas-importantes-en-esta-region/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-26"
+   },
+   "evidence": {
+    "status": [
+     "S38"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Status only from the Secretaria de Minería project dashboard (data to 2025-12-04) as relayed by Chequeado; no company source or capacity found. Reported tier."
+  }
+ ]
+}

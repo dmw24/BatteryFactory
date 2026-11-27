@@ -1,0 +1,638 @@
+{
+ "task": "SC014",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+   "publisher": "CNGR Advanced Material (中伟新材料股份有限公司) 2024 annual report, via SZSE",
+   "published": "2025-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "国内，公司已建成铜仁、宁乡、钦州、开阳四大产业基地，实现全国覆盖；在海外，公司建有印尼四大原料基地，并在韩国、摩洛哥等地加速推进材料基地建设"
+  },
+  "S1b": {
+   "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+   "publisher": "CNGR 2024 annual report, via SZSE (p.20)",
+   "published": "2025-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "其他海外区域，摩洛哥成为当年开工、当年竣工投产，FTA首个三元生产基地。"
+  },
+  "S1c": {
+   "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+   "publisher": "CNGR 2024 annual report, via SZSE (p.23 capacity table, company total, all sites; row 镍系材料：三元前驱体（吨）)",
+   "published": "2025-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "318,875.00 ... 60.38% 192,547.62"
+  },
+  "S1d": {
+   "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+   "publisher": "CNGR 2024 annual report, via SZSE (p.23 capacity table, company total; row 磷系材料：磷酸铁（吨）)",
+   "published": "2025-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "116,666.67 ... 61.33% 71,549.26"
+  },
+  "S2": {
+   "url": "https://www.koreaherald.com/article/3405200",
+   "publisher": "The Korea Herald",
+   "published": "2024-05-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the precursor plant will have an annual production capacity of 110,000 tons"
+  },
+  "S3": {
+   "url": "https://view.asiae.co.kr/en/article/2024053109431914845",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2024-05-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "complete the nickel and precursor plants and begin mass production in 2026"
+  },
+  "S4": {
+   "url": "https://newsroom.posco.com/en/?p=25927",
+   "publisher": "POSCO Newsroom",
+   "published": "2024-06-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a precursor production joint venture with an 80:20 equity split between CNGR and POSCO Future M"
+  },
+  "S5": {
+   "url": "https://news.metal.com/newscontent/103718155",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the pCAM project at CNGR's industrial base in South Kalimantan, Indonesia, officially commenced operation"
+  },
+  "S5b": {
+   "url": "https://news.metal.com/newscontent/103718155",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility is now fully operational, with its annual production capacity set to be gradually ramped up to 20,000 tons."
+  },
+  "S6": {
+   "url": "https://www.crugroup.com/en/communities/thought-leadership/2023/chinese-companies-look-to-morocco-for-access-to-n-american-and-europe-s-battery-market/",
+   "publisher": "CRU Group",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Phase 1 of the project is anticipated to have a nameplate capacity of 120,000 t/y of NMC precursor"
+  },
+  "S6b": {
+   "url": "https://www.crugroup.com/en/communities/thought-leadership/2023/chinese-companies-look-to-morocco-for-access-to-n-american-and-europe-s-battery-market/",
+   "publisher": "CRU Group",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CNGR has formed a joint venture with Al Mada, a Moroccan private investment fund, to construct the precursor plants"
+  },
+  "S7": {
+   "url": "https://m.gelonghui.com/p/1561004",
+   "publisher": "Gelonghui (格隆汇), analyst article, c. late 2024 (exact date not shown on page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "在摩洛哥，公司与AI Mada共同建设年产12万吨三元前驱体、6万吨磷酸铁锂及年处理3万吨黑粉回收的产能"
+  },
+  "S9": {
+   "url": "https://static.cninfo.com.cn/finalpage/2024-08-30/1221047704.PDF",
+   "publisher": "GEM Co., Ltd. (格林美股份有限公司) 2024 half-year report, via cninfo (p.12)",
+   "published": "2024-08-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司在印尼建设的年产5万吨高镍三元前驱体产能将于今年下半年陆续竣工投产，目前产能已被客户全部预定。"
+  },
+  "S10": {
+   "url": "https://paper.cnstock.com/html/2025-04/26/content_2057142.htm",
+   "publisher": "China Securities Journal (cnstock) disclosure page; page returned HTTP 503 when opened, text is from the search-result summary",
+   "published": "2025-04-26",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "公告显示，格林美(江苏)和合作方在印尼中苏拉威西省Morowali县IMIP园区投资建设印尼第一条年产3万吨高镍动力电池三元前驱体材料项目，该公告称公司年产3万吨高镍动力电池三元前驱体材料项目已经建成竣工。"
+  },
+  "S11": {
+   "url": "https://yicaiglobal.com/news/chinas-huayou-cobalt-to-build-three-more-overseas-lithium-battery-materials-plants-with-lg-chem",
+   "publisher": "Yicai Global",
+   "published": "2023-09-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will have annual production of 50,000 tons"
+  },
+  "S12": {
+   "url": "https://static.cninfo.com.cn/finalpage/2024-05-01/1219955447.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (华友钴业) 2023 AGM meeting materials, board work report 2023, via cninfo (p.8)",
+   "published": "2024-05-01",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "启动印尼5万吨三元前驱体项目建设"
+  },
+  "S13": {
+   "url": "https://www.yicai.com/news/102849276.html",
+   "publisher": "Yicai (第一财经)",
+   "published": "2025-09-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "协议约定，2026年至2030年期间，衢州新能源预计向LGES及其指定采购商供应三元前驱体产品合计约7.6万吨。"
+  },
+  "S14": {
+   "url": "https://paper.cnstock.com/html/2024-04/20/content_1901641.htm",
+   "publisher": "China Securities Journal (cnstock) disclosure page; page returned HTTP 503 when opened, snippet is from the search-result summary and the exact originating page is not confirmed",
+   "published": "2024-04-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "同意募投项目“年产5万吨高镍型动力电池三元正极材料、10万吨三元前驱体材料一体化项目”的达到预计可使用状态的时间由原计划的2024年5月延期至2025年6月。"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "cnp-new-material-pohang-pcam-south-korea",
+   "fields": {
+    "asset_name": "CNP New Material Technology precursor plant (Pohang, Yeongilman 4 Industrial Complex)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": "high-purity nickel from POSCO CNGR Nickel Solution",
+    "operator": "CNP New Material Technology (CNGR 80% / POSCO Future M 20%)",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": "POSCO Future M (20%), CNGR (80%)",
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Gyeongsang (Pohang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 110000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "POSCO Future M cathode production",
+    "end_market": "battery",
+    "source_url": "https://www.koreaherald.com/article/3405200",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-05-31"
+   },
+   "evidence": {
+    "status": [
+     "S3",
+     "S4"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Groundbreaking 31 May 2024 (S2/S3/S4: nickel and precursor plants, mass production targeted 2026). Capacity 110,000 t/yr stated by Korea Herald; asiae and POSCO newsroom give the same figure (asiae also quotes 'has an annual production capacity of 110,000 tons'). Equity split 80:20 CNGR:POSCO Future M (asiae writes it as 20:80 POSCO Future M:CNGR). capacity_ref_year 2026 = planned mass-production year, not a dated last phase. Not verified later than June 2024; no 2025/2026 completion report found. Operator named as the JV; CNGR is parent. Coordinates left null (site is in Pohang, North Gyeongsang)."
+  },
+  {
+   "action": "add",
+   "id": "cngr-south-kalimantan-pcam-indonesia",
+   "fields": {
+    "asset_name": "CNGR South Kalimantan pCAM plant",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "CNGR Advanced Material",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": null,
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Kalimantan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 20000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103718155",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S5b"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "SMM reports the pCAM project at CNGR's South Kalimantan industrial base officially commenced operation on 13 Jan 2026; capacity 'gradually ramped up to 20,000 tons' (per year, annual production capacity). Construction began Feb 2025 per same article. Installed (currently producing) capacity not stated, so left null. SMM article date not shown on the page. CNGR also has pCAM at IMIP/Morowali-type Indonesian bases per other press, not sourced here."
+  },
+  {
+   "action": "add",
+   "id": "cngr-morocco-pcam-morocco",
+   "fields": {
+    "asset_name": "CNGR-Al Mada Morocco precursor plant (El Jadida region)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "CNGR-Al Mada joint venture",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": "Al Mada",
+    "country": "Morocco",
+    "region": "Africa",
+    "province_state": "El Jadida region",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": 2024,
+    "capacity": 120000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.crugroup.com/en/communities/thought-leadership/2023/chinese-companies-look-to-morocco-for-access-to-n-american-and-europe-s-battery-market/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S1b"
+    ],
+    "capacity": [
+     "S6",
+     "S7"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Capacity is the PLANNED phase-1 nameplate 120,000 t/yr NMC precursor (CRU 2023; S7 gives the same 12万吨 plan); the same CRU text lists 60,000 t/y LFP precursor and 30,000 t/y recycled material (S7 describes the 6万吨 as 磷酸铁锂, i.e. LFP; not entered as a FePO4 row because the product is ambiguous). CNGR's 2024 annual report (S1b) says the Morocco project 'started and was completed and commissioned in the same year' (2024), so status operational, but no installed/ramped capacity is disclosed and the built scale may be below 120 kt. capacity_ref_year = 2023 is the CRU publication-year fallback (CRU expected initial production 2025). start_year 2024 inferred from S1b (2024 annual report). Location 'El Jadida' from CRU/search summary; exact site (e.g. Jorf Lasfar) not confirmed from an opened page. Conflict: CRU 2023 expected initial production 2025; CNGR AR says commissioned in 2024."
+  },
+  {
+   "action": "add",
+   "id": "cngr-tongren-pcam-china",
+   "fields": {
+    "asset_name": "CNGR Tongren base (pCAM)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "CNGR Advanced Material",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Existence of the base from CNGR's 2024 annual report (S1). The report does NOT give capacity per base. Company-wide 2024 figures (all sites incl. Ningxiang/Qinzhou/Tongren/Korea-excluded): ternary precursor capacity 318,875 t, output 192,547.62 t, utilisation 60.38% (S1c); iron phosphate capacity 116,666.67 t, output 71,549.26 t (S1d). Site allocation needs a source (CNGR H-share prospectus/annual report 2025 or HKEX filing; the HKEX 2025 annual report PDF exceeded the fetch size limit). Product mix at this base (pCAM vs other products) not stated in S1; the Tongren base being a pCAM site is based on CNGR's known business, not on a site-level quote."
+  },
+  {
+   "action": "add",
+   "id": "cngr-ningxiang-pcam-china",
+   "fields": {
+    "asset_name": "CNGR Ningxiang base (pCAM)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "CNGR Advanced Material",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Same basis as the Tongren row: base named in CNGR 2024 annual report (S1), no per-base capacity. See Tongren row notes for company-level totals (S1c, S1d)."
+  },
+  {
+   "action": "add",
+   "id": "cngr-qinzhou-pcam-china",
+   "fields": {
+    "asset_name": "CNGR Qinzhou base (pCAM)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "CNGR Advanced Material",
+    "parent_company": "CNGR Advanced Material",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-11/06099062-3c99-4658-ad43-532598d9ead7.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-11"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Same basis as the Tongren row: base named in CNGR 2024 annual report (S1), no per-base capacity. A search-result summary of a 2021 broker report mentioned an 18万吨 ternary-precursor first-phase project at the Beibu Gulf (Qinzhou) base; that page was not opened, so it is not entered. See Tongren row notes for company-level totals."
+  },
+  {
+   "action": "add",
+   "id": "gem-morowali-pcam-indonesia",
+   "fields": {
+    "asset_name": "GEM Indonesia high-nickel pCAM plant (IMIP, Morowali)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "GEM (Jiangsu) and partner",
+    "parent_company": "GEM Co., Ltd.",
+    "jv_partners": "partner not named in sources",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi (Morowali, IMIP)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 50000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-04-26",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "ECOPRO BM (26.5 kt precursor 2025-2028 per GEM H1 2024 report); capacity fully booked by customers",
+    "end_market": "battery",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2024-08-30/1221047704.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-08-30"
+   },
+   "evidence": {
+    "capacity": [
+     "S9"
+    ],
+    "status": [
+     "S10"
+    ],
+    "installed_capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "GEM H1 2024 report (S9): Indonesia 50,000 t/yr high-nickel ternary precursor capacity to be commissioned progressively in H2 2024. A search summary of a later announcement (S10, page not opened, tier reported) says the first 30,000 t/yr line at IMIP, Morowali was completed ('已经建成竣工'); that supports status operational and installed 30,000 t but is snippet-only, so confidence <=0.5. installed_as_of unknown. Conflict: 30 kt (first line, S10) vs 50 kt (S9, apparent full plan). GEM group-level: H1 2024 ternary-precursor sales >100 kt and 100% utilisation (GEM H1 2024 report p.12, not entered as a quote); 2024 full-year shipments 189 kt (China Merchants Securities broker note 2025-05-04, search snippet, not opened for quote). Jingmen/Taixing/Wuxi pCAM sites: no site capacity found."
+  },
+  {
+   "action": "add",
+   "id": "huayou-lg-indonesia-pcam-indonesia",
+   "fields": {
+    "asset_name": "Huayou-LG Chem Indonesia pCAM plant",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": "MHP from planned HPAL (Huayou Indonesia)",
+    "operator": "Huayou Cobalt / LG Chem JV (planned)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": "LG Chem",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "LG Chem",
+    "end_market": "battery",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2024-05-01/1219955447.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-05-01"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Huayou 2023 board report (S12) says it 'started construction of the Indonesia 50,000 t ternary precursor project'; Yicai Global (S11, 2023-09-25) reports the Huayou/LG Chem agreement for an Indonesian precursor plant with annual output of 50,000 tons. The Sept 2023 agreement was non-binding (MoU). Exact site (Pomalaa vs Morowali) and current stage as of 2026 not confirmed; status is as of the 2023 report (May 2024 publication). capacity_ref_year 2024 = publication-year fallback. Possible overlap with 'Huayou Indonesia' references in cathode patch SC009 is not checked."
+  },
+  {
+   "action": "add",
+   "id": "huayou-quzhou-pcam-china",
+   "fields": {
+    "asset_name": "Huayou New Energy Quzhou pCAM base",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "Zhejiang Huayou New Energy Materials (Quzhou)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "LGES (about 76 kt over 2026-2030)",
+    "end_market": "battery",
+    "source_url": "https://www.yicai.com/news/102849276.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-29"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Yicai 2025-09-29: Quzhou New Energy expected to supply about 76,000 t of ternary precursor to LGES and designated buyers during 2026-2030 (supply forecast, not capacity). Site capacity not found. Company-wide Huayou 2023: ternary precursor production 123,611.99 t and sales 129,144.57 t (Huayou 2023 AGM board report p.12 table, same document as S12; not entered as quote). A 2023 broker note summary (search snippet) mentioned a 5万吨 Quzhou convertible-bond project; not opened, not used for capacity because it is an increment not a site total."
+  },
+  {
+   "action": "add",
+   "id": "huayou-bamo-guangxi-pcam-china",
+   "fields": {
+    "asset_name": "Huayou Bamo Guangxi integrated project (pCAM part)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "operator": "Guangxi Bamo (Huayou)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://paper.cnstock.com/html/2024-04/20/content_1901641.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-04-20"
+   },
+   "evidence": {
+    "capacity": [
+     "S14"
+    ],
+    "status": [
+     "S14"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Reported tier only. Search-result summary: the fundraising project 'annual 50,000 t high-nickel cathode and 100,000 t ternary precursor integrated project' had its ready-for-use date postponed from May 2024 to June 2025. The summary did not state the location (Guangxi inferred from the project name 'Guangxi Bamo' used in other summaries and from the task brief; Yulin not confirmed). Page returned 503 and the exact originating document for the snippet is not confirmed. Whether the 100 kt precursor part is built/operating as of 2026 is unknown; status reflects the 2024 announcement. Huayou's 2023 board report (S12 document) says Guangxi/Quzhou park projects were partly postponed after planning adjustments."
+  }
+ ]
+}

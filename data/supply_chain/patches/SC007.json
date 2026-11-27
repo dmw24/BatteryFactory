@@ -1,0 +1,1091 @@
+{
+ "task": "SC007",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://finance.sina.com.cn/roll/2022-09-21/doc-imqqsmrn9892064.shtml",
+   "publisher": "证券时报 via 新浪财经",
+   "published": "2022-09-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宜春本地上市企业江特电机，在当地坐拥锂云母原矿矿山，4条碳酸锂生产线，年产能超过3万吨。"
+  },
+  "S2": {
+   "url": "https://www.yicai.com/news/101614826.html",
+   "publisher": "第一财经 (Yicai)",
+   "published": "2022-12-05",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宁德时代放弃在宜春奉新的10万吨碳酸锂冶炼项目"
+  },
+  "S3": {
+   "url": "https://www.cls.cn/detail/1282843",
+   "publisher": "财联社 (CLS)",
+   "published": "2023-03-04",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "分别投建5万吨碳酸锂项目"
+  },
+  "S4": {
+   "url": "https://static.weeklyonstock.com/25/0718/wbf100222.html",
+   "publisher": "证券市场周刊",
+   "published": "2025-07-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2024年末锂盐产能7.5万吨"
+  },
+  "S5": {
+   "url": "https://finance.eastmoney.com/a/202607173809959325.html",
+   "publisher": "东方财富 (citing 期货日报)",
+   "published": "2026-07-17",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "预计将影响电池级碳酸锂产能4000吨"
+  },
+  "S6": {
+   "url": "https://pdf.dfcfw.com/pdf/H3_AP202106091496972354_1.pdf",
+   "publisher": "信达证券 (Cinda Securities), 锂行业专题报告：锂云母提锂战略地位提升",
+   "published": "2021-06-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "南氏锂电当时已具备6万吨的云母提锂产能 ... 飞宇新能源已有 2 万吨云母提锂产能 (search-result summary of the report text; the PDF body could not be read as text)"
+  },
+  "S7": {
+   "url": "https://caifuhao.eastmoney.com/news/20250808120636327735270",
+   "publisher": "东方财富 caifuhao (author 价值洼地工程师)",
+   "published": "2025-08-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "主要包括1条年产1.5万吨碳酸锂生产线和1条年产1.5万吨氢氧化锂生产线"
+  },
+  "S8": {
+   "url": "https://www.xinhuanet.com/enterprise/20260714/509f0f2fdc17442cae688a7a1b830249/c.html",
+   "publisher": "新华网 (Xinhua)",
+   "published": "2026-07-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "国城锂业20万吨/年锂盐项目一期正式投产 ... 建成碳酸锂年产能6万吨"
+  },
+  "S9": {
+   "url": "https://finance.eastmoney.com/a/202605063728604613.html",
+   "publisher": "东方财富 (ST萃华 investor-platform reply)",
+   "published": "2026-05-06",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川思特瑞锂业有限公司产品主要为电池级碳酸锂和电池级氢氧化锂，有1万吨氢氧化锂和8000吨碳酸锂产能。"
+  },
+  "S10": {
+   "url": "https://news.metal.com/newscontent/102731709/Lithium-Hydroxide-Battery-Material-Project-with-An-Annual-Output-of-50000-Tons-of-Albemarle-in-Sichuan-Province-Officially-Put-into-Operation",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2024-04-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Lithium Hydroxide Battery Material Project with An Annual Output of 50000 Tons of Albemarle in Sichuan Province Officially Put into Operation",
+   "tier": "reported",
+   "snippet": "Lithium Hydroxide Battery Material Project with An Annual Output of 50000 Tons of Albemarle in Sichuan Province Officially Put into Operation",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S11": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corp, Form 10-K for FY2025 (Item 2 Properties)",
+   "published": "2025-12-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production of lithium carbonate and technical and battery-grade lithium hydroxide ... placed into care and maintenance during 2025"
+  },
+  "S12": {
+   "url": "https://news.metal.com/newscontent/103178692",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-02-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "convert the capacity of the Qinzhou production line from lithium hydroxide to lithium carbonate"
+  },
+  "S13": {
+   "url": "https://cj.sina.com.cn/articles/view/5597884738/14da8f14202002ah2y",
+   "publisher": "证券时报e公司 via 新浪财经",
+   "published": "2026-11-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2024年底公司二期项目全线投产,已形成年产4.5万吨高品质锂盐产能。",
+   "tier": "reported",
+   "snippet": "2024年底公司二期项目全线投产,已形成年产4.5万吨高品质锂盐产能。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S14": {
+   "url": "https://pitchhub.36kr.com/project/2011450510214402",
+   "publisher": "36氪 PitchHub (aggregated company profile, undated)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司主营电池级碳酸锂和工业级碳酸锂，联产无水硫酸钠、硅铝粉等系列产品。"
+  },
+  "S15": {
+   "url": "https://www.36kr.com/p/3420659285413505",
+   "publisher": "格隆汇 via 36氪",
+   "published": "2025-08-13",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "来自江西省宜春市奉新县，主要产品为碳酸锂。"
+  },
+  "S16": {
+   "url": "https://www.cls.cn/detail/1386474",
+   "publisher": "财联社 (CLS)",
+   "published": "2023-06-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "截至2022年7月，宜春碳酸锂产能达18万吨，约占全国40%"
+  },
+  "S17": {
+   "url": "https://cj.sina.com.cn/articles/view/5597884738/14da8f14202002ah2y",
+   "publisher": "证券时报e公司 via 新浪财经",
+   "published": "2026-11-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川永杉一期项目各项前期筹备工作已全面铺开,项目规划设计、合规审批等关键工作正在有序推进。",
+   "tier": "reported",
+   "snippet": "四川永杉一期项目各项前期筹备工作已全面铺开,项目规划设计、合规审批等关键工作正在有序推进。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "catl-fengxin-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "CATL / Tianhua Fengxin lithium carbonate smelting project (cancelled)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite",
+    "operator": "JV (CATL and Tianhua Chaojing)",
+    "parent_company": "CATL",
+    "jv_partners": "CATL, Tianhua Chaojing (天华超净)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2022,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.yicai.com/news/101614826.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-12-05"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Yicai (2022-12-05) reports Tianhua Chaojing disclosed on 2 Dec 2022 that CATL had dropped the 100,000 t lithium carbonate smelting project in Fengxin, Yichun, which was to be built by a JV. Cancelled, never built. capacity_ref_year 2022 is the publication-year fallback. Sina 2022-09-21 (S1) separately says Gotion and CATL Yichun extraction projects each exceeded the 100,000 t/yr class. Partners per article wording, JV share split not found."
+  },
+  {
+   "action": "add",
+   "id": "gotion-yifeng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Gotion Yifeng lithium carbonate project",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite / lithium-bearing porcelain stone",
+    "operator": "Gotion High-Tech (宜春国轩)",
+    "parent_company": "Gotion High-Tech",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/1282843",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CLS 2023-03-04: Gotion is building two 50,000 t lithium carbonate projects, one with Yifeng County government and one with Fengxin County government (see sibling row). No start/completion date or current status in the source; no later confirmation found. Treated as announced; may be paused or dropped (CATL dropped its Fengxin project). capacity_ref_year is the publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "gotion-fengxin-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Gotion Fengxin lithium carbonate project",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite / lithium-bearing porcelain stone",
+    "operator": "Gotion High-Tech",
+    "parent_company": "Gotion High-Tech",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.cls.cn/detail/1282843",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Same source and caveats as the Yifeng row. Possible overlap with the CATL Fengxin project area is not established; no evidence of construction."
+  },
+  {
+   "action": "add",
+   "id": "jiangte-motor-yichun-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Jiangte Electric lithium carbonate lines (Yichun)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite and spodumene converter",
+    "feedstock": "lepidolite, spodumene",
+    "operator": "Jiangte Electric (江特电机, 002176)",
+    "parent_company": "Jiangte Electric",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2022,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 30000,
+    "installed_as_of": "2022-09-21",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Gotion (framework agreement for >=500 t/month battery-grade lithium carbonate, Sep 2021, per CLS 2023-03-04)",
+    "end_market": "battery",
+    "source_url": "https://finance.sina.com.cn/roll/2022-09-21/doc-imqqsmrn9892064.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-09-21"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1"
+    ],
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Source says 4 carbonate lines, capacity 'over 30,000 t/yr'; the full article says 2 of the 4 lines process spodumene. Several lines may sit at different sites in Jiangxi (the lines and sites were not split by any source I could open). Figure is 2022; Jiangte later reported low utilisation and a 2026 loss (search summaries, not opened). Possible further 30,000 t Gao'an project (search summary only, unverified) is NOT included. Combined Yichun capacity conflict: S1 says 11 producers total 172,400 t (2022); S16 says Yichun capacity reached 180,000 t in July 2022."
+  },
+  {
+   "action": "add",
+   "id": "jiuling-lithium-yifeng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Jiuling Lithium Yifeng plant (宜丰九岭)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite concentrate",
+    "operator": "Jiangxi Jiuling Lithium (江西九岭锂业)",
+    "parent_company": "Jiangxi Jiuling Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "CATL, BYD (per prospectus coverage, search summary)",
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202607173809959325.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-17"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Jiuling's July-Aug 2026 maintenance notice: Yifeng plant fully shut 16 Jul-9 Aug 2026 for calciner kiln No.1 repair and No.2 upgrade (so operating before). Plant-level capacity not disclosed in any open page I could open. Company-level (all Jiuling plants): lithium salt capacity 75,000 t at end-2024 and 2024 output 44,700 t (S4, 2025-07-18 weekly), but S4 also gives 'capacity 48,000 t in 2024' - unexplained conflict (possibly effective vs year-end capacity). Jiuling is headquartered in Fengxin, Yichun (S15). IPO on SSE terminated Apr 2026 (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "jiuling-lithium-fengcheng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Jiuling Lithium Fengcheng plant (丰城九岭)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite and spodumene converter",
+    "feedstock": "lepidolite, spodumene (pyroxene line)",
+    "operator": "Jiangxi Jiuling Lithium (丰城九岭锂业)",
+    "parent_company": "Jiangxi Jiuling Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202607173809959325.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-17"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Maintenance notice: acidification kiln repair 13-30 Jul 2026, pyroxene (spodumene) line also stops. Weekly (S4, 2025-07-18) says the Fengcheng base is the source of a 50,000 t block of new capacity being released gradually in 2025 H1 (paraphrase by the fetch tool, not a verified quote), so capacity left null here. The IPO proceeds were to fund the Fengcheng new energy materials project (RMB 3.135bn raise)."
+  },
+  {
+   "action": "add",
+   "id": "jiuling-lithium-feiyu-new-energy-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Feiyu New Energy lepidolite lithium carbonate plant (飞宇新能源)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite",
+    "operator": "Feiyu New Energy (江西飞宇新能源)",
+    "parent_company": "Jiangxi Jiuling Lithium (as listed in Jiuling's July 2026 maintenance notice; ownership not independently confirmed)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2021,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://pdf.dfcfw.com/pdf/H3_AP202106091496972354_1.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-06-08"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Capacity 20,000 t is a 2021 broker-report figure (reported tier, via search summary; the PDF text could not be read). Status: Feiyu is named with Yifeng and Fengcheng Jiuling in the Jul-Aug 2026 kiln-renovation notice (late Jul to 15 Aug 2026). S1 also lists Feiyu among Yichun's 11 producers. Current capacity unknown."
+  },
+  {
+   "action": "add",
+   "id": "nanshi-lithium-yichun-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Nanshi Lithium Battery (南氏锂电) lepidolite plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lepidolite converter",
+    "feedstock": "lepidolite concentrate",
+    "operator": "Nanshi Lithium (南氏锂电)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2021,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://pdf.dfcfw.com/pdf/H3_AP202106091496972354_1.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-06-08"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Single 2021 broker-report figure (reported tier, via search summary; PDF text not readable), described as lepidolite lithium-extraction capacity. S1 (2022-09-21) lists Nanshi among Yichun's 11 producers (no per-company figure). Treat as outdated; not re-confirmed. Whether 60,000 t is installed or planned is unclear."
+  },
+  {
+   "action": "add",
+   "id": "sichuan-energy-investment-deah-lithium-mianzhu-china",
+   "fields": {
+    "asset_name": "Deah Lithium (四川能投德阿锂业) 30,000 t lithium salt plant, Mianzhu",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate + lithium hydroxide",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene",
+    "operator": "Sichuan Energy Investment Deah Lithium (四川能投德阿锂业)",
+    "parent_company": "Sichuan New Energy Power (川能动力)",
+    "jv_partners": "川能动力 (51%), EVE Energy (亿纬锂能), SVOLT (蜂巢能源)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": 2025,
+    "capacity": 28200,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 28200,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "EVE Energy, SVOLT (shareholders)",
+    "end_market": "battery",
+    "source_url": "https://caifuhao.eastmoney.com/news/20250808120636327735270",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-08-08"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Source: one 15,000 t/yr lithium carbonate line plus one 15,000 t/yr lithium hydroxide line (30,000 t/yr lithium salt), RMB 1.49bn, Huwang town, Mianzhu, Deyang-Aba eco-industrial park; commissioned ('成功调试，产出合格电池级锂盐产品', Aug 2025). capacity 28,200 t LCE is MY conversion: 15,000 + 15,000 x 0.88 (monohydrate, D-102). Company founded Aug 2022. Status 'operational' is inferred from commissioning with qualified product; ramp not reported. 川能动力's 51% from the same article; a third-party search summary said the stake list is 能投锂业 58%/鼎盛锂业 72%/国锂锂材料 44%/德阿 51% (川能动力 holdings, mis-tagged to Huayou on that page)."
+  },
+  {
+   "action": "add",
+   "id": "guocheng-mining-guocheng-lithium-mianzhu-china",
+   "fields": {
+    "asset_name": "Guocheng Lithium (四川国城锂业) 200,000 t/yr lithium salt project, Phase 1",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene (Aba Prefecture)",
+    "operator": "Sichuan Guocheng Lithium (四川国城锂业)",
+    "parent_company": "Guocheng Mining (国城矿业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 200000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 60000,
+    "installed_as_of": "2026-07-12",
+    "capacity_by_year_json": {
+     "2026": 60000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.xinhuanet.com/enterprise/20260714/509f0f2fdc17442cae688a7a1b830249/c.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-14"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S8"
+    ],
+    "installed_capacity": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Xinhua 2026-07-14: Phase 1 of the 200,000 t/yr basic lithium salt project (three phases) started production at a ceremony on 12 Jul 2026 in the Deyang-Aba park, Mianzhu; Phase 1 = 60,000 t/yr lithium carbonate. Total 200,000 t is stated as 'lithium salts' with no carbonate/hydroxide split, entered as t LCE as stated; ref year 2026 is the publication-year fallback (no dates for Phases 2-3). Started up only days before the source date, so 'installed' is nameplate of Phase 1 at start-up, not demonstrated output."
+  },
+  {
+   "action": "add",
+   "id": "st-cuihua-sitrui-lithium-sichuan-china",
+   "fields": {
+    "asset_name": "Sichuan Sitrui Lithium (四川思特瑞锂业)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate + lithium hydroxide",
+    "asset_type": "lithium salt plant",
+    "feedstock": null,
+    "operator": "Sichuan Sitrui Lithium (四川思特瑞锂业)",
+    "parent_company": "ST Cuihua (ST萃华, 002731.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 16800,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 16800,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202605063728604613.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-06"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Company reply on the investor platform (6 May 2026): 10,000 t lithium hydroxide + 8,000 t lithium carbonate capacity. capacity 16,800 t LCE is MY conversion: 8,000 + 10,000 x 0.88 (monohydrate, D-102). Site not stated beyond Sichuan; operating status inferred from 'has capacity' wording; no output given."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-meishan-lithium-hydroxide-china",
+   "fields": {
+    "asset_name": "Albemarle Meishan lithium hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Albemarle (Meishan)",
+    "parent_company": "Albemarle Corp",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 50000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2024,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102731709/Lithium-Hydroxide-Battery-Material-Project-with-An-Annual-Output-of-50000-Tons-of-Albemarle-in-Sichuan-Province-Officially-Put-into-Operation",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-04-28"
+   },
+   "evidence": {
+    "status": [
+     "S10",
+     "S11"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "SMM 2024-04-28: Meishan (Sichuan) 50,000 t/yr hydroxide project officially started production on 26 Apr 2024, ramping (article: about 10,000 t expected in 2024; USD 900m invested per the page summary). Albemarle FY2025 10-K Item 2 lists Meishan, China as owned, 'Production of technical and battery-grade lithium hydroxide'. 50,000 t is from the headline; 10-K gives no site capacity. Albemarle Q4-2024 release (search summary) cites record Meishan output. Coordinates left null; geo_precision 'town' is nominal (city named, no coordinates entered). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-qinzhou-lithium-carbonate-hydroxide-china",
+   "fields": {
+    "asset_name": "Albemarle Qinzhou lithium carbonate/hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate + lithium hydroxide",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Albemarle (Qinzhou)",
+    "parent_company": "Albemarle Corp",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-31"
+   },
+   "evidence": {
+    "status": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "10-K FY2025: Qinzhou owned, 'Production of lithium carbonate and technical and battery-grade lithium hydroxide'. Q4-2024 call (SMM 2025-02-14): converting part of the Qinzhou line from hydroxide to carbonate. Capacity not found in open pages I could open (Albemarle investor materials not opened)."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-xinyu-lithium-hydroxide-china",
+   "fields": {
+    "asset_name": "Albemarle Xinyu lithium hydroxide plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Albemarle (Xinyu)",
+    "parent_company": "Albemarle Corp",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-31"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "10-K FY2025 Item 2: Xinyu, China, owned, 'Production of technical and battery-grade lithium hydroxide'. Capacity not found. The 10-K also says Albemarle owns three active production facilities in China (Meishan, Qinzhou, Xinyu) after Chengdu went to care and maintenance."
+  },
+  {
+   "action": "add",
+   "id": "albemarle-chengdu-lithium-hydroxide-china",
+   "fields": {
+    "asset_name": "Albemarle Chengdu lithium hydroxide plant (care and maintenance)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Albemarle (Chengdu)",
+    "parent_company": "Albemarle Corp",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-31"
+   },
+   "evidence": {
+    "status": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "10-K FY2025: Chengdu 'placed into care and maintenance during 2025' (production moved to other China facilities). Announced on Q4-2024 call (SMM 2025-02-14: repair and maintain the Chengdu lithium chemicals facilities by mid-2025). Capacity not found; paused, so excluded from active aggregates."
+  },
+  {
+   "action": "add",
+   "id": "yongshan-lithium-hunan-lithium-salt-china",
+   "fields": {
+    "asset_name": "Hunan Yongshan Lithium lithium salt plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate / lithium hydroxide (flexible)",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate",
+    "operator": "Hunan Yongshan Lithium (湖南永杉锂业)",
+    "parent_company": "Yongshan Lithium (永杉锂业, listed)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2022,
+    "capacity": 60000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": 45000,
+    "installed_as_of": "2024-12-31",
+    "capacity_by_year_json": {
+     "2024": 45000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://cj.sina.com.cn/articles/view/5597884738/14da8f14202002ah2y",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-03"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S13"
+    ],
+    "installed_capacity": [
+     "S13"
+    ],
+    "capacity_by_year_json": [
+     "S13"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Results briefing (2026-11-03): Phase 2 fully commissioned end-2024, giving 45,000 t/yr 'high-quality lithium salt'; Phase 3 (22,000 t/yr) started Mar 2026 with trial production targeted before end-2026; total stated as 60,000 t/yr after Phase 3 by search summaries (6万吨), but 45,000 + 22,000 = 67,000 - UNRECONCILED inconsistency (the 60,000 may be the planned total with Phase 3 flexible/partly replacing; the opened briefing gave only the two phase figures); capacity 60,000 therefore confidence-limited. Unit entered as t LCE because no carbonate/hydroxide split is given. Phase 1 start 2022 (2.5万 t) and the Changsha Wangcheng location come from a search summary, not the opened page. Mixed-product capacity, not additive with Sichuan Yongshan. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "yongshan-lithium-sichuan-phase1-lithium-salt-china",
+   "fields": {
+    "asset_name": "Sichuan Yongshan Phase 1 lithium salt project",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium salt",
+    "asset_type": "lithium salt plant",
+    "feedstock": null,
+    "operator": "Sichuan Yongshan (四川永杉)",
+    "parent_company": "Yongshan Lithium (永杉锂业, listed)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://cj.sina.com.cn/articles/view/5597884738/14da8f14202002ah2y",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-03"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Pre-construction preparation, planning/design and compliance approvals under way (briefing 2026-11-03); no capacity disclosed. Site within Sichuan not stated."
+  },
+  {
+   "action": "add",
+   "id": "shandong-ruifu-lithium-feicheng-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Shandong Ruifu Lithium (山东瑞福锂业) battery-grade lithium carbonate plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lithium carbonate plant",
+    "feedstock": null,
+    "operator": "Shandong Ruifu Lithium (山东瑞福锂业)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2010,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "EVE Energy (supply agreement reported 2022, search summary)",
+    "end_market": "battery",
+    "source_url": "https://pitchhub.36kr.com/project/2011450510214402",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Aggregated, undated profile: company founded Nov 2010, registered at Feicheng (Laocheng town industrial park), Shandong; main products battery- and industrial-grade lithium carbonate with sodium sulfate and silica-alumina by-products. start_year 2010 is the company registration year, NOT first production. No capacity, status date or feedstock confirmed (the page also claims spodumene and lepidolite technology, unverified). The 2022 EVE/Zijin/Ruifu 90,000 t Hunan JV is a separate proposal, not entered."
+  }
+ ]
+}

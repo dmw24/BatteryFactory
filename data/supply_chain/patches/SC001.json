@@ -1,0 +1,1119 @@
+{
+ "task": "SC001",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m92l8wvl3860.pdf",
+   "publisher": "IGO Limited (ASX quarterly report, period ended 30 June 2025)",
+   "published": "2025-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full year production of 1,479kt and cash costs of $325/t were both in line with guidance (1,350-1,550kt and $320-$380/t for production and cash costs, respectively)."
+  },
+  "S2": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/ex961greenbushes2025trs.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2025, Exhibit 96.1 Greenbushes Technical Report Summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "this is forecast to expand to an annual capacity of 1.8 to 2.0 Mtpa of concentrate over the next two years"
+  },
+  "S3": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591324000016/exhibit9611231202310-k.htm",
+   "publisher": "Albemarle Corp, Form 10-K FY2023, Exhibit 96.1 Greenbushes Technical Report Summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Albemarle is a 49% owner with the remaining 51% ownership controlled by a Joint Venture (Tianqi/IGO JV)... with ownership of 26.01% and 24.99%"
+  },
+  "S4": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81bkwlmq7jj.pdf",
+   "publisher": "PLS Limited (ASX announcement, FY25 Full Year Results)",
+   "published": "2025-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "spodumene concentrate production of 754.6 thousand tonnes"
+  },
+  "S4b": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81bkwlmq7jj.pdf",
+   "publisher": "PLS Limited (ASX announcement, FY25 Full Year Results)",
+   "published": "2025-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Pilgangoora expansion projects (P680 and P1000) complete with focus now on continuous improvement and operating cost reduction."
+  },
+  "S4c": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81bkwlmq7jj.pdf",
+   "publisher": "PLS Limited (ASX announcement, FY25 Full Year Results)",
+   "published": "2025-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a 43% decrease in the average realised price of US$672/t (CIF China) on a ~SC5.3% basis"
+  },
+  "S4d": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81bkwlmq7jj.pdf",
+   "publisher": "PLS Limited (ASX announcement, FY25 Full Year Results)",
+   "published": "2025-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "maintaining the Ngungaju Plant in a state of readiness for a restart"
+  },
+  "S5": {
+   "url": "https://www.industrialinfo.com/news/article/australias-lithium-comeback-boosted-by-pilgangoora-expansion--363991",
+   "publisher": "Industrial Info Resources (IIR)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "increase spodumene concentrate production to roughly 2 million tonnes per annum"
+  },
+  "S6": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "Government of Western Australia, Dept of Mines, Petroleum and Exploration (DMPE), Lithium fact sheet 'Lithium projects with resources ranked by contained Li2O (kt) as at September 2026', published October 2026",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mt Cattlin# Care and Maintenance Rio Tinto"
+  },
+  "S6b": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mining resumed, Bald Hill (Mineral Resources)."
+  },
+  "S6c": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Final Investment Decision (FID) for Kathleen Valley expansion (Liontown)."
+  },
+  "S6d": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Tabba Tabba Pre-feasibility Wildcat Resources"
+  },
+  "S6e": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Manna Feasibility Global Lithium Resources"
+  },
+  "S6f": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Pioneer Dome Scoping Develop Global"
+  },
+  "S6g": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Scoping Study, Kangaroo Hills (Ore Resources)."
+  },
+  "S6h": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "EPA Assessment, Andover Lithium (Azure Minerals).",
+   "tier": "reported",
+   "snippet": "EPA Assessment, Andover Lithium (Azure Minerals).",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S6i": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Greenbushes Operating Albemarle / Tianqi Lithium / IGO"
+  },
+  "S6j": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Pilgangoora Operating PLS Group"
+  },
+  "S6k": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Kathleen Valley Operating Liontown"
+  },
+  "S6l": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "FID for Mt Holland mine expansion (SQM / Wesfarmers).",
+   "tier": "reported",
+   "snippet": "FID for Mt Holland mine expansion (SQM / Wesfarmers).",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S6m": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mt Marion Operating Ganfeng Lithium Company / Mineral Resources",
+   "tier": "reported",
+   "snippet": "Mt Marion Operating Ganfeng Lithium Company / Mineral Resources",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S6n": {
+   "url": "https://www.wa.gov.au/media/159133/download",
+   "publisher": "WA DMPE Lithium fact sheet (Oct 2026)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Wodgina^# Operating Albemarle / Mineral Resources"
+  },
+  "S7": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+   "publisher": "Mineral Resources Ltd (ASX quarterly activity report, Apr-Jun 2025, Q4 FY25)",
+   "published": "2025-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mt Marion shipped 203k dmt of SC6 equivalent product in FY25, outperforming the upper end of its previously increased guidance range (185-200k dmt SC6)"
+  },
+  "S7b": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+   "publisher": "Mineral Resources Ltd (ASX quarterly activity report, Q4 FY25)",
+   "published": "2025-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Wodgina shipped 214k dmt of SC6 equivalent product in FY25, in line with guidance (210-230k dmt SC6)"
+  },
+  "S7c": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+   "publisher": "Mineral Resources Ltd (ASX quarterly activity report, Q4 FY25)",
+   "published": "2025-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Total quarterly attributable spodumene production across both operating sites was 144k dry metric tonnes"
+  },
+  "S7d": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+   "publisher": "Mineral Resources Ltd (ASX quarterly activity report, Q4 FY25)",
+   "published": "2025-07-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the transition of Bald Hill into care and maintenance"
+  },
+  "S8": {
+   "url": "https://www.mineralresources.com.au/our-business/lithium/",
+   "publisher": "Mineral Resources Ltd, Lithium operations page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Mt Marion lithium operation is located 40km southwest of Kalgoorlie in the Goldfields region of Western Australia."
+  },
+  "S9": {
+   "url": "https://www.mysteel.net/analysis/5087659-overview-of-lithium-mining-projects-in-australia",
+   "publisher": "Mysteel (trade press), Overview of lithium mining projects in Australia",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Mt Marion | Mineral Resources (50%) and Jiangxi Ganfeng Lithium (50%) | Operating | 600 (SC6 processing capacity) | \"The project now boasts an annual processing capacity of 600,000 tonnes (SC6)\" [table summary of the page as returned by the fetch tool; not copied from the raw page]"
+  },
+  "S9b": {
+   "url": "https://www.mysteel.net/analysis/5087659-overview-of-lithium-mining-projects-in-australia",
+   "publisher": "Mysteel (trade press)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Kathleen Valley | Liontown Resources | Operating (production began mid-2024) | About 500 at start-up, rising to about 700 by Year 6 | \"The Kathleen Valley lithium project officially commenced production in mid-2024\" [table summary of the page as returned by the fetch tool]"
+  },
+  "S9c": {
+   "url": "https://www.mysteel.net/analysis/5087659-overview-of-lithium-mining-projects-in-australia",
+   "publisher": "Mysteel (trade press)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Mt Cattlin | Arcadium Lithium | Expected to enter care and maintenance after Phase 3 (H1 2025) | 220 (design capacity) [ktpa concentrate; table summary of the page as returned by the fetch tool]"
+  },
+  "S9d": {
+   "url": "https://www.mysteel.net/analysis/5087659-overview-of-lithium-mining-projects-in-australia",
+   "publisher": "Mysteel (trade press)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Wodgina | Mineral Resources (50%) and Albemarle (50%) | Operating | Not stated (FY2025 guidance 420-460 SC6) [ktpa; table summary of the page as returned by the fetch tool]"
+  },
+  "S10": {
+   "url": "https://www.mining-technology.com/news/minres-restarts-bald-hill-lithium-mine/",
+   "publisher": "Mining Technology",
+   "published": "2026-05-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "around 165,000 dry tonnes per annum (dtpa) of 5.1% spodumene concentrate (SC)"
+  },
+  "S10b": {
+   "url": "https://www.mining-technology.com/news/minres-restarts-bald-hill-lithium-mine/",
+   "publisher": "Mining Technology",
+   "published": "2026-05-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the resumption of activities at its wholly owned Bald Hill lithium mine"
+  },
+  "S11": {
+   "url": "https://en.wikipedia.org/wiki/Mt_Cattlin_mine",
+   "publisher": "Wikipedia (CC BY-SA), Mt Cattlin mine",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "33°33′45.1″S 120°2′6.7″E"
+  },
+  "S12": {
+   "url": "https://en.wikipedia.org/wiki/Wodgina_mine",
+   "publisher": "Wikipedia (CC BY-SA), Wodgina mine",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "21°10′52″S 118°40′31″E"
+  },
+  "S13": {
+   "url": "https://im-mining.com/2026/07/22/covalent-lithium-to-double-spodumene-output-from-mt-holland/",
+   "publisher": "International Mining",
+   "published": "2026-07-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "increase nameplate spodumene concentrate production from approximately 380,000 t/y to 760,000 t/y on a 100% basis",
+   "tier": "reported",
+   "snippet": "increase nameplate spodumene concentrate production from approximately 380,000 t/y to 760,000 t/y on a 100% basis",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S13b": {
+   "url": "https://im-mining.com/2026/07/22/covalent-lithium-to-double-spodumene-output-from-mt-holland/",
+   "publisher": "International Mining",
+   "published": "2026-07-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "first spodumene concentrate production volumes from the expansion expected in the first half of calendar year 2030",
+   "tier": "reported",
+   "snippet": "first spodumene concentrate production volumes from the expansion expected in the first half of calendar year 2030",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S14": {
+   "url": "https://www.covalentlithium.com/news/covalent-lithium-operational-update-23-july-2025",
+   "publisher": "Covalent Lithium (Wesfarmers/SQM JV), operational update",
+   "published": "2025-07-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with production pushing north of 80 per cent capacity in calendar year 2025"
+  },
+  "S15": {
+   "url": "https://ng.investing.com/news/company-news/liontown-resources-june-quarter-fy25-slides-underground-transition-drives-cost-strategy-93CH-2029795",
+   "publisher": "Investing.com (summary of Liontown June quarter FY25 slides)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "production of 294,521 dmt at 5.2%"
+  },
+  "S16": {
+   "url": "https://australianminingreview.com.au/news/record-cashflow-for-liontown/",
+   "publisher": "Australian Mining Review",
+   "published": "2025-07-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "85,892mt of spodumene concentrate was produced at an average grade of 5.2%"
+  },
+  "S17": {
+   "url": "https://www.engineeringnews.co.za/print-version/core-lithium-restarts-spodumene-concentrate-production-at-finniss-after-two-year-hiatus-2026-09-08",
+   "publisher": "Engineering News / Mining Weekly",
+   "published": "2026-09-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Core Lithium produced its first spodumene concentrate at Finniss on 8 September 2026; average output 214 000 t/y over a 20-year mine life; plant throughput to rise ~20% to 1.2 Mt/y [search-result summary; page itself returned HTTP 403]"
+  },
+  "S18": {
+   "url": "https://www.mining-technology.com/news/arcadium-mt-cattlin-care/",
+   "publisher": "Mining Technology (via search result)",
+   "published": "2024-09-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Arcadium said it planned to place Mt Cattlin into care and maintenance by the end of the first half of 2025 after completing Stage 3 mining; the company does not intend to close the mine [search-result summary]"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "talison-greenbushes-australia",
+   "fields": {
+    "asset_name": "Greenbushes",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Talison Lithium",
+    "parent_company": "Windfield Holdings (Tianqi Lithium Energy Australia 51%; Albemarle 49%)",
+    "jv_partners": "Tianqi Lithium 26.01%, IGO 24.99% (via TLEA 51%), Albemarle 49%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -33.8567,
+    "longitude": 116.0622,
+    "geo_precision": "site",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 2000000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 296760,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 1479000,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": null,
+    "offtakers": "Tianqi, IGO/TLEA (Kwinana), Albemarle, third parties",
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/ex961greenbushes2025trs.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S6i",
+     "S1"
+    ],
+    "capacity": [
+     "S2"
+    ],
+    "production": [
+     "S1"
+    ],
+    "jv_partners": [
+     "S3"
+    ],
+    "latitude": [
+     "S2"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Production = IGO-reported 100%-basis Greenbushes spodumene production FY25 (Jul 2024-Jun 2025) 1,479 kt (chemical + technical grade mixed; no single grade stated -> production_norm left null; if all SC6 it would be 1,479,000*0.06*2.473 = ~219,500 t LCE, an upper bound, real value lower because technical-grade is <6%). Capacity: Albemarle TRS says 1.8-2.0 Mtpa concentrate once CGP3 is commissioned, 'over the next two years' (FY2025 TRS, filed early 2026); 2,000,000 t taken as upper end, capacity_ref_year 2027 is my reading of 'next two years' (not stated as a year). capacity_norm uses SC6.0 stated in the TRS for the H2-2025 forecast (SC6.0). CGP3 first ore was 'expected around the end of calendar year 2025' (IGO Q4 FY25 report); latest news (search result, not fetched) mentions a CGP3 fire on 9 June 2026 - unverified. Coordinates from TRS: 33deg51'24\"S 116deg03'44\"E (Wikipedia gives 33deg51'58\"S 116deg03'53\"E - minor discrepancy). FY26 guidance 1,500-1,650 kt (IGO) / later search result says 1.375-1.425 Mt - unverified conflict. S3 ownership quote is from the FY2023 TRS; ownership split 26.01/24.99 unchanged in FY2025 TRS per fetch summary."
+  },
+  {
+   "action": "add",
+   "id": "pls-pilgangoora-australia",
+   "fields": {
+    "asset_name": "Pilgangoora (incl. Ngungaju plant)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "PLS (Pilbara Minerals)",
+    "parent_company": "PLS",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 1000000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 131069,
+    "norm_unit": "t LCE",
+    "installed_capacity": 1000000,
+    "installed_as_of": "2025-06-30",
+    "capacity_by_year_json": null,
+    "production": 754600,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": 98905,
+    "offtakers": "Ganfeng, Great Wall, POSCO (not source-verified in this patch)",
+    "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20250825/pdf/06n81bkwlmq7jj.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-08-25"
+   },
+   "evidence": {
+    "status": [
+     "S6j",
+     "S4b"
+    ],
+    "capacity": [
+     "S4b"
+    ],
+    "installed_capacity": [
+     "S4b"
+    ],
+    "production": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Production FY25 (Jul 2024-Jun 2025) 754.6 kt, 100%, PLS (wholly owned). production_norm and capacity_norm use ~SC5.3 (the grade basis of PLS's realised price per FY25 results, S4c): 754,600*0.053*2.473 = 98,905 t LCE; 1,000,000*0.053*2.473 = 131,069. Capacity 1.0 Mtpa is INFERRED from the project name P1000 being 'complete' (S4b) and an IIR statement of 'about 1 Mtpa today' (S5, not copied verbatim); a verbatim capacity quote was not obtained (pls.com blocked with HTTP 403). Further expansion to ~2 Mtpa ('P2000', due 2029 per IIR, S5: 'increase spodumene concentrate production to roughly 2 million tonnes per annum') not counted in capacity because approval status was not confirmed - a later pass should check. Ngungaju (ex-Altura) plant is a processing plant on the same Pilgangoora tenure, held 'in a state of readiness for a restart' (S4d) - not a separate row. Coordinates not sourced (left null). FY26 (to Jun 2026) result exists (ASX 2026-07-30 filing seen in search results) but was not opened; FY26 guidance was 820-870 kt."
+  },
+  {
+   "action": "add",
+   "id": "mineral-resources-wodgina-australia",
+   "fields": {
+    "asset_name": "Wodgina",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Mineral Resources (MinRes)",
+    "parent_company": "Mineral Resources / Albemarle (MARBL JV)",
+    "jv_partners": "Albemarle 50%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -21.1811,
+    "longitude": 118.6752,
+    "geo_precision": "site",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 428000,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": 63507,
+    "offtakers": "Albemarle (Kemerton) and MinRes sales",
+    "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-30"
+   },
+   "evidence": {
+    "status": [
+     "S6n",
+     "S7b"
+    ],
+    "production": [
+     "S7b",
+     "S7c"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "MinRes reports 214k dmt SC6-equivalent shipped in FY25 (Jul 2024-Jun 2025) in a table headed 'Volume (attributable)' (confirmed on the PDF page 1; the lithium text says 'attributable spodumene production'). MinRes holds 50% (Wikipedia/S12: '50:50 joint venture between Mineral Resources and the Albemarle Corporation'), so 100% basis = 2 x 214k = 428,000 t SC6 (DERIVED, assumes attributable = 50%). Cross-check: FY25 100% guidance 420-460 kt SC6 (Mysteel, S9d reported). Norm: 428,000*0.06*2.473 = 63,507 t LCE (SC6 equivalent, stated). Basis is SHIPMENTS (SC6-eq), not production. Nameplate capacity NOT located in an opened source (commonly cited ~750 ktpa, unverified -> left null). Coordinates from Wikipedia infobox (S12); MinRes page: 'approximately 120km south of Port Hedland'. POSCO agreement to buy 30% of MinRes' 50% stakes in Wodgina and Mt Marion appeared in a search result (not opened) - ownership may change by 2027."
+  },
+  {
+   "action": "add",
+   "id": "mineral-resources-mt-marion-australia",
+   "fields": {
+    "asset_name": "Mt Marion",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Mineral Resources (MinRes)",
+    "parent_company": "Mineral Resources / Ganfeng Lithium",
+    "jv_partners": "Jiangxi Ganfeng Lithium 50%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 600000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 89028,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 406000,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": 60242,
+    "offtakers": "Ganfeng, MinRes sales",
+    "end_market": "battery",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20250730/pdf/06m91hs1l3dl3m.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-30"
+   },
+   "evidence": {
+    "status": [
+     "S6m",
+     "S7"
+    ],
+    "capacity": [
+     "S9"
+    ],
+    "production": [
+     "S7",
+     "S7c"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "FY25 (Jul 2024-Jun 2025): MinRes reports 203k dmt SC6-equivalent shipped, attributable (50%) basis -> 100% = 406,000 t SC6-eq (DERIVED = 2 x 203k; ownership 50/50 from Mysteel S9 and WA list S6m). Norm = 406,000*0.06*2.473 = 60,242 t LCE. Product actually produced is ~4.4% Li2O (PDF table 'Spodumene 4.4%'), reported as SC6-eq; a search snippet said FY25 production 257k dmt (basis unclear, not used). Capacity 600,000 t SC6 per Mysteel (reported tier, page summary not verbatim): 600,000*0.06*2.473 = 89,028; capacity_ref_year unknown (article undated; MinRes announced a flotation expansion FID per search snippet - not opened). Location: 40 km SW of Kalgoorlie (S8); coordinates not sourced -> null. POSCO agreement to buy 30% of MinRes' 50% (search result only). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "covalent-lithium-mt-holland-australia",
+   "fields": {
+    "asset_name": "Mt Holland (Earl Grey)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Covalent Lithium",
+    "parent_company": "Wesfarmers / SQM (50:50)",
+    "jv_partners": "Wesfarmers 50%, SQM 50%",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 760000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2030,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 380000,
+    "installed_as_of": "2026-07-22",
+    "capacity_by_year_json": {
+     "2030": 760000
+    },
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Wesfarmers share to Kwinana LiOH refinery (Covalent); SQM share sold",
+    "end_market": "battery",
+    "source_url": "https://im-mining.com/2026/07/22/covalent-lithium-to-double-spodumene-output-from-mt-holland/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-22"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "S6l"
+    ],
+    "capacity": [
+     "S13"
+    ],
+    "installed_capacity": [
+     "S13"
+    ],
+    "capacity_by_year_json": [
+     "S13b"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Nameplate ~380,000 t/y concentrate (100% basis) doubling to 760,000 t/y after the July 2026 FID (S13); second concentrator construction from H2 2027; first expanded volumes H1 2030 (S13b). Note: Mysteel (reported) states 383,000 t nameplate and one search result gave 'H1 calendar 2028' for first expanded volumes - conflict with S13b (2030); S13b used. Production NOT recorded: no verbatim 100%-basis FY25 figure obtained (Wesfarmers FY25 annual report/ASX results not opened). Search-result text only: WesCEF (50%) share of production was 70 kt in Jul-Dec 2024, FY25 sales share 140 kt, FY26 share 209 kt (+44.1%) -> implies FY25 share ~145 kt (derived, NOT sourced), i.e. ~290 kt at 100%. Covalent says production 'north of 80 per cent capacity in calendar year 2025' (S14), consistent with ~300+ kt. Grade not stated -> no *_norm. Start year 2024 (first shipment FY2024 per search-result title; also Mysteel/MinRes-era news). Coordinates not sourced. Earl Grey is the deposit mined at Mt Holland. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "liontown-kathleen-valley-australia",
+   "fields": {
+    "asset_name": "Kathleen Valley",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Liontown Resources",
+    "parent_company": "Liontown Resources",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 500000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": 294521,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": 37874,
+    "offtakers": "Ganfeng, Tianqi, Yibin Tianyi, Albemarle (not source-verified here)",
+    "end_market": "battery",
+    "source_url": "https://ng.investing.com/news/company-news/liontown-resources-june-quarter-fy25-slides-underground-transition-drives-cost-strategy-93CH-2029795",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S6k",
+     "S16"
+    ],
+    "capacity": [
+     "S9b"
+    ],
+    "production": [
+     "S15",
+     "S16"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "FY25 (first year, to 30 Jun 2025) production 294,521 dmt at 5.2% Li2O (Investing.com summary of Liontown June-quarter slides, S15; AMR S16 says '>300,000t' in first 11 months, Q4 85,892 t at 5.2%; difference = dry vs wet tonnes). Norm = 294,521*0.052*2.473 = 37,874 t LCE. Capacity ~500 kt concentrate at start-up rising to ~700 kt by year 6 per Mysteel (reported tier, S9b) - 500,000 recorded, expansion FID taken per WA DMPE ('Final Investment Decision (FID) for Kathleen Valley expansion', S6c) so a higher plan figure exists but was not sourced; grade for capacity not stated -> no capacity_norm. The mine completed transition to fully underground on 21 Dec 2025 (search result). Start year 2024 from Mysteel 'commenced production in mid-2024'. Primary company ASX PDF (20250729) not read; coordinates not sourced. FY26 guidance 365-450 kdmt (Investing.com). [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "mineral-resources-bald-hill-australia",
+   "fields": {
+    "asset_name": "Bald Hill",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Mineral Resources (MinRes)",
+    "parent_company": "Mineral Resources",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 165000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 20811,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mining-technology.com/news/minres-restarts-bald-hill-lithium-mine/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-19"
+   },
+   "evidence": {
+    "status": [
+     "S6b",
+     "S10b",
+     "S7d"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Placed on care and maintenance Nov 2024 (S7d; IIR 'placed on care and maintenance in November 2024 due to low lithium prices'); restart announced May 2026 (mining and crushing from June 2026, concentrate from July 2026, first shipment Q1 FY27) per Mining Technology; WA DMPE Oct 2026 lists 'Mining resumed, Bald Hill' (S6b). Hence project_state active as of 2026-11, but it was paused during all of FY25-H1 FY26 and its FY25 output (Jul-Oct 2024 only) was not separately reported -> production null. Capacity ~165,000 dtpa of 5.1% SC (= 140,000 dmt SC6/yr per same article): 165,000*0.051*2.473 = 20,811 t LCE. Location: ~50 km SE of Kambalda (S8 page; not a coordinate). Wholly owned by MinRes since Nov 2023 (Mysteel, reported)."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-mt-cattlin-australia",
+   "fields": {
+    "asset_name": "Mt Cattlin (Ravensthorpe)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Rio Tinto (ex-Arcadium Lithium)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": -33.5625,
+    "longitude": 120.0352,
+    "geo_precision": "site",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 220000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6",
+     "S18"
+    ],
+    "capacity": [
+     "S9c"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Care and maintenance confirmed by WA DMPE Oct 2026 list (owner shown as Rio Tinto). Arcadium announced in Sep 2024 it would move the site to care and maintenance by end of H1 2025 after Stage 3 (S18, reported tier). Design capacity 220 ktpa concentrate from Mysteel table (reported tier; 'design capacity'). Coordinates 33deg33'45.1\"S 120deg2'6.7\"E from Wikipedia (S11), ~2.2 km N of Ravensthorpe. No FY25 production figure obtained (Arcadium 10-K FY2024 exists but not opened) -> null. Mt Cattlin counted operational/paused per care-and-maintenance convention. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "core-lithium-finniss-australia",
+   "fields": {
+    "asset_name": "Finniss (Grants, BP33, Carlton)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Core Lithium",
+    "parent_company": "Core Lithium",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Northern Territory",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 214000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2028,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "none committed (Ganfeng offtake terminated per search result)",
+    "end_market": "battery",
+    "source_url": "https://www.engineeringnews.co.za/print-version/core-lithium-restarts-spodumene-concentrate-production-at-finniss-after-two-year-hiatus-2026-09-08",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-08"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported-tier only (all Core Lithium / Mining Weekly / Engineering News pages returned HTTP 403 or were empty; figures come from search-result summaries): mining halted Jan 2024, care and maintenance; FID Mar 2026; Grants mining restarted May 2026, first concentrate produced 8 Sep 2026; first shipment targeted Dec 2026; average output 214 kt/y over 20-yr mine life (grade not stated; Grants pit yields ~134 kt SC5); plant throughput upgraded ~20% to 1.2 Mt/y with steady state targeted mid-2028 (hence capacity_ref_year 2028 is an inference). Mysteel (reported) gave a conflicting original design output of 197 ktpa. No FY25 production (site idle). Status 'operational' because commercial concentrate production restarted, but ramp-up still in commissioning per search summary. Carlton/BP33 are satellite deposits of the same Finniss site (Bynoe tenement acquisition mentioned, no plan found). Located in NT near Darwin; coordinates not sourced."
+  },
+  {
+   "action": "add",
+   "id": "azure-minerals-andover-australia",
+   "fields": {
+    "asset_name": "Andover",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Azure Minerals (SQM / Hancock Prospecting owned)",
+    "parent_company": "SQM / Hancock Prospecting",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6h"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "WA DMPE Oct 2026 lists Andover Lithium (Azure Minerals) under 'Completion of technical studies: EPA Assessment'. Development-stage (environmental assessment) only; no capacity, timeline or investment decision found. Ownership by SQM/Hancock is from my background knowledge, NOT from an opened source (WA list says only 'Azure Minerals') - verify. Pilbara, near Wodgina/Pilgangoora."
+  },
+  {
+   "action": "add",
+   "id": "wildcat-resources-tabba-tabba-australia",
+   "fields": {
+    "asset_name": "Tabba Tabba",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Wildcat Resources",
+    "parent_company": "Wildcat Resources",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6d"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Listed by WA DMPE (Oct 2026) as Pre-feasibility, 75.4 Mt at 0.98% Li2O (resource date 28/11/2024). No capacity/decision sourced. Included as a development-plan (study) project; may be excluded by the lead if only feasibility with FID counts."
+  },
+  {
+   "action": "add",
+   "id": "global-lithium-resources-manna-australia",
+   "fields": {
+    "asset_name": "Manna",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Global Lithium Resources",
+    "parent_company": "Global Lithium Resources",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6e"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "WA DMPE Oct 2026: Feasibility stage, 51.6 Mt at 1.00% Li2O (resource date 12/07/2024). Kalgoorlie-area (map shows near Mt Marion). No capacity or FID sourced."
+  },
+  {
+   "action": "add",
+   "id": "develop-global-pioneer-dome-australia",
+   "fields": {
+    "asset_name": "Pioneer Dome",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Develop Global",
+    "parent_company": "Develop Global",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6f"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "WA DMPE Oct 2026: Scoping stage, 11.1 Mt at 1.15% Li2O (resource date 20/12/2022). Goldfields (map: near Coolgardie/Kalgoorlie). No capacity or FID sourced."
+  },
+  {
+   "action": "add",
+   "id": "ore-resources-kangaroo-hills-australia",
+   "fields": {
+    "asset_name": "Kangaroo Hills",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene (pegmatite)",
+    "operator": "Ore Resources",
+    "parent_company": "Ore Resources",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": "t spodumene concentrate",
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.wa.gov.au/media/159133/download",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S6g"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "WA DMPE Oct 2026: Scoping Study completed (listed under 'Completion of technical studies'); 3.1 Mt at 1.01% Li2O (resource date 26/08/2026). No capacity or FID sourced."
+  }
+ ]
+}

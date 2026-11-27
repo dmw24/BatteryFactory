@@ -1,0 +1,1145 @@
+{
+ "task": "SC004",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "completed a major expansion at the Bikita Mine ... with designed capacity of 300,000 t/yr of spodumene concentrate and 300,000 t/yr of petalite concentrate"
+  },
+  "S2": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "began production at the Arcadia Mine in early 2023 with a design capacity of about 450,000 t/yr of lithium concentrates"
+  },
+  "S3": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "commissioned the Sabi Star Mine in May 2023, with an estimated capacity of 300,000 t/yr of lithium concentrate."
+  },
+  "S4": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Kamativi Mine also commenced operations in 2024 and planned for 50,000 t/yr of spodumene concentrate."
+  },
+  "S5": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In 2024, the Gwanda Mine, owned by Tsingshan Holding Group, began operations ... planned to produce 200,000 t/yr of lithium concentrate once the plant reaches full production capacity."
+  },
+  "S6": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "started open pit mining in 2023 at the Sandawana Mine ... was expected to start production of concentrates by the end of 2025"
+  },
+  "S7": {
+   "url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+   "publisher": "USGS National Minerals Information Center (Zimbabwe country page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "design capacity of 500,000 t /yr"
+  },
+  "S8": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-08-25/sinomine-secures-additional-zimbabwe-lithium-export-quota",
+   "publisher": "Kitco / Reuters",
+   "published": "2026-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Sinomine operates two plants at Bikita with a combined capacity to produce 600,000 tons of spodumene concentrate."
+  },
+  "S9": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-08-25/sinomine-secures-additional-zimbabwe-lithium-export-quota",
+   "publisher": "Kitco / Reuters",
+   "published": "2026-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "had returned to normal after the February to April stoppages."
+  },
+  "S10": {
+   "url": "https://news.metal.com/newscontent/104152904-smm-analysis-zimbabwes-lithium-landscape-rapidly-growing-export-accelerating-local-downstream-processing-policy",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-10-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Huayou Cobalt's Arcadia project has achieved commercial production and exports of lithium sulphate."
+  },
+  "S11": {
+   "url": "https://news.metal.com/newscontent/104152904-smm-analysis-zimbabwes-lithium-landscape-rapidly-growing-export-accelerating-local-downstream-processing-policy",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-10-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Bikita is building a lithium sulphate plant with an annual capacity of 100,000 tonnes."
+  },
+  "S12": {
+   "url": "https://miningzimbabwe.com/?p=28368",
+   "publisher": "Mining Zimbabwe",
+   "published": "2025-06-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "reporting 128,348.68 tonnes of spodumene concentrates in the first quarter"
+  },
+  "S13": {
+   "url": "https://miningzimbabwe.com/?p=28368",
+   "publisher": "Mining Zimbabwe",
+   "published": "2025-06-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a 50,000-tonne-per-annum lithium sulfate plant"
+  },
+  "S14": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-04-14/chinas-yahua-industrial-group-gets-lithium-export-quota-zimbabwe",
+   "publisher": "Kitco / Reuters",
+   "published": "2026-04-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The quota will be sufficient to ensure normal production at its Kamativi mine."
+  },
+  "S15": {
+   "url": "https://cdn.asianmetal.com/news/2130197/Yahua-Group-begins-phases-II-production-at-Kamativi-lithium-mine/1",
+   "publisher": "Asian Metal",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Yahua Group begins phase II production at Kamativi lithium mine (Nov 2024); phase two ramping to 2.3 million tonnes of raw ore and 300,000 tonnes of spodumene concentrate per annum (a Newsday piece gives 350,000 t); phase one 300,000 t ore into 50,000 t concentrate per annum."
+  },
+  "S16": {
+   "url": "https://www.mining.com/web/huayou-to-start-zimbabwe-lithium-sulphate-production-early-2026",
+   "publisher": "Mining.com / Reuters",
+   "published": "2026-01-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The newly completed plant at Huayou's wholly owned Prospect Lithium Zimbabwe's Arcadia mine has capacity to exceed 50,000 metric tons of lithium sulphate annually; 'The quantity of the lithium sulphate should be more than 60,000 metric tons, but it will depend on the configuration of the plant' (page not opened; date approximate, early 2026)."
+  },
+  "S17": {
+   "url": "https://news.metal.com/newscontent/104152904-smm-analysis-zimbabwes-lithium-landscape-rapidly-growing-export-accelerating-local-downstream-processing-policy",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-10-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Lithium sulphate sales: about US$191 million on 33,807 tonnes"
+  },
+  "S18": {
+   "url": "https://news.metal.com/newscontent/104054171-smm-analysis-mali-lithium-royalty-market-goulaminas-production-logistics-and-royalty-exposure-limits",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-08-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Goulamina's Phase I nameplate capacity is 506,000 tonnes per year of spodumene concentrate."
+  },
+  "S19": {
+   "url": "https://www.mysteel.net/analysis/5112006-key-lithium-mining-projects-in-mali-goulamina-and-bougouni",
+   "publisher": "Mysteel",
+   "published": "2026-01-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "since commencing shipments in June 2025, the Goulamina lithium mine has been consistently delivering output."
+  },
+  "S20": {
+   "url": "https://www.mysteel.net/analysis/5112006-key-lithium-mining-projects-in-mali-goulamina-and-bougouni",
+   "publisher": "Mysteel",
+   "published": "2026-01-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Goulamina lithium mine is wholly owned and controlled by Ganfeng Lithium."
+  },
+  "S21": {
+   "url": "https://miningdataonline.com/property/4570/Goulamina-Mine.aspx",
+   "publisher": "MiningDataOnline (aggregator)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The first phase of the Goulamina spodumene project officially commenced production in 2025 and remains in the ramp-up stage."
+  },
+  "S22": {
+   "url": "https://miningdataonline.com/property/4570/Goulamina-Mine.aspx",
+   "publisher": "MiningDataOnline (aggregator)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Commodity table lists 337 kt spodumene concentrate for 2025; annual production capacity 506,000 t spodumene concentrate; Ganfeng Lithium Group holds 65% interest, Government of Mali 35% (indirect); location '52 km W from Bougouni, Mali'; 'On 15 December 2024, the Goulamina lithium mine officially commenced production for its first phase.'"
+  },
+  "S23": {
+   "url": "https://www.mysteel.net/analysis/5112006-key-lithium-mining-projects-in-mali-goulamina-and-bougouni",
+   "publisher": "Mysteel",
+   "published": "2026-01-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Bougouni lithium mine is 51% owned by Hainan Mining."
+  },
+  "S24": {
+   "url": "https://www.mysteel.net/analysis/5112006-key-lithium-mining-projects-in-mali-goulamina-and-bougouni",
+   "publisher": "Mysteel",
+   "published": "2026-01-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Bougouni Phase I planned output about 125,000 tonnes per year of lithium concentrate, mine life 4 years; Phase II planned 230,000 tonnes per year flotation plant, 12-year mine life; export approval September 2025, first ore vessel shipped early December."
+  },
+  "S25": {
+   "url": "https://www.ajbell.co.uk/news/articles/brief-kodal-minerals-reports-below-budget-bougouni-production",
+   "publisher": "AJ Bell / Kodal Minerals RNS summary",
+   "published": "2026-07-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "quarterly production of 26,174 dry metric tonnes of spodumene concentrate"
+  },
+  "S26": {
+   "url": "https://www.miningweekly.com/article/first-shipment-from-kodals-bougouni-project-departs-san-pedro-port-2025-12-01",
+   "publisher": "Mining Weekly",
+   "published": "2025-12-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search result: first shipment, 28,950 tonnes of spodumene concentrate, loaded at San Pedro and bound for Hainan; LMLB held 65% by Kodal Mining UK (Kodal 49%, Hainan Mining 51%) and 35% by the Malian state; Stage 1 DMS plant, over 45,000 t produced to date, avg 5.39% Li2O (page not opened, 403)."
+  },
+  "S27": {
+   "url": "https://www.thestandard.com.hk/finance/article/337470/Zijin-starts-Congo-lithium-exports-to-china-sources-say",
+   "publisher": "The Standard (HK) / Reuters",
+   "published": "2026-07-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Manono's processing plant had started production in May 2026, a month ahead of schedule."
+  },
+  "S28": {
+   "url": "https://www.thestandard.com.hk/finance/article/337470/Zijin-starts-Congo-lithium-exports-to-china-sources-say",
+   "publisher": "The Standard (HK) / Reuters",
+   "published": "2026-07-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed to process 5 million tons of ore annually."
+  },
+  "S29": {
+   "url": "https://news.metal.com/newscontent/104037242-zijin-minings-first-lithium-concentrate-shipment-from-drc-body",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-07-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "On July 22, 2026, the first batch of spodumene concentrate produced by Manono Lithium"
+  },
+  "S30": {
+   "url": "https://news.metal.com/newscontent/104037242-zijin-minings-first-lithium-concentrate-shipment-from-drc-body",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-07-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Zijin Mining affiliates hold 54.9%."
+  },
+  "S31": {
+   "url": "https://www.engineeringnews.co.za/print-version/manono-lithiumtin-project-democratic-republic-of-congo-update-2026-07-24",
+   "publisher": "Engineering News",
+   "published": "2026-07-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search result: project designed to process 5 million tonnes of ore annually with target output of approximately 1 million tonnes of spodumene concentrate per year; Manono Lithium held 54.9% Zijin, 35.1% Cominiere, 10% DRC government; Zijin targets 30,000 t LCE from Manono in 2026 (page returned 403)."
+  },
+  "S32": {
+   "url": "https://www.mining.com/web/zijin-to-launch-congos-first-lithium-output-in-june-from-disputed-manono-deposit",
+   "publisher": "Mining.com / Reuters",
+   "published": "2026-02-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search result: US-backed KoBold Metals, which holds the adjoining Manono licence, has said it will not proceed with development until all legal disputes over the project are resolved; AVZ pursuing arbitration over the revoked permit (page returned 403)."
+  },
+  "S33": {
+   "url": "https://www.semafor.com/article/07/08/2026/nigeria-opens-250m-lithium-processing-plant",
+   "publisher": "Semafor",
+   "published": "2026-07-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will process 3 million metric tons of lithium ore per year."
+  },
+  "S34": {
+   "url": "https://www.semafor.com/article/07/08/2026/nigeria-opens-250m-lithium-processing-plant",
+   "publisher": "Semafor",
+   "published": "2026-07-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "built by Chinese companies Jiuling and Canmax."
+  },
+  "S35": {
+   "url": "https://www.mining.com/web/nigeria-to-open-two-chinese-backed-lithium-processing-plants-this-year",
+   "publisher": "Mining.com / Reuters",
+   "published": "2025-05-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search results (several outlets): Avatar plant in Nasarawa, US$100m, 4,000 tonnes per day, launched May 2024; sources inconsistent on plant names/ownership and whether output is ore or LCE (page not opened)."
+  },
+  "S36": {
+   "url": "https://www.proactiveinvestors.com/companies/news/1089220/atlantic-lithium-cheers-watershed-moment-as-ewoyaa-lithium-project-s-mining-lease-is-ratified-1089220.html",
+   "publisher": "Proactive Investors",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ghana's Parliament has ratified the mining lease for its Ewoyaa lithium project."
+  },
+  "S37": {
+   "url": "https://miningdataonline.com/property/893/Ewoyaa-Project.aspx",
+   "publisher": "MiningDataOnline (aggregator)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "remains at the pre-construction stage and is progressing toward FID."
+  },
+  "S38": {
+   "url": "https://miningdataonline.com/property/893/Ewoyaa-Project.aspx",
+   "publisher": "MiningDataOnline (aggregator)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Average annual spodumene concentrate 350 kt (per a 2023 study); life-of-mine total 3,600 kt; location '5 km SW from Mankessim, Ghana'; owners Huayou-linked 22.5% / Iron Ridge-linked 77.5% (names partly masked; citing Atlantic Lithium novation announcement)."
+  },
+  "S39": {
+   "url": "https://www.engineeringnews.co.za/article/uis-lithium-expansion-project-namibia-update-2026-02-27",
+   "publisher": "Engineering News",
+   "published": "2026-02-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search result: Uis currently produces tin and tantalum concentrates; during the initial lithium phase petalite concentrate will be produced for the technical lithium market at an initial target of 50 000 t/y; definitive feasibility study expected during 2026 (page returned 403)."
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "sinomine-bikita-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Bikita mine and concentrators",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene and petalite concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene, petalite",
+    "operator": "Bikita Minerals (Sinomine)",
+    "parent_company": "Sinomine Resource Group",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": "Masvingo",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 600000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 600000,
+    "installed_as_of": "2026-08-25",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Sinomine's Chinese smelters",
+    "end_market": "battery",
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-08-25/sinomine-secures-additional-zimbabwe-lithium-export-quota",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-25",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S8",
+     "S9"
+    ],
+    "capacity": [
+     "S8",
+     "S1"
+    ],
+    "installed_capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Capacity 600,000 t = spodumene plus petalite concentrates combined (USGS: 300,000 t/yr spodumene concentrate + 300,000 t/yr petalite concentrate after late-2023 expansion; Reuters/Sinomine H1 2026: two plants, combined 600,000 t spodumene concentrate). Conflicting figures seen in search snippets (not opened): upgrade to 400,000 t/yr spodumene; SMM 'processing capacity about 2 Mt rising to 3 Mt by Q2 2027' (likely ore basis). Grades differ (spodumene ~6% Li2O vs petalite ~4%), so no LCE norm. Production by mine not found (Sinomine annual report not located). Quota: 200,000 t in April + 300,000 t in July 2026 export quota. Zimbabwe banned raw lithium concentrate exports Feb 2026, quota-based exports since. S&P (Oct 2024, snippet only) reported partial petalite mining halt. Start year null (old mine). Mine location Masvingo province per Al Jazeera."
+  },
+  {
+   "action": "add",
+   "id": "sinomine-bikita-sulphate-plant-zimbabwe",
+   "fields": {
+    "asset_name": "Bikita lithium sulphate plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium sulphate",
+    "asset_type": "chemical plant",
+    "feedstock": "spodumene/petalite concentrate",
+    "operator": "Bikita Minerals (Sinomine)",
+    "parent_company": "Sinomine Resource Group",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": "Masvingo",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": 2027,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104152904-smm-analysis-zimbabwes-lithium-landscape-rapidly-growing-export-accelerating-local-downstream-processing-policy",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-12",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "SMM (2026-10-12): 'building a lithium sulphate plant with an annual capacity of 100,000 tonnes'; start slipped from March 2027 to July 2027 (SMM Oct 2026 article; Sinomine release 2026-10-09 says completion July 2027). capacity/unit left null because 'lithium sulphate' is not in units.csv (100,000 t lithium sulphate per SMM; hydrate/anhydrous basis not stated, so no LCE conversion). Al Jazeera (2026-06-18) mentions a 60,000 t/yr Bikita Minerals project expected Q2 2027 - possible conflict (different product basis?), not resolved. Capacity_ref_year 2027 is the due date of completion, not capacity."
+  },
+  {
+   "action": "add",
+   "id": "huayou-arcadia-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Arcadia lithium mine and concentrator",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene and petalite concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene, petalite",
+    "operator": "Prospect Lithium Zimbabwe (Huayou)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": "near Harare",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 450000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Huayou group",
+    "end_market": "battery",
+    "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+    "source_date": "2026-11-27",
+    "source_published_date": null,
+    "project_state": "active",
+    "feeds": [
+     "huayou-arcadia-sulphate-plant-zimbabwe"
+    ]
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S12"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "USGS: design capacity about 450,000 t/yr lithium concentrates (250,000 t spodumene + 200,000 t petalite per USGS text). capacity_ref_year 2023 = publication-year fallback/start year, not a due date for a later phase. Q1 2025 company-reported output 128,348.68 t spodumene concentrate (Mining Zimbabwe, 2025-06-13; monthly 34,057 t Jan to 50,500 t Mar 2025) - quarterly only, so production field left null (no full-year figure found); annualised run-rate ~500 kt. Modern Mining (search snippet) lists 50ktpa for Arcadia - probably LCE basis, unresolved. Arcadia concentrate also feeds the on-site sulphate plant (S10)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-arcadia-sulphate-plant-zimbabwe",
+   "fields": {
+    "asset_name": "Arcadia lithium sulphate plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium sulphate",
+    "asset_type": "chemical plant",
+    "feedstock": "spodumene/petalite concentrate",
+    "operator": "Prospect Lithium Zimbabwe (Huayou)",
+    "parent_company": "Zhejiang Huayou Cobalt",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": "near Harare",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104152904-smm-analysis-zimbabwes-lithium-landscape-rapidly-growing-export-accelerating-local-downstream-processing-policy",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-12",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Capacity/unit left null because 'lithium sulphate' is not in units.csv; LEAD may add a unit (e.g. t Li2SO4, hydrate basis not stated). Capacity sources: Mining Zimbabwe 2025-06-13 'a 50,000-tonne-per-annum lithium sulfate plant' (S13); Reuters early 2026 'capacity to exceed 50,000 metric tons of lithium sulphate annually', GM Henry Zhu 'more than 60,000 metric tons' (S16, snippet only). Production: SMM reports Zimbabwe lithium sulphate sales Jan-Sep 2026 about US$191 million on 33,807 t (S17; MMCZ data, no sulphate sales in same 2025 period) - all attributable to Arcadia as the sole completed plant (Reuters 2026-07-17 via search snippet: 'Zimbabwe's sole lithium salt plant', no spare capacity for third-party concentrate). Company announced industrial commissioning 20 July 2026 (search snippet, not opened) and targets crude lithium carbonate before end 2026. Start year 2026 from early-2026 partial production (snippet). Cost ~US$400m (snippet)."
+  },
+  {
+   "action": "add",
+   "id": "chengxin-sabi-star-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Sabi Star lithium mine",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Max Mind Investments (Zimbabwe)",
+    "parent_company": "Shenzhen Chengxin Lithium Group",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 300000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2023,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Chengxin Lithium",
+    "end_market": "battery",
+    "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+    "source_date": "2026-11-27",
+    "source_published_date": null,
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "USGS: commissioned May 2023, estimated capacity 300,000 t/yr 'lithium concentrate' (product type not specified; recorded as spodumene concentrate - assumption). Modern Mining snippet lists 25ktpa (likely LCE) - unresolved. No site production found. Local processing plant still at construction/planning (SMM 2026-10-12)."
+  },
+  {
+   "action": "add",
+   "id": "yahua-kamativi-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Kamativi lithium mine",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Kamativi Mining Company",
+    "parent_company": "Sichuan Yahua Industrial Group",
+    "jv_partners": "Denfold Mine (Private) Limited (15%, reported)",
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 300000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 50000,
+    "installed_as_of": "2024-04-30",
+    "capacity_by_year_json": {
+     "2024": 50000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Yahua",
+    "end_market": "battery",
+    "source_url": "https://cdn.asianmetal.com/news/2130197/Yahua-Group-begins-phases-II-production-at-Kamativi-lithium-mine/1",
+    "source_date": "2026-11-27",
+    "source_published_date": null,
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S14"
+    ],
+    "capacity": [
+     "S15"
+    ],
+    "installed_capacity": [
+     "S4"
+    ],
+    "capacity_by_year_json": [
+     "S4"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Capacity rests on reported (snippet) phase-2 figure 300,000 t/yr spodumene concentrate (Asian Metal; Newsday gives 350,000 t) - conflict; USGS gives only phase-1 50,000 t/yr (confirmed quote). Phase 2 production began Nov 2024 per Asian Metal snippet. installed 50,000 = phase 1 (USGS 'planned for'; Asian Metal says phase-1 steady production by April 2024, so installed_as_of is approximate and phase-2 status/ramp unverified). Capacity_ref_year 2026 = publication-year fallback (no dated phase-2 completion). Yahua got a six-month export quota April 2026 (Reuters via Kitco). Ownership snippet: Sichuan PD Technology 85% / Denfold 15% (not confirmed with Yahua). No 2025 production figure found. Kamativi sulphate plant not yet built (SMM 2026-10-12)."
+  },
+  {
+   "action": "add",
+   "id": "tsingshan-gwanda-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Gwanda lithium mine",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Tsingshan Holding Group (Gwanda Mine)",
+    "parent_company": "Tsingshan Holding Group",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 200000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2024,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+    "source_date": "2026-11-27",
+    "source_published_date": null,
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Only USGS: began operations 2024, planned 200,000 t/yr lithium concentrate at full production (product type unspecified; recorded as spodumene concentrate - assumption). Named among key Zimbabwe mines by Al Jazeera 2026-06-18. No operator entity, location or output found; current actual operating state unverified. Capacity_ref_year 2024 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "kuvimba-sandawana-mine-zimbabwe",
+   "fields": {
+    "asset_name": "Sandawana lithium project",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Sandawana Mines (Pvt) Ltd",
+    "parent_company": "Kuvimba Mining House",
+    "jv_partners": null,
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2025,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/zimbabwe",
+    "source_date": "2026-11-27",
+    "source_published_date": null,
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "USGS: open pit mining started 2023, concentrate production expected by end 2025, first-phase design capacity 500,000 t/yr spodumene concentrate. Whether concentrate production actually began was NOT verified (no later source found), so status under_construction may be stale. capacity_ref_year 2025 = expected start of production of phase 1."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-goulamina-mine-mali",
+   "fields": {
+    "asset_name": "Goulamina lithium mine",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Lithium du Mali S.A.",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": "Government of Mali (35% of Lithium du Mali, per MiningDataOnline)",
+    "country": "Mali",
+    "region": "Africa",
+    "province_state": "near Bougouni",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 506000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 506000,
+    "installed_as_of": "2026-08-11",
+    "capacity_by_year_json": null,
+    "production": 337000,
+    "production_unit": "t spodumene concentrate",
+    "production_year": 2025,
+    "production_norm": null,
+    "offtakers": "Ganfeng",
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104054171-smm-analysis-mali-lithium-royalty-market-goulaminas-production-logistics-and-royalty-exposure-limits",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-11",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S19",
+     "S21"
+    ],
+    "capacity": [
+     "S18"
+    ],
+    "installed_capacity": [
+     "S18"
+    ],
+    "production": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Phase I nameplate 506,000 t/yr spodumene concentrate (SMM 2026-08-11; MiningDataOnline). Phase II (to 1 Mt/yr per Argus/Mysteel snippets) excluded: SMM says no confirmed timeline or design capacity (undated aspiration). installed = Phase I built, still ramping. Production 337 kt for 2025 is from MiningDataOnline commodity table (aggregator, tier reported, snippet) - no Ganfeng filing located; Argus (snippet) reported 25,400 t in 2024 on unclear unit - not used. Start: first-phase production declared 15 Dec 2024 (MiningDataOnline, Mysteel); first shipment June 2025 via Abidjan; MiningDataOnline text also says 'commenced production in 2025' - minor conflict. Ownership conflict: Mysteel 'wholly owned and controlled by Ganfeng' (after July 2025 purchase of remaining stake in Mali Lithium) vs MiningDataOnline Ganfeng 65% / Mali government 35%; Mali state 35% interest is in Lithium du Mali (likely consistent). Row confidence capped 0.5 because production is reported tier."
+  },
+  {
+   "action": "add",
+   "id": "hainan-mining-bougouni-mine-mali",
+   "fields": {
+    "asset_name": "Bougouni lithium project",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Lithium Mali Bougouni (LMLB)",
+    "parent_company": "Hainan Mining / Kodal Minerals",
+    "jv_partners": "Kodal Minerals (49% of Kodal Mining UK), Hainan Mining (51%), Government of Mali (35%) - per Mining Weekly snippet",
+    "country": "Mali",
+    "region": "Africa",
+    "province_state": "Bougouni",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 230000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": 125000,
+    "installed_as_of": "2026-01-30",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "Hainan Mining (100% of Phase I output pre-sold)",
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/analysis/5112006-key-lithium-mining-projects-in-mali-goulamina-and-bougouni",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-30",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S26",
+     "S25"
+    ],
+    "capacity": [
+     "S24"
+    ],
+    "installed_capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Stage 1 DMS plant ~125,000 t/yr concentrate (Mysteel, snippet-level); Stage 2 flotation plant ~230,000 t/yr (Mysteel). It is unclear whether 230,000 is the total after Stage 2 or an increment - capacity set to 230,000 as total (assumption), no dated Stage-2 ref year (2026 = publication fallback; Kodal technical-report timeline 2028+, not verified). Production: first concentrate Feb 2025; first export shipment 28,950 t departed San Pedro 30 Nov/1 Dec 2025 (S26, snippet); Q1 2026 26,981 dmt at 5.28% Li2O and Q2 2026 26,174 dmt at 5.34% (AJ Bell/Kodal RNS; S25 quote covers Q2: H1 2026 = 53,195 dmt). No full-year 2025 figure found, so production null. Ownership: Mysteel '51% owned by Hainan Mining'; Mining Weekly snippet: LMLB 65% Kodal Mining UK (Kodal 49% / Hainan 51%), 35% Mali state. Output below budget in Q2 2026 (crusher circuit)."
+  },
+  {
+   "action": "add",
+   "id": "zijin-manono-northeast-mine-drc",
+   "fields": {
+    "asset_name": "Manono Northeast lithium project (Manono Lithium)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Manono Lithium SAS",
+    "parent_company": "Zijin Mining Group",
+    "jv_partners": "Cominiere (35.1%), DRC government (10%)",
+    "country": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "province_state": "Tanganyika",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 1000000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "China (all shipped to China per Reuters source)",
+    "end_market": "battery",
+    "source_url": "https://www.thestandard.com.hk/finance/article/337470/Zijin-starts-Congo-lithium-exports-to-china-sources-say",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-16",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S27",
+     "S29"
+    ],
+    "capacity": [
+     "S28",
+     "S31"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Zijin July 9 2026 notice: processing plant started production May 2026; designed to process 5 Mt ore/yr (confirmed quote); ~1 Mt/yr spodumene concentrate is the reported target (S31 snippet). Zijin targets 30,000 t LCE from Manono in 2026 (target, not production). First shipment from Mutowa port 22 July 2026 (SMM); Reuters traders: early export volumes 'a few thousand' t, another trader 'tens of thousands' of tons produced - ramp-up, unquantified. Ownership conflict: a Feb 2026 report said Zijin 61%; later reports (SMM, Reuters) Zijin affiliates 54.9% / Cominiere 35.1% / state 10% (used). Lithium sulphate stage due by end 2026 and smelter/downstream by December 2026 (not recorded as separate rows - no capacity). Contested permit area (AVZ arbitration) is not part of this row."
+  },
+  {
+   "action": "add",
+   "id": "kobold-manono-roche-dure-drc",
+   "fields": {
+    "asset_name": "Manono (adjoining licence, KoBold; former AVZ project area)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "KoBold Metals",
+    "parent_company": "KoBold Metals",
+    "jv_partners": null,
+    "country": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "province_state": "Tanganyika",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.mining.com/web/zijin-to-launch-congos-first-lithium-output-in-june-from-disputed-manono-deposit",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-12",
+    "project_state": "paused",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Reuters via Mining.com (snippet): KoBold, holding the adjoining Manono licence, will not proceed with development until all legal disputes are resolved; AVZ Minerals' permit was revoked and it is in arbitration. No capacity or development plan located from open sources in this session (AVZ's earlier DFS figures not verified, so left null). Included as a placeholder asset; LEAD may drop it if only assets with a stated capacity should be kept."
+  },
+  {
+   "action": "add",
+   "id": "jiuling-canmax-nasarawa-lithium-plant-nigeria",
+   "fields": {
+    "asset_name": "Nasarawa lithium processing plant (Jiuling/Canmax)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium concentrate (beneficiation of ore)",
+    "asset_type": "concentrator",
+    "feedstock": "lithium ore",
+    "operator": "Jiuling and Canmax (Chinese consortium; local entity unconfirmed)",
+    "parent_company": null,
+    "jv_partners": "Jiuling, Canmax",
+    "country": "Nigeria",
+    "region": "Africa",
+    "province_state": "Nasarawa",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2026,
+    "capacity": 3000000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t ore",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.semafor.com/article/07/08/2026/nigeria-opens-250m-lithium-processing-plant",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-08",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S34",
+     "S33"
+    ],
+    "capacity": [
+     "S33"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Semafor 2026-07-08: US$250m plant in Nasarawa, built by Jiuling and Canmax, opened, will process 3 Mt lithium ore/yr; output product not named in article. Other (search-snippet) reports call it the former 'Ganfeng Lithium Industry Ltd'/Diamond New Energy plant at Endo and put design at ~30,000 t LCE/yr - unresolved conflict on product/basis, so capacity kept on ore basis only. Operating status = 'opened' per press; no output figure. Not an upstream mine (ore processing plant); recorded as step mining/concentrator - LEAD to confirm step. Separate: Avatar Nasarawa plant (US$100m, 4,000 t/day ore, launched May 2024, snippet only) and a Jiuling Kaduna/Niger plant not recorded - no confirmed capacity/status."
+  },
+  {
+   "action": "add",
+   "id": "atlantic-lithium-ewoyaa-ghana",
+   "fields": {
+    "asset_name": "Ewoyaa lithium project",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "spodumene",
+    "operator": "Atlantic Lithium (Ghana subsidiary)",
+    "parent_company": "Atlantic Lithium",
+    "jv_partners": "Huayou (partner after novation completed 2026-10-26, per search snippet)",
+    "country": "Ghana",
+    "region": "Africa",
+    "province_state": "near Mankessim",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 350000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.proactiveinvestors.com/companies/news/1089220/atlantic-lithium-cheers-watershed-moment-as-ewoyaa-lithium-project-s-mining-lease-is-ratified-1089220.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S37",
+     "S36"
+    ],
+    "capacity": [
+     "S38"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Mining lease ratified by Ghana Parliament (announced 20 March 2026); project at pre-construction stage awaiting FID (MiningDataOnline). Capacity: 2023 DFS average annual ~350 kt spodumene concentrate over 12 years, LOM 3.6 Mt (MiningDataOnline snippet; DFS RNS page itself returned 403 - not confirmed). The DFS throughput 2.7 Mtpa. Ownership shifted: Huayou became project partner (novation completed 26 Oct 2026 per search snippet; stake figures 22.5%/77.5% masked and unverified). No start year (no FID). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "andrada-uis-lithium-expansion-namibia",
+   "fields": {
+    "asset_name": "Uis lithium expansion project (Nai-Nais petalite)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "petalite concentrate",
+    "asset_type": "hard-rock mine",
+    "feedstock": "petalite",
+    "operator": "Uis Tin Mining Company (UTMC)",
+    "parent_company": "Andrada Mining",
+    "jv_partners": null,
+    "country": "Namibia",
+    "region": "Africa",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "technical/battery",
+    "source_url": "https://www.engineeringnews.co.za/article/uis-lithium-expansion-project-namibia-update-2026-02-27",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-27",
+    "project_state": "active",
+    "feeds": null
+   },
+   "evidence": {
+    "status": [
+     "S39"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Snippet only (page 403): Uis mine currently produces tin and tantalum only; lithium phase 1 initial target 50,000 t/y petalite concentrate for the technical-lithium market (not in units.csv, so capacity left null); DFS expected 2026; EIB cooperation agreement Feb 2026. Tin concentrate output FY to Feb 2026: 1,740 t (not lithium)."
+  }
+ ]
+}

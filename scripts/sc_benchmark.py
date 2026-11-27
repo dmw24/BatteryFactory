@@ -19,10 +19,12 @@ def main():
     for (step, com, metric, yr), g in b.groupby(["step", "commodity", "metric", "year"]):
         s = a[(a.step == step) & (a.commodity == com)]
         if metric == "production":
-            s = s[s.production_year.between(yr - 1, yr) & s.production_norm.notna()]
+            s = s[s.production_year.between(yr - 1, yr) & s.production_norm.notna()
+                  & (s.production_norm_unit == g.norm_unit.iloc[0])]
             val = lambda d: d.production_norm.sum()
         else:
             s = s.assign(v=s.installed_norm.fillna(s.capacity_norm))
+            s = s[s.norm_unit == g.norm_unit.iloc[0]]
             val = lambda d: d.v.sum()
         for r in g.itertuples():
             sub = s if r.country == "World" else s[s.country == r.country]

@@ -1,0 +1,1085 @@
+{
+ "task": "SC006",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://news.metal.com/newscontent/102156591-tianqi-lithiums-net-profit-soared-by-over-1000-in-2022-an-overview-of-its-lithium-product-capacity",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2023-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "14,500 mt of lithium carbonate ... 5,000 mt/year of lithium hydroxide ... 4,500 mt/year of lithium chloride ... 200 mt of lithium metal"
+  },
+  "S2": {
+   "url": "https://news.metal.com/newscontent/102156591-tianqi-lithiums-net-profit-soared-by-over-1000-in-2022-an-overview-of-its-lithium-product-capacity",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2023-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "20,000 mt of battery-grade lithium carbonate ... 600 mt of lithium metal"
+  },
+  "S3": {
+   "url": "https://news.metal.com/newscontent/102548968/one-of-china%E2%80%99s-top-lithium-giants-announces-successful-trial-operation-of-its-lithium-carbonate-project",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2023-12-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "annual capacity of 20,000 mt"
+  },
+  "S4": {
+   "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225221223.PDF",
+   "publisher": "Tianqi Lithium - Annual Report 2025 (English H-share edition, cninfo), p.22 (page images read; PDF has no machine-readable text layer for the fetch tool)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the 30,000-ton per year lithium hydroxide project in Zhangjiagang, Jiangsu was successfully completed and is currently in the ramp-up stage of production capacity as planned"
+  },
+  "S5": {
+   "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225221223.PDF",
+   "publisher": "Tianqi Lithium - Annual Report 2025 (English H-share edition, cninfo), p.22",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "As at the end of the Reporting Period, the Company has formed a comprehensive production capacity of over 120,000 tons per year for lithium chemical products"
+  },
+  "S6": {
+   "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225221223.PDF",
+   "publisher": "Tianqi Lithium - Annual Report 2025 (English H-share edition, cninfo), p.22",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the lithium metal expansion project in Tongliang, Chongqing progressed steadily"
+  },
+  "S7": {
+   "url": "https://news.metal.com/newscontent/103248206-tianqi-lithium-reports-a-net-loss-of-79-billion-in-2024-its-most-loss-making-year-since-listing-and-revises-capacity-pla",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2025-03-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the current completed lithium chemical product capacity is about 91,600 mt/year"
+  },
+  "S8": {
+   "url": "https://news.metal.com/newscontent/102642690",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2024-03-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The current company's production capacity for lithium compounds and derivatives is 88,800 tons per year."
+  },
+  "S9": {
+   "url": "https://www.tianqilithium.com/arrangement.aspx?t=10",
+   "publisher": "Tianqi Lithium (company website, global layout page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "全自动化电池级碳酸锂生产工厂 ... 全自动化电池级氢氧化锂工厂"
+  },
+  "S10": {
+   "url": "https://longbridge.com/en/news/280802750",
+   "publisher": "Longbridge / Wallstreetcn (Tianqi FY2025 results)",
+   "published": "2026-03-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The project has not yet reached full production capacity, and subsequent debugging and optimization are still required."
+  },
+  "S11": {
+   "url": "https://stock.10jqka.com.cn/20260328/c675612177.shtml",
+   "publisher": "10jqka (Tonghuashun)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "重庆1000吨/年金属锂项目"
+  },
+  "S12": {
+   "url": "https://wallstreetcn.com/articles/3768780",
+   "publisher": "Wallstreetcn (Ganfeng FY2025 annual report coverage)",
+   "published": "2026-03-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "截至报告期末，公司现有锂盐产能布局包括：万吨锂盐厂氢氧化锂8.1万吨/年、碳酸锂1.5万吨/年；宁都赣锋碳酸锂2万吨/年；阿根廷Cauchari-Olaroz碳酸锂4万吨/年；四川赣锋碳酸锂2.5万吨/年、氢氧化锂2.5万吨/年等。"
+  },
+  "S13": {
+   "url": "https://www.itiger.com/news/2522150235",
+   "publisher": "Tiger Brokers news (Ganfeng FY2024 annual report coverage)",
+   "published": "2025-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "丰城赣锋一期年产2.5万吨氢氧化锂项目产能爬坡并逐步实现达产，标志着公司首个赣锋智能化工厂建设成功"
+  },
+  "S14": {
+   "url": "https://www.itiger.com/news/2522150235",
+   "publisher": "Tiger Brokers news (Ganfeng FY2024 annual report coverage)",
+   "published": "2025-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川赣锋年产5万吨锂盐项目于2024年年底建成并投产，目前在调试期间，预计2025年将逐步释放产能至最优水平"
+  },
+  "S15": {
+   "url": "https://finance.eastmoney.com/a/202604013691816287.html",
+   "publisher": "Eastmoney (reprint of Shanghai Securities News / China Securities Network)",
+   "published": "2026-04-01",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川赣锋年产5万吨锂盐项目于上半年完成生产线调试,产能逐步释放,碳酸锂产能满负荷生产",
+   "tier": "reported",
+   "snippet": "四川赣锋年产5万吨锂盐项目于上半年完成生产线调试,产能逐步释放,碳酸锂产能满负荷生产",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S16": {
+   "url": "https://finance.eastmoney.com/a/202604013691816287.html",
+   "publisher": "Eastmoney (reprint of Shanghai Securities News / China Securities Network)",
+   "published": "2026-04-01",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "青海赣锋一期年产1000吨金属锂项目处于试生产阶段,生产线爬坡至最优状态",
+   "tier": "reported",
+   "snippet": "青海赣锋一期年产1000吨金属锂项目处于试生产阶段,生产线爬坡至最优状态",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S17": {
+   "url": "https://batteriesnews.com/ganfeng-lithium-mahong-factory-battery-grade-lithium-hydroxide/",
+   "publisher": "BatteriesNews",
+   "published": "2021-12-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Mahong factory, founded in 2012, is located in the High-tech Development Zone of Xinyu City, Jiangxi Province."
+  },
+  "S18": {
+   "url": "https://www.fastmarkets.com/insights/ganfeng-lithium-to-build-50-000-tpy-lithium-project-in-fengcheng-city/",
+   "publisher": "Fastmarkets",
+   "published": "2021-06-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The first phase of the project will target annual output of 25,000 tonnes of lithium hydroxide."
+  },
+  "S19": {
+   "url": "https://www.thepaper.cn/newsDetail_forward_20112993",
+   "publisher": "The Paper (page not opened; text only via search-result summary, 2022-09-29 per summary)",
+   "published": "2022-09-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "2022年9月，赣锋锂业公告称与宜春市政府签署战略合作框架协议，其中包括在奉新县投资建设年产5万吨电池级锂盐及锂矿采选综合利用项目，整体规划总投资300亿元"
+  },
+  "S20": {
+   "url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+   "publisher": "Eastmoney research-report page on Shengxin Lithium (broker report, 2025 annual results review; page shows no explicit date)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "已建成锂盐年产能4.2万吨"
+  },
+  "S21": {
+   "url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+   "publisher": "Eastmoney research-report page on Shengxin Lithium (broker report)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "已建成锂盐年产能3万吨"
+  },
+  "S22": {
+   "url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+   "publisher": "Eastmoney research-report page on Shengxin Lithium (broker report)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前已建成投产5000吨"
+  },
+  "S23": {
+   "url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+   "publisher": "Eastmoney research-report page on Shengxin Lithium (broker report)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前已建成产能500吨"
+  },
+  "S24": {
+   "url": "https://baike.baidu.com/item/江西东鹏新材料有限责任公司",
+   "publisher": "Baidu Baike (tertiary; entry for Jiangxi Dongpeng New Materials, now Sinomine (Jiangxi) New Materials)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "已建设有年产1.5万吨电池级氢氧化锂、1万吨电池级碳酸锂以及年产3.5万吨高纯锂盐等项目"
+  },
+  "S25": {
+   "url": "https://www.36kr.com/p/3885404242112769",
+   "publisher": "36Kr (Time Finance / 时代财经 article on Yahua)",
+   "published": "2026-07-07",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产2万吨电池级碳酸锂（氢氧化锂）生产线全面投产"
+  },
+  "S26": {
+   "url": "https://m.sfccn.com/2026/7-7/2OMDE0MDRfMjE3NTk2OQ.html",
+   "publisher": "21st Century Business Herald (21jingji) via sfccn",
+   "published": "2026-07-07",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该公司合计拥有近13万吨锂盐产能，其中氢氧化锂、碳酸锂产能分别为9.3万吨和3.6万吨。"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "tianqi-lithium-shehong-china",
+   "fields": {
+    "asset_name": "Shehong plant (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate, lithium hydroxide, lithium chloride, lithium metal",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Tianqi Lithium (天齐锂业)",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 30.87,
+    "longitude": 105.39,
+    "geo_precision": "town",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 23885,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2022,
+    "capacity_norm": 23885,
+    "norm_unit": "t LCE",
+    "installed_capacity": 23885,
+    "installed_as_of": "2022-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102156591-tianqi-lithiums-net-profit-soared-by-over-1000-in-2022-an-overview-of-its-lithium-product-capacity",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S8"
+    ],
+    "capacity": [
+     "S1"
+    ],
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "SMM (2023-03-31, FY2022 report) gives Shehong: 14,500 t Li2CO3 + 5,000 t LiOH + 4,500 t LiCl + 200 t Li metal. capacity_norm = 14,500 + 5,000x0.880 (monohydrate, D-102) + 4,500x0.871 + 200x5.323 = 23,885 t LCE (units.csv factors; my arithmetic). The same article's per-site figures (Shehong 24,200 product-t + Zhangjiagang 20,000 + Tongliang 600 + Kwinana 24,000 + Anju 20,000) sum to the 88,800 t/yr group total in S8 (2024-03-01), so Shehong figures were still current in early 2024. FY2024 group total rose to 91,600 t (S7): +2,800 t not allocated to a site in any source found. FY2025 report gives only the group total >120,000 t (S5) - no per-site table could be read. Tianqi website says first lithium carbonate plant built at Shehong in 1992 (tool summary, not verbatim; start_year left null). Coordinates = Shehong county town (named locality)."
+  },
+  {
+   "action": "add",
+   "id": "tianqi-lithium-zhangjiagang-carbonate-china",
+   "fields": {
+    "asset_name": "Zhangjiagang battery-grade lithium carbonate plant (Jiangsu)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Tianqi Lithium (天齐锂业)",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": 31.87,
+    "longitude": 120.55,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2022,
+    "installed_capacity": 20000,
+    "installed_as_of": "2022-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102156591-tianqi-lithiums-net-profit-soared-by-over-1000-in-2022-an-overview-of-its-lithium-product-capacity",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S9"
+    ],
+    "capacity": [
+     "S2"
+    ],
+    "installed_capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "SMM 2023 (FY2022): Zhangjiagang 20,000 t battery-grade lithium carbonate. Tianqi website lists a separate Zhangjiagang-area plant described as 'fully automated battery-grade lithium carbonate plant' (S9; the second plant, the new hydroxide line, is listed under Suzhou) - see tianqi-lithium-zhangjiagang-hydroxide-china; two distinct plants, one row each. Not checked against FY2025 report (no per-site table readable); the carbonate line may have been switched or flexed since. Coordinates = Zhangjiagang city centroid (named locality). Feedstock not stated in sources."
+  },
+  {
+   "action": "add",
+   "id": "tianqi-lithium-zhangjiagang-hydroxide-china",
+   "fields": {
+    "asset_name": "Zhangjiagang 30kt lithium hydroxide plant (Jiangsu)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium hydroxide (flexible to lithium carbonate)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Tianqi Lithium (天齐锂业)",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": 31.87,
+    "longitude": 120.55,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 30000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225221223.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-27"
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S10"
+    ],
+    "capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "FY2025 annual report: 30,000 t/yr lithium hydroxide project at Zhangjiagang 'successfully completed', ramping up; can flex between hydroxide and carbonate. Wallstreetcn/Longbridge (2026-03-27): joint trial run from 2025-07-30, first battery-grade product 2025-10-17, 'not yet reached full production capacity' (S10). Status set operational (production started, ramping) - installed (producing) capacity not disclosed, left null. capacity_ref_year 2025 = completion year. The group's 91,600 t (2024) -> >120,000 t (2025) step (S7, S5) is consistent with this +30,000 t. Does not use the 20kt Zhangjiagang carbonate plant's capacity (separate row)."
+  },
+  {
+   "action": "add",
+   "id": "tianqi-lithium-anju-china",
+   "fields": {
+    "asset_name": "Suining Anju base (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Tianqi Lithium (天齐锂业)",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 30.35,
+    "longitude": 105.46,
+    "geo_precision": "town",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102548968/one-of-china%E2%80%99s-top-lithium-giants-announces-successful-trial-operation-of-its-lithium-carbonate-project",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-12-27"
+   },
+   "evidence": {
+    "status": [
+     "S3",
+     "S8"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "SMM (2023-12-27): Anju 20,000 t Li2CO3, trial run from 2023-10-26, first battery-grade product confirmed 2023-12-21; article also says capacity will rise to 54,500 t as the Suining Anju base ramps up and mentions a 1bn-yuan phase 2 with a '23,000-mt lithium chloride line' - the 54,500 t figure is ambiguous (not clearly Anju-only or carbonate) so NOT used as capacity. Included in group total 88,800 t (S8, 2024-03-01), so counted as built then. Ramp-up status after 2024 not confirmed. Coordinates = Anju district, Suining (named locality), approximate."
+  },
+  {
+   "action": "add",
+   "id": "tianqi-lithium-tongliang-china",
+   "fields": {
+    "asset_name": "Tongliang lithium metal plant (Chongqing)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium metal",
+    "asset_type": "lithium metal plant",
+    "feedstock": null,
+    "operator": "Tianqi Lithium (天齐锂业)",
+    "parent_company": "Tianqi Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Chongqing",
+    "latitude": 29.84,
+    "longitude": 106.06,
+    "geo_precision": "town",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 1600,
+    "capacity_unit": "t Li",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 600,
+    "installed_as_of": "2022-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102156591-tianqi-lithiums-net-profit-soared-by-over-1000-in-2022-an-overview-of-its-lithium-product-capacity",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "capacity": [
+     "S2",
+     "S11",
+     "S6"
+    ],
+    "installed_capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Existing plant 600 t Li metal (SMM FY2022, S2). FY2025 report: 'lithium metal expansion project in Tongliang, Chongqing progressed steadily' (S6, under construction at end-2025); 10jqka (2026-03-28) names the '重庆1000吨/年金属锂项目' (S11). capacity 1,600 = 600 existing + 1,000 expansion (my sum; the Tianqi website timeline, read via tool summary and not quoted, also says 1,600 t after the expansion and dates its completion to Nov 2026 - NOT confirmed verbatim, so the expansion is not counted as installed). capacity_ref_year 2026 = publication-year fallback (completion date unconfirmed). Coordinates = Tongliang district centre (named locality), approximate."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-xinyu-mahong-china",
+   "fields": {
+    "asset_name": "Xinyu Mahong (10kt) lithium salt plant (Jiangxi)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide, lithium carbonate (and lithium chloride)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": 27.82,
+    "longitude": 114.92,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2014,
+    "capacity": 86280,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 86280,
+    "norm_unit": "t LCE",
+    "installed_capacity": 86280,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://wallstreetcn.com/articles/3768780",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-30"
+   },
+   "evidence": {
+    "status": [
+     "S12",
+     "S17"
+    ],
+    "capacity": [
+     "S12"
+    ],
+    "installed_capacity": [
+     "S12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Ganfeng FY2025 annual report (via Wallstreetcn): '万吨锂盐厂' LiOH 81,000 t/yr + Li2CO3 15,000 t/yr 'at end of reporting period' (S12). capacity_norm = 81,000x0.880 + 15,000 = 86,280 t LCE (units.csv monohydrate factor, D-102; my arithmetic). Identification of '万吨锂盐厂' with the Xinyu Mahong plant is INFERRED: the Dec-2021 Ganfeng release (BatteriesNews, S17) says Mahong (Xinyu High-tech zone, founded 2012) total designed LiOH capacity would reach 81,000 t - same number; the same release says Mahong can also produce 12,000 t LiCl (not added). Hydroxide steps from S17 (not in capacity_by_year_json because units are product-t not LCE): 11,000 t (2016), +20,000 (2018), +50,000 (commissioned late 2020). Battery-grade LiOH start 2014 per S17. 81,000 t LiOH and 15,000 t Li2CO3 are flexible/design figures, so the sum overstates simultaneous output. Coordinates = Xinyu city centroid (named locality). Also Xinyu Ganfeng (LiF/Li metal/butyllithium, other site) capacity not found."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-ningdu-china",
+   "fields": {
+    "asset_name": "Ningdu Ganfeng (Ganzhou, Jiangxi)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": 26.48,
+    "longitude": 116.02,
+    "geo_precision": "town",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://wallstreetcn.com/articles/3768780",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-30"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S12"
+    ],
+    "installed_capacity": [
+     "S12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "FY2025 annual report 'existing lithium salt capacity': 宁都赣锋 Li2CO3 20,000 t/yr (S12). Feedstock and start year not found. Coordinates = Ningdu county town (named locality), approximate."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-sichuan-china",
+   "fields": {
+    "asset_name": "Sichuan Ganfeng 50kt lithium salt plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate and lithium hydroxide",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 47000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 47000,
+    "norm_unit": "t LCE",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://wallstreetcn.com/articles/3768780",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-30"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "S15"
+    ],
+    "capacity": [
+     "S12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "FY2025 report: Sichuan Ganfeng Li2CO3 25,000 t/yr + LiOH 25,000 t/yr (S12). capacity_norm = 25,000 + 25,000x0.880 = 47,000 t LCE (my arithmetic; the company calls it a '5万吨锂盐项目', i.e. 50,000 t product-tonnes). FY2024 report (S14): built and put into operation end-2024, commissioning, capacity to be released through 2025; 2026-04-01 press (S15): line commissioning completed in H1 2025, carbonate capacity running at full load (hydroxide state not stated). Installed/producing capacity not quantified -> null. Exact site not found in any opened source (an executive was reported in 2025 mentioning Dazhou/Inner Mongolia lithium-salt projects coming on stream - whether Sichuan Ganfeng = Dazhou not established) -> no coordinates."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-fengcheng-china",
+   "fields": {
+    "asset_name": "Fengcheng Ganfeng LiOH plant, phase 1 (Yichun, Jiangxi)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": 28.19,
+    "longitude": 115.78,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": 2021,
+    "start_year": null,
+    "capacity": 25000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.itiger.com/news/2522150235",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-28"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S13",
+     "S18"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Project announced 2021-06 (Fastmarkets, S18): 50,000 t lithium salts in two phases, phase 1 = 25,000 t LiOH/yr; phase 2 scope not disclosed (SMM calls the 50kt 'LCE', Fastmarkets says 'lithium salts' - unit conflict, so only the 25kt LiOH phase is entered as capacity; the 50kt total is NOT claimed). FY2024 annual report (S13): phase 1 '产能爬坡并逐步实现达产' (ramping toward design output) - status operational, installed capacity not quantified. Not named in the FY2025 'existing capacity' list (S12, list ends '等'), so FY2025 status unconfirmed. Coordinates = Fengcheng city (named locality)."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-qinghai-china",
+   "fields": {
+    "asset_name": "Qinghai Ganfeng lithium metal plant, phase 1",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium metal",
+    "asset_type": "lithium metal plant",
+    "feedstock": null,
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 1000,
+    "capacity_unit": "t Li",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202604013691816287.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-01"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Press coverage of FY2025 results (2026-04-01): phase 1 1,000 t/yr lithium metal 'in trial production, line ramping to optimal state'. FY2024 report: 'built, line commissioning'. Trial production is treated as not yet commercial, hence under_construction (judgement; reclassify to operational if the lead prefers). Site in Qinghai not located - no coordinates. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-lithium-fengxin-china",
+   "fields": {
+    "asset_name": "Fengxin 50kt battery-grade lithium salt project (Yichun, Jiangxi)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium salt",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lithium ore (integrated mining project)",
+    "operator": "Ganfeng Lithium (赣锋锂业)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.thepaper.cn/newsDetail_forward_20112993",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-09-29"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.25,
+   "notes": "Reported tier only (search-result summary of The Paper 2022-09-29; page not opened). Announced Sept 2022 under a Yichun strategic framework agreement: 50,000 t/yr battery-grade lithium salt + ore mining/processing, total plan 30bn yuan. Unit stated only as 'lithium salt' - entered as t LCE with low confidence. No later status (construction / suspension) found in any opened source; FY2024/FY2025 report coverage does not mention Fengxin. Treat as a pipeline entry that may be stalled."
+  },
+  {
+   "action": "add",
+   "id": "shengxin-lithium-zhiyuan-china",
+   "fields": {
+    "asset_name": "Zhiyuan Lithium plant (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate, lithium hydroxide, lithium chloride",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Shengxin Lithium Energy (盛新锂能)",
+    "parent_company": "Shengxin Lithium Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 42000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 42000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ],
+    "installed_capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Broker report on FY2025 results: Zhiyuan Lithium '已建成锂盐年产能4.2万吨' (reading via page summary: Li2CO3 25,000 + LiOH 15,000 + LiCl 2,000 t, so the 42,000 t is product-tonnes; entered as t LCE without hydroxide conversion - sum of the stated products). Report is undated on the page (file name suggests 2026-04-26; not used as published date). Location conflict: the report page places Zhiyuan in Deyang, Sichuan; a garbled 10jqka company page (not usable as evidence) appeared to place the plant in the Suining area - no coordinates. Company totals per the same report: 137,000 t/yr salt capacity (77,000 China + 60,000 Indonesia IMIP, bulk supply from Aug 2025); 2025 lithium salt output 77,500 t (search summary, not per plant). Shehong/Dazhou plants named in the task brief were NOT found in any opened source."
+  },
+  {
+   "action": "add",
+   "id": "shengxin-lithium-suining-china",
+   "fields": {
+    "asset_name": "Suining Shengxin lithium salt plant (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide / lithium carbonate (switchable)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Shengxin Lithium Energy (盛新锂能)",
+    "parent_company": "Shengxin Lithium Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "capacity": [
+     "S21"
+    ],
+    "installed_capacity": [
+     "S21"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "'已建成锂盐年产能3万吨' for 四川遂宁盛新 (broker report page summary: carbonate or hydroxide switchable by customer demand). Product split not stated in the verbatim quote; the unit is entered as t LCE at face value - if all hydroxide, LCE would be ~26,400 t (not applied). Coordinates not entered (Suining city-level only; plant location within Suining unconfirmed)."
+  },
+  {
+   "action": "add",
+   "id": "shengxin-lithium-suining-tech-china",
+   "fields": {
+    "asset_name": "Suining Shengxin Technology lithium salt project (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium salt (carbonate / hydroxide / chloride)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "Shengxin Lithium Energy (盛新锂能)",
+    "parent_company": "Shengxin Lithium Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 5000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "installed_capacity": [
+     "S22"
+    ],
+    "capacity": [
+     "S22"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Page summary of the broker report: 10,000 t/yr design, '目前已建成投产5000吨' (5,000 t built and in production). Only the 5,000 t quote is verbatim; the 10,000 t design figure comes from the page summary and is not separately quoted (unverified verbatim). The tool summary described this as a salt-lake lithium project - the feedstock/product type is therefore uncertain (possible overlap with off-salar vs on-site boundary; check). Sum of Shengxin built China salt: 42,000 + 30,000 + 5,000 = 77,000 t, matching the report's '7.7万吨 in China' total."
+  },
+  {
+   "action": "add",
+   "id": "shengxin-lithium-shengwei-china",
+   "fields": {
+    "asset_name": "Suining Shengwei lithium metal plant (Sichuan)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium metal",
+    "asset_type": "lithium metal plant",
+    "feedstock": null,
+    "operator": "Shengxin Lithium Energy (盛新锂能)",
+    "parent_company": "Shengxin Lithium Energy",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 3000,
+    "capacity_unit": "t Li",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 500,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://data.eastmoney.com/report/info/AP202604261821592938.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "installed_capacity": [
+     "S23"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Broker report page: 3,000 t/yr lithium metal design, '目前已建成产能500吨' (500 t built). Only the 500 t quote is verbatim; 3,000 t design from page summary. Status operational is an inference from 'built capacity 500 t'; whether it is producing is not stated."
+  },
+  {
+   "action": "add",
+   "id": "sinomine-jiangxi-dongpeng-china",
+   "fields": {
+    "asset_name": "Sinomine (Jiangxi) New Materials (formerly Dongpeng), lithium salt plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium hydroxide and lithium carbonate",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lepidolite / spodumene concentrate",
+    "operator": "Sinomine Resource (中矿资源)",
+    "parent_company": "Sinomine Resource Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": 27.82,
+    "longitude": 114.92,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 44000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 25000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://baike.baidu.com/item/江西东鹏新材料有限责任公司",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ],
+    "capacity": [
+     "S24"
+    ],
+    "installed_capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Baidu Baike (tertiary): '已建设有年产1.5万吨电池级氢氧化锂、1万吨电池级碳酸锂以及年产3.5万吨高纯锂盐等项目', total lithium salt capacity 4.4万吨 stated on the page. installed_capacity 25,000 = 15,000 LiOH + 10,000 Li2CO3 as product-tonnes (my sum; hydroxide not LCE-converted: would be 23,200 t LCE). The 35,000 t 'high-purity lithium salt' item is not clearly built; 44,000 t is entered as the page's stated total (ambiguous). Page gives the company address in Xinyu High-tech Zone, Jiangxi (city-level coordinates = Xinyu centroid; I could not independently confirm the plant is in Xinyu rather than Yichun). Environmental approval Nov 2025 for a Li2CO3 retrofit / LiF expansion (page text, no capacity). No annual-report page was opened for this row - upgrade with the Sinomine FY2025 report."
+  },
+  {
+   "action": "add",
+   "id": "yahua-group-yaan-china",
+   "fields": {
+    "asset_name": "Yahua Lithium (Ya'an) battery-grade lithium salt plant",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate / lithium hydroxide",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "spodumene concentrate",
+    "operator": "Yahua Group (雅化集团)",
+    "parent_company": "Yahua Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 29.98,
+    "longitude": 103.01,
+    "geo_precision": "city",
+    "status": "operational",
+    "announced_year": 2017,
+    "start_year": 2020,
+    "capacity": 20000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2020,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "capacity_by_year_json": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "https://www.36kr.com/p/3885404242112769",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-07"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S25"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Time Finance via 36Kr (2026-07-07): Ya'an Lithium line (added 2017) '年产2万吨电池级碳酸锂（氢氧化锂）生产线全面投产' - fully in production from July 2020. Current capacity of this plant (expansions since) not found. Company level (not allocated): ~130,000 t/yr lithium salt design capacity = 93,000 t LiOH + 36,000 t Li2CO3 (21st Century Business Herald 2026-07-07, S26); 2025 salt output 68,600 t, sales 69,500 t (Guosen broker report page; summary only). Other Yahua lithium-salt plants (incl. any at Meishan named in the task brief) are NOT itemised in any opened source - the 130 kt company total therefore contains capacity absent from this database (see gaps). Coordinates = Ya'an city centroid (named locality)."
+  }
+ ]
+}
