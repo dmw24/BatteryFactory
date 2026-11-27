@@ -8,7 +8,7 @@ After each step's waves: completeness pass (company + list cross-check), Opus au
 | wave | tasks | step | state |
 |---|---|---|---|
 | 1 | SC001–SC008 | lithium mines (AU, S.Am brine, CN, Africa, rest) + refining (CN×2, ex-CN) | launched 2026-11-27 |
-| 2 | SC009–SC014 | cathode CAM (CN NCM, CN LFP ×2, KR/JP, EU/NA/other) + pCAM/FePO4 | next |
+| 2 | SC009–SC014, SC090 | cathode CAM (CN NCM, CN LFP ×2, KR/JP, other) + pCAM/FePO4; processing benchmarks | launched 2026-11-27 |
 | 3 | SC015–SC019 | anode (CN synthetic ×2, natural graphite anode/spherical, ex-CN) + natural graphite mines | |
 | 4 | SC020–SC024 | nickel mines (Indonesia, PH/NC/AU/other) + refining (Indonesia HPAL/RKEF-matte, NiSO4 CN/other) | |
 | 5 | SC025–SC027 | cobalt (DRC mines, refineries CN/other) | |

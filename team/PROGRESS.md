@@ -69,3 +69,8 @@ T080–T091 merged (T088 blocked on network allowlist). Audit T083 FAIL → fixe
 
 ## 2026-11-24 lead — history round 2 + freshness + coordinates
 Merged T092–T101: ~25 more plant histories/start years; series bug fixed (pre-anchor steps; no plan credit before an installed anchor); Series F modelled backfill (D-033); company histories from IPO prospectuses (CATL 2015–17/19, Farasis 2017–19); survivorship adds (Waterma, Aoyou, Guoneng, JEVE); pipeline freshness for 47 stale projects (Guansheng progressed; Jiahang removed as duplicate of CALB Jiangmen phase 2; 38 no-news rows down-weighted); 34 more site coordinates (OSM, town/city). History F vs benchmarks: 2020 49%, 2022 72–82%, 2023 ~80%, 2025 ~87%.
+
+## 2026-11-27 lead — supply-chain phase started
+T114/T115 merged (6 plants dated; quotes 15/15 found). Supply-chain build in place: scripts/sc_build.py, checks/sc_checks.py
+(S1–S12), data/supply_chain/units.csv, scripts/sc_benchmark.py, USGS MCS 2026 mine benchmarks (Li, Ni, Co, graphite).
+Wave 1 (lithium SC001–SC008) and wave 2 (cathode/pCAM SC009–SC014 + processing benchmarks SC090) launched. Plan: team/SC_BACKLOG.md.

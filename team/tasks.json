@@ -3605,6 +3605,181 @@
    "pr": null,
    "attempts": 1,
    "assumptions": []
+  },
+  {
+   "id": "SC009",
+   "title": "Cathode CAM — China NCM/NCA/high-nickel plants (one row per plant)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC009.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC010",
+   "title": "Cathode CAM — China LFP part 1 (Hunan Yuneng, Dynanonic, Wanrun, Lopal/Changzhou Lithium Source, Fulin, Ronbay LFP, Anda, BTR LFP, CATL/Brunp LFP)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC010.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC011",
+   "title": "Cathode CAM — China LFP part 2 + LMFP, LCO, LMO, sodium-ion cathodes (all other makers)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC011.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC012",
+   "title": "Cathode CAM — Korean and Japanese makers, all their plants worldwide",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC012.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC013",
+   "title": "Cathode CAM — all other makers outside China/KR/JP (Europe, North America, India, Indonesia, Morocco, other)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC013.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC014",
+   "title": "Precursor — pCAM (NCM/NCA hydroxide) worldwide + top iron phosphate (FePO4) plants",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC014.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
+  },
+  {
+   "id": "SC090",
+   "title": "Benchmarks — open aggregates for processing steps (lithium chemicals, CAM, pCAM, anode, electrolyte, LiPF6, separator, copper foil, nickel/cobalt refining, recycling)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/benchmarks/SC090_aggregates.csv"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief team/briefs/SC_RESEARCHER.md followed",
+    "checks/sc_checks.py passes",
+    "verify_quotes --sc FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": []
   }
  ]
 }
