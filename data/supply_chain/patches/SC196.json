@@ -1,0 +1,176 @@
+{
+ "task": "SC196",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://news.metal.com/newscontent/101952512-worlds-first-lmfp-project-with-a-capacity-over-100000-mtyear-commissioned-in-qujing-yunnan",
+   "publisher": "SMM (Shanghai Metals Market), World's First LMFP Project with a Capacity over 100,000 mt/year Commissioned in Qujing, Yunnan",
+   "published": "2022-09-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the company's 110,000 mt/year lithium iron manganese phosphate (LMFP) project ... was officially put into operation in Qujing, Yunnan on September 19, 2022."
+  },
+  "S3": {
+   "url": "https://cn.solarbe.com/news/20250312/50001019.html",
+   "publisher": "Solarbe (索比) / 锂电焦点 reprint, Jiangxi Shenghua Yichun 20万吨 project",
+   "published": "2025-03-12",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期已于2024年9月正式投产,已建成6条生产线,具备7.5万吨磷酸铁锂正极材料生产能力。",
+   "tier": "reported",
+   "snippet": "一期已于2024年9月正式投产,已建成6条生产线,具备7.5万吨磷酸铁锂正极材料生产能力。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (宁波杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 6932-6943, construction-in-progress table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川眉山年产 20 万吨锂离子电池 ... 一期已投产，二期仓 ... 负极材料一体化基地项目 ... 库和宿舍在建中 ... 云南安宁年产 30 万吨锂离子电池 ... 一期已投产，二期暂 ... 未开工"
+  },
+  "S5": {
+   "url": "https://www.marklines.com/cn/news/274184",
+   "publisher": "MarkLines (news, 16 Aug 2022, citing media reports of 15 Aug 2022)",
+   "published": "2022-08-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "旗下四川杉杉新材料有限公司年产20万吨负极材料一体化基地在四川省眉山市投产。 ... 项目建设周期32个月，项目分两期建设，各为10万吨，建设周期各为16个月。"
+  },
+  "S6": {
+   "url": "https://fastmarkets.com/insights/yunnan-shanshan-fires-up-new-graphite-anode-project",
+   "publisher": "Fastmarkets, Yunnan Shanshan fires up new graphite anode project amid challenging market conditions",
+   "published": "2023-07-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "started production at its new manufacturing base in China's Yunnan province on Friday June 30 ... The first phase, with planned capacity of 200,000 tonnes per year, has since started production ... construction of the second 100,000-tonne phase has yet to start."
+  },
+  "S7": {
+   "url": "https://pdf.dfcfw.com/pdf/H3_AP202210201579299425_1.pdf",
+   "publisher": "Zheshang Securities (浙商证券) 杉杉股份 定增募投事件点评 (report file dated 2022-10-19; PDF body is compressed and was not readable, text taken from the search-result snippet)",
+   "published": "2022-10-19",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "根据公司官媒信息,一期 10 万吨 8 月已投产"
+  },
+  "S8": {
+   "url": "https://www.jiemian.com/article/7275156.html",
+   "publisher": "Jiemian (界面新闻), 去年产能增了两倍，容百科技还要定增60亿大扩产 (reporting the 2021 annual report)",
+   "published": "2022-03-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年报显示，其在湖北鄂州、贵州遵义和韩国三地同时扩建，将产能从年初的4万吨提高到年末的12万吨。 ... 其中，湖北鄂州已成为全球产能最大的高镍三元材料生产基地，产能突破10万吨。"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "dynanonic-qujing-lfp-china",
+   "fields": {
+    "installed_capacity": 110000,
+    "installed_as_of": "2022-09-19",
+    "capacity_by_year_json": {
+     "2022": 110000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S1"
+    ],
+    "capacity_by_year_json": [
+     "S1"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC196 2026-11-27] Dated built step: the Qujing 110,000 t/yr LMFP project (Qujing Dynanonic) 'officially put into operation' on 2022-09-19 (SMM, S1; the same article gives the long-term 2025 targets of 440,000 t LMFP / 345,000 t LFP, which are plans and are NOT used). This is the LMFP project only: it is a FLOOR for the Qujing base, which also has earlier LFP lines and the Dynanonic-EVE Qujing JV entity (base total undisclosed; group total built 450,000 t at end-2025 per the 2025 annual report, local text 300769_2025.txt line 901, not allocable to sites). Unit kept as t CAM (same unit as the row)."
+  },
+  {
+   "action": "update",
+   "id": "fulin-jiangxi-shenghua-yichun-china",
+   "fields": {
+    "installed_capacity": 75000,
+    "installed_as_of": "2024-09",
+    "capacity_by_year_json": {
+     "2024": 75000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S3"
+    ],
+    "capacity_by_year_json": [
+     "S3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC196 2026-11-27] Jiangxi Shenghua 20万吨 high-compaction LFP project at Yichun: phase 1 'officially put into production in September 2024 ... 6 lines built ... capacity 7.5万吨' (Solarbe/锂电焦点 reprint, published 2025-03-12). Month precision only (installed_as_of '2024-09'). Phase 2 started construction Dec 2024 with first line planned May 2025 - not confirmed, not counted. FLOOR for the Yichun base: any earlier Jiangxi Shenghua lines are not covered by this figure. Press source only; no company filing found that splits capacity by base (the 2025 annual report has no per-base capacity). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "shanshan-meishan-anode-china",
+   "fields": {
+    "installed_capacity": 100000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {
+     "2022": 100000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S4",
+     "S5"
+    ],
+    "capacity_by_year_json": [
+     "S5",
+     "S7"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC196 2026-11-27] Phase 1 = 100,000 t: the project is two phases of 10万吨 each (MarkLines 2022-08-16, S5). Phase 1 production start Aug 2022 (S5 says the 20万吨 base 'put into production' in Meishan, 16 Aug 2022; a 2022-10-19 Zheshang report snippet says 'phase 1 10万吨 already in production in August', S7, reported tier). The 2025 annual report (S4) still lists phase 1 as in production and phase 2 as not built (only warehouse/dormitory under construction), so 100,000 t is stated as installed at 2025-12-31. The phase-1 size is inferred from the stated 2 x 10万吨 phasing; the annual report gives no phase capacity. Plan (200,000 t) unchanged."
+  },
+  {
+   "action": "update",
+   "id": "shanshan-anning-anode-china",
+   "fields": {
+    "installed_capacity": 200000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {
+     "2023": 200000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S4",
+     "S6"
+    ],
+    "capacity_by_year_json": [
+     "S6"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC196 2026-11-27] Yunnan Shanshan Anning: production started 30 Jun 2023 for phase 1 with 'planned capacity of 200,000 tonnes per year', phase 2 (100,000 t) not started (Fastmarkets 2023-07-07, S6). The 2025 annual report (S4) lists phase 1 as in production and phase 2 as not started, so 200,000 t is recorded as installed at 2025-12-31. CAVEAT: S6 gives phase-1 capacity as 'planned', and no filing states the phase-1 capacity actually built or the utilisation, so this may overstate built capacity if phase 1 was commissioned in stages (CIP at end-2025 was 43% of the CNY 9.7bn budget for the whole 30万吨 base, S4 line 6942). Plan (300,000 t) unchanged."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-ezhou-china",
+   "fields": {
+    "installed_capacity": 100000,
+    "installed_as_of": "2021-12-31",
+    "capacity_by_year_json": {
+     "2021": 100000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S8"
+    ],
+    "capacity_by_year_json": [
+     "S8"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC196 2026-11-27] Jiemian (2022-03-30), reporting Ronbay's 2021 annual report: group capacity rose from 4万吨 at the start of 2021 to 12万吨 at year-end, and Ezhou 'capacity exceeded 10万吨' (S8) - so >= 100,000 t at end-2021 (floor; the text says 'exceeded'). Date set to the year-end of the report year; the article itself does not print 2021-12-31. Not re-confirmed from the original 2021 annual report (not in team/evidence/filings). Note: the sibling row ronbay-zunyi-china carries 100,000 t (ref 2018) which is hard to reconcile with this article (group 12万吨 incl. Ezhou >10万吨 and Korea at end-2021) - flag for QA, not changed here."
+  }
+ ]
+}

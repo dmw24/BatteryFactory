@@ -14,7 +14,7 @@ Assets: 914 — by step and status (never summed across statuses):
 | refining | 186 | 25 | 30 | 49 |
 | separator | 34 | 8 | 2 | 1 |
 
-Evidence: 763 rows confirmed, 151 reported-tier; 500 with coordinates; mean confidence 0.53.
+Evidence: 762 rows confirmed, 152 reported-tier; 500 with coordinates; mean confidence 0.53.
 
 ## Mining — 2025 production vs USGS MCS 2026 (operational assets; company-level output not tied to a site shown separately)
 
@@ -58,20 +58,20 @@ Evidence: 763 rows confirmed, 151 reported-tier; 500 with coordinates; mean conf
 
 | step | product | metric | area | year | benchmark | built site capacity (installed/dated) | rest of operational plans (upper bound) | unallocated company capacity | company output (China-only cos.) | company output incl. overseas |
 |---|---|---|---|---|---:|---:|---:|---:|---:|---:|
-| cathode | cathode (LFP) | production | China | 2024 | 2,397,070 t CAM | – | – | – | – | – |
-| cathode | cathode (NCM/ternary) | production | China | 2024 | 614,700 t CAM | – | 200,000 | – | – | – |
+| cathode | cathode (LFP) | production | China | 2024 | 2,397,070 t CAM | 185,000 | – | – | – | – |
+| cathode | cathode (NCM/ternary) | production | China | 2024 | 614,700 t CAM | 100,000 | 100,000 | – | – | – |
 | cathode | cathode (LMO) | production | China | 2024 | 124,910 t CAM | – | – | – | – | – |
 | cathode | cathode (LCO) | production | China | 2024 | 90,180 t CAM | – | – | – | – | – |
-| anode | anode | production | China | 2024 | 2,103,500 t anode | – | – | – | – | – |
+| anode | anode | production | China | 2024 | 2,103,500 t anode | 300,000 | – | – | – | – |
 | separator | separator | production | China | 2024 | 21,446 Mm2 | – | – | – | – | – |
 | electrolyte | electrolyte | production | China | 2024 | 1,492,600 t electrolyte | 115,000 | – | – | – | – |
 | recycling | recycling | production | China | 2024 | 654,000 t feed | – | – | – | – | – |
 | recycling | recycling | capacity | China | 2024 | 4,230,000 t feed | – | – | – | – | – |
-| cathode | cathode | production | China | 2025 | 4,970,000 t CAM | 599,060 | 260,000 | 1,845,833 | 2,527,072 | 2,832,821 |
-| cathode | cathode | shipments | China | 2025 | 4,987,000 t CAM | 599,060 | 260,000 | 1,845,833 | 2,527,072 | 2,832,821 |
-| cathode | cathode | capacity | China | 2025 | 9,000,000 t CAM | 599,060 | 260,000 | 1,845,833 | 2,527,072 | 2,832,821 |
+| cathode | cathode | production | China | 2025 | 4,970,000 t CAM | 884,060 | 160,000 | 1,660,833 | 2,527,072 | 2,832,821 |
+| cathode | cathode | shipments | China | 2025 | 4,987,000 t CAM | 884,060 | 160,000 | 1,660,833 | 2,527,072 | 2,832,821 |
+| cathode | cathode | capacity | China | 2025 | 9,000,000 t CAM | 884,060 | 160,000 | 1,660,833 | 2,527,072 | 2,832,821 |
 | separator | separator | shipments | China | 2025 | 32,850 Mm2 | 900 | 4,320 | 2,120 | 3,926 | 20,673 |
-| anode | anode | shipments | China | 2025 | 2,900,000 t anode | 307,500 | 680,000 | 613,343 | 1,594,612 | 2,189,456 |
+| anode | anode | shipments | China | 2025 | 2,900,000 t anode | 607,500 | 580,000 | 613,343 | 1,594,612 | 2,189,456 |
 | refining | lithium | capacity | China | 2025 | 2,400,000 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
 | refining | lithium hydroxide | production | China | 2025 | 356,000 t LiOH | – | – | – | – | – |
 | electrolyte | LiPF6 | production | World | 2025 | 279,000 t LiPF6 | 69,000 | – | 65,000 | 39,568 | 39,568 |
@@ -79,7 +79,7 @@ Evidence: 763 rows confirmed, 151 reported-tier; 500 with coordinates; mean conf
 | refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 372,000 | 940,561 | – | – | – |
 | refining | cobalt | production | World | 2025 | 240,000 t Co | – | 43,500 | 39,500 | 51,197 | 51,197 |
 | refining | lithium | production | China | 2025 | 1,289,280 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
-| cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 517,500 | 60,000 | – | – | – |
+| cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 702,500 | 60,000 | – | – | – |
 
 Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 372,000 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 155,000 t Ni shown separately, not added.
 
