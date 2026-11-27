@@ -145,3 +145,11 @@ USGS lithium production is in t Li content (×5.323 → LCE).
 A salar/salt-lake operation producing carbonate or chloride on site is one `mining` row (product = the chemical);
 a separate downstream plant (e.g. off-salar carbonate/hydroxide plant) is a `refining` row. Refining comparisons count
 both.
+## D-104 (2026-11-27, lead) Benchmark year window and fiscal years
+Mine production is compared with USGS calendar 2025 using each asset's latest reported year within 2024–2026, so
+July–June fiscal years (FY26 = Jul 2025–Jun 2026) count against 2025. Concentrate converted to LCE at the stated grade,
+else 6% (SC6) only where the operator reports "SC6 equivalent"; assumptions are written in each row's notes.
+## D-105 (2026-11-27, lead) Phase/project rows at an existing site
+Filing passes sometimes add a project row (e.g. "Haijing 30 kt expansion") next to its site row. Before any capacity
+total is published, such rows are merged into the site row as dated steps (QA task); until then aggregates are flagged
+as upper bounds for cathode/anode.

@@ -30,7 +30,7 @@ def main():
             s = s[s["product"].fillna("").str.contains(key, case=False)]
         if r.country != "World":
             s = s[s.country == r.country]
-        p = s[s.production_year.between(r.year - 1, r.year) & (s.production_norm_unit == r.norm_unit)]
+        p = s[s.production_year.between(r.year - 1, r.year + 1) & (s.production_norm_unit == r.norm_unit)]
         c = s[s.norm_unit == r.norm_unit]
         cap = c.installed_norm.fillna(c.capacity_norm).sum()
         rows.append(dict(step=r.step, commodity=r.commodity, metric=r.metric, year=r.year, country=r.country,
