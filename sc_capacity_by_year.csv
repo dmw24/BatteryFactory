@@ -1,0 +1,221 @@
+step,commodity,norm_unit,year,built,under_construction,announced,n_assets
+anode,anode,t anode,2022,66000.0,0.0,0.0,1
+anode,anode,t anode,2023,66000.0,0.0,0.0,1
+anode,anode,t anode,2024,95250.0,0.0,0.0,4
+anode,anode,t anode,2025,1245250.0,30300.0,140000.0,19
+anode,anode,t anode,2026,2398500.0,320300.0,920000.0,38
+anode,anode,t anode,2027,2398500.0,336800.0,920000.0,40
+anode,anode,t anode,2028,2398500.0,336800.0,1264500.0,44
+anode,anode,t anode,2029,2417950.0,336800.0,1264500.0,44
+anode,anode,t anode,2030,2417950.0,336800.0,1264500.0,44
+anode,graphite,t graphite,2026,0.0,0.0,10000.0,1
+anode,graphite,t graphite,2027,0.0,0.0,47000.0,2
+anode,graphite,t graphite,2028,0.0,0.0,47000.0,2
+anode,graphite,t graphite,2029,0.0,0.0,47000.0,2
+anode,graphite,t graphite,2030,0.0,0.0,47000.0,2
+cathode,cathode,t CAM,2018,100000.0,0.0,0.0,1
+cathode,cathode,t CAM,2019,100000.0,0.0,0.0,1
+cathode,cathode,t CAM,2020,100000.0,0.0,0.0,1
+cathode,cathode,t CAM,2021,200000.0,0.0,0.0,2
+cathode,cathode,t CAM,2022,254000.0,0.0,900000.0,6
+cathode,cathode,t CAM,2023,525000.0,30000.0,900000.0,14
+cathode,cathode,t CAM,2024,525000.0,30000.0,900000.0,14
+cathode,cathode,t CAM,2025,1553060.0,437500.0,900000.0,36
+cathode,cathode,t CAM,2026,2761060.0,1916500.0,3950000.0,66
+cathode,cathode,t CAM,2027,3191060.0,2036500.0,4040000.0,69
+cathode,cathode,t CAM,2028,3191060.0,2036500.0,4630000.0,73
+cathode,cathode,t CAM,2029,3191060.0,2036500.0,4630000.0,73
+cathode,cathode,t CAM,2030,3191060.0,2036500.0,4630000.0,73
+electrolyte,LiPF6,t LiPF6,2025,69000.0,0.0,0.0,4
+electrolyte,LiPF6,t LiPF6,2026,84000.0,0.0,60000.0,6
+electrolyte,LiPF6,t LiPF6,2027,84000.0,0.0,60000.0,6
+electrolyte,LiPF6,t LiPF6,2028,84000.0,0.0,60000.0,6
+electrolyte,LiPF6,t LiPF6,2029,84000.0,0.0,60000.0,6
+electrolyte,LiPF6,t LiPF6,2030,84000.0,0.0,60000.0,6
+electrolyte,electrolyte,t electrolyte,2017,20000.0,0.0,0.0,1
+electrolyte,electrolyte,t electrolyte,2018,20000.0,0.0,0.0,1
+electrolyte,electrolyte,t electrolyte,2019,20000.0,0.0,0.0,1
+electrolyte,electrolyte,t electrolyte,2020,20000.0,0.0,0.0,1
+electrolyte,electrolyte,t electrolyte,2021,20000.0,0.0,0.0,1
+electrolyte,electrolyte,t electrolyte,2022,75000.0,0.0,0.0,3
+electrolyte,electrolyte,t electrolyte,2023,115000.0,0.0,0.0,4
+electrolyte,electrolyte,t electrolyte,2024,295000.0,0.0,0.0,6
+electrolyte,electrolyte,t electrolyte,2025,941000.0,0.0,0.0,11
+electrolyte,electrolyte,t electrolyte,2026,2310000.0,700000.0,500000.0,25
+electrolyte,electrolyte,t electrolyte,2027,2560000.0,700000.0,500000.0,25
+electrolyte,electrolyte,t electrolyte,2028,2560000.0,700000.0,1000000.0,26
+electrolyte,electrolyte,t electrolyte,2029,2560000.0,700000.0,1000000.0,26
+electrolyte,electrolyte,t electrolyte,2030,2560000.0,700000.0,1000000.0,26
+foil,copper foil,t copper foil,2023,97000.0,57000.0,0.0,3
+foil,copper foil,t copper foil,2024,150000.0,57000.0,0.0,6
+foil,copper foil,t copper foil,2025,180000.0,57000.0,0.0,7
+foil,copper foil,t copper foil,2026,375000.0,57000.0,92500.0,14
+foil,copper foil,t copper foil,2027,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2028,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2029,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2030,520000.0,57000.0,147500.0,16
+mining,cobalt,t Co,2025,8000.0,0.0,0.0,1
+mining,cobalt,t Co,2026,48700.0,0.0,0.0,5
+mining,cobalt,t Co,2027,48700.0,0.0,0.0,5
+mining,cobalt,t Co,2028,48700.0,0.0,0.0,5
+mining,cobalt,t Co,2029,48700.0,0.0,0.0,5
+mining,cobalt,t Co,2030,48700.0,0.0,0.0,5
+mining,cobalt,t ore,2025,2100000.0,0.0,0.0,1
+mining,cobalt,t ore,2026,2100000.0,0.0,0.0,1
+mining,cobalt,t ore,2027,2100000.0,0.0,0.0,1
+mining,cobalt,t ore,2028,2100000.0,0.0,0.0,1
+mining,cobalt,t ore,2029,2100000.0,0.0,0.0,1
+mining,cobalt,t ore,2030,2100000.0,0.0,0.0,1
+mining,graphite,t graphite,2022,8400.0,0.0,0.0,1
+mining,graphite,t graphite,2023,100400.0,0.0,24780.0,4
+mining,graphite,t graphite,2024,100400.0,0.0,24780.0,4
+mining,graphite,t graphite,2025,656900.0,0.0,240780.0,10
+mining,graphite,t graphite,2026,856900.0,106000.0,553780.0,16
+mining,graphite,t graphite,2027,856900.0,106000.0,553780.0,16
+mining,graphite,t graphite,2028,856900.0,106000.0,553780.0,16
+mining,graphite,t graphite,2029,856900.0,106000.0,553780.0,16
+mining,graphite,t graphite,2030,856900.0,106000.0,728780.0,17
+mining,graphite,t ore,2022,500000.0,0.0,0.0,1
+mining,graphite,t ore,2023,500000.0,0.0,0.0,1
+mining,graphite,t ore,2024,500000.0,0.0,0.0,1
+mining,graphite,t ore,2025,535000.0,0.0,0.0,2
+mining,graphite,t ore,2026,535000.0,0.0,0.0,2
+mining,graphite,t ore,2027,535000.0,0.0,0.0,2
+mining,graphite,t ore,2028,535000.0,0.0,0.0,2
+mining,graphite,t ore,2029,535000.0,0.0,0.0,2
+mining,graphite,t ore,2030,535000.0,0.0,0.0,2
+mining,lithium,t LCE,2023,45000.0,0.0,0.0,1
+mining,lithium,t LCE,2024,45000.0,0.0,0.0,1
+mining,lithium,t LCE,2025,412337.0,210000.0,0.0,15
+mining,lithium,t LCE,2026,1407772.0,462000.0,542744.0,40
+mining,lithium,t LCE,2027,1502800.0,467200.0,542744.0,42
+mining,lithium,t LCE,2028,1502800.0,507200.0,542744.0,43
+mining,lithium,t LCE,2029,1502800.0,507200.0,589708.0,45
+mining,lithium,t LCE,2030,1635300.0,507200.0,589708.0,46
+mining,lithium,t ore,2025,3585000.0,0.0,0.0,3
+mining,lithium,t ore,2026,14385000.0,2500000.0,0.0,8
+mining,lithium,t ore,2027,14385000.0,2500000.0,0.0,8
+mining,lithium,t ore,2028,14385000.0,2500000.0,0.0,8
+mining,lithium,t ore,2029,14385000.0,2500000.0,0.0,8
+mining,lithium,t ore,2030,14385000.0,2500000.0,0.0,8
+mining,manganese,t Mn ore,2025,1100000.0,0.0,0.0,1
+mining,manganese,t Mn ore,2026,14600000.0,0.0,0.0,4
+mining,manganese,t Mn ore,2027,14600000.0,0.0,0.0,4
+mining,manganese,t Mn ore,2028,14600000.0,0.0,0.0,4
+mining,manganese,t Mn ore,2029,14600000.0,0.0,0.0,4
+mining,manganese,t Mn ore,2030,14600000.0,0.0,0.0,4
+mining,nickel,t Ni,2024,57000.0,0.0,0.0,1
+mining,nickel,t Ni,2025,137000.0,0.0,0.0,3
+mining,nickel,t Ni,2026,194600.0,0.0,0.0,5
+mining,nickel,t Ni,2027,194600.0,0.0,0.0,5
+mining,nickel,t Ni,2028,194600.0,0.0,0.0,5
+mining,nickel,t Ni,2029,194600.0,0.0,0.0,5
+mining,nickel,t Ni,2030,194600.0,0.0,0.0,5
+mining,nickel,t ore,2025,42000000.0,0.0,0.0,1
+mining,nickel,t ore,2026,56300000.0,0.0,3400000.0,3
+mining,nickel,t ore,2027,56300000.0,0.0,3400000.0,3
+mining,nickel,t ore,2028,56300000.0,0.0,3400000.0,3
+mining,nickel,t ore,2029,56300000.0,0.0,3400000.0,3
+mining,nickel,t ore,2030,56300000.0,0.0,3400000.0,3
+precursor,precursor,t FePO4,2025,590000.0,0.0,0.0,3
+precursor,precursor,t FePO4,2026,890000.0,450000.0,80000.0,6
+precursor,precursor,t FePO4,2027,890000.0,450000.0,80000.0,6
+precursor,precursor,t FePO4,2028,890000.0,450000.0,80000.0,6
+precursor,precursor,t FePO4,2029,890000.0,450000.0,80000.0,6
+precursor,precursor,t FePO4,2030,890000.0,450000.0,80000.0,6
+precursor,precursor,t pCAM,2023,120000.0,0.0,0.0,1
+precursor,precursor,t pCAM,2024,150000.0,50000.0,0.0,3
+precursor,precursor,t pCAM,2025,211000.0,90000.0,0.0,6
+precursor,precursor,t pCAM,2026,251000.0,300000.0,0.0,9
+precursor,precursor,t pCAM,2027,251000.0,300000.0,0.0,9
+precursor,precursor,t pCAM,2028,251000.0,300000.0,0.0,9
+precursor,precursor,t pCAM,2029,251000.0,300000.0,0.0,9
+precursor,precursor,t pCAM,2030,251000.0,300000.0,0.0,9
+recycling,recycling,t LCE,2025,20000.0,0.0,0.0,1
+recycling,recycling,t LCE,2026,20000.0,0.0,0.0,1
+recycling,recycling,t LCE,2027,20000.0,0.0,0.0,1
+recycling,recycling,t LCE,2028,20000.0,0.0,0.0,1
+recycling,recycling,t LCE,2029,20000.0,0.0,0.0,1
+recycling,recycling,t LCE,2030,20000.0,0.0,0.0,1
+recycling,recycling,t black mass,2025,30000.0,0.0,0.0,1
+recycling,recycling,t black mass,2026,62000.0,0.0,0.0,3
+recycling,recycling,t black mass,2027,62000.0,0.0,0.0,3
+recycling,recycling,t black mass,2028,62000.0,0.0,0.0,3
+recycling,recycling,t black mass,2029,62000.0,0.0,3000.0,4
+recycling,recycling,t black mass,2030,62000.0,0.0,3000.0,4
+recycling,recycling,t feed,2021,5000.0,0.0,0.0,1
+recycling,recycling,t feed,2022,17000.0,0.0,0.0,2
+recycling,recycling,t feed,2023,60000.0,0.0,0.0,5
+recycling,recycling,t feed,2024,139458.0,0.0,60000.0,12
+recycling,recycling,t feed,2025,281458.0,0.0,60000.0,17
+recycling,recycling,t feed,2026,382958.0,195000.0,361500.0,28
+recycling,recycling,t feed,2027,382958.0,195000.0,366500.0,29
+recycling,recycling,t feed,2028,396958.0,195000.0,366500.0,29
+recycling,recycling,t feed,2029,396958.0,195000.0,366500.0,29
+recycling,recycling,t feed,2030,396958.0,195000.0,366500.0,29
+refining,cobalt,t Co,2020,15000.0,0.0,0.0,1
+refining,cobalt,t Co,2021,15000.0,0.0,0.0,1
+refining,cobalt,t Co,2022,15000.0,0.0,0.0,1
+refining,cobalt,t Co,2023,25000.0,0.0,0.0,2
+refining,cobalt,t Co,2024,25000.0,0.0,0.0,2
+refining,cobalt,t Co,2025,30500.0,0.0,0.0,4
+refining,cobalt,t Co,2026,40500.0,2000.0,0.0,6
+refining,cobalt,t Co,2027,40500.0,3363.0,0.0,7
+refining,cobalt,t Co,2028,40500.0,3363.0,0.0,7
+refining,cobalt,t Co,2029,40500.0,3363.0,0.0,7
+refining,cobalt,t Co,2030,40500.0,3363.0,0.0,7
+refining,graphite,t graphite,2022,6500.0,0.0,0.0,1
+refining,graphite,t graphite,2023,56500.0,0.0,0.0,2
+refining,graphite,t graphite,2024,56500.0,0.0,0.0,2
+refining,graphite,t graphite,2025,56500.0,0.0,0.0,2
+refining,graphite,t graphite,2026,256500.0,0.0,20000.0,5
+refining,graphite,t graphite,2027,256500.0,0.0,20000.0,5
+refining,graphite,t graphite,2028,256500.0,0.0,20000.0,5
+refining,graphite,t graphite,2029,256500.0,0.0,20000.0,5
+refining,graphite,t graphite,2030,256500.0,0.0,20000.0,5
+refining,lithium,t LCE,2020,20000.0,0.0,0.0,1
+refining,lithium,t LCE,2021,120000.0,0.0,0.0,4
+refining,lithium,t LCE,2022,282079.0,0.0,50000.0,10
+refining,lithium,t LCE,2023,379079.0,50000.0,232000.0,18
+refining,lithium,t LCE,2024,547638.0,50000.0,232000.0,24
+refining,lithium,t LCE,2025,1274986.0,55323.0,322000.0,51
+refining,lithium,t LCE,2026,1720616.0,119323.0,402000.0,62
+refining,lithium,t LCE,2027,1860616.0,169723.0,432000.0,64
+refining,lithium,t LCE,2028,1860616.0,232043.0,494000.0,69
+refining,lithium,t LCE,2029,1860616.0,232043.0,494000.0,69
+refining,lithium,t LCE,2030,1860616.0,232043.0,568920.0,71
+refining,manganese,t EMD,2025,30000.0,0.0,0.0,1
+refining,manganese,t EMD,2026,30000.0,0.0,0.0,1
+refining,manganese,t EMD,2027,30000.0,0.0,0.0,1
+refining,manganese,t EMD,2028,30000.0,0.0,0.0,1
+refining,manganese,t EMD,2029,30000.0,0.0,0.0,1
+refining,manganese,t EMD,2030,30000.0,0.0,0.0,1
+refining,manganese,t Mn,2025,25200.0,0.0,0.0,1
+refining,manganese,t Mn,2026,33840.0,40300.0,69875.0,5
+refining,manganese,t Mn,2027,33840.0,40300.0,69875.0,5
+refining,manganese,t Mn,2028,33840.0,40300.0,69875.0,5
+refining,manganese,t Mn,2029,33840.0,40300.0,69875.0,5
+refining,manganese,t Mn,2030,33840.0,40300.0,69875.0,5
+refining,nickel,t Ni,2018,37961.0,0.0,0.0,1
+refining,nickel,t Ni,2019,37961.0,0.0,0.0,1
+refining,nickel,t Ni,2020,37961.0,0.0,0.0,1
+refining,nickel,t Ni,2021,44961.0,0.0,0.0,2
+refining,nickel,t Ni,2022,44961.0,0.0,0.0,2
+refining,nickel,t Ni,2023,98961.0,0.0,0.0,3
+refining,nickel,t Ni,2024,163961.0,0.0,0.0,4
+refining,nickel,t Ni,2025,2367861.0,202900.0,75000.0,48
+refining,nickel,t Ni,2026,2856851.0,650900.0,238000.0,61
+refining,nickel,t Ni,2027,2856851.0,650900.0,298000.0,62
+refining,nickel,t Ni,2028,2856851.0,650900.0,298000.0,62
+refining,nickel,t Ni,2029,2856851.0,650900.0,298000.0,62
+refining,nickel,t Ni,2030,2856851.0,650900.0,298000.0,62
+separator,separator,Mm2,2021,1230.0,0.0,0.0,2
+separator,separator,Mm2,2022,1230.0,0.0,0.0,2
+separator,separator,Mm2,2023,1230.0,0.0,0.0,2
+separator,separator,Mm2,2024,1230.0,0.0,0.0,2
+separator,separator,Mm2,2025,6450.0,1200.0,0.0,11
+separator,separator,Mm2,2026,9090.0,3600.0,0.0,15
+separator,separator,Mm2,2027,9090.0,5000.0,700.0,17
+separator,separator,Mm2,2028,9090.0,5000.0,1500.0,18
+separator,separator,Mm2,2029,9090.0,5000.0,1500.0,18
+separator,separator,Mm2,2030,9090.0,5000.0,1500.0,18

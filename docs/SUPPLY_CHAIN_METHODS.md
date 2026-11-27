@@ -49,3 +49,8 @@ and nickel intermediates shown separately.
   Philippine/Indonesian nickel ore grades).
 - Coordinates: ~half of assets, mostly city-level approximations (D-108).
 - Benchmarks are themselves estimates with differing scopes (capacity vs output vs shipments; years).
+
+## Capacity by year (sc_capacity_by_year.csv, scripts/sc_timeseries.py)
+Built capacity per step/commodity/unit by year from sourced dated steps, installed dates and dated plan years; under
+construction and announced projects from their reference year, kept as separate columns (never added to built).
+History before ~2022 is thin because few assets disclose start years or dated phases; treat it as a floor.
