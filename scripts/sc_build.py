@@ -170,7 +170,7 @@ def main():
     print(f"sc_build OK: {len(df)} assets, {len(ev)} evidence links, {len(removed)} removed, "
           f"{len(set(l.split(':')[0] for l in log))} patch files")
     if len(df):
-        print(df.groupby(["step", "commodity", "status"]).size().to_string())
+        print(df.groupby(["step", "status"]).size().unstack(fill_value=0).to_string())
 
 
 if __name__ == "__main__":

@@ -4083,6 +4083,62 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "35/35 quotes found; company totals in data/supply_chain/company_totals.csv"
+   }
+  },
+  {
+   "id": "SC020",
+   "title": "Nickel — Indonesia: every nickel mine, HPAL (MHP), RKEF/NPI, matte converter and nickel sulphate plant (IMIP, IWIP/Weda Bay, Obi, Pomalaa, Sorowako, Konawe, Morowali)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC020.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC025",
+   "title": "Cobalt — DRC and world: every cobalt-producing mine (DRC copper-cobalt incl. Glencore KCC/Mutanda, ERG, Zijin, Jinchuan Ruashi, etc.) and refinery outside the SC113 companies (Umicore Kokkola, Jervois, Sumitomo, Sherritt, Huayou/GEM China refineries, etc.)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC025.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
    "status": "in_progress",
    "branch": null,
    "pr": null,

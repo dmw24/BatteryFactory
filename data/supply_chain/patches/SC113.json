@@ -1,0 +1,1369 @@
+{
+ "task": "SC113",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "C1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, lines 365-366)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "KFM铜钴矿 ... 全球第一大钴矿山"
+  },
+  "C2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, line 415)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "钴 产量 11.75 万吨 营业收入 61.71 亿元"
+  },
+  "C3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, lines 383-385)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "KFM 二期 ... 预计2027年投产 ... 新增10万吨年产铜能力"
+  },
+  "C4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, lines 941 and 946)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "TFM 80% 1,500 ... KFM 71.25%KFM 2023"
+  },
+  "C5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, lines 689 and 692)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "TFM Tenke Fungurume Mining S.A.(DRC) ... KFM CMOC KISANFU MINING SARL (DRC)"
+  },
+  "C6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+   "publisher": "CMOC (603993) 2025 annual report (local text team/evidence/filings/603993_.txt, line 6630)",
+   "published": "2026-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "KFM 二期工程项目 433,942,927.79"
+  },
+  "H1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, line 730)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前赣州寒锐拥有电积钴产能 5000 吨、电积镍产能 1 万吨"
+  },
+  "H2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, lines 4320-4321)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "原募投项目“10000 吨/年金属量钴新材料及 26000 吨/年三元前驱体项目”中钴新材料项目、废旧电池 ... 回收项目已于 2023 年 12 月达到预定可以使用状态"
+  },
+  "H3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, lines 430-432)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "赣州寒锐主要从事碳酸钴、硫酸钴、 ... 氯化钴等钴中间品的加工，废料电池回收以及电积钴的生产和销售"
+  },
+  "H4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, lines 429-430)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "刚果迈特 ... 和寒锐金属主要从事钴、铜矿石的采购、租赁开采、钴产品粗加工和电积铜的生产"
+  },
+  "H5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, line 4314)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "冰镍项目”达到预定可使用状态日期调整为 2026 年 3 月 31 日。截至报告期末该项目正在建设中，尚未"
+  },
+  "H6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, line 1819)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026 年，顺利完成印尼 2 万吨富氧侧吹高冰镍项目调试、投产、达产目标"
+  },
+  "H7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, lines 4353 and 4355)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "募集资金投资项目实施地点由江西赣州变更为印度 ... 尼西亚中苏拉威西省。"
+  },
+  "H8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+   "publisher": "Hanrui Cobalt (300618) 2025 annual report (local text team/evidence/filings/300618_2025.txt, lines 4361-4362)",
+   "published": "2026-04-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司全资子公司寒锐钴业（香港）投资有限公司与华鑫投资有限公司共同投资设立的项目公司印尼寒锐 ... 印尼寒锐镍业有限公司由公司实际控制，持股比例为 70%。"
+  },
+  "T1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, lines 4040-4041)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司决定在保证冶炼产能钴产品 3.95 万金属吨、镍产品 6 万金属吨、锰产品 2.182 万金属吨、碳酸锂 2 万吨产品不"
+  },
+  "T2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 3952)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "同意公司购置江西省赣州市赣县区赣州高新技术产业开发区稀金"
+  },
+  "T3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, lines 3921 and 3925)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 2 万吨钴、1 万吨镍金属量系列产品异地智能化技术改造升级及原辅材料配套生产项目扩能及完善相 ... 调整后募投项目达到预定可使用状态日期为 2027 年 12 月 31 日。"
+  },
+  "T4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 754)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "钴 生产量 金属吨 27,348.72 20,508.34 33.35%"
+  },
+  "T5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 641)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司通过位于刚果（金）的子公司刚果腾远建立境外原料采购与初级加工基地，目前已取得两项探"
+  },
+  "T6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 1063)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "合资子公司合创新能源项目投资建设投入与刚果腾远厂房及配套项目-四期建设投"
+  },
+  "T7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, lines 3956-3957)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "新增实施项目“年产 30,000 吨铜 2,000 吨钴湿法冶炼厂项目”，实施地点为刚果（金）卢拉巴省 ... 克罗维兹（Kolwezi）市马尼卡区拉丁社区巴吉内恩甘伊大道 260B 号。"
+  },
+  "T8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 1613)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司全力保障刚果合创项目按时试生产及达产，推进硫酸、二氧化硫、光伏等配套项目建设。"
+  },
+  "T9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+   "publisher": "Tengyuan Cobalt (301219) 2025 annual report (local text team/evidence/filings/301219_2025.txt, line 533)",
+   "published": "2026-04-21",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司持续加码回收业务，2025 年废旧电池黑粉冶炼能力已达年 30,000 吨。"
+  },
+  "S1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 497)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司子公司卡隆威拥有的铜钴矿山位于刚果（金）卢阿拉巴省，地处世界最大的"
+  },
+  "S2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 1287; column header 年处理矿石量（万吨） at line 1278-1282)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "铜、钴 718 210 3.42 2045 年 10 月 22"
+  },
+  "S3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, lines 504-505)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "初级冶炼：CCR、CCM 和 BMS 项目采购铜钴原矿通过电解工艺冶炼加工成阴极铜对外销售， ... 通过湿法工艺冶炼加工成粗制氢氧化钴"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 621)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司铜钴冶炼项目 CCR 、CCM 保持稳定生产运营"
+  },
+  "S5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 603)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "著，兄弟矿业铜冶炼项目（BMS）二期扩建完成后产能大幅提升，年末产能达到 12 万金属吨，"
+  },
+  "S6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 507)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "友山镍业项目以红土镍矿为原料，通过 RKEF 工艺加工成镍铁或低冰镍，镍铁供应至不锈钢领"
+  },
+  "S7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 639)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内友山镍业项目实现了稳定生产经营。2025 年镍价在供需过剩格局下整体震荡下行，"
+  },
+  "S8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 9269)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "印度尼西亚 镍冶炼 65 设立"
+  },
+  "S9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 1792)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "印尼维达贝工业园拥有镍冶炼项目。"
+  },
+  "S10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, lines 9641-9643)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "同意终止在印度尼西亚纬达贝工业园投资建设的年产 4 万吨镍金属高冰镍项目"
+  },
+  "S11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 514)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "中合镍业以硫化镍精矿及低冰镍等为原料，通过侧吹熔炼生产高冰镍，提供给下游的镍精炼和"
+  },
+  "S12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, lines 132 and 134)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "贵州年产 30 万吨硫酸镍、30 万吨磷酸铁、1 万金属吨电 ... 池级钴金属项目"
+  },
+  "S13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 650)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "截至 2025 年 12 月底，贵州一期项目完成产能爬坡，实现满负荷生产，贵州二期项目建"
+  },
+  "S14": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 1773)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "划开展建设、华金矿业产量提升；贵州项目二期全面投产。"
+  },
+  "S15": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, lines 9299-9300)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "146250 万 贵州省福泉 ... 冶炼 52.84 设立"
+  },
+  "S16": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+   "publisher": "Shengtun Mining (600711) 2025 annual report (local text team/evidence/filings/600711_.txt, line 9261)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "刚果（金） 矿业 45 购买"
+  },
+  "G1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225185982.PDF",
+   "publisher": "Hongxing Development (600367) 2025 annual report (local text team/evidence/filings/600367_.txt, lines 1982-1984)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "电解二氧化 ... 3 万吨/年 40.33 ... 锰项目"
+  },
+  "G2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225185982.PDF",
+   "publisher": "Hongxing Development (600367) 2025 annual report (local text team/evidence/filings/600367_.txt, line 1188)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "电解二氧化锰 吨 12,053 12,298 3,180 -17.28 -27.03 -7.15"
+  },
+  "G3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225185982.PDF",
+   "publisher": "Hongxing Development (600367) 2025 annual report (local text team/evidence/filings/600367_.txt, line 630)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锰系产品主要包括一次电池和锂电池用 EMD、高纯硫酸锰等产品。同时，公司还涉及提纯加"
+  },
+  "G4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225185982.PDF",
+   "publisher": "Hongxing Development (600367) 2025 annual report (local text team/evidence/filings/600367_.txt, line 2392)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "贵州红星发展大龙锰业有限责任公 子公司 锰系产品、钡盐产品研发、"
+  },
+  "X1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+   "publisher": "Xiangtan Electrochemical (002125) 2025 annual report (local text team/evidence/filings/002125_2025.txt, line 395)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锰系电池材料 18.2 万吨 58.17% 1 万吨"
+  },
+  "X2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+   "publisher": "Xiangtan Electrochemical (002125) 2025 annual report (local text team/evidence/filings/002125_2025.txt, line 580)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "在保障生产稳定供应的前提下，对传统电解二氧化锰生产线分步实施智能化改造：靖西基地部分产线实现数智化升级，"
+  },
+  "X3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+   "publisher": "Xiangtan Electrochemical (002125) 2025 annual report (local text team/evidence/filings/002125_2025.txt, line 581)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "整合多工序操作，为行业内首创；湘潭基地自主研发发泡剂自动添加系统，实现无人化、精准化投放；锰酸锂生产线完"
+  },
+  "X4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+   "publisher": "Xiangtan Electrochemical (002125) 2025 annual report (local text team/evidence/filings/002125_2025.txt, line 1469)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "获评广西先进级智能工厂"
+  },
+  "X5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+   "publisher": "Xiangtan Electrochemical (002125) 2025 annual report (local text team/evidence/filings/002125_2025.txt, lines 8621-8623)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "靖西市爱屯锰 ... 48,388,012.13 48,388,012.13 46,305,564.75 46,305,564.75 ... 矿项目"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "cmoc-tenke-fungurume-tfm-drc",
+   "fields": {
+    "asset_name": "Tenke Fungurume Mining (TFM)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide (with copper cathode)",
+    "asset_type": "copper-cobalt mine and processing",
+    "feedstock": "copper-cobalt ore",
+    "operator": "CMOC",
+    "parent_company": "CMOC Group",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-02"
+   },
+   "evidence": {
+    "status": [
+     "C2",
+     "C5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CMOC 2025 AR. Operating status inferred from combined DRC cobalt output and the TFM entity listing; the AR text extraction of the MD&A is partly garbled (CJK dropped in tables). Ownership shown as 'TFM 80%' (line 941, table fragment; partner Gecamines per line 701 not quantified in the text) - not used for jv_partners. CMOC total cobalt output 2025 = 11.75 wan t = 117,500 t Co (line 415; 2024 11.42 wan t; +2.96% y/y; 107% of guidance mid-point) for TFM + KFM combined; NOT split by mine in the text, so production left null. TFM cobalt capacity not disclosed; company says 2 DRC mines have 6 production lines and >700 kt/yr copper capacity (lines 371-382). Cobalt resource 523.8 wan t both mines (lines 373-375). Start year not stated in the text."
+  },
+  {
+   "action": "add",
+   "id": "cmoc-kisanfu-kfm-drc",
+   "fields": {
+    "asset_name": "Kisanfu (KFM)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide (with copper cathode)",
+    "asset_type": "copper-cobalt mine and processing",
+    "feedstock": "copper-cobalt ore",
+    "operator": "CMOC",
+    "parent_company": "CMOC Group",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225072765.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-02"
+   },
+   "evidence": {
+    "status": [
+     "C1",
+     "C2",
+     "C5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CMOC 2025 AR: KFM described as the world's largest cobalt mine (line 366). Phase II (KFM 二期) expected to start 2027 adding 100 kt/yr copper capacity (lines 383-385; cobalt addition not stated); phase II construction-in-progress balance 433,942,927.79 RMB (line 6630; progress 12%/50% in the project table line 6674, columns ambiguous). Ownership 'KFM 71.25%' (line 946, garbled table fragment) - not used. Cobalt output not split between TFM and KFM (company total 117,500 t Co 2025, line 415). KFM started in 2023 per fragment 'KFM 2023' (line 946) - ambiguous, start_year left null."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-ganzhou-hanrui-cobalt-china",
+   "fields": {
+    "asset_name": "Ganzhou Hanrui (cobalt salts and electrowon cobalt)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt carbonate/sulphate/chloride, electrowon cobalt",
+    "asset_type": "cobalt refinery",
+    "feedstock": "cobalt hydroxide / intermediates (incl. battery scrap)",
+    "operator": "Ganzhou Hanrui New Energy Technology",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2023,
+    "capacity_norm": 10000,
+    "norm_unit": "t Co",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H3"
+    ],
+    "capacity": [
+     "H2",
+     "H1"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Hanrui Cobalt 2025 AR. Capacity 10,000 t/yr cobalt-metal-content 'cobalt new materials' project (line 4320, 'reached usable state' Dec 2023); the AR also says Ganzhou Hanrui currently has 5,000 t electrowon cobalt capacity (line 730), which is a sub-set (same plant; do not add). capacity_ref_year 2023 = date project reached usable state (line 4321), not a verified production year. 2025 cobalt output was held back by DRC export curbs (lines 4306-4309). Company cobalt-product production 2025 = 16,761.79 metal t (2024 16,169.17; line 829), sales 14,612.38 t (line 828) - company total across Ganzhou + Anhui Hanrui cobalt powder + DRC hydroxide, not split. Location Ganzhou, Jiangxi per line 4353 (original project site)."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-ganzhou-hanrui-nickel-china",
+   "fields": {
+    "asset_name": "Ganzhou Hanrui (electrowon nickel)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "electrowon nickel",
+    "asset_type": "nickel electrowinning",
+    "feedstock": "nickel intermediates",
+    "operator": "Ganzhou Hanrui New Energy Technology",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 10000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2025,
+    "end_market": "mixed",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H1"
+    ],
+    "capacity": [
+     "H1"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Hanrui Cobalt 2025 AR line 730: 'Ganzhou Hanrui currently has electrowon cobalt capacity 5,000 t and electrowon nickel capacity 10,000 t'. capacity_ref_year 2025 = publication-year fallback. Same site as the cobalt row; product is electro-nickel (used in stainless, batteries, alloys; line 423). Location Jiangxi/Ganzhou per line 4353."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-ganzhou-hanrui-recycling-china",
+   "fields": {
+    "asset_name": "Ganzhou Hanrui (waste battery recycling)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "cobalt/nickel recovery from battery scrap",
+    "asset_type": "battery scrap recycling",
+    "feedstock": "waste batteries / scrap",
+    "operator": "Ganzhou Hanrui New Energy Technology",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "start_year": 2023,
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H2",
+     "H3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Hanrui Cobalt 2025 AR: the 'waste battery recycling project' reached usable state in Dec 2023 (line 4321) and Ganzhou Hanrui is described as doing 'waste battery recycling' (line 432). No capacity or throughput disclosed. start_year 2023 = usable-state date, not first production. Company strategy mentions expanding power-battery recycling (line 1808)."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-indonesia-hanrui-nickel-indonesia",
+   "fields": {
+    "asset_name": "PT Hanrui Nickel Indonesia (oxygen-enriched continuous converting high matte)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "high-grade nickel matte",
+    "asset_type": "matte smelter",
+    "feedstock": "nickel ore / low matte",
+    "operator": "PT Hanrui Nickel Indonesia",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": "Huaxin Investment Co. Ltd (30%; Hanrui Cobalt (HK) 70%)",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "announced_year": 2023,
+    "capacity": 20000,
+    "capacity_unit": "t Ni in matte",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 20000,
+    "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H5"
+    ],
+    "capacity": [
+     "H6",
+     "H5"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Hanrui Cobalt 2025 AR. Project '20,000 t/yr nickel-metal oxygen-enriched continuous-converting high matte' replaced the Ganzhou ternary precursor project in Dec 2023 (line 4360); AR says under construction at end 2025, target usable date 2026-03-31 (line 4314), commissioning/production/ramp-up targeted in 2026 (line 1819). Investment progress ~97.56% in the funds table (line 4264); total project invest 1,090,780,735.32 RMB (line 1521-1526). Location Central Sulawesi (lines 4353-4355). Ownership 70% via Hanrui Cobalt (HK) with Huaxin Investment (line 4361-4362). capacity_ref_year 2026 = target usable year."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-hanrui-metals-drc-drc",
+   "fields": {
+    "asset_name": "Hanrui Metals (DRC) - copper-cobalt plant",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "crude cobalt hydroxide (with electrowon copper)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "copper-cobalt ore (purchased and leased mining)",
+    "operator": "Hanrui Metals (Congo) Ltd",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Hanrui Cobalt 2025 AR lines 429-431, 1731-1735: Hanrui Metals processes Co/Cu ore into electrowon copper, crude cobalt hydroxide and electro-cobalt. No cobalt capacity disclosed. Copper: capex project 'Hanrui Metals expansion to 50 kt electrowon copper' (lines 1552-1559, 100% own funds); company electrowon copper output 2025 = 64,576.29 t (line 835; both DRC subsidiaries). Hydroxide goes to Ganzhou Hanrui (line 684)."
+  },
+  {
+   "action": "add",
+   "id": "hanrui-cobalt-congo-metal-mines-drc",
+   "fields": {
+    "asset_name": "Congo Metal Mines (METAL MINES SARL) - copper-cobalt plant",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "crude cobalt hydroxide (with electrowon copper)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "copper-cobalt ore (purchased and leased mining)",
+    "operator": "Congo Metal Mines SARL (Congo Maite)",
+    "parent_company": "Hanrui Cobalt (Nanjing Hanrui Cobalt Co.)",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-16/1225107435.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-16"
+   },
+   "evidence": {
+    "status": [
+     "H4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Hanrui Cobalt 2025 AR lines 127-131, 429-431, 1724-1730 (main business: electrowon copper and crude cobalt hydroxide). No cobalt capacity disclosed; company says copper capacity keeps expanding (line 416). Company-level DRC electrowon copper output is in the Hanrui Metals row notes."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-ganzhou-cobalt-china",
+   "fields": {
+    "asset_name": "Ganzhou Tengyuan Cobalt (Ganzhou base) - cobalt",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt chloride / cobalt sulphate and electrowon cobalt",
+    "asset_type": "cobalt refinery",
+    "feedstock": "copper-cobalt ore, cobalt intermediates, MHP, battery black mass",
+    "operator": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 39500,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 39500,
+    "norm_unit": "t Co",
+    "end_market": "mixed",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T4"
+    ],
+    "capacity": [
+     "T1",
+     "T3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Tengyuan 2025 AR. Capacity 3.95 wan metal-t cobalt products, 6 wan metal-t nickel products, 2.182 wan metal-t manganese products and 2 wan t lithium carbonate are stated as the smelting capacity to be preserved while the 'phase II' expansion (2 wan t Co + 1 wan t Ni metal series project, completion date 2027-12-31, investment progress 67.61% / 55.42%, lines 3859-3925) is re-scoped (line 4040-4042). Reading: post-expansion total capacity; existing-vs-new split not stated -> capacity_ref_year 2027 = expansion completion date, installed capacity not stated. Conflict/ambiguity: lithium carbonate 2 wan t here (line 4041) vs 'expand to 1.5 wan t' in the 2026 plan (line 1589); lithium is out of this task's commodity scope. Company 2025 production (consolidated, includes DRC plant): cobalt 27,348.72 t (2024 20,508.34), copper 54,333.73 t, nickel 1,714.66 t, lithium 780.88 t (lines 754-763); cobalt sales 24,793.40 t. Ganzhou Gaoxin Zone land purchase (line 3952). Downstream: Ganzhou Tengchi 20,000 t pCAM + 10,000 t Co3O4 (line 604; precursor step not recorded here)."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-ganzhou-nickel-china",
+   "fields": {
+    "asset_name": "Ganzhou Tengyuan Cobalt (Ganzhou base) - nickel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel sulphate and other nickel products",
+    "asset_type": "nickel refinery",
+    "feedstock": "MHP, nickel intermediates, battery black mass",
+    "operator": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 60000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 60000,
+    "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T4"
+    ],
+    "capacity": [
+     "T1",
+     "T3"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Tengyuan 2025 AR line 4040-4042: nickel products 6 wan metal-t smelting capacity (post-expansion reading, same caveat as the cobalt row; split between existing and 2027 build not stated). Actual company nickel output 2025 only 1,714.66 t (2024 3,407.92 t; -49.69%; line 760) because nickel intermediates purchasing was cut; so utilisation is very low. Nickel sales 1,114.21 t."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-ganzhou-manganese-china",
+   "fields": {
+    "asset_name": "Ganzhou Tengyuan Cobalt (Ganzhou base) - manganese",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "manganese sulphate (and manganese products)",
+    "asset_type": "manganese refinery",
+    "feedstock": "battery black mass / intermediates",
+    "operator": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 21820,
+    "capacity_unit": "t Mn",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 21820,
+    "norm_unit": "t Mn",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T4"
+    ],
+    "capacity": [
+     "T1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Tengyuan 2025 AR line 4040-4042: manganese products 2.182 wan metal-t smelting capacity (post-expansion reading). Manganese sulphate is supplied to Tengchi New Energy (line 603). No manganese output disclosed. Status 'operational' inferred from the company-level production table (line 754) - manganese-specific production not reported."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-congo-tengyuan-drc",
+   "fields": {
+    "asset_name": "Congo Tengyuan Cobalt-Copper Resources plant (phases III/IV)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt intermediates (with electrowon copper)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Congo Tengyuan Cobalt-Copper Resources Ltd (Congo Tengyuan)",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T5",
+     "T6"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Tengyuan 2025 AR. Congo Tengyuan is the DRC raw-material purchasing and primary processing base: sells cobalt intermediates and electrowon copper (lines 1491-1496, 641-643); it holds two exploration permits and one mining permit (line 641). Construction-in-progress: DRC plant phase III 97.91% and phase IV 88.19% complete (lines 9122-9136; phase IV in progress, line 1063). Its cobalt capacity is not stated (AR says its cobalt capacity cannot meet Ganzhou's needs, lines 4044-4045). Plant location within DRC not stated."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-hechuang-kolwezi-drc",
+   "fields": {
+    "asset_name": "Hechuang 30,000 t Cu / 2,000 t Co wet-process smelter (Kolwezi)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt (wet-process cobalt product) with copper",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Hechuang New Energy Mining (Congo JV, 合创新能源矿业)",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "latitude": -10.72,
+    "longitude": 25.47,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "announced_year": 2025,
+    "capacity": 2000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 2000,
+    "norm_unit": "t Co",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T8",
+     "T7"
+    ],
+    "capacity": [
+     "T7"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Tengyuan 2025 AR. Project 'annual output 30,000 t copper and 2,000 t cobalt wet-process smelter' approved 2025-04-21 (board) as a controlled JV; address in Kolwezi, Lualaba (lines 3956-3957), financed by re-allocating 588 million RMB (lines 4037-4039). Construction progress 18.73% (19%) at end-2025, cumulative invest 143,497,183.31 RMB of 747,406,750.89 RMB budget (lines 9142-9147, 1329); trial production and ramp-up planned in 2026 (line 1613); table target date 2026-10-21 (lines 3900-3903). Partner names/ratios not stated (the JV entity '合创新能源矿业简易股份有限公司' was set up in 2025, line 1515). Coordinates are a Kolwezi city-centre approximation (not from the source). Also in the table: 'annual 30,000 t electro-nickel (sic) / 3,000 t electro-cobalt project' with 2% progress (lines 1302-1310) - location not stated, not recorded."
+  },
+  {
+   "action": "add",
+   "id": "tengyuan-cobalt-black-mass-recycling-china",
+   "fields": {
+    "asset_name": "Tengyuan black-mass smelting (battery recycling)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "Co/Ni/Li salts from black mass",
+    "asset_type": "black mass hydrometallurgy",
+    "feedstock": "battery black mass",
+    "operator": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "parent_company": "Ganzhou Tengyuan Cobalt New Material Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 30000,
+    "capacity_unit": "t black mass",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-21/1225128065.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-21"
+   },
+   "evidence": {
+    "status": [
+     "T9"
+    ],
+    "capacity": [
+     "T9"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Tengyuan 2025 AR line 533: black-mass smelting capacity reached 30,000 t/yr in 2025. The text does not tie it to a named site (company operates in Ganzhou); province left null. Unit 't black mass' is feed (input) capacity. Secondary-resource cobalt and lithium purchasing grew significantly in 2025 (line 1554-1555)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-kalongwe-drc",
+   "fields": {
+    "asset_name": "Kalongwe copper-cobalt mine (KMSA)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "copper-cobalt ore (integrated with on-site smelting)",
+    "asset_type": "open-pit copper-cobalt mine",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Kalongwe Mining SA (KMSA)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": 2100000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S2"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Shengtun 2025 AR. Own-mine table (line 1285-1289): ore resources 718 wan t, Cu 2.70% / Co 0.62% grade, annual ore processing 210 wan t (= 2.1 Mt/yr), remaining life 3.42 years, mining licence valid to 2045-10-22. Open-pit, integrated mining and smelting; 2025 'full-process technical upgrade and engineering' project (line 623-625). Cobalt output not disclosed per mine; company cobalt products produced 2025 = 9,203.13 metal t (-30.58%), sold 5,810.08 t, stock 9,374.95 t (lines 850-854); copper 207,383.16 t. Table columns for resources/reserves are garbled in text extraction; only the 210 (ore processing) and 3.42 (years) were used."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-ccr-drc",
+   "fields": {
+    "asset_name": "CCR (Chengtun Congo Ressources) copper-cobalt smelter",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "crude cobalt hydroxide (with copper cathode)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "purchased copper-cobalt ore",
+    "operator": "Chengtun Congo Ressources SARL (CCR)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Shengtun 2025 AR lines 504-505, 621. CCR, CCM and BMS buy Cu-Co ore, make cathode copper by electrowinning and crude cobalt hydroxide by hydromet; cobalt capacity per plant not stated. Group copper capacity in DRC at end-2025 = 230 kt/yr (line 620-621). Hydroxide is feedstock to Kelixin (Zhuhai, Yangjiang; Co3O4/CoO precursors, not recorded here)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-ccm-drc",
+   "fields": {
+    "asset_name": "CCM (Congo Chengtun New Materials) copper-cobalt smelter",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "crude cobalt hydroxide (with copper cathode)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "purchased copper-cobalt ore",
+    "operator": "Congo Chengtun New Materials SASU (CCM)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S4",
+     "S3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Shengtun 2025 AR lines 504-505, 621; same description as CCR; cobalt capacity not stated. See CCR row notes for group totals."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-bms-drc",
+   "fields": {
+    "asset_name": "BMS (Brother Mining) copper-cobalt smelter",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "crude cobalt hydroxide (with copper cathode)",
+    "asset_type": "copper-cobalt hydrometallurgical plant",
+    "feedstock": "purchased copper-cobalt ore",
+    "operator": "Brother Mining SASU (BMS)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": "Shengtun holds 45% (other holders not named in the filing)",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S5",
+     "S3"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Shengtun 2025 AR. BMS phase II expansion completed; year-end 2025 capacity 120 kt/yr copper, 2025 output 106.3 kt copper (line 603-604); cobalt capacity not stated. Listed as consolidated subsidiary with 45% equity (line 9261; control basis not stated in the extract)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-youshan-nickel-indonesia",
+   "fields": {
+    "asset_name": "Youshan Nickel Indonesia (RKEF)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel pig iron / low-grade nickel matte (RKEF)",
+    "asset_type": "RKEF smelter",
+    "feedstock": "laterite nickel ore",
+    "operator": "Youshan Nickel Indonesia (友山镍业印尼有限公司)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": "Shengtun 65%; minority 35% (holder not named in the extract)",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S7",
+     "S6"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Shengtun 2025 AR. Ownership 65% (line 9269) with 35% minority (line 9652). Located in the 'Weda Bay industrial park' (line 1792); province North Maluku is background knowledge for Weda Bay (not stated in the filing). Capacity not disclosed. Group nickel products produced 2025 = 49,418.04 metal t (+50.42%), sold 47,724.94 t (lines 861-862) - covers Youshan, Zhonghe and Guizhou, not split; revenue 4.286 bn RMB (line 616); 2026 target 60 kt Ni (line 1770). 10-year income-tax holiday from start of commercial production (line 5961-5963; start year not stated). Associate PT Wanxiang Nickel Indonesia stopped production July 2025 and is in PKPU (line 6780) - not recorded (no data on product/capacity)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-chengmach-nickel-indonesia",
+   "fields": {
+    "asset_name": "Chengmach Nickel Indonesia (40 kt Ni high matte, terminated)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "high-grade nickel matte",
+    "asset_type": "matte smelter",
+    "feedstock": "nickel intermediates",
+    "operator": "PT Chengmach Nickel Indonesia (印尼盛迈镍业)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": "Shengtun 51% (partner not named in the extract)",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "capacity": 40000,
+    "capacity_unit": "t Ni in matte",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 40000,
+    "norm_unit": "t Ni",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Shengtun 2025 AR lines 9641-9643: on 2025-12-25 the board approved terminating the 40,000 t/yr nickel-metal high-matte project at the 'Weda Bay' (纬达贝) industrial park, Indonesia, and winding up the project JV. Ownership 51% (line 9289). Furthest stage reached not stated (kept 'announced' with project_state cancelled). capacity_ref_year 2025 = termination year (no planned start stated)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-zhonghe-nickel-china",
+   "fields": {
+    "asset_name": "Zhonghe Nickel (side-blown high matte smelter)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "high-grade nickel matte",
+    "asset_type": "matte smelter",
+    "feedstock": "nickel sulphide concentrate, low matte",
+    "operator": "Zhonghe Nickel Co. (中合镍业有限公司)",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Shengtun 2025 AR line 514 (process description) and 647-649 (2025 process optimisation, i.e. operating). Wholly owned (100%, registered capital 238.8 million RMB, registered in Chengdu, Sichuan - lines 9374-9376); plant location not stated, so province left null. Capacity not disclosed. Supplies high matte to Guizhou project (line 520-521)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-guizhou-nickel-sulphate-china",
+   "fields": {
+    "asset_name": "Guizhou project (Fuquan) - nickel sulphate",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel sulphate",
+    "asset_type": "nickel sulphate refinery",
+    "feedstock": "nickel sulphide concentrate, NPI, low and high matte",
+    "operator": "Shengtun Energy Metal Chemistry (Guizhou) Co.",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": 26.68,
+    "longitude": 107.52,
+    "geo_precision": "city",
+    "status": "operational",
+    "capacity": 300000,
+    "capacity_unit": "t NiSO4",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S12",
+     "S14"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Shengtun 2025 AR. Project name 'Guizhou 300,000 t/yr nickel sulphate, 300,000 t iron phosphate, 10,000 metal-t battery-grade cobalt metal' (lines 132-134). Phase I finished ramp-up and ran at full load by end-2025; phase II under construction (line 650-652), 'phase II fully commissioned' is a 2026 target (line 1773). Whether 300 kt NiSO4 is the full two-phase plan or phase II alone is not stated; split by phase not stated. capacity_ref_year 2026 = phase II target. Group entities in Fuquan: Shengtun Energy Metal Chemistry (Guizhou) 52.84% and Shengtun New Energy Materials (Guizhou) 52.4% (lines 9299-9313); which entity holds which line is not stated. Coordinates are a Fuquan city-centre approximation (not from the source). FePO4 (300 kt) not recorded (outside this task)."
+  },
+  {
+   "action": "add",
+   "id": "shengtun-mining-guizhou-cobalt-china",
+   "fields": {
+    "asset_name": "Guizhou project (Fuquan) - battery-grade cobalt metal",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "battery-grade cobalt metal / cobalt sulphate",
+    "asset_type": "cobalt refinery",
+    "feedstock": "cobalt intermediates (nickel/cobalt salts line)",
+    "operator": "Shengtun Energy Metal Chemistry (Guizhou) Co.",
+    "parent_company": "Shengtun Mining Group (盛屯矿业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": 26.68,
+    "longitude": 107.52,
+    "geo_precision": "city",
+    "status": "operational",
+    "capacity": 10000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 10000,
+    "norm_unit": "t Co",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-20/1225019183.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S12",
+     "S14"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Shengtun 2025 AR line 132-134: project includes 10,000 metal-t/yr battery-grade cobalt metal; line 518: Guizhou project makes cobalt sulphate and nickel sulphate salts. Phase assignment of the cobalt line is not stated; status taken from the project-level statement (phase I at full load Dec 2025). Same caveats as the nickel-sulphate row."
+  },
+  {
+   "action": "add",
+   "id": "hongxing-development-dalong-manganese-emd-china",
+   "fields": {
+    "asset_name": "Dalong Manganese (EMD and high-purity manganese sulphate)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD); high-purity manganese sulphate",
+    "asset_type": "EMD plant",
+    "feedstock": "manganese ore / manganese oxide powder",
+    "operator": "Guizhou Hongxing Development Dalong Manganese Co.",
+    "parent_company": "Guizhou Redstar Developing Co. (红星发展)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": 2025,
+    "end_market": "mixed",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225185982.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "G2",
+     "G1"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Hongxing 2025 AR. EMD design capacity 30,000 t/yr, utilisation 40.33% (lines 1982-1984); 2025 EMD production 12,053 t (-17.28%), sales 12,298 t, stock 3,180 t (line 1188); 2026 budget 13,500 t (line 2488). EMD is made by sulphuric-acid leaching, purification and electrolysis from manganese oxide (line 1947). 'High-purity manganese sulphate' is listed as a product for ternary precursor feedstock (lines 630, 646) with no capacity/output disclosed. 'High-performance EMD retrofit project' under way (lines 812-814). No unit for EMD tonnage exists in data/supply_chain/units.csv (t Mn / t MnSO4 only), so capacity/production are NOT converted here; lead to decide (EMD as MnO2 is <= 63.2% Mn). Mn-ore subsidiary Wanshan Pengcheng Mining (zero revenue 2025, line 2398) not recorded: no status/capacity evidence. Dalong is wholly owned; exact town not stated in the extract. Other Hongxing products (barium/strontium salts) out of scope."
+  },
+  {
+   "action": "add",
+   "id": "xiangtan-electrochemical-jingxi-emd-china",
+   "fields": {
+    "asset_name": "Jingxi Electrochemical (Guangxi) EMD base",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD)",
+    "asset_type": "EMD plant",
+    "feedstock": "manganese ore (own mine and imported)",
+    "operator": "Jingxi Xiangtan Electrochemical Technology Co. (靖西电化)",
+    "parent_company": "Xiangtan Electrochemical Technology Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "end_market": "mixed",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "X2",
+     "X4"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Xiangtan Electrochemical 2025 AR. Jingxi base runs traditional EMD lines (line 580; subsidiary main business EMD, lines 1415-1418; 2025 revenue 890.06 million RMB, net profit 69.30 million RMB, line 1467). Company 'manganese battery materials' (EMD + Mn3O4 + LMO) design capacity 182,000 t/yr, utilisation 58.17%, 10,000 t under construction (line 395); 2025 production 105,873.86 t, sales 105,950.87 t (lines 680, 698). Not split by base (EMD vs Xiangtan vs Jingxi vs LMO), so capacity left null. 'Jingxi 10,000 t project' land (line 8844) and electrolysis line-4 retrofit completed (lines 8627-8629). Mn ore feed: own licences in Hunan and Guangxi; Jingxi mining licence valid 2024-10-25 to 2044-10-24 (line 425). Revenue split 2025: EMD 1,226.99 million RMB (63.86%), spinel LMO 542.75 million RMB (28.25%), Mn3O4 0.29 million RMB (lines 601-603). Guangxi Lijin LMO: 'current annual capacity 40,000 t' LMO (line 489), 30,000 t/yr spinel LMO project (Xiangtan Lijin, 66.67% progress, completion postponed to 2026-12-31, line 4055; 10,000 t remaining under dynamic control, line 396) - cathode step, not recorded here."
+  },
+  {
+   "action": "add",
+   "id": "xiangtan-electrochemical-xiangtan-emd-china",
+   "fields": {
+    "asset_name": "Xiangtan Electrochemical (Hunan) EMD base",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD)",
+    "asset_type": "EMD plant",
+    "feedstock": "manganese ore",
+    "operator": "Xiangtan Electrochemical Technology Co.",
+    "parent_company": "Xiangtan Electrochemical Technology Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "capacity": null,
+    "capacity_unit": null,
+    "end_market": "mixed",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "X3"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Xiangtan Electrochemical 2025 AR line 581 ('Xiangtan base' EMD operations; automatic foaming-agent addition) and line 580. Mother company operating manganese products for 60+ years (line 494). Capacity/production not split by base - see Jingxi row for company totals (182,000 t/yr design for all manganese battery materials, 58.17% utilisation, production 105,873.86 t). Province Hunan inferred from company/Xiangtan base naming; plant coordinates not given."
+  },
+  {
+   "action": "add",
+   "id": "xiangtan-electrochemical-aitun-manganese-mine-china",
+   "fields": {
+    "asset_name": "Aitun manganese mine project (Jingxi)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "manganese mine (project)",
+    "feedstock": "manganese ore",
+    "operator": "Jingxi Xiangtan Electrochemical Technology Co. (靖西电化)",
+    "parent_company": "Xiangtan Electrochemical Technology Co.",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "geo_precision": "none",
+    "status": "under_construction",
+    "capacity": null,
+    "capacity_unit": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191831.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "X5"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Xiangtan Electrochemical 2025 AR lines 8621-8623 and 8664-8668: 'Jingxi Aitun manganese mine project' in construction-in-progress, balance 48,388,012.13 RMB, budget 80,000,000 RMB, progress ~66%. Owner/operator attributed to Jingxi Electrochemical by location only (project listed under the listed company's CIP). Capacity not stated. Nanmuchong Manganese (51% owned, Xiangtan, Hunan; mining licence to 2026-12-31, lines 446, 10137-10138; 'accelerate resumption of existing manganese mines', line 1553) not recorded: no status/capacity evidence."
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+company,year,metric,product,value,unit,scope,source_file,line_ref,task
+CMOC,2025,production,cobalt,117500,t Co,group (DRC TFM+KFM),603993_.txt,371-385,SC113
+Hanrui Cobalt,2025,production,cobalt products,16761.79,t,group,300618_2025.txt,1552-1559,SC113
+Tengyuan Cobalt,2025,production,cobalt,27348.72,t Co,group,301219_2025.txt,754-766,SC113
+Tengyuan Cobalt,2025,capacity,cobalt,39500,t Co,Ganzhou after phase II,301219_2025.txt,4040-4041,SC113
+Shengtun Mining,2025,production,cobalt,9203.13,t Co,group,600711_.txt,850-867,SC113
+Shengtun Mining,2025,production,nickel,49418.04,t Ni,group,600711_.txt,850-867,SC113
+Hongxing Development,2025,capacity,EMD,30000,t EMD,group,600367_.txt,1982-1984,SC113
+Hongxing Development,2025,production,EMD,12053,t EMD,group,600367_.txt,1188,SC113
+Xiangtan Electrochemical,2025,capacity,manganese battery materials,182000,t,group design,002125_2025.txt,395,SC113
+Xiangtan Electrochemical,2025,production,manganese battery materials,105873.86,t,group,002125_2025.txt,489,SC113
