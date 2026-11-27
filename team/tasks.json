@@ -3985,6 +3985,110 @@
    "attempts": 1,
    "assumptions": [],
    "audit": {}
+  },
+  {
+   "id": "SC110",
+   "title": "Filing pass — anode: Putailai, Shangtai, Zhongke Electric, Xiangfenghua, BTR (+China Baoan graphite mines)",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC110.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC111",
+   "title": "Filing pass — electrolyte + LiPF6: Tinci, Capchem, Ruitai, Duofluoride, Yongtai, Tianji",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC111.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC112",
+   "title": "Filing pass — separators + copper foil: SEMCORP, Senior, Sinoma, Cangzhou Mingzhu; Nuode, Jiayuan, Defu, Tongguan",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC112.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC113",
+   "title": "Filing pass — cobalt/nickel/manganese/recycling: CMOC, Hanrui, Tengyuan, Shengtun, Guanghua, Hongxing, Xiangtan Electrochemical",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC113.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }
