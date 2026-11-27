@@ -86,6 +86,23 @@ for r in disc:
     if key not in chosen or rank < chosen[key][0]:
         chosen[key] = (rank, val, scope, basis, r)
 
+# Output floor (owner upgrade item 4, 2026-11-27): where a company discloses OUTPUT for a year but no usable capacity,
+# its capacity was at least that output — used as a labelled lower bound (basis "output_floor").
+for r in disc:
+    if r.get("metric") != "output":
+        continue
+    scope = (r.get("scope") or "").lower()
+    try:
+        val, year = float(r["capacity_gwh"]), int(r["year"])
+    except (ValueError, KeyError, TypeError):
+        continue
+    if not (scope.startswith("global") or scope.startswith("china")) or any(
+            s in scope for s in ("power_only", "ess_only", "consumer_only")):
+        continue
+    key = (r["company"], year)
+    if key not in chosen:
+        chosen[key] = (20, val, scope, "output_floor", r)
+
 out = []
 for (company, year), (_, val, scope, basis, r) in sorted(chosen.items()):
     china_only = scope.startswith("china")
@@ -93,7 +110,7 @@ for (company, year), (_, val, scope, basis, r) in sorted(chosen.items()):
     un = max(0.0, val - ss)
     region = "China" if china_only else HOME_REGION.get(company, "China")
     out.append((company, year, val, round(ss, 1), round(un, 1), region, scope, basis,
-                ("estimate;" if r["_estimate"] else "") + ("sites_exceed_disclosed" if val < ss else ""), r.get("source_url", ""), r.get("quote", "")[:300]))
+                ("estimate;" if r["_estimate"] else "") + ("output_floor;" if basis == "output_floor" else "") + ("sites_exceed_disclosed" if val < ss else ""), r.get("source_url", ""), r.get("quote", "")[:300]))
 
 con.execute("DROP TABLE IF EXISTS capacity_unallocated")
 con.execute("""CREATE TABLE capacity_unallocated (company VARCHAR, year INTEGER, disclosed_gwh DOUBLE,

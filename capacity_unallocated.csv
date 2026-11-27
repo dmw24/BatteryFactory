@@ -15,6 +15,10 @@ CATL,2025,772.0,885.5,0.0,China,global|all_li,annual_effective,sites_exceed_disc
 Farasis,2017,1.264,0.0,1.3,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"项目 2019 年度 2018 年度 2017 年度 产能（MWh） 3,134.25 2,018.00 1,264.00"
 Farasis,2018,2.018,0.0,2.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"产能（MWh） 3,134.25 2,018.00 1,264.00"
 Farasis,2019,3.13425,0.0,3.1,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2020-07-10/1208019699.PDF,"产能（MWh） 3,134.25 2,018.00 1,264.00"
+Ganfeng,2022,6.7851,10.0,0.0,China,global|power_ess_li,output_floor,output_floor;sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2024-03-29/1219453182.PDF,"行业分类 项目 单位 2023 年 2022 年 同比增减 ... 锂电池系列-动力 生产量 MWh 10,615.83 6,785.10 56.46%"
+Ganfeng,2023,10.61583,10.0,0.6,China,global|power_ess_li,output_floor,output_floor;,http://static.cninfo.com.cn/finalpage/2024-03-29/1219453182.PDF,"行业分类 项目 单位 2023 年 2022 年 同比增减 ... 锂电池系列-动力 生产量 MWh 10,615.83 6,785.10 56.46%"
+Ganfeng,2024,11.4395,10.0,1.4,China,global|power_ess_li,output_floor,output_floor;,http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF,"行业分类 项目 单位 2025 年 2024 年 同比增减 ... 锂电池系列-动力 生产量（注） MWh 26,995.52 11,439.50 135.99%"
+Ganfeng,2025,26.99552,10.0,17.0,China,global|power_ess_li,output_floor,output_floor;,http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF,"行业分类 项目 单位 2025 年 2024 年 同比增减 ... 锂电池系列-动力 生产量（注） MWh 26,995.52 11,439.50 135.99% ... 注：动力储能类电池生产量包含自用量 5,842.64MWh。"
 Great Power,2021,5.87,0.0,5.9,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2022-04-28/1213172089.PDF,"锂离子电池 18.35 亿Ah 年化 (产能 column, annual report FY2021)"
 Great Power,2022,11.58,5.5,6.1,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2023-04-27/1216625879.PDF,"锂离子电池 36.2 亿Ah 年化 (产能 column, annual report FY2022)"
 Great Power,2023,21.67,21.5,0.2,China,global|all_li,annual_effective,estimate;,http://static.cninfo.com.cn/finalpage/2024-04-27/1219864805.PDF,"锂离子电池 67.72 亿Ah 年化 (产能 column, annual report FY2023)"
@@ -22,6 +26,7 @@ Great Power,2024,24.04,21.5,2.5,China,global|all_li,annual_effective,estimate;,h
 Great Power,2025,27.72,33.5,0.0,China,global|all_li,annual_effective,estimate;sites_exceed_disclosed,http://static.cninfo.com.cn/finalpage/2026-04-29/1225243780.PDF,"锂离子电池 86.64 亿Ah 年化 (产能 column, annual report FY2025)"
 Hithium,2022,5.4,15.0,0.0,China,global|ess_only,annual_effective,sites_exceed_disclosed,https://m.jiemian.com/article/13809441.html,2022-2024年，海辰储能的储能电池有效年产能由5.4GWh增至49.7GWh，年复合增速增至203%。
 Hithium,2024,62.0,45.0,17.0,China,global|ess_only,year_end,"",https://www.yicai.com/news/102847042.html,截至2024年末，该公司的设计产能达62GWh。
+Narada,2021,2.29,0.0,2.3,China,global|all_li,output_floor,output_floor;,http://static.cninfo.com.cn/finalpage/2023-04-22/1216522877.PDF,项目 单位 2022 年 2021 年 同比增减 ... 锂离子电池产品 生产量 GWh 3.65 2.29 59.39%
 Narada,2022,4.5,0.0,4.5,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2023-04-22/1216522877.PDF,产能 在建产能 产能利用率 产量 ... 锂离子电池 4.5GWh 5GWh 81.11% 3.65GWh
 Narada,2023,7.0,0.0,7.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2024-04-24/1219771373.PDF,产能 在建产能 产能利用率 产量 ... 锂离子电池 7GWh 4GWh 70.29% 4.92GWh
 Narada,2024,8.0,0.0,8.0,China,global|all_li,annual_effective,"",http://static.cninfo.com.cn/finalpage/2025-04-26/1223323678.PDF,产能 在建产能 产能利用率 产量 ... 锂离子电池 8GWh 4GWh 49.38% 3.95GWh

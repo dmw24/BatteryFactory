@@ -124,3 +124,11 @@ Series D is called **built nameplate** (design capacity of built, commissioned l
 upper bound; C **producing capacity**; A **confirmed installed**; the site field is **planned nameplate**. Export columns
 renamed: gwh_built_nameplate(_high), gwh_producing, gwh_confirmed_installed, gwh_upper_fill_B; DB table columns
 gwh_built_nameplate / built_basis / gwh_built_nameplate_high. Older log entries keep the old wording.
+
+## D-038 — Output floors and the utilisation view (owner upgrade list, 2026-11-27)
+A company's disclosed annual OUTPUT is a lower bound on its capacity. Where a company-year has disclosed output but no
+usable disclosed capacity, Series E uses the output as a labelled floor (basis output_floor; flag in
+capacity_unallocated). company_utilisation.csv sets disclosed output against disclosed capacity (utilisation) and against
+our site-level producing capacity: output above our producing capacity proves missing site capacity (e.g. CATL 2022
+output 325 GWh vs our sites 108; Ganfeng 2025 27 vs 10). Korean DART reports give utilisation only (LGES 2023–25:
+69.3% / 57.8% / 47.6%), capacity in KRW.
