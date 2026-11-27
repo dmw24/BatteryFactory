@@ -314,6 +314,137 @@
     "capacity_norm": null
    },
    "notes": "lead (SC audit 2 D10): 330 kt is Jinchuan Group's group-wide nickel products figure, not one site — moved to company_totals."
+  },
+  {
+   "action": "fix",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 3 #3): 150 kt is GEM's Indonesian park total incl. ESG/Meiming rows — capacity nulled; park total in company_totals."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-sejong-natural-anode-south-korea",
+   "fields": {
+    "capacity_by_year_json": "{\"2022\": 24000}"
+   },
+   "notes": "lead (SC audit 3 #4): only plant 1 (24,000 t) is quoted; 66,000 was a worker sum — step set to 24,000."
+  },
+  {
+   "action": "fix",
+   "id": "sherritt-moa-jv-cuba",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'sherritt-fort-saskatchewan-refinery-canada' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "graphite-one-graphite-creek-united-states",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'graphite-one-ohio-anode-plant-united-states' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "dazhong-mining-jijiaoshan-china",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'dazhong-mining-hunan-lithium-carbonate-china' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "jiangte-motor-xikeng-lithium-mine-china",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'jiangte-motor-yichun-lithium-carbonate-china' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "element-25-butcherbird-australia",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'element-25-louisiana-hpmsm-united-states' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "glencore-integrated-nickel-operations-sudbury-raglan-canada",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'glencore-nikkelverk-nickel-norway' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "moa-jv-moa-nickel-cuba",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'sherritt-fort-saskatchewan-nickel-canada' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "nornickel-polar-division-norilsk-russia",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'nornickel-kola-mmc-nickel-russia' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "terrafame-sotkamo-nickel-mine-finland",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'terrafame-sotkamo-battery-chemicals-finland' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "vale-voiseys-bay-nickel-canada",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'vale-long-harbour-nickel-canada' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "anda-kaiyang-fepo4-china",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'anda-kaiyang-lfp-china' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "minmetals-new-energy-jinchi-pcam-china",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'minmetals-new-energy-changsha-cathode-china' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-lubei-binzhou-fepo4-china",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'wanrun-lubei-binzhou-shandong-china' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
+  },
+  {
+   "action": "fix",
+   "id": "pt-obi-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (SC audit 3 #7): feeds 'lygend-obi-mhp-refinement-indonesia' had no evidence entry — removed from the field (S4 now requires feeds evidence); relationship kept in notes for follow-up."
   }
  ]
 }

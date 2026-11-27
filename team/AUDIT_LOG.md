@@ -149,3 +149,9 @@ D-103 brine regex tightened (D8); reported-tier built shown separately (systemic
 GEM QMB park totals → company_totals (D6), CNGR high-matte conversion part_of (D7), Novonix → under construction (D9),
 Jinchuan group → company_totals (D10), target steps removed (D11), unsupported feeds removed (D12). Open: ref_basis is
 still not a field (rule now avoids needing it); Electra CoSO4 unit; Harita ore sales as production (labelled).
+
+## SC audit 3 (Opus, focused) — 2026-11-27 — FAIL → fixed
+Sample 25 rows: 0% number-changing; systemic misses fixed: D-103 regex regression (Chinese salt-lake plants restored to
+Li refining), intermediates excluded from nickel production too (sc_core.is_intermediate), GEM QMB park capacity nulled,
+POSCO Sejong step = quoted 24 kt, stale evidence dropped at build, 14 unsourced feeds removed (S4 covers feeds),
+SA0 task id, D-110 precedence, reconciliation notes rewritten (built = confirmed-date floor).

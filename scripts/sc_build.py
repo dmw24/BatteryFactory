@@ -177,6 +177,12 @@ def main():
     df.to_csv(os.path.join(ROOT, "sc_assets.csv"), index=False)
     ev_cols = ["id", "field", "task", "source_id", "url", "publisher", "published", "accessed", "language", "quote", "tier"]
     ev = ev if len(ev) else pd.DataFrame(columns=ev_cols)
+    # audit 3: evidence for a field whose final value is null (nulled by a later fix) or for a removed asset is dropped
+    if len(ev):
+        vals = df.set_index("id")
+        keep = [(r.id in vals.index) and (r.field not in vals.columns or pd.notna(vals.at[r.id, r.field]))
+                for r in ev.itertuples()]
+        ev = ev[keep]
     ev.to_csv(os.path.join(SC, "field_evidence.csv"), index=False)
     removed.to_csv(os.path.join(SC, "removed.csv"), index=False)
     if os.path.exists(DB):

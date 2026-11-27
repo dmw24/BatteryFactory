@@ -1,6 +1,6 @@
 """Shared capacity rules for supply-chain outputs (after SC audit 2): one definition of BUILT for every script.
 
-built(y)  = max(installed_norm from installed_as_of; sourced dated steps (capacity_by_year_json) with year <= min(y, LAST));
+built(y)  = CONFIRMED-DATE FLOOR, not a growth series: max(installed_norm from installed_as_of; sourced dated steps (capacity_by_year_json) with year <= min(y, LAST));
             a plan's reference year never makes capacity built (fallback or target years are not completions);
 upper(y)  = built + the rest of an OPERATIONAL row's plan once its capacity_ref_year <= y (D-high analogue, upper bound);
 planned   = under_construction / announced capacity from the reference year (pipeline, separate).
@@ -40,5 +40,10 @@ def built_upper(r, y):
     return b, up
 
 
+def is_intermediate(r):
+    """Nickel MHP/matte rows: by capacity unit OR production unit (audit 3)."""
+    return r.capacity_unit in INTERMEDIATE or getattr(r, "production_unit", None) in INTERMEDIATE
+
+
 def commodity_label(r):
-    return f"{r.commodity} (intermediate)" if r.capacity_unit in INTERMEDIATE else r.commodity
+    return f"{r.commodity} (intermediate)" if is_intermediate(r) else r.commodity

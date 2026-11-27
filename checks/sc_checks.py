@@ -40,7 +40,7 @@ def main():
           + [x.id for _, x in df.iterrows() if (pd.notna(x.capacity) and not isinstance(x.capacity_unit, str))
              or (pd.notna(x.production) and not isinstance(x.production_unit, str))])
     have = set(zip(ev.id, ev.field))
-    need = ["status", "capacity", "installed_capacity", "production", "capacity_by_year_json"]
+    need = ["status", "capacity", "installed_capacity", "production", "capacity_by_year_json", "feeds"]
     check("S4", "every status/capacity/installed/production/steps value has evidence",
           [f"{x.id}:{f}" for _, x in df.iterrows() for f in need if pd.notna(x[f]) and (x.id, f) not in have])
     conf = ev[ev.tier == "confirmed"]

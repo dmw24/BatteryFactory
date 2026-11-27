@@ -18,7 +18,7 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sc_build import COUNTRY_ALIASES  # noqa: E402
-from sc_core import built_upper  # noqa: E402
+from sc_core import built_upper, is_intermediate  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INTERMEDIATE = {"t Ni in MHP", "t Ni in matte"}
@@ -44,7 +44,7 @@ def main():
         s = a[(a.step == r.step) & (a.commodity == com)]
         if r.step == "refining" and com == "lithium":
             onsite = a[(a.step == "mining") & (a.commodity == "lithium") & a["product"].fillna("").str.contains(LI_CHEM)
-                       & ~a["product"].fillna("").str.contains("brine|concentrate", case=False)
+                       & ~a["product"].fillna("").str.contains(r"^lithium brine|concentrate", case=False)
                        & (a.feedstock.fillna("") + " " + a.asset_type.fillna("") + " " + a.asset_name.fillna("")).str.contains(BRINE)]
             s = pd.concat([s, onsite])   # D-103: on-site brine chemical plants only (audit 2 D8)
         if sub and com != "nickel":
@@ -53,10 +53,11 @@ def main():
             s = s[s.country == r.country]
         inter = 0.0
         if com == "nickel" and r.step == "refining":
-            im = s.capacity_unit.isin(INTERMEDIATE)
+            im = pd.Series([is_intermediate(x) for x in s.itertuples()], index=s.index, dtype=bool)
             si = s[im]
             inter = sum(built_upper(x, yr)[0] for x in si.itertuples())
-            s = s.assign(norm_unit=s.norm_unit.where(~im, "t Ni (intermediate)"))
+            s = s.assign(norm_unit=s.norm_unit.where(~im, "t Ni (intermediate)"),
+                         production_norm_unit=s.production_norm_unit.where(~im, "t Ni (intermediate)"))
         p = s[s.production_year.between(yr - 1, yr + 1) & (s.production_norm_unit == r.norm_unit)]
         c = s[s.norm_unit == r.norm_unit]
         bu = [built_upper(x, yr) for x in c.itertuples()]

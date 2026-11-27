@@ -1,13 +1,13 @@
 step,commodity,norm_unit,year,built,built_upper,under_construction,announced,n_assets
-anode,anode,t anode,2022,66000.0,66000.0,0.0,0.0,1
-anode,anode,t anode,2023,66000.0,66000.0,0.0,0.0,1
-anode,anode,t anode,2024,66000.0,95250.0,0.0,0.0,4
-anode,anode,t anode,2025,537250.0,1245250.0,30300.0,140000.0,19
-anode,anode,t anode,2026,537500.0,2378500.0,340300.0,920000.0,38
-anode,anode,t anode,2027,537500.0,2378500.0,356800.0,920000.0,40
-anode,anode,t anode,2028,537500.0,2378500.0,356800.0,1264500.0,44
-anode,anode,t anode,2029,537500.0,2397950.0,356800.0,1264500.0,44
-anode,anode,t anode,2030,537500.0,2397950.0,356800.0,1264500.0,44
+anode,anode,t anode,2022,24000.0,66000.0,0.0,0.0,1
+anode,anode,t anode,2023,24000.0,66000.0,0.0,0.0,1
+anode,anode,t anode,2024,24000.0,95250.0,0.0,0.0,4
+anode,anode,t anode,2025,495250.0,1245250.0,30300.0,140000.0,19
+anode,anode,t anode,2026,495500.0,2378500.0,340300.0,920000.0,38
+anode,anode,t anode,2027,495500.0,2378500.0,356800.0,920000.0,40
+anode,anode,t anode,2028,495500.0,2378500.0,356800.0,1264500.0,44
+anode,anode,t anode,2029,495500.0,2397950.0,356800.0,1264500.0,44
+anode,anode,t anode,2030,495500.0,2397950.0,356800.0,1264500.0,44
 anode,graphite,t graphite,2026,0.0,0.0,0.0,10000.0,1
 anode,graphite,t graphite,2027,0.0,0.0,0.0,47000.0,2
 anode,graphite,t graphite,2028,0.0,0.0,0.0,47000.0,2
@@ -216,12 +216,12 @@ refining,nickel,t Ni,2029,0.0,1685551.0,72000.0,143000.0,35
 refining,nickel,t Ni,2030,0.0,1685551.0,72000.0,143000.0,35
 refining,nickel (intermediate),t Ni,2023,0.0,54000.0,0.0,0.0,1
 refining,nickel (intermediate),t Ni,2024,0.0,54000.0,0.0,0.0,1
-refining,nickel (intermediate),t Ni,2025,60000.0,716300.0,202900.0,55000.0,16
-refining,nickel (intermediate),t Ni,2026,60000.0,716300.0,578900.0,95000.0,23
-refining,nickel (intermediate),t Ni,2027,60000.0,716300.0,578900.0,155000.0,24
-refining,nickel (intermediate),t Ni,2028,60000.0,716300.0,578900.0,155000.0,24
-refining,nickel (intermediate),t Ni,2029,60000.0,716300.0,578900.0,155000.0,24
-refining,nickel (intermediate),t Ni,2030,60000.0,716300.0,578900.0,155000.0,24
+refining,nickel (intermediate),t Ni,2025,60000.0,566300.0,202900.0,55000.0,15
+refining,nickel (intermediate),t Ni,2026,60000.0,566300.0,578900.0,95000.0,22
+refining,nickel (intermediate),t Ni,2027,60000.0,566300.0,578900.0,155000.0,23
+refining,nickel (intermediate),t Ni,2028,60000.0,566300.0,578900.0,155000.0,23
+refining,nickel (intermediate),t Ni,2029,60000.0,566300.0,578900.0,155000.0,23
+refining,nickel (intermediate),t Ni,2030,60000.0,566300.0,578900.0,155000.0,23
 separator,separator,Mm2,2021,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2022,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2023,680.0,1230.0,0.0,0.0,2

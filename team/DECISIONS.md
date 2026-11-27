@@ -168,3 +168,7 @@ multi-site rows left without coordinates.
 ## D-109 (2026-11-27, lead) Build-time confidence cap
 sc_build caps confidence at 0.5 for rows whose key fields rest only on reported-tier evidence, so a later patch that
 raises confidence for another reason (e.g. sourced feeds) cannot lift an unconfirmed capacity/status above the cap.
+## D-110 (2026-11-27, lead) Precedence of bulk datasets
+Bulk open-dataset patches are named SA*_ so their updates apply before company-filing and research patches (D-106 order):
+filings and later research override dataset values. Evidence for values nulled later, and for removed assets, is dropped
+at build. `feeds` values need evidence like other key fields (check S4).
