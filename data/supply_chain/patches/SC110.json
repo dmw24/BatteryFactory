@@ -1,0 +1,659 @@
+{
+ "task": "SC110",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, lines 659-660)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "截至 2025 年末，已经形成年产 25万吨负极材料的产能。"},
+  "S2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, lines 662-663)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "全年负极材料出货量 14.30 万吨，同比增加 8.1%"},
+  "S3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 914)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "负极材料...151,178.99...143,009.19"},
+  "S4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, lines 1366-1367)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "四川紫宸年产 28 万吨一体化建设项目，项目分为三期建设，一期 10 万吨项目的部分产线已逐步投产；二期 10 万吨项目将于 2026 年根据市场需求情况择机投产；三期 8 万吨项目将根据市场需求情况逐步推进建设。"},
+  "S5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, lines 1590-1591)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "加快四川紫宸一期项目产能的释放及二期项目的建设进度，力争 2026 年实现25 万吨以上的负极材料出货量。"},
+  "S6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 1432)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "江西紫宸...子公司...负极材料...425,227.28"},
+  "S7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 8567)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "江西紫宸科技有限公司...宜春...制造业"},
+  "S8": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 668)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "公司将通过四川紫宸、安徽紫宸先进产能的建设，持续降本增效"},
+  "S9": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 6698)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "安徽紫宸建设项目...271,506,779.34"},
+  "S10": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 8609)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "安徽紫宸科技有限公司...芜湖...制造业"},
+  "S11": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 8593)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "四川紫宸科技有限公司...邛崃...制造业"},
+  "S12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 6695)", "published": "2026-03-06", "accessed": "2026-11-27", "language": "zh", "quote": "四川紫宸建设项目...3,656,923,576.59"},
+
+  "S20": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 1140-1141)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "山西基地前三期项目稳定运行，北苏二期 10 万吨产能已实现满产，产能利用率长期保持在 100%以上，全年形成逾 30 万吨稳定产能。"},
+  "S21": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 1141-1143)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司山西四期年产 20 万吨锂电池负极材料一体化项目、山西五期年产 20 万吨锂离子电池负极材料项目以及马来西亚年产 5 万吨锂离子电池负极材料项目海外基地建设均在有序推进中，预计未来两年公司总产能有望突破 70 万吨"},
+  "S22": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 237-245)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "山西尚太位于山西晋中昔阳的建设年...产 3 万吨锂电池负极材料一体化项目...产 5 万吨锂电池负极材料一体化项目...产 12 万吨锂电池负极材料石墨化项目"},
+  "S23": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 234-236)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司位于石家庄无极县北苏镇正在建...设的“年产 10 万吨锂离子电池负极材...料一体化项目”"},
+  "S24": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, line 753)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司在 2025 年第一季度高质量地完成北苏二期项目建设，各工序产能陆续实现达产"},
+  "S25": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 1205-1206)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "2024 年，公司启动北苏二期基地建设，2025 年一季度该项目实现达产，新增 10 万吨优质产能"},
+  "S26": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, line 1385)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "生产量...349,056.70...226,766.94"},
+  "S27": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, line 936)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年公司负极材料销售量 34.35 万吨，同比增长 58.63%"},
+  "S28": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 2330-2333)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "当前公司正在实施的产能项目包括在山西省晋中市昔阳县建设年产 20 万吨锂离子电池负极材料一体化项目，在马来西亚建设年产 5 万吨锂电池负极材料项目，并在山西省综合改造示范区规划了年产 20 万吨负极材料的产能建设项目。"},
+  "S29": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 246-248)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "山西尚太位于山西晋中昔阳县李家庄...乡建设的年产 20 万吨锂电池负极材料...一体化项目"},
+  "S30": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 249-251)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "山西尚太位于山西省山西转型综合改...革示范区辖区建设的年产 20 万吨锂电...池负极材料项目"},
+  "S31": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 252-254)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司位于马来西亚吉打州的“马来西亚...年产 5 万吨锂离子电池负极材料项目”"},
+  "S32": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 12544-12546)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "马来西亚年产...5 万吨锂离子...101,623,526.70"},
+  "S33": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, line 1439)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "新设尚太锂电科技（太原）有限公司作为山西五期年产 20 万吨锂离子电池负极材料项目的运营主体"},
+  "S34": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 1213-1214)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司规划了位于山西省晋中市的山西四期项目，以及山西省转型综合改造示范区的山西五期项目，上述项目的顺利实施后，公司将新增 40 万吨优质产能"},
+
+  "S40": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 636)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "石墨类负极材料...348,683.33...85,000.00...108.54%...378,468.57"},
+  "S41": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 396-397)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "实现负极材料出货量 36.35 万吨，同比增加 61.05%"},
+  "S42": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 3980-3982)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "实施年产 20 万吨锂离子电池负极材料一体化基地项目，项目计划总投资金额不超过 80 亿元人民币（最终以实际投资金额为准），分两部分建设，第一部分和第二部分产能规划各为 10 万吨/年，建设周期预计各为 36 个月"},
+  "S43": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 701-702)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "中科星城苏哈尔新材料科技（自...阿曼...贸区）有限责任公司"},
+  "S44": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 3983-3984)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "此前公司已审议通过的投资建设“摩洛哥年产 10 万吨锂离子电池负极材料一体化基地项目”做延缓建设安排"},
+  "S45": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 3994-3997)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司拟在四川泸州（长江）经济开发区投资建设“年产 30 万吨锂离子电池负极材料一体化项目”，项目计划总投资约人民币 70 亿元，分两期建设，一期项目建设年产 20 万吨锂离子电池负极材料一体化生产基地"},
+  "S46": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 389-390)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司稳步推进贵安新区中科星城、云南中科星城负极材料一体化项目建设的同时，规划实施四川泸州负极材料一体化项目"},
+  "S47": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 1972)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "2026 年，公司将稳步推进云南中科星城负极材料一体化项目二期"},
+  "S48": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 1592)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "长沙市宁乡县金洲新区泉洲北路（金洲镇龙桥村）"},
+  "S49": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 531)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司子公司湖南中科星城专注于锂离子电池负极材料的研发和生产二十多年"},
+  "S50": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 1577-1579)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "云南中科...星城石墨...93,535.51"},
+  "S51": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 1568-1571)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "贵安新区...80,000.00...497,038.87"},
+  "S52": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 1662)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "云南省曲靖市麒麟区翠峰街道北外环路 6 号"},
+  "S53": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 1685)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "贵州省贵安新区湖潮乡横二路 1 号"},
+  "S54": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 1614-1618)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "贵州省铜仁市大龙经济开发区北部工业园...经营石墨化加工、来料加工业务"},
+  "S55": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 4024-4026)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "海达新材料“年产 10 万吨负极材料粉体生产基地项目”延缓建设...公司控股子公司海达新材料拟解散并清算"},
+  "S56": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 1563)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "15,538.88...650,687.44...216,450.21...638,824.86"},
+  "S57": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, line 637)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "上表所列产能数据为报告期月度有效产能的合计"},
+
+  "S60": {"url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "publisher": "Xiangfenghua 2025 annual report (local text team/evidence/filings/300890_.txt, line 932)", "published": "2026-06-26", "accessed": "2026-11-27", "language": "zh", "quote": "石墨负极材料（吨）...114660...60000...72.76%...83426"},
+  "S61": {"url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "publisher": "Xiangfenghua 2025 annual report (local text team/evidence/filings/300890_.txt, line 941)", "published": "2026-06-26", "accessed": "2026-11-27", "language": "zh", "quote": "生产量...83,426...75,113"},
+  "S62": {"url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "publisher": "Xiangfenghua 2025 annual report (local text team/evidence/filings/300890_.txt, line 1833)", "published": "2026-06-26", "accessed": "2026-11-27", "language": "zh", "quote": "福建翔丰华是翔丰华的全资子公司，成立于 2015 年 05 月，位于福建省永安市贡川镇石墨及石墨烯工业园，占地 535 亩。是公司的生产经营基地"},
+  "S63": {"url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "publisher": "Xiangfenghua 2025 annual report (local text team/evidence/filings/300890_.txt, lines 1837-1839)", "published": "2026-06-26", "accessed": "2026-11-27", "language": "zh", "quote": "四川翔丰华是翔丰华的全资子公司，成立于 2021 年 06 月，位于四川省遂宁市蓬溪县金桥镇。是公司的生产基地，主要承担公司的生产职能。在 2023年，公司通过向不特定对象发行可转换公司债券，四川翔丰华是募投项目 6 万吨人造石墨负极材料一体化生产基地建设项目的建设地，目前正在建设中。"},
+  "S64": {"url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "publisher": "Xiangfenghua 2025 annual report (local text team/evidence/filings/300890_.txt, lines 5555-5556)", "published": "2026-06-26", "accessed": "2026-11-27", "language": "zh", "quote": "司将公司“6 万吨人造石墨负极材料一体化生产基地建设项目”达到预定可使用状态的时间由 2025 年 12 月调整至 2026 年 12 月"},
+
+  "S70": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 519-521)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "截至报告期末，公司已投产负极材料产能为 78.25 万...吨/年，较 2024 年末增加 20.75 万吨，增长 36.52%"},
+  "S71": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 522-523)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "印尼二期年产 8 万吨负极材料项目及深圳 7500 吨硅基产能实现投产"},
+  "S72": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 526-527)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "国内负极材料产能 62.25 万吨，正极材料产能 7.3 万吨；海外负极材料产能 16万吨；此外，公司稳步推进摩洛哥年产 6 万吨负极材料项目和年产 5 万吨正极材料项目"},
+  "S73": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, line 3597)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "负极材料...634,166.67...594,843.72...93.80%...157,500.00"},
+  "S74": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, line 3586)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "负极材料...601,703.69...1,351,545.01"},
+  "S75": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, line 3599)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "上表中产能为年度加权平均产能"},
+  "S76": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 7040-7042)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "印尼贝特瑞年产 16 万吨新能...已完工投产...源锂电池负极材料一体化项目"},
+  "S77": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191885.PDF", "publisher": "China Baoan 2025 annual report (local text team/evidence/filings/000009_2025.txt, lines 577-579)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "印尼年产 8 万吨负极材料一体化项目（二期）顺利投产，印尼基地已形成 16 万吨负极材料总产能"},
+  "S78": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8096-8097)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "将其持有的印尼贝特瑞新能源材料有限公司 60%股权抵押"},
+  "S79": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 7046-7048)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "贝特瑞地中海负极年产 6 万吨...土地平整已完成，正在进行厂房施...13.37%"},
+  "S80": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 9194-9196)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "通过全资子公司贝特瑞地中海负极新材料科技有限公司（以下简称“地中海负极”）在摩洛哥投资建设年产 6 万吨锂电池负极材料一体化项目，项目预计总投资额不超过人民币 26.18 亿元。截至年末，该项目尚在推进中。"},
+  "S81": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191885.PDF", "publisher": "China Baoan 2025 annual report (local text team/evidence/filings/000009_2025.txt, lines 10234-10238)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "贝特瑞地中海负极与福特相关实体签署供应协议、预付款协议，地中海负极根据供应协议的条款约定向福特相关实体供应人造石墨材料"},
+  "S82": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 9181-9185)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "拟在大理州祥云县经济技术开发区内投资建设“年产 20 万吨锂电池负极材料一体化基地项目”，项目计划分 3 期建设，一期项目预计投资 23.92...亿元。截至年末，该项目石墨化产线已建成投产。"},
+  "S83": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 7037-7039)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "山西瑞君年产 10 万吨人造石...厂房完工并投入使用，部分石墨化...产线已投入使用，石墨化剩余工程...正在建设安装中"},
+  "S84": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8346-8347)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "山西瑞君新材料...长治...30,000.00"},
+  "S85": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 6909-6910)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "山东瑞阳年产 4 万吨人造石墨负极一体化产线（一...期）...2,099,199.78"},
+  "S86": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 521-522)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "其中，江苏、天津、四川、惠州及山东等负极基地通过技术改造、工艺革新及设备挖潜，共计新增 12 万吨产能"},
+  "S87": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 6906-6908)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "四川新材料年产 5 万吨锂离子电池负极材料及综合...配套项目（一期）"},
+  "S88": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225191885.PDF", "publisher": "China Baoan 2025 annual report (local text team/evidence/filings/000009_2025.txt, line 2917)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "贝特瑞(四川)新材料科技有限公司响应政府号召，对屏山县锦屏镇白果社区对口帮扶"},
+  "S89": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 6982-6983)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "四川瑞鞍年产 5 万吨锂...电池负极材料前驱体...13,711,824.28"},
+  "S90": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8343-8344)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "四川瑞鞍新材料...雅安...30,000.00"},
+  "S91": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 7024-7025)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "光明年产 4 万吨硅基负极材料...厂房已完工，部分产线已投产"},
+  "S92": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 9175-9178)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "石墨采矿场和石墨深加工一体化项目投资 73,254.4 万元人民币...截至年末，长源矿业已领取黑龙江省鸡西市站前石墨矿的《矿产资源勘查许可证》，其他工作尚在推进中"},
+  "S93": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, line 7560)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "公司相关子公司所从事的非金属矿山采掘活动属于露天开采"},
+  "S94": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, line 687)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "主要是本期末下属矿产公司确认长期治理成本"},
+  "S95": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8275-8276)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "鸡西长源矿业有...鸡西...16,000.00...80"},
+  "S96": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8265-8267)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "鸡西市贝特瑞新...能源科技有限公...鸡西...20,000.00"},
+  "S97": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 3565-3566)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "在天然石墨负极材料领域，公司已经形成了集矿山开采、天然鳞片石墨加工与球形化、纯化及成品生产于一体的全产业链布局"},
+  "S98": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8260-8262)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "天津市贝特瑞新...能源科技有限公...天津...40,000.00"},
+  "S99": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8270-8272)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "惠州市贝特瑞新...材料科技有限公...惠州...80,000.00"},
+  "S100": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8298-8300)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "贝特瑞（江苏）...新能源材料有限公...常州...70,000.00"},
+  "S101": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "publisher": "BTR New Material 2025 annual report (local text team/evidence/filings/835185_2025.txt, lines 8361-8362)", "published": "2026-04-24", "accessed": "2026-11-27", "language": "zh", "quote": "云南贝特瑞新能...大理...38,000.00"}
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "putailai-sichuan-zichen-qionglai-china",
+   "fields": {
+    "asset_name": "Sichuan Zichen Qionglai anode integrated base (28 万吨, 3 phases)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "feedstock": "petroleum coke / needle coke", "operator": "Sichuan Zichen Technology (四川紫宸科技)", "parent_company": "Putailai (Shanghai Putailai New Energy Technology Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 280000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-06"
+   },
+   "evidence": {"status": ["S4", "S5"], "capacity": ["S4"]},
+   "confidence": 0.7,
+   "notes": "Annual-report text (lines 1366-1367): 28 万吨 integrated project in three phases: phase 1 10 万吨 partly in production, phase 2 10 万吨 to start 'in 2026 depending on demand', phase 3 8 万吨 progressed as demand dictates. Capacity = 280000 t = full plan; capacity_ref_year 2026 = publication year fallback (phase 3 undated; phase 2 conditional on 2026 demand). Installed (running) figure not disclosed for this site. Company capacity: 250,000 t anode at end-2025 (S1, line 659-660); company shipments 143,000 t (S2) and production 151,178.99 t (S3, line 914) in 2025 are company-wide, not site level. Qionglai location from subsidiary register (S11, 邛崃). 2026 shipments target of 250,000 t+ (S5, line 1590-1591). Construction-in-progress balance for 四川紫宸建设项目 CNY 3.657bn, budget CNY 8.845bn, 53% (S12, line 6695 and 6729). A separate 5 万吨 anode project (funded by the 2020 placement, reached usable state 2024-12 per table line 3015) and a 5 万吨 graphitization project (2022) are listed in the raised-funds table without a stated site; the 2025-06-24 board minute (lines 2995-2997) links Sichuan Zichen to the 5 万吨 anode project but the text is ambiguous, so they are NOT added here; the 250 kt company total may include them. Malaysia: report says only that Putailai is 'exploring' a Malaysian anode capacity (line 1591) - no capacity, no row added."
+  },
+  {
+   "action": "add",
+   "id": "putailai-jiangxi-zichen-yichun-china",
+   "fields": {
+    "asset_name": "Jiangxi Zichen anode base (Yichun)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Jiangxi Zichen Technology (江西紫宸科技)", "parent_company": "Putailai (Shanghai Putailai New Energy Technology Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-06"
+   },
+   "evidence": {"status": ["S6", "S7"]},
+   "confidence": 0.6,
+   "notes": "Principal anode subsidiary: registered in Yichun (S7, line 8567), main business 负极材料, 2025 revenue CNY 4.252bn (S6, line 1432; the text row gives 425,227.28 万元). Plant-level capacity not disclosed; company total 250,000 t at end-2025 (S1). Other Putailai subsidiaries (Liyang Zichen, Jilin Zichen/Changchun 75%, Inner Mongolia Zichen Xingfeng/Zhuozi, Shandong Xingfeng/Dezhou) appear in the subsidiary list (lines 8580, 8608, 8617-8622) and construction-in-progress table (内蒙兴丰建设项目 92% of CNY 2.2bn budget, line 6739) but the report does not state their products or capacities, so no rows were added (gap)."
+  },
+  {
+   "action": "add",
+   "id": "putailai-anhui-zichen-wuhu-china",
+   "fields": {
+    "asset_name": "Anhui Zichen anode project (Wuhu)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Anhui Zichen Technology (安徽紫宸科技)", "parent_company": "Putailai (Shanghai Putailai New Energy Technology Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Anhui", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-06"
+   },
+   "evidence": {"status": ["S8", "S9", "S10"]},
+   "confidence": 0.5,
+   "notes": "Report names Anhui Zichen alongside Sichuan Zichen as an 'advanced capacity' build (S8, line 668); CIP balance 安徽紫宸建设项目 CNY 271.5m at year-end vs 77.8m at start (S9, line 6698); subsidiary registered in Wuhu (S10, line 8609). Capacity and timing not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "shangtai-shanxi-xiyang-phases-1-3-china",
+   "fields": {
+    "asset_name": "Shanxi Shangtai Xiyang base phases 1-3 (Jinzhong)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "feedstock": "petroleum coke / needle coke", "operator": "Shanxi Shangtai Lithium Technology (山西尚太锂电科技)", "parent_company": "Shangtai Technology (Shijiazhuang Shangtai Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Shanxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": 200000, "installed_as_of": "2025-12-31",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S20"], "capacity": ["S22", "S20"], "installed_capacity": ["S22", "S20"]},
+   "confidence": 0.6,
+   "notes": "Capacity is DERIVED by summing the three phase names in the report glossary (S22, lines 237-245): phase 1 3 万吨 integrated + phase 2 5 万吨 integrated + phase 3 12 万吨 graphitization = 20 万吨. Phase 3 is described as a graphitization project (the anode finishing for it sits at the Beisu HQ site in Hebei, line 229-231), so the 200 kt is the Shanxi-site nameplate by project names, not an explicit 'Shanxi = 20 万吨' statement. Cross-check: S20 says phases 1-3 run stably and, with Beisu phase 2 (10 万吨), the company formed 'over 30 万吨' stable capacity in 2025 - 200 kt + 100 kt is consistent. Phases 1-3 are at Xiyang, Jinzhong (location of phase 3 per glossary '山西晋中昔阳'). Beisu phase 1 / HQ capacity at Wuji is not quantified separately. Company totals: production 349,056.70 t in 2025 (S26, line 1385, includes outsourced graphitization-processed volume), sales 343,494.57 t (line 1383; text line 936 says 34.35 万吨, S27); capacity >300,000 t (S20); target >700,000 t within two years (S21)."
+  },
+  {
+   "action": "add",
+   "id": "shangtai-shanxi-xiyang-phase-4-china",
+   "fields": {
+    "asset_name": "Shanxi Shangtai phase 4 (Lijiazhuang, Xiyang) 20 万吨 integrated",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shanxi Shangtai Lithium Technology (山西尚太锂电科技)", "parent_company": "Shangtai Technology (Shijiazhuang Shangtai Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Shanxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S28", "S21"], "capacity": ["S29"]},
+   "confidence": 0.5,
+   "notes": "Location Lijiazhuang township, Xiyang County (S29, glossary lines 246-248). Report says the project is being implemented/built ('正在实施...建设', S28; 'being advanced in an orderly way', S21) and that phases 4 and 5 together add 40 万吨 (S34), but gives no completion year; no separate year-end CIP line is visible (only 'other projects' CNY 145m, line 12549). Capacity ref year 2026 = publication-year fallback. Funded by the 2026-01 convertible bond (募投 project 年产 20 万吨锂电池负极材料一体化项目, CNY 1.72bn, lines 7709-7722). Status under_construction is therefore at 0.5 confidence (physical works not itemised)."
+  },
+  {
+   "action": "add",
+   "id": "shangtai-shanxi-transformation-zone-phase-5-china",
+   "fields": {
+    "asset_name": "Shanxi Shangtai phase 5 (Shanxi Transformation Demonstration Zone) 20 万吨",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shangtai Lithium Technology (Taiyuan) (尚太锂电科技（太原）)", "parent_company": "Shangtai Technology (Shijiazhuang Shangtai Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Shanxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S34", "S33"], "capacity": ["S30"]},
+   "confidence": 0.5,
+   "notes": "Planned ('规划') project in the Shanxi Transformation and Comprehensive Reform Demonstration Zone (S30, S34); an operating company was newly set up in 2025 (S33, line 1438-1439). No construction start or completion date stated. Capacity ref year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "shangtai-beisu-phase-2-wuji-china",
+   "fields": {
+    "asset_name": "Shangtai Beisu phase 2 (Wuji, Hebei) 10 万吨 integrated",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shijiazhuang Shangtai Technology (石家庄尚太科技)", "parent_company": "Shangtai Technology (Shijiazhuang Shangtai Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Hebei", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 100000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": 100000, "installed_as_of": "2025-03-31",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S24", "S25"], "capacity": ["S23", "S25"], "installed_capacity": ["S25", "S24"]},
+   "confidence": 0.75,
+   "notes": "'北苏二期' = 年产 10 万吨锂离子电池负极材料一体化项目 at Beisu town, Wuji County, Shijiazhuang (S23). Construction began 2024, reached full production in Q1 2025, adding 10 万吨 (S25; S24 'all process capacities progressively reached design output'); S20 says it is at full output with utilisation >=100%. start_year 2025 = year design capacity was reached; first-production year may be late 2024 (not stated). The Beisu HQ site (北苏总部, phase 1, supports Shanxi phase 3, lines 229-231) is not quantified; not added as a separate row. Construction-in-progress 北苏总部二期项目 balance CNY 45.2m remains at year-end (line 12541-12542, budget CNY 1.9bn, 56.39% progress)."
+  },
+  {
+   "action": "add",
+   "id": "shangtai-kedah-malaysia",
+   "fields": {
+    "asset_name": "Shangtai Malaysia (Kedah) 5 万吨 anode project",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shangtai Technology (Malaysia) Sdn. Bhd.", "parent_company": "Shangtai Technology (Shijiazhuang Shangtai Technology)",
+    "jv_partners": null, "country": "Malaysia", "region": "Southeast Asia", "province_state": "Kedah", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 50000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["S32", "S28"], "capacity": ["S31", "S21"]},
+   "confidence": 0.65,
+   "notes": "Located in Kedah state (S31, glossary lines 252-254). Construction in progress: CIP CNY 101.6m, 9.32% of CNY 1.09bn budget (S32; budget cells split over lines 12584-12585 so not quoted). Report says overseas base build 'in orderly progress' and 'Malaysia 5 万吨 project being implemented' (S21, S28). No completion date. Capacity ref year 2026 = publication-year fallback. Subsidiary is wholly owned (lines 14190-14198). Company also has a >500 t/yr silicon-carbon base (line 1230) whose location is not stated - no row."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-hunan-xingcheng-ningxiang-china",
+   "fields": {
+    "asset_name": "Hunan Zhongke Xingcheng Graphite (Ningxiang, Changsha)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Hunan Zhongke Xingcheng Graphite (湖南中科星城石墨)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Hunan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S49", "S56"]},
+   "confidence": 0.6,
+   "notes": "Founding anode subsidiary (anode R&D/production 20+ years, S49; 2025 revenue CNY 6.388bn per table row, S56, line 1563 - a company-level subsidiary figure that probably consolidates the Guizhou/Yunnan subsidiaries). Registered in Ningxiang (S48, line 1592). Site capacity not disclosed. Company totals (Zhongke Electric): effective capacity 348,683.33 t (sum of monthly effective capacity; S57), capacity under construction 85,000 t, utilisation 108.54%, production 378,468.57 t, sales 363,253.12 t (lines 631-636, 650-651); anode shipments 36.35 万吨 (S41, line 396). Raised-funds table (lines 3753-3774, garbled) lists a 5 万吨 anode base (usable 2022-12) and a 3 万吨 anode + 4.5 万吨 graphitization project at Hunan Xingcheng; CIP line '湖南中科星城5万吨生产线及其他配套设施' 94.27% - not quoted because the table columns are interleaved."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-yunnan-xingcheng-qujing-china",
+   "fields": {
+    "asset_name": "Yunnan Zhongke Xingcheng Graphite (Qujing) integrated project",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Yunnan Zhongke Xingcheng Graphite (云南中科星城石墨)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": "Hunan Zhongke Xingcheng Holding 60% (remaining holders not stated)", "country": "China", "region": "China", "province_state": "Yunnan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S50", "S46", "S47"]},
+   "confidence": 0.55,
+   "notes": "Registered at Qujing, Qilin district (S52, line 1662). 2025 revenue CNY 935m (S50, line 1579) on total assets CNY 2.4bn; phase 1 in operation and phase 2 ('云南中科星城负极材料一体化项目二期') to be advanced in 2026 (S47, S46) - phase-2 size not disclosed, so no capacity. CIP at year-end: factory CNY 98.3m, graphitization equipment CNY 130.3m, anode equipment CNY 80.3m (lines 7759-7767). The 85,000 t company 'capacity under construction' (S40) is not attributed to a site in the text."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-guian-xingcheng-guizhou-china",
+   "fields": {
+    "asset_name": "Guian New Area Zhongke Xingcheng Graphite (Guizhou) integrated project",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Guian New Area Zhongke Xingcheng Graphite (贵安新区中科星城石墨)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": "Hunan Zhongke Xingcheng Holding 65% (remaining holders not stated)", "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S51", "S46"]},
+   "confidence": 0.55,
+   "notes": "Registered at Hu Chao township, Guian New Area (S53, line 1685). 2025 revenue CNY 4.970bn (S51, lines 1568-1571; the largest of Zhongke's three listed anode subsidiaries) and the report says the integrated project is being 'advanced' (S46). Site capacity not disclosed. CIP: anode equipment CNY 55.7m, graphitization equipment 0.47m, plant 0.68m (lines 7733-7741)."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-guizhou-xingcheng-tongren-china",
+   "fields": {
+    "asset_name": "Guizhou Zhongke Xingcheng Graphite (Tongren Dalong graphitization/anode)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Guizhou Zhongke Xingcheng Graphite (贵州中科星城石墨)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S54"]},
+   "confidence": 0.4,
+   "notes": "Existence and location only: 100%-owned subsidiary registered in Dalong Economic Development Zone, Tongren, business scope graphitization processing and anode materials (S54, lines 1614-1618). The 2025 report does not state its output, capacity or revenue; status 'operational' is INFERRED from its scope and from CIP lines for equipment (anode equipment CNY 5.2m, graphitization equipment 0.56m, lines 7724-7732) - treat as low confidence. Guian New Area Xingcheng rents warehouse space at the same Tongren park (lines 3307-3308)."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-oman-sohar-oman",
+   "fields": {
+    "asset_name": "Zhongke Xingcheng Sohar (Oman) 20 万吨 anode integrated base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Zhongke Xingcheng Sohar New Materials (Free Zone) LLC (中科星城苏哈尔新材料科技（自贸区）有限责任公司)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null, "country": "Oman", "region": "Middle East", "province_state": "Sohar free zone (inferred from subsidiary name)", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": 2025, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S42", "S43"], "capacity": ["S42"]},
+   "confidence": 0.6,
+   "notes": "Approved by the board 2025-06-04 and shareholders 2025-06-20; total investment up to CNY 8bn; two 10 万吨/yr parts, each ~36 months build, staged to market demand (S42). Operating company set up 2025-05-29 in Oman (S43, lines 701-702). CIP table row for '中科星城苏哈尔年产5万吨负极材料一体化项目（一期）' (lines 8029-8046, interleaved columns, not quotable) shows ~0.79% of budget CNY 852.47m (approx., digits split across lines) spent - i.e. site works barely started, so status kept 'announced'. Capacity ref year 2026 is the publication-year fallback; with a 36-month build the first part cannot be earlier than ~2028 (inference, not stated). Company plans to 'advance' Oman construction in 2026 (S46 neighbour sentence, line 1972)."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-luzhou-sichuan-china",
+   "fields": {
+    "asset_name": "Zhongke Luzhou (Sichuan) 30 万吨 anode integrated project",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Sichuan Zhongke Xingcheng Graphite (四川中科星城石墨)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": 2025, "start_year": null,
+    "capacity": 300000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S45", "S47"], "capacity": ["S45"]},
+   "confidence": 0.55,
+   "notes": "Investment agreement with Luzhou (Changjiang) Economic Development Zone approved by board 2025-12-16 and shareholders 2026-01-05: 30 万吨 integrated anode project, CNY 7bn, phase 1 20 万吨 (CNY 4.7bn), phase 2 10 万吨 (CNY 2.3bn) (S45). Company says it will 'steadily advance' Luzhou construction in 2026 (S47). Operating entity assumed to be Sichuan Zhongke Xingcheng (registered in Luzhou, line 1705) - the report does not explicitly name the project company. An earlier Sichuan Zhongke Xingcheng site-building CIP (CNY 11.6m, fully impaired in 2025, lines 7768-7772, 8061-8063) is a prior project; no capacity."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-morocco-morocco",
+   "fields": {
+    "asset_name": "Zhongke Morocco 10 万吨 anode integrated base (deferred)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Zhongke Electric (Hunan Zhongke Electric) (project company not named)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null, "country": "Morocco", "region": "Africa", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "paused", "announced_year": null, "start_year": null,
+    "capacity": 100000, "capacity_unit": "t anode", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S44"], "capacity": ["S44"]},
+   "confidence": 0.55,
+   "notes": "Previously board-approved '摩洛哥年产 10 万吨锂离子电池负极材料一体化基地项目' put on a 'delayed construction' footing so that the Oman project can proceed (S44, lines 3983-3984). Original approval date, location in Morocco and timeline are not in this report (gap). capacity_ref_year left null (no date)."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-haida-anqing-china",
+   "fields": {
+    "asset_name": "Anhui Haida Wangjiang (Anqing) 10 万吨 anode powder base (cancelled)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "feedstock": "anode powder (粉体)", "operator": "Anhui Haida New Materials (安徽海达新材料)", "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": "Hunan Zhongke Xingcheng Technology 51.0044% (other holders not stated)", "country": "China", "region": "China", "province_state": "Anhui", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "cancelled", "announced_year": 2022, "start_year": null,
+    "capacity": 100000, "capacity_unit": "t anode", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"
+   },
+   "evidence": {"status": ["S55"], "capacity": ["S55"]},
+   "confidence": 0.6,
+   "notes": "Investment made in August 2022 (lines 4021-4022); construction delayed after Q4-2022 demand slowdown and the 51%-owned subsidiary is now proposed to be dissolved and liquidated (S55, lines 4024-4026); the CIP item '安徽海达10万吨负极材料粉体生产项目' (CNY 25.8m) was fully impaired and removed (lines 7773-7774, 8058-8060). Registered at Wangjiang County, Anqing (line 1757). Classified cancelled (active=false for aggregates) at 0.6 confidence because dissolution is 'proposed' ('拟')."
+  },
+  {
+   "action": "add",
+   "id": "xiangfenghua-fujian-yongan-china",
+   "fields": {
+    "asset_name": "Xiangfenghua Fujian base (Yong'an, Gongchuan)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Fujian Xiangfenghua New Energy Materials (福建翔丰华新能源材料)", "parent_company": "Xiangfenghua (Shanghai Xiangfenghua Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "source_date": "2026-11-27", "source_published_date": "2026-06-26"
+   },
+   "evidence": {"status": ["S62"]},
+   "confidence": 0.6,
+   "notes": "Production and operating base, Gongchuan graphite and graphene industrial park, Yong'an, 535 mu (S62, line 1833); subsidiary 2025 revenue CNY 1.628bn (line 1738). Company totals (Xiangfenghua): capacity 114,660 t, capacity under construction 60,000 t, utilisation 72.76%, production 83,426 t (S60, line 932; production S61, line 941, 2024: 75,113 t); sales 83,885 t (line 940). The report does not split the 114,660 t between Fujian and Sichuan (Sichuan 'production base' exists but only the 6 万吨 project is described), so no site allocation. A 3 万吨 high-end anode project (2022 IPO funds) was usable from 2023-01-31 (table line 5511-5513, site not stated). Report is the 2025 annual report published 2026-06-26 per SOURCE URL path (late vs other filers; confirm if an earlier version exists)."
+  },
+  {
+   "action": "add",
+   "id": "xiangfenghua-sichuan-pengxi-china",
+   "fields": {
+    "asset_name": "Sichuan Xiangfenghua Pengxi (Suining) 6 万吨 anode integrated base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Sichuan Xiangfenghua New Energy Materials (四川翔丰华新能源材料)", "parent_company": "Xiangfenghua (Shanghai Xiangfenghua Technology)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": 2023, "start_year": null,
+    "capacity": 60000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF", "source_date": "2026-11-27", "source_published_date": "2026-06-26"
+   },
+   "evidence": {"status": ["S63", "S64"], "capacity": ["S63", "S60"]},
+   "confidence": 0.75,
+   "notes": "6 万吨 artificial graphite anode integrated production base at Jinqiao town, Pengxi County, Suining; convertible-bond project approved 2023-10-26, 68.26% of CNY 525m invested, ready-for-use date delayed from 2025-12 to 2026-12 because land delivery was late (S64; table lines 5521-5528, 5553-5556). Matches the 60,000 t company 'capacity under construction' (S60, line 932) - the report does not state that link explicitly. The Sichuan subsidiary is also described as a production base with production functions (S63); any existing capacity there is not quantified."
+  },
+  {
+   "action": "add",
+   "id": "btr-indonesia-anode-indonesia",
+   "fields": {
+    "asset_name": "BTR Indonesia 16 万吨 anode integrated base (phases 1+2)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "BTR New Energy Materials Indonesia (印尼贝特瑞新能源材料有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": "BTR group 60% (minority 40% holder(s) not named in the report)", "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 160000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": 160000, "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {"2025": 160000},
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S76", "S71"], "capacity": ["S72", "S77", "S76"], "installed_capacity": ["S72", "S77"], "capacity_by_year_json": ["S72", "S77"]},
+   "confidence": 0.85,
+   "notes": "Overseas anode capacity 160,000 t/yr = whole Indonesian base (S72; second source China Baoan: Indonesia 'phase 2' 8 万吨 commissioned in 2025, base total 16 万吨, S77; BTR line 522-523 S71). Project '印尼贝特瑞年产16万吨新能源锂电池负极材料一体化项目' CNY 4.63bn budget, 96.92% progress, 'completed and put into production' (S76; CIP of CNY 2.875bn transferred to fixed assets in 2025). Phase 1 date not given in the 2025 report, so capacity_by_year has only the end-2025 total. BTR owns 60% (S78, pledge note; minority 40%, lines 8487-8488). Location: industrial park in the Kaliwungu area (flood relief note, lines 1499-1500) - province not stated, none recorded. Company totals (BTR): installed anode capacity 782,500 t/yr at end-2025 (S70, lines 519-521; domestic 622,500 t; overseas 160,000 t, S72); weighted-average capacity 634,166.67 t, production 594,843.72 t, utilisation 93.80%, capacity under construction 157,500 t (S73, line 3597; weighting formula S75); sales 601,703.69 t (S74, line 3586)."
+  },
+  {
+   "action": "add",
+   "id": "btr-morocco-anode-morocco",
+   "fields": {
+    "asset_name": "BTR Morocco (Mediterranean) 6 万吨 anode integrated project",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "BTR Mediterranean Anode New Materials (贝特瑞地中海负极新材料科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "Morocco", "region": "Africa", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": 2024, "start_year": null,
+    "capacity": 60000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "offtakers": "Ford (supply and prepayment agreement per China Baoan note)",
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S79", "S80"], "capacity": ["S80", "S72"]},
+   "confidence": 0.75,
+   "notes": "Board approval 2024-08-13 (line 9192); investment up to CNY 2.618bn (S80). Year-end: land levelled, plant building under way, CNY 274.5m spent = 13.37% of CNY 2.05bn budget (S79; table lines 7006-7009, 7046-7048). A supply/prepayment agreement with Ford-related entities for artificial graphite exists; Ford prepayments of CNY 819m at year-end (China Baoan note, S81, lines 10234-10238) - offtaker inferred as Ford; volume not stated. Staff donation to Tangier elderly association (BTR line 1502) indicates the site is in the Tangier area (not stated as the plant location, so no province recorded). Capacity ref year 2026 = publication-year fallback (no completion date). The separate 5 万吨 Morocco cathode project is out of scope."
+  },
+  {
+   "action": "add",
+   "id": "btr-dali-xiangyun-anode-china",
+   "fields": {
+    "asset_name": "BTR Yunnan (Dali, Xiangyun) 20 万吨 anode integrated base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Yunnan BTR New Energy Materials (云南贝特瑞新能源材料有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Yunnan", "latitude": null, "longitude": null, "geo_precision": "town",
+    "status": "operational", "project_state": "active", "announced_year": 2022, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S82", "S101"], "capacity": ["S82"]},
+   "confidence": 0.65,
+   "notes": "Project agreement 2022-01-24 with Dali Prefecture / Xiangyun County government: 20 万吨 anode integrated base in Xiangyun economic development zone, three phases, phase 1 budget CNY 2.392bn; the graphitization line of the project has been built and put into production (S82). Subsidiary registered in Dali (S101). Phase-1 anode capacity and dates not disclosed (CIP for phase 1 only CNY 7.3m left, lines 6899-6900, 6964-6966). capacity 200000 = full three-phase plan; ref year 2026 = publication-year fallback; installed not disclosed. Latitude/longitude not provided; geo_precision 'town' refers to Xiangyun from the filing text."
+  },
+  {
+   "action": "add",
+   "id": "btr-changzhi-ruijun-anode-china",
+   "fields": {
+    "asset_name": "BTR Shanxi Ruijun (Changzhi) 10 万吨 artificial graphite anode integrated line (phase 1)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shanxi Ruijun New Materials (山西瑞君新材料科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": "BTR group 51% (other holders not named)", "country": "China", "region": "China", "province_state": "Shanxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 100000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S83", "S84"], "capacity": ["S83"]},
+   "confidence": 0.6,
+   "notes": "Project '山西瑞君年产10万吨人造石墨负极材料一体化生产线项目（一期）', budget CNY 1.84bn, 55.55% invested; plant completed and in use, some graphitization lines in use, remaining graphitization being installed (S83). Registered in Changzhi, 51% BTR (S84, line 8346-8347; minority 49% not named). Capacity 100000 = project name (full plan; phase-1 share not stated); ref year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "btr-binzhou-ruiyang-anode-china",
+   "fields": {
+    "asset_name": "BTR Shandong Ruiyang (Binzhou) 4 万吨 artificial graphite anode integrated line (phase 1)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Shandong Ruiyang New Energy Technology (山东瑞阳新能源科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": "BTR group 55% (other holders not named)", "country": "China", "region": "China", "province_state": "Shandong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 40000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S86", "S85"], "capacity": ["S85"]},
+   "confidence": 0.5,
+   "notes": "Project '山东瑞阳年产4万吨人造石墨负极一体化产线（一期）' with CNY 2.1m residual CIP after CNY 2.7m transferred to fixed assets in 2025 (S85); BTR lists Shandong among domestic anode bases that added capacity in 2025 by technical upgrades (S86). Subsidiary registered in Binzhou, BTR holds 55% (lines 8340-8341). A separate 6 万吨 needle-coke line (一期) at the same subsidiary is a feedstock project (CIP CNY 0.2m, line 6916) - not anode, not included. Status 'operational' rests on S86 listing; capacity is the project-name figure (phase split not stated); confidence 0.5."
+  },
+  {
+   "action": "add",
+   "id": "btr-yibin-sichuan-anode-china",
+   "fields": {
+    "asset_name": "BTR Sichuan (Yibin, Pingshan) 5 万吨 anode project (phase 1)",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "BTR (Sichuan) New Material Technology (贝特瑞(四川)新材料科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 50000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S86", "S87"], "capacity": ["S87"]},
+   "confidence": 0.45,
+   "notes": "CIP item '四川新材料年产5万吨锂离子电池负极材料及综合配套项目（一期）' (CNY 3.7m residual, CNY 25.5m transferred to fixed assets in 2025; S87). Linking '四川新材料' to BTR (Sichuan) New Material (Yibin; Pingshan county community support, S88; subsidiary registered in Yibin, 83.33% held, lines 8328-8330) is an inference from names. Sichuan is among bases that added capacity in 2025 (S86). Capacity 50000 = project name; phase split not stated; status inferred; confidence 0.45. A separate Yibin entity 'Sichuan BTR New Energy Materials' (CNY 400m, set up 2025, lines 8420-8422) has no disclosed project."
+  },
+  {
+   "action": "add",
+   "id": "btr-yaan-ruian-anode-china",
+   "fields": {
+    "asset_name": "BTR Sichuan Ruian (Ya'an) 5 万吨 anode precursor and finished-product line",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "feedstock": "anode precursor", "operator": "Sichuan Ruian New Materials (四川瑞鞍新材料科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": "BTR group 51% (other holders not named)", "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 50000, "capacity_unit": "t anode", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S89", "S86"], "capacity": ["S89"]},
+   "confidence": 0.45,
+   "notes": "CIP '四川瑞鞍年产5万吨锂电池负极材料前驱体和成品线项目' reduced to nil in 2025: CNY 13.7m transferred to fixed assets and CNY 2.9m to intangibles (S89, lines 6982-6984) - interpreted as completed; start_year 2025 is therefore inferred, not stated. Subsidiary registered in Ya'an, BTR 51% (S90). No output or utilisation disclosed; 'anode' unit used although the line is described as precursor + finished product. Confidence 0.45."
+  },
+  {
+   "action": "add",
+   "id": "btr-guangming-silicon-anode-china",
+   "fields": {
+    "asset_name": "BTR Guangming (Shenzhen) 4 万吨 silicon-based anode project",
+    "step": "anode", "commodity": "anode", "product": "silicon-carbon anode", "asset_type": "anode plant",
+    "operator": "BTR New Material Group (贝特瑞新材料集团)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 40000, "capacity_unit": "t anode", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S91", "S71"], "capacity": ["S91"]},
+   "confidence": 0.5,
+   "notes": "CIP '光明年产4万吨硅基负极材料项目': budget CNY 2.137bn, 41.14% invested, plant completed, some lines in production, CNY 621.7m transferred to fixed assets in 2025 (S91, lines 7024-7025, 6942-6944). Separately BTR says 7,500 t of Shenzhen silicon-based capacity was commissioned in 2025 (S71). The filing does not explicitly state that the 7,500 t sits in this project (both Shenzhen) - installed capacity left null for that reason. Guangming is a Shenzhen district (Guangdong). Capacity 40000 = project name; ref year 2026 = publication-year fallback. Hard carbon: BTR reports only 'hundred-tonne-scale' sodium-ion hard-carbon shipments (lines 552-553), no plant data."
+  },
+  {
+   "action": "add",
+   "id": "btr-jixi-natural-graphite-anode-china",
+   "fields": {
+    "asset_name": "BTR Jixi (Mashan, Heilongjiang) natural graphite anode / spherical graphite base",
+    "step": "anode", "commodity": "anode", "product": "natural graphite anode", "asset_type": "anode plant",
+    "feedstock": "flake graphite", "operator": "Jixi BTR New Energy Technology (鸡西市贝特瑞新能源科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Heilongjiang", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S96", "S97"]},
+   "confidence": 0.5,
+   "notes": "Wholly-owned graphite-products manufacturer in Jixi (S96); report describes a full natural-graphite chain 'mine -> flake processing and spheronising -> purification -> finished product' (S97). The report does not say which entity does which step nor capacity/output; the north-east base is listed among domestic bases (line 494-495). Mashan district per community-visit note (line 1495). Spherical-graphite step may also sit here (not separately stated), so no separate refining row."
+  },
+  {
+   "action": "add",
+   "id": "btr-tianjin-anode-china",
+   "fields": {
+    "asset_name": "BTR Tianjin anode base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Tianjin BTR New Energy Technology (天津市贝特瑞新能源科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Tianjin", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S86", "S98"]},
+   "confidence": 0.5,
+   "notes": "Tianjin is named among domestic anode bases that added capacity by upgrades in 2025 (S86); subsidiary registered in Tianjin, CNY 400m (S98). Two Tianjin subsidiaries exist (also 天津市贝特瑞新能源材料有限责任公司, CNY 13.5m, lines 8255-8258); which operates the base is not stated. Site capacity not disclosed (company totals under btr-indonesia-anode-indonesia)."
+  },
+  {
+   "action": "add",
+   "id": "btr-huizhou-anode-china",
+   "fields": {
+    "asset_name": "BTR Huizhou anode base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "Huizhou BTR New Materials Technology (惠州市贝特瑞新材料科技有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S86", "S99"]},
+   "confidence": 0.5,
+   "notes": "Huizhou is named among domestic anode bases that added capacity by upgrades in 2025 (S86); wholly-owned subsidiary registered in Huizhou, CNY 800m, business 石墨制品加工 (S99). The 4 万吨 Huizhou anode expansion civil-works CIP was closed out in 2025 (lines 6894, 6945-6947, balance 0). Site capacity not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "btr-jiangsu-anode-china",
+   "fields": {
+    "asset_name": "BTR Jiangsu anode base",
+    "step": "anode", "commodity": "anode", "product": "synthetic graphite anode", "asset_type": "anode plant",
+    "operator": "BTR (Jiangsu) New Energy Materials (贝特瑞（江苏）新能源材料有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Jiangsu", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S86"]},
+   "confidence": 0.4,
+   "notes": "Jiangsu is named among domestic anode bases that added capacity by upgrades in 2025 (S86). Which Jiangsu entity/site is the anode base is NOT stated: BTR has several Changzhou-registered subsidiaries (e.g. S100: BTR (Jiangsu) New Energy Materials, Changzhou, CNY 700m; the Changzhou BTR 5 万吨 high-nickel cathode project is a different asset). Operator shown is the likeliest by name - low confidence; city not recorded."
+  },
+  {
+   "action": "add",
+   "id": "btr-jixi-changyuan-mine-china",
+   "fields": {
+    "asset_name": "Jixi Changyuan Mining graphite mine (Heilongjiang)",
+    "step": "mining", "commodity": "graphite", "product": "natural flake graphite", "asset_type": "open-pit mine",
+    "feedstock": "graphite ore", "operator": "Jixi Changyuan Mining (鸡西长源矿业有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": "BTR group 80% (other holders not named)", "country": "China", "region": "China", "province_state": "Heilongjiang", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t graphite", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S93", "S94", "S95"]},
+   "confidence": 0.45,
+   "notes": "BTR states that its subsidiaries' non-metal mining is open-pit and provisions CNY 37.0m for land reclamation and mine closure (S93, lines 7556-7563), with the increase due to 'the mining subsidiary' (S94, line 687). 80%-owned Changyuan (registered in Jixi, CNY 160m, S95) is the only named mining company with a CIP item (厂区工程). The filing does not name which subsidiary holds the producing licence (a second subsidiary 鸡西市贝特瑞矿产资源有限公司, 'mineral resources exploitation', is also registered, lines 8306-8308), nor ore/concentrate output or reserves - gaps. China Baoan 2025 report (parent) has no mine details; its text contains no Tanzania or Mozambique graphite-mine references (searched 石墨矿/坦桑/莫桑)."
+  },
+  {
+   "action": "add",
+   "id": "btr-zhanqian-graphite-mine-china",
+   "fields": {
+    "asset_name": "Zhanqian graphite mine and deep-processing project (Jixi)",
+    "step": "mining", "commodity": "graphite", "product": "natural flake graphite", "asset_type": "open-pit mine (exploration stage)",
+    "feedstock": "graphite ore", "operator": "Jixi Changyuan Mining (鸡西长源矿业有限公司)", "parent_company": "BTR New Material Group (controlled by China Baoan Group)",
+    "jv_partners": null, "country": "China", "region": "China", "province_state": "Heilongjiang", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": 2019, "start_year": null,
+    "capacity": null, "capacity_unit": "t graphite", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-24/1225197178.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-24"
+   },
+   "evidence": {"status": ["S92"]},
+   "confidence": 0.5,
+   "notes": "Board decision 2019-01-14 (lines 9169-9175): consortium Changyuan + Jixi BTR to invest in the Zhanqian graphite deposit (detailed-exploration right, price CNY 29.98m) plus deep processing; mine + processing investment CNY 732.5m. At end-2025 only the exploration licence is held and 'other work still progressing' (S92); CIP '站前石墨矿勘探工程' CNY 10.9m unchanged (lines 6902, 6967). No capacity or timetable stated; kept as 'announced' (development plan with an investment figure)."
+  }
+ ]
+}
