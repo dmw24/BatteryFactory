@@ -112,3 +112,9 @@ is never plan-filled. A later reported v1 point may raise C (never A). B = A, el
 nameplate fill (B now ≈ C; D-high is the upper bound). D's full-plan credit is withheld while a later confirmed installed
 anchor is below the plan. Pipeline = target above C, 0 for inactive projects. Company maps carry valid_to (CALB
 Luoyang 2021); unallocated subtracts paused rows too. Effect 2025: A 1,197 · C 3,342 · D 3,442 · D-high 4,332 · F 3,496.
+
+## D-036 — Owner accepts G4 as a documented limit (owner 2026-11-27)
+Owner: "accept g4". The 119 active plants ≥10 GWh below 0.6 confidence stay as they are, each with its reason/ESCALATE
+in research_notes; G4 is closed by owner waiver, not by changing confidences. Network (T088): owner allowed the hosts;
+from this session dart.fss.or.kr and jintan.gov.cn now respond (200); nrel.gov still refused by the proxy (may need a
+new session); iea.org and meti.go.jp return 403 from the sites themselves (bot blocking — not bypassed).

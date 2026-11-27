@@ -75,3 +75,5 @@ PDFs as bytes and failed on curly quotes; T031 chemistry mapper turned "LFP and 
 
 **Still open (owner):** G4 acceptance; pending decisions (team/OWNER_DECISIONS.md); licence; network allowlist for
 nrel.gov, iea.org, meti.go.jp, dart.fss.or.kr, jintan.gov.cn (T088, blocked).
+
+**Owner sign-offs (2026-11-27):** G4 accepted as a documented limit (D-036); network hosts allowed (DART and jintan.gov.cn now reachable).
