@@ -4319,6 +4319,34 @@
    "attempts": 1,
    "assumptions": [],
    "audit": {}
+  },
+  {
+   "id": "SC140",
+   "title": "De-duplication and phase-row QA",
+   "workstream": "SC. Supply chain — QA",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SCY_dedupe.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "low",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "1 dup removed, 1 phase merge; part_of added for 10 project rows; East Taijinaier placeholder removed"
+   }
   }
  ]
 }

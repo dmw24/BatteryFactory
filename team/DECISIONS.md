@@ -156,3 +156,7 @@ as upper bounds for cathode/anode.
 ## D-106 (2026-11-27, lead) Patch application order
 sc_build applies every patch's `add` rows first, then update/fix/remove rows in filename order, so task numbering
 does not constrain which task may update which asset.
+## D-107 (2026-11-27, lead) part_of for project rows
+Where a filing gives only a project's capacity at a site whose existing capacity is undisclosed, the project stays a
+separate row with `part_of = <site id>`; capacities may be summed (increment + undisclosed base) but maps/counts treat
+them as one site. Merging would invent a site total (SC140 finding).

@@ -1,0 +1,72 @@
+{
+ "task": "SCY_dedupe",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "N18": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF",
+   "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 1062)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "与韩国 Posco FM 签署 LFP 合资协议，启动韩国浦项 LFP 先进材料制造项目建设"
+  },
+  "S28": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF",
+   "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 2330-2333)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "当前公司正在实施的产能项目包括在山西省晋中市昔阳县建设年产 20 万吨锂离子电池负极材料一体化项目，在马来西亚建设年产 5 万吨锂电池负极材料项目，并在山西省综合改造示范区规划了年产 20 万吨负极材料的产能建设项目。"
+  },
+  "S29": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF",
+   "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 246-248)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "山西尚太位于山西晋中昔阳县李家庄...乡建设的年产 20 万吨锂电池负极材料...一体化项目"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "posco-future-m-pohang-lfp-south-korea",
+   "fields": {
+    "status": "under_construction"
+   },
+   "evidence": {
+    "status": [
+     "N18"
+    ]
+   },
+   "notes": "Duplicate merge (D-105/SC140): the same CNGR - POSCO Future M LFP JV plant in Pohang was entered a second time by SC105 as cngr-posco-fm-lfp-pohang-south-korea (removed). That row's only substantive evidence was CNGR's 2025 annual report (published 2026-03-31) saying the JV agreement with Posco FM was signed and construction of the Pohang LFP advanced-materials project was started (quote re-cited as status evidence, N18; end_market ESS is also that AR's stated target market, already ESS here). Status moved from announced (Dec 2025 board approval, reported tier) to under_construction on that later, confirmed-tier statement; capacity (50,000 t, reported) and start year 2027 are unchanged and still reported tier. The removed row carried no capacity, coordinates or timetable."
+  },
+  {
+   "action": "remove",
+   "id": "cngr-posco-fm-lfp-pohang-south-korea",
+   "reason": "Duplicate of posco-future-m-pohang-lfp-south-korea: same CNGR - POSCO Future M LFP cathode JV plant in Pohang (kept row names CNGR as JV partner via CNP New Material Technology JV; both rows have the same product, city and end market ESS). Kept the row with capacity and timetable; the removed row's status evidence was moved to the kept row."
+  },
+  {
+   "action": "update",
+   "id": "shangtai-shanxi-xiyang-phases-1-3-china",
+   "fields": {
+    "asset_name": "Shanxi Shangtai Xiyang base phases 1-4 (Jinzhong)",
+    "capacity": 400000,
+    "capacity_norm": 400000,
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S29",
+     "S28"
+    ]
+   },
+   "notes": "Phase merge (D-105/SC140): row shangtai-shanxi-xiyang-phase-4-china (SC110, removed) is phase 4 of this same Xiyang, Jinzhong base (Lijiazhuang township, Xiyang County), a 20 万吨 integrated anode project under construction at end-2025 with no stated completion year. Site capacity = phases 1-3 200,000 t (unchanged, SC110) + phase 4 200,000 t = 400,000 t/yr full site plan; capacity_ref_year 2026 is the publication-year fallback of phase 4 (no due date), so no dated step is added to capacity_by_year_json. Built and producing stays installed_capacity 200,000 t at 2025-12-31 (phase 4 not producing). Phase 5 (20 万吨, Shanxi Transformation Zone, shangtai-shanxi-transformation-zone-phase-5-china) is a different site and stays a separate announced row. Phase 4 had status under_construction, confidence 0.5 (physical works not itemised); the phase-4 capacity quote and the 'being implemented' quote are re-cited here as capacity evidence."
+  },
+  {
+   "action": "remove",
+   "id": "shangtai-shanxi-xiyang-phase-4-china",
+   "reason": "Phase 4 of the Xiyang base merged into shangtai-shanxi-xiyang-phases-1-3-china as +200,000 t of full site plan (D-105); no value lost: capacity and its evidence were re-cited on the kept row."
+  }
+ ]
+}

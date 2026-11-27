@@ -1,4 +1,106 @@
-{"task": "SCZ_lead", "verified_on": "2026-11-27", "sources": {}, "rows": [
- {"action": "fix", "id": "gem-morowali-pcam-indonesia", "fields": {}, "confidence": 0.5, "notes": "lead: installed_capacity rests on a search snippet only; confidence capped at 0.5 (S6)."},
- {"action": "fix", "id": "albemarle-kemerton-lithium-hydroxide-australia", "fields": {}, "confidence": 0.5, "notes": "lead: capacity rests on reported-tier evidence; confidence capped at 0.5 (S6)."}
-]}
+{
+ "task": "SCZ_lead",
+ "verified_on": "2026-11-27",
+ "sources": {},
+ "rows": [
+  {
+   "action": "fix",
+   "id": "gem-morowali-pcam-indonesia",
+   "fields": {},
+   "confidence": 0.5,
+   "notes": "lead: installed_capacity rests on a search snippet only; confidence capped at 0.5 (S6)."
+  },
+  {
+   "action": "fix",
+   "id": "albemarle-kemerton-lithium-hydroxide-australia",
+   "fields": {},
+   "confidence": 0.5,
+   "notes": "lead: capacity rests on reported-tier evidence; confidence capped at 0.5 (S6)."
+  },
+  {
+   "action": "fix",
+   "id": "xiamen-tungsten-new-energy-haijing-30kt-expansion-china",
+   "fields": {
+    "part_of": "xiamen-tungsten-new-energy-haijing-xiamen-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of xiamen-tungsten-new-energy-haijing-xiamen-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "xiamen-tungsten-new-energy-haijing-workshop-15kt-china",
+   "fields": {
+    "part_of": "xiamen-tungsten-new-energy-haijing-xiamen-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of xiamen-tungsten-new-energy-haijing-xiamen-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "xiamen-tungsten-new-energy-ningde-cd-workshop-china",
+   "fields": {
+    "part_of": "xiamen-tungsten-new-energy-ningde-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of xiamen-tungsten-new-energy-ningde-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-hubei-lithium-source-xiangyang-85kt-project-china",
+   "fields": {
+    "part_of": "longpan-hubei-lithium-source-xiangyang-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of longpan-hubei-lithium-source-xiangyang-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-shandong-lithium-source-heze-phase2-china",
+   "fields": {
+    "part_of": "longpan-shandong-lithium-source-heze-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of longpan-shandong-lithium-source-heze-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-jintan-high-compaction-lfp-china",
+   "fields": {
+    "part_of": "longpan-jiangsu-lithium-source-jintan-existing-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of longpan-jiangsu-lithium-source-jintan-existing-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-xiangtan-phase-vi-china",
+   "fields": {
+    "part_of": "hunan-yuneng-xiangtan-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of hunan-yuneng-xiangtan-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-huizhou-phase4-200kt-electrolyte-china",
+   "fields": {
+    "part_of": "capchem-huizhou-daya-bay-electrolyte-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of capchem-huizhou-daya-bay-electrolyte-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "zhenhua-new-material-yilong-phase3-china",
+   "fields": {
+    "part_of": "zhenhua-new-material-yilong-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of zhenhua-new-material-yilong-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-huarong-ningde-400kt-electrolyte-china",
+   "fields": {
+    "part_of": "ruitai-huarong-ningde-80kt-electrolyte-china"
+   },
+   "notes": "lead (D-105): project/phase row at the site of ruitai-huarong-ningde-80kt-electrolyte-china; its capacity is an increment on that site (site row has no capacity), so the two may be summed but are one physical site."
+  },
+  {
+   "action": "remove",
+   "id": "east-taijinaier-brine-lithium-china",
+   "reason": "duplicate of dongtai-lithium-resources-east-taijinaier-china (SC003 forum-sourced lake-level placeholder; SC120 filing names the operator); 20 kt figure was reported-tier only"
+  }
+ ]
+}

@@ -30,7 +30,7 @@ COLUMNS = [
     "capacity", "capacity_unit", "capacity_ref_year", "capacity_norm", "installed_capacity", "installed_as_of",
     "installed_norm", "capacity_by_year_json",
     "production", "production_unit", "production_year", "production_norm", "norm_unit", "production_norm_unit",
-    "reserves_resources", "feeds", "offtakers", "end_market",
+    "reserves_resources", "part_of", "feeds", "offtakers", "end_market",
     "source_url", "source_date", "source_published_date", "confidence", "research_notes",
     "last_verified", "verified_by_task", "reported_fields", "evidence_tier",
 ]
