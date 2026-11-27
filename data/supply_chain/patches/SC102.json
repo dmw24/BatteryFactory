@@ -2,70 +2,518 @@
  "task": "SC102",
  "verified_on": "2026-11-27",
  "sources": {
-  "Y1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 6220-6222)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "白市化山瓷石矿年采 900 万吨改扩 ... 建项目"},
-  "Y2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, line 1289)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "矿年采 900 万 ... 30,643,007.55 ... 17.00%"},
-  "Y3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 594-596)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司控股子公司花桥矿业拥有的化山矿矿权面积 1.8714 平方公里，采矿证范围内累计查明陶瓷土矿资源储量 49,225.21 万吨，其中，累计查明 Li2O≥0.20%陶瓷土矿矿石量 41,000.80 万吨"},
-  "Y4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 811-813)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "销售量 ... 25,051 ... 锂电新能源业务 ... 生产量 ... 24,823"},
-  "Y5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 1415-1416)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，碳酸锂价格同比下降，加之计提矿业权出让收益，致使永兴新能源营业收入、净利润同比下降。"},
-  "Y6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 435-441)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司碳酸锂业务已建成涵盖采矿、选矿、碳酸锂加工三大业务在内的新能源产业链，以 ... 自有矿山的锂瓷石为主要原料，经采、选、冶一体化流程生产电池级碳酸锂。"},
-  "Y7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF", "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 109 and 7266)", "published": "2026-04-28", "accessed": "2026-11-27", "language": "zh", "quote": "江西永兴特钢新能源科技有限公司 ... 永兴新能源 ... 江西省宜春市 ... 制造业 ... 100.00%"},
-  "T1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 684-686)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "公司在安赫莱斯 3 万吨碳酸锂当量盐湖提锂项目正式取得萨尔塔有关部门签发的“环境影响声明书”（DIA）"},
-  "T2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 1383-1384)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "继续推动安赫莱斯项目一期（1 万吨/年碳酸锂当量）产能建设。根据融资进度，加快推进锂资源的规模化开发。"},
-  "T3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 6593-6594)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "SDLA 项目，该项目系由子公司 PLASA 持有，位于阿根廷萨尔塔省，共有 39 个矿权，总面积达到 116.51 平方公里，目前已取得年产 3 万吨碳酸锂盐湖提锂建设项目环评批复。"},
-  "T4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 8688-8690)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "《阿根廷锂钾有限公司年产 5 万吨碳酸锂盐湖提锂建设项目之 2.5 万吨吸附段设备供货合同》，合同价值 65,000.00 万元人民币，由蓝晓科技供货的 1 万吨碳酸锂当量规模吸附设备已运达阿根廷萨尔塔市"},
-  "T5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 580-583)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "并于 2025 年 10 月正式提交申请 ... 基于技术方案优化、项目现场情况和整体资金安排尽快实现对锂资源的规模化开发。"},
-  "T6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 680-681)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "可满足公司安赫莱斯项目 3 ... 万吨、阿里扎罗项目 5—10 万吨碳酸锂当量锂盐产能要求。"},
-  "T7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 6595-6596)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "ARIZARO 项目，该项目系由子公司 TOSA 持有，位于阿根廷萨尔塔省，共持有 11 个矿权，总 ... 面积达到 365 平方公里。"},
-  "T8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF", "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 396-399 and 120-125)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "公司通过控股珠峰香港（持股 87.5%）全资控股两家在阿根廷的项目公司 ... 阿根廷托萨有限公司（Tortuga de Oro S.A.，）"},
-  "Z1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, line 526)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "电池级碳酸锂 ... 1 万吨 / 年 ... 88.08% ... 5 万吨 / 年"},
-  "Z2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, line 1778)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "在现有 ... 1 万吨 / 年的产能基础上，正在推进 ... 6000 吨 / 年扩能项目的立项申报。"},
-  "Z3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 47 and 1948)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "全年仍实现碳酸锂产量 8,808 吨，销量 8,957 吨 ... 碳酸锂制造业 ... 生产量 ... 8,808.00"},
-  "Z4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 539-541)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "藏格锂业于 2025 年 10 月 11 日正式复产 ... 累计时长 87 天"},
-  "Z5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 1845-1846)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "拟分两期建设年产 10 万吨碳酸锂产能， ... 首期规划年产 5 万吨碳酸锂。"},
-  "Z6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 1854-1856)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "项目已完成主体厂房封闭工作，目前处于 ... 设备安装阶段，按建设计划顺利推进 ... 预计 2026 年第三季度全面投产，全年碳酸锂产量预计 2 至 2.5 万吨，公司享有权益产量约 5000 至 6000 吨。"},
-  "Z7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF", "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 207 and 528)", "published": "2026-03-14", "accessed": "2026-11-27", "language": "zh", "quote": "西藏阿里麻米措矿业开发有限公司，为藏格矿业间接持股公司 ... 藏青基金持有麻米措矿业股权 57.24%; 公司通过藏青基金间接持有其股权 26.95%。"},
-  "Q1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 426-430)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "碳酸锂 ... 4 万吨 / 年 ... 100.00% ... 4 万吨 / 年锂盐一体化项目"},
-  "Q2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, line 1015)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "该项目已于 2025 年 9 月底建成并投料试车。"},
-  "Q3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, line 1270)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "碳酸锂制造业 ... 生产量 ... 46,543.00"},
-  "Q4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 1025-1027)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "五矿盐湖核心资产位于青海省一里坪盐湖 ... 目前，五矿盐湖已建成产能包括 ：碳酸锂 1.5 万吨 / 年、磷酸锂 0.2 万吨 / 年、氢氧化锂 0.1 万吨 / 年及钾肥 30 万吨 / 年。"},
-  "Q5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 727-728)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "公司公告以现金方式收购中国盐湖持有的五矿盐湖有限公司 51% 股权，作价 46.05 亿元，2026 年 1 月 31 日完成上述资产过户"},
-  "Q6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF", "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 1772-1776)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "3,512,003,920.79 ... 95.00%"},
-  "M1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF", "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 419-420)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "同时随着扎布耶盐湖二期项目建成投产，公司碳酸锂设计年产能达 1.2 ... 万吨，项目由西藏矿业主导开发运营"},
-  "M2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF", "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 595-597)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "销售量 ... 524.80 ... 生产量 ... 656.51 ... 碳酸锂"},
-  "M3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF", "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 9148-9149)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "吨电池级碳酸锂项目于 2025 年 7-9 月进行试生产运营，于 2025 年 9 月 25 日通过功能性考核，达到可使用状态，于 202 ... 5 年 9 月 30 日正式投产并进入运营期。"},
-  "M4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF", "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 1094-1095)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "扎布耶二期投产后尚处在产能爬坡阶段， ... 产能未能全部释放。"},
-  "M5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF", "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 572-579)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "生产量 ... 2,602.30 ... 锂精矿（普通） ... 生产量 ... 765.17 ... 锂精矿（立体）"},
-  "R1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 831 and 919)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年度，公司锂精矿（6%品位）生产量 18.56 万吨 ... 185,613.99"},
-  "R2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 339-340)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "已在矿山形成 105 万吨/年露天开采能力及 45 万吨/年原矿石处 ... 理的选矿能力"},
-  "R3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, line 3505)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，融达锂业原矿外运委托选矿业务顺利开展，共计产出锂精矿 11.53 万吨（6%品位）。"},
-  "R4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 345-346)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "公司积极筹备矿山原址新增 35 万 ... 吨/年选矿项目，截至报告期末该项目尚未启动建设"},
-  "R5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 350-351)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "合并范围内的锂盐业务是从事粗制碳酸锂和工业级碳酸锂的精加工提纯业 ... 务，产品为电池级碳酸锂，产能为 3,000 吨/年。"},
-  "R6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 923-924)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "有色金属加工及 ... 生产量 ... 736.61"},
-  "R7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 108 and 7971)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "四川长和华锂科技有限公司，融达锂业控股子公司 ... 长和华锂 ... 都江堰 ... 制造业 ... 80.00%"},
-  "R8": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 355-356)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "现有产能 2 万吨/年 ... 2021 年 8 月 20 日起由公司受托经营 ... 报告期内其锂盐产能满产。"},
-  "R9": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 628-629)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "联营锂盐企业成都融捷锂业规划产能为 4 ... 万吨/年，已投产 2 万吨/年。"},
-  "R10": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 1943-1946)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "其 2 万 ... 吨/年锂盐项目 ... 于 2021 年 建 ... 成后"},
-  "R11": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 489-490)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "截至 2025 年 12 月 15 日，公司采矿权范围内保有矿石量（探明+控制+推断）2,444.9 万吨"},
-  "R12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, line 8366)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "成都融捷锂业 ... 销售锂精矿 ... 836,370,824.88"},
-  "R13": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF", "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 107 and 118)", "published": "2026-03-24", "accessed": "2026-11-27", "language": "zh", "quote": "甘孜州融达锂业有限公司，公司全资子公司 ... 成都融捷锂业科技有限公司，公司联营企业，融捷集团控制的企业"},
-  "J1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, line 1069)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "锂矿采选及锂盐制造业 ... 生产量 ... 13,610.03"},
-  "J2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 507-508)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年度，因 ... 公司自有矿山尚未达到规模化开采条件，因此生产用原材料均通过外购方式解决。"},
-  "J3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 534-535)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司目前控制的采矿权为江西省宜丰县 ... 茜坑锂矿，品位 0.438%及以上矿石量 7,293.2 万吨，Li2O 资源量 319,442.16 吨"},
-  "J4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 888-889)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司 2024 年取得采矿许可证的江西省宜丰县茜坑锂矿 ... 是公司目前最重要的矿区，证载面积 1.3826 平方公里"},
-  "J5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 1850-1851)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "茜坑锂矿 ... 作为公司“一号工程”，力争年内实现出矿目标，同时，推动两大选厂全面复产"},
-  "J6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 7755-7756)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "利用锂辉石年产 ... 0.5 万吨氢氧化 ... 项目终止建设"},
-  "J7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF", "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 974-975)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "银锂新能源将把握锂价回升周期，积极恢复各产线生产 ... 争取云 ... 母产线适时点火，逐步实现全线满产"},
-  "U1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 472-474)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "龙木措 7 万吨碳酸锂项目环评批复已获取，结则茶卡 3 万吨碳酸锂项目环评 ... 已完成第二次公示"},
-  "U2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 1268-1269)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "加快龙木错盐湖项目各项前期手续办理，积极推进工程建设筹备及配套基础 ... 设施落实，为项目早日开工建设奠定基础。"},
-  "U3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 1266-1268)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "结则茶卡盐湖锂盐项目产能爬坡与工艺优化，稳定生产运营，加快产品市场认证与销售落地，尽 ... 早实现规模化营收。"},
-  "U4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 475-476)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "金昌锂盐加工基地项目建设稳步推进，万吨高纯锂 ... 盐加工项目一期 5000 吨规划方案通过审批"},
-  "U5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 9200-9202)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "西藏国能 ... 41.00 ... 权益法核算"},
-  "U6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF", "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 516-517)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "公司投资开发的西藏阿里龙木错和结则茶卡两个盐湖，合计碳酸锂储量 390 ... 万吨（储量大型）"},
-  "H1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 550-551)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "Arcadia 锂矿保有资源量从 150 万吨碳酸锂当量增加至 245 万吨，品位提升至 1.34%；年产 5 ... 万吨硫酸锂项目于今年一季度建成试产"},
-  "H2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 1413)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "津巴布韦硫酸锂项目在按计划建成投产的基础上，力争早日实现达产、超产"},
-  "H3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 1145-1146)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "6685.39 万 ... 5022.26 万 ... 津巴布韦 Arcadia 矿山 ... 1.34% ... 450 万吨 ... 11.1 年"},
-  "H4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 820)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "锂产品 ... 51,728.34 ... 54,387.84"},
-  "H5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 10561)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "前景锂矿 ... 2025 年 12 月 ... 90.00% ... 100.00%"}
+  "Y1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 6220-6222)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "白市化山瓷石矿年采 900 万吨改扩 ... 建项目"
+  },
+  "Y2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, line 1289)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "矿年采 900 万 ... 30,643,007.55 ... 17.00%"
+  },
+  "Y3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 594-596)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司控股子公司花桥矿业拥有的化山矿矿权面积 1.8714 平方公里，采矿证范围内累计查明陶瓷土矿资源储量 49,225.21 万吨，其中，累计查明 Li2O≥0.20%陶瓷土矿矿石量 41,000.80 万吨"
+  },
+  "Y4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 811-813)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "销售量 ... 25,051 ... 锂电新能源业务 ... 生产量 ... 24,823"
+  },
+  "Y5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 1415-1416)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，碳酸锂价格同比下降，加之计提矿业权出让收益，致使永兴新能源营业收入、净利润同比下降。"
+  },
+  "Y6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 435-441)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司碳酸锂业务已建成涵盖采矿、选矿、碳酸锂加工三大业务在内的新能源产业链，以 ... 自有矿山的锂瓷石为主要原料，经采、选、冶一体化流程生产电池级碳酸锂。"
+  },
+  "Y7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-28/1225207010.PDF",
+   "publisher": "Yongxing Materials (002756) 2025 annual report (local text team/evidence/filings/002756_2025.txt, lines 109 and 7266)",
+   "published": "2026-04-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江西永兴特钢新能源科技有限公司 ... 永兴新能源 ... 江西省宜春市 ... 制造业 ... 100.00%"
+  },
+  "T1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 684-686)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司在安赫莱斯 3 万吨碳酸锂当量盐湖提锂项目正式取得萨尔塔有关部门签发的“环境影响声明书”（DIA）"
+  },
+  "T2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 1383-1384)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "继续推动安赫莱斯项目一期（1 万吨/年碳酸锂当量）产能建设。根据融资进度，加快推进锂资源的规模化开发。"
+  },
+  "T3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 6593-6594)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "SDLA 项目，该项目系由子公司 PLASA 持有，位于阿根廷萨尔塔省，共有 39 个矿权，总面积达到 116.51 平方公里，目前已取得年产 3 万吨碳酸锂盐湖提锂建设项目环评批复。"
+  },
+  "T4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 8688-8690)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "《阿根廷锂钾有限公司年产 5 万吨碳酸锂盐湖提锂建设项目之 2.5 万吨吸附段设备供货合同》，合同价值 65,000.00 万元人民币，由蓝晓科技供货的 1 万吨碳酸锂当量规模吸附设备已运达阿根廷萨尔塔市"
+  },
+  "T5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 580-583)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "并于 2025 年 10 月正式提交申请 ... 基于技术方案优化、项目现场情况和整体资金安排尽快实现对锂资源的规模化开发。"
+  },
+  "T6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 680-681)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "可满足公司安赫莱斯项目 3 ... 万吨、阿里扎罗项目 5—10 万吨碳酸锂当量锂盐产能要求。"
+  },
+  "T7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 6595-6596)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "ARIZARO 项目，该项目系由子公司 TOSA 持有，位于阿根廷萨尔塔省，共持有 11 个矿权，总 ... 面积达到 365 平方公里。"
+  },
+  "T8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225153721.PDF",
+   "publisher": "Tibet Summit Resources (600338) 2025 annual report (local text team/evidence/filings/600338_2025.txt, lines 396-399 and 120-125)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司通过控股珠峰香港（持股 87.5%）全资控股两家在阿根廷的项目公司 ... 阿根廷托萨有限公司（Tortuga de Oro S.A.，）"
+  },
+  "Z1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, line 526)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "电池级碳酸锂 ... 1 万吨 / 年 ... 88.08% ... 5 万吨 / 年"
+  },
+  "Z2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, line 1778)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "在现有 ... 1 万吨 / 年的产能基础上，正在推进 ... 6000 吨 / 年扩能项目的立项申报。"
+  },
+  "Z3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 47 and 1948)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "全年仍实现碳酸锂产量 8,808 吨，销量 8,957 吨 ... 碳酸锂制造业 ... 生产量 ... 8,808.00"
+  },
+  "Z4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 539-541)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "藏格锂业于 2025 年 10 月 11 日正式复产 ... 累计时长 87 天"
+  },
+  "Z5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 1845-1846)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "拟分两期建设年产 10 万吨碳酸锂产能， ... 首期规划年产 5 万吨碳酸锂。"
+  },
+  "Z6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 1854-1856)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "项目已完成主体厂房封闭工作，目前处于 ... 设备安装阶段，按建设计划顺利推进 ... 预计 2026 年第三季度全面投产，全年碳酸锂产量预计 2 至 2.5 万吨，公司享有权益产量约 5000 至 6000 吨。"
+  },
+  "Z7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-14/1225009932.PDF",
+   "publisher": "Zangge Mining (000408) 2025 annual report (local text team/evidence/filings/000408_2025.txt, lines 207 and 528)",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "西藏阿里麻米措矿业开发有限公司，为藏格矿业间接持股公司 ... 藏青基金持有麻米措矿业股权 57.24%; 公司通过藏青基金间接持有其股权 26.95%。"
+  },
+  "Q1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 426-430)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "碳酸锂 ... 4 万吨 / 年 ... 100.00% ... 4 万吨 / 年锂盐一体化项目"
+  },
+  "Q2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, line 1015)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "该项目已于 2025 年 9 月底建成并投料试车。"
+  },
+  "Q3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, line 1270)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "碳酸锂制造业 ... 生产量 ... 46,543.00"
+  },
+  "Q4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 1025-1027)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "五矿盐湖核心资产位于青海省一里坪盐湖 ... 目前，五矿盐湖已建成产能包括 ：碳酸锂 1.5 万吨 / 年、磷酸锂 0.2 万吨 / 年、氢氧化锂 0.1 万吨 / 年及钾肥 30 万吨 / 年。"
+  },
+  "Q5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 727-728)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司公告以现金方式收购中国盐湖持有的五矿盐湖有限公司 51% 股权，作价 46.05 亿元，2026 年 1 月 31 日完成上述资产过户"
+  },
+  "Q6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225061823.PDF",
+   "publisher": "Qinghai Salt Lake Industry (000792) 2025 annual report (local text team/evidence/filings/000792_2025.txt, lines 1772-1776)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "3,512,003,920.79 ... 95.00%"
+  },
+  "M1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 419-420)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "同时随着扎布耶盐湖二期项目建成投产，公司碳酸锂设计年产能达 1.2 ... 万吨，项目由西藏矿业主导开发运营"
+  },
+  "M2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 595-597)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "销售量 ... 524.80 ... 生产量 ... 656.51 ... 碳酸锂"
+  },
+  "M3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 9148-9149)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "吨电池级碳酸锂项目于 2025 年 7-9 月进行试生产运营，于 2025 年 9 月 25 日通过功能性考核，达到可使用状态，于 202 ... 5 年 9 月 30 日正式投产并进入运营期。"
+  },
+  "M4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 1094-1095)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "扎布耶二期投产后尚处在产能爬坡阶段， ... 产能未能全部释放。"
+  },
+  "M5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225088270.PDF",
+   "publisher": "Tibet Mining Development (000762) 2025 annual report (local text team/evidence/filings/000762_2025.txt, lines 572-579)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "生产量 ... 2,602.30 ... 锂精矿（普通） ... 生产量 ... 765.17 ... 锂精矿（立体）"
+  },
+  "R1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 831 and 919)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025 年度，公司锂精矿（6%品位）生产量 18.56 万吨 ... 185,613.99"
+  },
+  "R2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 339-340)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "已在矿山形成 105 万吨/年露天开采能力及 45 万吨/年原矿石处 ... 理的选矿能力"
+  },
+  "R3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, line 3505)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，融达锂业原矿外运委托选矿业务顺利开展，共计产出锂精矿 11.53 万吨（6%品位）。"
+  },
+  "R4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 345-346)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司积极筹备矿山原址新增 35 万 ... 吨/年选矿项目，截至报告期末该项目尚未启动建设"
+  },
+  "R5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 350-351)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "合并范围内的锂盐业务是从事粗制碳酸锂和工业级碳酸锂的精加工提纯业 ... 务，产品为电池级碳酸锂，产能为 3,000 吨/年。"
+  },
+  "R6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 923-924)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "有色金属加工及 ... 生产量 ... 736.61"
+  },
+  "R7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 108 and 7971)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川长和华锂科技有限公司，融达锂业控股子公司 ... 长和华锂 ... 都江堰 ... 制造业 ... 80.00%"
+  },
+  "R8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 355-356)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "现有产能 2 万吨/年 ... 2021 年 8 月 20 日起由公司受托经营 ... 报告期内其锂盐产能满产。"
+  },
+  "R9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 628-629)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "联营锂盐企业成都融捷锂业规划产能为 4 ... 万吨/年，已投产 2 万吨/年。"
+  },
+  "R10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 1943-1946)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "其 2 万 ... 吨/年锂盐项目 ... 于 2021 年 建 ... 成后"
+  },
+  "R11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 489-490)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "截至 2025 年 12 月 15 日，公司采矿权范围内保有矿石量（探明+控制+推断）2,444.9 万吨"
+  },
+  "R12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, line 8366)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "成都融捷锂业 ... 销售锂精矿 ... 836,370,824.88"
+  },
+  "R13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
+   "publisher": "Rongjie Co. (002192) 2025 annual report (local text team/evidence/filings/002192_2025.txt, lines 107 and 118)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "甘孜州融达锂业有限公司，公司全资子公司 ... 成都融捷锂业科技有限公司，公司联营企业，融捷集团控制的企业"
+  },
+  "J1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, line 1069)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂矿采选及锂盐制造业 ... 生产量 ... 13,610.03"
+  },
+  "J2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 507-508)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025 年度，因 ... 公司自有矿山尚未达到规模化开采条件，因此生产用原材料均通过外购方式解决。"
+  },
+  "J3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 534-535)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司目前控制的采矿权为江西省宜丰县 ... 茜坑锂矿，品位 0.438%及以上矿石量 7,293.2 万吨，Li2O 资源量 319,442.16 吨"
+  },
+  "J4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 888-889)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司 2024 年取得采矿许可证的江西省宜丰县茜坑锂矿 ... 是公司目前最重要的矿区，证载面积 1.3826 平方公里"
+  },
+  "J5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 1850-1851)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "茜坑锂矿 ... 作为公司“一号工程”，力争年内实现出矿目标，同时，推动两大选厂全面复产"
+  },
+  "J6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 7755-7756)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "利用锂辉石年产 ... 0.5 万吨氢氧化 ... 项目终止建设"
+  },
+  "J7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
+   "publisher": "Jiangte Electric (002176) 2025 annual report (local text team/evidence/filings/002176_2025.txt, lines 974-975)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "银锂新能源将把握锂价回升周期，积极恢复各产线生产 ... 争取云 ... 母产线适时点火，逐步实现全线满产"
+  },
+  "U1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 472-474)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "龙木措 7 万吨碳酸锂项目环评批复已获取，结则茶卡 3 万吨碳酸锂项目环评 ... 已完成第二次公示"
+  },
+  "U2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 1268-1269)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "加快龙木错盐湖项目各项前期手续办理，积极推进工程建设筹备及配套基础 ... 设施落实，为项目早日开工建设奠定基础。"
+  },
+  "U3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 1266-1268)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "结则茶卡盐湖锂盐项目产能爬坡与工艺优化，稳定生产运营，加快产品市场认证与销售落地，尽 ... 早实现规模化营收。"
+  },
+  "U4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 475-476)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "金昌锂盐加工基地项目建设稳步推进，万吨高纯锂 ... 盐加工项目一期 5000 吨规划方案通过审批"
+  },
+  "U5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 9200-9202)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "西藏国能 ... 41.00 ... 权益法核算"
+  },
+  "U6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225096395.PDF",
+   "publisher": "Tibet Urban Development (600773) 2025 annual report (local text team/evidence/filings/600773_.txt, lines 516-517)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司投资开发的西藏阿里龙木错和结则茶卡两个盐湖，合计碳酸锂储量 390 ... 万吨（储量大型）"
+  },
+  "H1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 550-551)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "Arcadia 锂矿保有资源量从 150 万吨碳酸锂当量增加至 245 万吨，品位提升至 1.34%；年产 5 ... 万吨硫酸锂项目于今年一季度建成试产"
+  },
+  "H2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 1413)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "津巴布韦硫酸锂项目在按计划建成投产的基础上，力争早日实现达产、超产"
+  },
+  "H3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 1145-1146)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "6685.39 万 ... 5022.26 万 ... 津巴布韦 Arcadia 矿山 ... 1.34% ... 450 万吨 ... 11.1 年"
+  },
+  "H4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 820)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂产品 ... 51,728.34 ... 54,387.84"
+  },
+  "H5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Zhejiang Huayou Cobalt (603799) 2025 annual report (local text team/evidence/filings/603799_.txt, line 10561)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "前景锂矿 ... 2025 年 12 月 ... 90.00% ... 100.00%"
+  }
  },
  "rows": [
   {
@@ -75,10 +523,23 @@
     "capacity": 9000000,
     "capacity_unit": "t ore",
     "capacity_ref_year": 2026,
-    "feeds": ["yongxing-materials-yongxing-new-energy-lithium-carbonate-china"],
+    "feeds": [
+     "yongxing-materials-yongxing-new-energy-lithium-carbonate-china"
+    ],
     "reserves_resources": "Mining-licence area 1.8714 km2; ceramic-clay resource 492.2521 Mt, of which 410.0080 Mt ore with Li2O>=0.20% (Yongxing 2025 AR, cumulative identified)"
    },
-   "evidence": {"capacity": ["Y1", "Y2"], "reserves_resources": ["Y3"], "feeds": ["Y6"]},
+   "evidence": {
+    "capacity": [
+     "Y1",
+     "Y2"
+    ],
+    "reserves_resources": [
+     "Y3"
+    ],
+    "feeds": [
+     "Y6"
+    ]
+   },
    "confidence": 0.7,
    "notes": "Filing pass (Yongxing 2025 AR, local text 002756_2025.txt). Construction-in-progress table (line 6220-6222) lists the 'Baishi Huashan porcelain-stone mine 9 Mt/yr reconstruction and expansion project' (budget 180,000,000 yuan; cumulative spend 30,643,007.55; 17.00% progress at 2025-12-31, line 1289) - recorded as the full plan capacity 9,000,000 t ore/yr; the AR gives no completion date, so capacity_ref_year 2026 = filing publication-year fallback. Installed 3 Mt (2025 operating scale) is unchanged from SC003 (company reply); the AR itself does not state mine output. Operator Huaqiao Mining (花桥矿业) is 70.00% owned by Yongxing Materials (line 7278). Mining-licence mineral-type change (ceramic clay to lithium) is being advanced (lines 713-714, 1552-1553). Baishuidong kaolin/lithium-support mine belongs to associate Hua Li Mining (花锂矿业, lines 596-598), no capacity/output stated - not added."
   },
@@ -116,7 +577,19 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-28"
    },
-   "evidence": {"status": ["Y4", "Y6"], "production": ["Y4"], "operator": ["Y5", "Y7"]},
+   "evidence": {
+    "status": [
+     "Y4",
+     "Y6"
+    ],
+    "production": [
+     "Y4"
+    ],
+    "operator": [
+     "Y5",
+     "Y7"
+    ]
+   },
    "confidence": 0.7,
    "notes": "Filing pass (Yongxing 2025 AR, 002756_2025.txt). Production = the lithium-battery-new-energy segment volume table in tonnes: output 24,823 t, sales 25,051 t, stock 225 t (lines 811-815); prior year 26,048 t / 26,028 t. Taken as lithium carbonate because the segment's main product is battery-grade carbonate (lines 435-443, 1339-1346) and carbonate revenue 1,615,319,742.43 yuan / 25,051 t = about 64,500 yuan/t, in line with 2025 carbonate prices; carbonate revenue line 760. Subsidiary Yongxing New Energy (永兴新能源, 100% owned, Yichun, registered capital 800 million yuan) had revenue 178,311 万 yuan and net profit 20,903 万 (line 1400). CAPACITY NOT DISCLOSED in the annual report (no nameplate for carbonate anywhere in the text); null. Related ongoing project: 'lepidolite green intelligent efficient lithium-extraction comprehensive technical upgrade' 70.00% complete, 183,532,235.01 yuan spent, dated 2026-01-21 (line 1297) - modernisation with no capacity change stated. Other lithium subsidiaries: Yongcheng Lithium (永诚锂业, 93.63%, revenue 29,134 万 yuan, line 1402) and Yongzhou Lithium (永洲锂业, concentrator store, line 6197) - role and capacity not stated, not added. Plant location only known as Yichun (registered address), no coordinates."
   },
@@ -136,7 +609,20 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-23"
    },
-   "evidence": {"capacity": ["T1", "T3"], "status": ["T2", "T5"], "operator": ["T8", "T3"]},
+   "evidence": {
+    "capacity": [
+     "T1",
+     "T3"
+    ],
+    "status": [
+     "T2",
+     "T5"
+    ],
+    "operator": [
+     "T8",
+     "T3"
+    ]
+   },
    "confidence": 0.55,
    "notes": "Filing pass (Tibet Summit 2025 AR, 600338_2025.txt). The project belongs to Tibet Summit via PLASA (39 mining concessions, 116.51 km2, Salta; resource 2.049 Mt LCE, reserve 1.637 Mt LCE in the AR mining table, line 1199; 2.05 Mt LCE at lines 398, 677). Capacity: the Salta authority issued the environmental impact statement (DIA) for a 30,000 t/yr LCE project (lines 684-686, 6593-6594); company plans phase 1 of 10,000 t/yr LCE (line 1383) - capacity 30,000 = full EIA-approved plan, ref year = filing publication year (no due date). Status kept under_construction: 10,000 t LCE-scale adsorption equipment has arrived in Salta and generator/infrastructure works are done (lines 578-580, 8688-8690), but the AR says large-scale development depends on financing and the RIGI incentive application filed 2025-10 (lines 581-583, 1383-1384) - effectively stalled; no start year, no production. CONFLICTS: (1) existing operator 'Revotech Asia' (from the Secretaria de Mineria dashboard via Chequeado) is not mentioned in the AR; the AR names PLASA/Tibet Summit as holder - operator updated to the AR wording, the Revotech link is unresolved (possibly a holding-chain name). (2) A 2022 equipment contract (line 8688) refers to a 50,000 t/yr carbonate project at PLASA ('5 万吨') versus the 30,000 t EIA scope - 30,000 used; 50,000 not recorded."
   },
@@ -172,7 +658,19 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-23"
    },
-   "evidence": {"status": ["T6", "T7"], "capacity": ["T6"], "operator": ["T7", "T8"]},
+   "evidence": {
+    "status": [
+     "T6",
+     "T7"
+    ],
+    "capacity": [
+     "T6"
+    ],
+    "operator": [
+     "T7",
+     "T8"
+    ]
+   },
    "confidence": 0.35,
    "notes": "Filing pass (Tibet Summit 2025 AR, 600338_2025.txt). The AR says the Arizaro resource can support lithium-salt capacity of 50,000-100,000 t/yr LCE ('5-10 万吨', lines 680-681; also the mining-rights table line 1219-1221 'planned 5-10'). Capacity recorded at the LOWER end (50,000 t LCE) as a conservative planning figure; upper end 100,000 t LCE. No development decision, permits or construction are described (concession-stage only; no EIA, no schedule), so status announced and confidence low. Ref year 2026 = filing publication-year fallback. Concession count differs inside the AR (12 at line 398 vs 11 at line 6595); 365/366 km2."
   },
@@ -180,7 +678,20 @@
    "action": "update",
    "id": "zangge-mining-chaerhan-china",
    "fields": {},
-   "evidence": {"capacity": ["Z2"], "installed_capacity": ["Z1"], "production": ["Z3"], "status": ["Z4"]},
+   "evidence": {
+    "capacity": [
+     "Z2"
+    ],
+    "installed_capacity": [
+     "Z1"
+    ],
+    "production": [
+     "Z3"
+    ],
+    "status": [
+     "Z4"
+    ]
+   },
    "confidence": 0.85,
    "notes": "Filing pass (Zangge 2025 AR, 000408_2025.txt) CONFIRMS the SC003 derived numbers: design capacity of battery-grade lithium carbonate 10,000 t/yr with 88.08% utilisation (line 526; 8,808 / 10,000), and a 6,000 t/yr expansion on top of the existing 10,000 t/yr is at the project-application (立项申报) stage (line 1778) -> 16,000 t/yr full plan. Output 8,808 t, sales 8,957 t (lines 47, 1948; 2024: 11,566 t / 13,582 t); production halted 2025-07-16 to 2025-10-10 (87 days) after the Haixi authorities' order, mining licence with lithium added 2025-09-30, restart 2025-10-11 (lines 534-541). 2025 plan 11,000 t cut to 8,510 t (line 1667). 2026 plan: 11,000 t at Zangge Lithium (line 2521). Company strategy: 60,000+ t/yr LCE by 2028 from the 10,000 t base (lines 2507-2508). Zangge Mining joined the Zijin Mining group in 2026 (line 2517) - ownership chain differs from the existing parent_company; not changed here."
   },
@@ -192,7 +703,21 @@
     "jv_partners": "Jiangsu Zangqing New Energy Industry Development Fund (57.24% of Mamicuo Mining); Zangge Mining holds 26.95% indirectly through the fund",
     "capacity_ref_year": 2026
    },
-   "evidence": {"capacity": ["Z5", "Z6"], "status": ["Z6"], "jv_partners": ["Z7"], "operator": ["Z7"]},
+   "evidence": {
+    "capacity": [
+     "Z5",
+     "Z6"
+    ],
+    "status": [
+     "Z6"
+    ],
+    "jv_partners": [
+     "Z7"
+    ],
+    "operator": [
+     "Z7"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Filing pass (Zangge 2025 AR, 000408_2025.txt). Project plan: two phases totalling 100,000 t/yr Li2CO3, phase 1 50,000 t/yr (line 1845-1846); 'in construction' capacity table entry 5万吨/年 (line 526). Construction permit and mining licence obtained July 2025 (NDRC Tibet approval June 2025); main plant enclosed, equipment installation under way; full commissioning expected Q3 2026 with 2026 output 20,000-25,000 t Li2CO3 of which Zangge attributable 5,000-6,000 t (lines 1853-1856; 2026 plan line 2521-2522 gives 0.54万 t attributable). capacity kept at the phase-1 figure 50,000 t/yr, ref year 2026 (dated: Q3 2026 start); LEAD DECISION: the AR's full plan is 100,000 t/yr (phase 2 undated), recorded here only in notes. Ownership: Mamicuo Mining is 57.24% held by the Zangqing fund, and Zangge holds 26.95% indirectly (line 528; fund LP stake 47.08%, lines 4820-4821); the fund raised a further 1.4 bn yuan in Jan 2026 (line 1855). Resource: 2.5011 Mt LiCl = 2.1774 Mt LCE (line 1844-1845)."
   },
@@ -205,7 +730,14 @@
     "installed_as_of": "2025-12-31",
     "installed_norm": 40000
    },
-   "evidence": {"capacity": ["Q1"], "installed_capacity": ["Q1"]},
+   "evidence": {
+    "capacity": [
+     "Q1"
+    ],
+    "installed_capacity": [
+     "Q1"
+    ]
+   },
    "confidence": 0.85,
    "notes": "Filing pass (Qinghai Salt Lake Industry 2025 AR, 000792_2025.txt). The AR capacity table now states the existing lithium carbonate design capacity DIRECTLY: 40,000 t/yr, utilisation 100.00%, with the separate 40,000 t/yr integrated project listed as under construction/trial (line 426-430) - confirms the SC003 derivation (80,000 - 40,000). installed_capacity 40,000 as of FY2025 year-end (table undated; AR FY2025). Company-wide 2025 carbonate output 46,543 t (2024: 40,002 t), sales 45,564 t (2024: 41,552 t), stock 2,048 t (lines 1269-1271); the output exceeds 40,000 t because the new project was in trial production from end-Sept 2025 - therefore NOT assigned to this row (row production still 2024 value 40,000 t from SC003; 2025 split between Lanke and the new project is not disclosed). Subsidiary Lanke Lithium (蓝科锂业): revenue 2,594,084,762.54 yuan, net profit 730,499,625.54 yuan (line 1932)."
   },
@@ -213,7 +745,14 @@
    "action": "update",
    "id": "qinghai-salt-lake-industry-40kt-lithium-salt-china",
    "fields": {},
-   "evidence": {"capacity": ["Q1"], "status": ["Q2"]},
+   "evidence": {
+    "capacity": [
+     "Q1"
+    ],
+    "status": [
+     "Q2"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Filing pass (Qinghai Salt Lake Industry 2025 AR, 000792_2025.txt). Capacity table (lines 426-430): 'in-construction capacity 4万吨/年 lithium-salt integrated project - in trial production during the reporting period'; section 4 (line 1010-1015): built and fed (投料试车) at end of September 2025; construction-in-progress fell from 1.86 bn to 0.58 bn yuan because the project was transferred to fixed assets as ready for use (lines 1652-1654); cumulative investment 3,512,003,920.79 yuan, progress 95.00% (lines 1772-1774); approvals: EIA 2023, land 2023, planning permits Jan 2024 (lines 497-514). The AR itself calls the status trial production, so status 'operational' (from SC003) is borderline - kept (assets in service); installed_capacity left null (ramping). Company output 46,543 t Li2CO3 covers this project plus Lanke (see Lanke row)."
   },
@@ -233,7 +772,20 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-03-31"
    },
-   "evidence": {"capacity": ["Q4"], "status": ["Q4"], "parent_company": ["Q5"], "jv_partners": ["Q5"]},
+   "evidence": {
+    "capacity": [
+     "Q4"
+    ],
+    "status": [
+     "Q4"
+    ],
+    "parent_company": [
+     "Q5"
+    ],
+    "jv_partners": [
+     "Q5"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Filing pass (Qinghai Salt Lake Industry 2025 AR, 000792_2025.txt). Replaces the reported-tier forum figure (10,000 t) with the filing: Minmetals Salt Lake's core asset is the Yiliping salt lake (mining area 422.73 km2, LiCl resource 1.6459 Mt, KCl 14.6311 Mt; lines 1025-1026, 1070-1071) and its BUILT capacity is Li2CO3 15,000 t/yr, lithium phosphate 2,000 t/yr, LiOH 1,000 t/yr and potash 300,000 t/yr (line 1026-1027). Only the carbonate figure is recorded as capacity (unit); LiOH and Li3PO4 are on the same site (not summed). Qinghai Salt Lake Industry agreed on 2025-12-31 to buy 51% for 4.6052 bn yuan (valuation 460,516.23 万 yuan, line 3703), title transfer completed 2026-01-31 (lines 727-728). No production figure for Minmetals Salt Lake is disclosed. OPEN QUESTIONS for the lead: the existing 'Qinghai Huixin 20,000 t' row (china-salt-lake-qinghai-huixin-china) was flagged as a possible duplicate of Yiliping; the AR does not support it - built Yiliping capacity is 15,000 t, and the only 'Huixin' entities in the AR are Qinghai Huixin Asset Management and Qinghai Huixin New Materials (related parties, lines 4120, 6829, 11030) not described as lithium plants. Da Qaidam 10,000 t LiCl row (dachaidan-salt-lake-lithium-chloride-china) is not covered by this AR."
   },
@@ -245,7 +797,17 @@
     "production_unit": "t Li2CO3",
     "production_year": 2025
    },
-   "evidence": {"capacity": ["M1"], "status": ["M3"], "production": ["M2"]},
+   "evidence": {
+    "capacity": [
+     "M1"
+    ],
+    "status": [
+     "M3"
+    ],
+    "production": [
+     "M2"
+    ]
+   },
    "confidence": 0.85,
    "notes": "Filing pass (Tibet Mining Development 2025 AR, 000762_2025.txt). Design capacity of lithium carbonate 12,000 t/yr after phase 2 (line 419-420; by-product KCl 156,000 t/yr design, line 422). Phase-2 '10,000-t battery-grade carbonate project': trial production July-Sept 2025, function test passed 2025-09-25, formally in production 2025-09-30 (lines 9148-9149; 'put into production in October 2025' line 565). 2025 output: Li2CO3 656.51 t (sales 524.80 t, stock 131.71 t), KCl 13,346.00 t (sales 10,934.61 t); the manufacturing-segment total is 14,002.51 t (lines 556-559, 583-598). The plant is still ramping, 'capacity not fully released' (lines 1094-1095), so installed_capacity left null. Phase 1 (solar-pond lithium concentrate, same site) produced 2,602.30 t ordinary + 765.17 t 'stereo' concentrate in 2025 (2024: 4,283.57 t + 799.70 t; lines 571-580) - output fell for climate and salt-pan dismantling reasons (lines 1146-1148); concentrate grade not stated so not converted to LCE and not added to the carbonate production figure. Operator subsidiary is Tibet Shigatse Zabuye Lithium High-tech (西藏日喀则扎布耶锂业高科技有限公司, line 133, 400-402); its 2025 net loss 56.92 million yuan. Related: Baiyin Zabuye Lithium (Baiyin, Gansu; production enterprise, 63.13% direct / 36.88% indirect, line 8598) was offered for sale (100% stake, no buyer, delisted from the exchange; lines 3376-3380) - no capacity/output in the AR, not added. Zabuye phase-3 is only named 'planning' (line 1192)."
   },
@@ -258,11 +820,33 @@
     "production": 185613.99,
     "production_unit": "t SC6",
     "production_year": 2025,
-    "feeds": ["rongjie-chengdu-rongjie-lithium-china"],
+    "feeds": [
+     "rongjie-chengdu-rongjie-lithium-china"
+    ],
     "offtakers": "Chengdu Rongjie Lithium (associate; AR says no surplus concentrate for external customers)",
     "reserves_resources": "Retained ore 24.449 Mt (measured+indicated+inferred) within the mining right at 2025-12-15; 2025 depletion 1.056 Mt measured ore; average grade >1.42% (Rongjie 2025 AR lines 489-490, 738)"
    },
-   "evidence": {"production": ["R1", "R3"], "operator": ["R13"], "parent_company": ["R13"], "feeds": ["R12"], "reserves_resources": ["R11"], "capacity": ["R2"]},
+   "evidence": {
+    "production": [
+     "R1",
+     "R3"
+    ],
+    "operator": [
+     "R13"
+    ],
+    "parent_company": [
+     "R13"
+    ],
+    "feeds": [
+     "R12"
+    ],
+    "reserves_resources": [
+     "R11"
+    ],
+    "capacity": [
+     "R2"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Filing pass (Rongjie 2025 AR, 002192_2025.txt). 2025 concentrate output 185,613.99 t at 6% grade (2024: 67,537.81 t, +174.83%); sales 178,055.72 t; stock 9,654.81 t (lines 917-921). Of this, 115,300 t (6%) came from OUTSOURCED beneficiation of Jiajika ore under the Dec-2024 ore-export agreement with Kangding government (line 3505), leaving about 70,300 t from the on-site concentrator (derived by subtraction). Mine: 1.05 Mt/yr open-pit capacity and 450,000 t/yr on-site ore-processing capacity (lines 339-340); a further 350,000 t/yr on-site beneficiation expansion agreed but NOT started (lines 345-346, 1682) and an earlier 2.5 Mt/yr concentrator project is still without a site (lines 3452-3461). production_norm computed by the build with the SC6 factor 0.148 (about 27,470 t LCE). Existing capacity 80,000 t spodumene concentrate (Mysteel 70-80 kt, on-site) is NOT contradicted by the AR (the AR gives ore throughput, not concentrate capacity) but is now below total 2025 output because outsourced processing is additional; left unchanged. Rongda Lithium is a 100% subsidiary (lines 107, 7969). The previous parent_company text 'Rongy' is replaced by the AR's listed parent."
   },
@@ -299,7 +883,21 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-03-24"
    },
-   "evidence": {"status": ["R5", "R6"], "capacity": ["R5"], "production": ["R6"], "operator": ["R7"]},
+   "evidence": {
+    "status": [
+     "R5",
+     "R6"
+    ],
+    "capacity": [
+     "R5"
+    ],
+    "production": [
+     "R6"
+    ],
+    "operator": [
+     "R7"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Filing pass (Rongjie 2025 AR, 002192_2025.txt). The consolidated lithium-salt business: purification of crude and industrial-grade carbonate into battery-grade carbonate, capacity 3,000 t/yr (lines 350-351); 2025 output 736.61 t, sales 650.61 t, stock 2,196.78 t (2024: 1,181.94 t / 1,231.71 t; lines 922-926); Rongjie deliberately cut activity in H1 2025 on low prices; the line was upgraded in H2 2025 (lines 351-354). 80.00%-owned by Rongda Lithium (Dujiangyan, line 7971; 20% minority). Subsidiary financials: revenue 31.96 million yuan, net loss 20.79 million yuan (line 1466). Dujiangyan is part of Chengdu (Sichuan); no coordinates stated. Lithium-salt revenue 4,470,587.25 yuan (line 872)."
   },
@@ -330,14 +928,33 @@
     "capacity_ref_year": 2026,
     "installed_capacity": 20000,
     "installed_as_of": "2025-12-31",
-    "capacity_by_year_json": {"2021": 20000},
+    "capacity_by_year_json": {
+     "2021": 20000
+    },
     "offtakers": "Rongjie Co. (purchases lithium salt: 190.4 million yuan in 2025) and other buyers (not named)",
     "end_market": "battery",
     "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-24/1225025147.PDF",
     "source_date": "2026-11-27",
     "source_published_date": "2026-03-24"
    },
-   "evidence": {"status": ["R8"], "capacity": ["R9"], "installed_capacity": ["R8", "R9"], "capacity_by_year_json": ["R10"], "jv_partners": ["R13"]},
+   "evidence": {
+    "status": [
+     "R8"
+    ],
+    "capacity": [
+     "R9"
+    ],
+    "installed_capacity": [
+     "R8",
+     "R9"
+    ],
+    "capacity_by_year_json": [
+     "R10"
+    ],
+    "jv_partners": [
+     "R13"
+    ]
+   },
    "confidence": 0.75,
    "notes": "Filing pass (Rongjie 2025 AR, 002192_2025.txt). Associate (40.00%, equity method, Chengdu; lines 8036, 118): planned capacity 40,000 t/yr, 20,000 t/yr built and put into production (line 628-629; 'existing capacity 20,000 t/yr', line 355); the 20,000 t/yr phase was completed in 2021 (lines 1943-1946). Operated by Rongjie Co. under an entrustment agreement since 2021-08-20, renewed for 2024-2026 (fee 1.2 million yuan/yr; lines 3181-3183, 1929). It buys nearly all of Rongda's concentrate (related-party sales 836,370,824.88 yuan, line 8366) and in 2025 'operated at full capacity' (lines 356, 629). 2025 tonnage output NOT disclosed (full capacity implies about 20,000 t but this is not recorded as production). Financials: revenue 1,406.78 million yuan, net profit 215.54 million yuan (line 1472). Capacity unit 't LCE' used because the AR says only 'lithium salt' (主要 product battery-grade carbonate per line 329-330); 40,000 t is the full plan without a due date (ref year 2026 = publication-year fallback). Combined with Changhe: 'own battery-grade carbonate capacity plus associate = 23,000 t/yr' (line 447). Exact plant location within Chengdu not stated."
   },
@@ -349,7 +966,11 @@
     "production_unit": "t Li2CO3",
     "production_year": 2025
    },
-   "evidence": {"production": ["J1"]},
+   "evidence": {
+    "production": [
+     "J1"
+    ]
+   },
    "confidence": 0.55,
    "notes": "Filing pass (Jiangte Electric 2025 AR, 002176_2025.txt). 2025 output of the 'lithium mining/beneficiation and lithium-salt manufacturing' segment 13,610.03 t (2024: 15,485.23 t), sales 13,764.08 t, stock 368.00 t (lines 1067-1070); taken as lithium carbonate because segment revenue 868,684,499.52 yuan / 13,764.08 t = about 63,100 yuan/t matches carbonate prices (line 8772). CAPACITY: the annual report gives NO carbonate nameplate; the 30,000 t/yr (2022 press) in this row is unchanged and 2025 output was about 45% of it - the lepidolite lines were still being restarted (line 974-975 'seek to light up the mica line... full-line full production'), spodumene line capacity increase planned (line 977), a solvent-extraction project and mica-line waste-heat boiler pending (line 976-977). All 2025 feedstock was bought in because the own mine was not yet operating at scale (line 507-509). Terminated: the 'spodumene-based 5,000 t/yr lithium hydroxide project' - construction in progress 58.3 million yuan, 52.3 million written off for 'project terminated' (lines 7702-7706, 7755-7756). Operating subsidiaries (no capacities stated): Yichun Yinli New Energy (宜春银锂新能源, 100%, lithium-ore processing), Yifeng Yinli (宜丰银锂), Ji'an Yinli (吉安银锂), Jiangxi Baojiang Lithium (江西宝江锂业, 50%, carbonate production), Jiangteng Lithium (宜丰县江腾锂业, 100%, beneficiation) - lines 9549-9570; sites are therefore several in Jiangxi, as already noted."
   },
@@ -379,13 +1000,24 @@
     "capacity_unit": null,
     "capacity_ref_year": null,
     "reserves_resources": "Ore 72.932 Mt at >=0.438% Li2O, Li2O resource 319,442.16 t (licence area 1.3826 km2; 126.67 Mt at 0.39% Li2O alternative basis); company-wide lithium resources >100 Mt (2025 AR, lines 534-535, 888-891)",
-    "feeds": ["jiangte-motor-yichun-lithium-carbonate-china"],
+    "feeds": [
+     "jiangte-motor-yichun-lithium-carbonate-china"
+    ],
     "end_market": "battery",
     "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225240831.PDF",
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-29"
    },
-   "evidence": {"status": ["J2", "J5"], "reserves_resources": ["J3", "J4"]},
+   "evidence": {
+    "status": [
+     "J2",
+     "J5"
+    ],
+    "reserves_resources": [
+     "J3",
+     "J4"
+    ]
+   },
    "confidence": 0.5,
    "notes": "Filing pass (Jiangte Electric 2025 AR, 002176_2025.txt). Mining licence obtained in 2024 (line 888); the company calls it its 'No.1 project' and aims to bring ore out within 2026 (lines 986, 1850-1851); in 2025 the own mine was not yet at scale-mining conditions and all feedstock was purchased (lines 507-509); two concentrators at the Xikeng site stay idle until the mine starts (line 980). No mine capacity, schedule or capex is stated, so capacity null; status 'announced' because there is a licence and a stated development push but no stated physical development works - lead may prefer under_construction. Exploration rights (not added): Pailou, Meijia, Yeweiling-Baishuidong (59,607.6 t Li2O), Maowo, Pingtouling. A Zambia exploration/mining subsidiary also exists (line 9571-9574), no lithium detail."
   },
@@ -419,7 +1051,17 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-11"
    },
-   "evidence": {"status": ["U2"], "capacity": ["U1"], "jv_partners": ["U5"]},
+   "evidence": {
+    "status": [
+     "U2"
+    ],
+    "capacity": [
+     "U1"
+    ],
+    "jv_partners": [
+     "U5"
+    ]
+   },
    "confidence": 0.5,
    "notes": "Filing pass (Tibet Urban Development 2025 AR, 600773_.txt; the AR contains no mention of Lagocuo - the Zijin 'Lagocuo' row is NOT touched). Planned 70,000 t/yr Li2CO3: EIA approval obtained (lines 472-474); pre-construction approvals and 'construction preparation' continue, project start is only prepared (lines 1268-1269). Mining licence C5400002022046220153583 extended to 2029-04-05 (lines 10112-10117). Combined Longmucuo + Jiezechaka carbonate reserve 3.9 Mt, KCl 28 Mt, B2O3 3.3 Mt (lines 516-517; also Zangge AR line 1483). Guoneng Mining is a 41% associate of Tibet Urban (lines 9200-9202; registered Ri'tu County, Ngari) and an indirect holding of Zangge Mining (Zangge AR line 206); Guoneng has net liabilities (-742.5 million yuan, line 9229) and a 2025 loss of 134.9 million yuan (line 9286), so financing is a risk. Ref year 2026 = publication-year fallback; no start date."
   },
@@ -453,7 +1095,17 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-11"
    },
-   "evidence": {"status": ["U3"], "capacity": ["U1"], "jv_partners": ["U5"]},
+   "evidence": {
+    "status": [
+     "U3"
+    ],
+    "capacity": [
+     "U1"
+    ],
+    "jv_partners": [
+     "U5"
+    ]
+   },
    "confidence": 0.4,
    "notes": "Filing pass (Tibet Urban Development 2025 AR, 600773_.txt). Planned 30,000 t/yr Li2CO3 project whose EIA has completed its second public notice but is not yet approved (lines 472-474). Separately the AR says the 'Jiezechaka salt-lake lithium-salt project' is in capacity ramp-up with process optimisation and 'stable production operations', and Guoneng is pushing product certification and sales 'to reach scale revenue as soon as possible' (lines 1266-1268; salt-pan production ongoing, line 470) - i.e. an operating small-scale/pilot line exists but its capacity and output are not stated. AMBIGUITY: status under_construction chosen (commissioning/ramp-up, not commercial scale) and capacity = the 30,000 t planned project, not the ramping line; lead may split or reclassify. No production tonnage. Reserve and ownership as for Longmucuo."
   },
@@ -487,7 +1139,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-04-11"
    },
-   "evidence": {"status": ["U4"], "capacity": ["U4"]},
+   "evidence": {
+    "status": [
+     "U4"
+    ],
+    "capacity": [
+     "U4"
+    ]
+   },
    "confidence": 0.35,
    "notes": "Filing pass (Tibet Urban Development 2025 AR, 600773_.txt, lines 470-476). 'Jinchang lithium-salt processing base project construction progressing steadily; planning scheme for phase 1 (5,000 t) of the 10,000-t high-purity lithium-salt processing project approved' - full plan 10,000 t/yr ('万吨' read as 10,000 t, LCE basis assumed because the product is not specified), phase 1 5,000 t. The separate entry 'commissioned processing of 10,000-t-scale lithium hydroxide' (委托加工氢氧化锂项目, lines 470-471) may be the same facility or a tolling arrangement elsewhere - not separated. Jinchang is in Gansu; the operating company is named 'Jinchang Beifang Guoneng Lithium' (line 1514, director role of the chairman). Ownership share held by Guoneng not stated. Capacity and timing very uncertain."
   },
@@ -497,7 +1156,15 @@
    "fields": {
     "reserves_resources": "Arcadia (2025 AR, Huayou): retained resource raised from 1.50 Mt to 2.45 Mt LCE at grade 1.34%; mining table: resource 66.8539 Mt ore, reserve 50.2226 Mt ore, annual output 4.5 Mt (ore basis implied), 11.1 years remaining, licence perpetual"
    },
-   "evidence": {"reserves_resources": ["H1", "H3"], "operator": ["H5"]},
+   "evidence": {
+    "reserves_resources": [
+     "H1",
+     "H3"
+    ],
+    "operator": [
+     "H5"
+    ]
+   },
    "confidence": 0.7,
    "notes": "Filing pass (Huayou 2025 AR, 603799_.txt). Ownership: Huayou raised its stake in Prospect Lithium Zimbabwe from 90.00% to 100.00% in Dec 2025 (line 10561, 'acquired minority stake' line 9816). CONFLICT / LEAD DECISION: the AR mining table gives 'annual output 450 万吨' = 4.5 Mt/yr for Arcadia with reserves 50.22 Mt (50.22/4.5 = 11.2 yr, AR says 11.1 yr), i.e. an ORE figure; the existing row's capacity 450,000 t spodumene/petalite concentrate (USGS 'about 450,000 t/yr lithium concentrates') is a different quantity (ore vs concentrate) and is left unchanged - the two numbers may be conflated across sources (10x). Arcadia output in 2025 is not given separately: company-wide 'lithium products' output 51,728.34 t, sales 54,387.84 t (line 820; 'physical tonnes', includes in-house supply and tolling) and carbonate shipments 54,400 t, +38.58% (line 503) - these are group totals across Huayou's China lithium-salt plants plus Arcadia products, not assigned to a plant. The AR says Arcadia 'operating efficiency continues to improve' (line 505) but gives no concentrate tonnage."
   },
@@ -509,7 +1176,14 @@
     "capacity_unit": "t lithium sulphate",
     "capacity_ref_year": 2026
    },
-   "evidence": {"capacity": ["H1"], "status": ["H2"]},
+   "evidence": {
+    "capacity": [
+     "H1"
+    ],
+    "status": [
+     "H2"
+    ]
+   },
    "confidence": 0.75,
    "notes": "Filing pass (Huayou 2025 AR, 603799_.txt). Capacity now sourced from the company: 'the 50,000 t/yr lithium sulphate project was built and trial-produced in Q1 [2026]' (lines 550-551), 'on the basis of being built and commissioned as planned, strive for early full/over production' (line 1413). Unit 't lithium sulphate' (units.csv, factor 0.672 to LCE, i.e. 33,600 t LCE; hydrate basis not stated). Capex: construction-in-progress 1,072,990,446 yuan, 95.00% progress at 2025-12-31 (lines 7896-7898, 7965-7971; digits split across lines in the text). Product use: Huayou states the sulphate is 'mainly used as raw material for domestic lithium-salt production' (lines 428-430), i.e. exported to Huayou's Chinese lithium-salt plants. No 2025 production; the SC004 2026 sales figure (33,807 t Jan-Sep) stays as in notes of the row."
   }

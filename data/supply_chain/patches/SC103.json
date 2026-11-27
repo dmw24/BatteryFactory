@@ -2,404 +2,1630 @@
  "task": "SC103",
  "verified_on": "2026-11-27",
  "sources": {
-  "R1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 659)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "公司已建成湖北鄂州、湖北仙桃、贵州遵义、浙江宁波、韩国忠州五大生产基地及多处办事"},
-  "R4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 1058-1059)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "目前，韩国工厂首期 2 ... 万吨/年及二期 4 万吨/年产线已全部建成，并通过国际客户认证实现"},
-  "R5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 789-790)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "针对欧洲市场，波兰工厂 2.5 万吨/年 ... 三元正极项目预计 2026 年下半年完成建设"},
-  "R5b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 889-890)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "波兰一期年产 2.5 万吨三元正极产能正在 ... 积极建设中"},
-  "R6b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 4705-4709, fragmented table of fundraising projects)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "1.1 仙桃 ... 一期年产 ... 2026 年 ... 10 万吨锂 ... 12 月"},
-  "R7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 913)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "公司已完成湖北仙桃首期 6000 吨/年产能建设"},
-  "R8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 901-902)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "公司通过并购贵州新仁，拥有年产 6 万吨/年产能，且现有厂房及 ... 公辅设施可支持公司快速扩展至 30 万吨/年产能"},
-  "R9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 4746)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "目前“2025 动力型锂电材料综合基地（一期）”项目 1-1 期 3 万吨前驱体生产线已建设完成并投产"},
-  "R9b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 4747-4748)", "published": "2026-04-11", "accessed": "2026-11-27", "language": "zh", "quote": "认为原规划的“2025 动力型锂电 ... 材料综合基地（一期）”项目 1-2 期的 3 万吨暂时不具备继续投入实施的必要性"},
-
-  "E1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 469)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "目前已拥有江苏常州、江苏南通、四川攀枝花、芬兰科特卡四大生产基地"},
-  "E2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 1845)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "当升科技（攀枝花）新材料产业基地首期项目年产 12 万吨磷酸（锰）铁锂材料主体产线已建成投产，部分配套辅助"},
-  "E3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 2072)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "攀枝花新材料产业基地首期二阶段项目年产 8 万吨产线成功调试"},
-  "E4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, lines 1063-1065)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "芬兰基地方面，一期项目年产 6 万吨高镍 ... 多元材料已于 2025 年上半年正式开工建设，各项工作稳步推进，预计 2026 年下半年部分产线建成投产"},
-
-  "X1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 970)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，一期项目已实现量产量销，二期项目完成设备安装进入调试阶段。"},
-  "X2a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 964-965)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "厦钨新能源海璟基地年产 30,000 吨锂 ... 离子电池材料扩产项目基本完工"},
-  "X2b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 965-966)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "海璟基地综合车间（年产能规划 15,000 吨）土建部分项目竣工 ... 验收备案完成，车间设备调试中"},
-  "X2c": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 5027)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "“厦钨新能源海璟基地年产 30000 吨锂离子电池材料扩产项目”已达到预定可使用状态，公司决"},
-  "X3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 967-968)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "宁德 70,000 吨锂离子电池正极材料（CD 车间）项目 ... C 车间根据生产计划安排上线了部分产能并已开始投产"},
-  "X4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 1056)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "公司及下属三明厦钨、宁德厦钨均获评国家级绿色工厂"},
-  "X5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 971-972)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "福泉基地年产 40,000 吨三元前驱体项目 ... 项目已完成总体前置手续办理、土地证获取、场平及围墙工程建设、施工临电定"},
-  "X6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 961-962)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "公司法国基地年产 40,000 吨三元材料项目为法国厦钨新能承担建设的项目，该项目是公司全 ... 已获得环评及建筑许可，工厂建设各项工作正有序推进"},
-
-  "M1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 632)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "全年正极材料主要产品实现销量 11.55 万吨，同比增长 62.68%"},
-  "M3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, lines 7875-7877, construction-in-progress table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "年产 6 万吨磷 ... 酸铁锂项目"},
-  "M4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 635)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "磷酸铁锂业务规模快速扩张"},
-  "M5a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, lines 795-796)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，金驰能源生产的三元前驱体全部 ... 用于公司生产三元正极材料"},
-  "M5b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 1171; company-level pCAM output table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "三元前驱体     吨       18,866.28"},
-
-  "Z1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 2562)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "公司主要生产基地之一位于黔西南州义龙新区，目前已具备年产 4 万吨正极材料的生产能力。"},
-  "Z2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 741)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "审慎推进产能扩张，暂缓义龙三期项目"},
-  "Z3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 789)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "贵阳新材获评国家级绿色工厂、省级绿色供应链管理企业"},
-
-  "S1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1056-1057)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "其中内蒙古、四川一期及云南一期项目均已 ... 顺利投产"},
-  "S2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1667-1668, major non-equity investment table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "四川眉山年产 20 万吨锂 ... 一期产能已投产；二 ... 期生活区已建设完"},
-  "S3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1670-1671, major non-equity investment table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "云南安宁年产 30 万吨锂 ... 一期产能已投产"},
-  "S3b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 6941-6943, construction-in-progress table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "一期已投产，二期暂 ... 未开工"},
-  "S4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, line 1013)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "目前，宁波硅基负极一期项目已顺利投产"},
-  "S4b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1673-1674, major non-equity investment table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "杉杉年产 4 万吨锂离子 ... 一期产能部分已投"},
-  "S5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 903-904)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，公司海外芬兰 10 万吨负极材料一体化项目已取得关键环评审批，已具备开工建设 ... 条件，建成后将成为公司全球化产能布局的重要支点"},
-  "S6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1841-1842, subsidiary table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "福建杉杉科技 ... 272,402.05"},
-  "S7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1862-1864, associate table)", "published": "2026-04-30", "accessed": "2026-11-27", "language": "zh", "quote": "巴斯夫杉杉电 ... 正极材料的 ... 池材料有限公 参股公司 ... 459,505.87"}
+  "R1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 659)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司已建成湖北鄂州、湖北仙桃、贵州遵义、浙江宁波、韩国忠州五大生产基地及多处办事"
+  },
+  "R4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 1058-1059)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前，韩国工厂首期 2 ... 万吨/年及二期 4 万吨/年产线已全部建成，并通过国际客户认证实现"
+  },
+  "R5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 789-790)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "针对欧洲市场，波兰工厂 2.5 万吨/年 ... 三元正极项目预计 2026 年下半年完成建设"
+  },
+  "R5b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 889-890)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "波兰一期年产 2.5 万吨三元正极产能正在 ... 积极建设中"
+  },
+  "R6b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 4705-4709, fragmented table of fundraising projects)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "1.1 仙桃 ... 一期年产 ... 2026 年 ... 10 万吨锂 ... 12 月"
+  },
+  "R7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 913)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司已完成湖北仙桃首期 6000 吨/年产能建设"
+  },
+  "R8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 901-902)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司通过并购贵州新仁，拥有年产 6 万吨/年产能，且现有厂房及 ... 公辅设施可支持公司快速扩展至 30 万吨/年产能"
+  },
+  "R9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, line 4746)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前“2025 动力型锂电材料综合基地（一期）”项目 1-1 期 3 万吨前驱体生产线已建设完成并投产"
+  },
+  "R9b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+   "publisher": "Ronbay (容百科技) 2025 annual report (local text team/evidence/filings/688005_2025.txt, lines 4747-4748)",
+   "published": "2026-04-11",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "认为原规划的“2025 动力型锂电 ... 材料综合基地（一期）”项目 1-2 期的 3 万吨暂时不具备继续投入实施的必要性"
+  },
+  "E1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+   "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 469)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前已拥有江苏常州、江苏南通、四川攀枝花、芬兰科特卡四大生产基地"
+  },
+  "E2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+   "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 1845)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "当升科技（攀枝花）新材料产业基地首期项目年产 12 万吨磷酸（锰）铁锂材料主体产线已建成投产，部分配套辅助"
+  },
+  "E3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+   "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 2072)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "攀枝花新材料产业基地首期二阶段项目年产 8 万吨产线成功调试"
+  },
+  "E4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+   "publisher": "Easpring (当升科技) 2025 annual report (local text team/evidence/filings/300073_2025.txt, lines 1063-1065)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "芬兰基地方面，一期项目年产 6 万吨高镍 ... 多元材料已于 2025 年上半年正式开工建设，各项工作稳步推进，预计 2026 年下半年部分产线建成投产"
+  },
+  "X1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 970)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，一期项目已实现量产量销，二期项目完成设备安装进入调试阶段。"
+  },
+  "X2a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 964-965)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "厦钨新能源海璟基地年产 30,000 吨锂 ... 离子电池材料扩产项目基本完工"
+  },
+  "X2b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 965-966)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "海璟基地综合车间（年产能规划 15,000 吨）土建部分项目竣工 ... 验收备案完成，车间设备调试中"
+  },
+  "X2c": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 5027)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "“厦钨新能源海璟基地年产 30000 吨锂离子电池材料扩产项目”已达到预定可使用状态，公司决"
+  },
+  "X3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 967-968)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宁德 70,000 吨锂离子电池正极材料（CD 车间）项目 ... C 车间根据生产计划安排上线了部分产能并已开始投产"
+  },
+  "X4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, line 1056)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司及下属三明厦钨、宁德厦钨均获评国家级绿色工厂"
+  },
+  "X5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 971-972)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "福泉基地年产 40,000 吨三元前驱体项目 ... 项目已完成总体前置手续办理、土地证获取、场平及围墙工程建设、施工临电定"
+  },
+  "X6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+   "publisher": "Xiamen Tungsten New Energy (厦钨新能) 2025 annual report (local text team/evidence/filings/688778_.txt, lines 961-962)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司法国基地年产 40,000 吨三元材料项目为法国厦钨新能承担建设的项目，该项目是公司全 ... 已获得环评及建筑许可，工厂建设各项工作正有序推进"
+  },
+  "M1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+   "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 632)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "全年正极材料主要产品实现销量 11.55 万吨，同比增长 62.68%"
+  },
+  "M3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+   "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, lines 7875-7877, construction-in-progress table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 6 万吨磷 ... 酸铁锂项目"
+  },
+  "M4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+   "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 635)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "磷酸铁锂业务规模快速扩张"
+  },
+  "M5a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+   "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, lines 795-796)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，金驰能源生产的三元前驱体全部 ... 用于公司生产三元正极材料"
+  },
+  "M5b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+   "publisher": "Minmetals New Energy Materials (Hunan) (五矿新能) 2025 annual report (local text team/evidence/filings/688779_.txt, line 1171; company-level pCAM output table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "三元前驱体     吨       18,866.28"
+  },
+  "Z1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+   "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 2562)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司主要生产基地之一位于黔西南州义龙新区，目前已具备年产 4 万吨正极材料的生产能力。"
+  },
+  "Z2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+   "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 741)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "审慎推进产能扩张，暂缓义龙三期项目"
+  },
+  "Z3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+   "publisher": "Guizhou Zhenhua New Material (振华新材) 2025 annual report (local text team/evidence/filings/688707_2025.txt, line 789)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "贵阳新材获评国家级绿色工厂、省级绿色供应链管理企业"
+  },
+  "S1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1056-1057)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "其中内蒙古、四川一期及云南一期项目均已 ... 顺利投产"
+  },
+  "S2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1667-1668, major non-equity investment table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川眉山年产 20 万吨锂 ... 一期产能已投产；二 ... 期生活区已建设完"
+  },
+  "S3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1670-1671, major non-equity investment table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "云南安宁年产 30 万吨锂 ... 一期产能已投产"
+  },
+  "S3b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 6941-6943, construction-in-progress table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "一期已投产，二期暂 ... 未开工"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, line 1013)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前，宁波硅基负极一期项目已顺利投产"
+  },
+  "S4b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1673-1674, major non-equity investment table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "杉杉年产 4 万吨锂离子 ... 一期产能部分已投"
+  },
+  "S5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 903-904)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，公司海外芬兰 10 万吨负极材料一体化项目已取得关键环评审批，已具备开工建设 ... 条件，建成后将成为公司全球化产能布局的重要支点"
+  },
+  "S6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1841-1842, subsidiary table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "福建杉杉科技 ... 272,402.05"
+  },
+  "S7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+   "publisher": "Shanshan Co. (杉杉股份) 2025 annual report (local text team/evidence/filings/600884_.txt, lines 1862-1864, associate table)",
+   "published": "2026-04-30",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "巴斯夫杉杉电 ... 正极材料的 ... 池材料有限公 参股公司 ... 459,505.87"
+  }
  },
  "rows": [
-  {"action": "update", "id": "ronbay-chungju-south-korea",
-   "fields": {"status": "operational", "capacity": 60000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": 60000, "installed_as_of": "2025-12-31",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R1"], "capacity": ["R4"], "installed_capacity": ["R4"]},
+  {
+   "action": "update",
+   "id": "ronbay-chungju-south-korea",
+   "fields": {
+    "status": "operational",
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 60000,
+    "installed_as_of": "2025-12-31",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ],
+    "capacity": [
+     "R4"
+    ],
+    "installed_capacity": [
+     "R4"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC103 2026-11-27] FY2025 AR (688005_2025.txt) l.1058-1059: Korean plant phase 1 (2 kt/yr) and phase 2 (4 kt/yr) lines 'fully built' and passed international customer certification (the AR text writes 2/4 万吨 = 20 kt + 40 kt/yr, i.e. 60 kt). l.889: phase 2 40 kt completed commissioning and customer certification in 2025. installed_capacity = 60 kt as of 2025-12-31 (AR narrative). CONFLICT inside the same AR: the construction-in-progress table l.8591-8592 still carries 'Chungju phase 2 40 kt' at CNY 692.19m (52.96% of the CNY 1,993m budget spent, progress 55%) at year end 2025, and l.8594-8596 names phase 1 '2.1 万吨' (21 kt) - so phase 2 may not be fully capitalised; installed figure rests on the narrative. Ownership: l.2565-2566 Ronbay is restructuring the Korean business to hold 24.9% of it (US 'One Big Beautiful Bill' FEOC rules); not yet reflected in operator/parent fields. Korean subsidiaries JS Co. (JS 株式会社) and EMT Co. (EMT 株式会社, Chungcheongbuk-do) l.10576-10584. JS Korea 2025 revenue CNY 1,010.99m, loss CNY 179.6m (l.2468). Production not split by site."},
-
-  {"action": "update", "id": "ronbay-ezhou-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["R1"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR (688005_2025.txt) l.1058-1059: Korean plant phase 1 (2 kt/yr) and phase 2 (4 kt/yr) lines 'fully built' and passed international customer certification (the AR text writes 2/4 万吨 = 20 kt + 40 kt/yr, i.e. 60 kt). l.889: phase 2 40 kt completed commissioning and customer certification in 2025. installed_capacity = 60 kt as of 2025-12-31 (AR narrative). CONFLICT inside the same AR: the construction-in-progress table l.8591-8592 still carries 'Chungju phase 2 40 kt' at CNY 692.19m (52.96% of the CNY 1,993m budget spent, progress 55%) at year end 2025, and l.8594-8596 names phase 1 '2.1 万吨' (21 kt) - so phase 2 may not be fully capitalised; installed figure rests on the narrative. Ownership: l.2565-2566 Ronbay is restructuring the Korean business to hold 24.9% of it (US 'One Big Beautiful Bill' FEOC rules); not yet reflected in operator/parent fields. Korean subsidiaries JS Co. (JS 株式会社) and EMT Co. (EMT 株式会社, Chungcheongbuk-do) l.10576-10584. JS Korea 2025 revenue CNY 1,010.99m, loss CNY 179.6m (l.2468). Production not split by site."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-ezhou-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Ezhou (Hubei) among the five built bases -> status now confirmed (was reported-tier). No base-level capacity or output in the AR. Hubei Ronbay (湖北容百, Ezhou) FY2025 revenue CNY 5,589.98m, Xiantao Ronbay CNY 2,994.58m, Guizhou Ronbay CNY 2,313.46m, JS Korea CNY 1,011.0m (l.2466-2469) - usable only as an allocation hint, not as capacity. Wuhan Ronbay (武汉容百, registered Ezhou, reg. capital CNY 1,026m, l.10565-10566) is a further Ezhou entity. Capacity 100 kt (2021, reported) unchanged. Company built cathode capacity '30 余万吨' (l.1876)."},
-
-  {"action": "update", "id": "ronbay-ningbo-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["R1"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Ezhou (Hubei) among the five built bases -> status now confirmed (was reported-tier). No base-level capacity or output in the AR. Hubei Ronbay (湖北容百, Ezhou) FY2025 revenue CNY 5,589.98m, Xiantao Ronbay CNY 2,994.58m, Guizhou Ronbay CNY 2,313.46m, JS Korea CNY 1,011.0m (l.2466-2469) - usable only as an allocation hint, not as capacity. Wuhan Ronbay (武汉容百, registered Ezhou, reg. capital CNY 1,026m, l.10565-10566) is a further Ezhou entity. Capacity 100 kt (2021, reported) unchanged. Company built cathode capacity '30 余万吨' (l.1876)."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-ningbo-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Zhejiang Ningbo among the five built production bases. The AR gives no product mix or capacity for Ningbo; it names Ningbo 'Linshan base' (宁波市临山基地) and Yuyao 'Xiaocao'e base' (余姚市小曹娥基地) buildings awaiting title (l.8519, 8525) and a Yuyao manufacturing subsidiary 容百材料公司 (l.10573-10574). Whether Ningbo makes CAM, precursor or other is still NOT stated; capacity stays null."},
-
-  {"action": "update", "id": "ronbay-xiantao-china",
-   "fields": {"status": "operational", "capacity": 100000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R1"], "capacity": ["R6b"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Zhejiang Ningbo among the five built production bases. The AR gives no product mix or capacity for Ningbo; it names Ningbo 'Linshan base' (宁波市临山基地) and Yuyao 'Xiaocao'e base' (余姚市小曹娥基地) buildings awaiting title (l.8519, 8525) and a Yuyao manufacturing subsidiary 容百材料公司 (l.10573-10574). Whether Ningbo makes CAM, precursor or other is still NOT stated; capacity stays null."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-xiantao-china",
+   "fields": {
+    "status": "operational",
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ],
+    "capacity": [
+     "R6b"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] FY2025 AR fundraising table l.4705-4709 (fragmented): 'Xiantao phase I, annual 100,000 t lithium-battery cathode material project', usable-state date 2026 (12), CNY 426.05m raised funds fully spent. Linked by name to the construction-in-progress item 'Xiantao cathode base phase 1-1' (仙桃正极基地 1-1 期项目, l.8586; budget CNY 1,418.37m, 72.89% spent, progress 95%; CNY 116.4m transferred to fixed assets in 2025, l.8626-8627) - the link is by name, not stated. Product type of the 100 kt not stated (project title says 锂电正极材料). Earlier SC011 note cites a 36kr report of a 400 kt Xiantao cathode project partly converted to sodium - only the phase-I 100 kt is evidenced here. Sodium phase 1 (6,000 t) is a separate row (ronbay-xiantao-sodium-phase1-china); check for overlap before summing with this row. Xiantao Ronbay FY2025 revenue CNY 2,994.58m (l.2469)."},
-
-  {"action": "update", "id": "ronbay-zunyi-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["R1"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR fundraising table l.4705-4709 (fragmented): 'Xiantao phase I, annual 100,000 t lithium-battery cathode material project', usable-state date 2026 (12), CNY 426.05m raised funds fully spent. Linked by name to the construction-in-progress item 'Xiantao cathode base phase 1-1' (仙桃正极基地 1-1 期项目, l.8586; budget CNY 1,418.37m, 72.89% spent, progress 95%; CNY 116.4m transferred to fixed assets in 2025, l.8626-8627) - the link is by name, not stated. Product type of the 100 kt not stated (project title says 锂电正极材料). Earlier SC011 note cites a 36kr report of a 400 kt Xiantao cathode project partly converted to sodium - only the phase-I 100 kt is evidenced here. Sodium phase 1 (6,000 t) is a separate row (ronbay-xiantao-sodium-phase1-china); check for overlap before summing with this row. Xiantao Ronbay FY2025 revenue CNY 2,994.58m (l.2469)."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-zunyi-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "R1"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Guizhou Zunyi among built bases -> status confirmed. Fundraising table l.4712-4716 (fragmented): Zunyi phase 2-2 '3.4 万吨' (34 kt) lithium cathode project, usable date 2024 Q3, CNY 391.1m. CIP l.8651-8652: 'Guizhou lithium-battery cathode material project', budget CNY 1,402.28m, 100.15% spent, nearly complete. Zunyi project property CNY 365.9m awaiting title (l.8526). Zunyi mid-nickel high-voltage line retrofit completed 2025 (l.2531-2532). Capacity 100 kt (2018 plan, reported) left unchanged; the AR does not state a base total. Guizhou Ronbay FY2025 revenue CNY 2,313.46m (l.2467)."},
-
-  {"action": "update", "id": "ronbay-poland-poland",
-   "fields": {"status": "under_construction", "capacity": 25000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R5b"], "capacity": ["R5"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR l.659 lists Guizhou Zunyi among built bases -> status confirmed. Fundraising table l.4712-4716 (fragmented): Zunyi phase 2-2 '3.4 万吨' (34 kt) lithium cathode project, usable date 2024 Q3, CNY 391.1m. CIP l.8651-8652: 'Guizhou lithium-battery cathode material project', budget CNY 1,402.28m, 100.15% spent, nearly complete. Zunyi project property CNY 365.9m awaiting title (l.8526). Zunyi mid-nickel high-voltage line retrofit completed 2025 (l.2531-2532). Capacity 100 kt (2018 plan, reported) left unchanged; the AR does not state a base total. Guizhou Ronbay FY2025 revenue CNY 2,313.46m (l.2467)."
+  },
+  {
+   "action": "update",
+   "id": "ronbay-poland-poland",
+   "fields": {
+    "status": "under_construction",
+    "capacity": 25000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R5b"
+    ],
+    "capacity": [
+     "R5"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC103 2026-11-27] FY2025 AR: Poland phase I 25 kt/yr NCM (2.5 万吨), construction completes H2 2026 then commissioning and customer certification (l.789-790, 889-890, 2564); the plan also includes Europe's first LFP line (l.1067-1068). CONFLICT within the AR: the CIP table l.8590 and l.8637-8638 name the item 'Poland phase 1, 20,000 t cathode project' (2 万吨), CNY 437.5m spent of CNY 1,356.3m budget (31.06%, progress 30%); narrative text says 25 kt. 25 kt used (stated three times in narrative, replaces the 20 kt of the SMM 2024 article). Capacity ref year 2026 = stated completion year. Status stays under_construction."},
-
-  {"action": "update", "id": "xiamen-tungsten-new-energy-yaan-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["X1"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR: Poland phase I 25 kt/yr NCM (2.5 万吨), construction completes H2 2026 then commissioning and customer certification (l.789-790, 889-890, 2564); the plan also includes Europe's first LFP line (l.1067-1068). CONFLICT within the AR: the CIP table l.8590 and l.8637-8638 name the item 'Poland phase 1, 20,000 t cathode project' (2 万吨), CNY 437.5m spent of CNY 1,356.3m budget (31.06%, progress 30%); narrative text says 25 kt. 25 kt used (stated three times in narrative, replaces the 20 kt of the SMM 2024 article). Capacity ref year 2026 = stated completion year. Status stays under_construction."
+  },
+  {
+   "action": "update",
+   "id": "xiamen-tungsten-new-energy-yaan-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "X1"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC103 2026-11-27] FY2025 AR (688778_.txt) l.970: phase 1 of the Ya'an liquid-phase LFP project is in volume production and sales; phase 2 equipment installed, commissioning. CIP table: phase 1 budget CNY 926.55m, 74.19% spent, 'basically complete' (l.9395-9398); phase 2 budget CNY 408m, 95.96% spent, balance CNY 307.2m (l.9287, 9403). Ya'an Xiamen Tungsten (雅安厦钨, 83% owned, l.11505) FY2025 revenue CNY 896.8m, operating loss CNY 98.5m (l.1943). 2025 LFP sales 2.20 万吨 = 22,000 t, 'capacity continues to ramp' (l.825) - sales, not production; the AR gives no nameplate or installed capacity for Ya'an, so the SC011 conflict (40+40 kt vs 20+20 kt) is NOT resolved by this filing. Capacity and installed values unchanged."},
-
-  {"action": "update", "id": "basf-shanshan-changsha-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["S7"]},
+   "notes": "[SC103 2026-11-27] FY2025 AR (688778_.txt) l.970: phase 1 of the Ya'an liquid-phase LFP project is in volume production and sales; phase 2 equipment installed, commissioning. CIP table: phase 1 budget CNY 926.55m, 74.19% spent, 'basically complete' (l.9395-9398); phase 2 budget CNY 408m, 95.96% spent, balance CNY 307.2m (l.9287, 9403). Ya'an Xiamen Tungsten (雅安厦钨, 83% owned, l.11505) FY2025 revenue CNY 896.8m, operating loss CNY 98.5m (l.1943). 2025 LFP sales 2.20 万吨 = 22,000 t, 'capacity continues to ramp' (l.825) - sales, not production; the AR gives no nameplate or installed capacity for Ya'an, so the SC011 conflict (40+40 kt vs 20+20 kt) is NOT resolved by this filing. Capacity and installed values unchanged."
+  },
+  {
+   "action": "update",
+   "id": "basf-shanshan-changsha-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Shanshan Co. FY2025 AR (600884_.txt): BASF Shanshan Battery Materials (巴斯夫杉杉电池材料有限公司, Changsha, Hunan; Shanshan holds 49.00% equity-method, l.8771-8773) 'R&D, production and sales of Li-ion cathode materials', FY2025 revenue CNY 4,595.06m, net loss CNY 158.7m (l.1862-1864). Revenue evidences operating status at JV level (applies to both BSBM site rows); no tonnage or per-site capacity in the AR. Shanshan's directors sit on the boards of BSBM, BSBM Ningxia (宁夏) and BSBM Ningxiang (宁乡) (l.2308-2321): Ningxiang = Changsha site, Ningxia = Shizuishan site. Capacity (100 kt combined, BASF 2022) not confirmed."},
-
-  {"action": "update", "id": "basf-shanshan-shuizuishan-china",
-   "fields": {"status": "operational"},
-   "evidence": {"status": ["S7"]},
+   "notes": "[SC103 2026-11-27] Shanshan Co. FY2025 AR (600884_.txt): BASF Shanshan Battery Materials (巴斯夫杉杉电池材料有限公司, Changsha, Hunan; Shanshan holds 49.00% equity-method, l.8771-8773) 'R&D, production and sales of Li-ion cathode materials', FY2025 revenue CNY 4,595.06m, net loss CNY 158.7m (l.1862-1864). Revenue evidences operating status at JV level (applies to both BSBM site rows); no tonnage or per-site capacity in the AR. Shanshan's directors sit on the boards of BSBM, BSBM Ningxia (宁夏) and BSBM Ningxiang (宁乡) (l.2308-2321): Ningxiang = Changsha site, Ningxia = Shizuishan site. Capacity (100 kt combined, BASF 2022) not confirmed."
+  },
+  {
+   "action": "update",
+   "id": "basf-shanshan-shuizuishan-china",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC103 2026-11-27] Group-level evidence only (see Changsha row): BSBM FY2025 revenue CNY 4,595.06m (Shanshan AR l.1862-1864). A separate BSBM Ningxia (宁夏) legal entity exists (director list, l.2309-2318), consistent with the Ningxia site, but the AR does not give the site's output or capacity. Status evidence is JV-wide, not site-specific -> low confidence."},
-
-  {"action": "add", "id": "ronbay-guizhou-xinren-lfp-china",
-   "fields": {"asset_name": "Guizhou Xinren (贵州新仁) LFP plant", "step": "cathode", "commodity": "cathode", "product": "LFP CAM (one-step process)",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "LFP", "operator": "Guizhou Xinren New Energy Technology (贵州新仁新能源科技)",
-              "parent_company": "Ronbay Technology (688005.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Guizhou",
-              "latitude": null, "longitude": null, "geo_precision": "none", "status": "operational", "project_state": "active", "announced_year": 2025, "start_year": null,
-              "capacity": 60000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null,
-              "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R8"], "capacity": ["R8"]},
+   "notes": "[SC103 2026-11-27] Group-level evidence only (see Changsha row): BSBM FY2025 revenue CNY 4,595.06m (Shanshan AR l.1862-1864). A separate BSBM Ningxia (宁夏) legal entity exists (director list, l.2309-2318), consistent with the Ningxia site, but the AR does not give the site's output or capacity. Status evidence is JV-wide, not site-specific -> low confidence."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-guizhou-xinren-lfp-china",
+   "fields": {
+    "asset_name": "Guizhou Xinren (贵州新仁) LFP plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM (one-step process)",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "LFP",
+    "operator": "Guizhou Xinren New Energy Technology (贵州新仁新能源科技)",
+    "parent_company": "Ronbay Technology (688005.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R8"
+    ],
+    "capacity": [
+     "R8"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.901-902: by acquiring Guizhou Xinren Ronbay 'has 60 kt/yr capacity; existing buildings and utilities can support rapid expansion to 300 kt/yr'. l.2572-2573: in 2026 Ronbay plans to build a 300 kt/yr line in Guizhou - undated aspiration, NOT counted in capacity (D-015). Deal: agreement 2025-11-22, CNY 341.76m for 54.9688% + CNY 140m capital injection; after further transfers Ronbay will hold 93.2034%; the 54.9688% registration completed 2026-03-25 (l.11490-11504); CNY 180m paid by 2025-12-31. Long-term LFP purchase agreement with CATL signed Jan 2026 (l.902). Location inside Guizhou not stated; whether the 60 kt is running is not stated (installed left null); status operational at low confidence."},
-
-  {"action": "add", "id": "ronbay-xiantao-sodium-phase1-china",
-   "fields": {"asset_name": "Xiantao sodium-ion cathode phase 1 (6 kt)", "step": "cathode", "commodity": "cathode", "product": "sodium-ion CAM (polyanion)",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "sodium-ion", "operator": "Ronbay Technology (容百科技)",
-              "parent_company": "Ronbay Technology", "jv_partners": null, "country": "China", "region": "China", "province_state": "Hubei",
-              "latitude": 30.36, "longitude": 113.45, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
-              "capacity": 6000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": 6000, "installed_as_of": "2025-12-31",
-              "capacity_by_year_json": {"2025": 6000}, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R7"], "capacity": ["R7"], "installed_capacity": ["R7"], "capacity_by_year_json": ["R7"]},
+   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.901-902: by acquiring Guizhou Xinren Ronbay 'has 60 kt/yr capacity; existing buildings and utilities can support rapid expansion to 300 kt/yr'. l.2572-2573: in 2026 Ronbay plans to build a 300 kt/yr line in Guizhou - undated aspiration, NOT counted in capacity (D-015). Deal: agreement 2025-11-22, CNY 341.76m for 54.9688% + CNY 140m capital injection; after further transfers Ronbay will hold 93.2034%; the 54.9688% registration completed 2026-03-25 (l.11490-11504); CNY 180m paid by 2025-12-31. Long-term LFP purchase agreement with CATL signed Jan 2026 (l.902). Location inside Guizhou not stated; whether the 60 kt is running is not stated (installed left null); status operational at low confidence."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-xiantao-sodium-phase1-china",
+   "fields": {
+    "asset_name": "Xiantao sodium-ion cathode phase 1 (6 kt)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "sodium-ion CAM (polyanion)",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "sodium-ion",
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": 30.36,
+    "longitude": 113.45,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 6000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 6000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {
+     "2025": 6000
+    },
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R7"
+    ],
+    "capacity": [
+     "R7"
+    ],
+    "installed_capacity": [
+     "R7"
+    ],
+    "capacity_by_year_json": [
+     "R7"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.913: Xiantao first phase 6,000 t/yr sodium-cathode capacity completed in the reporting period (CATL long-term agreement Nov 2025: >=60% of CATL's sodium-cathode purchases, l.911-913). Company plans '50 kt/yr sodium cathode built in H2 2026' (l.2589) without naming the site - not entered. Polyanion sodium cathode in 'stable mass production' (l.909). Coordinates = Xiantao city centroid. OVERLAP WARNING: this 6 kt phase may sit inside the Xiantao base (ronbay-xiantao-china) and the 300 kt integrated project (ronbay-xiantao-sodium-integrated-china, SC011); the AR does not say; do not add all three without a dedupe decision."},
-
-  {"action": "add", "id": "ronbay-power-materials-base-phase1-pcam-china",
-   "fields": {"asset_name": "2025 Power Li-battery Materials Comprehensive Base (Phase I) 1-1 pCAM line", "step": "precursor", "commodity": "precursor", "product": "NCM pCAM",
-              "asset_type": "pCAM plant", "feedstock": null, "chemistry": "NCM", "operator": "Ronbay Technology (容百科技)",
-              "parent_company": "Ronbay Technology", "jv_partners": null, "country": "China", "region": "China", "province_state": null,
-              "latitude": null, "longitude": null, "geo_precision": "none", "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2024,
-              "capacity": 30000, "capacity_unit": "t pCAM", "capacity_ref_year": 2024, "installed_capacity": 30000, "installed_as_of": "2025-12-31",
-              "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-11"},
-   "evidence": {"status": ["R9"], "capacity": ["R9", "R9b"], "installed_capacity": ["R9"]},
+   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.913: Xiantao first phase 6,000 t/yr sodium-cathode capacity completed in the reporting period (CATL long-term agreement Nov 2025: >=60% of CATL's sodium-cathode purchases, l.911-913). Company plans '50 kt/yr sodium cathode built in H2 2026' (l.2589) without naming the site - not entered. Polyanion sodium cathode in 'stable mass production' (l.909). Coordinates = Xiantao city centroid. OVERLAP WARNING: this 6 kt phase may sit inside the Xiantao base (ronbay-xiantao-china) and the 300 kt integrated project (ronbay-xiantao-sodium-integrated-china, SC011); the AR does not say; do not add all three without a dedupe decision."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-power-materials-base-phase1-pcam-china",
+   "fields": {
+    "asset_name": "2025 Power Li-battery Materials Comprehensive Base (Phase I) 1-1 pCAM line",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Ronbay Technology (容百科技)",
+    "parent_company": "Ronbay Technology",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 30000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-11/1225095564.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-11"
+   },
+   "evidence": {
+    "status": [
+     "R9"
+    ],
+    "capacity": [
+     "R9",
+     "R9b"
+    ],
+    "installed_capacity": [
+     "R9"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.4746-4748: the 1-1 phase 3 万吨 (30 kt) precursor line of the '2025 Power Li-battery Materials Comprehensive Base (Phase I)' is built and in production; the originally planned 1-2 phase (further 30 kt) is not being pursued 'for now' (so full plan = 30 kt). The fundraising table lists usable-state date 2024/12/31 (split over l.4686-4688) -> ref year 2024. The AR does NOT name the site/province (project name only; Ronbay's precursor sits in Hubei/Korea per earlier reports, not confirmed) -> no coordinates. Company-wide precursor output 2025 = 26,907.91 t, sales 1,497.15 t, stock 2,044.74 t (l.2145) includes all Ronbay precursor sites; NOT allocated to this row."},
-
-  {"action": "add", "id": "easpring-panzhihua-lfp-china",
-   "fields": {"asset_name": "Dangsheng Shudao (Panzhihua) new materials base, phase 1 (LFP/LMFP)", "step": "cathode", "commodity": "cathode", "product": "LFP / LMFP CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "LFP / LMFP", "operator": "Dangsheng Shudao (Panzhihua) New Materials (当升蜀道（攀枝花）新材料有限公司)",
-              "parent_company": "Easpring Technology (当升科技, 300073.SZ), 51%", "jv_partners": "Minority holder 49% (not named in the AR; the entity name implies Shudao group)",
-              "country": "China", "region": "China", "province_state": "Sichuan", "latitude": 26.58, "longitude": 101.72, "geo_precision": "city",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 120000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": 120000, "installed_as_of": "2025-12-31",
-              "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
-   "evidence": {"status": ["E2", "E3"], "capacity": ["E2"], "installed_capacity": ["E2"]},
+   "notes": "[SC103 2026-11-27] Ronbay FY2025 AR l.4746-4748: the 1-1 phase 3 万吨 (30 kt) precursor line of the '2025 Power Li-battery Materials Comprehensive Base (Phase I)' is built and in production; the originally planned 1-2 phase (further 30 kt) is not being pursued 'for now' (so full plan = 30 kt). The fundraising table lists usable-state date 2024/12/31 (split over l.4686-4688) -> ref year 2024. The AR does NOT name the site/province (project name only; Ronbay's precursor sits in Hubei/Korea per earlier reports, not confirmed) -> no coordinates. Company-wide precursor output 2025 = 26,907.91 t, sales 1,497.15 t, stock 2,044.74 t (l.2145) includes all Ronbay precursor sites; NOT allocated to this row."
+  },
+  {
+   "action": "add",
+   "id": "easpring-panzhihua-lfp-china",
+   "fields": {
+    "asset_name": "Dangsheng Shudao (Panzhihua) new materials base, phase 1 (LFP/LMFP)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP / LMFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "LFP / LMFP",
+    "operator": "Dangsheng Shudao (Panzhihua) New Materials (当升蜀道（攀枝花）新材料有限公司)",
+    "parent_company": "Easpring Technology (当升科技, 300073.SZ), 51%",
+    "jv_partners": "Minority holder 49% (not named in the AR; the entity name implies Shudao group)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 26.58,
+    "longitude": 101.72,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 120000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 120000,
+    "installed_as_of": "2025-12-31",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "E2",
+     "E3"
+    ],
+    "capacity": [
+     "E2"
+    ],
+    "installed_capacity": [
+     "E2"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC103 2026-11-27] Easpring FY2025 AR (300073_2025.txt) l.1845-1846 and l.1069-1071: phase-1 'main production lines of 12 万吨/yr LFP/LMFP built and in production; some auxiliary facilities still under construction'. l.2072: phase-1 second stage (8 万吨 = 80 kt) line commissioned and put into production in 2025 (implies stage 1 about 40 kt - arithmetic only, not stated). Ownership 51% Easpring / 49% minority (l.11252-11253, 11293). Budget CNY 1,746.3m, 72.80% spent (l.9508-9512); fundraising table usable date 2026-12-31, 38.46% (l.5125-5129). FY2025 revenue CNY 2,858.5m, net profit CNY 23.7m (l.1958-1960). Ref year 2025 = publication-year fallback. 'Installed' = main lines built per AR; the company states effective 2025 capacity was lower than built (new capacity had little time to release, l.1289-1290). Site output not disclosed (company total 161,342 t). Further LFP/LMFP capacity to follow customer orders (l.1073-1075)."},
-
-  {"action": "add", "id": "easpring-finland-kotka-finland",
-   "fields": {"asset_name": "Easpring Finland (Kotka) European new materials base, phase I", "step": "cathode", "commodity": "cathode", "product": "high-nickel NCM CAM (poly- and single-crystal)",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "NCM (high/ultra-high nickel)", "operator": "Easpring (Finland) New Materials (当升科技（芬兰）新材料有限公司)",
-              "parent_company": "Easpring Technology (当升科技, 300073.SZ), 70%", "jv_partners": "Other shareholders (30%) not named in the AR",
-              "country": "Finland", "region": "Europe", "province_state": null, "latitude": 60.47, "longitude": 26.95, "geo_precision": "city",
-              "status": "under_construction", "project_state": "active", "announced_year": 2023, "start_year": null,
-              "capacity": 60000, "capacity_unit": "t CAM", "capacity_ref_year": 2026, "installed_capacity": null, "installed_as_of": null,
-              "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
-   "evidence": {"status": ["E4"], "capacity": ["E4"]},
+   "notes": "[SC103 2026-11-27] Easpring FY2025 AR (300073_2025.txt) l.1845-1846 and l.1069-1071: phase-1 'main production lines of 12 万吨/yr LFP/LMFP built and in production; some auxiliary facilities still under construction'. l.2072: phase-1 second stage (8 万吨 = 80 kt) line commissioned and put into production in 2025 (implies stage 1 about 40 kt - arithmetic only, not stated). Ownership 51% Easpring / 49% minority (l.11252-11253, 11293). Budget CNY 1,746.3m, 72.80% spent (l.9508-9512); fundraising table usable date 2026-12-31, 38.46% (l.5125-5129). FY2025 revenue CNY 2,858.5m, net profit CNY 23.7m (l.1958-1960). Ref year 2025 = publication-year fallback. 'Installed' = main lines built per AR; the company states effective 2025 capacity was lower than built (new capacity had little time to release, l.1289-1290). Site output not disclosed (company total 161,342 t). Further LFP/LMFP capacity to follow customer orders (l.1073-1075)."
+  },
+  {
+   "action": "add",
+   "id": "easpring-finland-kotka-finland",
+   "fields": {
+    "asset_name": "Easpring Finland (Kotka) European new materials base, phase I",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-nickel NCM CAM (poly- and single-crystal)",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "NCM (high/ultra-high nickel)",
+    "operator": "Easpring (Finland) New Materials (当升科技（芬兰）新材料有限公司)",
+    "parent_company": "Easpring Technology (当升科技, 300073.SZ), 70%",
+    "jv_partners": "Other shareholders (30%) not named in the AR",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": 60.47,
+    "longitude": 26.95,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "E4"
+    ],
+    "capacity": [
+     "E4"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.1063-1065: phase I 60 kt/yr high-nickel NCM, construction started H1 2025, part of the lines expected to be built and in production in H2 2026. Overall European plan 500 kt (200 kt NCM + 300 kt LFP/LMFP), phased (l.2137) - only phase I is dated and entered. Location Kotka from l.469 ('Finland Kotka' among the four production bases). Fundraising table lists usable-state date 2027-06-30 for the phase I project (l.5138-5143, fragmented) -> ref year could be 2027; 2026 used because the narrative dates first lines to H2 2026 (flag for lead). CIP CNY 1,141.4m vs budget CNY 4,378.0m = 26.07% (l.9495-9499). Business Finland grant up to EUR 115m approved, EUR 27.81m received 2026-01-20 (l.2154-2158). Company table 'under-construction capacity 60,000 t' (l.1287). Easpring holds 70% (l.11261-11262). announced_year 2023 = disclosure date in the CIP/investment table (l.1835-1837 '2023 年 07 月 29 日'), not otherwise sourced."},
-
-  {"action": "add", "id": "easpring-changzhou-china",
-   "fields": {"asset_name": "Easpring Changzhou base (当升科技（常州）新材料)", "step": "cathode", "commodity": "cathode", "product": "NCM / multi-element CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": null, "operator": "Easpring (Changzhou) New Materials (当升科技（常州）新材料有限公司)",
-              "parent_company": "Easpring Technology (当升科技, 300073.SZ)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Jiangsu",
-              "latitude": 31.81, "longitude": 119.97, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
-   "evidence": {"status": ["E1"]},
+   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.1063-1065: phase I 60 kt/yr high-nickel NCM, construction started H1 2025, part of the lines expected to be built and in production in H2 2026. Overall European plan 500 kt (200 kt NCM + 300 kt LFP/LMFP), phased (l.2137) - only phase I is dated and entered. Location Kotka from l.469 ('Finland Kotka' among the four production bases). Fundraising table lists usable-state date 2027-06-30 for the phase I project (l.5138-5143, fragmented) -> ref year could be 2027; 2026 used because the narrative dates first lines to H2 2026 (flag for lead). CIP CNY 1,141.4m vs budget CNY 4,378.0m = 26.07% (l.9495-9499). Business Finland grant up to EUR 115m approved, EUR 27.81m received 2026-01-20 (l.2154-2158). Company table 'under-construction capacity 60,000 t' (l.1287). Easpring holds 70% (l.11261-11262). announced_year 2023 = disclosure date in the CIP/investment table (l.1835-1837 '2023 年 07 月 29 日'), not otherwise sourced."
+  },
+  {
+   "action": "add",
+   "id": "easpring-changzhou-china",
+   "fields": {
+    "asset_name": "Easpring Changzhou base (当升科技（常州）新材料)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM / multi-element CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Easpring (Changzhou) New Materials (当升科技（常州）新材料有限公司)",
+    "parent_company": "Easpring Technology (当升科技, 300073.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": 31.81,
+    "longitude": 119.97,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "E1"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.469 names Jiangsu Changzhou as one of four production bases; subsidiary table l.1939-1941: Changzhou Easpring FY2025 revenue about CNY 5,424m (largest Easpring entity), net profit CNY 286.5m. Fundraising: Changzhou base phase 2 (plan CNY 2,001.6m, usable 2023-07-31, 100% invested, l.5083-5091) - tonnage not stated. No site capacity or output in the AR. Company built capacity 228 kt at end-2025 (effective 152 kt in 2025) of which Panzhihua 120 kt -> the two Jiangsu bases together account for about 108 kt (arithmetic inference, NOT allocated; l.1289, 1845). Product mix (NCM, high-voltage LCO etc.) not split by base."},
-
-  {"action": "add", "id": "easpring-haimen-nantong-china",
-   "fields": {"asset_name": "Jiangsu Easpring (Haimen, Nantong) base (江苏当升材料)", "step": "cathode", "commodity": "cathode", "product": "NCM / LCO CAM (incl. 4.50V LCO)",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": null, "operator": "Jiangsu Easpring Materials Technology (江苏当升材料科技有限公司)",
-              "parent_company": "Easpring Technology (当升科技, 300073.SZ)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Jiangsu",
-              "latitude": 31.89, "longitude": 121.18, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
-   "evidence": {"status": ["E1"]},
+   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.469 names Jiangsu Changzhou as one of four production bases; subsidiary table l.1939-1941: Changzhou Easpring FY2025 revenue about CNY 5,424m (largest Easpring entity), net profit CNY 286.5m. Fundraising: Changzhou base phase 2 (plan CNY 2,001.6m, usable 2023-07-31, 100% invested, l.5083-5091) - tonnage not stated. No site capacity or output in the AR. Company built capacity 228 kt at end-2025 (effective 152 kt in 2025) of which Panzhihua 120 kt -> the two Jiangsu bases together account for about 108 kt (arithmetic inference, NOT allocated; l.1289, 1845). Product mix (NCM, high-voltage LCO etc.) not split by base."
+  },
+  {
+   "action": "add",
+   "id": "easpring-haimen-nantong-china",
+   "fields": {
+    "asset_name": "Jiangsu Easpring (Haimen, Nantong) base (江苏当升材料)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM / LCO CAM (incl. 4.50V LCO)",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Jiangsu Easpring Materials Technology (江苏当升材料科技有限公司)",
+    "parent_company": "Easpring Technology (当升科技, 300073.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": 31.89,
+    "longitude": 121.18,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-31"
+   },
+   "evidence": {
+    "status": [
+     "E1"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.469 'Jiangsu Nantong' base; subsidiary registered in Haimen, Nantong (l.11237-11238); FY2025 revenue CNY 2,899.6m, net profit CNY 152.3m (l.1925-1927). Subsidiary report l.1995: 4.50V/4.53V LCO ramped for 3C customers; precursor MES line (l.2001) indicates in-house precursor. Fundraising: Jiangsu Easpring phase 4 (plan CNY 755.8m, usable 2023-12-31, l.5095-5100) - tonnage not stated. No site capacity or output disclosed (see Changzhou row for the 108 kt residual of the two Jiangsu bases, not allocated)."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-haijing-30kt-expansion-china",
-   "fields": {"asset_name": "Haijing base 30 kt Li-ion battery material expansion (Xiamen)", "step": "cathode", "commodity": "cathode", "product": "Li-ion battery cathode material (type not stated)",
-              "asset_type": "cathode plant (expansion)", "feedstock": null, "chemistry": null, "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
-              "parent_company": "Xiamen Tungsten (厦门钨业)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": 24.48, "longitude": 118.09, "geo_precision": "city", "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 30000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X2a", "X2c"], "capacity": ["X2a"]},
+   "notes": "[SC103 2026-11-27] Easpring FY2025 AR l.469 'Jiangsu Nantong' base; subsidiary registered in Haimen, Nantong (l.11237-11238); FY2025 revenue CNY 2,899.6m, net profit CNY 152.3m (l.1925-1927). Subsidiary report l.1995: 4.50V/4.53V LCO ramped for 3C customers; precursor MES line (l.2001) indicates in-house precursor. Fundraising: Jiangsu Easpring phase 4 (plan CNY 755.8m, usable 2023-12-31, l.5095-5100) - tonnage not stated. No site capacity or output disclosed (see Changzhou row for the 108 kt residual of the two Jiangsu bases, not allocated)."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-haijing-30kt-expansion-china",
+   "fields": {
+    "asset_name": "Haijing base 30 kt Li-ion battery material expansion (Xiamen)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "Li-ion battery cathode material (type not stated)",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "parent_company": "Xiamen Tungsten (厦门钨业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 24.48,
+    "longitude": 118.09,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X2a",
+     "X2c"
+    ],
+    "capacity": [
+     "X2a"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR (688778_.txt) l.964-965: the 2022 private-placement project 'Haijing base 30,000 t/yr Li-ion battery material expansion' basically complete at end-2025; l.5027-5028: reached usable state and closed on 2026-04-21. CIP: budget CNY 864m, 58.06%, CNY 500.8m transferred to fixed assets in 2025 (l.9374). Production start/commercial output is NOT stated -> status held at under_construction (the lead may promote it to operational if 'usable state' is accepted as commissioning). Incremental to the base row xiamen-tungsten-new-energy-haijing-xiamen-china (SC009), whose total capacity is unknown: do not double count. Product type not named in the AR ('锂离子电池材料'); the SC009 note says the Dec-2021 announcement was a 30 kt cathode expansion. The project was financed by the 2022 private placement (announced_year left null)."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-haijing-workshop-15kt-china",
-   "fields": {"asset_name": "Haijing base integrated workshop (15 kt planned, Xiamen)", "step": "cathode", "commodity": "cathode", "product": "Li-ion battery cathode material (type not stated)",
-              "asset_type": "cathode plant (expansion)", "feedstock": null, "chemistry": null, "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
-              "parent_company": "Xiamen Tungsten (厦门钨业)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": 24.48, "longitude": 118.09, "geo_precision": "city", "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 15000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X2b"], "capacity": ["X2b"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR (688778_.txt) l.964-965: the 2022 private-placement project 'Haijing base 30,000 t/yr Li-ion battery material expansion' basically complete at end-2025; l.5027-5028: reached usable state and closed on 2026-04-21. CIP: budget CNY 864m, 58.06%, CNY 500.8m transferred to fixed assets in 2025 (l.9374). Production start/commercial output is NOT stated -> status held at under_construction (the lead may promote it to operational if 'usable state' is accepted as commissioning). Incremental to the base row xiamen-tungsten-new-energy-haijing-xiamen-china (SC009), whose total capacity is unknown: do not double count. Product type not named in the AR ('锂离子电池材料'); the SC009 note says the Dec-2021 announcement was a 30 kt cathode expansion. The project was financed by the 2022 private placement (announced_year left null)."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-haijing-workshop-15kt-china",
+   "fields": {
+    "asset_name": "Haijing base integrated workshop (15 kt planned, Xiamen)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "Li-ion battery cathode material (type not stated)",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "parent_company": "Xiamen Tungsten (厦门钨业)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 24.48,
+    "longitude": 118.09,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 15000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X2b"
+    ],
+    "capacity": [
+     "X2b"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.965-966: Haijing integrated workshop (planned annual capacity 15,000 t): civil works completion filed, equipment commissioning in progress. CIP: budget CNY 363.8m, 85.56% spent (l.9354). Ref year 2025 = publication fallback. Incremental to the Haijing base row; product type not stated; do not double count with the 30 kt expansion or the base."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-ningde-china",
-   "fields": {"asset_name": "Ningde base (宁德厦钨, existing lines)", "step": "cathode", "commodity": "cathode", "product": "NCM / ternary cathode material",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "NCM", "operator": "Ningde Xiamen Tungsten New Energy Materials (宁德厦钨新能源材料有限公司)",
-              "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": 26.66, "longitude": 119.55, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X4"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.965-966: Haijing integrated workshop (planned annual capacity 15,000 t): civil works completion filed, equipment commissioning in progress. CIP: budget CNY 363.8m, 85.56% spent (l.9354). Ref year 2025 = publication fallback. Incremental to the Haijing base row; product type not stated; do not double count with the 30 kt expansion or the base."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-ningde-china",
+   "fields": {
+    "asset_name": "Ningde base (宁德厦钨, existing lines)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM / ternary cathode material",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Ningde Xiamen Tungsten New Energy Materials (宁德厦钨新能源材料有限公司)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 26.66,
+    "longitude": 119.55,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X4"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.1056: Ningde Xiamen Tungsten is a national green factory (operating); subsidiary table l.1935-1936: wholly owned, 'Li-ion cathode material production', FY2025 revenue CNY 2,287.5m, net profit CNY 31.8m. Product (ternary) inferred from the 70 kt Ningde line titled 'Li-ion battery cathode' and the company's ternary business; not stated per base. Government-grant lines refer to earlier projects (10,000 t vehicle ternary phases 2-3; 32,000 t expansion; 20,000 t; l.10311-10325) but cumulative base capacity is NOT disclosed -> null. New 70 kt CD-workshop project in a separate row."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-ningde-cd-workshop-china",
-   "fields": {"asset_name": "Ningde 70 kt cathode project (C/D workshops)", "step": "cathode", "commodity": "cathode", "product": "Li-ion battery cathode material",
-              "asset_type": "cathode plant (expansion)", "feedstock": null, "chemistry": null, "operator": "Ningde Xiamen Tungsten New Energy Materials (宁德厦钨新能源材料有限公司)",
-              "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": 26.66, "longitude": 119.55, "geo_precision": "city", "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 70000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X3"], "capacity": ["X3"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.1056: Ningde Xiamen Tungsten is a national green factory (operating); subsidiary table l.1935-1936: wholly owned, 'Li-ion cathode material production', FY2025 revenue CNY 2,287.5m, net profit CNY 31.8m. Product (ternary) inferred from the 70 kt Ningde line titled 'Li-ion battery cathode' and the company's ternary business; not stated per base. Government-grant lines refer to earlier projects (10,000 t vehicle ternary phases 2-3; 32,000 t expansion; 20,000 t; l.10311-10325) but cumulative base capacity is NOT disclosed -> null. New 70 kt CD-workshop project in a separate row."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-ningde-cd-workshop-china",
+   "fields": {
+    "asset_name": "Ningde 70 kt cathode project (C/D workshops)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "Li-ion battery cathode material",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Ningde Xiamen Tungsten New Energy Materials (宁德厦钨新能源材料有限公司)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 26.66,
+    "longitude": 119.55,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 70000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X3"
+    ],
+    "capacity": [
+     "X3"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.967-968: C and D workshops topped out; workshop C put some capacity on line and started production in 2025. CIP: budget CNY 1,824.9m, 25.13% spent, CNY 389.7m transferred to fixed assets (l.9385-9390); government subsidy CNY 65.77m booked (l.10373-10375). l.2071: 'gradually reach production/standard/efficiency'. How much of the 70 kt is producing is not stated (installed null). Ref year 2025 = publication fallback (no completion year stated). Incremental to the Ningde base row; do not double count."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-sanming-china",
-   "fields": {"asset_name": "Sanming base (三明厦钨)", "step": "cathode", "commodity": "cathode", "product": "Li-ion cathode material (LCO inferred, not stated)",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": null, "operator": "Sanming Xiamen Tungsten New Energy Materials (三明厦钨新能源材料有限公司)",
-              "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 70%", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": 26.26, "longitude": 117.64, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "end_market": "consumer",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X4"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.967-968: C and D workshops topped out; workshop C put some capacity on line and started production in 2025. CIP: budget CNY 1,824.9m, 25.13% spent, CNY 389.7m transferred to fixed assets (l.9385-9390); government subsidy CNY 65.77m booked (l.10373-10375). l.2071: 'gradually reach production/standard/efficiency'. How much of the 70 kt is producing is not stated (installed null). Ref year 2025 = publication fallback (no completion year stated). Incremental to the Ningde base row; do not double count."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-sanming-china",
+   "fields": {
+    "asset_name": "Sanming base (三明厦钨)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "Li-ion cathode material (LCO inferred, not stated)",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Sanming Xiamen Tungsten New Energy Materials (三明厦钨新能源材料有限公司)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 70%",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": 26.26,
+    "longitude": 117.64,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "end_market": "consumer",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X4"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.1056: Sanming Xiamen Tungsten is a national green factory, carbon-neutral plant area for 3 years; 70% owned (l.11501); subsidiary table l.1926: FY2025 revenue CNY 7,405.1m (largest XTC entity), net profit CNY 0.3m. Product inferred as LCO from an executive biography that calls the Sanming chairman the lead for LCO industrialisation (l.2375-2376); the AR gives no per-base product, capacity or output. Company LCO output 2025 = 65,875.08 t, sales 65,262.71 t (l.1543) - NOT allocated. end_market consumer = LCO for 3C (l.814)."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-fuquan-pcam-china",
-   "fields": {"asset_name": "Fuquan base 40 kt NCM precursor project", "step": "precursor", "commodity": "precursor", "product": "NCM pCAM",
-              "asset_type": "pCAM plant", "feedstock": null, "chemistry": "NCM", "operator": "Fuquan Xiamen Tungsten New Energy Technology (福泉厦钨新能源科技有限公司)",
-              "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 65%", "jv_partners": null, "country": "China", "region": "China", "province_state": "Guizhou",
-              "latitude": 26.69, "longitude": 107.52, "geo_precision": "city", "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 40000, "capacity_unit": "t pCAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X5"], "capacity": ["X5"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.1056: Sanming Xiamen Tungsten is a national green factory, carbon-neutral plant area for 3 years; 70% owned (l.11501); subsidiary table l.1926: FY2025 revenue CNY 7,405.1m (largest XTC entity), net profit CNY 0.3m. Product inferred as LCO from an executive biography that calls the Sanming chairman the lead for LCO industrialisation (l.2375-2376); the AR gives no per-base product, capacity or output. Company LCO output 2025 = 65,875.08 t, sales 65,262.71 t (l.1543) - NOT allocated. end_market consumer = LCO for 3C (l.814)."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-fuquan-pcam-china",
+   "fields": {
+    "asset_name": "Fuquan base 40 kt NCM precursor project",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Fuquan Xiamen Tungsten New Energy Technology (福泉厦钨新能源科技有限公司)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 65%",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": 26.69,
+    "longitude": 107.52,
+    "geo_precision": "city",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X5"
+    ],
+    "capacity": [
+     "X5"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.971-973: Fuquan base 40,000 t/yr ternary precursor project - permits, land title, site levelling and perimeter wall done; general-contractor tender and process design under way. CIP: budget CNY 1,048.44m, CNY 56.6m spent, 9.68% (l.9291, 9411-9412). 65% owned (l.11508). Early-stage physical works only; ref year 2025 = publication fallback (no completion date). Fuquan city coordinates = named locality centroid."},
-
-  {"action": "add", "id": "xiamen-tungsten-new-energy-france-neomat-france",
-   "fields": {"asset_name": "NEOMAT CAM France 40 kt ternary cathode plant", "step": "cathode", "commodity": "cathode", "product": "ternary (NCM) CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "NCM", "operator": "NEOMAT CAM SAS (法国厦钨新能源材料有限公司)",
-              "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 51% via XTC Europe", "jv_partners": "Other CAM-entity shareholders not named in the AR (Orano is the controlling shareholder of the associate NEOMAT PCAM)",
-              "country": "France", "region": "Europe", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 40000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["X6"], "capacity": ["X6"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.971-973: Fuquan base 40,000 t/yr ternary precursor project - permits, land title, site levelling and perimeter wall done; general-contractor tender and process design under way. CIP: budget CNY 1,048.44m, CNY 56.6m spent, 9.68% (l.9291, 9411-9412). 65% owned (l.11508). Early-stage physical works only; ref year 2025 = publication fallback (no completion date). Fuquan city coordinates = named locality centroid."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-new-energy-france-neomat-france",
+   "fields": {
+    "asset_name": "NEOMAT CAM France 40 kt ternary cathode plant",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "ternary (NCM) CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "NEOMAT CAM SAS (法国厦钨新能源材料有限公司)",
+    "parent_company": "Xiamen Tungsten New Energy Materials (厦钨新能), 51% via XTC Europe",
+    "jv_partners": "Other CAM-entity shareholders not named in the AR (Orano is the controlling shareholder of the associate NEOMAT PCAM)",
+    "country": "France",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225146590.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "X6"
+    ],
+    "capacity": [
+     "X6"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.960-962: France 40,000 t/yr ternary project carried out by NEOMAT CAM; environmental and building permits obtained, construction proceeding in an orderly way. CIP: budget CNY 3,397.35m, CNY 205.2m spent, 6.04% (l.9288-9289, 9430). XTC holds 51% of NEOMAT CAM (indirect, l.11509). NEOMAT PCAM (the precursor associate, l.160-165) has Orano as controlling shareholder (l.12406-12407); its capacity is not given. French site not stated -> no coordinates; ref year 2025 = publication fallback. This replaces the 'France/Orano 40 kt' mention in the SC009 Haijing note."},
-
-  {"action": "add", "id": "minmetals-new-energy-changsha-cathode-china",
-   "fields": {"asset_name": "Minmetals New Energy (Changyuan Lico) Changsha cathode plants", "step": "cathode", "commodity": "cathode", "product": "NCM / LCO / ball-nickel / LFP CAM",
-              "asset_type": "CAM plants (aggregate)", "feedstock": "pCAM from Jinchi Energy (own)", "chemistry": "mixed", "operator": "Minmetals New Energy Materials (Hunan) (五矿新能源材料（湖南）股份有限公司) incl. Hunan Changyuan Lico New Energy (湖南长远锂科新能源有限公司)",
-              "parent_company": "China Minmetals", "jv_partners": null, "country": "China", "region": "China", "province_state": "Hunan",
-              "latitude": 28.23, "longitude": 112.94, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "production": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["M1"]},
+   "notes": "[SC103 2026-11-27] XTC FY2025 AR l.960-962: France 40,000 t/yr ternary project carried out by NEOMAT CAM; environmental and building permits obtained, construction proceeding in an orderly way. CIP: budget CNY 3,397.35m, CNY 205.2m spent, 6.04% (l.9288-9289, 9430). XTC holds 51% of NEOMAT CAM (indirect, l.11509). NEOMAT PCAM (the precursor associate, l.160-165) has Orano as controlling shareholder (l.12406-12407); its capacity is not given. French site not stated -> no coordinates; ref year 2025 = publication fallback. This replaces the 'France/Orano 40 kt' mention in the SC009 Haijing note."
+  },
+  {
+   "action": "add",
+   "id": "minmetals-new-energy-changsha-cathode-china",
+   "fields": {
+    "asset_name": "Minmetals New Energy (Changyuan Lico) Changsha cathode plants",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM / LCO / ball-nickel / LFP CAM",
+    "asset_type": "CAM plants (aggregate)",
+    "feedstock": "pCAM from Jinchi Energy (own)",
+    "chemistry": "mixed",
+    "operator": "Minmetals New Energy Materials (Hunan) (五矿新能源材料（湖南）股份有限公司) incl. Hunan Changyuan Lico New Energy (湖南长远锂科新能源有限公司)",
+    "parent_company": "China Minmetals",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": 28.23,
+    "longitude": 112.94,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "M1"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR (688779_.txt): NO site, capacity or tonnage-by-site disclosure; rows are by legal-entity/city only (Changsha, Hunan; HQ and Lugu base in Yuelu district, l.190-196). Company totals: cathode output 114,773.41 t, sales 115,487.70 t, stock 7,649.71 t (cathode = NCM, LCO, ball nickel, LFP; l.1170-1174); pCAM 18,866.28 t (l.1171). Projects (CIP/fundraising): 'vehicle Li-ion cathode expansion phase 1' budget CNY 1,917.9m, 68.84%, basically complete, equipment pending (l.7907-7911; fundraising usable date 2022-08, 78.33% of CNY 1,917.9m, l.3738-3746); 'phase 2' budget CNY 1,751.5m, 81.57%, basically complete (l.7916-7920; usable date 2023-11, l.3759-3767) - capacities in tonnes NOT stated in the AR; idle Lugu-base lines impaired (l.7762-7767, 7790-7807). Hunan Changyuan Lico New Energy FY2025 revenue CNY 8,555.3m (l.1582). Quote used as status evidence is company-wide sales."},
-
-  {"action": "add", "id": "minmetals-new-energy-lfp-60kt-china",
-   "fields": {"asset_name": "Minmetals New Energy 60 kt/yr LFP project", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "LFP", "operator": "Minmetals New Energy Materials (Hunan) (五矿新能)",
-              "parent_company": "China Minmetals", "jv_partners": null, "country": "China", "region": "China", "province_state": null,
-              "latitude": null, "longitude": null, "geo_precision": "none", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 60000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["M4"], "capacity": ["M3"]},
+   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR (688779_.txt): NO site, capacity or tonnage-by-site disclosure; rows are by legal-entity/city only (Changsha, Hunan; HQ and Lugu base in Yuelu district, l.190-196). Company totals: cathode output 114,773.41 t, sales 115,487.70 t, stock 7,649.71 t (cathode = NCM, LCO, ball nickel, LFP; l.1170-1174); pCAM 18,866.28 t (l.1171). Projects (CIP/fundraising): 'vehicle Li-ion cathode expansion phase 1' budget CNY 1,917.9m, 68.84%, basically complete, equipment pending (l.7907-7911; fundraising usable date 2022-08, 78.33% of CNY 1,917.9m, l.3738-3746); 'phase 2' budget CNY 1,751.5m, 81.57%, basically complete (l.7916-7920; usable date 2023-11, l.3759-3767) - capacities in tonnes NOT stated in the AR; idle Lugu-base lines impaired (l.7762-7767, 7790-7807). Hunan Changyuan Lico New Energy FY2025 revenue CNY 8,555.3m (l.1582). Quote used as status evidence is company-wide sales."
+  },
+  {
+   "action": "add",
+   "id": "minmetals-new-energy-lfp-60kt-china",
+   "fields": {
+    "asset_name": "Minmetals New Energy 60 kt/yr LFP project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "LFP",
+    "operator": "Minmetals New Energy Materials (Hunan) (五矿新能)",
+    "parent_company": "China Minmetals",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "M4"
+    ],
+    "capacity": [
+     "M3"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR: convertible-bond project '60 kt/yr LFP project' (budget CNY 1,004.9m, 90.59% spent, 'basically complete, some equipment awaiting installation', CIP l.7922-7928; fundraising l.3776-3784: planned usable date 2023-09, not closed, CNY 874.4m invested = 97.16%, FY2025 project result CNY -58.3m). The negative result and the company's statements that LFP business expanded rapidly and LFP/LMFP annual shipments reached ~10,000 t (l.635, 828-830) suggest production has started; commercial-production status is NOT stated for this project -> operational at low confidence. Site not stated. Ref year 2025 = publication fallback. Quote for status is company-level LFP business growth."},
-
-  {"action": "add", "id": "minmetals-new-energy-jinchi-pcam-china",
-   "fields": {"asset_name": "Jinchi Energy (金驰能源) NCM precursor plant", "step": "precursor", "commodity": "precursor", "product": "NCM / NCA pCAM",
-              "asset_type": "pCAM plant", "feedstock": null, "chemistry": "NCM / NCA", "operator": "Jinchi Energy Materials (金驰能源材料有限公司)",
-              "parent_company": "Minmetals New Energy Materials (Hunan), 100%", "jv_partners": null, "country": "China", "region": "China", "province_state": "Hunan",
-              "latitude": 28.23, "longitude": 112.94, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t pCAM", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null,
-              "production": 18866.28, "production_unit": "t pCAM", "production_year": 2025, "feeds": "minmetals-new-energy-changsha-cathode-china", "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["M5a"], "production": ["M5b"]},
+   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR: convertible-bond project '60 kt/yr LFP project' (budget CNY 1,004.9m, 90.59% spent, 'basically complete, some equipment awaiting installation', CIP l.7922-7928; fundraising l.3776-3784: planned usable date 2023-09, not closed, CNY 874.4m invested = 97.16%, FY2025 project result CNY -58.3m). The negative result and the company's statements that LFP business expanded rapidly and LFP/LMFP annual shipments reached ~10,000 t (l.635, 828-830) suggest production has started; commercial-production status is NOT stated for this project -> operational at low confidence. Site not stated. Ref year 2025 = publication fallback. Quote for status is company-level LFP business growth."
+  },
+  {
+   "action": "add",
+   "id": "minmetals-new-energy-jinchi-pcam-china",
+   "fields": {
+    "asset_name": "Jinchi Energy (金驰能源) NCM precursor plant",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "NCM / NCA pCAM",
+    "asset_type": "pCAM plant",
+    "feedstock": null,
+    "chemistry": "NCM / NCA",
+    "operator": "Jinchi Energy Materials (金驰能源材料有限公司)",
+    "parent_company": "Minmetals New Energy Materials (Hunan), 100%",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": 28.23,
+    "longitude": 112.94,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t pCAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": 18866.28,
+    "production_unit": "t pCAM",
+    "production_year": 2025,
+    "feeds": "minmetals-new-energy-changsha-cathode-china",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225227477.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "M5a"
+    ],
+    "production": [
+     "M5b"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR: Jinchi Energy (wholly owned, registered/operating in Changsha, l.9332-9334) is the company's pCAM producer; its pCAM is used entirely in the group's own cathode production (l.792-796; note 2 on l.1175: all pCAM for own use and R&D). Group pCAM output 2025 = 18,866.28 t (-4.39% y/y; stock 3,889.00 t includes purchased pCAM) - attributed to Jinchi because the AR names Jinchi as the pCAM producer; any purchased/other pCAM is not separated. Capacity not disclosed. Jinchi FY2025 revenue CNY 2,494.2m, operating profit CNY 107.1m (l.1578-1580). Changsha centroid coordinates."},
-
-  {"action": "add", "id": "zhenhua-new-material-yilong-china",
-   "fields": {"asset_name": "Yilong New Material base (义龙新材, Qianxinan, Guizhou)", "step": "cathode", "commodity": "cathode", "product": "NCM (multi-element) CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "NCM", "operator": "Guizhou Zhenhua Yilong New Material (贵州振华义龙新材料有限公司)",
-              "parent_company": "Guizhou Zhenhua New Material (688707.SH); controlled by China Zhenhua Electronics Group / China Electronics (CEC)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 40000, "capacity_unit": "t CAM", "capacity_ref_year": 2025, "installed_capacity": 40000, "installed_as_of": "2025-12-31", "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["Z1"], "capacity": ["Z1"], "installed_capacity": ["Z1"]},
+   "notes": "[SC103 2026-11-27] Minmetals New Energy FY2025 AR: Jinchi Energy (wholly owned, registered/operating in Changsha, l.9332-9334) is the company's pCAM producer; its pCAM is used entirely in the group's own cathode production (l.792-796; note 2 on l.1175: all pCAM for own use and R&D). Group pCAM output 2025 = 18,866.28 t (-4.39% y/y; stock 3,889.00 t includes purchased pCAM) - attributed to Jinchi because the AR names Jinchi as the pCAM producer; any purchased/other pCAM is not separated. Capacity not disclosed. Jinchi FY2025 revenue CNY 2,494.2m, operating profit CNY 107.1m (l.1578-1580). Changsha centroid coordinates."
+  },
+  {
+   "action": "add",
+   "id": "zhenhua-new-material-yilong-china",
+   "fields": {
+    "asset_name": "Yilong New Material base (义龙新材, Qianxinan, Guizhou)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM (multi-element) CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Guizhou Zhenhua Yilong New Material (贵州振华义龙新材料有限公司)",
+    "parent_company": "Guizhou Zhenhua New Material (688707.SH); controlled by China Zhenhua Electronics Group / China Electronics (CEC)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 40000,
+    "installed_as_of": "2025-12-31",
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "Z1"
+    ],
+    "capacity": [
+     "Z1"
+    ],
+    "installed_capacity": [
+     "Z1"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR (688707_2025.txt) l.2562: the Yilong base (Yilong New District, Qianxinan prefecture, Guizhou) 'now has annual cathode production capability of 4 万吨 (40 kt)'; cumulative investment CNY 2,614.27m (l.2552). 'Installed' = capability stated, not necessarily running: company-wide 2025 cathode output was only 11,520.69 t vs sales 12,412.95 t (l.1174) and utilisation is stated as low (l.657, 1045). Yilong phases 1 and 2 post-evaluated Dec 2025 (l.2228); phase 2 fundraising usable date 2021-12-31 (l.3396-3399). Yilong FY2025 revenue CNY 1,170.4m, operating loss CNY 176.6m (l.1488). Parent per AR l.131-132. Exact coordinates not given (Yilong New District, Xingyi area) -> none. Phase 3 is a separate paused row."},
-
-  {"action": "add", "id": "zhenhua-new-material-yilong-phase3-china",
-   "fields": {"asset_name": "Yilong phase 3 cathode project (paused)", "step": "cathode", "commodity": "cathode", "product": "NCM (multi-element) CAM",
-              "asset_type": "cathode plant (expansion)", "feedstock": null, "chemistry": "NCM", "operator": "Guizhou Zhenhua Yilong New Material (贵州振华义龙新材料有限公司)",
-              "parent_company": "Guizhou Zhenhua New Material (688707.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "paused", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null, "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["Z2"]},
+   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR (688707_2025.txt) l.2562: the Yilong base (Yilong New District, Qianxinan prefecture, Guizhou) 'now has annual cathode production capability of 4 万吨 (40 kt)'; cumulative investment CNY 2,614.27m (l.2552). 'Installed' = capability stated, not necessarily running: company-wide 2025 cathode output was only 11,520.69 t vs sales 12,412.95 t (l.1174) and utilisation is stated as low (l.657, 1045). Yilong phases 1 and 2 post-evaluated Dec 2025 (l.2228); phase 2 fundraising usable date 2021-12-31 (l.3396-3399). Yilong FY2025 revenue CNY 1,170.4m, operating loss CNY 176.6m (l.1488). Parent per AR l.131-132. Exact coordinates not given (Yilong New District, Xingyi area) -> none. Phase 3 is a separate paused row."
+  },
+  {
+   "action": "add",
+   "id": "zhenhua-new-material-yilong-phase3-china",
+   "fields": {
+    "asset_name": "Yilong phase 3 cathode project (paused)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM (multi-element) CAM",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Guizhou Zhenhua Yilong New Material (贵州振华义龙新材料有限公司)",
+    "parent_company": "Guizhou Zhenhua New Material (688707.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "Z2"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR l.741: 'prudent capacity expansion, Yilong phase 3 project postponed (暂缓)'; CIP item 'cathode production line construction project (Yilong phase 3)': budget CNY 6,245.35m, CNY 74.48m spent = 1.19% (l.7297-7299, 7344-7348). The tonnage of phase 3 is NOT stated in this AR -> capacity null. Paused project: exclude from aggregates (project_state paused)."},
-
-  {"action": "add", "id": "zhenhua-new-material-guiyang-china",
-   "fields": {"asset_name": "Guiyang New Material base (贵阳新材, Shawen lines)", "step": "cathode", "commodity": "cathode", "product": "NCM / lithium- and sodium-ion CAM",
-              "asset_type": "cathode plant", "feedstock": null, "chemistry": "NCM", "operator": "Guizhou Zhenhua New Material Co. (贵州振华新材料有限公司, Guiyang)",
-              "parent_company": "Guizhou Zhenhua New Material (688707.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Guizhou", "latitude": 26.65, "longitude": 106.63, "geo_precision": "city",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null, "end_market": "EV",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["Z3"]},
+   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR l.741: 'prudent capacity expansion, Yilong phase 3 project postponed (暂缓)'; CIP item 'cathode production line construction project (Yilong phase 3)': budget CNY 6,245.35m, CNY 74.48m spent = 1.19% (l.7297-7299, 7344-7348). The tonnage of phase 3 is NOT stated in this AR -> capacity null. Paused project: exclude from aggregates (project_state paused)."
+  },
+  {
+   "action": "add",
+   "id": "zhenhua-new-material-guiyang-china",
+   "fields": {
+    "asset_name": "Guiyang New Material base (贵阳新材, Shawen lines)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "NCM / lithium- and sodium-ion CAM",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "chemistry": "NCM",
+    "operator": "Guizhou Zhenhua New Material Co. (贵州振华新材料有限公司, Guiyang)",
+    "parent_company": "Guizhou Zhenhua New Material (688707.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "latitude": 26.65,
+    "longitude": 106.63,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225183541.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "Z3"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR l.779-789: Guiyang New Material is one of the two production bases (national green factory). No tonnage capacity or output for Guiyang in the AR. Projects: Shawen phase 2 lithium cathode line (fundraising CNY 650m, usable date 2022-12-31, 93.95% invested, l.3380-3392); Shawen phase 1 technical upgrade (budget CNY 400m, 98% progress, CNY 270.5m transferred to fixed assets in 2025, l.7376-7379). Guiyang FY2025 revenue CNY 383.4m, operating loss CNY 267.1m (l.1485); company plans to expand via technical upgrades of Guiyang and Yilong lines instead of new builds (l.743). Pilot polyanion sodium cathode line at ~100 t/yr scale basically built (l.511-512). Whether 'Shawen' is in Guiyang is not stated in the AR (HQ is Baiyun district, Guiyang, l.218) -> city centroid only. Company totals: 2025 cathode output 11,520.69 t (l.1174), not allocated."},
-
-  {"action": "add", "id": "shanshan-meishan-anode-china",
-   "fields": {"asset_name": "Meishan 200 kt integrated anode base (Sichuan Shanshan)", "step": "anode", "commodity": "anode", "product": "artificial graphite anode",
-              "asset_type": "integrated anode base", "feedstock": "petroleum coke / needle coke", "chemistry": "graphite", "operator": "Sichuan Shanshan New Materials (四川杉杉新材料有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Sichuan",
-              "latitude": 30.08, "longitude": 103.85, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 200000, "capacity_unit": "t anode", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S2", "S1"], "capacity": ["S2"]},
+   "notes": "[SC103 2026-11-27] Zhenhua FY2025 AR l.779-789: Guiyang New Material is one of the two production bases (national green factory). No tonnage capacity or output for Guiyang in the AR. Projects: Shawen phase 2 lithium cathode line (fundraising CNY 650m, usable date 2022-12-31, 93.95% invested, l.3380-3392); Shawen phase 1 technical upgrade (budget CNY 400m, 98% progress, CNY 270.5m transferred to fixed assets in 2025, l.7376-7379). Guiyang FY2025 revenue CNY 383.4m, operating loss CNY 267.1m (l.1485); company plans to expand via technical upgrades of Guiyang and Yilong lines instead of new builds (l.743). Pilot polyanion sodium cathode line at ~100 t/yr scale basically built (l.511-512). Whether 'Shawen' is in Guiyang is not stated in the AR (HQ is Baiyun district, Guiyang, l.218) -> city centroid only. Company totals: 2025 cathode output 11,520.69 t (l.1174), not allocated."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-meishan-anode-china",
+   "fields": {
+    "asset_name": "Meishan 200 kt integrated anode base (Sichuan Shanshan)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "artificial graphite anode",
+    "asset_type": "integrated anode base",
+    "feedstock": "petroleum coke / needle coke",
+    "chemistry": "graphite",
+    "operator": "Sichuan Shanshan New Materials (四川杉杉新材料有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": 30.08,
+    "longitude": 103.85,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S1"
+    ],
+    "capacity": [
+     "S2"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR (600884_.txt) l.1667-1669: Sichuan Meishan 200 kt/yr Li-ion anode integrated base, total investment CNY 8.0bn (phase 1 CNY 4.2bn), CNY 4,788.8m cumulative; phase 1 in production; phase-2 living quarters built. CIP l.6932-6934 says 'phase 2 warehouse and dormitory under construction' (slight wording conflict with l.1668-1669). Phase-1 tonnage NOT stated -> installed null; capacity 200 kt = full project (D-014 style, includes un-equipped phase 2), ref year 2025 = fallback. Integrated chain: granulation, coating, graphitisation, carbonisation (l.915-916). Sichuan Shanshan FY2025 revenue CNY 3,582.7m, net profit CNY 176.4m (l.1853). Company anode output 2025 = 442,681.23 t (sales 430,402.35 t, l.1267) - not allocated."},
-
-  {"action": "add", "id": "shanshan-anning-anode-china",
-   "fields": {"asset_name": "Anning (Yunnan) 300 kt integrated anode base (Yunnan Shanshan)", "step": "anode", "commodity": "anode", "product": "artificial graphite anode",
-              "asset_type": "integrated anode base", "feedstock": "petroleum coke / needle coke", "chemistry": "graphite", "operator": "Yunnan Shanshan New Materials (云南杉杉新材料有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Yunnan",
-              "latitude": 24.92, "longitude": 102.48, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 300000, "capacity_unit": "t anode", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S3", "S1"], "capacity": ["S3"]},
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR (600884_.txt) l.1667-1669: Sichuan Meishan 200 kt/yr Li-ion anode integrated base, total investment CNY 8.0bn (phase 1 CNY 4.2bn), CNY 4,788.8m cumulative; phase 1 in production; phase-2 living quarters built. CIP l.6932-6934 says 'phase 2 warehouse and dormitory under construction' (slight wording conflict with l.1668-1669). Phase-1 tonnage NOT stated -> installed null; capacity 200 kt = full project (D-014 style, includes un-equipped phase 2), ref year 2025 = fallback. Integrated chain: granulation, coating, graphitisation, carbonisation (l.915-916). Sichuan Shanshan FY2025 revenue CNY 3,582.7m, net profit CNY 176.4m (l.1853). Company anode output 2025 = 442,681.23 t (sales 430,402.35 t, l.1267) - not allocated."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-anning-anode-china",
+   "fields": {
+    "asset_name": "Anning (Yunnan) 300 kt integrated anode base (Yunnan Shanshan)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "artificial graphite anode",
+    "asset_type": "integrated anode base",
+    "feedstock": "petroleum coke / needle coke",
+    "chemistry": "graphite",
+    "operator": "Yunnan Shanshan New Materials (云南杉杉新材料有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan",
+    "latitude": 24.92,
+    "longitude": 102.48,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S3",
+     "S1"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1670-1672: Yunnan Anning 300 kt/yr Li-ion anode integrated base, total investment CNY 9.7bn, CNY 4,211.4m cumulative (43.42%); phase 1 in production; CIP l.6941-6943: phase 2 'not yet started' (暂未开工). Phase-1 tonnage NOT stated. 300 kt is the full project name capacity; if the lead excludes unstarted/undated phases (D-015) only phase 1 counts and its size is unknown -> treat 300 kt as an upper-bound plan. CNY 2,676.5m was transferred from CIP to fixed assets in 2025 (l.6907). Yunnan Shanshan FY2025 revenue CNY 2,515.3m, net profit CNY 63.5m (l.1859). Anning (Kunming) city coordinates from the project name."},
-
-  {"action": "add", "id": "shanshan-baotou-anode-china",
-   "fields": {"asset_name": "Baotou (Inner Mongolia) integrated anode base (Inner Mongolia Shanshan)", "step": "anode", "commodity": "anode", "product": "artificial graphite anode",
-              "asset_type": "integrated anode base", "feedstock": "petroleum coke / needle coke", "chemistry": "graphite", "operator": "Inner Mongolia Shanshan Technology (内蒙古杉杉科技有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Inner Mongolia",
-              "latitude": 40.66, "longitude": 109.84, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S1"]},
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1670-1672: Yunnan Anning 300 kt/yr Li-ion anode integrated base, total investment CNY 9.7bn, CNY 4,211.4m cumulative (43.42%); phase 1 in production; CIP l.6941-6943: phase 2 'not yet started' (暂未开工). Phase-1 tonnage NOT stated. 300 kt is the full project name capacity; if the lead excludes unstarted/undated phases (D-015) only phase 1 counts and its size is unknown -> treat 300 kt as an upper-bound plan. CNY 2,676.5m was transferred from CIP to fixed assets in 2025 (l.6907). Yunnan Shanshan FY2025 revenue CNY 2,515.3m, net profit CNY 63.5m (l.1859). Anning (Kunming) city coordinates from the project name."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-baotou-anode-china",
+   "fields": {
+    "asset_name": "Baotou (Inner Mongolia) integrated anode base (Inner Mongolia Shanshan)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "artificial graphite anode",
+    "asset_type": "integrated anode base",
+    "feedstock": "petroleum coke / needle coke",
+    "chemistry": "graphite",
+    "operator": "Inner Mongolia Shanshan Technology (内蒙古杉杉科技有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Inner Mongolia",
+    "latitude": 40.66,
+    "longitude": 109.84,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1055-1057: Inner Mongolia, Sichuan phase 1 and Yunnan phase 1 'all in production'; l.915: Meishan, Anning, Baotou integrated bases run in coordination. Baotou capacity is NOT given in the AR: phase-2 project (budget CNY 1,535m, 109% spent, basically complete, l.6900-6902, 6935-6937) and a phase-3 40 kt crushing project (CIP balance zero at year-end, l.6872-6873) are named without the tonnage of the base. Inner Mongolia Shanshan FY2025 revenue CNY 2,562.6m, net profit CNY 28.3m (l.1850). Capacity null."},
-
-  {"action": "add", "id": "shanshan-ningbo-silicon-anode-china",
-   "fields": {"asset_name": "Ningbo 40 kt silicon-based anode integrated base", "step": "anode", "commodity": "anode", "product": "silicon-carbon anode",
-              "asset_type": "integrated anode base", "feedstock": null, "chemistry": "silicon-carbon", "operator": "Ningbo Shanshan Silicon-based Materials (宁波杉杉硅基材料有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Zhejiang",
-              "latitude": 29.87, "longitude": 121.54, "geo_precision": "city", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 40000, "capacity_unit": "t anode", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S4"], "capacity": ["S4b"]},
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1055-1057: Inner Mongolia, Sichuan phase 1 and Yunnan phase 1 'all in production'; l.915: Meishan, Anning, Baotou integrated bases run in coordination. Baotou capacity is NOT given in the AR: phase-2 project (budget CNY 1,535m, 109% spent, basically complete, l.6900-6902, 6935-6937) and a phase-3 40 kt crushing project (CIP balance zero at year-end, l.6872-6873) are named without the tonnage of the base. Inner Mongolia Shanshan FY2025 revenue CNY 2,562.6m, net profit CNY 28.3m (l.1850). Capacity null."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-ningbo-silicon-anode-china",
+   "fields": {
+    "asset_name": "Ningbo 40 kt silicon-based anode integrated base",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "silicon-carbon anode",
+    "asset_type": "integrated anode base",
+    "feedstock": null,
+    "chemistry": "silicon-carbon",
+    "operator": "Ningbo Shanshan Silicon-based Materials (宁波杉杉硅基材料有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "latitude": 29.87,
+    "longitude": 121.54,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S4b"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1013 and l.887-888: Ningbo silicon-based anode phase 1 in production with batch supply to leading customers; l.1673-1676: '40 kt/yr Li-ion silicon-based anode integrated base', budget CNY 3.75bn, CNY 1,061.7m spent (28.31%, l.6910, 6956-6958), phase 1 only partly in (trial) production. Phase-1 tonnage not stated. 40 kt = project name (full plan); ref year 2025 = fallback. Group stake in the silicon company 87.5137% (l.1655). Location 'Ningbo base' from l.887 and the subsidiary list (Ningbo Shanshan New Materials, l.8618); Ningbo Shanshan New Materials Tech FY2025 revenue CNY 2,041.7m, net profit CNY 143.4m (l.1839). Industry silicon anode output 8,600 t in 2025 (l.1902) is far below this plan - treat as nameplate."},
-
-  {"action": "add", "id": "shanshan-fujian-anode-china",
-   "fields": {"asset_name": "Fujian Shanshan anode base (福建杉杉科技)", "step": "anode", "commodity": "anode", "product": "Li-ion battery anode material",
-              "asset_type": "anode plant", "feedstock": null, "chemistry": null, "operator": "Fujian Shanshan Technology (福建杉杉科技有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "China", "region": "China", "province_state": "Fujian",
-              "latitude": null, "longitude": null, "geo_precision": "none", "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t anode", "capacity_ref_year": null, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S6"]},
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.1013 and l.887-888: Ningbo silicon-based anode phase 1 in production with batch supply to leading customers; l.1673-1676: '40 kt/yr Li-ion silicon-based anode integrated base', budget CNY 3.75bn, CNY 1,061.7m spent (28.31%, l.6910, 6956-6958), phase 1 only partly in (trial) production. Phase-1 tonnage not stated. 40 kt = project name (full plan); ref year 2025 = fallback. Group stake in the silicon company 87.5137% (l.1655). Location 'Ningbo base' from l.887 and the subsidiary list (Ningbo Shanshan New Materials, l.8618); Ningbo Shanshan New Materials Tech FY2025 revenue CNY 2,041.7m, net profit CNY 143.4m (l.1839). Industry silicon anode output 8,600 t in 2025 (l.1902) is far below this plan - treat as nameplate."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-fujian-anode-china",
+   "fields": {
+    "asset_name": "Fujian Shanshan anode base (福建杉杉科技)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "Li-ion battery anode material",
+    "asset_type": "anode plant",
+    "feedstock": null,
+    "chemistry": null,
+    "operator": "Fujian Shanshan Technology (福建杉杉科技有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR subsidiary table l.1841-1844: Fujian Shanshan Technology (Li-ion battery anode materials, reg. capital CNY 200m) FY2025 revenue CNY 2,724.0m, net profit CNY 233.9m. 'Anode Fujian phase 2 project' budget CNY 526m, 99.03% spent, basically complete (l.6861, 6904, 6939). Town/city in Fujian and capacity not stated -> no coordinates, capacity null."},
-
-  {"action": "add", "id": "shanshan-finland-anode-finland",
-   "fields": {"asset_name": "Shanshan Finland 100 kt integrated anode project", "step": "anode", "commodity": "anode", "product": "artificial graphite anode",
-              "asset_type": "integrated anode base", "feedstock": null, "chemistry": "graphite", "operator": "Shanshan New Materials (Finland) (杉杉新材料（芬兰）有限公司)",
-              "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)", "jv_partners": null, "country": "Finland", "region": "Europe", "province_state": null,
-              "latitude": null, "longitude": null, "geo_precision": "none", "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 100000, "capacity_unit": "t anode", "capacity_ref_year": 2025, "installed_capacity": null, "installed_as_of": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-30"},
-   "evidence": {"status": ["S5"], "capacity": ["S5"]},
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR subsidiary table l.1841-1844: Fujian Shanshan Technology (Li-ion battery anode materials, reg. capital CNY 200m) FY2025 revenue CNY 2,724.0m, net profit CNY 233.9m. 'Anode Fujian phase 2 project' budget CNY 526m, 99.03% spent, basically complete (l.6861, 6904, 6939). Town/city in Fujian and capacity not stated -> no coordinates, capacity null."
+  },
+  {
+   "action": "add",
+   "id": "shanshan-finland-anode-finland",
+   "fields": {
+    "asset_name": "Shanshan Finland 100 kt integrated anode project",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "artificial graphite anode",
+    "asset_type": "integrated anode base",
+    "feedstock": null,
+    "chemistry": "graphite",
+    "operator": "Shanshan New Materials (Finland) (杉杉新材料（芬兰）有限公司)",
+    "parent_company": "Shanshan Co. (宁波杉杉股份, 600884.SH)",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-30/1225263241.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-30"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S5"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.903-912 and l.1060-1061: Finland 100 kt anode integrated project has obtained the key environmental approval and is ready to start construction; no start or completion date, no site. Partnerships with Imerys and Falcon: first graphite batch graphitised at Imerys' Swiss plant (l.904-912). A Shanshan Finland entity appears in the tax list (l.5732). No physical works evidenced -> announced; ref year 2025 = publication fallback."}
+   "notes": "[SC103 2026-11-27] Shanshan FY2025 AR l.903-912 and l.1060-1061: Finland 100 kt anode integrated project has obtained the key environmental approval and is ready to start construction; no start or completion date, no site. Partnerships with Imerys and Falcon: first graphite batch graphitised at Imerys' Swiss plant (l.904-912). A Shanshan Finland entity appears in the tax list (l.5732). No physical works evidenced -> announced; ref year 2025 = publication fallback."
+  }
  ]
 }

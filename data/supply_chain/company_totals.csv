@@ -1,11 +1,65 @@
-company,year,metric,product,value,unit,scope,source_file,line_ref,task
-CMOC,2025,production,cobalt,117500,t Co,group (DRC TFM+KFM),603993_.txt,371-385,SC113
-Hanrui Cobalt,2025,production,cobalt products,16761.79,t,group,300618_2025.txt,1552-1559,SC113
-Tengyuan Cobalt,2025,production,cobalt,27348.72,t Co,group,301219_2025.txt,754-766,SC113
-Tengyuan Cobalt,2025,capacity,cobalt,39500,t Co,Ganzhou after phase II,301219_2025.txt,4040-4041,SC113
-Shengtun Mining,2025,production,cobalt,9203.13,t Co,group,600711_.txt,850-867,SC113
-Shengtun Mining,2025,production,nickel,49418.04,t Ni,group,600711_.txt,850-867,SC113
-Hongxing Development,2025,capacity,EMD,30000,t EMD,group,600367_.txt,1982-1984,SC113
-Hongxing Development,2025,production,EMD,12053,t EMD,group,600367_.txt,1188,SC113
-Xiangtan Electrochemical,2025,capacity,manganese battery materials,182000,t,group design,002125_2025.txt,395,SC113
-Xiangtan Electrochemical,2025,production,manganese battery materials,105873.86,t,group,002125_2025.txt,489,SC113
+company,step,year,metric,product,value,unit,scope,source_file,line_ref,task,asset_match
+CMOC,refining,2025,production,cobalt,117500,t Co,group (DRC TFM+KFM),603993_.txt,371-385,SC113,
+Hanrui Cobalt,refining,2025,production,cobalt products,16761.79,t,group,300618_2025.txt,1552-1559,SC113,
+Tengyuan Cobalt,refining,2025,production,cobalt,27348.72,t Co,group,301219_2025.txt,754-766,SC113,
+Tengyuan Cobalt,refining,2025,capacity,cobalt,39500,t Co,Ganzhou after phase II,301219_2025.txt,4040-4041,SC113,
+Shengtun Mining,refining,2025,production,cobalt,9203.13,t Co,group,600711_.txt,850-867,SC113,
+Shengtun Mining,refining,2025,production,nickel,49418.04,t Ni,group,600711_.txt,850-867,SC113,
+Hongxing Development,refining,2025,capacity,EMD,30000,t EMD,group,600367_.txt,1982-1984,SC113,
+Hongxing Development,refining,2025,production,EMD,12053,t EMD,group,600367_.txt,1188,SC113,
+Xiangtan Electrochemical,refining,2025,capacity,manganese battery materials,182000,t,group design,002125_2025.txt,395,SC113,
+Xiangtan Electrochemical,refining,2025,production,manganese battery materials,105873.86,t,group,002125_2025.txt,489,SC113,
+SEMCORP,separator,2025,capacity,separator,14400,Mm2,design capacity,002812_2025.txt,"435,439",SC112,semcorp
+SEMCORP,separator,2025,production,separator,11824,Mm2,group,002812_2025.txt,718,SC112,semcorp
+Senior,separator,2025,production,separator,4923,Mm2,group,300568_2025.txt,1224-1235,SC112,senior
+Sinoma Lithium Film,separator,2025,capacity,separator,6000,Mm2,7 domestic bases (>60亿㎡),002080_2025.txt,"502,687",SC112,sinoma
+Sinoma Lithium Film,separator,2025,production,separator,3926,Mm2,group,002080_2025.txt,854-855,SC112,sinoma
+Cangzhou Mingzhu,separator,2025,capacity,separator,740,Mm2,design,002108_2025.txt,531,SC112,mingzhu
+Nuode,foil,2025,capacity,copper foil,140000,t copper foil,incl. 30 kt PCB-capable,600110_.txt,1291,SC112,nuode
+Nuode,foil,2025,production,copper foil,71800,t copper foil,group,600110_.txt,1747,SC112,nuode
+Jiayuan,foil,2025,capacity,copper foil,135000,t copper foil,6 bases,688388_.txt,975,SC112,jiayuan
+Jiayuan,foil,2025,production,copper foil,98268,t copper foil,group,688388_.txt,2557-2559,SC112,jiayuan
+Defu,foil,2025,capacity,copper foil,175000,t copper foil,"built, incl. PCB",301511_2025.txt,656,SC112,defu
+Defu,foil,2025,production,copper foil,139585,t copper foil,group incl. PCB,301511_2025.txt,780-781,SC112,defu
+Tongguan,foil,2025,capacity,copper foil,80000,t copper foil,PCB + lithium,301217_2025.txt,436,SC112,tongguan
+Tongguan,foil,2025,production,copper foil,71462,t copper foil,PCB + lithium,301217_2025.txt,968,SC112,tongguan
+Putailai,anode,2025,capacity,anode,250000,t anode,group,603659_.txt,659-660,SC110,putailai|zichen
+Putailai,anode,2025,production,anode,151179,t anode,group,603659_.txt,914,SC110,putailai|zichen
+Shangtai,anode,2025,capacity,anode,300000,t anode,stable capacity >30万吨,001301_2025.txt,1140-1141,SC110,shangtai
+Shangtai,anode,2025,production,anode,349057,t anode,incl. outsourced processing,001301_2025.txt,1385,SC110,shangtai
+Zhongke Electric,anode,2025,capacity,anode,348683,t anode,effective (monthly sum),300035_2025.txt,634-637,SC110,zhongke
+Zhongke Electric,anode,2025,production,anode,378469,t anode,group,300035_2025.txt,634,SC110,zhongke
+Xiangfenghua,anode,2025,capacity,anode,114660,t anode,group,300890_.txt,930-932,SC110,xiangfenghua
+Xiangfenghua,anode,2025,production,anode,83426,t anode,group,300890_.txt,932,SC110,xiangfenghua
+BTR,anode,2025,capacity,anode,782500,t anode,installed (622.5 kt China + 160 kt overseas),835185_2025.txt,519-527,SC110,btr
+BTR,anode,2025,production,anode,594844,t anode,group,835185_2025.txt,3597,SC110,btr
+Shanshan,anode,2025,production,anode,442681,t anode,group,600884_.txt,1267,SC103,shanshan-(meishan|anning|baotou|ningbo|fujian|finland)
+Ronbay,cathode,2025,capacity,cathode,300000,t CAM,built (30余万吨),688005_2025.txt,1876,SC103,ronbay
+Ronbay,cathode,2025,production,cathode,103634,t CAM,group,688005_2025.txt,2144,SC103,ronbay
+Easpring,cathode,2025,capacity,cathode,228000,t CAM,built end-2025,300073_2025.txt,1285-1290,SC103,easpring
+Easpring,cathode,2025,production,cathode,161342,t CAM,group,300073_2025.txt,1299-1300,SC103,easpring
+XTC,cathode,2025,production,cathode,144305,t CAM,"LCO 65,875 + ternary incl. LFP 78,430",688778_.txt,1543-1544,SC103,xiamen-tungsten
+Minmetals New Energy,cathode,2025,production,cathode,114773,t CAM,group,688779_.txt,1170,SC103,minmetals-new-energy
+Zhenhua,cathode,2025,production,cathode,11521,t CAM,group,688707_2025.txt,1174,SC103,zhenhua
+Tinci,electrolyte,2025,production,electrolyte (sales),720000,t electrolyte,electrolyte sales >72万t,002709_2025.txt,815,SC111,tinci
+Capchem,electrolyte,2025,capacity,battery chemicals,681577,t electrolyte,battery chemicals design (mostly electrolyte),300037_2025.txt,1476-1478,SC111,capchem
+Capchem,electrolyte,2025,production,battery chemicals,529311,t electrolyte,battery chemicals output,300037_2025.txt,1510,SC111,capchem
+Ruitai,electrolyte,2025,production,electronic chemicals,71375,t electrolyte,group,301238_2025.txt,1176,SC111,ruitai
+Duofluoride,electrolyte,2025,capacity,LiPF6,65000,t LiPF6,group,002407_2025.txt,668,SC111,duofluoride
+Yongtai,electrolyte,2025,capacity,electrolyte,150000,t electrolyte,Yongtai New Energy,002326_2025.txt,742,SC111,yongtai
+Tianji,electrolyte,2025,capacity,LiPF6,37000,t LiPF6,built (12+10+15 kt),002759_2025.txt,575-582,SC111,tianji
+Tianji,electrolyte,2025,production,LiPF6,39568,t LiPF6,group,002759_2025.txt,931-933,SC111,tianji
+Hunan Yuneng,cathode,2025,capacity,LFP,994500,t CAM,monthly-sum effective,301358_2025.txt,879,SC104,yuneng
+Hunan Yuneng,cathode,2025,production,LFP,1131305,t CAM,group,301358_2025.txt,895-896,SC104,yuneng
+Dynanonic,cathode,2025,capacity,LFP,450000,t CAM,built nameplate,300769_2025.txt,901,SC104,dynanonic
+Dynanonic,cathode,2025,production,LFP,285775,t CAM,group,300769_2025.txt,1121-1122,SC104,dynanonic
+Wanrun,cathode,2025,production,LFP,370401,t CAM,group,688275_2025.txt,2346,SC104,wanrun
+Longpan,cathode,2025,capacity,LFP,265000,t CAM,monthly-sum effective,603906_.txt,2029,SC104,longpan
+Longpan,cathode,2025,production,LFP,202115,t CAM,group,603906_.txt,1232,SC104,longpan
+Fulin,cathode,2025,capacity,LFP,273333,t CAM,monthly-sum effective,300432_2025.txt,1234,SC104,fulin|shenghua
+Fulin,cathode,2025,production,LFP,273795,t CAM,group,300432_2025.txt,1257-1258,SC104,fulin|shenghua
+Yongxing,refining,2025,production,lithium carbonate,24823,t LCE,group,002756_2025.txt,811-815,SC102,yongxing
+Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543,t LCE,group,000792_2025.txt,1269-1271,SC102,qinghai-salt-lake
+Zangge,mining,2025,production,lithium carbonate,8808,t LCE,group,000408_2025.txt,47,SC102,zangge
+Jiangte,refining,2025,production,lithium carbonate,13610,t LCE,group,002176_2025.txt,1067-1070,SC102,jiangte
+Huayou,refining,2025,production,lithium products,51728,t LCE,group (lithium products),603799_.txt,820,SC102,huayou

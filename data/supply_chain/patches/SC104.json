@@ -2,427 +2,1672 @@
  "task": "SC104",
  "verified_on": "2026-11-27",
  "sources": {
-  "Y1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 877-881)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "磷酸盐正极材料（单位：吨） ... 994,500.00 ... 70,000.00 ... 113.76% ... 1,131,305.32 ... 产能按照月度产能加总计算"},
-  "Y2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 895-896)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "销售量 ... 1,137,084.83 ... 生产量 ... 1,131,305.32"},
-  "Y3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 743-744)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "湖南裕能循环电池级碳酸锂第二期项目投产，通过对锂矿石、锂电池再生黑粉等原料进 ... 行深加工，累计已具备年产 7 万吨电池级碳酸锂加工能力"},
-  "Y4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, line 747)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "西班牙项目已取得环评批复并完成土地平整，后续将继续全力推进项目工程建"},
-  "Y5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 8651-8655)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "湖南基地项目 ... 158,938,014.08 ... 贵州基地项目 ... 996,961,971.75 ... 云南基地项目 ... 42,401,170.50 ... 四川基地项目 ... 228,306,128.97 ... 境外项目 ... 30,639,888.85"},
-  "Y6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 2711-2715, strategy committee meeting table)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年 ... 审议《关于在马来西亚投 ... 07 月 18 ... 资并成立有关公司的议 ... 案》"},
-  "Y7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 9880-9895, subsidiary table)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "广西裕能 ... 广西靖西 ... 四川裕能 ... 四川遂宁 ... 云南裕能 ... 云南安宁 ... 贵州裕能 ... 贵州福泉"},
-  "Y8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 1640-1642)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "电子专用材料制造、电子专用材料研 ... 四川裕宁 ... 15.34 ... 发、电子专用材料销售、化肥销售"},
-  "Y9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 1643-1644)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "云南裕能 ... 锂离子电池材料的研发、生产、销售 ... 169.92 ... 贵州裕能 ... 141.58"},
-  "Y10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 668-670)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "公司贵州基地具备磷矿资源-磷化工-前驱体-正极材料一体化生产的优势 ... 公司已经实现 ... 了磷酸铁的全部自供"},
-  "Y11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 9906-9907, subsidiary table)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "湖南裕能循 ... 湖南湘乡"},
-
-  "D1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 1105-1111)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "333,625.00 ... 53,333.33 ... 85.66% ... 285,774.53 ... 以上产能为月度产能汇总计算，在建产能为在建年度设计产能"},
-  "D2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 901)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "建成磷酸盐系正极材料产能 45 万吨/年，规模优势显著"},
-  "D3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 905)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司生产基地布局覆盖广东佛山、云南曲靖、四川宜宾等地，产能持续扩张，供货能力位居行业前"},
-  "D4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 1121-1122)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "销售量 ... 279,986.04 ... 生产量 ... 285,774.53 ... 236,642.47"},
-  "D5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 584-586)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "纳米磷酸铁锂主要由全资子公司佛山德方、曲靖德方及控股子公司曲靖麟 ... 铁、德枋亿纬负责生产；磷酸锰铁锂由全资子公司曲靖德方专线生产"},
-  "D6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 13847-13865, subsidiary table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "佛山市德方纳 ... 广东佛山 ... 曲靖市麟铁科 ... 曲靖市德方纳 ... 云南曲靖 ... 曲靖市德枋亿 ... 宜宾市德方时 ... 四川宜宾 ... 60.00%"},
-  "D7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 12337-12346, construction-in-progress table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "年产 11 万吨 ... 新型磷酸盐项 ... 4,926,345.16 ... 年产 8 万吨纳 ... 米磷酸铁锂项 ... 634,347,671.19"},
-  "D8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 5645)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "“年产 11 万吨新型磷酸盐系正极材料生产基地项目”受行业周期、市场竞争、产能爬坡等因"},
-
-  "W1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 2346)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "磷酸铁锂 吨 ... 370,400.64 ... 375,067.56 ... 13,935.87"},
-  "W2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 965)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "全年完成出货量 37.51 万吨，同比增长 64.33%"},
-  "W3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2692-2695)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "以投资建设新项目“24 万吨/年磷酸铁锂联产 24 万吨/年磷酸铁项目”， ... 该项目由鲁北万润及华虹清源共同实施。截至报告期末，12 万吨/年磷酸铁锂及 24 万吨/年磷酸铁产能已建成投产 ... 项目名称调整为“12 万吨/年高压密磷酸铁锂项目”，并对其产能释放进度进行调整，此部分项目预计完工日期拟延期至 2026 年 12 月"},
-  "W4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 11842-11846, subsidiary table)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "虹润高科 ... 湖北省鄂州市 ... 宏迈高科 ... 湖北省十堰市 ... 安庆德润 ... 安徽省安庆市 ... 鲁北万润 ... 山东省滨州市"},
-  "W5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2875-2877)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "磷酸铁、磷酸铁锂的研 ... 安庆德润 ... 1,158,817,021.60 ... 发、生产和销售"},
-  "W6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2722-2726)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "最终在美国南卡罗来纳州设 ... 立 Wrestore Technology LLC，开展“万润新能美国新能源正极材料及其产业化研发中心项目”，总投资金额为 16,764.41 万美元 ... 项目总规划建设年产 5 万吨磷酸铁锂，分期开展建设，一期计划建设 0.9 万吨/年磷酸铁锂产能 ... 厂房交割、部分环保许可手续申报及阶段性设备认证，整体设计工作正在进行"},
-  "W7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2708-2719)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "2023 年 12 月 28 日，公司与保康县人民政府签订了《磷酸铁锂循环一体化产业园项目协议书》，拟在襄阳余家湖保康工业园和襄阳保康磷化 ... 工产业园投资建设磷酸铁锂循环一体化产业园项目，分两期建设，包括磷酸铁锂、磷酸铁、磷盐、磷酸、磷矿石等一体化产业链材料 ... 截至报告期末，公司已与保康国投设立了合 ... 资公司，保康项目正在依照发展规划稳步推进中"},
-  "W8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2158-2159)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "目、7 万吨/年高压实密度磷酸铁锂项目等投资项目虽经过缜密分析和可行性研究，但投资项目的 ... 建设涉及备案、环评、安评、能评、职业卫生评价等前置审批手续"},
-  "W9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 5788)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "宏迈高科销量与产量同步增长，规模化生产效应释放"},
-  "W10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 10110)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "鲁北万润磷酸铁及磷酸铁锂新能源材料项目 ... 462,610,464.44"},
-  "W11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 1228-1229)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "生产的磷酸铁主要用于公司连 ... 续生产磷酸铁锂正极材料"},
-
-  "L1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2029-2036)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "26.50 万吨 ... 76.27% ... 50.5 万吨 ... 上表中设计产能为按月累计的有效产能，在建产能为年产能"},
-  "L2a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2044-2045)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "公司磷酸铁锂正极材料在建产能共 50.5 万吨，其中：四川锂源“新能 ... 源汽车动力与储能电池正极材料规模化生产项目”三期在建产能 10 万吨，预计 2026 年 5 月完成"},
-  "L2b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2046-2047)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "印尼“新能源汽车动力与储能电池正极材料规模化生产项目”二期在建产能 9 万吨，目前 ... 处于安装调试状态"},
-  "L2c": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2047)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "江苏金坛“高性能锂电池正极材料项目”12 万吨，预计 2026 年 9 月完成建"},
-  "L2d": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2048)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "湖北锂源“8.5 万吨高性能磷酸盐型正极材料项目”，预计 2026 年第三季度完成建设"},
-  "L2e": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2048-2049)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "山东 ... 锂源“11 万吨高性能磷酸盐型正极材料项目”，预计 2026 年第三季度完成建设"},
-  "L3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2055)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，公司印尼一期 3 万吨磷酸铁锂正极材料项目投产"},
-  "L4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2058-2060)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "报告期后，公司于 2026 年 1 月披露对外投资事项，计划在江苏省金坛 ... 华罗庚高新技术产业开发区内投资建设年产 24 万吨高压实磷酸铁锂生产基地，其中一期计划建设 ... 12 万吨，详情请见公司"},
-  "L5a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5264)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "分三期建设，当前一期项目（产能 2.5 万吨/年）、二期项目（产能 6.25 万吨/年）已建设完成"},
-  "L5b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5265)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "公司拟将三期项目产能规模由原计划的 6.25 万吨/年变更为 10 万吨/年"},
-  "L7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 978-979)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "目前公司拥有江苏金坛、 ... 天津宝坻、四川蓬溪、山东菏泽和湖北襄阳以及印尼三宝垄六处磷酸铁锂正极材料生产基地"},
-  "L8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 1231-1232)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "磷酸铁锂正极 ... 202,115.13 ... 202,480.88"},
-  "L9a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2463-2464)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "碳酸锂加工、销 ... 宜春龙蟠时代 ... 158,302.20"},
-  "L9b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5150)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "“年产 4 万吨电池级储能材料项目”是由公司公开发行可转换公司债券募集资金"},
-  "L10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 10302-10304)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "三期 8 万吨磷酸铁项 ... 2,353,585.74 ... 目 （山东锂源）"},
-  "L11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5099)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "2026 至 2030 年间合计向 Eve Energy 及其关联企业销售 15.2 万吨符合双方约定规格的磷酸铁锂正极材料"},
-  "L12": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5104)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "锂源（亚太）及其独资或合资子公司自 2026 年第二季度至 2031 年间合计向宁德时代海外工厂销售 15.75 万吨符合双方约定规格的磷酸铁锂正极材料"},
-
-  "F1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1234-1236)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "高压实密度磷酸铁锂 ... 273,333 吨 ... 350,000 吨 ... 100.17% ... 273,795.32 吨 ... 注：产能按照月度产 ... 能加总计算"},
-  "F2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1257-1258)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "销售量 ... 273,827.64 ... 生产量 ... 273,795.32"},
-  "F3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 998-1000)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司子公司江西升华现有高压实密度磷酸铁锂正极材料产能 30 万吨 ... 正在推进新建 35 万吨高压 ... 实密度磷酸铁锂正极材料、年产 50 万吨高端储能用磷酸铁锂产能"},
-  "F4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 2295)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "预计年内有效产能将增加至 115 万吨"},
-  "F5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 2308-2309)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "2026 年，公司启动非公开发行股票，宁德时代拟作为战略投资者全额认购，募集资金将用于年产 ... 50 万吨高端储能用磷酸铁锂项目、新能源汽车电驱动系统关键零部件项目"},
-  "F6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 2130)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "射洪基地与宜春基地产线兼具第四代、第五代磷酸铁锂和磷酸锰铁锂两种材料的工艺及生产要求"},
-  "F7a": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14048-14050, subsidiary table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "江西升华新 ... 江西省宜春 ... 79.57%"},
-  "F7b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14082-14085, subsidiary table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "四川省射洪 ... 四川富临新 ... 79.57%"},
-  "F7c": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14131-14133, subsidiary table)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "四川富临新 ... 四川省德阳 ... 市绵竹市德 ... 79.57%"},
-  "F8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 1709)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "主要是江西升华宜春基地、德阳基地正极材料项目投资增加"},
-  "F9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1759-1762)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "主要是江西升 ... 华宜春基地在 ... 建工程转固所"},
-  "F10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1073-1074)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "江西升华与四川赣 ... 锋锂业有限公司合资设立四川锋富锂业有限公司，新建年产 10 万吨硫酸锂制造磷酸二氢锂项目"},
-  "F11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 915)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "锂电正极材料业务营业收入为 93.09 亿元，同比上升"},
-  "F12": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1075-1076)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "与四川发展龙蟒股份有限公司签署合作框架协议，共建新型高压实密度磷酸铁锂正极材料项目与前驱体 ... 项目，提升正极材料性能与一体化水平"}
+  "Y1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 877-881)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "磷酸盐正极材料（单位：吨） ... 994,500.00 ... 70,000.00 ... 113.76% ... 1,131,305.32 ... 产能按照月度产能加总计算"
+  },
+  "Y2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 895-896)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "销售量 ... 1,137,084.83 ... 生产量 ... 1,131,305.32"
+  },
+  "Y3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 743-744)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "湖南裕能循环电池级碳酸锂第二期项目投产，通过对锂矿石、锂电池再生黑粉等原料进 ... 行深加工，累计已具备年产 7 万吨电池级碳酸锂加工能力"
+  },
+  "Y4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, line 747)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "西班牙项目已取得环评批复并完成土地平整，后续将继续全力推进项目工程建"
+  },
+  "Y5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 8651-8655)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "湖南基地项目 ... 158,938,014.08 ... 贵州基地项目 ... 996,961,971.75 ... 云南基地项目 ... 42,401,170.50 ... 四川基地项目 ... 228,306,128.97 ... 境外项目 ... 30,639,888.85"
+  },
+  "Y6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 2711-2715, strategy committee meeting table)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025 年 ... 审议《关于在马来西亚投 ... 07 月 18 ... 资并成立有关公司的议 ... 案》"
+  },
+  "Y7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 9880-9895, subsidiary table)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "广西裕能 ... 广西靖西 ... 四川裕能 ... 四川遂宁 ... 云南裕能 ... 云南安宁 ... 贵州裕能 ... 贵州福泉"
+  },
+  "Y8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 1640-1642)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "电子专用材料制造、电子专用材料研 ... 四川裕宁 ... 15.34 ... 发、电子专用材料销售、化肥销售"
+  },
+  "Y9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 1643-1644)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "云南裕能 ... 锂离子电池材料的研发、生产、销售 ... 169.92 ... 贵州裕能 ... 141.58"
+  },
+  "Y10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 668-670)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司贵州基地具备磷矿资源-磷化工-前驱体-正极材料一体化生产的优势 ... 公司已经实现 ... 了磷酸铁的全部自供"
+  },
+  "Y11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 9906-9907, subsidiary table)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "湖南裕能循 ... 湖南湘乡"
+  },
+  "D1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 1105-1111)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "333,625.00 ... 53,333.33 ... 85.66% ... 285,774.53 ... 以上产能为月度产能汇总计算，在建产能为在建年度设计产能"
+  },
+  "D2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 901)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "建成磷酸盐系正极材料产能 45 万吨/年，规模优势显著"
+  },
+  "D3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 905)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司生产基地布局覆盖广东佛山、云南曲靖、四川宜宾等地，产能持续扩张，供货能力位居行业前"
+  },
+  "D4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 1121-1122)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "销售量 ... 279,986.04 ... 生产量 ... 285,774.53 ... 236,642.47"
+  },
+  "D5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 584-586)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "纳米磷酸铁锂主要由全资子公司佛山德方、曲靖德方及控股子公司曲靖麟 ... 铁、德枋亿纬负责生产；磷酸锰铁锂由全资子公司曲靖德方专线生产"
+  },
+  "D6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 13847-13865, subsidiary table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "佛山市德方纳 ... 广东佛山 ... 曲靖市麟铁科 ... 曲靖市德方纳 ... 云南曲靖 ... 曲靖市德枋亿 ... 宜宾市德方时 ... 四川宜宾 ... 60.00%"
+  },
+  "D7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 12337-12346, construction-in-progress table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 11 万吨 ... 新型磷酸盐项 ... 4,926,345.16 ... 年产 8 万吨纳 ... 米磷酸铁锂项 ... 634,347,671.19"
+  },
+  "D8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, line 5645)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "“年产 11 万吨新型磷酸盐系正极材料生产基地项目”受行业周期、市场竞争、产能爬坡等因"
+  },
+  "W1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 2346)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "磷酸铁锂 吨 ... 370,400.64 ... 375,067.56 ... 13,935.87"
+  },
+  "W2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 965)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "全年完成出货量 37.51 万吨，同比增长 64.33%"
+  },
+  "W3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2692-2695)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "以投资建设新项目“24 万吨/年磷酸铁锂联产 24 万吨/年磷酸铁项目”， ... 该项目由鲁北万润及华虹清源共同实施。截至报告期末，12 万吨/年磷酸铁锂及 24 万吨/年磷酸铁产能已建成投产 ... 项目名称调整为“12 万吨/年高压密磷酸铁锂项目”，并对其产能释放进度进行调整，此部分项目预计完工日期拟延期至 2026 年 12 月"
+  },
+  "W4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 11842-11846, subsidiary table)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "虹润高科 ... 湖北省鄂州市 ... 宏迈高科 ... 湖北省十堰市 ... 安庆德润 ... 安徽省安庆市 ... 鲁北万润 ... 山东省滨州市"
+  },
+  "W5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2875-2877)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "磷酸铁、磷酸铁锂的研 ... 安庆德润 ... 1,158,817,021.60 ... 发、生产和销售"
+  },
+  "W6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2722-2726)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "最终在美国南卡罗来纳州设 ... 立 Wrestore Technology LLC，开展“万润新能美国新能源正极材料及其产业化研发中心项目”，总投资金额为 16,764.41 万美元 ... 项目总规划建设年产 5 万吨磷酸铁锂，分期开展建设，一期计划建设 0.9 万吨/年磷酸铁锂产能 ... 厂房交割、部分环保许可手续申报及阶段性设备认证，整体设计工作正在进行"
+  },
+  "W7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2708-2719)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2023 年 12 月 28 日，公司与保康县人民政府签订了《磷酸铁锂循环一体化产业园项目协议书》，拟在襄阳余家湖保康工业园和襄阳保康磷化 ... 工产业园投资建设磷酸铁锂循环一体化产业园项目，分两期建设，包括磷酸铁锂、磷酸铁、磷盐、磷酸、磷矿石等一体化产业链材料 ... 截至报告期末，公司已与保康国投设立了合 ... 资公司，保康项目正在依照发展规划稳步推进中"
+  },
+  "W8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 2158-2159)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目、7 万吨/年高压实密度磷酸铁锂项目等投资项目虽经过缜密分析和可行性研究，但投资项目的 ... 建设涉及备案、环评、安评、能评、职业卫生评价等前置审批手续"
+  },
+  "W9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 5788)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "宏迈高科销量与产量同步增长，规模化生产效应释放"
+  },
+  "W10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, line 10110)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "鲁北万润磷酸铁及磷酸铁锂新能源材料项目 ... 462,610,464.44"
+  },
+  "W11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+   "publisher": "Wanrun New Energy 2025 annual report (local text team/evidence/filings/688275_2025.txt, lines 1228-1229)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "生产的磷酸铁主要用于公司连 ... 续生产磷酸铁锂正极材料"
+  },
+  "L1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2029-2036)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "26.50 万吨 ... 76.27% ... 50.5 万吨 ... 上表中设计产能为按月累计的有效产能，在建产能为年产能"
+  },
+  "L2a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2044-2045)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司磷酸铁锂正极材料在建产能共 50.5 万吨，其中：四川锂源“新能 ... 源汽车动力与储能电池正极材料规模化生产项目”三期在建产能 10 万吨，预计 2026 年 5 月完成"
+  },
+  "L2b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2046-2047)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "印尼“新能源汽车动力与储能电池正极材料规模化生产项目”二期在建产能 9 万吨，目前 ... 处于安装调试状态"
+  },
+  "L2c": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2047)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江苏金坛“高性能锂电池正极材料项目”12 万吨，预计 2026 年 9 月完成建"
+  },
+  "L2d": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2048)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "湖北锂源“8.5 万吨高性能磷酸盐型正极材料项目”，预计 2026 年第三季度完成建设"
+  },
+  "L2e": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2048-2049)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "山东 ... 锂源“11 万吨高性能磷酸盐型正极材料项目”，预计 2026 年第三季度完成建设"
+  },
+  "L3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 2055)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期内，公司印尼一期 3 万吨磷酸铁锂正极材料项目投产"
+  },
+  "L4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2058-2060)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "报告期后，公司于 2026 年 1 月披露对外投资事项，计划在江苏省金坛 ... 华罗庚高新技术产业开发区内投资建设年产 24 万吨高压实磷酸铁锂生产基地，其中一期计划建设 ... 12 万吨，详情请见公司"
+  },
+  "L5a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5264)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "分三期建设，当前一期项目（产能 2.5 万吨/年）、二期项目（产能 6.25 万吨/年）已建设完成"
+  },
+  "L5b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5265)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司拟将三期项目产能规模由原计划的 6.25 万吨/年变更为 10 万吨/年"
+  },
+  "L7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 978-979)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "目前公司拥有江苏金坛、 ... 天津宝坻、四川蓬溪、山东菏泽和湖北襄阳以及印尼三宝垄六处磷酸铁锂正极材料生产基地"
+  },
+  "L8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 1231-1232)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "磷酸铁锂正极 ... 202,115.13 ... 202,480.88"
+  },
+  "L9a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 2463-2464)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "碳酸锂加工、销 ... 宜春龙蟠时代 ... 158,302.20"
+  },
+  "L9b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5150)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "“年产 4 万吨电池级储能材料项目”是由公司公开发行可转换公司债券募集资金"
+  },
+  "L10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 10302-10304)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "三期 8 万吨磷酸铁项 ... 2,353,585.74 ... 目 （山东锂源）"
+  },
+  "L11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5099)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026 至 2030 年间合计向 Eve Energy 及其关联企业销售 15.2 万吨符合双方约定规格的磷酸铁锂正极材料"
+  },
+  "L12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan (Lopal) Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5104)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂源（亚太）及其独资或合资子公司自 2026 年第二季度至 2031 年间合计向宁德时代海外工厂销售 15.75 万吨符合双方约定规格的磷酸铁锂正极材料"
+  },
+  "F1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1234-1236)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "高压实密度磷酸铁锂 ... 273,333 吨 ... 350,000 吨 ... 100.17% ... 273,795.32 吨 ... 注：产能按照月度产 ... 能加总计算"
+  },
+  "F2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1257-1258)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "销售量 ... 273,827.64 ... 生产量 ... 273,795.32"
+  },
+  "F3": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 998-1000)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司子公司江西升华现有高压实密度磷酸铁锂正极材料产能 30 万吨 ... 正在推进新建 35 万吨高压 ... 实密度磷酸铁锂正极材料、年产 50 万吨高端储能用磷酸铁锂产能"
+  },
+  "F4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 2295)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "预计年内有效产能将增加至 115 万吨"
+  },
+  "F5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 2308-2309)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026 年，公司启动非公开发行股票，宁德时代拟作为战略投资者全额认购，募集资金将用于年产 ... 50 万吨高端储能用磷酸铁锂项目、新能源汽车电驱动系统关键零部件项目"
+  },
+  "F6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 2130)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "射洪基地与宜春基地产线兼具第四代、第五代磷酸铁锂和磷酸锰铁锂两种材料的工艺及生产要求"
+  },
+  "F7a": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14048-14050, subsidiary table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江西升华新 ... 江西省宜春 ... 79.57%"
+  },
+  "F7b": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14082-14085, subsidiary table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川省射洪 ... 四川富临新 ... 79.57%"
+  },
+  "F7c": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 14131-14133, subsidiary table)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川富临新 ... 四川省德阳 ... 市绵竹市德 ... 79.57%"
+  },
+  "F8": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 1709)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "主要是江西升华宜春基地、德阳基地正极材料项目投资增加"
+  },
+  "F9": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1759-1762)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "主要是江西升 ... 华宜春基地在 ... 建工程转固所"
+  },
+  "F10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1073-1074)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "江西升华与四川赣 ... 锋锂业有限公司合资设立四川锋富锂业有限公司，新建年产 10 万吨硫酸锂制造磷酸二氢锂项目"
+  },
+  "F11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, line 915)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂电正极材料业务营业收入为 93.09 亿元，同比上升"
+  },
+  "F12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+   "publisher": "Fulin Precision 2025 annual report (local text team/evidence/filings/300432_2025.txt, lines 1075-1076)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "与四川发展龙蟒股份有限公司签署合作框架协议，共建新型高压实密度磷酸铁锂正极材料项目与前驱体 ... 项目，提升正极材料性能与一体化水平"
+  }
  },
  "rows": [
-  {"action": "update", "id": "hunan-yuneng-extremadura-spain",
+  {
+   "action": "update",
+   "id": "hunan-yuneng-extremadura-spain",
    "fields": {},
-   "evidence": {"status": ["Y4"]},
+   "evidence": {
+    "status": [
+     "Y4"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC104 2026-11-27] Addendum (append to research_notes). Hunan Yuneng 2025 annual report (Y4, line 747): Spain project has its environmental approval and land levelling done (end-2025 status; no civil-works statement in the report). Construction-in-progress table shows an overseas-project line of RMB 30.64m (Y5, line 8655; budget/progress row garbled in the text: progress ~3.39%, budget ~RMB 905m - not quoted). Subsidiary Yuneng (Spain) S.L. is a wholly owned manufacturing entity registered in Spain (line 9927-9929, EUR 25.5m capital). Company-wide in-construction capacity is 70,000 t (Y1, line 879) which equals the 70kt scale of this row, but the report does not tie the 70,000 t to Spain, so it is not allocated. Capacity/start-year values unchanged (later 2026 secondary sources)."},
-  {"action": "update", "id": "hunan-yuneng-guangxi-yuneng-china",
-   "fields": {"province_state": "Guangxi"},
-   "evidence": {"status": ["Y7"]},
+   "notes": "[SC104 2026-11-27] Addendum (append to research_notes). Hunan Yuneng 2025 annual report (Y4, line 747): Spain project has its environmental approval and land levelling done (end-2025 status; no civil-works statement in the report). Construction-in-progress table shows an overseas-project line of RMB 30.64m (Y5, line 8655; budget/progress row garbled in the text: progress ~3.39%, budget ~RMB 905m - not quoted). Subsidiary Yuneng (Spain) S.L. is a wholly owned manufacturing entity registered in Spain (line 9927-9929, EUR 25.5m capital). Company-wide in-construction capacity is 70,000 t (Y1, line 879) which equals the 70kt scale of this row, but the report does not tie the 70,000 t to Spain, so it is not allocated. Capacity/start-year values unchanged (later 2026 secondary sources)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-guangxi-yuneng-china",
+   "fields": {
+    "province_state": "Guangxi"
+   },
+   "evidence": {
+    "status": [
+     "Y7"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y7, line 9880): Guangxi Yuneng is a wholly owned manufacturing subsidiary with main operating place Jingxi (广西靖西), Guangxi; Guangxi Yuning (广西裕宁, acquired 2020, goodwill line 8841-8851) is registered at the same place (line 9886), i.e. both entities are in Jingxi, probably one industrial site. Guangxi does not appear in the 2025 construction-in-progress table (Y5), so no major Guangxi project was under construction at end-2025. Plant-level capacity is NOT disclosed; company total 994,500 t (Y1) is not split. Operating status rests on the company total (no base-level production statement)."},
-  {"action": "update", "id": "hunan-yuneng-guizhou-fuquan-china",
-   "fields": {"province_state": "Guizhou"},
-   "evidence": {"status": ["Y10"]},
+   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y7, line 9880): Guangxi Yuneng is a wholly owned manufacturing subsidiary with main operating place Jingxi (广西靖西), Guangxi; Guangxi Yuning (广西裕宁, acquired 2020, goodwill line 8841-8851) is registered at the same place (line 9886), i.e. both entities are in Jingxi, probably one industrial site. Guangxi does not appear in the 2025 construction-in-progress table (Y5), so no major Guangxi project was under construction at end-2025. Plant-level capacity is NOT disclosed; company total 994,500 t (Y1) is not split. Operating status rests on the company total (no base-level production statement)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-guizhou-fuquan-china",
+   "fields": {
+    "province_state": "Guizhou"
+   },
+   "evidence": {
+    "status": [
+     "Y10"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y10, line 668): the Guizhou base integrates phosphate rock - phosphate chemicals - precursor - cathode; the company says it is fully self-supplied with iron phosphate (line 669-670), the Huangjiapo phosphate mine began shipping ore in Q4 2025 (line 740-741). Guizhou Yuneng (贵州福泉) revenue RMB 14.158bn, operating profit RMB 0.795bn (Y9, line 1644, unit 亿元, parent-company-level incl. intra-group sales possible). Guizhou has the largest construction-in-progress balance: RMB 996.96m (Y5, line 8652; project budget ~RMB 6.13bn, progress 40.6% - table garbled, not quoted). Plant capacity not disclosed - the report gives only the company total. Also note Yunnan Yuneng revenue (RMB 16.99bn) exceeds Guizhou's, so the press claim that Guizhou is the largest base is not confirmed by the filing (revenue is not capacity)."},
-  {"action": "update", "id": "hunan-yuneng-malaysia-malaysia",
+   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y10, line 668): the Guizhou base integrates phosphate rock - phosphate chemicals - precursor - cathode; the company says it is fully self-supplied with iron phosphate (line 669-670), the Huangjiapo phosphate mine began shipping ore in Q4 2025 (line 740-741). Guizhou Yuneng (贵州福泉) revenue RMB 14.158bn, operating profit RMB 0.795bn (Y9, line 1644, unit 亿元, parent-company-level incl. intra-group sales possible). Guizhou has the largest construction-in-progress balance: RMB 996.96m (Y5, line 8652; project budget ~RMB 6.13bn, progress 40.6% - table garbled, not quoted). Plant capacity not disclosed - the report gives only the company total. Also note Yunnan Yuneng revenue (RMB 16.99bn) exceeds Guizhou's, so the press claim that Guizhou is the largest base is not confirmed by the filing (revenue is not capacity)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-malaysia-malaysia",
    "fields": {},
-   "evidence": {"status": ["Y6"]},
+   "evidence": {
+    "status": [
+     "Y6"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC104 2026-11-27] Addendum. The 2025 annual report records only that the board strategy committee reviewed the proposal 'to invest in Malaysia and set up a company' on 2025-07-18 (Y6, lines 2711-2715). No capacity, site or construction status in the report; the 90kt / RMB 0.95bn figures remain from the June 2026 article. The Singapore holding entities (裕能（新加坡）投资公司 EUR 65m, 裕能（新加坡）发展公司 RMB 100m, set up 2025-08-05) are listed in the subsidiary table (lines 9858, 9922-9943); whether they hold the Malaysian project is not stated. Overseas construction-in-progress line RMB 30.64m (Y5) covers overseas projects in total (Spain and/or Malaysia, not split)."},
-  {"action": "update", "id": "hunan-yuneng-sichuan-yuneng-china",
-   "fields": {"province_state": "Sichuan"},
-   "evidence": {"status": ["Y7"]},
+   "notes": "[SC104 2026-11-27] Addendum. The 2025 annual report records only that the board strategy committee reviewed the proposal 'to invest in Malaysia and set up a company' on 2025-07-18 (Y6, lines 2711-2715). No capacity, site or construction status in the report; the 90kt / RMB 0.95bn figures remain from the June 2026 article. The Singapore holding entities (裕能（新加坡）投资公司 EUR 65m, 裕能（新加坡）发展公司 RMB 100m, set up 2025-08-05) are listed in the subsidiary table (lines 9858, 9922-9943); whether they hold the Malaysian project is not stated. Overseas construction-in-progress line RMB 30.64m (Y5) covers overseas projects in total (Spain and/or Malaysia, not split)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-sichuan-yuneng-china",
+   "fields": {
+    "province_state": "Sichuan"
+   },
+   "evidence": {
+    "status": [
+     "Y7"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y7, lines 9883/9889): Sichuan Yuneng (registered capital RMB 350m, 100% direct) and Sichuan Yuning (RMB 210m, 100% indirect, acquired) both have main operating place Suining (四川遂宁), Sichuan - same city, probably the same industrial site, so DO NOT sum the two rows without checking. Sichuan base construction-in-progress RMB 228.31m at end-2025 (vs RMB 5.9m a year earlier; Y5, line 8654), i.e. an expansion project started in 2025. Capacity not disclosed at plant level (company total only)."},
-  {"action": "update", "id": "hunan-yuneng-sichuan-yuning-china",
-   "fields": {"province_state": "Sichuan"},
-   "evidence": {"status": ["Y8"]},
+   "notes": "[SC104 2026-11-27] Addendum. Annual report (Y7, lines 9883/9889): Sichuan Yuneng (registered capital RMB 350m, 100% direct) and Sichuan Yuning (RMB 210m, 100% indirect, acquired) both have main operating place Suining (四川遂宁), Sichuan - same city, probably the same industrial site, so DO NOT sum the two rows without checking. Sichuan base construction-in-progress RMB 228.31m at end-2025 (vs RMB 5.9m a year earlier; Y5, line 8654), i.e. an expansion project started in 2025. Capacity not disclosed at plant level (company total only)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-sichuan-yuning-china",
+   "fields": {
+    "province_state": "Sichuan"
+   },
+   "evidence": {
+    "status": [
+     "Y8"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report main-subsidiary table (Y8, lines 1640-1642): Sichuan Yuning's business scope is electronic specialty-material manufacture/R&D/sales and fertiliser sales (the scope used for iron-phosphate producers), revenue RMB 1.534bn, net profit RMB 0.248bn; located in Suining (line 9889). The filing does not say it makes LFP. Combined with the company statement that iron phosphate is fully self-supplied (Y10), Sichuan Yuning is most likely an iron-phosphate (precursor) plant feeding LFP lines - recommend the lead reclassify to step precursor / unit t FePO4 or drop from cathode sums. No capacity disclosed."},
-  {"action": "update", "id": "hunan-yuneng-xiangtan-china",
-   "fields": {"province_state": "Hunan"},
+   "notes": "[SC104 2026-11-27] Addendum. Annual report main-subsidiary table (Y8, lines 1640-1642): Sichuan Yuning's business scope is electronic specialty-material manufacture/R&D/sales and fertiliser sales (the scope used for iron-phosphate producers), revenue RMB 1.534bn, net profit RMB 0.248bn; located in Suining (line 9889). The filing does not say it makes LFP. Combined with the company statement that iron phosphate is fully self-supplied (Y10), Sichuan Yuning is most likely an iron-phosphate (precursor) plant feeding LFP lines - recommend the lead reclassify to step precursor / unit t FePO4 or drop from cathode sums. No capacity disclosed."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-xiangtan-china",
+   "fields": {
+    "province_state": "Hunan"
+   },
    "evidence": {},
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Addendum - COMPANY TOTALS (Hunan Yuneng 2025 annual report, local text 301358_2025.txt): phosphate cathode design capacity 994,500 t (sum of monthly capacities, line 879), in-construction capacity 70,000 t, capacity utilisation 113.76%, production 1,131,305.32 t, sales 1,137,084.83 t (Y1, Y2, lines 877-896). This replaces the 'about 850kt end-2024 / 1.2Mt end-2025' figures in the earlier note: the filing basis (monthly sum) is 994.5kt, which conflicts with the secondary-article 'effective capacity ~1.2Mt'. The Hunan base construction-in-progress is RMB 158.94m (Y5, line 8651). Hunan Yuneng Circular (湖南湘乡) is a separate lithium-carbonate asset (new row). Xiangtan site split and capacity still not disclosed; domestic rows still sum to far less than the 994.5kt company total (coverage gap)."},
-  {"action": "update", "id": "hunan-yuneng-yunnan-yuneng-china",
-   "fields": {"province_state": "Yunnan"},
-   "evidence": {"status": ["Y9"]},
+   "notes": "[SC104 2026-11-27] Addendum - COMPANY TOTALS (Hunan Yuneng 2025 annual report, local text 301358_2025.txt): phosphate cathode design capacity 994,500 t (sum of monthly capacities, line 879), in-construction capacity 70,000 t, capacity utilisation 113.76%, production 1,131,305.32 t, sales 1,137,084.83 t (Y1, Y2, lines 877-896). This replaces the 'about 850kt end-2024 / 1.2Mt end-2025' figures in the earlier note: the filing basis (monthly sum) is 994.5kt, which conflicts with the secondary-article 'effective capacity ~1.2Mt'. The Hunan base construction-in-progress is RMB 158.94m (Y5, line 8651). Hunan Yuneng Circular (湖南湘乡) is a separate lithium-carbonate asset (new row). Xiangtan site split and capacity still not disclosed; domestic rows still sum to far less than the 994.5kt company total (coverage gap)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-yunnan-yuneng-china",
+   "fields": {
+    "province_state": "Yunnan"
+   },
+   "evidence": {
+    "status": [
+     "Y9"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report: Yunnan Yuneng (主要经营地 Anning 云南安宁, 100% direct, registered capital RMB 900m; Y7, line 9892) manufactures Li-ion battery materials (Y9, line 1643) with revenue RMB 16.992bn and net profit RMB 0.705bn in 2025 (unit 亿元, can include intra-group sales). Construction-in-progress RMB 42.40m, i.e. an expansion project at 63.3% progress, budget ~RMB 3.86bn (line 8653/8680-8681, table garbled; not quoted). The earlier assumption 'Qujing' is not supported: the filing places the entity in Anning (Kunming). A subsidiary Yunnan Yusheng Chemical (云南裕盛化工新材料, Anning) also exists (phosphate chemicals; not an LFP row). Plant capacity not disclosed."},
-  {"action": "add", "id": "hunan-yuneng-circular-xiangxiang-lithium-carbonate-china",
-   "fields": {"asset_name": "Hunan Yuneng Circular battery-grade lithium carbonate (phase 1+2)", "step": "refining", "commodity": "lithium",
-              "product": "battery-grade lithium carbonate", "asset_type": "carbonate processing / recycling plant",
-              "feedstock": "lithium ore and recycled battery black mass", "operator": "Hunan Yuneng Circular (湖南裕能循环)",
-              "parent_company": "Hunan Yuneng New Energy Battery Materials (301358.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Hunan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 70000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
-              "capacity_norm": 70000, "norm_unit": "t LCE",
-              "installed_capacity": 70000, "installed_as_of": "2025-12-31",
-              "capacity_by_year_json": {"2025": 70000},
-              "production": null, "production_unit": null, "production_year": null, "production_norm": null,
-              "offtakers": "captive: Hunan Yuneng LFP bases (not stated by site)", "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-23"},
-   "evidence": {"status": ["Y3"], "capacity": ["Y3"], "installed_capacity": ["Y3"], "capacity_by_year_json": ["Y3"]},
+   "notes": "[SC104 2026-11-27] Addendum. Annual report: Yunnan Yuneng (主要经营地 Anning 云南安宁, 100% direct, registered capital RMB 900m; Y7, line 9892) manufactures Li-ion battery materials (Y9, line 1643) with revenue RMB 16.992bn and net profit RMB 0.705bn in 2025 (unit 亿元, can include intra-group sales). Construction-in-progress RMB 42.40m, i.e. an expansion project at 63.3% progress, budget ~RMB 3.86bn (line 8653/8680-8681, table garbled; not quoted). The earlier assumption 'Qujing' is not supported: the filing places the entity in Anning (Kunming). A subsidiary Yunnan Yusheng Chemical (云南裕盛化工新材料, Anning) also exists (phosphate chemicals; not an LFP row). Plant capacity not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "hunan-yuneng-circular-xiangxiang-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Hunan Yuneng Circular battery-grade lithium carbonate (phase 1+2)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate",
+    "asset_type": "carbonate processing / recycling plant",
+    "feedstock": "lithium ore and recycled battery black mass",
+    "operator": "Hunan Yuneng Circular (湖南裕能循环)",
+    "parent_company": "Hunan Yuneng New Energy Battery Materials (301358.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 70000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 70000,
+    "norm_unit": "t LCE",
+    "installed_capacity": 70000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {
+     "2025": 70000
+    },
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null,
+    "offtakers": "captive: Hunan Yuneng LFP bases (not stated by site)",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-23"
+   },
+   "evidence": {
+    "status": [
+     "Y3"
+    ],
+    "capacity": [
+     "Y3"
+    ],
+    "installed_capacity": [
+     "Y3"
+    ],
+    "capacity_by_year_json": [
+     "Y3"
+    ]
+   },
    "confidence": 0.75,
-   "notes": "[SC104 2026-11-27] Annual report (Y3, lines 743-744): the phase-2 project of Hunan Yuneng Circular's battery-grade lithium-carbonate line was commissioned in 2025; cumulative processing capacity is 70,000 t/yr (from lithium ore and recycled black powder). The company also plans to expand carbonate processing (line 744-745). Location: subsidiary Hunan Yuneng Circular (湖南裕能循环, RMB 500m, 100%) has main operating place Xiangxiang (湖南湘乡) per the subsidiary table (Y11, lines 9906-9907); the report does not explicitly put the carbonate plant there, but the subsidiary name matches. Capacity in t Li2CO3 (= LCE); the report says 'battery-grade lithium carbonate processing capacity', no feed-grade split. Output not disclosed. Also noted: Sichuan Yuxuan New Material (四川裕沿新材, Zigong, 59%) is a subsidiary with unstated product - not entered."},
-
-  {"action": "add", "id": "dynanonic-foshan-lfp-china",
-   "fields": {"asset_name": "Dynanonic Foshan base (Foshan Dynanonic)", "step": "cathode", "commodity": "cathode", "product": "nano-LFP CAM (also lithium-compensation additive line)",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium source", "operator": "Foshan Dynanonic (佛山市德方纳米科技有限公司)",
-              "parent_company": "Dynanonic (300769.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["D5", "D6"]},
+   "notes": "[SC104 2026-11-27] Annual report (Y3, lines 743-744): the phase-2 project of Hunan Yuneng Circular's battery-grade lithium-carbonate line was commissioned in 2025; cumulative processing capacity is 70,000 t/yr (from lithium ore and recycled black powder). The company also plans to expand carbonate processing (line 744-745). Location: subsidiary Hunan Yuneng Circular (湖南裕能循环, RMB 500m, 100%) has main operating place Xiangxiang (湖南湘乡) per the subsidiary table (Y11, lines 9906-9907); the report does not explicitly put the carbonate plant there, but the subsidiary name matches. Capacity in t Li2CO3 (= LCE); the report says 'battery-grade lithium carbonate processing capacity', no feed-grade split. Output not disclosed. Also noted: Sichuan Yuxuan New Material (四川裕沿新材, Zigong, 59%) is a subsidiary with unstated product - not entered."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-foshan-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Foshan base (Foshan Dynanonic)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "nano-LFP CAM (also lithium-compensation additive line)",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium source",
+    "operator": "Foshan Dynanonic (佛山市德方纳米科技有限公司)",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "D5",
+     "D6"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Annual report (D5, D6): nano-LFP is produced mainly by wholly owned Foshan Dynanonic (Guangdong Foshan) together with Qujing and Yibin entities; Dynanonic's bases cover Foshan, Qujing and Yibin (D3). Foshan Dynanonic had revenue RMB 0.534bn and an operating loss of RMB 0.116bn in 2025 (main-subsidiary table, line 1810-1815). A Foshan lithium-supplement (补锂剂) line and an impaired Foshan nano-LFP line other than phase 2 are mentioned in the impairment tables (lines 12251-12310), so Foshan has at least two LFP phases. PLANT CAPACITY NOT DISCLOSED - the report gives only company totals: LFP/phosphate cathode capacity 333,625 t (monthly-sum basis), in construction 53,333.33 t, production 285,774.53 t, utilisation 85.66% (D1, lines 1102-1111); also 'built phosphate cathode capacity 450,000 t/yr' (D2, line 901) - a conflict of basis (nameplate vs monthly-sum effective). Sales 279,986.04 t (D4)."},
-  {"action": "add", "id": "dynanonic-qujing-lfp-china",
-   "fields": {"asset_name": "Dynanonic Qujing base (Qujing Dynanonic, Qujing Linxie, Dynanonic-EVE Qujing)", "step": "cathode", "commodity": "cathode", "product": "nano-LFP and LMFP CAM",
-              "asset_type": "cathode plant (multi-entity base)", "feedstock": "iron phosphate + lithium source", "operator": "Qujing Dynanonic (曲靖市德方纳米科技有限公司)",
-              "parent_company": "Dynanonic (300769.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Yunnan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["D5", "D6"]},
+   "notes": "[SC104 2026-11-27] Annual report (D5, D6): nano-LFP is produced mainly by wholly owned Foshan Dynanonic (Guangdong Foshan) together with Qujing and Yibin entities; Dynanonic's bases cover Foshan, Qujing and Yibin (D3). Foshan Dynanonic had revenue RMB 0.534bn and an operating loss of RMB 0.116bn in 2025 (main-subsidiary table, line 1810-1815). A Foshan lithium-supplement (补锂剂) line and an impaired Foshan nano-LFP line other than phase 2 are mentioned in the impairment tables (lines 12251-12310), so Foshan has at least two LFP phases. PLANT CAPACITY NOT DISCLOSED - the report gives only company totals: LFP/phosphate cathode capacity 333,625 t (monthly-sum basis), in construction 53,333.33 t, production 285,774.53 t, utilisation 85.66% (D1, lines 1102-1111); also 'built phosphate cathode capacity 450,000 t/yr' (D2, line 901) - a conflict of basis (nameplate vs monthly-sum effective). Sales 279,986.04 t (D4)."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-qujing-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Qujing base (Qujing Dynanonic, Qujing Linxie, Dynanonic-EVE Qujing)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "nano-LFP and LMFP CAM",
+    "asset_type": "cathode plant (multi-entity base)",
+    "feedstock": "iron phosphate + lithium source",
+    "operator": "Qujing Dynanonic (曲靖市德方纳米科技有限公司)",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "D5",
+     "D6"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] One row for the Qujing (Yunnan) base, which the report treats as a single base (D3; lines 1004, 12238 'Qujing base'). Entities in Qujing (D5, D6): Qujing Dynanonic (100%, nano-LFP and the dedicated LMFP line), Qujing Linxie (曲靖市麟铁科技, 60%, nano-LFP), Dynanonic-EVE (曲靖市德枋亿纬有限公司, 60%, nano-LFP; the name suggests EVE as minority partner but the filing does not say so), and Qujing Dynanonic Chuangjie (indirect 42.27% group, production asset group impaired). Qujing Dynanonic revenue RMB 4.892bn, Qujing Linxie RMB 0.893bn in 2025 (lines 1817-1825; may include intra-group sales). Possibly several physical plants in the same city - split not disclosed. PLANT CAPACITY NOT DISCLOSED. The two big projects in the construction table - 80kt 'nano-LFP' (95.17% progress, impairment RMB 82.2m, D7) and the 110kt 'new phosphate-system cathode base' (96.20%, completed, residual RMB 4.9m, D7/D8) - are NOT tied to a site in the report and are not allocated. Company totals are in the Foshan row notes."},
-  {"action": "add", "id": "dynanonic-yibin-lfp-china",
-   "fields": {"asset_name": "Dynanonic Yibin base (Yibin Dynanonic Era)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium source", "operator": "Yibin Dynanonic Era (宜宾市德方时代科技有限公司)",
-              "parent_company": "Dynanonic (300769.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["D3", "D6"]},
+   "notes": "[SC104 2026-11-27] One row for the Qujing (Yunnan) base, which the report treats as a single base (D3; lines 1004, 12238 'Qujing base'). Entities in Qujing (D5, D6): Qujing Dynanonic (100%, nano-LFP and the dedicated LMFP line), Qujing Linxie (曲靖市麟铁科技, 60%, nano-LFP), Dynanonic-EVE (曲靖市德枋亿纬有限公司, 60%, nano-LFP; the name suggests EVE as minority partner but the filing does not say so), and Qujing Dynanonic Chuangjie (indirect 42.27% group, production asset group impaired). Qujing Dynanonic revenue RMB 4.892bn, Qujing Linxie RMB 0.893bn in 2025 (lines 1817-1825; may include intra-group sales). Possibly several physical plants in the same city - split not disclosed. PLANT CAPACITY NOT DISCLOSED. The two big projects in the construction table - 80kt 'nano-LFP' (95.17% progress, impairment RMB 82.2m, D7) and the 110kt 'new phosphate-system cathode base' (96.20%, completed, residual RMB 4.9m, D7/D8) - are NOT tied to a site in the report and are not allocated. Company totals are in the Foshan row notes."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-yibin-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Yibin base (Yibin Dynanonic Era)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium source",
+    "operator": "Yibin Dynanonic Era (宜宾市德方时代科技有限公司)",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "D3",
+     "D6"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC104 2026-11-27] Annual report: Yibin Dynanonic Era (宜宾德方时代, Sichuan Yibin) is a 60% indirectly held holding of Dynanonic (D6, lines 13863-13865) and the third base named in D3. Its production-equipment asset group was impairment-tested in 2025 (lines 12270-12275, carrying value RMB 820m, 12-year forecast), i.e. installed equipment exists. The production-division sentence (D5) does not list Yibin among the LFP producers, so product and status are inferred from D3 and the impairment table; capacity not disclosed. Name suggests a customer JV (the report only says Dynanonic builds plants jointly with leading customers, line 882-883)."},
-
-  {"action": "update", "id": "wanrun-anhui-china",
-   "fields": {"province_state": "Anhui"},
+   "notes": "[SC104 2026-11-27] Annual report: Yibin Dynanonic Era (宜宾德方时代, Sichuan Yibin) is a 60% indirectly held holding of Dynanonic (D6, lines 13863-13865) and the third base named in D3. Its production-equipment asset group was impairment-tested in 2025 (lines 12270-12275, carrying value RMB 820m, 12-year forecast), i.e. installed equipment exists. The production-division sentence (D5) does not list Yibin among the LFP producers, so product and status are inferred from D3 and the impairment table; capacity not disclosed. Name suggests a customer JV (the report only says Dynanonic builds plants jointly with leading customers, line 882-883)."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-anhui-china",
+   "fields": {
+    "province_state": "Anhui"
+   },
    "evidence": {},
    "confidence": 0.7,
-   "notes": "[SC104 2026-11-27] Addendum. Annual report (W4, W5): the Anhui base is Anqing Derun New Energy Materials (安庆德润, 100%, Anqing 安徽省安庆市, registered capital RMB 400m), business 'iron phosphate and LFP R&D, production, sales'; 2025 revenue RMB 1.159bn, net loss RMB 17.7m (W5, lines 2875-2877). Capacity 37kt stays from the investor-platform reply (S16 of SC010); the filing does not give plant capacity. Company-level LFP output/sales: see Hubei row notes."},
-  {"action": "update", "id": "wanrun-hubei-china",
+   "notes": "[SC104 2026-11-27] Addendum. Annual report (W4, W5): the Anhui base is Anqing Derun New Energy Materials (安庆德润, 100%, Anqing 安徽省安庆市, registered capital RMB 400m), business 'iron phosphate and LFP R&D, production, sales'; 2025 revenue RMB 1.159bn, net loss RMB 17.7m (W5, lines 2875-2877). Capacity 37kt stays from the investor-platform reply (S16 of SC010); the filing does not give plant capacity. Company-level LFP output/sales: see Hubei row notes."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-hubei-china",
    "fields": {},
    "evidence": {},
    "confidence": 0.65,
-   "notes": "[SC104 2026-11-27] Addendum - COMPANY TOTALS (Wanrun 2025 annual report, local text 688275_2025.txt): LFP production 370,400.64 t, sales 375,067.56 t, inventory 13,935.87 t (W1, line 2346); shipments 375,100 t (37.51万吨, +64.33%) (W2, line 965). The filing states NO total capacity figure. Hubei sites per the subsidiary table (W4, line 11842-11847): Hongrun Gaoke (虹润高科, Ezhou 鄂州, FePO4 + LFP), Hongmai Gaoke (宏迈高科, Shiyan 十堰, LFP; Hongmai's high-performance Li-ion materials fundraising project was closed out, W9) and Wanrun New Material supply-chain (Shiyan, trading) - and Xiangyang Huahong (襄阳华虹) is named in the glossary. CONFLICT with the earlier note: the filing places the second Hubei site in Ezhou, not 'Hong'an'; the 311kt Hubei aggregate therefore covers Shiyan + Ezhou (+ possibly Xiangyang). Hongrun Gaoke revenue RMB 0.481bn (loss RMB 79m), Hongmai Gaoke RMB 1.076bn (loss RMB 81m) (lines 2856, 2870). A 130.0万-tonne-class CATL supply agreement: approx. 1.3231Mt of LFP May 2025-2030, CATL commits to buy at least 80% of committed monthly volumes (line 2364-2366; not site-specific)."},
-  {"action": "update", "id": "wanrun-lubei-binzhou-shandong-china",
-   "fields": {"province_state": "Shandong"},
+   "notes": "[SC104 2026-11-27] Addendum - COMPANY TOTALS (Wanrun 2025 annual report, local text 688275_2025.txt): LFP production 370,400.64 t, sales 375,067.56 t, inventory 13,935.87 t (W1, line 2346); shipments 375,100 t (37.51万吨, +64.33%) (W2, line 965). The filing states NO total capacity figure. Hubei sites per the subsidiary table (W4, line 11842-11847): Hongrun Gaoke (虹润高科, Ezhou 鄂州, FePO4 + LFP), Hongmai Gaoke (宏迈高科, Shiyan 十堰, LFP; Hongmai's high-performance Li-ion materials fundraising project was closed out, W9) and Wanrun New Material supply-chain (Shiyan, trading) - and Xiangyang Huahong (襄阳华虹) is named in the glossary. CONFLICT with the earlier note: the filing places the second Hubei site in Ezhou, not 'Hong'an'; the 311kt Hubei aggregate therefore covers Shiyan + Ezhou (+ possibly Xiangyang). Hongrun Gaoke revenue RMB 0.481bn (loss RMB 79m), Hongmai Gaoke RMB 1.076bn (loss RMB 81m) (lines 2856, 2870). CATL supply agreement: approx. 1.3231 Mt of LFP May 2025-2030, CATL commits to buy at least 80% of committed monthly volumes (line 2364-2366; not site-specific)."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-lubei-binzhou-shandong-china",
+   "fields": {
+    "province_state": "Shandong"
+   },
    "evidence": {},
    "confidence": 0.8,
-   "notes": "[SC104 2026-11-27] Addendum - corroboration by the annual report (W3, lines 2692-2695): project '240kt/yr LFP co-produced with 240kt/yr FePO4' (superseded-capital RMB 2.05bn of IPO over-raise funds) by Lubei Wanrun and Huahong Qingyuan; at end-2025 the 120kt/yr LFP and 240kt/yr FePO4 capacity are built and operating; the other 120kt/yr LFP line is being upgraded to HIGH-COMPACTION LFP, completion postponed to Dec 2026. This agrees with capacity 240kt = 120kt built + 120kt planned and with the Dec-2026 step. Lubei Wanrun (81% owned, Binzhou, Shandong; registered capital RMB 2.1055bn; W4) had 2025 revenue RMB 4.668bn, net loss RMB 70.2m; construction-in-progress RMB 462.6m (project budget RMB 6.19bn per the table, progress 77.34%; W10 line 10110). The 24万吨 FePO4 is a separate precursor row (wanrun-lubei-binzhou-fepo4-china). The 7万吨 high-compaction project mentioned by an ifeng report is not found in the annual report as a Lubei project (see Hongmai row)."},
-  {"action": "update", "id": "wanrun-hongmai-gaoke-hubei-china",
+   "notes": "[SC104 2026-11-27] Addendum - corroboration by the annual report (W3, lines 2692-2695): project '240kt/yr LFP co-produced with 240kt/yr FePO4' (funded with RMB 2.049bn of over-raised IPO funds) by Lubei Wanrun and Huahong Qingyuan; at end-2025 the 120kt/yr LFP and 240kt/yr FePO4 capacity are built and operating; the other 120kt/yr LFP line is being upgraded to HIGH-COMPACTION LFP, completion postponed to Dec 2026. This agrees with capacity 240kt = 120kt built + 120kt planned and with the Dec-2026 step. Lubei Wanrun (81% owned, Binzhou, Shandong; registered capital RMB 2.1055bn; W4) had 2025 revenue RMB 4.668bn, net loss RMB 70.2m; construction-in-progress RMB 462.6m (project budget RMB 6.19bn per the table, progress 77.34%; W10 line 10110). The 24万吨 FePO4 is a separate precursor row (wanrun-lubei-binzhou-fepo4-china). The 7万吨 high-compaction project mentioned by an ifeng report is not found in the annual report as a Lubei project (see Hongmai row)."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-hongmai-gaoke-hubei-china",
    "fields": {},
    "evidence": {},
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Addendum. The annual report lists the '7万吨/年高压实密度磷酸铁锂项目' only in the investment-risk paragraph (W8, lines 2157-2159), which states that such projects require filing, EIA, safety, energy and occupational-health approvals - i.e. the report does not say the project is under construction, and it has no matching line in the construction-in-progress table (lines 10109-10115). CONFLICT with the 2026-10-13 investor reply (under construction): status kept 'under_construction' but confidence lowered to 0.5. The report places Hongmai Gaoke (the 100% subsidiary) in Shiyan, Hubei (W4, line 11844); the project site itself is not stated (Danjiangkou remains from the search summary)."},
-  {"action": "update", "id": "wanrun-south-carolina-usa",
-   "fields": {"province_state": "South Carolina", "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["W6"], "capacity": ["W6"]},
+   "notes": "[SC104 2026-11-27] Addendum. The annual report lists the '7万吨/年高压实密度磷酸铁锂项目' only in the investment-risk paragraph (W8, lines 2157-2159), which states that such projects require filing, EIA, safety, energy and occupational-health approvals - i.e. the report does not say the project is under construction, and it has no matching line in the construction-in-progress table (lines 10109-10115). CONFLICT with the 2026-10-13 investor reply (under construction): status kept 'under_construction' but confidence lowered to 0.5. The report places Hongmai Gaoke (the 100% subsidiary) in Shiyan, Hubei (W4, line 11844); the project site itself is not stated (Danjiangkou remains from the search summary)."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-south-carolina-usa",
+   "fields": {
+    "province_state": "South Carolina",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "W6"
+    ],
+    "capacity": [
+     "W6"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC104 2026-11-27] Annual report (W6, lines 2720-2726; also line 1146 and risk line 2159-2160): US project via Wrestore Technology LLC, established in South Carolina (confirmed - removes the earlier 'confirm' flag); total planned investment USD 167.64m; total plan 50,000 t/yr LFP in phases, phase 1 9,000 t/yr; at end-2025 land and plant handed over, partial environmental-permit filings and staged equipment certification done, overall design under way, i.e. no construction yet -> status stays announced. The capacity quote supports the 50kt plan only; capacity_ref_year 2028 (and the 'full production 2028' statement) still rests on the 2024/2025 press sources of SC010 (S18/S19). US tariff/approval risk stated (line 2159-2160). Other construction-in-progress 'miscellaneous' RMB 103.8m is mainly this project (line 10116)."},
-  {"action": "add", "id": "wanrun-lubei-binzhou-fepo4-china",
-   "fields": {"asset_name": "Lubei Wanrun / Huahong Qingyuan iron phosphate (24万吨, Binzhou)", "step": "precursor", "commodity": "precursor", "product": "iron phosphate (FePO4)",
-              "asset_type": "precursor plant", "feedstock": "iron source + phosphoric acid", "operator": "Lubei Wanrun (鲁北万润智慧能源科技（山东）有限公司)",
-              "parent_company": "Wanrun New Energy (688275.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Shandong", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": 2022, "start_year": null,
-              "capacity": 240000, "capacity_unit": "t FePO4", "capacity_ref_year": 2025,
-              "installed_capacity": 240000, "installed_as_of": "2025-12-31",
-              "production": null, "production_unit": null, "production_year": null,
-              "feeds": "wanrun-lubei-binzhou-shandong-china", "offtakers": "captive: Wanrun LFP lines", "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["W3"], "capacity": ["W3"], "installed_capacity": ["W3"]},
+   "notes": "[SC104 2026-11-27] Annual report (W6, lines 2720-2726; also line 1146 and risk line 2159-2160): US project via Wrestore Technology LLC, established in South Carolina (confirmed - removes the earlier 'confirm' flag); total planned investment USD 167.64m; total plan 50,000 t/yr LFP in phases, phase 1 9,000 t/yr; at end-2025 land and plant handed over, partial environmental-permit filings and staged equipment certification done, overall design under way, i.e. no construction yet -> status stays announced. The capacity quote supports the 50kt plan only; capacity_ref_year 2028 (and the 'full production 2028' statement) still rests on the 2024/2025 press sources of SC010 (S18/S19). US tariff/approval risk stated (line 2159-2160). Other construction-in-progress 'miscellaneous' RMB 103.8m is mainly this project (line 10116)."
+  },
+  {
+   "action": "add",
+   "id": "wanrun-lubei-binzhou-fepo4-china",
+   "fields": {
+    "asset_name": "Lubei Wanrun / Huahong Qingyuan iron phosphate (24万吨, Binzhou)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "iron phosphate (FePO4)",
+    "asset_type": "precursor plant",
+    "feedstock": "iron source + phosphoric acid",
+    "operator": "Lubei Wanrun (鲁北万润智慧能源科技（山东）有限公司)",
+    "parent_company": "Wanrun New Energy (688275.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 240000,
+    "capacity_unit": "t FePO4",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 240000,
+    "installed_as_of": "2025-12-31",
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "feeds": "wanrun-lubei-binzhou-shandong-china",
+    "offtakers": "captive: Wanrun LFP lines",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "W3"
+    ],
+    "capacity": [
+     "W3"
+    ],
+    "installed_capacity": [
+     "W3"
+    ]
+   },
    "confidence": 0.8,
-   "notes": "[SC104 2026-11-27] Annual report (W3, lines 2692-2693): '24 万吨/年磷酸铁锂联产 24 万吨/年磷酸铁项目' implemented jointly by Lubei Wanrun and Huahong Qingyuan; at the end of the reporting period the 120kt/yr LFP and 240kt/yr FePO4 capacity are built and in production. Company says iron phosphate is mainly used in-house to make LFP (W11, lines 1228-1229). Location: Lubei Wanrun's main operating place is Binzhou, Shandong (W4); the report does not name the FePO4 plant's town and Huahong Qingyuan is registered in Shenzhen (its operating place is stated as Shenzhen, line 11843, and its profit comes from wastewater treatment and by-products, line 5790-5792) - so the FePO4 is assumed to be on the Lubei site (the project line in construction-in-progress is Lubei's, W10). Announced 2022-10 (board 2022-10-26, line 2690) - announced_year from that line. Other Wanrun FePO4 (Hongrun Gaoke Ezhou, Anqing Derun, Xiangyang Huahong) is not quantified in the filing."},
-  {"action": "add", "id": "wanrun-baokang-xiangyang-lfp-china",
-   "fields": {"asset_name": "Baokang LFP circular-economy industrial park (Xiangyang, JV with Baokang State Capital)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM, FePO4, phosphate chemicals and phosphate rock (integrated park)",
-              "asset_type": "cathode plant (integrated project)", "feedstock": "phosphate rock (integrated)", "operator": "Wanrun JV with Baokang State Capital Investment Group (保康国投)",
-              "parent_company": "Wanrun New Energy (688275.SH)", "jv_partners": "Baokang State Capital Investment Group (保康国有资本投资集团有限公司); shares not stated",
-              "country": "China", "region": "China", "province_state": "Hubei", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "active", "announced_year": 2023, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["W7"]},
+   "notes": "[SC104 2026-11-27] Annual report (W3, lines 2692-2693): '24 万吨/年磷酸铁锂联产 24 万吨/年磷酸铁项目' implemented jointly by Lubei Wanrun and Huahong Qingyuan; at the end of the reporting period the 120kt/yr LFP and 240kt/yr FePO4 capacity are built and in production. Company says iron phosphate is mainly used in-house to make LFP (W11, lines 1228-1229). Location: Lubei Wanrun's main operating place is Binzhou, Shandong (W4); the report does not name the FePO4 plant's town and Huahong Qingyuan is registered in Shenzhen (its operating place is stated as Shenzhen, line 11843, and its profit comes from wastewater treatment and by-products, line 5790-5792) - so the FePO4 is assumed to be on the Lubei site (the project line in construction-in-progress is Lubei's, W10). Announced 2022-10 (board 2022-10-26, line 2690) - announced_year from that line. Other Wanrun FePO4 (Hongrun Gaoke Ezhou, Anqing Derun, Xiangyang Huahong) is not quantified in the filing."
+  },
+  {
+   "action": "add",
+   "id": "wanrun-baokang-xiangyang-lfp-china",
+   "fields": {
+    "asset_name": "Baokang LFP circular-economy industrial park (Xiangyang, JV with Baokang State Capital)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM, FePO4, phosphate chemicals and phosphate rock (integrated park)",
+    "asset_type": "cathode plant (integrated project)",
+    "feedstock": "phosphate rock (integrated)",
+    "operator": "Wanrun JV with Baokang State Capital Investment Group (保康国投)",
+    "parent_company": "Wanrun New Energy (688275.SH)",
+    "jv_partners": "Baokang State Capital Investment Group (保康国有资本投资集团有限公司); shares not stated",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225181265.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "W7"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Annual report (W7, lines 2708-2719): framework agreement of 2023-12-28 with Baokang county government for an LFP circular-economy park at Yujiahu Baokang industrial park and Baokang phosphorus-chemical park (Xiangyang), two phases covering LFP, FePO4, phosphorus salts, phosphoric acid and phosphate rock; JV company with Baokang State Capital set up; project 'progressing steadily per plan' at end-2025. No capacity, investment or dates in the report; kept as announced. Capacity left null (earlier press figures not verified here)."},
-
-  {"action": "update", "id": "longpan-suining-lithium-source-china",
-   "fields": {"capacity_ref_year": 2026, "capacity_by_year_json": {"2026": 187500}, "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L5a"], "capacity": ["L5a", "L5b"], "capacity_by_year_json": ["L2a"]},
+   "notes": "[SC104 2026-11-27] Annual report (W7, lines 2708-2719): framework agreement of 2023-12-28 with Baokang county government for an LFP circular-economy park at Yujiahu Baokang industrial park and Baokang phosphorus-chemical park (Xiangyang), two phases covering LFP, FePO4, phosphorus salts, phosphoric acid and phosphate rock; JV company with Baokang State Capital set up; project 'progressing steadily per plan' at end-2025. No capacity, investment or dates in the report; kept as announced. Capacity left null (earlier press figures not verified here)."
+  },
+  {
+   "action": "update",
+   "id": "longpan-suining-lithium-source-china",
+   "fields": {
+    "capacity_ref_year": 2026,
+    "capacity_by_year_json": {
+     "2026": 187500
+    },
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L5a"
+    ],
+    "capacity": [
+     "L5a",
+     "L5b"
+    ],
+    "capacity_by_year_json": [
+     "L2a"
+    ]
+   },
    "confidence": 0.8,
-   "notes": "[SC104 2026-11-27] Annual report confirms the arithmetic of the earlier row: project of 150kt in three phases; phases 1 (2.5万t) and 2 (6.25万t) built (L5a, line 5264); phase 3 raised from 6.25万t to 10万t (L5b, line 5265) -> 187.5kt total. Phase 3 completion is dated May 2026 (L2a, lines 2044-2045; in-construction capacity 10万t), so capacity_ref_year is now 2026 (was publication-year fallback 2025) and a dated step 2026 -> 187,500 t is added (cumulative, depends on on-time completion). The filing names the site as Pengxi (四川蓬溪), Suining (L7); Sichuan Lithium Source (四川锂源, Suining, 66.42% group stake) had 2025 revenue RMB 3.262bn, net loss RMB 18.6m (line 2455). The earlier 'installed 87.5kt as of 2025-12-29' is unchanged (company says 8.75万t built). Company totals: see Indonesia row notes."},
-  {"action": "update", "id": "longpan-lithium-source-indonesia-indonesia",
-   "fields": {"province_state": "Central Java", "capacity_ref_year": 2026, "installed_capacity": 30000, "installed_as_of": "2025-12-31", "capacity_by_year_json": {"2025": 30000},
-              "offtakers": "Eve Energy (Malaysia) 152kt 2026-2030; CATL overseas plants 157.5kt Q2 2026-2031; (also Blue Oval Michigan, Sunwoda Thailand, LGES, Chuneng agreements signed via LBM New Energy (AP) - plant-specific allocation not stated)",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L3"], "capacity": ["L3", "L2b"], "installed_capacity": ["L3"], "capacity_by_year_json": ["L3"]},
+   "notes": "[SC104 2026-11-27] Annual report confirms the arithmetic of the earlier row: project of 150kt in three phases; phases 1 (2.5万t) and 2 (6.25万t) built (L5a, line 5264); phase 3 raised from 6.25万t to 10万t (L5b, line 5265) -> 187.5kt total. Phase 3 completion is dated May 2026 (L2a, lines 2044-2045; in-construction capacity 10万t), so capacity_ref_year is now 2026 (was publication-year fallback 2025) and a dated step 2026 -> 187,500 t is added (cumulative, depends on on-time completion). The filing names the site as Pengxi (四川蓬溪), Suining (L7); Sichuan Lithium Source (四川锂源, Suining, 66.42% group stake) had 2025 revenue RMB 3.262bn, net loss RMB 18.6m (line 2455). The earlier 'installed 87.5kt as of 2025-12-29' is unchanged (company says 8.75万t built). Company totals: see Indonesia row notes."
+  },
+  {
+   "action": "update",
+   "id": "longpan-lithium-source-indonesia-indonesia",
+   "fields": {
+    "province_state": "Central Java",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 30000,
+    "installed_as_of": "2025-12-31",
+    "capacity_by_year_json": {
+     "2025": 30000
+    },
+    "offtakers": "Eve Energy (Malaysia) 152kt 2026-2030; CATL overseas plants 157.5kt Q2 2026-2031; (also Blue Oval Michigan, Sunwoda Thailand, LGES, Chuneng agreements signed via LBM New Energy (AP) - plant-specific allocation not stated)",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L3"
+    ],
+    "capacity": [
+     "L3",
+     "L2b"
+    ],
+    "installed_capacity": [
+     "L3"
+    ],
+    "capacity_by_year_json": [
+     "L3"
+    ]
+   },
    "confidence": 0.75,
-   "notes": "[SC104 2026-11-27] Annual report: phase 1 (3万t/yr) went into production in 2025 (L3, line 2055); phase 2 (9万t/yr) is 'under installation and commissioning' as of the report date (April 2026) (L2b, lines 2046-2047) - total 12万t = 30kt + 90kt, matching the 120kt plan. CONFLICT/UPDATE: phase 2 was reported in 2025 as 'due end-2025'; the filing shows it still commissioning in April 2026, so capacity_ref_year moved to 2026 (publication-year fallback, no dated step); phase 2 is not added to capacity_by_year_json. Phase-2 construction-in-progress RMB 395.1m of a RMB 912.7m budget (44.85%) plus RMB 34.3m of 'Indonesia line works' (lines 10265, 10422-10441; not quoted). Site: the filing lists 'Indonesia Semarang (三宝垄)' as one of six bases (L7); province Central Java is from the gazetteer (Semarang is its capital), not from the filing. A separate new 2025 subsidiary PT LBM Energi Baru Indonesia Batang (锂源印尼（巴塘）, line 184-186, 2483) exists - no capacity; may be a second Indonesian site. Offtake agreements (lines 5088-5115): Blue Oval Battery Park Michigan 2026-2030 (volume unstated), Eve Energy Malaysia 15.2万t 2026-2030 (L11), CATL overseas plants 15.75万t from Q2 2026 to 2031 (L12), Sunwoda Thailand 10.68万t 2026-2030, Chuneng 1.3Mt (2026: 100kt; 2027-30: 300kt/yr), LGES 2024-2028 - signed via LBM New Energy (AP) Singapore. COMPANY TOTALS (Longpan, local text 603906_.txt): LFP design capacity 265,000 t (monthly-sum effective, 76.27% utilisation), in-construction 505,000 t (L1, lines 2029-2036; = Sichuan phase 3 100kt + Indonesia phase 2 90kt + Jintan 120kt + Hubei 85kt + Shandong 110kt); LFP production 202,115.13 t, sales 202,480.88 t (L8, line 1232); six bases (L7)."},
-  {"action": "update", "id": "longpan-jintan-high-compaction-lfp-china",
-   "fields": {"status": "under_construction", "capacity_by_year_json": {"2026": 120000}, "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L2c", "L4"], "capacity": ["L4"], "capacity_by_year_json": ["L2c"]},
+   "notes": "[SC104 2026-11-27] Annual report: phase 1 (3万t/yr) went into production in 2025 (L3, line 2055); phase 2 (9万t/yr) is 'under installation and commissioning' as of the report date (April 2026) (L2b, lines 2046-2047) - total 12万t = 30kt + 90kt, matching the 120kt plan. CONFLICT/UPDATE: phase 2 was reported in 2025 as 'due end-2025'; the filing shows it still commissioning in April 2026, so capacity_ref_year moved to 2026 (publication-year fallback, no dated step); phase 2 is not added to capacity_by_year_json. Phase-2 construction-in-progress RMB 395.1m of a RMB 912.7m budget (44.85%) plus RMB 34.3m of 'Indonesia line works' (lines 10265, 10422-10441; not quoted). Site: the filing lists 'Indonesia Semarang (三宝垄)' as one of six bases (L7); province Central Java is from the gazetteer (Semarang is its capital), not from the filing. A separate new 2025 subsidiary PT LBM Energi Baru Indonesia Batang (锂源印尼（巴塘）, line 184-186, 2483) exists - no capacity; may be a second Indonesian site. Offtake agreements (lines 5088-5115): Blue Oval Battery Park Michigan 2026-2030 (volume unstated), Eve Energy Malaysia 15.2万t 2026-2030 (L11), CATL overseas plants 15.75万t from Q2 2026 to 2031 (L12), Sunwoda Thailand 10.68万t 2026-2030, Chuneng 1.3Mt (2026: 100kt; 2027-30: 300kt/yr), LGES 2024-2028 - signed via LBM New Energy (AP) Singapore. COMPANY TOTALS (Longpan, local text 603906_.txt): LFP design capacity 265,000 t (monthly-sum effective, 76.27% utilisation), in-construction 505,000 t (L1, lines 2029-2036; = Sichuan phase 3 100kt + Indonesia phase 2 90kt + Jintan 120kt + Hubei 85kt + Shandong 110kt); LFP production 202,115.13 t, sales 202,480.88 t (L8, line 1232); six bases (L7)."
+  },
+  {
+   "action": "update",
+   "id": "longpan-jintan-high-compaction-lfp-china",
+   "fields": {
+    "status": "under_construction",
+    "capacity_by_year_json": {
+     "2026": 120000
+    },
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L2c",
+     "L4"
+    ],
+    "capacity": [
+     "L4"
+    ],
+    "capacity_by_year_json": [
+     "L2c"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC104 2026-11-27] Annual report: (a) post-period event - Jan 2026 investment to build a 240kt/yr high-compaction LFP base in the Jintan Hua Luogeng high-tech zone, phase 1 120kt (L4, lines 2058-2060); (b) 'Jiangsu Jintan high-performance Li-ion cathode project 120kt' listed in in-construction capacity, due Sept 2026 (L2c, line 2047). The two are treated as the same project (same size, site and the ~9-month build announced in Jan 2026) - that identity is INFERRED, not stated in the filing; if they differ the Jintan site has 120kt additional under construction. Status moved announced -> under_construction on that basis; dated step 2026 -> 120,000 t (phase 1); phase 2 (120kt) undated; capacity_ref_year 2026 remains publication-year fallback. Existing operating Jintan capacity (Jiangsu Lithium Source) is a separate row."},
-  {"action": "add", "id": "longpan-jiangsu-lithium-source-jintan-existing-china",
-   "fields": {"asset_name": "Jiangsu Lithium Source, Jintan (existing LFP base)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium carbonate", "operator": "Jiangsu Lithium Source (锂源（江苏）科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Jiangsu", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L7"]},
+   "notes": "[SC104 2026-11-27] Annual report: (a) post-period event - Jan 2026 investment to build a 240kt/yr high-compaction LFP base in the Jintan Hua Luogeng high-tech zone, phase 1 120kt (L4, lines 2058-2060); (b) 'Jiangsu Jintan high-performance Li-ion cathode project 120kt' listed in in-construction capacity, due Sept 2026 (L2c, line 2047). The two are treated as the same project (same size, site and the ~9-month build announced in Jan 2026) - that identity is INFERRED, not stated in the filing; if they differ the Jintan site has 120kt additional under construction. Status moved announced -> under_construction on that basis; dated step 2026 -> 120,000 t (phase 1); phase 2 (120kt) undated; capacity_ref_year 2026 remains publication-year fallback. Existing operating Jintan capacity (Jiangsu Lithium Source) is a separate row."
+  },
+  {
+   "action": "add",
+   "id": "longpan-jiangsu-lithium-source-jintan-existing-china",
+   "fields": {
+    "asset_name": "Jiangsu Lithium Source, Jintan (existing LFP base)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Jiangsu Lithium Source (锂源（江苏）科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L7"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC104 2026-11-27] Annual report: Jintan, Jiangsu is one of six LFP production bases (L7, lines 978-979). Jiangsu Lithium Source (formerly Jiangsu Betterui Nano, 66.42% group stake; lines 13231-13237) had 2025 revenue RMB 1.545bn, net loss RMB 1.8m (line 2440). Capacity NOT disclosed at plant level. Separate from the new 240kt high-compaction base (row longpan-jintan-high-compaction-lfp-china); whether the two share a site is not stated. Company totals: see the Indonesia row notes."},
-  {"action": "add", "id": "longpan-tianjin-lithium-source-baodi-china",
-   "fields": {"asset_name": "Tianjin Lithium Source, Baodi (LFP base)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium carbonate", "operator": "Lithium Source (Tianjin) (锂源（天津）科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Tianjin", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L7"]},
+   "notes": "[SC104 2026-11-27] Annual report: Jintan, Jiangsu is one of six LFP production bases (L7, lines 978-979). Jiangsu Lithium Source (formerly Jiangsu Betterui Nano, 66.42% group stake; lines 13231-13237) had 2025 revenue RMB 1.545bn, net loss RMB 1.8m (line 2440). Capacity NOT disclosed at plant level. Separate from the new 240kt high-compaction base (row longpan-jintan-high-compaction-lfp-china); whether the two share a site is not stated. Company totals: see the Indonesia row notes."
+  },
+  {
+   "action": "add",
+   "id": "longpan-tianjin-lithium-source-baodi-china",
+   "fields": {
+    "asset_name": "Tianjin Lithium Source, Baodi (LFP base)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Lithium Source (Tianjin) (锂源（天津）科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tianjin",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L7"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Annual report: Baodi, Tianjin is one of six LFP bases (L7). Lithium Source (Tianjin) (formerly Betterui Tianjin, acquired 2021, line 10753) reported only RMB 38.1m revenue in 2025 (line 2443) - far below the other bases, so it may be largely idle/low-utilisation or tolling; status 'operational' rests on the base list only. Capacity NOT disclosed."},
-  {"action": "add", "id": "longpan-shandong-lithium-source-heze-china",
-   "fields": {"asset_name": "Shandong Lithium Source, Heze (existing LFP base)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium carbonate", "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Shandong", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L7"]},
+   "notes": "[SC104 2026-11-27] Annual report: Baodi, Tianjin is one of six LFP bases (L7). Lithium Source (Tianjin) (formerly Betterui Tianjin, acquired 2021, line 10753) reported only RMB 38.1m revenue in 2025 (line 2443) - far below the other bases, so it may be largely idle/low-utilisation or tolling; status 'operational' rests on the base list only. Capacity NOT disclosed."
+  },
+  {
+   "action": "add",
+   "id": "longpan-shandong-lithium-source-heze-china",
+   "fields": {
+    "asset_name": "Shandong Lithium Source, Heze (existing LFP base)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L7"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Annual report: Heze, Shandong is one of six LFP bases (L7). Shandong Lithium Source (66.42% group stake, registered at Heze) had 2025 revenue RMB 2.259bn, net profit RMB 61.9m (line 2452). Phase-1 capacity NOT disclosed (the phase-2 11万t project is a separate row). The 'second-phase 110kt' name implies an existing phase 1. Do not sum with the phase-2 row across statuses."},
-  {"action": "add", "id": "longpan-shandong-lithium-source-heze-phase2-china",
-   "fields": {"asset_name": "Shandong Lithium Source 110kt high-performance phosphate cathode project (Heze, phase 2)", "step": "cathode", "commodity": "cathode", "product": "high-performance phosphate (LFP) CAM",
-              "asset_type": "cathode plant (expansion)", "feedstock": "iron phosphate + lithium carbonate", "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Shandong", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 110000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "capacity_by_year_json": {"2026": 110000},
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L2e"], "capacity": ["L2e"], "capacity_by_year_json": ["L2e"]},
+   "notes": "[SC104 2026-11-27] Annual report: Heze, Shandong is one of six LFP bases (L7). Shandong Lithium Source (66.42% group stake, registered at Heze) had 2025 revenue RMB 2.259bn, net profit RMB 61.9m (line 2452). Phase-1 capacity NOT disclosed (the phase-2 11万t project is a separate row). The 'second-phase 110kt' name implies an existing phase 1. Do not sum with the phase-2 row across statuses."
+  },
+  {
+   "action": "add",
+   "id": "longpan-shandong-lithium-source-heze-phase2-china",
+   "fields": {
+    "asset_name": "Shandong Lithium Source 110kt high-performance phosphate cathode project (Heze, phase 2)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-performance phosphate (LFP) CAM",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 110000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "capacity_by_year_json": {
+     "2026": 110000
+    },
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L2e"
+    ],
+    "capacity": [
+     "L2e"
+    ],
+    "capacity_by_year_json": [
+     "L2e"
+    ]
+   },
    "confidence": 0.75,
-   "notes": "[SC104 2026-11-27] Annual report: Shandong Lithium Source '110kt high-performance phosphate cathode project' due Q3 2026 (L2e, lines 2048-2049); construction-in-progress 'phase 2 110kt LFP cathode project (Shandong Lithium Source)' RMB 62.7m, 6.27% of the RMB 1.0bn budget at end-2025 (lines 10272-10276, 10401-10409; not quoted), and Shandong Lithium Source production-base project RMB 37.7m. The 6.27% progress at end-2025 versus a Q3 2026 completion date is a tension - treat the date as a company target. Separate expansion row; does not include phase-1 capacity."},
-  {"action": "add", "id": "longpan-shandong-lithium-source-heze-fepo4-phase3-china",
-   "fields": {"asset_name": "Shandong Lithium Source phase 3 iron phosphate project (80kt, Heze)", "step": "precursor", "commodity": "precursor", "product": "iron phosphate (FePO4)",
-              "asset_type": "precursor plant (project)", "feedstock": "iron source + phosphoric acid", "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Shandong", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 80000, "capacity_unit": "t FePO4", "capacity_ref_year": 2026,
-              "production": null, "production_unit": null, "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L10"], "capacity": ["L10"]},
+   "notes": "[SC104 2026-11-27] Annual report: Shandong Lithium Source '110kt high-performance phosphate cathode project' due Q3 2026 (L2e, lines 2048-2049); construction-in-progress 'phase 2 110kt LFP cathode project (Shandong Lithium Source)' RMB 62.7m, 6.27% of the RMB 1.0bn budget at end-2025 (lines 10272-10276, 10401-10409; not quoted), and Shandong Lithium Source production-base project RMB 37.7m. The 6.27% progress at end-2025 versus a Q3 2026 completion date is a tension - treat the date as a company target. Separate expansion row; does not include phase-1 capacity."
+  },
+  {
+   "action": "add",
+   "id": "longpan-shandong-lithium-source-heze-fepo4-phase3-china",
+   "fields": {
+    "asset_name": "Shandong Lithium Source phase 3 iron phosphate project (80kt, Heze)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "iron phosphate (FePO4)",
+    "asset_type": "precursor plant (project)",
+    "feedstock": "iron source + phosphoric acid",
+    "operator": "Shandong Lithium Source (山东锂源科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 80000,
+    "capacity_unit": "t FePO4",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L10"
+    ],
+    "capacity": [
+     "L10"
+    ]
+   },
    "confidence": 0.35,
-   "notes": "[SC104 2026-11-27] Only a construction-in-progress line in the annual report: '三期 8 万吨磷酸铁项目（山东锂源）' with RMB 2.35m booked (L10, lines 10302-10304; RMB 1.85m a year earlier). No completion date, no text on the project. The 80kt is the project name; capacity_ref_year 2026 is the publication-year fallback. Status 'announced' (minimal spend). Phases 1-2 of FePO4 at Shandong Lithium Source are not described in the filing."},
-  {"action": "add", "id": "longpan-hubei-lithium-source-xiangyang-china",
-   "fields": {"asset_name": "Hubei Lithium Source, Xiangyang (LFP base)", "step": "cathode", "commodity": "cathode", "product": "LFP CAM",
-              "asset_type": "cathode plant", "feedstock": "iron phosphate + lithium carbonate", "operator": "Hubei Lithium Source (湖北锂源新能源科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Hubei", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L7"]},
+   "notes": "[SC104 2026-11-27] Only a construction-in-progress line in the annual report: '三期 8 万吨磷酸铁项目（山东锂源）' with RMB 2.35m booked (L10, lines 10302-10304; RMB 1.85m a year earlier). No completion date, no text on the project. The 80kt is the project name; capacity_ref_year 2026 is the publication-year fallback. Status 'announced' (minimal spend). Phases 1-2 of FePO4 at Shandong Lithium Source are not described in the filing."
+  },
+  {
+   "action": "add",
+   "id": "longpan-hubei-lithium-source-xiangyang-china",
+   "fields": {
+    "asset_name": "Hubei Lithium Source, Xiangyang (LFP base)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Hubei Lithium Source (湖北锂源新能源科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L7"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC104 2026-11-27] Annual report: Xiangyang, Hubei is one of six LFP bases (L7). Hubei Lithium Source (66.42% group stake, Xiangyang) had 2025 revenue RMB 89.8m and a net loss of RMB 15.0m, with negative net assets (line 2458) - small operating scale; a 'Hubei Lithium Source LFP infrastructure project' (RMB 6.9m) is also in construction-in-progress (line 10291). Operating capacity NOT disclosed. Separate expansion row for the 85kt project."},
-  {"action": "add", "id": "longpan-hubei-lithium-source-xiangyang-85kt-project-china",
-   "fields": {"asset_name": "Hubei Lithium Source 85kt high-performance phosphate cathode project (Xiangyang)", "step": "cathode", "commodity": "cathode", "product": "high-performance phosphate (LFP) CAM",
-              "asset_type": "cathode plant (expansion)", "feedstock": "iron phosphate + lithium carbonate", "operator": "Hubei Lithium Source (湖北锂源新能源科技有限公司)",
-              "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": "Hubei", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 85000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "capacity_by_year_json": {"2026": 85000},
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L2d"], "capacity": ["L2d"], "capacity_by_year_json": ["L2d"]},
+   "notes": "[SC104 2026-11-27] Annual report: Xiangyang, Hubei is one of six LFP bases (L7). Hubei Lithium Source (66.42% group stake, Xiangyang) had 2025 revenue RMB 89.8m and a net loss of RMB 15.0m, with negative net assets (line 2458) - small operating scale; a 'Hubei Lithium Source LFP infrastructure project' (RMB 6.9m) is also in construction-in-progress (line 10291). Operating capacity NOT disclosed. Separate expansion row for the 85kt project."
+  },
+  {
+   "action": "add",
+   "id": "longpan-hubei-lithium-source-xiangyang-85kt-project-china",
+   "fields": {
+    "asset_name": "Hubei Lithium Source 85kt high-performance phosphate cathode project (Xiangyang)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-performance phosphate (LFP) CAM",
+    "asset_type": "cathode plant (expansion)",
+    "feedstock": "iron phosphate + lithium carbonate",
+    "operator": "Hubei Lithium Source (湖北锂源新能源科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 85000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "capacity_by_year_json": {
+     "2026": 85000
+    },
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L2d"
+    ],
+    "capacity": [
+     "L2d"
+    ],
+    "capacity_by_year_json": [
+     "L2d"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC104 2026-11-27] Annual report: Hubei Lithium Source '8.5万t high-performance phosphate cathode project', completion expected Q3 2026 (L2d, line 2048); reported as a significant non-equity investment with RMB 32.7m spent at end-2025 (lines 2238-2240) - low spend relative to a Q3-2026 date, so the date is a company target."},
-  {"action": "add", "id": "longpan-yichun-times-lithium-carbonate-china",
-   "fields": {"asset_name": "Yichun Longpan Times 40kt battery-grade energy-storage-material project (lithium carbonate processing)", "step": "refining", "commodity": "lithium",
-              "product": "battery-grade lithium carbonate (product name in filing: 电池级储能材料; assumed Li2CO3)", "asset_type": "carbonate processing plant", "feedstock": "not stated",
-              "operator": "Yichun Longpan Times Lithium (宜春龙蟠时代锂业科技有限公司)", "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)", "jv_partners": "70% Longpan; partner not stated",
-              "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2024,
-              "capacity": 40000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
-              "capacity_norm": 40000, "norm_unit": "t LCE",
-              "production": null, "production_unit": null, "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-25"},
-   "evidence": {"status": ["L9a", "L9b"], "capacity": ["L9b"]},
+   "notes": "[SC104 2026-11-27] Annual report: Hubei Lithium Source '8.5万t high-performance phosphate cathode project', completion expected Q3 2026 (L2d, line 2048); reported as a significant non-equity investment with RMB 32.7m spent at end-2025 (lines 2238-2240) - low spend relative to a Q3-2026 date, so the date is a company target."
+  },
+  {
+   "action": "add",
+   "id": "longpan-yichun-times-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Yichun Longpan Times 40kt battery-grade energy-storage-material project (lithium carbonate processing)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "battery-grade lithium carbonate (product name in filing: 电池级储能材料; assumed Li2CO3)",
+    "asset_type": "carbonate processing plant",
+    "feedstock": "not stated",
+    "operator": "Yichun Longpan Times Lithium (宜春龙蟠时代锂业科技有限公司)",
+    "parent_company": "Longpan Technology (龙蟠科技, 603906.SH)",
+    "jv_partners": "70% Longpan; partner not stated",
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025,
+    "capacity_norm": 40000,
+    "norm_unit": "t LCE",
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-25"
+   },
+   "evidence": {
+    "status": [
+     "L9a",
+     "L9b"
+    ],
+    "capacity": [
+     "L9b"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC104 2026-11-27] UNIT IS AN ASSUMPTION - lead to decide. The annual report names the project '年产 4 万吨电池级储能材料项目 (宜春时代)' (L9b, line 5150; construction-in-progress line 10297-10299; fundraising table lines 5204-5212 says 'basically built, annual capacity 4万吨', usable-state date June 2024 - start_year 2024 from that table). The subsidiary Yichun Longpan Times (70% Longpan, Jiangxi Yichun, registered capital RMB 1bn; line 13180-13182) has the business scope 'lithium carbonate processing and sales' (L9a, lines 2463-2464; 2025 revenue RMB 1.583bn, net profit RMB 75.6m). The report does not say the 4万t is lithium carbonate or whether it is output or feed. Entered as 40,000 t Li2CO3 at confidence 0.45 on that inference; if the lead rejects it, set capacity null."},
-
-  {"action": "add", "id": "fulin-jiangxi-shenghua-yichun-china",
-   "fields": {"asset_name": "Jiangxi Shenghua Yichun base (LFP, Yichun Economic Development Zone)", "step": "cathode", "commodity": "cathode", "product": "high-compaction LFP / LMFP CAM (fourth/fifth-generation)",
-              "asset_type": "cathode plant", "feedstock": "ferrous oxalate route (solid-phase) + lithium carbonate", "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
-              "parent_company": "Fulin Precision (002340? see notes) - Fulin Precision Co. (300432.SZ)", "jv_partners": "CATL holds 18.7387% of Jiangxi Shenghua (not a site JV)",
-              "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": "CATL (prepayment of RMB 1.5bn for supply commitment, 2025-09) and other domestic cell makers", "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F6", "F9"]},
+   "notes": "[SC104 2026-11-27] UNIT IS AN ASSUMPTION - lead to decide. The annual report names the project '年产 4 万吨电池级储能材料项目 (宜春时代)' (L9b, line 5150; construction-in-progress line 10297-10299; fundraising table lines 5204-5212 says 'basically built, annual capacity 4万吨', usable-state date June 2024 - start_year 2024 from that table). The subsidiary Yichun Longpan Times (70% Longpan, Jiangxi Yichun, registered capital RMB 1bn; line 13180-13182) has the business scope 'lithium carbonate processing and sales' (L9a, lines 2463-2464; 2025 revenue RMB 1.583bn, net profit RMB 75.6m). The report does not say the 4万t is lithium carbonate or whether it is output or feed. Entered as 40,000 t Li2CO3 at confidence 0.45 on that inference; if the lead rejects it, set capacity null."
+  },
+  {
+   "action": "add",
+   "id": "fulin-jiangxi-shenghua-yichun-china",
+   "fields": {
+    "asset_name": "Jiangxi Shenghua Yichun base (LFP, Yichun Economic Development Zone)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-compaction LFP / LMFP CAM (fourth/fifth-generation)",
+    "asset_type": "cathode plant",
+    "feedstock": "ferrous oxalate route (solid-phase) + lithium carbonate",
+    "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
+    "parent_company": "Fulin Precision Co. (300432.SZ)",
+    "jv_partners": "CATL holds 18.7387% of Jiangxi Shenghua (not a site JV)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": "CATL (prepayment of RMB 1.5bn for supply commitment, 2025-09) and other domestic cell makers",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F6",
+     "F9"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Annual report: Jiangxi Shenghua (79.57% Fulin, registered at Yichun Economic and Technological Development Zone; F7a) runs two LFP bases, Shehong (Sichuan) and Yichun (F6, line 2130); the Yichun base's construction-in-progress was transferred to fixed assets in 2025 (F9, lines 1759-1763) and Yichun/Deyang base investment rose (F8, line 1709). COMPANY TOTALS (Fulin Precision, local text 300432_2025.txt): high-compaction LFP capacity 273,333 t (monthly-sum basis), in construction 350,000 t, utilisation 100.17%, production 273,795.32 t (F1, lines 1226-1236); sales 273,827.64 t (F2, line 1257); text states 'Jiangxi Shenghua's existing capacity is 300kt' (F3, lines 998-1000), a 35万t project under construction and a 50万t storage-LFP project; 'effective capacity expected to reach 1.15Mt within the year' (F4, line 2295) = 300 + 350 + 500 kt. Cathode revenue RMB 9.309bn (F11). The 300kt is shared between Yichun and Shehong - NOT split in the report. CATL subscribed RMB 400m for 18.7387% of Jiangxi Shenghua and prepaid RMB 1.5bn (lines 5320-5331)."},
-  {"action": "add", "id": "fulin-sichuan-fulin-shehong-china",
-   "fields": {"asset_name": "Sichuan Fulin New Energy, Shehong base (LFP)", "step": "cathode", "commodity": "cathode", "product": "high-compaction LFP / LMFP CAM",
-              "asset_type": "cathode plant", "feedstock": "ferrous oxalate route (solid-phase) + lithium carbonate", "operator": "Sichuan Fulin New Energy Technology (四川富临新能源科技有限公司; subsidiary of Jiangxi Shenghua)",
-              "parent_company": "Fulin Precision Co. (300432.SZ)", "jv_partners": "CATL holds 18.7387% of Jiangxi Shenghua (not a site JV)",
-              "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F6", "F7b"]},
+   "notes": "[SC104 2026-11-27] Annual report: Jiangxi Shenghua (79.57% Fulin, registered at Yichun Economic and Technological Development Zone; F7a) runs two LFP bases, Shehong (Sichuan) and Yichun (F6, line 2130); the Yichun base's construction-in-progress was transferred to fixed assets in 2025 (F9, lines 1759-1763) and Yichun/Deyang base investment rose (F8, line 1709). COMPANY TOTALS (Fulin Precision, local text 300432_2025.txt): high-compaction LFP capacity 273,333 t (monthly-sum basis), in construction 350,000 t, utilisation 100.17%, production 273,795.32 t (F1, lines 1226-1236); sales 273,827.64 t (F2, line 1257); text states 'Jiangxi Shenghua's existing capacity is 300kt' (F3, lines 998-1000), a 35万t project under construction and a 50万t storage-LFP project; 'effective capacity expected to reach 1.15Mt within the year' (F4, line 2295) = 300 + 350 + 500 kt. Cathode revenue RMB 9.309bn (F11). The 300kt is shared between Yichun and Shehong - NOT split in the report. CATL subscribed RMB 400m for 18.7387% of Jiangxi Shenghua and prepaid RMB 1.5bn (lines 5320-5331)."
+  },
+  {
+   "action": "add",
+   "id": "fulin-sichuan-fulin-shehong-china",
+   "fields": {
+    "asset_name": "Sichuan Fulin New Energy, Shehong base (LFP)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-compaction LFP / LMFP CAM",
+    "asset_type": "cathode plant",
+    "feedstock": "ferrous oxalate route (solid-phase) + lithium carbonate",
+    "operator": "Sichuan Fulin New Energy Technology (四川富临新能源科技有限公司; subsidiary of Jiangxi Shenghua)",
+    "parent_company": "Fulin Precision Co. (300432.SZ)",
+    "jv_partners": "CATL holds 18.7387% of Jiangxi Shenghua (not a site JV)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F6",
+     "F7b"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Annual report: Sichuan Fulin New Energy Technology (四川富临新能源科技, registered at Shehong Economic and Technological Development Zone, Suining; F7b) is a 79.57% subsidiary of Jiangxi Shenghua; the Shehong base is one of the two LFP bases (F6). A second Shehong entity, Sichuan Fulin New Energy Materials (四川富临新能源材料有限公司, Hedong Avenue, Shehong), pledged its land use right in 2025-09 (lines 15571-15574) and is probably on the same site. Capacity not disclosed - see Yichun row notes for the company totals (273,333 t / 350,000 t / 273,795 t)."},
-  {"action": "add", "id": "fulin-jiangxi-shenghua-35kt-project-china",
-   "fields": {"asset_name": "Jiangxi Shenghua 350kt/yr new high-compaction LFP project", "step": "cathode", "commodity": "cathode", "product": "high-compaction LFP CAM",
-              "asset_type": "cathode plant (project)", "feedstock": "ferrous oxalate route + lithium carbonate", "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
-              "parent_company": "Fulin Precision Co. (300432.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "under_construction", "project_state": "active", "announced_year": 2025, "start_year": null,
-              "capacity": 350000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F1", "F3"], "capacity": ["F1", "F3"]},
+   "notes": "[SC104 2026-11-27] Annual report: Sichuan Fulin New Energy Technology (四川富临新能源科技, registered at Shehong Economic and Technological Development Zone, Suining; F7b) is a 79.57% subsidiary of Jiangxi Shenghua; the Shehong base is one of the two LFP bases (F6). A second Shehong entity, Sichuan Fulin New Energy Materials (四川富临新能源材料有限公司, Hedong Avenue, Shehong), pledged its land use right in 2025-09 (lines 15571-15574) and is probably on the same site. Capacity not disclosed - see Yichun row notes for the company totals (273,333 t / 350,000 t / 273,795 t)."
+  },
+  {
+   "action": "add",
+   "id": "fulin-jiangxi-shenghua-35kt-project-china",
+   "fields": {
+    "asset_name": "Jiangxi Shenghua 350kt/yr new high-compaction LFP project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-compaction LFP CAM",
+    "asset_type": "cathode plant (project)",
+    "feedstock": "ferrous oxalate route + lithium carbonate",
+    "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
+    "parent_company": "Fulin Precision Co. (300432.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": null,
+    "capacity": 350000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F1",
+     "F3"
+    ],
+    "capacity": [
+     "F1",
+     "F3"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC104 2026-11-27] Annual report: 'newly building 35万t high-compaction LFP cathode' (F3, lines 998-1000), in-construction capacity 350,000 t (F1, line 1234), investment-table line 'annual output 350kt new high-compaction LFP project, self-built, RMB 532.3m spent, status under construction' with disclosure date 2025-10-29 (lines 1929-1975, garbled table; board resolution 2025-10-28, lines 3415-3421). SITE NOT STATED - candidates are Yichun, Shehong or Deyang (Mianzhu); province left null; the construction-in-progress balances of the Yichun and Deyang bases rose in 2025 (F8). capacity_ref_year 2026 = 'effective capacity to reach 1.15Mt within the year' (F4); no dated phases. Do not sum with the 50万t project row (F3: 30 + 35 + 50 = 115万t)."},
-  {"action": "add", "id": "fulin-jiangxi-shenghua-500kt-storage-lfp-china",
-   "fields": {"asset_name": "Jiangxi Shenghua 500kt/yr high-end energy-storage LFP project", "step": "cathode", "commodity": "cathode", "product": "LFP CAM for energy storage",
-              "asset_type": "cathode plant (project)", "feedstock": "ferrous oxalate route + lithium carbonate", "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
-              "parent_company": "Fulin Precision Co. (300432.SZ)", "jv_partners": null,
-              "country": "China", "region": "China", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": 500000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": "CATL (strategic investor in Jiangxi Shenghua)", "end_market": "ESS",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F3", "F5"], "capacity": ["F3", "F5"]},
+   "notes": "[SC104 2026-11-27] Annual report: 'newly building 35万t high-compaction LFP cathode' (F3, lines 998-1000), in-construction capacity 350,000 t (F1, line 1234), investment-table line 'annual output 350kt new high-compaction LFP project, self-built, RMB 532.3m spent, status under construction' with disclosure date 2025-10-29 (lines 1929-1975, garbled table; board resolution 2025-10-28, lines 3415-3421). SITE NOT STATED - candidates are Yichun, Shehong or Deyang (Mianzhu); province left null; the construction-in-progress balances of the Yichun and Deyang bases rose in 2025 (F8). capacity_ref_year 2026 = 'effective capacity to reach 1.15Mt within the year' (F4); no dated phases. Do not sum with the 50万t project row (F3: 30 + 35 + 50 = 115万t)."
+  },
+  {
+   "action": "add",
+   "id": "fulin-jiangxi-shenghua-500kt-storage-lfp-china",
+   "fields": {
+    "asset_name": "Jiangxi Shenghua 500kt/yr high-end energy-storage LFP project",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP CAM for energy storage",
+    "asset_type": "cathode plant (project)",
+    "feedstock": "ferrous oxalate route + lithium carbonate",
+    "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
+    "parent_company": "Fulin Precision Co. (300432.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": "CATL (strategic investor in Jiangxi Shenghua)",
+    "end_market": "ESS",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F3",
+     "F5"
+    ],
+    "capacity": [
+     "F3",
+     "F5"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC104 2026-11-27] Annual report: '年产 50万t high-end storage LFP' project is being pushed (F3, line 1000) and will be funded by the 2026 private placement fully subscribed by CATL (F5, lines 2308-2310); F4 says effective capacity should reach 1.15Mt within 2026 (30+35+50). It is NOT in the report's in-construction capacity figure (350,000 t = the 35万t project, F1), so treated as announced. Site not stated (province left null). capacity_ref_year 2026 is the publication-year fallback; the placement was still pending at report date, so the 2026 completion implied by F4 is a company aspiration (aspirational total - lead may want to exclude per D-015 if undated)."},
-  {"action": "add", "id": "fulin-deyang-mianzhu-lfp-china",
-   "fields": {"asset_name": "Jiangxi Shenghua / Chuanfa Longmang Deyang LFP and precursor project (Mianzhu)", "step": "cathode", "commodity": "cathode", "product": "high-compaction LFP CAM and precursor",
-              "asset_type": "cathode plant (JV project)", "feedstock": "not stated", "operator": "Jiangxi Shenghua New Materials / Sichuan Fulin New Material (四川富临新材料有限公司, Mianzhu, Deyang)",
-              "parent_company": "Fulin Precision Co. (300432.SZ)", "jv_partners": "Sichuan Development Longmang / Deyang Chuanfa Longmang (川发龙蟒); shares not stated",
-              "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "active", "announced_year": 2025, "start_year": null,
-              "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
-              "production": null, "production_unit": "t CAM", "production_year": null,
-              "offtakers": null, "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F8", "F12"]},
+   "notes": "[SC104 2026-11-27] Annual report: '年产 50万t high-end storage LFP' project is being pushed (F3, line 1000) and will be funded by the 2026 private placement fully subscribed by CATL (F5, lines 2308-2310); F4 says effective capacity should reach 1.15Mt within 2026 (30+35+50). It is NOT in the report's in-construction capacity figure (350,000 t = the 35万t project, F1), so treated as announced. Site not stated (province left null). capacity_ref_year 2026 is the publication-year fallback; the placement was still pending at report date, so the 2026 completion implied by F4 is a company aspiration (aspirational total - lead may want to exclude per D-015 if undated)."
+  },
+  {
+   "action": "add",
+   "id": "fulin-deyang-mianzhu-lfp-china",
+   "fields": {
+    "asset_name": "Jiangxi Shenghua / Chuanfa Longmang Deyang LFP and precursor project (Mianzhu)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "high-compaction LFP CAM and precursor",
+    "asset_type": "cathode plant (JV project)",
+    "feedstock": "not stated",
+    "operator": "Jiangxi Shenghua New Materials / Sichuan Fulin New Material (四川富临新材料有限公司, Mianzhu, Deyang)",
+    "parent_company": "Fulin Precision Co. (300432.SZ)",
+    "jv_partners": "Sichuan Development Longmang / Deyang Chuanfa Longmang (川发龙蟒); shares not stated",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": "t CAM",
+    "production_year": null,
+    "offtakers": null,
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F8",
+     "F12"
+    ]
+   },
    "confidence": 0.35,
-   "notes": "[SC104 2026-11-27] Annual report: framework agreement with Sichuan Development Longmang to jointly build a new high-compaction LFP cathode project and a precursor project (F12, lines 1075-1076); board of 2025-10-28 reviewed setting up a JV with Deyang Chuanfa Longmang (lines 3415-3421); cash outflow rose on 'Yichun base and Deyang base cathode projects' (F8, line 1709); Sichuan Fulin New Material (四川富临新材料, 79.57%, registered capital only RMB 1m) is located in Mianzhu, Deyang (F7c). That the Deyang base is the Chuanfa Longmang JV is INFERRED. No capacity, no construction statement."},
-  {"action": "add", "id": "fulin-sichuan-fengfu-lithium-lih2po4-china",
-   "fields": {"asset_name": "Sichuan Fengfu Lithium - lithium dihydrogen phosphate from lithium sulphate (project)", "step": "refining", "commodity": "lithium",
-              "product": "lithium dihydrogen phosphate (LiH2PO4) from lithium sulphate (LFP lithium source)", "asset_type": "lithium chemical plant (project)", "feedstock": "lithium sulphate",
-              "operator": "Sichuan Fengfu Lithium (四川锋富锂业有限公司)", "parent_company": "associate of Jiangxi Shenghua (Fulin Precision) and Sichuan Ganfeng Lithium",
-              "jv_partners": "Jiangxi Shenghua (Fulin) with Sichuan Ganfeng Lithium; shares not stated in text",
-              "country": "China", "region": "China", "province_state": "Sichuan", "latitude": null, "longitude": null, "geo_precision": "none",
-              "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
-              "capacity": null, "capacity_unit": "t Li2CO3", "capacity_ref_year": null,
-              "production": null, "production_unit": null, "production_year": null,
-              "offtakers": "captive: Jiangxi Shenghua LFP", "end_market": "battery",
-              "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-29"},
-   "evidence": {"status": ["F10"]},
+   "notes": "[SC104 2026-11-27] Annual report: framework agreement with Sichuan Development Longmang to jointly build a new high-compaction LFP cathode project and a precursor project (F12, lines 1075-1076); board of 2025-10-28 reviewed setting up a JV with Deyang Chuanfa Longmang (lines 3415-3421); cash outflow rose on 'Yichun base and Deyang base cathode projects' (F8, line 1709); Sichuan Fulin New Material (四川富临新材料, 79.57%, registered capital only RMB 1m) is located in Mianzhu, Deyang (F7c). That the Deyang base is the Chuanfa Longmang JV is INFERRED. No capacity, no construction statement."
+  },
+  {
+   "action": "add",
+   "id": "fulin-sichuan-fengfu-lithium-lih2po4-china",
+   "fields": {
+    "asset_name": "Sichuan Fengfu Lithium - lithium dihydrogen phosphate from lithium sulphate (project)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium dihydrogen phosphate (LiH2PO4) from lithium sulphate (LFP lithium source)",
+    "asset_type": "lithium chemical plant (project)",
+    "feedstock": "lithium sulphate",
+    "operator": "Sichuan Fengfu Lithium (四川锋富锂业有限公司)",
+    "parent_company": "associate of Jiangxi Shenghua (Fulin Precision) and Sichuan Ganfeng Lithium",
+    "jv_partners": "Jiangxi Shenghua (Fulin) with Sichuan Ganfeng Lithium; shares not stated in text",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "captive: Jiangxi Shenghua LFP",
+    "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225247752.PDF",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-29"
+   },
+   "evidence": {
+    "status": [
+     "F10"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC104 2026-11-27] Annual report (F10, lines 1073-1074): Jiangxi Shenghua and Sichuan Ganfeng Lithium set up Sichuan Fengfu Lithium to build a new 'annual 10万吨 lithium sulphate to lithium dihydrogen phosphate' project. The tonnage is ambiguous (lithium-sulphate feed vs LiH2PO4 output), so CAPACITY IS LEFT NULL; 100,000 t is the figure in the text. Jiangxi Shenghua invested RMB 49m (long-term equity investment RMB 50.5m at end-2025; Fulin lent it RMB 54.3m, lines 10643-10644, 11199-11207) - an associate (参股公司, line 123), not a subsidiary. Location (Sichuan; Shehong is the likely site because the Shehong zone owes Fulin subsidies, lines 10646-10647) is NOT stated - province Sichuan only because the entity is named 'Sichuan'. Unit t Li2CO3 in the capacity_unit field is a placeholder required by the schema; capacity is null."}
+   "notes": "[SC104 2026-11-27] Annual report (F10, lines 1073-1074): Jiangxi Shenghua and Sichuan Ganfeng Lithium set up Sichuan Fengfu Lithium to build a new 'annual 10万吨 lithium sulphate to lithium dihydrogen phosphate' project. The tonnage is ambiguous (lithium-sulphate feed vs LiH2PO4 output), so CAPACITY IS LEFT NULL; 100,000 t is the figure in the text. Jiangxi Shenghua invested RMB 49m (long-term equity investment RMB 50.5m at end-2025; Fulin lent it RMB 54.3m, lines 10643-10644, 11199-11207) - an associate (参股公司, line 123), not a subsidiary. Location (Sichuan; Shehong is the likely site because the Shehong zone owes Fulin subsidies, lines 10646-10647) is NOT stated - province Sichuan only because the entity is named 'Sichuan'. capacity_unit left null because the unit of the 10万t is unknown."
+  }
  ]
 }

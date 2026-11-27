@@ -1,0 +1,869 @@
+{
+ "task": "SC105",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "G1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM Co., Ltd. (格林美) 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 498-500)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "建成 15 万金吨/年镍钴中间品（MHP）产能（其中控股产能为 9 万金吨镍/年，参股产能为 6 万金吨镍/年）"},
+  "G2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 722)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "青美邦 HPAL 项目完成三期建设及工艺升级，镍金属年产能实现 15 万吨满产"},
+  "G3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 561-563)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "印尼镍资源项目镍金属出货超 110,839吨（含参股产能），同比增长 114%"},
+  "G4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 1606-1612)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "建成全球首个红土镍矿直接生产“MHP—硫酸镍晶体—电积镍—三元前驱体”全产业链独立园区，获评印尼保税园区。其中，MHP 镍年产能 15 万金吨（控股 9万金吨镍/年、参股 6 万金吨镍/年），总量居全球前三；硫酸镍钴锰晶体年产能 3 万金属吨、三元前驱体年产能 5 万吨、电积镍年产能 3 万吨"},
+  "G5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 615-619)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司海外镍钴化学品、电积镍成功投产，构建了全球少有的“低品位红土镍矿—镍钴中间品（MHP）—镍钴化学品—电积镍—三元前驱体”的镍资源及下游全产业链"},
+  "G6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 594-598; company-wide shipments)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "三元前驱体材料出货量 149,790 吨 ... 出货量达 29,040 吨 ... 三元正极材料高端产能释放，出货量 26,578 吨"},
+  "G7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 14375-14378, construction-in-progress table)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "印尼年产 5 万 ... 吨高镍动力 ... 池三元前驱体 ... 材料项目"},
+  "G8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 1626-1630)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "2025 年 8 月，印尼政府主权财富基金 Danantara 与公司签署加盟公司和印尼淡水河谷的合资项目（年产 6.6 万吨镍的电池原料合作项目）"},
+  "G9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 904)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "一期工程将在 2026 年投入运行"},
+  "G10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 3126)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "印尼 IGIP 园区完成 6.6 万吨镍/年 EPC 项目建设"},
+  "G11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 471-473)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "公司在中国建成的 6 个动力锂电池回收工厂覆盖珠三角、长三角、京津冀、华中区域，全部列入工信部白名单"},
+  "G12": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 588)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "动力锂电池回收拆解量 52,576 吨，同比增长 46%"},
+  "G13": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 3072)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "动力电池回收：8+万吨（2026）—12+万吨（2028）"},
+  "G14": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, line 664)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "格林美（荆门）作为核心企业成功入选国家发改委第一批国家级零碳园区建设名单"},
+  "G15": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 17329-17331, subsidiary table: Wuxi)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "钴酸锂、三 ... 元材料的研发和生产"},
+  "G16": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 14425-14427, construction-in-progress table)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "印尼三元正极 ... 材料项目"},
+  "G17": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "publisher": "GEM 2025 annual report (local text team/evidence/filings/002340_2025.txt, lines 1835 and 1840, company-wide production table)", "published": "2026-04-22", "accessed": "2026-11-27", "language": "zh", "quote": "105,012.22 ... 199,153.19"},
+  "N1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR Advanced Material (中伟新材料) 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 659-660)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "形成约 20 万金吨红土镍矿冶炼产能"},
+  "N3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 1187-1203, company-wide capacity/output table: ternary pCAM)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "镍系材料：三元前驱 ... 299,000.00 ... 20,000.00 ... 71.62% ... 214,156.12"},
+  "N3b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 1199-1202, company-wide table: iron phosphate)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "磷系材料：磷酸铁 ... 200,000.00 ... 82.45% ... 164,898.94"},
+  "N3c": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 1189-1203, company-wide totals)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "536,900.00 ... 77.22% ... 414,603.61 ... 238,666.67 ... 91.20% ... 217,657.36 ... 37,900.00 ... 35,548.55"},
+  "N4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 1058)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "6 月 25 日，中伟摩洛哥产业基地项目一期镍系材料产线全面投产"},
+  "N5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13146-13149, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼南加里曼 ... 丹基地 20000 ... 吨三元前驱体"},
+  "N6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 661)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "磷方面，公司已建成 20 万吨磷酸铁、5 万吨磷酸铁锂产能"},
+  "N6b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 956)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "开阳基地已建成的磷酸铁、磷酸铁锂产能"},
+  "N7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 7687-7688, fundraising table notes)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "贵州开阳基地年产 20 万吨磷酸铁项目 2025 年实现效益低于达产后承诺效益，主要系 2025 年是生产经营期第一年，处于产能爬坡阶段，尚未实现满产"},
+  "N8": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13156-13159, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "开阳基地年产 ... 18 万吨磷系正 ... 极材料建设项"},
+  "N9": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13161-13164, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "纳德思科镍业 ... 年产 8 万吨镍 ... 金属当量低冰"},
+  "N10": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13268-13271, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼德邦年产 ... 2.75 万吨镍金 ... 属当量低冰镍"},
+  "N11": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13256-13258, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼基地红土 ... 镍矿冶炼年产 ... 8 万金吨高冰"},
+  "N12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 1059)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "印尼莫罗瓦利基地二期镍冶炼产线（红土镍矿转低冰镍、低冰镍转高冰镍）逐条拉通投产"},
+  "N13": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13151-13154, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "中伟印尼南加 ... 里曼丹产业基 ... 地 4 万吨低冰"},
+  "N14": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13188-13191, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "红土镍矿冶炼 ... 年产高冰镍含 ... 镍金属 4 万吨"},
+  "N15": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 7685-7686, fundraising table notes)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "贵州西部基地年产 8 万金吨硫酸镍项目 2025 年实现效益低于达产后承诺效益，主要系 2025 年硫酸镍价格降低，公司考虑整体经营效益调整原料结构，导致项目产量未达预期"},
+  "N15b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 13241-13242, construction-in-progress table)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "广西南部基地年产 8 万金吨 ... 镍锍精炼项目"},
+  "N16": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 18224-18225)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "共同投资设立 PT CNGR Ding Xing New Energy（以下简称“Ding Xing”），建设年产 5 万吨精炼镍项目"},
+  "N17": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 12931-12933)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "香港中伟兴创新能源有限公司持有 40%股权，2024 年本公司之全资子公司终止在韩国浦项市投资建设的镍精炼厂项目，2025 年 10 月已完成项目清算"},
+  "N18": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 1062)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "与韩国 Posco FM 签署 LFP 合资协议，启动韩国浦项 LFP 先进材料制造项目建设"},
+  "N19": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 579-580)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "回收方面，公司已在国内生产基地建造回收设施，从混合金属精矿（黑粉）中回收镍、钴、锂等有价值金属"},
+  "N20": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR 2025 annual report (local text team/evidence/filings/300919_2025.txt, lines 1062-1063)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "与德国 CRONIMET 集团正式达成合作，在欧洲共同布局废旧电池循环工厂"},
+  "F1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "publisher": "Guangdong Fangyuan New Materials Group (芳源股份) 2025 annual report (local text team/evidence/filings/688148_.txt, lines 1263-1264)", "published": "2026-04-17", "accessed": "2026-11-27", "language": "zh", "quote": "截至报告期末，公司已建成投产的产能为 3.1 万吨前驱体、2.4 万吨电池级碳酸锂、4.92 万吨硫酸盐及 0.18 万吨球镍"},
+  "F2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "publisher": "Fangyuan 2025 annual report (local text team/evidence/filings/688148_.txt, lines 1488-1492, production table, excludes toll processing)", "published": "2026-04-17", "accessed": "2026-11-27", "language": "zh", "quote": "10,093.09 ... 36,020.74 ... 4,344.13 ... 154.86"},
+  "F3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "publisher": "Fangyuan 2025 annual report (local text team/evidence/filings/688148_.txt, lines 1478-1479)", "published": "2026-04-17", "accessed": "2026-11-27", "language": "zh", "quote": "上述前驱体包含 NCA 三元前驱体、NCM 三元前驱体及 NC 二元前驱体；硫酸盐包括硫酸镍结晶、硫酸钴结晶及硫酸锰结晶"},
+  "F4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "publisher": "Fangyuan 2025 annual report (local text team/evidence/filings/688148_.txt, lines 1497-1498)", "published": "2026-04-17", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，硫酸盐（含加工）的产量为 37,938.90 吨，碳酸锂（含加工）的产量为 5,359.88"},
+  "H1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Zhejiang Huayou Cobalt (华友钴业) 2025 annual report (local text team/evidence/filings/603799_.txt, lines 652-653)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "建成华越湿法项目、华飞湿法项目、华科火法项目，收购擎天火法项目，合计具备 24.5 万吨镍金属量的镍中间品生产能力"},
+  "H2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 545-546)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "华越、华飞两大湿法项目持续稳产超产，实现 MHP 年出货量 23.65 万吨，较上年同期增长 30%"},
+  "H3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 546-547)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 12 万吨镍金属量 Pomalaa 湿法项目按计划稳步推进，预计将于今年年底前建成"},
+  "H3b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 653-654)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "与淡水河谷印尼、福特汽车合作的年产 12 万吨镍金属量 Pomalaa 湿法项目已启动建设"},
+  "H4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, line 547)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 6 万吨镍金属量 Sorowako 湿法项目前期工作有序开展"},
+  "H5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 547-548)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 4 万吨镍金属量华星火法项目开工建设"},
+  "H6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 551-552)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "匈牙利正极材料一期 2.5 万吨项目完成建设并进入产线调试阶段"},
+  "H7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 7892-7895, construction-in-progress table; progress 15.00% at line 7961)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 12 万吨镍金 ... 属量氢氧化镍钴 ... 湿法项目"},
+  "H8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 7866-7870, construction-in-progress table; progress 96.00% at line 7928)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 5 万吨高镍型 ... 极材料、10 万吨三 ... 元前驱体材料一"},
+  "H9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 420-421)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "主要产品为粗制氢氧化钴和电积铜，钴铜矿料由自有矿山供应和向当地矿业公司采购"},
+  "H10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 1148-1150, own-mines table: PE527 Lusisi)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "刚果（金）PE527 矿权鲁 ... 28.47 万吨 ... 110 万吨 ... 0.00 年 ... 苏西铜钴矿"},
+  "H11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 431-433)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "子公司华友衢州、资源再生和江苏华友分别进入工信部发布的符合《新能源汽车废旧动力蓄电池综合利用行业规范条件》企业名单第一批次、第二批次和第四批次"},
+  "H12": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 10451-10455, subsidiary table: Chengdu Bamo main place of operation)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "四川省金 ... 成都巴莫 ... 堂县"},
+  "H13": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 10483-10484)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "公司直接持有天津巴莫 36.86%的股权，同时华友控股已将持有的天津巴莫 25.20%的股权表决权等权利委托给公司行使，故将天津巴莫纳入合并范围。成都巴莫系天津巴莫全资子公司"},
+  "H14": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 817-822, company-wide production table)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "51,196.91 ... 287,461.58 ... 109,066.23 ... 122,108.92"},
+  "H15": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, line 1231, main subsidiaries table: Huayue)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "华越公司 ... MHP的生产和销售"},
+  "H16": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, line 1233, main subsidiaries table: PT Huafei)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "印尼华飞 ... MHP的生产和销售"},
+  "H19": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, line 1229, main subsidiaries table: Huayou Quzhou)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "华友衢州 ... 钴、铜及镍产品的研发、生产和销售"},
+  "H20": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, line 1232, main subsidiaries table: Guangxi Huayou New Materials)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "广西华友新材料 ... 钴、镍产品的研发、生产和销售"},
+  "H21": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou 2025 annual report (local text team/evidence/filings/603799_.txt, lines 2998-2999)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "匈牙利巴莫预计向 LGES 及其子公司 LGES 波兰工厂销售电池三元正极材料合计约 8.8 万吨"}
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "gem-morowali-pcam-indonesia",
+   "fields": {"status": "operational", "capacity": 50000, "capacity_unit": "t pCAM", "capacity_ref_year": 2025},
+   "evidence": {"status": ["G5"], "capacity": ["G4"]},
+   "confidence": 0.6,
+   "notes": "[SC105] GEM 2025 annual report (published 2026-04-22) lists 'three-way precursor annual capacity 5万吨' as part of the Indonesian MHP-NiSO4-electrowon Ni-pCAM park (G4) and says the overseas Ni-Co chemicals and electrowon nickel were commissioned (G5): confirms the 50 kt figure and operating status from a primary source (existing 'reported' tier S9/S10 can be upgraded for capacity/status). Existing installed 30,000 t (reported tier) is NOT contradicted but NOT confirmed. Caveat: the construction-in-progress table (lines 14375-14378 and 14536-14540) still carries 'Indonesia 50kt high-nickel ternary precursor project' at progress 95.00% with RMB 1.57bn transferred to fixed assets in 2025 and RMB 2.77bn remaining at year-end, so part of the 50 kt may not yet be fully transferred/ramped. The annual report does not name the site (IMIP/Morowali comes from the earlier S10 snippet). Company-wide 2025 pCAM shipments 149,790 t (G6)."
+  },
+  {
+   "action": "add",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT QMB New Energy Materials (Qingmeibang) HPAL / MHP project",
+    "step": "refining", "commodity": "nickel", "product": "MHP (mixed nickel-cobalt hydroxide)", "asset_type": "HPAL plant",
+    "feedstock": "low-grade laterite ore", "operator": "PT QMB New Energy Materials", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 150000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2025,
+    "installed_capacity": 150000, "installed_as_of": "2025-12-31", "capacity_by_year_json": null,
+    "production": 110839, "production_unit": "t Ni", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G2"], "capacity": ["G2", "G1"], "installed_capacity": ["G2"], "production": ["G3"]},
+   "confidence": 0.65,
+   "notes": "[SC105] Capacity: AR line 722 says the Qingmeibang (QMB) HPAL project completed three phases and reached 150,000 t/yr nickel metal at full output (G2). Lines 498-500/1608 (G1, G4) say GEM has built 150 kt/yr MHP nickel 'of which controlled capacity 90 kt, equity-participated 60 kt'. CONFLICT/ambiguity: PT QMB is only 55% owned by GEM (AR line 17272-17274), so 90/60 is not a simple ownership split; the 150 kt may include partner-owned lines at the same park. installed_as_of 2025-12-31 is the report date (AR says 'full output' without a date). Production = 'nickel metal shipments of the Indonesian nickel projects exceeded 110,839 t including participating capacity, +114% y/y' (G3): a SHIPMENT figure for the whole park incl. non-controlled capacity, used as proxy for output. AR does not state the site (Morowali/IMIP comes from other sources, not entered); no coordinates. Entity operating the plant inferred as the QMB subsidiary (AR subsidiary table, business: battery-grade nickel chemical products)."
+  },
+  {
+   "action": "add",
+   "id": "gem-qmb-niso4-indonesia",
+   "fields": {
+    "asset_name": "GEM Indonesia nickel-cobalt-manganese sulphate crystal plant (QMB park)",
+    "step": "refining", "commodity": "nickel", "product": "battery-grade NiCoMn sulphate crystal", "asset_type": "chemical plant",
+    "feedstock": "MHP", "operator": "PT QMB New Energy Materials", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 30000, "capacity_unit": "t Ni", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G5"], "capacity": ["G4"]},
+   "confidence": 0.55,
+   "notes": "[SC105] AR: 'nickel-cobalt-manganese sulphate crystal annual capacity 3万金属吨' (G4) = 30,000 t of contained metal (Ni+Co+Mn, so 'Ni' is an upper bound for pure nickel). Commissioning stated for 2025 ('overseas Ni-Co chemicals ... successfully put into production', G5); start_year 2025 inferred from that sentence, not a dated commissioning. Site not named in AR; no installed figure; no output figure."
+  },
+  {
+   "action": "add",
+   "id": "gem-qmb-electrowon-nickel-indonesia",
+   "fields": {
+    "asset_name": "GEM Indonesia electrowon nickel plant (QMB park)",
+    "step": "refining", "commodity": "nickel", "product": "electrowon nickel (Ni cathode)", "asset_type": "electrowinning plant",
+    "feedstock": "MHP / nickel sulphate", "operator": "PT QMB New Energy Materials", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 30000, "capacity_unit": "t Ni", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G5"], "capacity": ["G4"]},
+   "confidence": 0.55,
+   "notes": "[SC105] 'electrowon nickel annual capacity 3万吨' (G4); 'electrowon nickel successfully put into production' in 2025 (G5). A separate 'annual 5万吨 electrolytic nickel construction project' (RMB 472m CIP, AR lines 14385-14387) has no stated site/entity and is NOT entered here (possible expansion in Indonesia). No output figure."
+  },
+  {
+   "action": "add",
+   "id": "gem-igip-nickel-hpal-indonesia",
+   "fields": {
+    "asset_name": "IGIP (International Green Industrial Park) 66 kt Ni HPAL project (GEM-Danantara-Vale Indonesia)",
+    "step": "refining", "commodity": "nickel", "product": "MHP (battery raw material)", "asset_type": "HPAL plant",
+    "feedstock": "laterite ore", "operator": "PT International Green Industrial Park (GEM)", "parent_company": "GEM Co., Ltd.", "jv_partners": "Danantara, PT Vale Indonesia (ECOPRO alliance partner)",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": 2025, "start_year": null,
+    "capacity": 66000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G9", "G10"], "capacity": ["G8", "G10"]},
+   "confidence": 0.5,
+   "notes": "[SC105] Aug 2025: Danantara signed to join the GEM / PT Vale Indonesia JV project 'annual 66,000 t nickel battery raw-material project' (G8). AR targets: 'IGIP park completes the 66 kt Ni/yr EPC project construction' in 2026 (G10) and 'phase 1 will be in operation in 2026' (G9); IGIP park CIP RMB 196m (line 14404-14406). Status under_construction rests on the 2026 EPC/phase-1 targets (no explicit ground-breaking statement); the product is inferred to be MHP from the HPAL description (AR line 1644-1646 'world's first laterite HPAL zero-carbon project'), not stated for this project. capacity_ref_year 2026 = AR target year. Site not named; ECOPRO is a park alliance partner (MoU), not stated as JV partner of this plant."
+  },
+  {
+   "action": "add",
+   "id": "gem-indonesia-cam-indonesia",
+   "fields": {
+    "asset_name": "GEM Indonesia ternary cathode project (construction in progress)",
+    "step": "cathode", "commodity": "cathode", "product": "NCM cathode active material", "asset_type": "CAM plant",
+    "feedstock": null, "operator": "GEM Co., Ltd.", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G16"]},
+   "confidence": 0.3,
+   "notes": "[SC105] Only evidence: AR CIP table lists an 'Indonesia ternary cathode material project' with RMB 128.7m added in 2025 (G16). No capacity, site, partner or schedule given. Company-wide cathode shipments 2025: 26,578 t (G6); 2026 cathode target 3.5+万吨 and 2028 6+万吨 (AR lines 3070)."
+  },
+  {
+   "action": "add",
+   "id": "gem-china-battery-recycling-aggregate-china",
+   "fields": {
+    "asset_name": "GEM China power-battery recycling plants (6 plants, aggregate: Wuhan, Jingmen, Wuxi, Tianjin, Shenzhen et al.)",
+    "step": "recycling", "commodity": "recycling", "product": "black mass / Ni-Co-Li materials", "asset_type": "recycling plants (aggregate)",
+    "feedstock": "end-of-life power batteries", "operator": "GEM Co., Ltd. (Wuhan Power Battery Regeneration Technology et al.)", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t feed", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": 52576, "production_unit": "t feed", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G11"], "production": ["G12"]},
+   "confidence": 0.55,
+   "notes": "[SC105] AR: 6 power-battery recycling plants in China covering the Pearl River Delta, Yangtze River Delta, Beijing-Tianjin-Hebei and central China, all on the MIIT whitelist (G11); also recycling JV plants in Korea and Indonesia (line 473-475, no detail). 2025 dismantled volume 52,576 t (+46%, G12) = company-wide input, so aggregate row. Subsidiaries with battery-recycling scope in the AR subsidiary table (56.47% owned): Wuhan, Jingmen, Wuxi and Tianjin Power Battery Regeneration Technology plus Ningde Qingmei Trading (54%); the AR does not map the 6 plants to entities. Plan: 80,000 t in 2026 and 120,000 t in 2028 (G13). No plant capacity disclosed. Split into site rows once a site-level source is found."
+  },
+  {
+   "action": "add",
+   "id": "gem-jingmen-base-china",
+   "fields": {
+    "asset_name": "GEM Jingmen base (Jingmen GEM New Materials: cobalt/nickel recycling, ultrafine cobalt powder, precursor and CAM)",
+    "step": "refining", "commodity": "cobalt", "product": "ultrafine cobalt powder, Ni/Co materials from recycled and primary feed", "asset_type": "integrated recycling/refining base",
+    "feedstock": "scrap / intermediates", "operator": "Jingmen GEM New Materials Co., Ltd. (荆门市格林美新材料有限公司)", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Hubei", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Co", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G14"]},
+   "confidence": 0.4,
+   "notes": "[SC105] Jingmen (Hubei) is GEM's core operating base (core enterprise of the national zero-carbon park, G14; subsidiary: registered capital RMB 8.44bn, 2025 revenue RMB 34.9bn, 100% owned, AR lines 2888-2899 and 17188-17194). No site-level capacity/output in the AR. Company-wide 2025: cobalt recovered >15,000 t (+48%), cobalt oxide Co3O4 shipments 29,040 t, ternary pCAM shipments 149,790 t (G6), key-metal extraction production 105,012.22 t (G17). CIP at GEM, sites unstated: 10,000 t/yr doped Co3O4 project (RMB 280m), 3万吨/yr and 2.5万吨/yr ultrapure nickel projects, 12万吨/yr battery-grade crystal recycling project (lines 14394-14430). Primary product tagged cobalt; this row also makes pCAM/CAM and recycles nickel (mixed site)."
+  },
+  {
+   "action": "add",
+   "id": "gem-wuxi-cathode-china",
+   "fields": {
+    "asset_name": "GEM (Wuxi) Energy Materials (LCO / NCM cathode)",
+    "step": "cathode", "commodity": "cathode", "product": "lithium cobalt oxide and ternary cathode materials", "asset_type": "CAM plant",
+    "feedstock": null, "operator": "GEM (Wuxi) Energy Materials Co., Ltd. (格林美（无锡）能源材料有限公司)", "parent_company": "GEM Co., Ltd.", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Jiangsu", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225142250.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-22"
+   },
+   "evidence": {"status": ["G15"]},
+   "confidence": 0.35,
+   "notes": "[SC105] Subsidiary table: 100% owned, Wuxi (Jiangsu), business 'R&D and production of lithium cobalt oxide and ternary materials' (G15; business scope text, not a statement of operating status). No capacity or output for the plant. Company-wide cathode shipments 2025: 26,578 t (+32%, G6); CIP: Ternary cathode (recycled-feed) phase 2 10,000 t/yr (RMB 71m), 20,000 t graphene LMFP cathode project (RMB 192m) - sites unstated (AR lines 14434-14443, 14407-14411). Taixing (GEM Jiangsu Cobalt, cathode materials) and Fuan Qingmei (Fujian, 54%) are named in the subsidiary table but no product/capacity is given; not entered."
+  },
+  {
+   "action": "update",
+   "id": "cngr-morocco-pcam-morocco",
+   "fields": {"status": "operational"},
+   "evidence": {"status": ["N4"]},
+   "confidence": 0.55,
+   "notes": "[SC105] CNGR 2025 annual report (published 2026-03-31): 'on 25 June [2025] phase 1 of the Morocco industrial base, nickel-series line, was fully put into production' (N4). Confirms operational status from a primary 2025 source. CONFLICT with the 2024 AR (existing S1b: 'started and completed/commissioned in the same year' = 2024): either trial/commissioning in 2024 and full production from 25 June 2025, or a wording difference; start_year left at 2024 (not changed) - the lead should decide (2025 is the 'fully in production' date). No capacity or output for Morocco in the 2025 AR; the 120 kt planned figure (CRU 2023) remains unconfirmed."
+  },
+  {
+   "action": "update",
+   "id": "cngr-south-kalimantan-pcam-indonesia",
+   "fields": {"capacity": 20000},
+   "evidence": {"capacity": ["N5"]},
+   "confidence": 0.8,
+   "notes": "[SC105] CNGR 2025 AR (published 2026-03-31) confirms the project: 'Indonesia South Kalimantan base 20,000 t ternary precursor project' in the CIP table with RMB 567.8m at year-end (no transfer to fixed assets in 2025, lines 13146-13150) and the company capacity table shows 20,000 t/yr pCAM 'under construction capacity' at 2025-12-31 (N3, line 1190). Consistent with the SMM report of operation starting 13 Jan 2026 (existing S5); status unchanged. Company-wide pCAM at end-2025: capacity 299,000 t, utilisation 71.62%, output 214,156.12 t (N3)."
+  },
+  {
+   "action": "add",
+   "id": "cngr-kaiyang-fepo4-china",
+   "fields": {
+    "asset_name": "CNGR Kaiyang base iron phosphate (FePO4) plant",
+    "step": "precursor", "commodity": "precursor", "product": "battery-grade iron phosphate (FePO4)", "asset_type": "FePO4 plant",
+    "feedstock": "phosphoric acid / ferrous sulphate", "operator": "CNGR Advanced Material", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 200000, "capacity_unit": "t FePO4", "capacity_ref_year": 2025,
+    "installed_capacity": 200000, "installed_as_of": "2025-12-31", "capacity_by_year_json": null,
+    "production": 164898.94, "production_unit": "t FePO4", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N6b", "N7"], "capacity": ["N6", "N3b"], "installed_capacity": ["N6"], "production": ["N3b"]},
+   "confidence": 0.7,
+   "notes": "[SC105] AR: 'built 200,000 t iron phosphate and 50,000 t LFP capacity' (N6) and 'Kaiyang base built iron phosphate / LFP capacity' (N6b). Company capacity table: FePO4 200,000 t, utilisation 82.45%, output 164,898.94 t in 2025 (N3b). The AR names Kaiyang as the only FePO4 base (fundraising project 'Guizhou Kaiyang base annual 200,000 t iron phosphate', N7), so the company total is attributed to this site; installed_as_of = report date. N7: 2025 'first year of production operation, in ramp-up'. CONFLICT with 2024 AR (existing SC014 notes: FePO4 capacity 116,666.67 t, output 71,549.26 t in 2024, i.e. production existed in 2024): the 'first year' wording and the fundraising table ready-for-use date 2024-09-30 (lines 7659-7666) suggest ramp-up began Q4 2024; start_year left null. The 2025 capacity (200 kt) vs 2024 (116.7 kt) is a step-up not explained in the AR."
+  },
+  {
+   "action": "add",
+   "id": "cngr-kaiyang-lfp-china",
+   "fields": {
+    "asset_name": "CNGR Kaiyang base LFP cathode (50 kt built; 180 kt phosphate-series cathode project under construction)",
+    "step": "cathode", "commodity": "cathode", "product": "LFP cathode active material", "asset_type": "CAM plant",
+    "feedstock": "FePO4", "operator": "CNGR Advanced Material", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 180000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
+    "installed_capacity": 50000, "installed_as_of": "2025-12-31", "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N6b"], "capacity": ["N8"], "installed_capacity": ["N6"]},
+   "confidence": 0.5,
+   "notes": "[SC105] Built: 50,000 t LFP (N6, Kaiyang base per N6b). Under construction: 'Kaiyang base annual 180,000 t phosphate-series cathode project' (CIP RMB 352m, progress 23.04% of budget RMB 2.19bn at year-end, lines 13156-13159 and 13415-13419; N8). AMBIGUITY: the AR does not say whether the 180 kt includes the 50 kt already built; capacity is set to 180,000 (the explicit project plan) and NOT summed with 50,000 - if additive the full plan would be 230,000. capacity_ref_year 2026 is the publication-year fallback (no completion date stated). No LFP output reported."
+  },
+  {
+   "action": "add",
+   "id": "cngr-nadesico-low-matte-indonesia",
+   "fields": {
+    "asset_name": "PT Nadesico Nickel Industry low-matte (RKEF/OESBF) smelter, 80 kt Ni-equivalent",
+    "step": "refining", "commodity": "nickel", "product": "low nickel matte", "asset_type": "RKEF/OESBF smelter",
+    "feedstock": "laterite ore", "operator": "PT Nadesico Nickel Industry", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 80000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N9"], "capacity": ["N9"]},
+   "confidence": 0.45,
+   "notes": "[SC105] CIP table: 'Nadesico Nickel annual 80,000 t nickel-metal-equivalent low-matte project', budget RMB 7.30bn, invested 94.67%, progress 99.00%, RMB 902m transferred to fixed assets in 2025, RMB 49m left at year-end (lines 13161-13164, 13340-13345; N9). PT Nadesico Nickel Industry is 60% owned by CNGR (acquired; AR line 16550-16552). Status operational inferred from ~99% completion and transfers to fixed assets; the AR does not give a commissioning date. Part of the company's ~200 kt Ni-metal Indonesian smelting capacity (N1). Location (Morowali vs North Morowali) not stated; 'North Morowali base nickel raw material shipments reached 10,000 t per batch' is in AR line 1059-1060 without entity."
+  },
+  {
+   "action": "add",
+   "id": "cngr-debonair-low-matte-indonesia",
+   "fields": {
+    "asset_name": "PT Debonair Nickel Indonesia low-matte smelter, 27.5 kt Ni-equivalent",
+    "step": "refining", "commodity": "nickel", "product": "low nickel matte", "asset_type": "RKEF smelter",
+    "feedstock": "laterite ore", "operator": "PT Debonair Nickel Indonesia", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 27500, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N10"], "capacity": ["N10"]},
+   "confidence": 0.45,
+   "notes": "[SC105] CIP table: 'Indonesia Debonair annual 27,500 t nickel-metal-equivalent low matte and ancillary project', budget RMB 2.15bn, invested 98.32%, progress 100.00%, only RMB 2.2m transferred in 2025 (so mostly transferred earlier; lines 13268-13271, 13323-13331; N10). PT Debonair Nickel Indonesia is 50.10% held (acquired; AR lines 16401-16404). Status operational inferred; no commissioning date or output stated."
+  },
+  {
+   "action": "add",
+   "id": "cngr-indonesia-high-matte-80kt-indonesia",
+   "fields": {
+    "asset_name": "CNGR Indonesia 80 kt Ni high-matte (low-to-high matte conversion) project (site not stated)",
+    "step": "refining", "commodity": "nickel", "product": "high nickel matte", "asset_type": "matte converting plant",
+    "feedstock": "low matte", "operator": "CNGR Advanced Material (Indonesian subsidiary not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": 2025,
+    "capacity": 80000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N11", "N12"], "capacity": ["N11"]},
+   "confidence": 0.4,
+   "notes": "[SC105] CIP table: 'Indonesia base laterite smelting annual 80,000 t-metal high-matte project', budget RMB 6.94bn, RMB 4.66bn transferred to fixed assets in 2025, progress 100.00% (lines 13256-13259, 13306-13319; N11). The AR also says the phase-2 smelting lines at the Indonesian Morowali base (laterite to low matte, low to high matte) were commissioned line by line in 2025 (N12). OVERLAP RISK: this 80 kt project may be the same capacity as the Morowali phase-2 lines, as part of Nadesico, or distinct; the AR does not link entity/site. A separate fundraising project 'Indonesia base laterite smelting annual 60,000 t-metal high matte' reached ready-for-use 2025-09-30 (lines 7614-7622, tokens split across lines) and an additional 'high-matte 40,000 t Ni (Indonesia)' project is at 2% progress. Company total smelting ~200 kt Ni metal (N1). Do not sum the project rows with the 200 kt total."
+  },
+  {
+   "action": "add",
+   "id": "cngr-south-kalimantan-low-matte-indonesia",
+   "fields": {
+    "asset_name": "CNGR Indonesia South Kalimantan industrial base 40 kt low-matte project",
+    "step": "refining", "commodity": "nickel", "product": "low nickel matte", "asset_type": "smelter",
+    "feedstock": "laterite ore", "operator": "CNGR Advanced Material (Indonesian subsidiary not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "South Kalimantan", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 40000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N13"], "capacity": ["N13"]},
+   "confidence": 0.4,
+   "notes": "[SC105] CIP table: 'Zhongwei Indonesia South Kalimantan industrial base 40,000 t low-matte project', budget RMB 3.89bn, progress 7.00% at year-end (lines 13151-13155, 13355-13361; N13). capacity_ref_year 2026 = publication-year fallback (no completion date). Same industrial base as the pCAM plant."
+  },
+  {
+   "action": "add",
+   "id": "cngr-indonesia-high-matte-40kt-indonesia",
+   "fields": {
+    "asset_name": "CNGR Indonesia laterite smelting 40 kt Ni high-matte project (early stage, site not stated)",
+    "step": "refining", "commodity": "nickel", "product": "high nickel matte", "asset_type": "smelter",
+    "feedstock": "laterite ore", "operator": "CNGR Advanced Material (Indonesian subsidiary not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 40000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N14"], "capacity": ["N14"]},
+   "confidence": 0.3,
+   "notes": "[SC105] CIP table: 'laterite smelting, annual high matte containing 40,000 t Ni metal (Indonesia) project', budget RMB 2.87bn, progress 2.00%, only RMB 50.8m invested (lines 13188-13192, 13367-13387; N14). Status 'announced' because spend is negligible and no ground-breaking is stated; could be early construction or paused. capacity_ref_year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "cngr-guizhou-west-niso4-china",
+   "fields": {
+    "asset_name": "CNGR Guizhou western base nickel-matte refining to nickel sulphate (80 kt Ni)",
+    "step": "refining", "commodity": "nickel", "product": "nickel sulphate (from matte)", "asset_type": "nickel chemical plant",
+    "feedstock": "nickel matte", "operator": "CNGR Advanced Material", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guizhou", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 80000, "capacity_unit": "t Ni", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N15"], "capacity": ["N15"]},
+   "confidence": 0.55,
+   "notes": "[SC105] Fundraising table notes: 'Guizhou western base annual 80,000 t-metal nickel sulphate project' realised lower-than-committed benefit in 2025 because nickel sulphate prices fell and the company adjusted its feed mix, so output was below plan (N15; lines 7684-7686). The same table lists it as a completed project (ready-for-use date shown as 2023-12-31, tokens split across lines 7632-7636). Small CIP remains for 'Guizhou western base 80 kt Ni matte refining (low-to-high, high-to-sulphur)' (RMB 37m and 11m; lines 13196-13223). 'Western base' location within Guizhou not stated. Output not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "cngr-guangxi-south-matte-refining-china",
+   "fields": {
+    "asset_name": "CNGR Guangxi southern base nickel-matte refining project (80 kt Ni)",
+    "step": "refining", "commodity": "nickel", "product": "refined nickel intermediates / sulphate from matte", "asset_type": "nickel chemical plant",
+    "feedstock": "nickel matte", "operator": "CNGR Advanced Material (Guangxi Zhongwei New Energy)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guangxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 80000, "capacity_unit": "t Ni", "capacity_ref_year": 2025,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N15b"], "capacity": ["N15b"]},
+   "confidence": 0.4,
+   "notes": "[SC105] CIP table lists 'Guangxi southern base annual 80,000 t-metal nickel-matte refining project' with only RMB 2.2m left (N15b, lines 13241-13242); fundraising table (lines 7642-7648, tokens split) shows it ready for use 2023-11-30 with benefit achieved in 2025 (RMB 228m) - status operational inferred from those figures (quote supports the project's existence only). Operator inferred from the Guangxi Zhongwei subsidiary context; entity not named. Output not disclosed."
+  },
+  {
+   "action": "add",
+   "id": "cngr-morowali-base-nickel-indonesia",
+   "fields": {
+    "asset_name": "CNGR Morowali base nickel smelting (phase 2: laterite to low matte, low to high matte)",
+    "step": "refining", "commodity": "nickel", "product": "low and high nickel matte", "asset_type": "RKEF/OESBF smelter",
+    "feedstock": "laterite ore", "operator": "CNGR Advanced Material (Indonesian subsidiary not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni in matte", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N12"]},
+   "confidence": 0.4,
+   "notes": "[SC105] AR: 'Indonesia Morowali base phase-2 nickel smelting lines (laterite to low matte, low to high matte) were commissioned line by line' in 2025 (N12); company has ~200 kt Ni-metal smelting capacity in Indonesia using OESBF + RKEF (N1, line 950). Province 'Central Sulawesi' is the location of Morowali regency (general geography, not stated in the AR). No site-level capacity: the 80 kt/60 kt/27.5 kt project rows may overlap with this base (see cngr-indonesia-high-matte-80kt row). Possible duplicate of rows from other tasks (SC10x) for CNGR/IMIP."
+  },
+  {
+   "action": "add",
+   "id": "cngr-ding-xing-refined-nickel-indonesia",
+   "fields": {
+    "asset_name": "PT CNGR Ding Xing New Energy refined-nickel project (CNGR-RIGQUEZA JV, 50 kt)",
+    "step": "refining", "commodity": "nickel", "product": "refined nickel", "asset_type": "nickel refinery",
+    "feedstock": null, "operator": "PT CNGR Ding Xing New Energy", "parent_company": "CNGR Advanced Material", "jv_partners": "RIGQUEZA International Pte. Ltd.",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 50000, "capacity_unit": "t Ni", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": "offtake by both JV shareholders pro rata to equity", "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N16"], "capacity": ["N16"]},
+   "confidence": 0.4,
+   "notes": "[SC105] Related-party commitments note: CNGR (HK) and RIGQUEZA agreed to set up PT CNGR Ding Xing New Energy to build an annual 50,000 t refined nickel project; both must buy product pro rata to equity (N16, lines 18223-18227). Equity split, location, schedule and status not stated; status 'announced' is the conservative reading. Country Indonesia inferred from the PT entity form. capacity_ref_year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "poscocngr-nickel-solution-pohang-south-korea",
+   "fields": {
+    "asset_name": "POSCO CNGR Nickel Solution nickel refinery (Pohang) - terminated",
+    "step": "refining", "commodity": "nickel", "product": "high-purity nickel", "asset_type": "nickel refinery",
+    "feedstock": null, "operator": "POSCO CNGR Nickel Solution Co., Ltd.", "parent_company": "POSCO Holdings / CNGR Advanced Material", "jv_partners": "POSCO Holdings, CNGR (HK) 40%",
+    "country": "South Korea", "region": "East Asia", "province_state": "North Gyeongsang (Pohang)", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "cancelled", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N17"]},
+   "confidence": 0.7,
+   "notes": "[SC105] CNGR 2025 AR note: the JV with POSCO Holdings (CNGR HK holds 40%) terminated the Pohang nickel refinery investment project in 2024 and completed liquidation in Oct 2025 (N17; also listed as an associate, line 17716). IMPORTANT: this removes the stated nickel feedstock source of the CNP pCAM plant (row cnp-new-material-pohang-pcam-south-korea, feedstock 'high-purity nickel from POSCO CNGR Nickel Solution' from SC014 S2-S4, groundbreaking 31 May 2024 for 'nickel and precursor plants'); that feedstock entry is now outdated. status set to 'announced' (conservative; SC014 sources describe a 2024 groundbreaking, which would make 'under_construction' the furthest stage reached - lead to decide). The AR 2025 also lists C&P Advanced Material Technology Co., Ltd. (Korea) as a CNGR 80% subsidiary (lines 16696-16702) with no operating information, consistent with the CNP precursor JV."
+  },
+  {
+   "action": "add",
+   "id": "cngr-posco-fm-lfp-pohang-south-korea",
+   "fields": {
+    "asset_name": "CNGR - POSCO Future M LFP cathode JV project (Pohang)",
+    "step": "cathode", "commodity": "cathode", "product": "LFP cathode active material", "asset_type": "CAM plant",
+    "feedstock": null, "operator": "CNGR - POSCO Future M LFP JV (name not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": "POSCO Future M",
+    "country": "South Korea", "region": "East Asia", "province_state": "North Gyeongsang (Pohang)", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": 2025, "start_year": null,
+    "capacity": null, "capacity_unit": "t CAM", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "ESS",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N18"]},
+   "confidence": 0.35,
+   "notes": "[SC105] 2025 AR: signed an LFP JV agreement with Korea's Posco FM and 'started construction of the Pohang (Korea) LFP advanced-materials manufacturing project' to address overseas energy-storage demand (N18). No capacity, equity split or timetable stated. 'under_construction' follows the AR wording 'start of construction'; verify with a dated project source. end_market ESS is the AR's stated target market."
+  },
+  {
+   "action": "add",
+   "id": "cngr-china-recycling-aggregate-china",
+   "fields": {
+    "asset_name": "CNGR domestic battery-recycling facilities (black mass leaching; aggregate)",
+    "step": "recycling", "commodity": "recycling", "product": "Ni/Co/Li from black mass", "asset_type": "recycling facilities (aggregate)",
+    "feedstock": "black mass", "operator": "CNGR Advanced Material (Zhongwei recycling subsidiaries)", "parent_company": "CNGR Advanced Material", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t black mass", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N19"]},
+   "confidence": 0.35,
+   "notes": "[SC105] AR: 'the company has built recycling facilities at its domestic production bases, recovering nickel, cobalt, lithium from black mass'; one of the few MIIT-approved firms able to sort and dismantle batteries and extract black mass (N19, lines 579-580). Recycling-scope subsidiaries (AR subsidiary table lines 16117-16121, 16127-16130, 16157-16160, 16202-16206): Guizhou Zhongwei Resource Recycling (Tongren), Hunan Zhongwei Recycling (Changsha), Guangxi Zhongwei Recycling (Qinzhou), Guizhou Zhongwei Recycling (Guiyang) - scope only, no capacity. CIP: 'waste Li-ion battery comprehensive recycling system expansion' RMB 45m (line 13193-13195). No capacity or output disclosed."
+  },
+  {
+   "action": "add",
+   "id": "cngr-cronimet-europe-recycling-europe",
+   "fields": {
+    "asset_name": "CNGR - CRONIMET Europe battery recycling plant (planned)",
+    "step": "recycling", "commodity": "recycling", "product": "battery recycling", "asset_type": "recycling plant",
+    "feedstock": "spent batteries", "operator": "CNGR - CRONIMET (entity not stated)", "parent_company": "CNGR Advanced Material", "jv_partners": "CRONIMET Group",
+    "country": "Europe (site not stated)", "region": "Europe", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": 2025, "start_year": null,
+    "capacity": null, "capacity_unit": "t feed", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+   },
+   "evidence": {"status": ["N20"]},
+   "confidence": 0.3,
+   "notes": "[SC105] 2025 AR: cooperation agreed with Germany's CRONIMET group 'to lay out used-battery recycling plants jointly in Europe' (N20). No site, capacity or timetable."
+  },
+  {
+   "action": "add",
+   "id": "fangyuan-jiangmen-pcam-china",
+   "fields": {
+    "asset_name": "Fangyuan Jiangmen ternary precursor plant (NCA/NCM/NC)",
+    "step": "precursor", "commodity": "precursor", "product": "NCA/NCM ternary and NC binary precursor", "asset_type": "pCAM plant",
+    "feedstock": "nickel/cobalt/manganese sulphates (incl. recycled material)", "operator": "Guangdong Fangyuan New Materials Group (Jiangmen Fangyuan New Energy Materials)", "parent_company": "Guangdong Fangyuan New Materials Group", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 31000, "capacity_unit": "t pCAM", "capacity_ref_year": 2025,
+    "installed_capacity": 31000, "installed_as_of": "2025-12-31", "capacity_by_year_json": null,
+    "production": 10093.09, "production_unit": "t pCAM", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-17"
+   },
+   "evidence": {"status": ["F1"], "capacity": ["F1"], "installed_capacity": ["F1"], "production": ["F2", "F3"]},
+   "confidence": 0.7,
+   "notes": "[SC105] Fangyuan 2025 AR: capacity built and in production at end-2025 = 31,000 t precursor, 24,000 t battery-grade lithium carbonate, 49,200 t sulphates and 1,800 t spherical nickel hydroxide (F1). 2025 output (excl. toll processing): precursor 10,093.09 t (utilisation ~33%; production +16.7%, sales 11,208.24 t), sulphates 36,020.74 t, lithium carbonate 4,344.13 t, spherical Ni(OH)2 154.86 t (F2); precursor covers NCA, NCM and NC (F3). All operating subsidiaries (Jiangmen Fangyuan New Energy Materials 84.99%, Jiangmen Fangyuan Circular Technology, Jiangmen Fangyuan Metal Materials, Jiangmen Fangyuan Lithium Energy) are registered/operate in Jiangmen, Guangdong (AR lines 9622-9639), HQ at Gujing Town, Xinhui District (line 204) - so company capacity is attributed to one Jiangmen site; the AR does not split capacity by subsidiary. A planned 25,000 t NCA/NCM + 6,000 t LiOH project has only RMB 10.5m CIP (line 7780-7782) - not entered. Operator named as the group because the AR does not tie the capacity to a single subsidiary. Coordinates not entered."
+  },
+  {
+   "action": "add",
+   "id": "fangyuan-jiangmen-sulphate-china",
+   "fields": {
+    "asset_name": "Fangyuan Jiangmen nickel/cobalt/manganese sulphate crystal plants (and spherical Ni(OH)2)",
+    "step": "refining", "commodity": "nickel", "product": "NiSO4/CoSO4/MnSO4 crystal; spherical nickel hydroxide", "asset_type": "nickel chemical plant",
+    "feedstock": "recycled Ni/Co materials and intermediates", "operator": "Guangdong Fangyuan New Materials Group (Jiangmen Fangyuan Circular Technology)", "parent_company": "Guangdong Fangyuan New Materials Group", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": null, "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-17"
+   },
+   "evidence": {"status": ["F1"]},
+   "confidence": 0.6,
+   "notes": "[SC105] Built capacity 49,200 t 'sulphates' and 1,800 t spherical nickel hydroxide (F1); 2025 output 36,020.74 t sulphates (37,938.90 t incl. toll processing, F4) and 154.86 t spherical Ni(OH)2 (F2). 'Sulphates' = Ni, Co and Mn sulphate crystals combined, in product tonnes (F3), with no split by metal - structured capacity/production left null on purpose so the build does not apply the NiSO4 -> Ni factor (0.2233) to a mixed product. 2026 plan: build a new dedicated recycled-material line and a lithium-carbonate feed section; 'sulphate nickel crystallisation project' RMB 200m budget, 67.86% (lines 7803-7807). Attribution to the Circular Technology subsidiary is inferred (AR does not tie products to subsidiaries)."
+  },
+  {
+   "action": "add",
+   "id": "fangyuan-jiangmen-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "Fangyuan Jiangmen battery-grade lithium carbonate plant",
+    "step": "refining", "commodity": "lithium", "product": "battery-grade lithium carbonate", "asset_type": "chemical plant",
+    "feedstock": "spodumene / recycled lithium", "operator": "Guangdong Fangyuan New Materials Group", "parent_company": "Guangdong Fangyuan New Materials Group", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guangdong", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 24000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
+    "installed_capacity": 24000, "installed_as_of": "2025-12-31", "capacity_by_year_json": null,
+    "production": 4344.13, "production_unit": "t Li2CO3", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-17/1225111227.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-17"
+   },
+   "evidence": {"status": ["F1"], "capacity": ["F1"], "installed_capacity": ["F1"], "production": ["F2", "F4"]},
+   "confidence": 0.65,
+   "notes": "[SC105] Lithium row added because no Fangyuan row exists and the lithium tasks (SC102 = Huayou) may not cover it - lead to dedupe against SC10x. Capacity 24,000 t/yr (F1); 2025 output 4,344.13 t excluding toll processing (5,359.88 t including toll processing, F4; utilisation about 18% / 22%). Lithium carbonate revenue 297m RMB (-18%), gross margin -5.1% (AR lines 1441-1442). A 180,000 t/yr spodumene roasting line is in early CIP (RMB 1.8m, line 7783); the 2026 plan adds a lithium-carbonate feed-section project (line 1973)."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-chengdu-china",
+   "fields": {"status": "operational"},
+   "evidence": {"status": ["H12", "H13"]},
+   "confidence": 0.5,
+   "notes": "[SC105] Huayou 2025 AR (published 2026-04-08): Chengdu Bamo is a consolidated subsidiary (wholly owned by Tianjin Bamo, which Huayou consolidates with 36.86% direct plus voting rights, H13) with main place of operation Jintang County, Sichuan (H12); revenue RMB 13.75bn and net profit RMB 396m in 2025 (AR lines 10534-10539), so it is operating. AR names a 'Chengdu Bamo Hungarian plant' as the supplier of cathode to LGES/EVE Hungary (line 2998-3001). No plant-level capacity or output. Company-wide 2025: cathode (正极材料) production 122,108.92 t (+87.2%), shipments 116,417 t (AR line 822; H14); ternary cathode shipments 'exceeded 100,000 t, +108%' (line 500). Coordinates currently Chengdu city centroid (existing); Jintang County is ~40 km east of Chengdu - not changed."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-tianjin-china",
+   "fields": {"status": "operational"},
+   "evidence": {"status": ["H13"]},
+   "confidence": 0.5,
+   "notes": "[SC105] Huayou 2025 AR: Tianjin Bamo is consolidated because Huayou holds 36.86% directly and Huayou Holding delegated the voting rights of a further 25.20% to Huayou (H13); goodwill RMB 366m (line 8228). No plant-level capacity/output or Tianjin-specific revenue in the AR. Company-wide cathode data in notes of the Chengdu row (H14)."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-guangxi-china",
+   "fields": {"capacity": 50000, "capacity_unit": "t CAM", "capacity_ref_year": 2026},
+   "evidence": {"capacity": ["H8"]},
+   "confidence": 0.45,
+   "notes": "[SC105] Huayou 2025 AR CIP table: 'annual 50,000 t high-nickel power-battery ternary cathode, 100,000 t ternary precursor integrated project' - balance RMB 1.89bn after RMB 2.35bn transferred to fixed assets in 2025, progress 96.00% of budget RMB 5.62bn (lines 7866-7871, 7924-7931; H8). The fundraising table (lines 3104-3119) says the plant buildings and the sulphate sub-line were transferred (2024-03 and 2025-06) and the precursor line was transferred in June 2025, with no transfer date for the cathode line, so the cathode part is still treated as under construction (status unchanged). The AR does not name the site (project identified with the Guangxi Bamo project by its identical name in SC014 S-reported cnstock summary; Guangxi Bamo's main place of operation is Yulin, Guangxi, lines 10459-10463). A second project 'high-nickel power-battery ternary cathode project' (CIP RMB 1.67bn, progress 90%, budget RMB 1.84bn, lines 7888-7889, 7941-7947) has no site/capacity - it could be the same or a Chengdu/Hungary line; not entered. capacity_ref_year 2026 = AR publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-guangxi-pcam-china",
+   "fields": {"capacity": 100000, "capacity_unit": "t pCAM"},
+   "evidence": {"capacity": ["H8"]},
+   "confidence": 0.5,
+   "notes": "[SC105] Same project as the cathode row: Huayou 2025 AR names the 'annual 50,000 t cathode and 100,000 t ternary precursor integrated project' at 96.00% progress (H8). Fundraising table: the precursor line was transferred to fixed assets in June 2025 and the nickel-sulphate sub-line in 2024-03/2025-06 (lines 3104-3119, tokens split across lines), which suggests the precursor part is built; status left 'under_construction' pending an explicit commissioning statement - lead may upgrade to operational. Upgrades the capacity evidence from reported tier to a confirmed AR quote. Site not named in the AR."
+  },
+  {
+   "action": "add",
+   "id": "huayou-bamo-hungary-cathode-hungary",
+   "fields": {
+    "asset_name": "Huayou Bamo Hungary cathode plant (phase 1, 25 kt)",
+    "step": "cathode", "commodity": "cathode", "product": "ultra-high-nickel ternary cathode (NCM/NCMA)", "asset_type": "CAM plant",
+    "feedstock": "pCAM", "operator": "Bamo Technology (Hungary) Co., Ltd. (Chengdu Bamo)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Hungary", "region": "Europe", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 25000, "capacity_unit": "t CAM", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": "LGES Wroclaw (about 88,000 t 2026-2030); EVE Energy Hungary (about 127,800 t 2026-2035)", "end_market": "EV",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H6"], "capacity": ["H6"]},
+   "confidence": 0.65,
+   "notes": "[SC105] AR: 'Hungary cathode project phase 1, 25,000 t, construction completed and entering line commissioning' (H6; also lines 657-658). Status kept under_construction because commissioning is not production. AR 2026 plan: 'Hungary cathode project to deliver product as soon as possible' (line 1413). Supply contracts: LGES (Bamo Hungary expected to sell about 88,000 t of ternary cathode 2026-2030, H21) and EVE Energy Hungary (about 127,800 t 2026-2035, lines 3000-3001). Location in Hungary (e.g., Debrecen) not stated in the AR; operator entity 'Bamo Technology (Hungary)' appears in the director table (line 1868). capacity_ref_year 2026 = AR publication-year fallback. Check for duplicates from SC11x/SC1xx."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huayue-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT Huayue Nickel Cobalt HPAL project (Huayue)",
+    "step": "refining", "commodity": "nickel", "product": "MHP (mixed nickel-cobalt hydroxide)", "asset_type": "HPAL plant",
+    "feedstock": "laterite ore", "operator": "PT Huayue Nickel Cobalt", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni in MHP", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H1", "H2"]},
+   "confidence": 0.55,
+   "notes": "[SC105] Huayue is a consolidated Huayou subsidiary producing and selling MHP (main-subsidiaries table, H15; stake rose from 57% to 60% in Dec 2025, AR lines 10560-10562; 2025 revenue RMB 8.00bn). Huayue and Huafei together delivered 236,500 t of MHP in 2025 (+30%; unit stated only as 万吨, product tonnes presumably, H2) and 'steadily produced above design' - no per-plant split. Group nickel-intermediate capacity: 245 kt Ni metal across Huayue, Huafei (wet), Huake (RKEF) and the acquired Qingtian (RKEF) projects (H1) - individual capacities are NOT stated in the AR, so capacity is left null here; do not allocate the 245 kt. Location (the AR gives only 'Indonesia') not entered. Company-wide nickel products: production 287,461.58 t Ni, shipments 292,546.74 t Ni (H14)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huafei-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT Huafei Nickel Cobalt HPAL project (Huafei)",
+    "step": "refining", "commodity": "nickel", "product": "MHP (mixed nickel-cobalt hydroxide)", "asset_type": "HPAL plant",
+    "feedstock": "laterite ore", "operator": "PT Huafei Nickel Cobalt", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni in MHP", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H1", "H2"]},
+   "confidence": 0.55,
+   "notes": "[SC105] Huafei is a 51%-owned (acquired) Huayou subsidiary, MHP production and sales (H16; AR line 10456-10458), 2025 revenue RMB 14.50bn, net profit RMB 1.25bn, total assets RMB 18.3bn (lines 1233, 10540). Same MHP shipment (236,500 t with Huayue) and group-capacity caveats as the Huayue row: no per-plant capacity in the AR. Location not stated."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huake-rkef-indonesia",
+   "fields": {
+    "asset_name": "Huake Nickel Indonesia pyrometallurgical (RKEF) project (Huake)",
+    "step": "refining", "commodity": "nickel", "product": "high nickel matte", "asset_type": "RKEF smelter",
+    "feedstock": "laterite ore", "operator": "Huake Nickel Indonesia Co., Ltd. (华科镍业印尼有限公司)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni in matte", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H1"]},
+   "confidence": 0.4,
+   "notes": "[SC105] AR: the Huake pyrometallurgical project has been built (H1); Huake Indonesia enjoys a 10-year 100% income-tax holiday from the start of commercial production (AR lines 6337-6338), i.e. it has commercial production; product 'high nickel matte' is inferred from the AR's description of Indonesian nickel intermediates (粗制氢氧化镍、高冰镍, line 417-418), not tied to Huake. The fundraising table's 'annual 4.5万吨 nickel-metal high-matte project' (completed Nov 2022, 2025 loss RMB 281m, lines 3062-3071) probably corresponds to Huake but the AR does not say so - capacity left null. Location not stated."
+  },
+  {
+   "action": "add",
+   "id": "huayou-qingtian-rkef-indonesia",
+   "fields": {
+    "asset_name": "Qingtian pyrometallurgical project (acquired by Huayou)",
+    "step": "refining", "commodity": "nickel", "product": "nickel matte / nickel intermediate", "asset_type": "RKEF smelter",
+    "feedstock": "laterite ore", "operator": "Qingtian (entity not named in AR)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni in matte", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H1"]},
+   "confidence": 0.3,
+   "notes": "[SC105] Only evidence: 'acquired the Qingtian pyrometallurgical project', counted within the 245 kt Ni-metal group capacity (H1). Entity, location, capacity and acquisition date are not in the AR (the 2025 business-combination notes were not matched to it). Product type is not stated (RKEF 'fire-process' projects - matte or NPI-derived). Included so the 245 kt is traceable to named assets."
+  },
+  {
+   "action": "add",
+   "id": "huayou-pomalaa-hpal-indonesia",
+   "fields": {
+    "asset_name": "Pomalaa HPAL project (Huayou - Vale Indonesia - Ford), 120 kt Ni",
+    "step": "refining", "commodity": "nickel", "product": "MHP (mixed nickel-cobalt hydroxide)", "asset_type": "HPAL plant",
+    "feedstock": "laterite ore", "operator": "Huayou (PT Pomalaa / Indonesia Pomalaa Industry Park)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": "PT Vale Indonesia, Ford Motor",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "Southeast Sulawesi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 120000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H3b", "H7"], "capacity": ["H3", "H7"]},
+   "confidence": 0.8,
+   "notes": "[SC105] AR: annual 120,000 t nickel-metal Pomalaa wet-process (hydroxide Ni-Co) project, developed with Vale Indonesia and Ford, construction started; completion expected before end-2026 (H3, H3b). CIP balance RMB 2.05bn at year-end, progress 15.00%, investment share 8.36% of a budget of about RMB 24.36bn (digits split across lines 7956-7963); also 'Pomalaa Industrial Park' CIP RMB 1.22bn (47.34%) and IPIP port CIP RMB 589m (lines 7890-7903). Parties' equity shares not stated. Province 'Southeast Sulawesi' is the location of Pomalaa (general geography, not in the AR). capacity_ref_year 2026 = target completion year (AR). The AR calls the product 'nickel-cobalt hydroxide' (氢氧化镍钴, H7)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-sorowako-hpal-indonesia",
+   "fields": {
+    "asset_name": "Sorowako HPAL project (Huayou - Vale Indonesia), 60 kt Ni",
+    "step": "refining", "commodity": "nickel", "product": "MHP (mixed nickel-cobalt hydroxide)", "asset_type": "HPAL plant",
+    "feedstock": "laterite ore", "operator": "Huayou (with Vale Indonesia)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": "PT Vale Indonesia",
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": "South Sulawesi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "announced", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 60000, "capacity_unit": "t Ni in MHP", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H4"], "capacity": ["H4"]},
+   "confidence": 0.6,
+   "notes": "[SC105] AR: annual 60,000 t nickel-metal Sorowako wet-process project 'preliminary work proceeding in an orderly way' (H4), cooperating with Vale Indonesia (lines 654-655); 2026 plan: start construction (line 1411). Hence 'announced'. Product assumed MHP (wet-process HPAL; AR calls Pomalaa hydroxide). capacity_ref_year 2026 = publication-year fallback. Province South Sulawesi = location of Sorowako (general geography, not stated in AR)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-huaxing-rkef-indonesia",
+   "fields": {
+    "asset_name": "Huaxing pyrometallurgical high-matte project, 40 kt Ni",
+    "step": "refining", "commodity": "nickel", "product": "high nickel matte", "asset_type": "RKEF smelter",
+    "feedstock": "laterite ore", "operator": "Huayou (Huaxing project)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Indonesia", "region": "Southeast Asia", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "under_construction", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": 40000, "capacity_unit": "t Ni in matte", "capacity_ref_year": 2026,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H5"], "capacity": ["H5"]},
+   "confidence": 0.6,
+   "notes": "[SC105] AR: annual 40,000 t nickel-metal Huaxing pyrometallurgical project 'construction started' (H5); CIP 'annual 4万吨 nickel-metal high-matte project' RMB 612m (lines 7899-7901). Location not stated. capacity_ref_year 2026 = publication-year fallback (no completion date)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-cdm-congo-dongfang-drc",
+   "fields": {
+    "asset_name": "CDM (Congo Dongfang International Mining) copper-cobalt processing",
+    "step": "refining", "commodity": "cobalt", "product": "crude cobalt hydroxide and electrowon copper", "asset_type": "Cu-Co hydrometallurgical plant",
+    "feedstock": "Cu-Co ore from own mines and local purchases", "operator": "Congo Dongfang International Mining SAS (CDM)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Democratic Republic of the Congo", "region": "Africa", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Co", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H9"]},
+   "confidence": 0.4,
+   "notes": "[SC105] AR: Huayou's African Co-Cu business makes crude cobalt hydroxide and electrowon copper from own-mine and purchased ore (H9); CDM and MIKAS (La Miniere de Kasombo SAS) are the named African subsidiaries (glossary lines 109-114; CDM consolidated, line 5225; CDM has a 'Luena road rehabilitation' pre-financing agreement with Lualaba Province, lines 7331-7334, so it operates in Lualaba - province left null because the AR does not state it for the plant). The AR does not tie the products/capacity to CDM vs MIKAS; no capacity. Company-wide 2025 cobalt products: production 51,196.91 t Co metal, shipments 46,547.56 t, copper 69,185.74 t (H14 lines 817-818)."
+  },
+  {
+   "action": "add",
+   "id": "huayou-pe527-lusisi-drc",
+   "fields": {
+    "asset_name": "PE527 Lusisi copper-cobalt mine (Huayou)",
+    "step": "mining", "commodity": "cobalt", "product": "copper-cobalt ore", "asset_type": "Cu-Co mine",
+    "feedstock": null, "operator": "Huayou (PE527 licence)", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "Democratic Republic of the Congo", "region": "Africa", "province_state": null, "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t ore", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": 1100000, "production_unit": "t ore", "production_year": 2025,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H10"], "production": ["H10"]},
+   "confidence": 0.55,
+   "notes": "[SC105] Own-mines table (AR lines 1142-1167): PE527 licence, Lusisi Cu-Co mine: resource 284,700 t (Cu+Co, 1.33% Cu, 0.80% Co), reserve 10,000 t 'mixed ore', annual output '110万吨' (taken as ore tonnes; the table header is 年产量 without a unit, 2025), remaining life 0.00 years (!), PE527 licence renewal being processed. The AR lists the Lusisi surface stockpile (3.175 Mt, 0.27% Co, 'self-mined stockpile') and MIKAS lower tailings (1.0874 Mt, 0.20% Co) separately - not entered as rows (no production). The adjacent PE527 Lukuni copper mine (resource 1.358 Mt Cu, 1.1 Mt/yr, 0.23 years remaining) is copper-only and not entered. Operator/ownership entity (CDM vs MIKAS) not stated in the table."
+  },
+  {
+   "action": "add",
+   "id": "huayou-quzhou-cobalt-refinery-china",
+   "fields": {
+    "asset_name": "Huayou Quzhou (Quzhou Huayou Cobalt New Material) cobalt/nickel/copper refinery",
+    "step": "refining", "commodity": "cobalt", "product": "cobalt, copper and nickel products", "asset_type": "cobalt refinery",
+    "feedstock": "crude cobalt hydroxide / MHP", "operator": "Quzhou Huayou Cobalt New Material Co., Ltd.", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Zhejiang", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Co", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H19"]},
+   "confidence": 0.45,
+   "notes": "[SC105] Huayou Quzhou (83.96% owned, Quzhou, Zhejiang, AR line 10445-10446) R&D, production and sales of cobalt, copper and nickel products; 2025 revenue RMB 20.5bn, net profit RMB 1.21bn (lines 1229, 10534-10536). No plant-level capacity/output; company-wide 2025: cobalt products production 51,196.91 t Co metal (shipments 46,547.56 t; +4.5%), copper 69,185.74 t, nickel products 287,461.58 t Ni (H14). Huayou Quzhou is also on the MIIT battery-recycling whitelist (H11). Project 'annual 5万吨 (Ni metal) battery-grade nickel sulphate' (transferred April 2025) and 'high-purity electro-nickel from crude Ni-Co feed' (transferred Dec 2024/Sep 2025) in the fundraising table (lines 3133-3152) have no site; may be here or at Guangxi Huayou New Materials."
+  },
+  {
+   "action": "add",
+   "id": "huayou-guangxi-new-materials-yulin-china",
+   "fields": {
+    "asset_name": "Guangxi Huayou New Materials (Yulin) cobalt/nickel products",
+    "step": "refining", "commodity": "nickel", "product": "cobalt and nickel products", "asset_type": "nickel/cobalt chemical plant",
+    "feedstock": "MHP / crude cobalt hydroxide", "operator": "Guangxi Huayou New Materials Co., Ltd.", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Guangxi", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t Ni", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H20"]},
+   "confidence": 0.4,
+   "notes": "[SC105] 100% Huayou subsidiary in Yulin, Guangxi (AR lines 10465-10468), R&D, production and sales of cobalt and nickel products; 2025 revenue RMB 20.36bn (line 1232). No capacity or output split in the AR. Part of the group nickel-product output of 287,461.58 t Ni (H14). Related Guangxi cathode/precursor project: see huayou-bamo-guangxi-china / -pcam rows."
+  },
+  {
+   "action": "add",
+   "id": "huayou-resource-recycling-quzhou-china",
+   "fields": {
+    "asset_name": "Quzhou Huayou Resource Recycling (battery recycling)",
+    "step": "recycling", "commodity": "recycling", "product": "recycled Ni/Co/Li materials", "asset_type": "recycling plant",
+    "feedstock": "spent power batteries", "operator": "Quzhou Huayou Resource Recycling Technology Co., Ltd.", "parent_company": "Zhejiang Huayou Cobalt", "jv_partners": null,
+    "country": "China", "region": "China", "province_state": "Zhejiang", "latitude": null, "longitude": null, "geo_precision": "none",
+    "status": "operational", "project_state": "active", "announced_year": null, "start_year": null,
+    "capacity": null, "capacity_unit": "t feed", "capacity_ref_year": null,
+    "installed_capacity": null, "installed_as_of": null, "capacity_by_year_json": null,
+    "production": null, "production_unit": null, "production_year": null,
+    "offtakers": null, "end_market": "battery",
+    "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-08"
+   },
+   "evidence": {"status": ["H11"]},
+   "confidence": 0.4,
+   "notes": "[SC105] AR: subsidiaries Huayou Quzhou, 'Resource Recycling' (衢州华友资源再生科技有限公司, glossary line 130) and Jiangsu Huayou (江苏华友能源科技有限公司) entered the MIIT whitelist of compliant power-battery recycling firms (batches 1, 2 and 4 respectively; H11). Location of Resource Recycling inferred from the entity name (Quzhou) - AR gives no site. No capacity/output. Jiangsu Huayou (location not stated) is not entered as a separate row. AR 2026 plan: build overseas recycling capacity (line 1435)."
+  }
+ ]
+}
