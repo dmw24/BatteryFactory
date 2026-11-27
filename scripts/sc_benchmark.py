@@ -18,6 +18,9 @@ def main():
     a = pd.read_csv(os.path.join(ROOT, "sc_assets.csv"))
     b = pd.read_csv(os.path.join(ROOT, "data/supply_chain/benchmarks/aggregates.csv"))
     a = a[(a.status == "operational") & (a.project_state.fillna("active") != "cancelled")]
+    cc_path = os.path.join(ROOT, "sc_company_coverage.csv")
+    cc = pd.read_csv(cc_path) if os.path.exists(cc_path) else pd.DataFrame(
+        columns=["step", "metric", "unit", "unallocated", "disclosed", "year"])
     rows = []
     for r in b.itertuples():
         if r.country == "Other countries":
@@ -37,7 +40,10 @@ def main():
                          benchmark=r.value, unit=r.norm_unit, ours_production=round(p.production_norm.sum()),
                          n_prod=len(p), ours_capacity=round(cap), n_cap=int(c.installed_norm.fillna(c.capacity_norm).notna().sum()),
                          production_coverage=round(p.production_norm.sum() / r.value, 2),
-                         capacity_ratio=round(cap / r.value, 2), source=r.source))
+                         capacity_ratio=round(cap / r.value, 2),
+                         unallocated_capacity=round(cc[(cc.step == r.step) & (cc.metric == "capacity") & (cc.unit == r.norm_unit) & (cc.year == r.year)].unallocated.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
+                         company_disclosed_output=round(cc[(cc.step == r.step) & (cc.metric == "production") & (cc.unit == r.norm_unit) & (cc.year == r.year)].disclosed.sum()) if (r.step != "mining" and r.country in ("China", "World") and not sub) else 0,
+                         source=r.source))
     out = pd.DataFrame(rows)
     out.to_csv(os.path.join(ROOT, "sc_benchmark.csv"), index=False)
     latest = out.sort_values("year").groupby(["step", "commodity", "metric", "country"]).tail(1)

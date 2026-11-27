@@ -1,0 +1,742 @@
+{
+  "task": "SC101",
+  "verified_on": "2026-11-27",
+  "sources": {
+    "TQ1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 642-643)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "锂精矿建成产能合计约 214 万吨/年 ... 共生产锂精矿 135 万吨，其中化学级锂精矿 130 万吨、技术级锂精矿 5 万吨"},
+    "TQ2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 1566-1568)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "锂精矿三号工厂于 2025 年 12 月 18 日建设完成 ... 年 1 月 30 日生产出首批符合标准的化学级锂精矿产品，该工厂计划于 2026 年内完成产能爬坡 ... 林布什锂辉石矿项目已建成锂精矿产能从 162 万吨/年提升至 214 万吨/年"},
+    "TQ3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 1856; industry 锂矿采选冶炼行业, units: tonnes)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "生产量 ... 1,352,686.87 ... 1,410,453.70"},
+    "TQ4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 1138; Wood Mackenzie Q4-2025 basis)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司拥有的格林布什锂辉石矿 2025 年共生产约 22.0 万吨 LCE"},
+    "TQ5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 13413)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司在 IGO 交易完成后间接持有文菲尔德 26.01%的股份，但仍然通过控股子公司 TLEA（公司持有 TLEA51%的表决权）"},
+    "TQ6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 913)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "文菲尔德股东同意各股东有权采购格林布什锂辉石矿的实际年产量的 50%"},
+    "TQ7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 622)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "中国四川雅江措拉锂辉石矿 ... 筹备建设中 ... 63.24"},
+    "TQ8": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 655, 661-662)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "报告期内，雅江措拉锂辉石矿项目未进行任何开采活动 ... 雅江县措拉锂辉石矿采选工程项目已完成建设用地和供电工程 ... 初步设计，将继续推进雅江县措拉锂辉石矿尾矿库工程可行性研究报告、初设等相关设计工作"},
+    "TQ9": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 149-151)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "四川天齐盛合锂业有限公司，公司控股子公司 ... 39.2%、射洪天齐持股 40.8%，紫金锂业（海南）有限公司持股 20%"},
+    "TQ10": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 581)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "截至报告期末，一期氢氧化锂项目目标运行效率已大体稳定在 50%的铭牌产能区间"},
+    "TQ11": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 11572, 11694)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "对奎纳纳年产 2.4 万吨电池级单水氢氧化锂工厂一期资产 ... 本集团决议终止投资建设二期氢氧化锂项目"},
+    "TQ12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 2794)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司奎纳纳一期氢氧化锂项目自 2022 年 12 月实现商业化生产，至今处于产能爬坡阶段"},
+    "TQ13": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 186-187)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "2021 年 7 月变更为公司持股 51%的控 ... IGO Limited 持股 49%"},
+    "TQ14": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 1031-1032)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "江苏张家港年产 3 万吨氢氧化锂项目于 2025 年 7 月 30 日竣工，目前正处 ... 该基地产线可根据市场需求进行柔性调剂，生产氢氧化锂或碳酸锂产品"},
+    "TQ15": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 1029)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司在重庆铜梁正在建设年产 1,000 吨金属锂及配套原料的扩建项目"},
+    "TQ16": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 709)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司目前已建成锂化工产品产能约 12.16 万吨/年，加上已宣布的规划锂化工产品产能共计 12.26 万吨/年"},
+    "TQ17": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 3086)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司首个自建电池级碳酸锂工厂安居基地顺利实现稳定、高质量运营生产，产量和质量超预期完成目标"},
+
+    "GF1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1805-1809, 1648)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "氢氧化锂 ... 81,000 吨/年 ... 碳酸锂 ... 15,000 吨/年 ... 万吨锂盐 ... 江西新余 ... 氯化锂 ... 12,000 吨/年 ... 丁基锂 ... 2,000 吨/年"},
+    "GF1b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1648)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "万吨锂盐 ... 江西新余 ... 碳酸锂、氢氧化锂、氯化锂、丁基锂 ... 2014 年"},
+    "GF2a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1810-1812)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "高纯碳酸锂 ... 10,000 吨/年 ... 新余赣锋锂业 ... 江西新余 ... 氟化锂 ... 10,000 吨/年"},
+    "GF2b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1650, 871)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "新余赣锋锂业 ... 江西新余 ... 高纯碳酸锂、氟化锂、高氯酸锂 ... 2020 年 ... 2025 年 8 月，新余赣锋锂业万吨高纯锂盐改扩建项目取得新余市高新生态环境局环评批复"},
+    "GF3a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1813)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "宁都赣锋 ... 江西宁都 ... 碳酸锂 ... 20,000 吨/年"},
+    "GF3b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1649)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "宁都赣锋 ... 江西宁都 ... 碳酸锂 ... 2018 年"},
+    "GF4a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1814, 1647)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "宜春赣锋 ... 江西宜春 ... 金属锂 ... 1,500 吨/年 ... 宜春赣锋 ... 江西宜春 ... 金属锂 ... 2013 年"},
+    "GF5a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1815, 1646)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "奉新赣锋 ... 江西奉新 ... 金属锂 ... 650 吨/年 ... 奉新赣锋 ... 江西奉新 ... 金属锂 ... 2011 年"},
+    "GF6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1816, 1653, 1797)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "青海赣锋（一期） ... 青海海西州 ... 金属锂 ... 1,000 吨/年 ... 青海赣锋 ... 青海海西州 ... 金属锂 ... 试生产 ... 青海赣锋一期年产 1,000 吨金属锂项目处于试生产阶段，生产线爬坡至最优状态"},
+    "GF7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1817, 1651)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "丰城赣锋（一期） ... 江西丰城 ... 氢氧化锂 ... 25,000 吨/年 ... 丰城赣锋 ... 江西丰城 ... 氢氧化锂 ... 2024 年"},
+    "GF8a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1824-1826)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "碳酸锂 ... 25,000 吨/年 ... 四川赣锋 ... 四川达州 ... 氢氧化锂 ... 25,000 吨/年"},
+    "GF8b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1652, 1796)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "四川赣锋 ... 四川达州 ... 碳酸锂、氢氧化锂 ... 2025 年 ... 四川赣锋年产 5 万吨锂盐项目于上半年完成生产线调试，产能逐步释放，碳酸锂产能满负荷生"},
+    "GF9a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1723-1726, 1731)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "目 46.67%股权，并享有该项目的控制权 ... 项目一期设计产能为 4 万吨 LCE/年 ... Olaroz 项目规划年产 4 万吨 LCE 中 76%的产品包销权 ... 共计生产 3.41 万吨碳酸锂，预计 2026 年生产 3.5 万吨-4 万吨碳酸锂 ... Cauchari-Olaroz 项目的二期规划年产能 4.5 万吨 ... LCE，二期项目已于 2025 年 12 月向当地政府提交环境许可的申请"},
+    "GF9b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1819, 1830)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "阿根廷胡胡伊 ... 碳酸锂 ... 40,000 吨/年 ... 注：阿根廷 Cauchari-Olaroz 设计产能以 100%权益为基准"},
+    "GF10a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1737-1738)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "Mariana 锂盐湖项目一期规划年产能 2 万吨氯化锂生产线 ... 正式投产并逐步释放产能"},
+    "GF10b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1696)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "阿根廷 Mariana 锂盐湖项目 ... 100% ... 812.1 万吨 LCE"},
+    "GF11a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1752-1753)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "项目现规划一期产能 50.6 万 ... 吨锂精矿，目前公司持有 Goulamina 项目 65%权益"},
+    "GF11b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1753-1754)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "Goulamina 锂辉石项目一期已建成投产并逐步释放产能 ... 马里 Goulamina 锂辉石矿项目完成首批锂精矿装船发往国内，2025 年全年产出精矿 33.66 万吨（干）"},
+    "GF12a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1716-1717, 1685)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "2026 年计划对项目进行选矿工艺升级，增加浮选装置 ... 预计 2027 年末完成，升级后 Mount Marion 锂辉石项目产能预计为 60 万吨折 6%高品质精矿 ... 澳大利亚 Mount Marion 锂辉石项目 ... 50%"},
+    "GF13a": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1759-1760)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "公司将持有 PPGS 锂盐湖项目 67%权益 ... 公司将逐步推进 PPGS 项目的产能建设，远期产能规划约为 15 万吨 LCE"},
+    "GF13b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 7133-7134, 6197)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "截至 2025 年 12 月 31 日，PPG ... 采矿项目整体仍处于在建阶段 ... 2025 年 11 月阿根廷萨尔塔省矿业和能源秘书处已为 PPGS 锂盐湖项目一期颁发了《环境影响评估报告》"},
+    "GF13c": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 6193)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "整合完成后，赣锋国际和 LAR 将分别持有 Millennial67%和 33%的股权"},
+    "GF14": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1743, 1749)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "青海一里坪锂盐湖项目位于青海省海西州冷湖行委 ... 公司通过子公司间接持有其 49%的权益，目前该项目已形成年产 1.5 万吨碳酸锂的产能"},
+    "GF15": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1766-1768)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "蒙金矿业加不斯锂钽矿项目位于内蒙古自治区镶黄旗 ... 公司持有其 70%的权益。目前项目一期 60 万吨/年采选项目验收取证通过，2025 ... 年开始试生产并实现单月达产。预计 2026 年达成满产状态"},
+    "GF16": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1785, 1790, 1792)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "邦巴利锂矿项目位于非洲塞拉利昂北方省邦巴利地区 ... 主要含锂矿物为锂辉石、锂云母和伴生钽，已取得当地的采矿证和环评许可 ... 项目初期建设目标为采选生产规模为 200 万吨/年，采用露天开采方式，目前项目正处于基础建设中"},
+    "GF17": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1827-1829, 1928)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "电池级碳酸锂 ... 20,000 吨/年 ... 循环科技（一期） ... 江西新余 ... 电池级磷酸铁 ... 40,000 吨/年 ... 报告期内，循环科技（一期）项目已建成并逐步释放产能"},
+    "GF18": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 2055; segment 基础化学材料, unit 吨 LCE)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "生产量 ... 吨 LCE ... 182,419.19 ... 130,253.26"},
+
+    "YH1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 572)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "第二阶段项目已于 2024 年全线建成，目前该矿山已达到年处理锂矿石 230 万吨采选规模，年采选锂精矿 35 万吨"},
+    "YH2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 1206, 859)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "维锂精矿已于 2025 年下半年达产，年产锂精矿约 35 万吨 ... 该项目分两个阶段进行建设，第一阶段于 2023 年底建成投产，第二阶段于 2024 年底建成投产"},
+    "YH3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 13787)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "KMC ... 津巴布韦 ... 津巴布韦 ... 85.00%"},
+    "YH4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 562, 564)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "李家沟锂矿按年产 105 万吨采选规模进行建设，项目建成后将年产锂精 ... 矿约 18-20 万吨，已于 2025 年 9 月进入正式生产，并实现达标达产"},
+    "YH5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 558)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "目前持有能投锂业 37.25%股权，并享有锂精矿优先供应权"},
+    "YH6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 552, 583)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "的津巴布韦卡玛蒂维锂矿和四川李家沟锂矿两个锂矿山；雅安锂业、国理公司、兴晟锂业三个锂盐产品生产基地 ... 公司现有锂盐综合设计产能近 13 万吨"},
+    "YH7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 2054; product 锂产品, unit 吨)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "生产量 ... 吨 ... 68,615.26 ... 48,324"},
+    "YH8": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 5664, 5779-5780, 5787-5788)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "投入雅安锂业新增年产 5 万吨电池级氢氧化锂、1.1 万吨氯化锂及 ... 已完成 3 万吨氢氧化锂产线建设, ... 于 2023 年 3 月末投入使用 ... 2025 年 12 月厂房已建设完成，设备已进入调试中"},
+    "YH9": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 13654)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "国理公司 ... 四川阿坝 ... 四川阿坝 ... 生产企业 ... 56.26%"},
+    "YH10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 13635)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "兴晟锂业 ... 四川眉山 ... 四川眉山 ... 生产企业 ... 100.00%"},
+
+    "SM1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 388-392)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "Bikita 锂矿 200 万吨/年锂 ... 分别年产约 30 万吨锂辉石精矿和 30 万吨化学级透锂长 ... 石精矿，保障了公司锂盐业务的原料自给率"},
+    "SM1b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 121-122)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "African Minerals Limited，香港中矿稀有之全资子公司 ... Bikita Minerals (Private) Limited，Afmin 之全资子公司"},
+    "SM2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 413, 415)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "Tanco 矿山现有 18 万吨/年处理能力 ... 的锂辉石采选系统"},
+    "SM2b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 123-125, 709)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "Tantalum Mining Corporation of Canada Limited，加拿大钽业股份有限公司，香港中矿稀有 ... 之全资子公司 ... 公司所属加拿大 Tanco 矿山现采用地下开采方式进行矿产资源开发作业"},
+    "SM3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, line 435)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "目前，公司合计拥有 418 万吨/年选矿产能和 7.1 万吨/年电池级锂盐产能"},
+    "SM4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 429, 433, 435)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "公司所属江西中矿锂业 3 万吨/年产线和 3.5 万吨/年产线均为电池级碳酸锂和 ... 产能由原 2.5 万吨/年提升至 3 万 ... 吨/年，已于 2026 年 1 月 2 日建成投产"},
+    "SM5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, line 442)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "公司所属江西中矿新材 6,000 吨/年电池级氟化锂和铯铷盐工厂"},
+    "SM6": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, line 1645; product 锂盐, unit 吨)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "生产量 ... 吨 ... 37,408.41 ... 43,732.32"},
+    "SM7": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, line 3683)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "锂资源方面，津巴布韦硫酸锂项目已完成可行性研究和初步设计，公司将于 2026 年度启动项目建设"},
+
+    "SX1": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 388-390)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "致远锂业位于四川省德阳市绵竹德阿生态经济产业园，已建成产能为年产4.2万吨锂盐（其中碳酸锂 ... 2.5万吨、氢氧化锂1.5万吨、氯化锂2,000吨"},
+    "SX1b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, line 10849)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "四川致远锂业有限公司 ... 绵竹 ... 制造业 ... 83.33%"},
+    "SX2": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 390, 392)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "遂宁盛新位于四川省遂宁市射洪经济开发区锂电产 ... 业园，已建成产能为年产3万吨锂盐（全部为柔性生产线，可根据客户需求生产碳酸锂或氢氧化锂）"},
+    "SX3": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 394, 396)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "盛新科技位于四川省遂宁市射洪经济开发区锂电产业园，规划产能为年产1万吨锂盐，利用盐湖锂 ... 资源原料生产电池级碳酸锂或氯化锂，其中一期5,000吨产能已建成投产"},
+    "SX4": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 396, 398, 1035, 1037)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "印尼盛拓位于印尼中苏拉 ... 威西省莫罗瓦利县莫罗瓦利工业园（IMIP），已建成产能为年产6万吨锂盐 ... 公司积极推动印尼盛拓 6 万吨锂盐项目的产能爬坡以及客户认证工作，并已于 ... 2025 年 8 月开始批量供货"},
+    "SX4b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, line 10864)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "印尼盛拓锂能有限公司 ... 制造业 ... 80.00% 投资设立"},
+    "SX5": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 400, 633)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "遂宁市射洪经济开发区锂电产业园，规划产能为年产3,000吨金属锂，目前已建成产能500吨 ... 金属锂 ... 3,000 吨/年 ... 2,500 吨/年 ... 目前已建成产能 500 吨"},
+    "SX6": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 424, 426)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "项目已于2019年11 ... 月投产，原矿生产规模40.5万吨/年，可生产锂精矿约7.5万吨/年"},
+    "SX6b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, line 10855)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "金川奥伊诺矿业有限公司 ... 金川县 ... 制造业 ... 75.00%"},
+    "SX7": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 430, 432)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "为当地锂矿品位最高的在产矿山，项目已于 ... 2023年5月投产，原矿生产规模99万吨/年，可生产锂精矿约29万吨/年"},
+    "SX7b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, line 10891)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "2,000.00 美元 津巴布韦 津巴布韦 制造业 ... 0.00% ... 100.00%"},
+    "SX8": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 1063, 1074)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "设计生产规模为 300 万吨/年（折碳酸锂当量约 7.5 万吨）。截至目前，木绒锂矿施工前的准备工作已基 ... 大规模建设即将启动"},
+    "SX8b": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 10927, 4527, 4529)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "119,630,952.00 雅江县 雅江县 制造业 ... 67.10% ... 公司通过全资子公司盛屯锂业持有惠绒矿业 29.03%股权、通过全资子 ... 公司启成矿业持有惠绒矿业 70.97%股权，公司将 100%控股惠绒矿业"},
+    "SX9": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 9134-9136; construction-in-progress table)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "盛景年产 2 万吨 ... 812,038.30 ... 碳酸锂项目"},
+    "SX10": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 9137-9139; construction-in-progress table)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "尼日利亚伊洛林 ... 50 万吨锂辉石 ... 62,984,232.14 ... 矿选矿厂"},
+    "SX11": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 436, 444, 554)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司拥有阿根廷SDLA盐湖 ... 项目的独立运营权，项目年产能为2,500吨碳酸锂当量 ... 目的独立运营权，并投资了阿根廷Pocitos等盐湖勘探项目，公司将积极推动上述项目的开发建设及投产"},
+    "SX12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy (Chengxin Lithium) 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 964, 1179, 1201)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "盐产能 13.7 万吨/年（在中国四川和印尼分别为 7.7 万吨和 6 万吨）和金属锂产能 500 吨/年 ... 锂产品 ... 生产量 ... 77,476.79 ... 67,616.54 ... 生产量 ... 299,776.35 ... 285,992.40"},
+
+    "TH1": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 4046, 1234)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "天华时代锂能有限公司年产 6 万吨电池级氢氧化锂建设项目”募集资金节余共计 29,967.57 万元全部转入自 ... 同时，公司的四川眉山基地产线具备柔性生产能力，可以根据下游需求动态调整电池级碳酸锂与电池级氢氧化锂的产"},
+    "TH1b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 9463-9467, construction-in-progress table)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "四川天华时代二 ... 期年产 6 万吨电 ... 8,768,727.29 ... 池级氢氧化锂建 ... 设项目"},
+    "TH1c": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, line 11317)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "四川天华 ... 眉山市 ... 制造业 ... 92.50% ... 7.25%"},
+    "TH2": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 3978-3983, 募投 table, text fragmented by PDF extraction)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "宜宾市伟能 ... 锂业科创有 ... 限公司一期 ... 年产 2.5 万 ... 吨电池级氢 ... 氧化锂项目"},
+    "TH2b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, line 11291)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "天宜锂业 ... 宜宾市 ... 制造业 ... 75.00%"},
+    "TH3": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 9480-9482, construction-in-progress table)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "年产 2.65 万吨电 ... 池级碳酸锂二线"},
+    "TH4": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 9474-9476, construction-in-progress table)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "奉新时代一期 3 ... 4,118,878.82 ... 万吨碳酸锂项目"},
+    "TH4b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, line 11384)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "奉新时代 ... 宜春市 ... 制造业 ... 75.00% 股权收购"},
+    "TH5": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, lines 1063, 2284)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "子公司宜春盛源取得江西省奉新县金子峰—宜丰县左家里矿区陶瓷土（含锂）矿采矿权证 ... 公司将进一步推进金子峰项目、刚果金项目、尼日利亚项目建设"},
+    "TH5b": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "publisher": "Tianhua New Energy (Suzhou) 2025 annual report, corrected version (local text team/evidence/filings/300390_2025.txt, line 11488)", "published": "2026-04-02", "accessed": "2026-11-27", "language": "zh", "quote": "盛源锂业 ... 宜春市 ... 制造业 ... 41.25% ... 出资设立"}
+  },
+  "rows": [
+    {
+      "action": "update", "id": "talison-greenbushes-australia",
+      "fields": {
+        "capacity": 2140000, "capacity_unit": "t spodumene concentrate", "capacity_ref_year": 2026, "capacity_norm": 317533,
+        "installed_capacity": 1620000, "installed_as_of": "2025-12-31",
+        "production": 1352687, "production_unit": "t spodumene concentrate", "production_year": 2025, "production_norm": 220000,
+        "ownership_json": {"Tianqi Lithium (indirect, via Windfield; Tianqi consolidates via TLEA 51%)": 26.01, "IGO (indirect via TLEA 49%)": 24.99, "Albemarle (RT Lithium)": 49},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["TQ1", "TQ2"], "installed_capacity": ["TQ2"], "production": ["TQ1", "TQ3", "TQ4"], "ownership_json": ["TQ5", "TQ13"], "status": ["TQ1"]},
+      "confidence": 0.85,
+      "notes": "Tianqi FY2025 annual report (CY2025): five operating concentrators (CGP1, CGP2, CGP3, technical-grade plant, tailings retreatment), built capacity ~2.14 Mt/yr at end-2025, up from 1.62 Mt/yr; CGP3 construction completed 2025-12-18, first on-spec product 2026-01-30, ramp-up planned during 2026. capacity set to 2,140,000 (company built capacity; higher than the Albemarle-TRS 1.8-2.0 Mt reading previously used - the two bases differ, the Tianqi figure includes the tailings-retreatment and technical-grade plants) with ref year 2026 (ramp completion). installed_capacity 1,620,000 = the pre-CGP3 built capacity stated by Tianqi (derived reading: CGP3 produced no on-spec product before 2026-01-30). capacity_norm = 2,140,000 x 0.06 x 2.473 = 317,533 t LCE (SC6.0 convention kept from the earlier row; overstates because technical-grade plant output is <6% Li2O). Production = CY2025 concentrate production 1,352,687 t (1.35 Mt: 1.30 Mt chemical grade + 0.05 Mt technical grade) at 100% basis; replaces the earlier IGO FY25 (Jul-Jun) 1,479 kt - different period, ~9% lower. production_norm 220,000 t LCE = '约 22.0 万吨 LCE' quoted by Tianqi from Wood Mackenzie Q4-2025 (not a company grade conversion). Ownership: TLEA (Tianqi 51% / IGO 49%) holds 51% of Windfield, Albemarle's RT Lithium 49%; Tianqi indirect 26.01%; each shareholder may buy 50% of actual annual output (TQ6). Tianqi's own sales of concentrate in 2025: 811,214 t vs 1,352,687 t produced (same table, line 1855-1856, segment total)."
+    },
+    {
+      "action": "update", "id": "tianqi-lithium-cuola-china",
+      "fields": {
+        "asset_name": "Cuola (Yajiang Cuola) spodumene mine, Sichuan",
+        "operator": "Sichuan Tianqi Shenghe Lithium (盛合锂业)", "parent_company": "Tianqi Lithium",
+        "jv_partners": "Zijin Lithium (Hainan) 20%",
+        "ownership_json": {"Tianqi Lithium (direct)": 39.2, "Shehong Tianqi (Tianqi wholly-owned)": 40.8, "Zijin Lithium (Hainan)": 20},
+        "status": "announced",
+        "reserves_resources": "Resource 63.24 Mt LCE-equivalent... (as printed: 63.24 万吨 LCE, 2011 exploration report; grade 1.30%)",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"status": ["TQ7", "TQ8"], "ownership_json": ["TQ9"]},
+      "confidence": 0.8,
+      "notes": "Tianqi FY2025 annual report calls the Yajiang Cuola (措拉) project '筹备建设中' (being prepared for construction); no mining in 2025; only land-use and power-supply preliminary design done so far for the mining/concentrator works, tailings-dam design still in progress. Status therefore changed from under_construction (Mysteel July 2025 said concentrator work resumed Aug 2024) to announced - CONFLICT noted: company text is later and more authoritative, but Mysteel describes physical works. Capacity: none stated in the filing (null kept). Resource: 63.24 万吨 (0.632 Mt) LCE at 1.30% from the 2011 exploration report (reserves not stated, '-'). Operator: Shenghe Lithium is a Tianqi subsidiary (39.2% direct + 40.8% via Shehong Tianqi + Zijin Lithium (Hainan) 20%). Tianqi's parent (Tianqi Group) also holds Shangdubu/Shaotangou licences (not in scope, no capacity)."
+    },
+    {
+      "action": "update", "id": "tlea-kwinana-lithium-hydroxide-australia",
+      "fields": {
+        "start_year": 2022,
+        "ownership_json": {"Tianqi Lithium": 51, "IGO": 49},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"status": ["TQ12"], "capacity": ["TQ11"], "ownership_json": ["TQ13"]},
+      "confidence": 0.7,
+      "notes": "Tianqi FY2025 annual report: Kwinana Phase 1 is the 24,000 t/yr battery-grade LiOH.H2O plant (confirms the 24 kt Train-1 capacity previously carried at reported tier); commercial production since Dec 2022, still ramping; at end-2025 target operating efficiency 'roughly stable at about 50% of nameplate' (~12 kt/yr run-rate). Phase 2 (a second 24,000 t/yr train, RMB 1.31bn of construction-in-progress) was TERMINATED by Tianqi ('不具备经济性', fully impaired at 31 Dec 2024 and 2025) - consistent with the earlier 'suspended Jan 2025' snippet but stronger; capacity stays Train 1 only. Phase 1 impairment test 2025: recoverable amount above book value (no impairment). Production in tonnes is not given by Tianqi (IGO FY26 8,839 t LiOH is in the existing row)."
+    },
+    {
+      "action": "update", "id": "tianqi-lithium-zhangjiagang-hydroxide-china",
+      "fields": {"source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"},
+      "evidence": {"status": ["TQ14"], "capacity": ["TQ14"]},
+      "confidence": 0.8,
+      "notes": "Re-confirmed from the local text of the Tianqi FY2025 report: 30,000 t/yr hydroxide project at Zhangjiagang completed 2025-07-30, ramping, flexible hydroxide/carbonate; all parameters met battery-grade LiOH standard 2025-10-17 (line 2803-2804 of local text). NOTE the existing source_url on this row (cninfo 2026-04-27 1225221223.PDF) differs from the SOURCE line of the local text (cninfo 2026-03-28 1225044817.PDF); the row now points to the local-text URL - lead to check which PDF is the annual report. No per-base capacity table could be read (the 'bases' table of the Tianqi report is an image and absent from the text)."
+    },
+    {
+      "action": "update", "id": "tianqi-lithium-tongliang-china",
+      "fields": {"source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"},
+      "evidence": {"capacity": ["TQ15"]},
+      "confidence": 0.55,
+      "notes": "Tianqi FY2025 report confirms a 1,000 t/yr lithium-metal expansion (with supporting raw-material capacity) is under construction at Tongliang, Chongqing; project is part of the 12.26 万吨 planned group total vs 12.16 万吨 built (difference 1,000 t = 0.10 万吨). The 600 t existing capacity remains from SMM FY2022 (not in the local filing text). Company: Chongqing Tianqi 86.38%-held (line 13329)."
+    },
+    {
+      "action": "update", "id": "tianqi-lithium-anju-china",
+      "fields": {"source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"},
+      "evidence": {"status": ["TQ17"]},
+      "confidence": 0.75,
+      "notes": "Tianqi FY2025 report: Anju is the company's first self-built battery-grade carbonate plant, 'stable, high-quality operation, output and quality above target' in 2025 (operational confirmed). Per-base capacity not extractable from the text (image table). GROUP TOTALS (Tianqi FY2025, local text): built lithium-chemical capacity ~12.16 万吨/年 (121,600 t/yr product) across six bases (Shehong, Anju, Tongliang, Zhangjiagang carbonate, Zhangjiagang hydroxide [counted as two bases in the text: 'Jiangsu carbonate base' + 'Jiangsu hydroxide base'], Kwinana), 12.26 万吨/年 incl. the announced 1,000 t Tongliang expansion (line 709, 1029); 2025 lithium compounds production 87,935.98 t (sales 86,715.65 t), 2024: 70,714.88 t (line 1862); lithium concentrate production 1,352,686.87 t (line 1856)."
+    },
+
+    {
+      "action": "update", "id": "ganfeng-goulamina-mine-mali",
+      "fields": {
+        "ownership_json": {"Ganfeng Lithium (via Mali Lithium B.V., 100%)": 65},
+        "production": 336600, "production_unit": "t spodumene concentrate", "production_year": 2025,
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF11a"], "status": ["GF11b"], "production": ["GF11b"], "ownership_json": ["GF11a"]},
+      "confidence": 0.85,
+      "notes": "Ganfeng FY2025 annual report: Goulamina Phase I planned 506,000 t/yr concentrate (matches SMM figure), Ganfeng holds 65% (Lithium du Mali SA 65.00% in the subsidiary table, Mali Lithium B.V. 100%); first concentrate shipped June 2025; 2025 output 33.66 万吨 (336,600 t, dry) - replaces the aggregator figure 337,000 t and raises the row from reported to confirmed. RESOLVES the earlier ownership conflict: the company consolidates Lithium du Mali SA at 65%, so the Mali state ~35% reading is consistent; 'wholly owned' (Mysteel) refers to Mali Lithium B.V. Grade of the concentrate not stated in the filing -> production_norm null. Phase II still excluded (undated)."
+    },
+    {
+      "action": "update", "id": "ganfeng-mariana-argentina",
+      "fields": {
+        "ownership_json": {"Ganfeng Lithium": 100},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF10a"], "installed_capacity": ["GF10a"], "status": ["GF10a"], "ownership_json": ["GF10b"]},
+      "confidence": 0.85,
+      "notes": "Ganfeng FY2025 annual report confirms Phase I = 20,000 t/yr lithium chloride line, put into production Feb 2025 and ramping; Ganfeng holds 100%; resource ~8.121 Mt LCE (Golder). Operating company Litio Minera Argentina S.A. is shown in the report as 'in trial operation, not yet profitable' (balance-sheet table, lines 2536-2545, garbled). No output reported. installed_capacity (20,000 t LiCl) = commissioned phase I as before; ramp progress unknown."
+    },
+    {
+      "action": "update", "id": "minera-exar-cauchari-olaroz-argentina",
+      "fields": {
+        "jv_partners": "Ganfeng Lithium 46.67% (controlling); Lithium Argentina and JEMSE hold the balance (percentages not given in the Ganfeng filing)",
+        "ownership_json": {"Ganfeng Lithium": 46.67},
+        "offtakers": "Ganfeng (76% of planned 40 ktpa LCE)",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF9a", "GF9b"], "production": ["GF9a"], "ownership_json": ["GF9a"]},
+      "confidence": 0.9,
+      "notes": "Ganfeng FY2025 annual report: Phase 1 design capacity 40,000 t LCE/yr (table: 40,000 t/yr carbonate, 100% basis) - now stated, no longer derived; 2025 output 3.41 万吨 (34,100 t Li2CO3), same figure as Lithium Argentina's release; 2026 guidance 35-40 kt; Phase 2 planned 45,000 t/yr LCE (environmental permit application filed Dec 2025, not in capacity - undated/unapproved; total-vs-addition reading unresolved). Ganfeng holds 46.67% and controls the project (Minera Exar 46.665% in the subsidiary table); Ganfeng has offtake for 76% of planned 40 ktpa. Group note: Ganfeng's table treats Cauchari at 100% basis."
+    },
+    {
+      "action": "update", "id": "mineral-resources-mt-marion-australia",
+      "fields": {
+        "capacity_ref_year": 2027, "capacity_by_year_json": {"2027": 600000},
+        "ownership_json": {"Ganfeng Lithium": 50, "Mineral Resources": 50},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF12a"], "capacity_by_year_json": ["GF12a"], "ownership_json": ["GF12a"]},
+      "confidence": 0.65,
+      "notes": "Ganfeng FY2025 annual report: Ganfeng holds 50% of Mt Marion (resource 2.19 Mt LCE, 100% basis); the beneficiation upgrade (added flotation unit) is planned for 2026 and to be completed at end-2027, after which capacity is expected to be 600,000 t/yr 6% concentrate - this CONFIRMS the 600 kt figure (previously reported tier from Mysteel) and dates it: 2027 (capacity_ref_year), so the 600 kt is a post-upgrade target, not current capacity. 2025: H1 targets cut to reduce output at low prices, mined volumes back to normal in H2. capacity_norm 89,028 (600,000 x 6% x 2.473, grade stated) unchanged. Current (pre-upgrade) installed capacity not stated -> null. MinRes 50% from earlier evidence (Mysteel/WA list). Ganfeng also shows related-party purchases from Mt Marion Lithium Pty Ltd of RMB 1.41bn in 2025 (line 2189)."
+    },
+    {
+      "action": "update", "id": "lithium-argentina-ppg-argentina",
+      "fields": {
+        "status": "under_construction",
+        "operator": "Lithea Inc. (Ganfeng) / Millennial Lithium (JV with Lithium Argentina)",
+        "ownership_json": {"Ganfeng International (after integration, in Millennial / PPGS)": 67, "Lithium Argentina": 33},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"status": ["GF13b"], "capacity": ["GF13a"], "ownership_json": ["GF13a", "GF13c"]},
+      "confidence": 0.6,
+      "notes": "Ganfeng FY2025 annual report: PPGS (Pozuelos + Pastos Grandes + Sal de la Puna) integration with Lithium Argentina (LAR) approved Aug 2025 - Ganfeng International 67% / LAR 33% of Millennial after completion; Phase I environmental impact assessment issued by Salta authority Nov 2025; RIGI application planned H1 2026; Ganfeng's PPG mining project (Lithea Inc.: fixed assets + CIP RMB 1.54bn, mining rights RMB 6.54bn) 'still in the construction stage' at 31 Dec 2025 -> status set under_construction (the earlier row said announced). Capacity: the 150,000 t LCE is described as a 'far-term' plan ('远期产能规划约为 15 万吨 LCE') with no date or phase - an undated aspiration (cf. D-015); capacity left unchanged but LEAD should consider nulling it (Phase I size not disclosed). Resource 21.79 Mt LCE (WSP Golder)."
+    },
+    {
+      "action": "update", "id": "minmetals-salt-lake-yiliping-china",
+      "fields": {
+        "operator": "Minmetals Salt Lake Co. (五矿盐湖有限公司)",
+        "jv_partners": "Ganfeng Lithium 49% (indirect, equity-accounted)",
+        "ownership_json": {"Ganfeng Lithium (indirect)": 49},
+        "status": "operational", "capacity": 15000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025, "capacity_norm": 15000,
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"status": ["GF14"], "capacity": ["GF14"], "ownership_json": ["GF14"]},
+      "confidence": 0.7,
+      "notes": "Ganfeng FY2025 annual report: Qinghai Yiliping (一里坪) salt-lake project, Lenghu, Haixi Prefecture; Ganfeng indirectly holds 49% (Minmetals Salt Lake Co. is an equity-accounted associate at 49%, line 14577) and 'the project has formed 15,000 t/yr lithium carbonate capacity'. CONFLICT with the earlier 10,000 t/yr forum-post figure (reported tier): the company figure replaces it. Possible overlap with the 'Qinghai Huixin 20,000 t' row (China Salt Lake) not resolved. Resource: LiCl 1.80 Mt (total-porosity) / 0.93 Mt (specific-yield). No output given."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-xinyu-mahong-china",
+      "fields": {"start_year": 2014, "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
+      "evidence": {"capacity": ["GF1"], "installed_capacity": ["GF1"], "status": ["GF1b"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report table of existing lithium-salt capacity: base '万吨锂盐' (Xinyu, Jiangxi, started 2014): LiOH 81,000 + Li2CO3 15,000 + LiCl 12,000 + butyl-lithium 2,000 t/yr (design). This CONFIRMS the identification of the '万吨锂盐厂' with the Xinyu 'Mahong' plant (same place and 81,000/15,000 figures). capacity_norm 86,280 t LCE still excludes the 12,000 t LiCl (~10,452 t LCE at 0.871) and butyl-lithium; table values are design capacities at the report date (2026-03-31). Aug 2025: EIA approval for the 'Xinyu Ganfeng Lithium 10,000 t high-purity lithium salt retrofit/expansion' (a different Xinyu base, see ganfeng-lithium-xinyu-hipurity-china) and Dec 2025 EIA for a butyl-lithium retrofit."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-ningdu-china",
+      "fields": {"start_year": 2018, "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
+      "evidence": {"capacity": ["GF3a"], "installed_capacity": ["GF3a"], "status": ["GF3b"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report: Ningdu Ganfeng (Ningdu, Jiangxi) Li2CO3 20,000 t/yr design capacity, put into production 2018 (base table, 投产年份)."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-fengcheng-china",
+      "fields": {"start_year": 2024, "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
+      "evidence": {"capacity": ["GF7"], "status": ["GF7"]},
+      "confidence": 0.7,
+      "notes": "Ganfeng FY2025 annual report lists Fengcheng Ganfeng (Phase 1) LiOH 25,000 t/yr in the existing-capacity table and as a built production base put into operation in 2024 (resolves the earlier 'FY2025 status unconfirmed'). Ramp-up status / installed output not stated (installed_capacity left null)."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-sichuan-china",
+      "fields": {
+        "province_state": "Sichuan (Dazhou)", "latitude": 31.21, "longitude": 107.47, "geo_precision": "city", "start_year": 2025,
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF8a"], "status": ["GF8b"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report places Sichuan Ganfeng in Dazhou, Sichuan (RESOLVES the earlier 'site not found'; the report also lists a Dazhou recycling base 2023): 25,000 t Li2CO3 + 25,000 t LiOH per year, production base 2025; the 50 kt lithium-salt project completed line commissioning in H1 2025, capacity released gradually and the carbonate capacity 'at full load'. start_year changed 2024 -> 2025 (table 投产年份; the FY2024 report said built end-2024 and commissioning). Coordinates = Dazhou city centroid (named locality, approximate). Hydroxide output state not stated."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-qinghai-china",
+      "fields": {"province_state": "Qinghai (Haixi Prefecture)", "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"},
+      "evidence": {"capacity": ["GF6"], "status": ["GF6"]},
+      "confidence": 0.75,
+      "notes": "Ganfeng FY2025 annual report: Qinghai Ganfeng (Phase 1) lithium metal 1,000 t/yr design capacity, listed with production year '试生产' (trial production) and described as in trial production with the line ramping to optimum; status stays under_construction (trial production = not yet commercial). Also in the report: Qinghai Zhonghang 2,000 t lithium carbonate pilot project (EIA approval May 2025) - pilot, no row added."
+    },
+    {
+      "action": "update", "id": "ganfeng-lithium-fengxin-china",
+      "fields": {},
+      "confidence": 0.2,
+      "notes": "Not mentioned anywhere in the Ganfeng FY2025 annual report (local text 002460_2025.txt): the 2022 'Fengxin 50 kt battery-grade lithium salt' project does not appear in the existing-capacity table, the project or construction-in-progress lists, nor in the 2030 plan wording (company plans '不低于 60 万吨' design capacity of lithium products by 2030, line 3140-3141). The only Fengxin (奉新) asset in the report is the Fengxin Ganfeng lithium-metal plant (650 t/yr since 2011), added as ganfeng-lithium-fengxin-metal-china. Row confidence lowered to 0.2; lead to decide whether to remove."
+    },
+    {
+      "action": "add", "id": "ganfeng-lithium-xinyu-hipurity-china",
+      "fields": {
+        "asset_name": "Xinyu Ganfeng Lithium (high-purity lithium carbonate / lithium fluoride), Xinyu",
+        "step": "refining", "commodity": "lithium", "product": "high-purity lithium carbonate; lithium fluoride", "asset_type": "lithium chemical plant",
+        "feedstock": null, "operator": "Xinyu Ganfeng Lithium (新余赣锋锂业)", "parent_company": "Ganfeng Lithium", "jv_partners": null,
+        "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": 27.82, "longitude": 114.92, "geo_precision": "city",
+        "status": "operational", "start_year": 2020,
+        "capacity": 10000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025, "capacity_norm": 10000,
+        "installed_capacity": 10000, "installed_as_of": "2026-03-31",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF2a"], "installed_capacity": ["GF2a"], "status": ["GF2b"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report: Xinyu Ganfeng Lithium, Xinyu, Jiangxi, production year 2020 (products high-purity Li2CO3, LiF, LiClO4); design capacity 10,000 t/yr high-purity lithium carbonate + 10,000 t/yr lithium fluoride (LiF is not a unit in units.csv, so only the carbonate is entered; LiF 10,000 t/yr recorded here). Aug 2025: EIA approval for the 'Xinyu Ganfeng Lithium 10,000 t high-purity lithium salt retrofit/expansion' project (capacity after retrofit not stated). Table values are design capacities as at the report date (2026-03-31); coordinates = Xinyu city centroid (named locality). The earlier SC006 gap note ('Xinyu Ganfeng LiF/Li metal/butyl-lithium site capacity not found') is resolved: the metal lithium sits at Yichun and Fengxin, butyl-lithium at the Xinyu 万吨 base."
+    },
+    {
+      "action": "add", "id": "ganfeng-lithium-yichun-metal-china",
+      "fields": {
+        "asset_name": "Yichun Ganfeng lithium metal plant, Yichun",
+        "step": "refining", "commodity": "lithium", "product": "lithium metal", "asset_type": "lithium metal plant",
+        "operator": "Yichun Ganfeng Lithium (宜春赣锋锂业)", "parent_company": "Ganfeng Lithium",
+        "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": 27.81, "longitude": 114.42, "geo_precision": "city",
+        "status": "operational", "start_year": 2013,
+        "capacity": 1500, "capacity_unit": "t Li", "capacity_ref_year": 2025,
+        "installed_capacity": 1500, "installed_as_of": "2026-03-31",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF4a"], "installed_capacity": ["GF4a"], "status": ["GF4a"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report: Yichun Ganfeng, Yichun, Jiangxi, lithium metal 1,500 t/yr design capacity, production year 2013. April 2025: EIA approval for a 300 t/yr aluminium-lithium alloy project at Yichun Ganfeng (no capacity added). Coordinates = Yichun city centroid (named locality, approximate). Design capacity at the report date (2026-03-31)."
+    },
+    {
+      "action": "add", "id": "ganfeng-lithium-fengxin-metal-china",
+      "fields": {
+        "asset_name": "Fengxin Ganfeng lithium metal plant, Fengxin County (Yichun)",
+        "step": "refining", "commodity": "lithium", "product": "lithium metal", "asset_type": "lithium metal plant",
+        "operator": "Fengxin Ganfeng Lithium (奉新赣锋锂业)", "parent_company": "Ganfeng Lithium",
+        "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": 28.70, "longitude": 115.38, "geo_precision": "town",
+        "status": "operational", "start_year": 2011,
+        "capacity": 650, "capacity_unit": "t Li", "capacity_ref_year": 2025,
+        "installed_capacity": 650, "installed_as_of": "2026-03-31",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF5a"], "installed_capacity": ["GF5a"], "status": ["GF5a"]},
+      "confidence": 0.8,
+      "notes": "Ganfeng FY2025 annual report: Fengxin Ganfeng, Fengxin, Jiangxi, lithium metal 650 t/yr design capacity, production year 2011 (Ganfeng's oldest base; also organolithium history). Coordinates = Fengxin county seat (named locality, approximate). Not the cancelled/stalled 'Fengxin 50 kt' lithium-salt project (see ganfeng-lithium-fengxin-china)."
+    },
+    {
+      "action": "add", "id": "ganfeng-recycling-xinyu-china",
+      "fields": {
+        "asset_name": "Ganfeng Recycling Technology (Xinyu) phase 1 - recycled battery-grade lithium carbonate and iron phosphate",
+        "step": "recycling", "commodity": "recycling", "product": "battery-grade lithium carbonate and iron phosphate from spent LFP batteries", "asset_type": "battery recycling and lithium recovery plant",
+        "feedstock": "spent lithium iron phosphate batteries / black mass", "operator": "Jiangxi Ganfeng Recycling Technology (江西赣锋循环科技)", "parent_company": "Ganfeng Lithium",
+        "country": "China", "region": "China", "province_state": "Jiangxi", "latitude": 27.82, "longitude": 114.92, "geo_precision": "city",
+        "status": "operational",
+        "capacity": 20000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF17"], "status": ["GF17"]},
+      "confidence": 0.65,
+      "notes": "Ganfeng FY2025 annual report lists 'Recycling Technology (phase 1), Xinyu' in the lithium-salt capacity table with 20,000 t/yr battery-grade lithium carbonate and 40,000 t/yr battery-grade iron phosphate; phase 1 'built and gradually releasing capacity' in 2025 (full-component LFP recycling, lithium recovery 94%). Dec 2025: EIA approval for the 110 kV substation of the '20,000 t battery-grade Li2CO3 + 80,000 t FePO4' project (so FePO4 totals 80 kt for the full project, 40 kt phase 1). Added as a recycling row because the lithium carbonate is recovered lithium; possible overlap with a recycling-scope task (lead to dedupe). Ganfeng also operates recycling bases at Ganzhou (2022) and Dazhou (2023) with no capacity given. Coordinates = Xinyu city centroid. Design capacity at report date; installed/ramp status not quantified; start year not stated for phase 1."
+    },
+    {
+      "action": "add", "id": "ganfeng-jiabusi-mine-china",
+      "fields": {
+        "asset_name": "Jiabusi (Jiabusi lithium-tantalum) mine, Xianghuangqi, Inner Mongolia",
+        "step": "mining", "commodity": "lithium", "product": "lithium-bearing greisen / lepidolite-type ore (lithium concentrate; Nb-Ta by-product)", "asset_type": "hard-rock mine",
+        "feedstock": "lithium-bearing greisen (lepidolite-type)", "operator": "Xianghuangqi Mengjin Mining Development (镶黄旗蒙金矿业开发)", "parent_company": "Ganfeng Lithium",
+        "jv_partners": "Ganfeng Lithium 70%", "ownership_json": {"Ganfeng Lithium": 70},
+        "country": "China", "region": "China", "province_state": "Inner Mongolia", "geo_precision": "none",
+        "status": "operational", "start_year": 2025,
+        "capacity": 600000, "capacity_unit": "t ore", "capacity_ref_year": 2026,
+        "reserves_resources": "88.1 万吨 LCE resource (Ganfeng table); ore 72.443 Mt at 0.67% (upper greisen)",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF15"], "status": ["GF15"], "ownership_json": ["GF15"]},
+      "confidence": 0.55,
+      "notes": "Ganfeng FY2025 annual report: Mengjin Mining (Ganfeng 70%) Jiabusi Li-Ta project, Xianghuangqi, Inner Mongolia; Phase 1 600,000 t/yr mining-and-beneficiation project passed acceptance and obtained its permit, trial production began in 2025 and a single month reached design rate, full production expected 2026. Status set operational (ramping) - borderline versus the 'trial production = under_construction' convention used for Qinghai Ganfeng; lead to review. Capacity is ORE throughput (concentrate output and grade not stated). The report names it as the lepidolite-type resource; mining/safety licences listed (line 925, 1002). The Songshugang Ta-Nb mine (Jiangxi, 90%, Li2O by-product 0.2%) is in design stage with no capacity - not added."
+    },
+    {
+      "action": "add", "id": "ganfeng-bombali-mine-sierra-leone",
+      "fields": {
+        "asset_name": "Bombali lithium project, Northern Province",
+        "step": "mining", "commodity": "lithium", "product": "lithium concentrate (spodumene / lepidolite; tantalum by-product)", "asset_type": "hard-rock mine",
+        "feedstock": "greisenised pegmatite", "operator": "Ganfeng Lithium (Bombali project; probably via Leone Afric Metals (SL) Ltd, 73% - not stated)", "parent_company": "Ganfeng Lithium",
+        "country": "Sierra Leone", "region": "Africa", "province_state": "Northern Province (Bombali)", "geo_precision": "none",
+        "status": "under_construction",
+        "capacity": 2000000, "capacity_unit": "t ore", "capacity_ref_year": 2026,
+        "reserves_resources": "Li2O 0.4836 Mt (48.36 万吨), grade 1.24%, 39.15 Mt ore (controlled+inferred)",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-31"
+      },
+      "evidence": {"capacity": ["GF16"], "status": ["GF16"]},
+      "confidence": 0.45,
+      "notes": "Ganfeng FY2025 annual report: Bombali lithium project (Northern Province, Sierra Leone, 80.43 km2, greisenised pegmatite; spodumene, lepidolite, tantalum), mining licence and EIA permit obtained; initial construction target 2 Mt/yr ore, open pit, 'currently in basic construction'. Operator/ownership not stated for this project; the subsidiary table lists Leone Afric Metals (SL) Limited (Ganfeng 73%, 'lithium investment and development', line 14434) which is the likely holder - inferred. Capacity is ore throughput with no due date (ref year = publication-year fallback); concentrate output not stated."
+    },
+
+    {
+      "action": "update", "id": "yahua-kamativi-mine-zimbabwe",
+      "fields": {
+        "operator": "Kamativi Mining Company (Private) Limited (KMC)", "parent_company": "Sichuan Yahua Industrial Group",
+        "ownership_json": {"Sichuan Yahua Industrial Group": 85},
+        "start_year": 2023,
+        "capacity": 350000, "capacity_unit": "t spodumene concentrate", "capacity_ref_year": 2025,
+        "installed_capacity": 350000, "installed_as_of": "2025-12-31",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-27"
+      },
+      "evidence": {"capacity": ["YH1", "YH2"], "installed_capacity": ["YH2"], "status": ["YH2"], "ownership_json": ["YH3"]},
+      "confidence": 0.85,
+      "notes": "Yahua FY2025 annual report: Kamativi (KMC) Phase 1 commissioned end-2023 and Phase 2 end-2024; the mine now has 2.3 Mt/yr ore processing and ~350,000 t/yr lithium concentrate; reached design output in H2 2025. REPLACES the reported-tier 300 kt (Asian Metal) / 350 kt (Newsday) conflict and the USGS phase-1 50 kt: 350,000 t/yr confirmed by the company. start_year 2023 (phase 1), was 2024. Yahua holds 85% of KMC (Denfold's 15% per earlier snippet not in the filing). Concentrate grade not stated -> no LCE norm. 2025 mine output not stated; Yahua's lithium-salt output (all plants) 68,615 t. Resource (May 2024): ore 24.22 Mt, Li2O 0.304 Mt = 0.751 Mt LCE. Zimbabwe suspended lithium concentrate exports on 2026-02-26; Yahua received a 6-month export quota in April 2026 (ensures normal mine operation)."
+    },
+    {
+      "action": "update", "id": "sichuan-energy-investment-lijiagou-china",
+      "fields": {
+        "ownership_json": {"Yahua Group (stake in Nengtou Lithium / 能投锂业)": 37.25},
+        "jv_partners": "Yahua Group 37.25% of Nengtou Lithium (Sichuan Energy Investment Group partner; Yahua has priority supply right)",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-27"
+      },
+      "evidence": {"capacity": ["YH4"], "status": ["YH4"], "ownership_json": ["YH5"]},
+      "confidence": 0.9,
+      "notes": "Yahua FY2025 annual report: Lijiagou is built for 1.05 Mt/yr mining and beneficiation (the earlier typo '105 t' resolved), to yield about 180-200 kt/yr lithium concentrate, entered formal production Sept 2025 and met design output; resource 38.8 Mt at 1.3% (0.502 Mt Li2O, 1.24 Mt LCE). Yahua holds 37.25% of Nengtou Lithium (能投锂业) with priority supply right (percentages found; earlier row said 'not found'); 能投锂业's own stake in Lijiagou/Dexin Mining is not stated in the filing. Purchases from 能投锂业 in 2025: RMB 254.8m (line 14633). Capacity 180,000 t kept (lower end of 180-200 kt)."
+    },
+    {
+      "action": "update", "id": "yahua-group-yaan-china",
+      "fields": {},
+      "evidence": {"status": ["YH6"]},
+      "confidence": 0.55,
+      "notes": "Yahua FY2025 annual report: lithium-salt bases are Ya'an Lithium (雅安锂业, 100%), Guoli (国理, Aba, 56.26%) and Xingsheng (兴晟, Meishan, 100%); group lithium-salt design capacity 'nearly 130,000 t/yr' (近 13 万吨) and 2025 output 68,615.26 t (2024: 48,324 t; sales 69,493.81 t) - no per-plant capacity or output is given. Ya'an: the 2021 private placement funded '雅安锂业 new 50,000 t/yr battery-grade LiOH + 11,000 t/yr LiCl' project - one 30,000 t/yr LiOH line was completed and put into use end-March 2023, and the remaining part was reassigned to another 30,000 t/yr LiOH line (Ya'an phase 3) whose plant was completed in Dec 2025 with equipment in commissioning (project closed April 2026). So Ya'an capacity is at least the earlier 20,000 t line + 30,000 t LiOH (2023) with a further 30,000 t LiOH line commissioning from Dec 2025 - the row's 20,000 t (2020) is stale but the total is not stated, so capacity is left unchanged; the LCE sum would be ~20 kt + 26.4 kt (LiOH monohydrate) + 26.4 kt. Lead: decide whether to allocate the 130 kt among Ya'an/Guoli/Xingsheng (Yahua LiOH 93,000 t + Li2CO3 36,000 t per the earlier 21st Century Business Herald citation)."
+    },
+    {
+      "action": "add", "id": "yahua-guoli-aba-china",
+      "fields": {
+        "asset_name": "Guoli Lithium Materials (国理公司) lithium salt plant, Aba Prefecture",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium salts (carbonate / hydroxide)", "asset_type": "lithium chemical plant",
+        "feedstock": "spodumene concentrate", "operator": "Sichuan Guoli Lithium Materials (四川国理锂材料)", "parent_company": "Sichuan Yahua Industrial Group",
+        "jv_partners": "Yahua Group 56.26% (minority holders not named)", "ownership_json": {"Sichuan Yahua Industrial Group (via Lithium Group)": 56.26},
+        "country": "China", "region": "China", "province_state": "Sichuan (Aba Prefecture)", "geo_precision": "none",
+        "status": "operational",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-27"
+      },
+      "evidence": {"status": ["YH6"], "ownership_json": ["YH9"]},
+      "confidence": 0.5,
+      "notes": "Yahua FY2025 annual report names Guoli as one of the three lithium-salt production bases (with Ya'an Lithium and Xingsheng); registered in Aba, Sichuan, Yahua 56.26%. Yahua entered lithium in 2014 via Guoli (which controls the Lijiagou mine interest historically). No per-plant capacity or output disclosed (group design capacity ~130 kt/yr, see yahua-group-yaan-china notes). Plant town not stated."
+    },
+    {
+      "action": "add", "id": "yahua-xingsheng-meishan-china",
+      "fields": {
+        "asset_name": "Xingsheng Lithium (兴晟锂业) lithium salt plant, Meishan",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium salts (carbonate / hydroxide)", "asset_type": "lithium chemical plant",
+        "feedstock": "spodumene concentrate", "operator": "Sichuan Xingsheng Lithium (四川兴晟锂业)", "parent_company": "Sichuan Yahua Industrial Group",
+        "ownership_json": {"Sichuan Yahua Industrial Group": 100},
+        "country": "China", "region": "China", "province_state": "Sichuan (Meishan)", "geo_precision": "none",
+        "status": "operational",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-27"
+      },
+      "evidence": {"status": ["YH6"], "ownership_json": ["YH10"]},
+      "confidence": 0.5,
+      "notes": "Yahua FY2025 annual report: Xingsheng Lithium (Meishan, 100%) is the third lithium-salt base; in 2025 it had total assets RMB 1.95bn, net liabilities RMB 0.30bn, revenue RMB 1.04bn and a net loss of RMB 0.43bn (主要子公司 table, line 2922; the table's business label '锂矿生产、销售' looks like a typo for lithium-salt production). Capacity and output not disclosed. Status operational is from the 'bases' statement; ramp state unknown."
+    },
+
+    {
+      "action": "update", "id": "sinomine-bikita-mine-zimbabwe",
+      "fields": {
+        "ownership_json": {"Sinomine Resource Group (100% via HK Sinomine Rare Metals and Afmin)": 100},
+        "installed_capacity": 600000, "installed_as_of": "2025-12-31",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-10"
+      },
+      "evidence": {"capacity": ["SM1"], "installed_capacity": ["SM1", "SM3"], "status": ["SM1"], "ownership_json": ["SM1b"]},
+      "confidence": 0.8,
+      "notes": "Sinomine FY2025 annual report: two plants at Bikita - a 2 Mt/yr spodumene flotation plant (~300,000 t/yr spodumene concentrate) and a 2 Mt/yr petalite gravity plant (~300,000 t/yr chemical-grade petalite concentrate) = 600,000 t/yr total, CONFIRMING the earlier combined 600 kt (the conflicting 400 kt / 2-3 Mt figures in search snippets are not supported). Company total beneficiation capacity at period end 4.18 Mt/yr ore = 2.0 + 2.0 (Bikita) + 0.18 (Tanco). Bikita Minerals is a 100% subsidiary of Afmin, itself 100% owned via HK Sinomine Rare Metals; acquired 2022. Resource (Dec 2025, in-situ remaining) 124.09 Mt ore at 0.95% Li2O = 2.924 Mt LCE (cumulative explored 3.434 Mt LCE). Mine-level production not disclosed; group lithium-salt output 37,408 t (2025). A 120万 t/a 'rebuild/expansion' project of Bikita is referred to in the funds-use table (line 5936). Grades differ (spodumene ~6%, petalite ~4%) so no LCE norm."
+    },
+    {
+      "action": "update", "id": "sinomine-tanco-canada",
+      "fields": {
+        "ownership_json": {"Sinomine Resource Group (100% via HK Sinomine Rare Metals)": 100},
+        "capacity": 180000, "capacity_unit": "t ore", "capacity_ref_year": 2025,
+        "installed_capacity": 180000, "installed_as_of": "2025-12-31",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-10"
+      },
+      "evidence": {"capacity": ["SM2"], "installed_capacity": ["SM2", "SM3"], "ownership_json": ["SM2b"], "status": ["SM2b"]},
+      "confidence": 0.65,
+      "notes": "Sinomine FY2025 annual report: Tanco (Bernic Lake, Manitoba) has a spodumene mining-and-processing system with 180,000 t/yr (18万吨) processing capacity (unit = ore throughput, not concentrate; Tanco produced Li2O >=7% spodumene concentrate historically). Tanco is the world's only producing pollucite-dominated mine; currently underground mining, with an underground-to-open-pit conversion under way (open-pit PFS in 2025: in-situ lithium ore reserves 10.664 Mt at 1.32% Li2O = 0.3473 Mt LCE). Tanco Mining Corp. of Canada Ltd is a 100% subsidiary of HK Sinomine Rare Metals. Lithium concentrate output not disclosed; no capacity in concentrate terms. Earlier row had only a Wikipedia source (confidence 0.3)."
+    },
+    {
+      "action": "update", "id": "sinomine-jiangxi-dongpeng-china",
+      "fields": {
+        "asset_name": "Jiangxi Sinomine Lithium (Zhongkuang Lithium, formerly Chunpeng) - battery-grade carbonate/hydroxide plants 1 and 2",
+        "operator": "Jiangxi Sinomine Lithium (中矿资源（江西）锂业有限公司, formerly Chunpeng Lithium)",
+        "ownership_json": {"Sinomine Resource Group (100% via Jiangxi Sinomine New Materials)": 100},
+        "feedstock": "spodumene and petalite concentrate (own Bikita mine)",
+        "capacity": 65000, "capacity_unit": "t LCE", "capacity_ref_year": 2026, "capacity_norm": 65000,
+        "installed_capacity": 60000, "installed_as_of": "2025-12-31", "installed_norm": 60000,
+        "capacity_by_year_json": {"2025": 60000, "2026": 65000},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-10"
+      },
+      "evidence": {"capacity": ["SM4", "SM3"], "installed_capacity": ["SM4"], "capacity_by_year_json": ["SM4"], "status": ["SM4"]},
+      "confidence": 0.85,
+      "notes": "Sinomine FY2025 annual report: Jiangxi Sinomine Lithium (formerly Chunpeng Lithium; wholly-owned subsidiary of Jiangxi Sinomine New Materials, formerly Dongpeng) operates two flexible battery-grade lithium carbonate/hydroxide lines: Plant 1 upgraded from 25,000 to 30,000 t/yr (retrofit started 2025-06-28, completed end-2025, trial production ignited 2026-01-02) and Plant 2 of 35,000 t/yr = 65,000 t/yr after the upgrade; company total 71,000 t/yr = 65,000 + the 6,000 t/yr LiF plant (see sinomine-jiangxi-zhongkuang-new-materials-lif-china). CONFLICT: the earlier Baidu Baike-based figure (44,000 t) and its 'New Materials' labelling are replaced - the New Materials entity (formerly Dongpeng) owns the LiF/Cs-Rb plant and the Zhongkuang Lithium subsidiary owns the lithium-salt plants. Entered as t LCE at face value for a flexible carbonate/hydroxide line (if all hydroxide, ~0.88 factor lowers it). installed 60,000 = 25,000 + 35,000 before the 2026-01-02 upgrade; capacity_by_year steps are my reading of the two dated states. Group output 2025: lithium salts 37,408.41 t (2024: 43,732.32 t incl. toll processing) - covers the LiF too; not allocated. Location: the filing gives only Jiangxi; the Xinyu city coordinates carried over from the older Baidu entry are unconfirmed (could be Yichun)."
+    },
+    {
+      "action": "add", "id": "sinomine-jiangxi-zhongkuang-new-materials-lif-china",
+      "fields": {
+        "asset_name": "Jiangxi Sinomine New Materials (formerly Dongpeng) - lithium fluoride and caesium/rubidium salts plant",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium fluoride; caesium and rubidium salts", "asset_type": "lithium chemical plant",
+        "operator": "Jiangxi Sinomine New Materials (中矿资源（江西）新材料有限公司, formerly Dongpeng)", "parent_company": "Sinomine Resource Group",
+        "ownership_json": {"Sinomine Resource Group": 100},
+        "country": "China", "region": "China", "province_state": "Jiangxi", "geo_precision": "none",
+        "status": "operational",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-10"
+      },
+      "evidence": {"status": ["SM5"]},
+      "confidence": 0.6,
+      "notes": "Sinomine FY2025 annual report: 6,000 t/yr battery-grade lithium fluoride plus caesium/rubidium salts plant of Jiangxi Sinomine New Materials (LiF supplies Tesla's supply chain). Capacity left null because lithium fluoride is not a unit in units.csv (6,000 t/yr LiF recorded here, ~ 5.7 kt LCE if converted at Li 26.8%/LiF - not applied). Overlaps the Cs/Rb business of another task. Production not separately reported (2025 caesium/rubidium fine chemicals output 622.66 t)."
+    },
+    {
+      "action": "update", "id": "sinomine-bikita-sulphate-plant-zimbabwe",
+      "fields": {},
+      "evidence": {"status": ["SM7"]},
+      "confidence": 0.55,
+      "notes": "Sinomine FY2025 annual report (published 2026-04-10) says the Zimbabwe lithium sulphate project has completed its feasibility study and preliminary design and that construction will START in 2026 (cost saving on concentrate transport) - so at the report date the project was not yet under construction; the SMM article of 2026-10-12 (existing evidence) reports building with completion July 2027. No capacity in the filing (the 100,000 t figure stays from SMM). Status left under_construction per the later SMM report; confidence reduced to 0.55."
+    },
+
+    {
+      "action": "update", "id": "chengxin-lithium-yelonggou-china",
+      "fields": {
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium), indirect": 75},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX6"], "status": ["SX6"], "ownership_json": ["SX6b"]},
+      "confidence": 0.9,
+      "notes": "Shengxin (English name: Chengxin Lithium Group) FY2025 annual report: Yelonggou (业隆沟) held by Jinchuan Aoyinuo Mining, 75% indirect (confirms the Mysteel 75%), put into production Nov 2019, ore 405,000 t/yr, ~75,000 t/yr lithium concentrate; resource Li2O 169,500 t at 1.34%. A retrofit project ('业隆沟锂矿区改造工程', CIP RMB 211m, ~96% progress) is under way - the post-retrofit capacity is not stated. Group concentrate production 2025: 299,776.35 t (2024: 285,992.40 t) for Aoyinuo + Sabi Star combined - not allocated. NAMING NOTE: the 'chengxin-lithium-*' mine rows and the 'shengxin-lithium-*' plant rows are the SAME company (盛新锂能 = Chengxin Lithium)."
+    },
+    {
+      "action": "update", "id": "chengxin-sabi-star-mine-zimbabwe",
+      "fields": {
+        "operator": "Max Mind (Zimbabwe) (Pvt) Ltd",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium), indirect via Max Mind Investment Ltd (HK) and Max Mind Investments (Mauritius)": 100},
+        "capacity": 290000, "capacity_unit": "t spodumene concentrate", "capacity_ref_year": 2025,
+        "installed_capacity": 290000, "installed_as_of": "2025-12-31",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX7"], "installed_capacity": ["SX7"], "status": ["SX7"], "ownership_json": ["SX7b"]},
+      "confidence": 0.85,
+      "notes": "Shengxin FY2025 annual report: Sabi Star lithium-tantalum project has 40 mining licence blocks, 5 with resources and in production (Li2O 88,500 t at 1.98%, the highest-grade producing lithium mine in Zimbabwe), production since May 2023, ore 990,000 t/yr, ~290,000 t/yr lithium concentrate (company figure replaces the USGS 300,000 t 'lithium concentrate' and the Modern Mining 25 ktpa snippet). The other 35 licences are in exploration. Max Mind Zimbabwe is 100% indirect; the new-construction CIP closed to RMB 7.5m at end-2025 (project cost budget 1.09bn, 102.91% spent). Concentrate production is only reported for the group (299,776 t, Aoyinuo + Sabi Star) - no mine-level output. Grade not stated -> no LCE norm."
+    },
+    {
+      "action": "update", "id": "chengxin-lithium-murong-china",
+      "fields": {
+        "ownership_json": {"Shengxin Lithium Energy (effective, at 2025-12-31)": 67.1},
+        "capacity_norm": 75000,
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX8"], "status": ["SX8"], "ownership_json": ["SX8b"]},
+      "confidence": 0.75,
+      "notes": "Shengxin FY2025 annual report: Murong (木绒) lithium mine (Huirong Mining, Yajiang), design scale 3 Mt/yr ore, 'about 75,000 t LCE' (company figure; replaces the 70,000 t Mysteel figure in capacity_norm), resource Li2O 989,600 t at 1.62%; pre-construction work (NDRC approval, land pre-approval, EIA of mining/beneficiation/tailings, mine safety design review) essentially complete and large-scale construction 'about to start'; CIP RMB 89.9m (1.89% of RMB 4.76bn budget). Status stays announced. Ownership: effective 67.10% at 2025-12-31 via Qicheng Mining (70%) + Shengtun Lithium; after the Feb 2026 agreement to buy Xiamen Chuangyi's 13.93% the company will hold 100% (29.03% via Shengtun Lithium + 70.97% via Qicheng) - completion not confirmed in the text."
+    },
+    {
+      "action": "update", "id": "shengxin-lithium-zhiyuan-china",
+      "fields": {
+        "asset_name": "Zhiyuan Lithium (致远锂业) plant, Mianzhu (Deyang)",
+        "province_state": "Sichuan (Deyang, Mianzhu De'e eco-industrial park)",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium)": 83.33},
+        "jv_partners": "Minority 16.67% held by third parties (not named in the filing)",
+        "capacity": 39942, "capacity_unit": "t LCE", "capacity_ref_year": 2025, "capacity_norm": 39942,
+        "installed_capacity": 39942, "installed_norm": 39942,
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX1"], "installed_capacity": ["SX1"], "status": ["SX1"], "ownership_json": ["SX1b"]},
+      "confidence": 0.85,
+      "notes": "Shengxin FY2025 annual report: Zhiyuan Lithium is located in the De'e eco-economic industrial park, Mianzhu, Deyang, Sichuan (RESOLVES the earlier Deyang-vs-Suining location conflict) with built capacity of 42,000 t/yr lithium salts = Li2CO3 25,000 + LiOH 15,000 + LiCl 2,000 t/yr. Capacity previously entered as 42,000 'LCE' at face value; now converted to LCE with units.csv factors: 25,000 + 15,000 x 0.880 + 2,000 x 0.871 = 39,942 t LCE (my arithmetic). Zhiyuan retrofit phase 2 ('致远锂业二期改造工程') is in progress (CIP RMB 31.7m, undated). Ownership 83.33% direct by Shengxin. Company totals (FY2025, line 386, 962-964, 1033): built lithium-salt capacity 137,000 t/yr = 77,000 t in Sichuan (Zhiyuan 42,000 + Suining Shengxin 30,000 + Shengxin Technology 5,000) + 60,000 t at Indonesia Shengtuo (IMIP), and 500 t/yr lithium metal; 2025 lithium product production 77,476.79 t (2024: 67,616.54 t), sales 72,815.92 t; design capacity table: Li2CO3 75,000 t (5,000 t under construction), LiOH 65,000 t, LiCl 2,000 t, lithium metal 3,000 t (2,500 t under construction)."
+    },
+    {
+      "action": "update", "id": "shengxin-lithium-suining-china",
+      "fields": {
+        "province_state": "Sichuan (Suining, Shehong Economic Development Zone lithium battery industrial park)",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium)": 100},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX2"], "installed_capacity": ["SX2"], "status": ["SX2"]},
+      "confidence": 0.85,
+      "notes": "Shengxin FY2025 annual report: Suining Shengxin (遂宁盛新, 100%) is in the Shehong Economic Development Zone lithium battery industrial park, Suining; built capacity 30,000 t/yr lithium salt, all flexible lines (carbonate or hydroxide on customer demand) - confirms the 30,000 t quote previously from a broker page. Entered as t LCE at face value (if all hydroxide ~26,400 t LCE). A separate Shengjing 20,000 t Li2CO3 project is at the early stage (see shengxin-lithium-shengjing-china)."
+    },
+    {
+      "action": "update", "id": "shengxin-lithium-suining-tech-china",
+      "fields": {
+        "feedstock": "salt-lake lithium resource raw materials (brine-derived)",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium)": 100},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX3"], "installed_capacity": ["SX3"], "status": ["SX3"]},
+      "confidence": 0.85,
+      "notes": "Shengxin FY2025 annual report: Shengxin Technology (盛新科技, Shehong industrial park, Suining) plans 10,000 t/yr lithium salt using salt-lake lithium raw materials to make battery-grade lithium carbonate or lithium chloride; Phase 1 5,000 t/yr built and in production; the other 5,000 t Li2CO3 is shown as under construction in the design-capacity table. The earlier doubt about the feedstock ('salt-lake') is resolved: it processes imported salt-lake-derived raw material, so it is a chemical plant, not an on-site brine operation."
+    },
+    {
+      "action": "update", "id": "shengxin-lithium-shengwei-china",
+      "fields": {
+        "province_state": "Sichuan (Suining, Shehong Economic Development Zone lithium battery industrial park)",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium)": 100},
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX5"], "installed_capacity": ["SX5"], "status": ["SX5"]},
+      "confidence": 0.8,
+      "notes": "Shengxin FY2025 annual report: Shengwei Lithium (盛威锂业, 100%, Shehong industrial park) planned capacity 3,000 t/yr lithium metal of which 500 t/yr built; the remaining 2,500 t/yr is shown as under-construction capacity (design completed, construction about to start). Ultra-thin wide lithium strip is in batch production. Confirms both the 3,000 t design and 500 t built figures previously from a broker page."
+    },
+    {
+      "action": "add", "id": "shengxin-lithium-shengtuo-indonesia",
+      "fields": {
+        "asset_name": "Indonesia Shengtuo Lithium (印尼盛拓) lithium salt plant, IMIP Morowali",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium salts (carbonate / hydroxide; product split not stated)", "asset_type": "lithium chemical plant",
+        "feedstock": "lithium concentrate (ore-based extraction)", "operator": "Indonesia Shengtuo Lithium Energy (印尼盛拓锂能有限公司)", "parent_company": "Shengxin Lithium Energy (Chengxin Lithium)",
+        "jv_partners": "Shengxin Lithium Energy 80% (indirect); 20% held by third parties (not named)", "ownership_json": {"Shengxin Lithium Energy (indirect)": 80},
+        "country": "Indonesia", "region": "Southeast Asia", "province_state": "Central Sulawesi (Morowali, IMIP)", "geo_precision": "none",
+        "status": "operational", "start_year": 2025,
+        "capacity": 60000, "capacity_unit": "t LCE", "capacity_ref_year": 2025,
+        "installed_capacity": 60000, "installed_as_of": "2025-12-31",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX4"], "installed_capacity": ["SX4"], "status": ["SX4"], "ownership_json": ["SX4b"]},
+      "confidence": 0.8,
+      "notes": "Shengxin FY2025 annual report: Indonesia Shengtuo, Morowali Industrial Park (IMIP), Central Sulawesi, built capacity 60,000 t/yr lithium salt (listed as the largest overseas-built ore-based lithium plant); capacity ramp-up and customer qualification under way, batch supply since August 2025; shares 80% indirect; total assets RMB 5.45bn. Entered at face value as t LCE (product mix carbonate/hydroxide not stated). Plant-level 2025 output not disclosed (group lithium products 77,476.79 t, with Indonesia inventory build noted as the reason for the 69% rise in stocks). Its construction-in-progress (RMB 2.52bn at start of 2025) was transferred to fixed assets in 2025."
+    },
+    {
+      "action": "add", "id": "shengxin-lithium-shengjing-china",
+      "fields": {
+        "asset_name": "Shengjing Lithium (盛景锂业) 20,000 t/yr lithium carbonate project, Shehong",
+        "step": "refining", "commodity": "lithium", "product": "lithium carbonate", "asset_type": "lithium chemical plant",
+        "operator": "Suining Shengjing Lithium (遂宁盛景锂业)", "parent_company": "Shengxin Lithium Energy (Chengxin Lithium)",
+        "ownership_json": {"Shengxin Lithium Energy (Chengxin Lithium)": 100},
+        "country": "China", "region": "China", "province_state": "Sichuan (Shehong)", "geo_precision": "none",
+        "status": "announced",
+        "capacity": 20000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2026,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX9"], "status": ["SX9"]},
+      "confidence": 0.4,
+      "notes": "Shengxin FY2025 annual report: '盛景年产 2 万吨碳酸锂项目' appears in the construction-in-progress table with only RMB 0.81m spent at end-2025 (Shengjing Lithium, Shehong, 100% subsidiary, EIA/pollutant permit listed) - preparatory stage, no schedule or description in the text; capacity ref year = publication-year fallback. Status announced."
+    },
+    {
+      "action": "add", "id": "chengxin-lithium-nigeria-ilorin-concentrator-nigeria",
+      "fields": {
+        "asset_name": "Ilorin spodumene concentrator (Nigeria), 500,000 t/yr",
+        "step": "mining", "commodity": "lithium", "product": "spodumene concentrate (planned)", "asset_type": "concentrator (ore beneficiation plant)",
+        "operator": "Shengxin Lithium Energy (Chengxin Lithium) - Nigerian subsidiary (not named for this project)", "parent_company": "Shengxin Lithium Energy (Chengxin Lithium)",
+        "country": "Nigeria", "region": "Africa", "province_state": "Kwara State (Ilorin)", "geo_precision": "none",
+        "status": "under_construction",
+        "capacity": 500000, "capacity_unit": "t ore", "capacity_ref_year": 2026,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX10"], "status": ["SX10"]},
+      "confidence": 0.45,
+      "notes": "Shengxin FY2025 annual report: construction-in-progress line '尼日利亚伊洛林 50 万吨锂辉石矿选矿厂' (Nigeria Ilorin 500,000 t spodumene concentrator) with RMB 63.0m booked at end-2025 plus RMB 100m of Nigerian project equipment in engineering materials; no description, owner entity, schedule or product tonnage in the text. '50 万吨' read as annual ore throughput (unit t ore) - unconfirmed (could be concentrate). Shengxin owns Chengxin Lithium (Nigeria) International Co. Ltd (a trading company, 100%). Status under_construction inferred from CIP; ref year = publication-year fallback."
+    },
+    {
+      "action": "add", "id": "chengxin-lithium-sdla-argentina",
+      "fields": {
+        "asset_name": "SDLA salt-lake lithium project (independent operating right), Argentina",
+        "step": "mining", "commodity": "lithium", "product": "lithium carbonate equivalent (brine)", "asset_type": "brine project",
+        "feedstock": "brine", "operator": "Shengxin Lithium Energy (Chengxin Lithium) - independent operating right (Argentine subsidiaries Salta Exploraciones S.A. / Hantara S.A., relation to the project not stated)", "parent_company": "Shengxin Lithium Energy (Chengxin Lithium)",
+        "country": "Argentina", "region": "South America", "geo_precision": "none",
+        "status": "announced",
+        "capacity": 2500, "capacity_unit": "t LCE", "capacity_ref_year": 2026,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "source_date": "2026-11-27", "source_published_date": "2026-03-28"
+      },
+      "evidence": {"capacity": ["SX11"], "status": ["SX11"]},
+      "confidence": 0.4,
+      "notes": "Shengxin FY2025 annual report: through its control of Huirong Mining the company 'holds the independent operating right' of the Argentine SDLA salt-lake project with annual capacity 2,500 t LCE (the acronym SDLA is not expanded in the text); the company says it will 'actively promote development, construction and production start-up' of this and the Pocitos exploration projects, i.e. not yet producing. Capacity ref year = publication-year fallback; status announced (no construction evidence in the text). Pocitos is exploration only - no row."
+    },
+
+    {
+      "action": "add", "id": "tianhua-sichuan-tianhua-meishan-china",
+      "fields": {
+        "asset_name": "Sichuan Tianhua Shidai Lithium Energy (四川天华时代锂能) lithium hydroxide plant, Meishan",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium hydroxide (flexible to lithium carbonate)", "asset_type": "lithium chemical plant",
+        "feedstock": "spodumene concentrate", "operator": "Sichuan Tianhua Shidai Lithium Energy (四川天华时代锂能)", "parent_company": "Tianhua New Energy Technology (Suzhou) (天华新能, formerly Tianhua Chaojing)",
+        "ownership_json": {"Tianhua New Energy (direct)": 92.5, "Tianhua New Energy (indirect)": 7.25},
+        "country": "China", "region": "China", "province_state": "Sichuan (Meishan, Dongpo District)", "latitude": 30.07, "longitude": 103.85, "geo_precision": "city",
+        "status": "operational", "start_year": 2023,
+        "capacity": 60000, "capacity_unit": "t LiOH", "capacity_ref_year": 2025,
+        "installed_capacity": 60000, "installed_as_of": "2025-12-31",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-02"
+      },
+      "evidence": {"capacity": ["TH1"], "installed_capacity": ["TH1"], "status": ["TH1"], "ownership_json": ["TH1c"]},
+      "confidence": 0.65,
+      "notes": "Tianhua (Suzhou Tianhua New Energy) FY2025 annual report (corrected): Sichuan Tianhua Shidai (Meishan, Dongpo District, Xiuwen town; 92.5% direct + 7.25% indirect) built the 60,000 t/yr battery-grade lithium hydroxide project funded by the 2022 private placement (RMB 1.54bn invested, 99.4%; reached usable state ~2023-06-30 per the garbled funds-use table; start_year 2023 from that table). The Meishan line is flexible between battery-grade carbonate and hydroxide. Phase 2 ('二期年产 6 万吨电池级氢氧化锂建设项目', RMB 8.8m construction-in-progress at end-2025) is early-stage and undated - NOT included in capacity (would make 120,000 t/yr); the report says it will push Meishan Phase 2 forward in 2026. 2025 company financials: Sichuan Tianhua total assets RMB 5.28bn, revenue RMB 4.71bn, net profit RMB 120m. The filing does not give tonnage output (the production table is in RMB 10,000: lithium battery materials 614,183.53 万元 produced, 666,728.06 万元 sold, group). Group-level: lithium battery materials revenue is dominated by Meishan and Yibin (Tianyi)."
+    },
+    {
+      "action": "add", "id": "tianhua-yibin-tianyi-china",
+      "fields": {
+        "asset_name": "Yibin Tianyi Lithium (天宜锂业) / Weineng Lithium plant, Jiang'an County, Yibin",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium hydroxide (and carbonate)", "asset_type": "lithium chemical plant",
+        "feedstock": "spodumene concentrate", "operator": "Yibin Tianyi Lithium Technology (宜宾市天宜锂业科创有限公司)", "parent_company": "Tianhua New Energy Technology (Suzhou) (天华新能, formerly Tianhua Chaojing)",
+        "jv_partners": "Tianhua New Energy 75% (indirect: 25% held by others)", "ownership_json": {"Tianhua New Energy": 75},
+        "country": "China", "region": "China", "province_state": "Sichuan (Yibin, Jiang'an County)", "latitude": 28.72, "longitude": 105.07, "geo_precision": "town",
+        "status": "operational",
+        "capacity": 25000, "capacity_unit": "t LiOH", "capacity_ref_year": 2023,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-02"
+      },
+      "evidence": {"capacity": ["TH2"], "ownership_json": ["TH2b"]},
+      "confidence": 0.4,
+      "notes": "Tianhua FY2025 annual report: Tianyi Lithium (Yibin, Jiang'an County, 75% held) is the group's main lithium-salt subsidiary (2025 total assets RMB 15.28bn, revenue RMB 4.72bn, net profit RMB 313m) but the report gives NO plant capacity for it. The only Yibin tonnage is the funds-use table line 'Yibin Weineng Lithium Phase 1 25,000 t/yr battery-grade lithium hydroxide' (completed ~2023-12-31, RMB 200m budget, 100.18% invested; text fragmented by PDF extraction). Capacity 25,000 t LiOH is therefore a FLOOR from that one project; revenue implies a larger plant (RMB 4.72bn at ~RMB 70k/t suggests tens of kt). The Weineng project's exact relation to Tianyi (merged or neighbouring) is not stated - recorded as one Yibin row to avoid double-counting. Tianyi also has a 3,000 t/yr anhydrous-LiOH retrofit project in construction (RMB 4.2m CIP). Status operational (revenue, no ramp statement). capacity_ref_year 2023 = completion of the Weineng project."
+    },
+    {
+      "action": "add", "id": "tianhua-lithium-carbonate-line2-china",
+      "fields": {
+        "asset_name": "Tianhua 26,500 t/yr battery-grade lithium carbonate second line (site not stated)",
+        "step": "refining", "commodity": "lithium", "product": "battery-grade lithium carbonate", "asset_type": "lithium chemical plant",
+        "operator": "Tianhua New Energy Technology (Suzhou) (subsidiary not stated)", "parent_company": "Tianhua New Energy Technology (Suzhou) (天华新能, formerly Tianhua Chaojing)",
+        "country": "China", "region": "China", "geo_precision": "none",
+        "status": "operational", "start_year": 2025,
+        "capacity": 26500, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-02"
+      },
+      "evidence": {"capacity": ["TH3"]},
+      "confidence": 0.35,
+      "notes": "Tianhua FY2025 annual report construction-in-progress table: '年产 2.65 万吨电池级碳酸锂二线' (26,500 t/yr battery-grade Li2CO3 second line), budget RMB 140m, opening balance RMB 1.6m, RMB 116.0m spent in 2025, transferred RMB 117.6m to fixed assets in 2025 (project progress 100%). The report does not say which subsidiary or site owns the line (likely Yibin/Tianyi or Meishan) - if it belongs to the Yibin or Meishan plants, MERGE it into that row. Status operational inferred from the transfer to fixed assets (no commissioning statement); start year 2025 from the transfer. Low confidence."
+    },
+    {
+      "action": "add", "id": "tianhua-fengxin-shidai-china",
+      "fields": {
+        "asset_name": "Fengxin Shidai New Energy Materials (奉新时代) Phase 1 30,000 t/yr lithium carbonate plant, Fengxin County",
+        "step": "refining", "commodity": "lithium", "product": "lithium carbonate", "asset_type": "lithium chemical plant",
+        "feedstock": "lithium-bearing ceramic clay / lepidolite (inferred; not stated)", "operator": "Fengxin Shidai New Energy Materials (奉新时代新能源材料)", "parent_company": "Tianhua New Energy Technology (Suzhou) (天华新能, formerly Tianhua Chaojing)",
+        "ownership_json": {"Tianhua New Energy (indirect)": 75},
+        "country": "China", "region": "China", "province_state": "Jiangxi (Yichun, Fengxin County)", "latitude": 28.70, "longitude": 115.38, "geo_precision": "town",
+        "status": "operational", "start_year": 2025,
+        "capacity": 30000, "capacity_unit": "t Li2CO3", "capacity_ref_year": 2025,
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-02"
+      },
+      "evidence": {"capacity": ["TH4"], "status": ["TH4"], "ownership_json": ["TH4b"]},
+      "confidence": 0.45,
+      "notes": "Tianhua FY2025 annual report: construction-in-progress table lists '奉新时代一期 3 万吨碳酸锂项目' (Fengxin Shidai Phase 1, 30,000 t/yr lithium carbonate), budget RMB 1.50bn, 128.4% spent / 100% progress, RMB 32.0m transferred to fixed assets in 2025 with RMB 4.1m left in CIP - i.e. completed in 2025; Fengxin Shidai is 75%-owned (acquired by equity purchase), in the Fengxin High-tech Industrial Park, Yichun, Jiangxi (registered address). Status operational is INFERRED from the transfer to fixed assets (no commissioning/ramp statement; no output disclosed). Feedstock not stated. Possible link with the cancelled CATL/Tianhua 100,000 t Fengxin lithium carbonate project (catl-fengxin-lithium-carbonate-china) - the filing does not mention it; CATL's subsidiary (Fengxin Shidai New Energy Resources) is a >5% shareholder of Tianhua (line 12199). Coordinates = Fengxin county seat (approximate)."
+    },
+    {
+      "action": "add", "id": "tianhua-jinzifeng-mine-china",
+      "fields": {
+        "asset_name": "Jinzifeng (Fengxin) - Zuojiali (Yifeng) lithium-bearing ceramic clay mine",
+        "step": "mining", "commodity": "lithium", "product": "lithium-bearing ceramic clay (lepidolite-type ore)", "asset_type": "hard-rock mine",
+        "feedstock": "lithium-bearing ceramic clay", "operator": "Yichun Shengyuan Lithium (宜春盛源锂业)", "parent_company": "Tianhua New Energy Technology (Suzhou) (天华新能, formerly Tianhua Chaojing)",
+        "ownership_json": {"Tianhua New Energy (indirect, consolidated)": 41.25},
+        "country": "China", "region": "China", "province_state": "Jiangxi (Yichun: Fengxin / Yifeng)", "geo_precision": "none",
+        "status": "announced",
+        "end_market": "battery",
+        "source_url": "http://static.cninfo.com.cn/finalpage/2026-04-02/1225077003.PDF", "source_date": "2026-11-27", "source_published_date": "2026-04-02"
+      },
+      "evidence": {"status": ["TH5"], "ownership_json": ["TH5b"]},
+      "confidence": 0.45,
+      "notes": "Tianhua FY2025 annual report: subsidiary Yichun Shengyuan obtained the mining licence for the Jinzifeng (Fengxin) - Zuojiali (Yifeng) lithium-bearing ceramic-clay mine in 2025; the 2026 plan is to push the 'Jinzifeng project' (with the DRC and Nigeria projects); CIP RMB 2.5m. No capacity, resource or schedule in the text; status announced (licence + development decision, no works evidenced). Shengyuan is consolidated with 41.25% indirect ownership (after Fengxin Shidai and Jiangxi Feiyu capital increases, 2025). Also in the report (not added: exploration only): Daofu Rongxuka South lithium exploration licence (Sichuan Tianhua, auction win), and the group's offtake/equity positions in Brazilian, DRC, Nigerian, Zimbabwean and Australian mines (no tonnages)."
+    }
+  ]
+}
