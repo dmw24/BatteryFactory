@@ -1,0 +1,35 @@
+capacity_unit,norm_unit,factor,basis
+t LCE,t LCE,1,as stated
+t Li2CO3,t LCE,1,lithium carbonate = LCE
+t LiOH,t LCE,0.880,LiOH·H2O to LCE (73.89/83.97); D-102 assumes monohydrate unless stated anhydrous
+t LiOH anhydrous,t LCE,1.543,LiOH (23.95) to LCE (73.89/2/23.95)
+t Li,t LCE,5.323,Li metal to LCE
+t Li2O,t LCE,2.473,Li2O to LCE
+t SC6,t LCE,0.148,spodumene concentrate 6% Li2O x 2.473 (D-102; grade-specific values in notes override)
+t spodumene concentrate,t LCE,,grade must be stated in notes; normalised only via capacity_lce_t
+t lepidolite concentrate,t LCE,,grade varies (2-3% Li2O); normalised only via capacity_lce_t
+t LiCl,t LCE,0.871,LiCl to LCE
+t Ni,t Ni,1,contained nickel
+t NiSO4,t Ni,0.2233,NiSO4·6H2O to Ni
+t Ni in MHP,t Ni,1,contained nickel
+t Ni in matte,t Ni,1,contained nickel
+t NPI Ni,t Ni,1,contained nickel
+t ore,t ore,1,ore (not normalised)
+t Co,t Co,1,contained cobalt
+t CoSO4,t Co,0.2097,CoSO4·7H2O to Co
+t Co(OH)2 Co,t Co,1,contained cobalt
+t Mn,t Mn,1,contained manganese
+t MnSO4,t Mn,0.325,MnSO4·H2O to Mn
+t Mn ore,t Mn ore,1,ore (not normalised)
+t graphite,t graphite,1,natural graphite concentrate or anode material as named in product
+t CAM,t CAM,1,cathode active material
+t pCAM,t pCAM,1,precursor
+t FePO4,t FePO4,1,iron phosphate
+t anode,t anode,1,anode active material
+t electrolyte,t electrolyte,1,liquid electrolyte
+t LiPF6,t LiPF6,1,lithium hexafluorophosphate
+Mm2 separator,Mm2,1,million square metres per year
+t copper foil,t copper foil,1,battery copper foil
+t aluminium foil,t aluminium foil,1,battery aluminium foil
+t black mass,t black mass,1,recycling output
+t feed,t feed,1,recycling input (batteries/scrap)

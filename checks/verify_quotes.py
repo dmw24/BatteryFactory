@@ -73,8 +73,9 @@ def main():
     ap.add_argument("--task", required=True)
     ap.add_argument("--sample", type=int, default=15)
     ap.add_argument("--seed", type=int, default=1)
+    ap.add_argument("--sc", action="store_true", help="supply-chain evidence (data/supply_chain/field_evidence.csv)")
     a = ap.parse_args()
-    ev = pd.read_csv(os.path.join(ROOT, "data/field_evidence.csv"))
+    ev = pd.read_csv(os.path.join(ROOT, "data/supply_chain/field_evidence.csv" if a.sc else "data/field_evidence.csv"))
     ev = ev[ev.task == a.task].drop_duplicates("source_id")
     rows = ev.sample(min(a.sample, len(ev)), random_state=a.seed) if len(ev) else ev
     cache, counts = {}, {"FOUND": 0, "MISSING": 0, "FETCH_FAIL": 0, "SCANNED_PDF": 0, "REPORTED_TIER": 0}

@@ -1,0 +1,136 @@
+                                               GRAPHITE (NATURAL)
+                                     (Data in metric tons unless otherwise specified)
+
+Domestic Production and Use: In 2025, no natural graphite was produced domestically in the United States.
+Domestic production of amorphous graphite was last recorded in Montana in 1989, and flake graphite was last
+produced in Texas in 1979. In 2025, U.S. companies consumed an estimated 71,000 tons of natural graphite valued
+at $128 million. Natural graphite was widely used in batteries, brake linings, lubricants, powdered metals, refractory
+applications, and steelmaking, and was also incorporated into some defense-related materials and components.
+During 2025, U.S. natural graphite imports were an estimated 79,000 tons, consisting of 73.4% flake and high-purity,
+26.2% amorphous, and 0.4% lump and chip graphite.
+
+Salient Statistics—United States:                                        2021      2022      2023      2024      2025e
+Production, mine                                                            —         —         —         —         —
+Imports for consumption                                                 53,000    89,200    73,500    73,900    79,000
+Exports                                                                  8,660     9,500     7,780     8,740     8,400
+Consumption, apparent1                                                  44,300    79,700    65,700    65,200    71,000
+Price, average unit value of imports, dollars per metric ton at
+  foreign ports:
+  Flake                                                                  1,330     1,200     1,080     1,050     1,000
+  Lump and chip (Sri Lanka)                                              2,010     2,590     2,380     2,810     2,600
+  Amorphous                                                                629       563       607       535       470
+Net import reliance1 as a percentage of apparent consumption               100       100       100       100       100
+
+Recycling: Refractory brick and linings, alumina-graphite refractories for continuous metal castings, magnesia-
+graphite refractory brick for basic oxygen and electric arc furnaces, and insulation brick was increasing, with material
+being recycled into products such as brake linings and thermal insulation. The abundance of graphite in the world
+market inhibits increased recycling efforts. Information on the quantity and value of recycled graphite was not
+available.
+
+Import Sources (2021–24): China,2 46%; Canada, 13%; Mozambique, 13%; Mexico, 12%; and other, 16%.
+
+Tariff:   Item                                                    Number                   Normal Trade Relations
+                                                                                                 12–31–25
+Crystalline flake (not including flake dust)                  2504.10.1000                         Free.
+Powder                                                        2504.10.5000                         Free.
+Other                                                         2504.90.0000                         Free.
+
+Depletion Allowance: Lump and amorphous, 22% (domestic) and flake, 14% (domestic and foreign).
+
+Government Stockpile: None.
+
+Events, Trends, and Issues: In 2022, U.S. apparent consumption of natural graphite reached its highest level since
+1978 and remained elevated through 2025. Imports of graphite battery anode material, natural and synthetic, during
+the first 8 months of 2025 were 43,400 tons compared with 28,100 tons for the same period in 2024. The leading
+sources in 2025 were China (55%), Indonesia (31%), and the Republic of Korea (14%).
+
+In December 2024, a group of graphite producers based in North America submitted a petition asking the
+U.S. Department of Commerce (DOC) and the U.S. International Trade Commission (ITC) to review China’s trade
+practices involving graphite active anode material (AAM). The ITC determined that AAM from China was likely being
+sold at less than fair market value in the United States. In 2025, the DOC released its preliminary results, which set
+antidumping duties at 93.50% and countervailing duties ranging from 11.58% to 721.03% depending on the company.
+
+In 2025, China was the world’s leading natural graphite supplier, producing an estimated 82% of total world
+production. Most production of natural graphite in China was crystalline flake. During the first 9 months of the year,
+China exported 115,000 tons of natural graphite, 6% more than the 109,000 tons exported during the same period in
+2024. During the first 9 months of 2025, China exported 37,400 tons of spherical purified graphite (SPG), 29% more
+than the 29,100 tons exported during the same period in 2024. The leading recipients of natural graphite from China
+in the first 9 months of 2025 were Japan (36%), Indonesia (22%), the Republic of Korea (10%), and Germany
+(8%). The leading recipients of SPG from China in the first 9 months of 2025 were the Republic of Korea (40%),
+Indonesia (33%), Japan (16%), and the United States (11%). The increase of exports to Indonesia were likely owing
+to a Chinese company’s new SPG facility that began production in Central Java, Indonesia. Chinese companies were
+also developing or considering SPG facilities in Finland, Malaysia, Morocco, Oman, and Sweden.
+Prepared by Andrew A. Stewart [(703) 648–7723, astewart@usgs.gov]
+                                                     GRAPHITE (NATURAL)
+Five companies were considering or developing graphite-mining projects in the United States: two in Alabama, one in
+Alaska, one in Montana, and one in New York. In Alaska, the company completed a feasibility study in 2025, which
+included plans to produce an average of 175,000 tons per year of graphite concentrate over 20 years. The project
+was also added to the Fixing America’s Surface Transport Act dashboard, which seeks to decrease permitting
+timelines. In New York, a zinc producer continued development of the Kilbourne graphite deposit near its existing zinc
+mine. The company also began construction of a graphite demonstration plant to produce natural graphite
+concentrate for qualification purposes.
+
+In 2025, Tanzania more than doubled graphite production to 75,000 tons. Commercial production began in 2017 with
+a Tanzanian company in Manyara, and in 2019 a Chinese company started production in Tanga. In 2024, Australian
+and Chinese companies commissioned graphite mines in Lindi and Manyara, respectively. In Mozambique, a Chinese
+company began production at a new graphite mine in Niassa and an Australian company restarted production at the
+Balama Mine in June after being suspended since late 2024. In Brazil, two companies continued to ramp up
+production at the Boa Sorte and Santa Cruz graphite mines, both of which began production in 2024. Additionally, a
+Russian company began graphite production at the Soyuznoye deposit in 2025.
+
+SPG was produced in the United States by two companies in Illinois and Louisiana. In Alabama, a company
+commissioned an SPG qualification line at its plant in Kellyton. At least eight other companies were considering SPG
+plants in the United States. In Australia, a company commissioned an SPG demonstration plant in Queensland.
+
+World Mine Production and Reserves: Significant revisions were made to the 2024 production for Austria, Brazil,
+Canada, India, the Republic of Korea, Mexico, Mozambique, Norway, Tanzania, Ukraine, and Vietnam based on
+company and Government reports. Reserves for China were revised based on Government reports.
+
+                                                             Mine production                            Reserves3
+                                                                2024       2025e
+United States                                                     —           —                                 (4)
+Austria                                                          100         200                                (4)
+Brazil                                                       58,000       65,000                        74,000,000
+Canada                                                       11,700        8,000                         5,900,000
+China                                                     1,270,000   1,400,000                        100,000,000
+Germany                                                          140         140                                (4)
+India                                                        17,600       17,000                         8,600,000
+Korea, North                                                  e
+                                                               8,100       8,000                         2,000,000
+Korea, Republic of                                             1,000         500                         1,800,000
+Madagascar                                                   85,000       80,000                        27,000,000
+Mexico                                                           706         740                         3,100,000
+Mozambique                                                   39,000       60,000                        25,000,000
+Norway                                                         5,340       6,600                           600,000
+Russia                                                      e
+                                                             20,000       25,000                        14,000,000
+Sri Lanka                                                      3,000       3,200                         1,500,000
+Tanzania                                                    e
+                                                             27,000       75,000                        18,000,000
+Turkey                                                         2,600       2,200                         6,900,000
+Ukraine                                                          900         800                                (4)
+Vietnam                                                          500         500                         9,700,000
+  World total (rounded)                                   1,550,000   1,800,000                        310,000,000
+
+World Resources:3 Domestic resources of graphite are relatively small, but the rest of the world’s resources exceed
+800 million tons of recoverable graphite.
+
+Substitutes: Synthetic graphite powder, scrap from discarded machined shapes, and calcined petroleum coke
+compete for use in iron and steel production. Synthetic graphite powder and secondary synthetic graphite from
+machining graphite shapes compete for use in battery applications. Finely ground coke with olivine is a potential
+competitor in foundry-facing applications. Molybdenum disulfide competes as a dry lubricant but is more sensitive to
+oxidizing conditions.
+
+e
+ Estimated. — Zero.
+1
+ Defined as imports – exports.
+2
+ Includes Hong Kong.
+3
+ See Appendix C for resource and reserve definitions and information concerning data sources.
+4
+ Included in “World total.”
+
+                                                  U.S. Geological Survey, Mineral Commodity Summaries, February 2026
+

@@ -132,3 +132,16 @@ capacity_unallocated). company_utilisation.csv sets disclosed output against dis
 our site-level producing capacity: output above our producing capacity proves missing site capacity (e.g. CATL 2022
 output 325 GWh vs our sites 108; Ganfeng 2025 27 vs 10). Korean DART reports give utilisation only (LGES 2023–25:
 69.3% / 57.8% / 47.6%), capacity in KRW.
+
+## D-101 (2026-11-27, lead) Supply-chain phase: separate asset database
+Supply-chain assets live in `supply_chain.db` / `sc_assets.csv`, built from `data/supply_chain/patches/` by
+`scripts/sc_build.py`, checked by `checks/sc_checks.py` (spec: team/SPEC_SUPPLY_CHAIN.md). Regions use 11 values
+suited to mining (Australia & Oceania, South America, Africa, …) instead of the 8 cell regions.
+## D-102 (2026-11-27, lead) Unit normalisation
+Capacity/production are recorded as stated; normalised values use data/supply_chain/units.csv (LiOH·H2O ×0.880 → LCE,
+SC6 ×0.148 → LCE, NiSO4·6H2O ×0.2233 → Ni, CoSO4·7H2O ×0.2097 → Co). Concentrates of unstated grade are not normalised.
+USGS lithium production is in t Li content (×5.323 → LCE).
+## D-103 (2026-11-27, lead) Brine operations
+A salar/salt-lake operation producing carbonate or chloride on site is one `mining` row (product = the chemical);
+a separate downstream plant (e.g. off-salar carbonate/hydroxide plant) is a `refining` row. Refining comparisons count
+both.

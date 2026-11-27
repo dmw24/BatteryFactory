@@ -1,0 +1,148 @@
+                                                 MANGANESE
+                      (Data in thousand metric tons, gross weight, unless otherwise specified)
+
+Domestic Production and Use: Manganese ore containing 20% or more manganese has not been produced
+domestically since 1970. Manganese ore was consumed mainly by five companies: three companies produced
+manganese dioxide for pig iron manufacture, and two companies produced silicomanganese and ferromanganese.
+Other companies consumed ore for nonmetallurgical purposes, such as in the production of animal feed, brick
+colorant, dry cell batteries, and fertilizers.
+
+Salient Statistics—United States:1                                   2021     2022      2023     2024      2025e
+Production, mine                                                       —        —         —        —          —
+Imports for consumption:
+  Manganese ores and concentrates                                     497       566       245     329       350
+  Ferromanganese                                                      329       330       320     305       350
+  Silicomanganese                                                     313       420       257     344       310
+Exports:
+  Manganese ores and concentrates                                        1        1         2         3       2
+  Ferromanganese                                                         9        3         2         2       3
+  Silicomanganese                                                        5        3         4         6      10
+Shipments from Government stockpile:2
+  Manganese ore                                                         2        —        NA         NA      NA
+  Ferromanganese and manganese metal, electrolytic                     21        14       NA         NA      NA
+Consumption, reported:
+  Manganese ore3                                                      399      357       321      403       410
+  Ferromanganese                                                      335      339       336     e
+                                                                                                  330       350
+  Silicomanganese                                                     237      234       230     e
+                                                                                                  230       250
+Consumption, apparent, manganese content4                             717      804       653     e
+                                                                                                  670       640
+Price, average, manganese content, cost, insurance, and freight,      5.27     5.97      4.80    5.53       4.50
+  China, dollars per metric ton unit5
+Stocks, producer and consumer, yearend:
+  Manganese ore3                                                      220       312       233     188       200
+  Ferromanganese                                                       40        50        27     e
+                                                                                                   40        40
+  Silicomanganese                                                      34        26        18     e
+                                                                                                   30        30
+Net import reliance6 as a percentage of apparent consumption,         100       100       100     100       100
+  manganese content
+
+Recycling: Manganese was recycled incidentally as a constituent of ferrous and nonferrous scrap; however, scrap
+recovery specifically for manganese was negligible. Manganese is recovered along with iron from steel slag.
+
+Import Sources (2021–24): Manganese ore: Gabon, 64%; South Africa, 24%; Mexico, 12%; and other, <1%.
+Ferromanganese: Malaysia, 26%; Australia, 16%; Norway, 16%; South Africa, 14%; and other, 28%. Silicomanganese:
+Georgia, 24%; South Africa, 23%; Australia, 18%; Malaysia, 13%; and other, 22%. Manganese contained in principal
+manganese imports:7 Gabon, 23%; South Africa, 21%; Malaysia, 11%; Australia, 10%; and other, 35%.
+
+Tariff:   Item                                               Number                   Normal Trade Relations
+                                                                                            12–31–25
+Ores and concentrates:
+ Containing less than 47% manganese                       2602.00.0040                       Free.
+ Containing 47% or more of manganese                      2602.00.0060                       Free.
+Manganese dioxide                                         2820.10.0000                  4.7% ad valorem.
+Ferromanganese, containing by weight:
+ More than 2% but less than 4% carbon                     7202.11.1000                  1.4% ad valorem.
+ More than 4% carbon                                      7202.11.5000                  1.5% ad valorem.
+ 1% or less carbon                                        7202.19.1000                  2.3% ad valorem.
+ More than 1% but less than 2% carbon                     7202.19.5000                  1.4% ad valorem.
+Ferrosilicon manganese (silicomanganese)                  7202.30.0000                  3.9% ad valorem.
+Metal, unwrought:
+ Flake containing at least 99.5% manganese                8111.00.4700                   14% ad valorem.
+ Other                                                    8111.00.4900                   14% ad valorem.
+
+Depletion Allowance: 22% (domestic), 14% (foreign).
+
+
+Prepared by Ji-Eun Kim [(703) 648–7717, ji-eunkim@usgs.gov]
+                                                               MANGANESE
+Government Stockpile:8
+
+                                                                FY 2025                                          FY 2026
+                                                      Potential         Potential                      Potential         Potential
+Material                                             acquisitions       disposals                     acquisitions       disposals
+Manganese ore, metallurgical grade                       —                292                            NA                 NA
+Ferromanganese, high carbon                              —                 18                            NA                 NA
+Manganese metal, electrolytic                            5                 —                             NA                 NA
+
+Events, Trends, and Issues: In 2025, global production of manganese ore, on a manganese-content basis,
+increased from that in 2024. The leading countries for manganese ore production were, in descending order on a
+manganese-content basis, South Africa, Gabon, Ghana, and Australia. Consumption of manganese closely follows
+the steel industry. The World Steel Association9 estimated global finished steel consumption was unchanged in 2025
+compared with that in 2024. On a manganese-content basis, total U.S. manganese imports were estimated to have
+decreased by 5% in 2025 compared with those in 2024. In October 2025, the year-to-date average spot market prices
+for manganese ore, 44% grade, from China had decreased by 22% compared with the annual average spot price in
+2024. A manganese mine in northern Australia that suspended its operation in 2024 owing to a tropical cyclone
+resumed operation in May 2025.
+
+World Mine Production (manganese content) and Reserves: Significant revisions were made to the 2024
+production for Australia and Ghana based on company and Government reports. Reserves for Australia, Brazil,
+China, Malaysia, and South Africa were revised based on company and Government reports.
+
+                                                                         Mine production                                            Reserves10
+                                                                          2024     2025e
+United States                                                               —         —                                                      —
+Australia                                                               e
+                                                                         1,600     1,600                                              11
+                                                                                                                                        580,000
+Brazil                                                                     705       800                                                300,000
+China                                                                      690       700                                                260,000
+Côte d’Ivoire                                                              340       350                                                    NA
+Gabon                                                                    4,640     5,000                                                 61,000
+Ghana                                                                    1,280     2,000                                                 13,000
+India                                                                      731       790                                                 34,000
+South Africa                                                             7,490     7,600                                                550,000
+Other countries                                                          1,240     1,300                                                  Small
+  World total (rounded)                                                 18,700    20,000                                              1,800,000
+
+World Resources:10 Land-based manganese resources are large but irregularly distributed; those in the
+United States are very low grade and have potentially high extraction costs. South Africa accounts for an estimated
+70% of the world’s manganese resources.
+
+Substitutes: Manganese has no satisfactory substitute in its major applications.
+
+
+
+e
+ Estimated. NA Not available. — Zero.
+1
+ Manganese content typically ranges from 35% to 54% for manganese ore and from 74% to 95% for ferromanganese.
+2
+ Defined as change in total inventory from prior yearend inventory. If negative, increase in inventory. Beginning in 2023, Government stock
+changes no longer available.
+3
+ Exclusive of ore consumed directly at iron and steel plants and associated yearend stocks.
+4
+ Defined for 2021–22 as imports – exports ± adjustments for Government and industry stock changes. Beginning in 2023, Government stock
+changes no longer included. Manganese content based on estimates of average content for all significant components—including ferromanganese,
+manganese dioxide, manganese ore, manganese waste and scrap, silicomanganese, unwrought manganese metal, and wrought manganese metal.
+5
+ For average metallurgical-grade ore containing 44% manganese. Source: CRU Group.
+6
+ Defined for 2021–22 as imports – exports ± adjustments for Government and industry stock changes. Beginning in 2023, Government stock
+changes no longer included.
+7
+ Includes imports of ferromanganese, manganese dioxide, manganese ore, silicomanganese, and unwrought manganese metal.
+8
+ See Appendix B for definitions. For fiscal year 2026, the Annual Materials Plan was not released.
+9
+ Source: World Steel Association, 2025, Short range outlook October 2025: Brussels, Belgium, World Steel Association press release, October 13, 3 p.
+10
+  See Appendix C for resource and reserve definitions and information concerning data sources.
+11
+  For Australia, Joint Ore Reserves Committee-compliant or equivalent reserves were 110 million tons.
+
+                                                    U.S. Geological Survey, Mineral Commodity Summaries, February 2026
+
