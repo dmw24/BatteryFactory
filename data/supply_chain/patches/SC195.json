@@ -1,0 +1,416 @@
+{
+ "task": "SC195",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.news.cn/20251001/ec81e5770f40416aa2cd631f86f524e4/c.html",
+   "publisher": "Xinhua (news.cn)",
+   "published": "2025-10-01",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "中国五矿所属中国盐湖集团“4+2”万吨锂盐项目在青海格尔木顺利投产 ... “4+2”万吨锂盐项目是指中国盐湖集团4万吨/年基础锂盐一体化项目和2万吨/年碳酸锂项目。"
+  },
+  "S2": {
+   "url": "https://www.news.cn/politics/20260929/e049dc8ff71f4c5492e9f37f924d7799/c.html",
+   "publisher": "Economic Information Daily (经济参考报) via Xinhua",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "中国盐湖集团整体锂盐总产能达到11.5万吨，已成为全国最大盐湖锂盐基地。"
+  },
+  "S3": {
+   "url": "https://www.woodmac.com/reports/metals-west-taijinar-citic-guoan-lithium-brine-150022490/",
+   "publisher": "Wood Mackenzie (free asset-report summary page)",
+   "published": "2026-06-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CITIC Guoan has expanded total capacity to 46 kt/a following CITIC Kunlun's integration in 2024."
+  },
+  "S4": {
+   "url": "https://i.ifeng.com/c/8qTt0HgImoN",
+   "publisher": "Securities Times (证券时报) via Phoenix/ifeng",
+   "published": "2026-02-05",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司采用高效的电渗析膜分离提锂技术，结合东台吉乃尔湖的独特镁锂比，两条生产线具有年产2万吨碳酸锂的产能，同时还有年产20万吨钾肥的生产线。"
+  },
+  "S5": {
+   "url": "https://www.pulead.com.cn/news-center/company-news/141",
+   "publisher": "Pulead (泰丰先行) company news",
+   "published": "2026-05-09",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026年5月8日，青海东台吉乃尔锂资源股份有限公司在西宁组织召开了《东台吉乃尔盐湖原卤制取3万吨/年电池级碳酸锂项目》可行性研究报告评审会，报告顺利通过评审。"
+  },
+  "S6": {
+   "url": "https://news.metal.com/newscontent/101542526/exclusive-smm%E2%80%99s-lithium-battery-team-qinghai-field-trip---dongtai-jinai%E2%80%99er-lithium-resources",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2021-07-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company is also the controlling shareholder of Qinghai Lithium Industry."
+  },
+  "S7": {
+   "url": "https://www.nbd.com.cn/articles/2021-11-16/1996448.html",
+   "publisher": "National Business Daily (每日经济新闻), 占“湖”为王：盐湖背后的资本江湖",
+   "published": "2021-11-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "恒信融一期工厂有年产2万吨的电池级碳酸锂生产线 ... 我们是外购卤水,因为卤水供应不足,所以产能没有完全释放。",
+   "tier": "reported",
+   "snippet": "恒信融一期工厂有年产2万吨的电池级碳酸锂生产线 ... 我们是外购卤水,因为卤水供应不足,所以产能没有完全释放。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S8": {
+   "url": "https://news.metal.com/newscontent/101559455/the-output-of-lithium-salt-in-qinghai-is-close-to-100000-tons-year-and-the-world-class-industrial-base-of-extracting-lithium-from-salt-lake-is-ready-to-be-developed",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2021-08-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Qinghai Xinghua (Dachaidan Salt Lake), which have an annual production capacity of more than 5000 tons"
+  },
+  "S9": {
+   "url": "https://cs.com.cn/ssgs/gsxw/202201/t20220113_6234970.html",
+   "publisher": "China Securities Journal / Shanghai Securities News (EVE Energy equity-transfer notice)",
+   "published": "2022-01-13",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "Page text garbled in the fetch; decoded content: Xinghua Lithium Salt (Dachaidan, Qinghai) implements a 年产1万吨高纯氯化锂 and 2.5万吨硼酸 project, total investment RMB 647m; Dahua Chemical (大华化工) holds 51%, EVE to hold 49% after the transfers. Sale of the 49% to Xizang Shuobeide for RMB 600m was a search-result summary (EVE board 2025-08-21), not seen on an opened page."
+  },
+  "S10": {
+   "url": "https://static.weeklyonstock.com/25/0718/wbf100222.html",
+   "publisher": "Securities Market Weekly (证券市场周刊), Jiuling Lithium prospectus review",
+   "published": "2025-07-18",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2025年上半年，九岭锂业凭借丰城基地5万吨新增产能的逐步释放，碳酸锂产量实现大幅提升，超越行业内头部上市公司，跃居首位。 ... 该公司2024年产能达4.8万吨，大幅增长108.70%；产量达4.47万吨，大幅增长119.75%。"
+  },
+  "S11": {
+   "url": "https://www.nbd.com.cn/articles/2026-09-17/4584432.html",
+   "publisher": "National Business Daily (每日经济新闻) - related-article headline list on the CATL Ya'an article page",
+   "published": "2026-05-20",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "天华新能：子公司奉新时代拥有年产3万吨电池级碳酸锂产能 (headline in the page's related-articles list, dated 2026-05-20; the article body itself was not opened)"
+  },
+  "S12": {
+   "url": "https://finance.eastmoney.com/a/202609173877347983.html",
+   "publisher": "National Business Daily (每日经济新闻) via Eastmoney",
+   "published": "2026-09-17",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "建设单位为宁德时代（雅安）新材料科技有限公司 ... 拟建设年产约4万吨碳酸锂、3万吨磷酸二氢锂及13万吨元明粉产能 ... 目前发布的只是生态环境影响评价信息第一次公示"
+  },
+  "S13": {
+   "url": "https://www.jiemian.com/article/8973712.html",
+   "publisher": "Jiemian (界面新闻)",
+   "published": "2023-02-27",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "位于洛浦县昆冈经济技术开发区 ... 项目一期建设锂盐资源采冶选7.5万吨/年，其中碳酸锂3万吨、氢氧化锂3万吨、氯化锂1.5万吨。"
+  },
+  "S14": {
+   "url": "https://news.metal.com/newscontent/102817049",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2024-06-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a 30,000-ton/year lithium carbonate production line in the first phase of the Dahongliutan rare metal mine ... was completed in 323 days, and qualified lithium carbonate products have been produced"
+  },
+  "S15": {
+   "url": "https://www.riotinto.com/en/products/lithium",
+   "publisher": "Rio Tinto, lithium products/operations page (undated; footer 2026)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "battery-grade lithium hydroxide"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "china-salt-lake-qinghai-huixin-china",
+   "fields": {
+    "status": "operational",
+    "installed_capacity": 20000,
+    "installed_as_of": "2025-10-01"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1"
+    ],
+    "installed_capacity": [
+     "S1",
+     "S2"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Xinhua 2025-10-01 reports the China Salt Lake Group '4+2' project (4 万 t/yr integrated basic lithium salt + 2 万 t/yr lithium carbonate) as 顺利投产 in Golmud; the 2 万 t carbonate project is the Huixin 20,000 t project (SMM June 2025 trial run/first product, same 2 万 t figure; the identification Huixin = the '+2' project rests on identical size and owner, the Xinhua page does not name Huixin). Xinhua 2026-09-29 gives China Salt Lake Group total lithium-salt capacity 11.5 万 t = Lanke 4 + integrated 4 + Huixin 2 + Yiliping 1.5 万 t, which matches our four rows (arithmetic check, not stated on the page). installed_as_of = Xinhua publication date (page says '日前', exact day not given). CONFLICT/flag for lead: the Qinghai Salt Lake Industry AR calls the separate 4 万 t integrated project trial production (kept under_construction by the lead audit); Xinhua calls it 投产 - not changed here. 'Huixin' = 青海汇信 (China Salt Lake subsidiary), NOT 青海恒信融 (Hengxinrong, separate row)."
+  },
+  {
+   "action": "update",
+   "id": "citic-guoan-qinghai-lithium-west-taijinaier-china",
+   "fields": {
+    "capacity": 45000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2023
+   },
+   "evidence": {
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Second source for capacity: Wood Mackenzie free asset page (2026-06-18) states CITIC Guoan 'total capacity to 46 kt/a following CITIC Kunlun's integration in 2024' - agrees with the 45,000 t figure within 1 kt (conflict minor; 45,000 kept, WoodMac 46 kt may include rounding or a small add-on). 2025 output: NOT found in any open source (searched CITIC Guoan, SMM, Haixi pages); a user-posted industry list (xueqiu, not used) ranks Qinghai CITIC Guoan Technology 2nd among China's 2025 carbonate producers, unverified. Haixi Prefecture produced 17% of China's 2025 carbonate (stdaily 2026-08-11, https://www.stdaily.com/web/gdxw/2026-08/11/content_562196.html) and Qinghai province 16.9 万 t (see SC030), so this plant is probably one of the largest unattributed Qinghai producers. West Taijinaier lake mine scale approved in 2022 as 2.5 万 t/yr carbonate with CITIC Guoan and Hengxinrong as developers (search-result text from Securities Times 2022-04, page not opened; not used for numbers)."
+  },
+  {
+   "action": "update",
+   "id": "dongtai-lithium-resources-east-taijinaier-china",
+   "fields": {
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 20000,
+    "installed_as_of": "2026-02-05"
+   },
+   "evidence": {
+    "capacity": [
+     "S4"
+    ],
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC195] Securities Times 2026-02-05 (Phoenix repost, on Dongfang Tech's strategic framework agreement with Dongtai Jinai'er Lithium Resources of 2026-02-04): 'two production lines have 20,000 t/yr lithium carbonate capacity' plus a 200,000 t/yr potash line. ref year = publication-year fallback; installed_as_of = page date (the sentence describes existing lines, no commissioning date; earlier press: 10,000 t first line planned 2018, 1.5 万 t actual in 2021, 2 万 t in Baidu Baike - search summaries). A further 30,000 t/yr battery-grade carbonate project from East Taijinaier raw brine passed its feasibility-report review on 2026-05-08 (S5) - undated, NOT added to capacity (D-015). No 2025 output disclosed (cf. SC120 revenue-implied ~18,000 t, order of magnitude only). OWNERSHIP FLAG: SMM 2021-07-26 (S6) says Dongtai 'is also the controlling shareholder of Qinghai Lithium Industry', whereas SMM/Solarbe 2025 call Qinghai Lithium Industry a CITIC Guoan subsidiary (the West Taijinaier row, 45,000 t). East vs West Taijinaier are different lakes so the two rows are kept separate, but if Dongtai's two lines are in fact inside Qinghai Lithium's 45 kt the lead should merge; not resolvable from open sources. 2021 shareholders per SMM: Qinghai Taifeng Xianxing 49.5%, Western Mining 27%, Qinghai Lianyu Potash 20.34%, Qinghai CITIC Guoan Technology 2.16%, Qinghai state-owned assets 1% (2021, may have changed)."
+  },
+  {
+   "action": "update",
+   "id": "dachaidan-salt-lake-lithium-chloride-china",
+   "fields": {
+    "operator": "Qinghai Chaidamu Xinghua Lithium Salt (青海柴达木兴华锂盐)",
+    "parent_company": "Dahua Chemical (大华化工) (51% per EVE notice 2022; EVE's 49% sold 2025, search summary)",
+    "capacity": 10000,
+    "capacity_unit": "t LiCl",
+    "capacity_ref_year": 2022
+   },
+   "evidence": {
+    "capacity": [
+     "S9",
+     "S8"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[SC195] Identifies the operator of the placeholder: Qinghai Chaidamu Xinghua Lithium Salt (兴华锂盐), Dachaidan, project '1 万 t/yr high-purity lithium chloride + 2.5 万 t boric acid', investment RMB 647m (EVE equity-transfer notice, 2022-01; fetched page garbled, reported tier). SMM 2021-08-05 (S8): Qinghai Xinghua (Dachaidan) 'annual production capacity of more than 5000 tons' (product not stated). Whether the 1 万 t LiCl is built/operating is NOT confirmed; status left as is (reported). Product is lithium chloride, not carbonate - lithium chloride tonnage is not LCE-equivalent; a Xinghua 2021 report of 8,000 t/yr output (search summary, product unclear) was not used. Western Mining's Dachaidan interest is not evidenced."
+  },
+  {
+   "action": "update",
+   "id": "jiuling-lithium-fengcheng-lithium-carbonate-china",
+   "fields": {
+    "capacity": 50000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC195] Securities Market Weekly 2025-07-18 (reviewing Jiuling's IPO prospectus): H1 2025 output rose on 'the gradual release of 5 万 t of new capacity at the Fengcheng base'. Read as a 50,000 t/yr carbonate line at Fengcheng, ramping in H1 2025 (so no installed figure); 'new capacity' could mean an increment on existing Fengcheng lines - confidence kept below 0.5. Company-level (NOT allocated to plants, for the lead's company_totals): Jiuling Lithium 2024 carbonate capacity 4.8 万 t (+108.7%), output 4.47 万 t (+119.75%), utilisation 93.2%, sales ~4.6 万 t; 'lithium-salt capacity 7.5 万 t at end-2024'; carbonate = 6.38% of China's 2024 output. Jiuling's IPO was withdrawn 2026-04 (search summary). Three plants are named in the July 2026 maintenance notice (Yifeng, Fengcheng, Feiyu New Energy) - Yifeng and Feiyu per-plant capacities are not disclosed in anything opened (Feiyu 2 万 t is a 2021 broker figure already in its row)."
+  },
+  {
+   "action": "update",
+   "id": "tianhua-fengxin-shidai-china",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2026-05-20"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC195] Reported-tier corroboration: a National Business Daily related-article headline dated 2026-05-20 reads 'Tianhua New Energy: subsidiary Fengxin Shidai has 3 万 t/yr battery-grade lithium carbonate capacity' - supports the 30,000 t completed project in the SC101 annual-report row and implies it is built; no output or ramp data. Article body not opened."
+  },
+  {
+   "action": "add",
+   "id": "qinghai-hengxinrong-lithium-xitai-china",
+   "fields": {
+    "asset_name": "Qinghai Hengxinrong Lithium (青海恒信融锂业) phase 1 lithium carbonate plant, West Taijinaier (Xitai) salt lake",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (brine, on-site)",
+    "asset_type": "brine operation",
+    "feedstock": "brine",
+    "operator": "Qinghai Hengxinrong Lithium (青海恒信融锂业)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Qinghai",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2021,
+    "installed_capacity": 20000,
+    "installed_as_of": "2021-11-16",
+    "end_market": "battery",
+    "source_url": "https://www.nbd.com.cn/articles/2021-11-16/1996448.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-11-16"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S7"
+    ],
+    "installed_capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC195] National Business Daily 2021-11-16: Hengxinrong's phase-1 plant 'has a 20,000 t/yr battery-grade lithium carbonate line'; mining right from the West Taijinaier lake next to CITIC Guoan's base; it buys brine and 'capacity is not fully released because brine supply is short' (output about 4,000 t of carbonate and lithium phosphate the previous year, per the article summary). DATED 2021 - current (2025) status, output and any expansion not found in any open source (several searches). Major shareholder 陕煤集团 (Shaanxi Coal) per the same article (not entered as ownership; not independently confirmed). Not the same as Qinghai Huixin (China Salt Lake, 20,000 t, separate row): SMM's English 'Qinghai Huixin' = 青海汇信. Distinct from the CITIC Guoan 45 kt West Taijinaier row (SMM 2021 lists CITIC Guoan 1 万 t and Hengxin 2 万 t as separate capacities), but both share the West Taijinaier lake - possible overlap with the 2.5 万 t/yr lake mining-scale limit noted in 2022. installed_as_of = article date; installed means the line exists and was producing below nameplate."
+  },
+  {
+   "action": "add",
+   "id": "xinjiang-nonferrous-luopu-lithium-salt-china",
+   "fields": {
+    "asset_name": "Xinjiang Nonferrous 100,000 t/yr lithium salt project (Luopu Kungang EDZ, Hotan), phase 1 carbonate line",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (phase 1 also planned: lithium hydroxide, lithium chloride)",
+    "asset_type": "spodumene converter",
+    "feedstock": "spodumene concentrate (Dahongliutan rare-metal mine)",
+    "operator": "Xinjiang Nonferrous Metal Industry (Group)",
+    "parent_company": "Xinjiang Nonferrous Metal Industry (Group)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Xinjiang (Hotan, Luopu County)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "announced_year": 2023,
+    "start_year": 2024,
+    "capacity": 30000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 30000,
+    "installed_as_of": "2024-06-25",
+    "capacity_by_year_json": {
+     "2024": 30000
+    },
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/102817049",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-06-25"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "capacity": [
+     "S13",
+     "S14"
+    ],
+    "installed_capacity": [
+     "S14"
+    ],
+    "capacity_by_year_json": [
+     "S14"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC195] Jiemian 2023-02-27: the group's 100,000 t lithium-salt project at Luopu County (Kungang EDZ) started construction 2023-02-26; phase 1 = 75,000 t/yr (carbonate 30,000 + hydroxide 30,000 + lithium chloride 15,000). SMM 2024-06-25: the 30,000 t/yr carbonate line was built in 323 days and produced qualified carbonate. Only the carbonate line is recorded (capacity/installed 30,000 t Li2CO3); the hydroxide and chloride lines' status is unknown and the full 100,000 t is not dated (not added, D-015). Feeds from the group's Dahongliutan lithium mine (existing row xinjiang-nonferrous-dahongliutan-china, 600 kt/yr spodumene concentrate). No production figure found; the page of SMM did not give the product start date beyond the 2024-06 report. Product grade as 'battery-grade' is not stated in the quote (SMM: 'qualified lithium carbonate products')."
+  },
+  {
+   "action": "add",
+   "id": "catl-yaan-lithium-carbonate-china",
+   "fields": {
+    "asset_name": "CATL Ya'an lithium carbonate / lithium dihydrogen phosphate project (Yongxing Industrial Zone, Ya'an EDZ)",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium carbonate; lithium dihydrogen phosphate; sodium sulphate by-product",
+    "asset_type": "lithium chemical plant",
+    "feedstock": null,
+    "operator": "CATL (Ya'an) New Materials Technology (宁德时代（雅安）新材料科技有限公司)",
+    "parent_company": "CATL",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan (Ya'an)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202609173877347983.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-17"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S12"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC195] National Business Daily / Eastmoney 2026-09-17: first public EIA notice for a wholly-owned CATL subsidiary project near Ya'an EDZ Yongxing Industrial Zone: about 40,000 t carbonate + 30,000 t lithium dihydrogen phosphate + 130,000 t sodium sulphate per year, 350 mu, total investment about RMB 1.4bn (the fetch summary garbled the figure as '14 billion'; quote says 14亿元). Filing does not disclose feedstock (press speculation about CATL's Sichuan Snowy/Xiaoxin mine - not used). Early stage: no construction schedule or start date, so capacity_ref_year 2026 is the publication-year fallback. Not to be confused with Yahua's Ya'an plant (existing yahua-group-yaan-china)."
+  },
+  {
+   "action": "add",
+   "id": "rio-tinto-arcadium-rugao-lithium-hydroxide-china",
+   "fields": {
+    "asset_name": "Rio Tinto (Arcadium Lithium) Rugao lithium hydroxide plant, Jiangsu",
+    "step": "refining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide (battery-grade)",
+    "asset_type": "lithium chemical plant",
+    "feedstock": "lithium carbonate",
+    "operator": "Rio Tinto (Arcadium Lithium)",
+    "parent_company": "Rio Tinto",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu (Rugao)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "end_market": "battery",
+    "source_url": "https://www.riotinto.com/en/products/lithium",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[SC195] Rio Tinto's lithium page lists Rugao as a lithium-hydroxide site and Zhangjiagang as 'butyllithium and other organometallic compounds' (not a battery lithium chemical plant). So the task brief's 'Arcadium Zhangjiagang 15 kt LiOH' is mis-located: Arcadium's 15,000 t/yr China hydroxide expansion (Livent 2022 plan: 'a new location in China', FY2022 10-K says Zhejiang; a 2024 investor deck snippet from search results says Rugao, 15 ktpa, contract manufacturing, qualification ongoing 2024) is Rugao/Zhejiang, NOT Zhangjiagang; Arcadium FY2024 10-K Item 2 lists 'Zhangjiagang, China' as manufacturing, land use right and building owned. Capacity left null because the 15 ktpa figure was only seen in a search-result summary (not an opened page) and Rugao vs Zhejiang (same plant or two) is unresolved; 'operational' rests on the Rio Tinto page listing it as a production site (page undated, accessed 2026-11-27). Ownership of Arcadium passed to Rio Tinto in 2025 (search summaries)."
+  }
+ ]
+}

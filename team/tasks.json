@@ -4479,6 +4479,62 @@
     "by": "lead",
     "notes": "38/39 fetchable quotes found; OSS/GNI installed dropped; Sal de Oro fixed; D-111"
    }
+  },
+  {
+   "id": "SC194",
+   "title": "Supply links pass 2 (downstream to cell plants)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC194.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "validated; 1 quote each demoted"
+   }
+  },
+  {
+   "id": "SC195",
+   "title": "China lithium converters and Qinghai salt lakes gap",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC195.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "validated; 1 quote each demoted"
+   }
   }
  ]
 }

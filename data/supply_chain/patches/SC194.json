@@ -1,0 +1,365 @@
+{
+ "task": "SC194",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.cnbc.com/2022/11/15/panasonic-redwood-materials-strike-battery-component-deal.html",
+   "publisher": "CNBC - Panasonic and Redwood Materials strike multibillion-dollar battery component deal",
+   "published": "2022-11-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will use high-nickel cathode supplied by Redwood"
+  },
+  "S2": {
+   "url": "https://newsroom.posco.com/en/posco-chemical-signs-a-contract-with-ultium-cells-llc-of-the-u-s-to-supply-artificial-graphite-anode-material-for-electric-vehicle-batteries-worth-krw-939-3-billion",
+   "publisher": "POSCO Newsroom - POSCO Chemical signs contract with Ultium Cells LLC (artificial graphite anode, KRW 939.3 bn)",
+   "published": "2023-01-02",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "It will supply artificial graphite anode materials produced at the Pohang plant for six years from 2023 to 2028 ... to Ultium Cells LLC, a U.S. battery joint venture between General Motors and LG Energy Solution."
+  },
+  "S3": {
+   "url": "https://thelec.net/news/articleView.html?idxno=4596",
+   "publisher": "TheElec - Dongwha Electrolyte to supply SK On Hungary",
+   "published": "2023-07-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "supply electrolytes using canisters to SK On ... facility in Komarom"
+  },
+  "S3b": {
+   "url": "https://thelec.net/news/articleView.html?idxno=4596",
+   "publisher": "TheElec - Dongwha Electrolyte to supply SK On Hungary (SKOH2 = SK On Hungary 2, Ivancsa, per the article)",
+   "published": "2023-07-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Dongwha is expected to start supplying electrolytes to SKOH2 before the fourth quarter."
+  },
+  "S4": {
+   "url": "https://thelec.net/news/articleView.html?idxno=2000",
+   "publisher": "TheElec - Samsung SDI begins investment into 2nd Hungary factory",
+   "published": "2020-12-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Samsung SDI has begun investments into building its second electric vehicle (EV) battery factory at Goed, Hungary ... Dongwha will supply the electrolyte."
+  },
+  "S5": {
+   "url": "https://view.asiae.co.kr/en/article/2024012508342937399",
+   "publisher": "Asia Economy (Asiae) - Enchem US plant electrolyte capacity (25 Jan 2024)",
+   "published": "2024-01-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "began initial electrolyte supply to SK On ... Georgia plant in March last year"
+  },
+  "S6": {
+   "url": "https://view.asiae.co.kr/en/article/2023021911122146548",
+   "publisher": "Asia Economy (Asiae) - SK Nexilis to supply Northvolt with copper foil (19 Feb 2023)",
+   "published": "2023-02-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "produced at SK Nexilis ... Stalowa Wola plant in Poland to Northvolt"
+  },
+  "S7": {
+   "url": "https://www.iedc.in.gov/events/news/details/2022/12/13/electric-vehicle-battery-supplier-powers-indiana%27s-thriving-economy-of-the-future",
+   "publisher": "Indiana Economic Development Corporation - Electric vehicle battery supplier (Soulbrain MI) powers Indiana (13 Dec 2022)",
+   "published": "2022-12-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "helping to power Stellantis ... Samsung SDI ... new next-generation electric vehicle battery manufacturing plant"
+  },
+  "S8": {
+   "url": "https://view.asiae.co.kr/en/article/2021102715393179341",
+   "publisher": "Asia Economy (Asiae) - LG Chem and Toray establish separator joint venture in Hungary (27 Oct 2021)",
+   "published": "2021-10-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the produced separators will be supplied to European battery companies such as LG Energy Solution ... Poland plant in Wrocław."
+  },
+  "S9": {
+   "url": "https://autotechinsight.spglobal.com/news/5274257/novonix-to-supply-synthetic-graphite-to-panasonic-energys-north-american-plants",
+   "publisher": "S&P Global Mobility AutoTechInsight - Novonix to supply synthetic graphite to Panasonic Energy's North American plants",
+   "published": "2024-02-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "supply high-performance synthetic graphite anode material to Panasonic ... battery plants in North America ... from its Riverside facility in Chattanooga, Tenn."
+  },
+  "S10": {
+   "url": "https://www.electrive.com/2026/11/19/sila-secures-billion-dollar-offtake-agreement-with-panasonic",
+   "publisher": "electrive - Sila secures billion-dollar offtake agreement with Panasonic",
+   "published": "2026-11-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Sila intends to supply its anode material from its production facility in Moses Lake, Washington, USA. ... will be used in battery cells manufactured at Panasonic ... US cell factories",
+   "tier": "reported",
+   "snippet": "Sila intends to supply its anode material from its production facility in Moses Lake, Washington, USA. ... will be used in battery cells manufactured at Panasonic ... US cell factories",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S11": {
+   "url": "https://www.finanznachrichten.de/nachrichten-2022-09/56982661-amg-advanced-metallurgical-group-n-v-amg-lithium-signs-binding-multiyear-agreement-to-supply-battery-grade-lithium-hydroxide-with-ecopro-the-holdin-399.htm",
+   "publisher": "AMG press release via GlobeNewswire/finanznachrichten - AMG Lithium signs binding multiyear agreement with EcoPro (6 Sep 2022)",
+   "published": "2022-09-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Under the Agreement, AMG Lithium will deliver a minimum of 5,000 tonnes per annum ... of battery-grade lithium hydroxide to EcoPro BM ... cathode materials production plant in Debrecen, Hungary."
+  },
+  "S12": {
+   "url": "https://www.electrive.com/2025/06/27/ronbay-and-rock-tech-lithium-to-localise-european-battery-materials-supply-chain/",
+   "publisher": "electrive - Rock Tech seeks European deal with Chinese manufacturer Ronbay (MoU)",
+   "published": "2025-06-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Rock Tech will supply battery-grade lithium hydroxide from its Guben Converter in Germany ... European cathode production facilities, including its newly acquired plant in Konin, Poland."
+  },
+  "S13": {
+   "url": "https://automotive-transportation.basf.com/global/en/stories/european-battery-materials-investment-project",
+   "publisher": "BASF Automotive & Transportation - European battery materials investment project (undated story page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The plant in Schwarzheide will use precursors (PCAM) from BASF ... previously announced plant in Harjavalta, Finland."
+  },
+  "S14": {
+   "url": "https://www.volkswagen-group.com/en/press-releases/new-european-battery-materials-player-ionway-locates-first-production-plant-in-nysa-poland-17734",
+   "publisher": "Volkswagen Group press release - IONWAY locates first production plant in Nysa, Poland (7 Oct 2023)",
+   "published": "2023-10-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CAM demand for the Salzgitter cell gigafactory is secured from the existing production capacity of Umicore in Nysa"
+  },
+  "S15": {
+   "url": "https://www.volkswagen-group.com/en/press-releases/powerco-and-umicore-establish-joint-venture-for-european-battery-materials-production-16555",
+   "publisher": "Volkswagen Group press release - PowerCo and Umicore establish joint venture for European battery materials production (26 Sep 2022)",
+   "published": "2022-09-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production at the JV is scheduled to start in 2025 to supply PowerCo"
+  },
+  "S16": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 7003; material-contracts table, row Tianqi Lithium Kwinana Pty Ltd / Northvolt ETT AB, hydroxide, contract date 24 Sep 2019; table text is interleaved across lines)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "Northvolt 签订《长期供货"
+  },
+  "S17": {
+   "url": "https://www.miningweekly.com/article/tianqi-lithium-in-supply-deal-with-swedens-northvolt-2019-09-24",
+   "publisher": "Mining Weekly / Reuters - Tianqi Lithium in supply deal with Sweden's Northvolt (page returned 403 to the fetcher; text from search result)",
+   "published": "2019-09-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Tianqi Lithium Kwinana, which recently launched a processing plant in Western Australia, will supply lithium hydroxide, a chemical used in electric vehicle (EV) batteries, to Northvolt Ett from 2020-25."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "redwood-materials-carson-city-united-states",
+   "fields": {
+    "feeds": "cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states",
+    "offtakers": "Panasonic Energy (De Soto, Kansas cell plant: high-nickel cathode from 2025, per CNBC 2022-11-15); Toyota (per press, not verified here)"
+   },
+   "evidence": {
+    "feeds": [
+     "S1"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.4. CNBC 2022-11-15: Panasonic's new plant in DeSoto, Kansas 'will use high-nickel cathode supplied by Redwood ... when production starts in 2025' (the quote fragment does not name Kansas; the surrounding article does). The article does not say WHICH Redwood site makes the cathode; this row is the Redwood cathode-production asset (itself weak, see SC013 note), so the supplier end is the company's cathode line, not a verified Carson City plant. Plan-stage statement (2022); actual deliveries to De Soto not verified. Redwood's anode copper foil for Panasonic Nevada is a separate product with no asset row (not linked)."
+  },
+  {
+   "action": "update",
+   "id": "posco-future-m-pohang-artificial-graphite-south-korea",
+   "fields": {
+    "feeds": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states",
+    "offtakers": "Ultium Cells LLC (6-year artificial graphite anode contract 2023-2028, KRW 939.3 bn)"
+   },
+   "evidence": {
+    "feeds": [
+     "S2"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.55. POSCO newsroom: artificial graphite anode produced at the Pohang plant supplied to Ultium Cells LLC 2023-2028 (supplying plant named; receiver is the GM/LGES JV, which names no plant). Receivers set to Ultium Cells LLC's own plants (Warren/Lordstown OH and Spring Hill TN, as for the Ultium CAM Becancour links); Ultium Lansing (LGES-owned) not linked. The same release/PR family describes an earlier 2021 contract with Sejong natural-graphite anode for Ultium (not linked: no plant-level quote opened)."
+  },
+  {
+   "action": "update",
+   "id": "dongwha-electrolyte-soskut-hungary",
+   "fields": {
+    "feeds": "cell:sk-on-sk-on-kom-rom-hungary,cell:sk-on-sk-on-iv-ncsa-hungary,cell:samsung-sdi-samsung-sdi-g-d-hungary",
+    "offtakers": "SK On Hungary (Komarom; SKOH2/Ivancsa per TheElec 2023-07); Samsung SDI Goed (named supplier of electrolyte for Samsung SDI's second Goed factory, TheElec 2020-12)"
+   },
+   "evidence": {
+    "feeds": [
+     "S3",
+     "S3b",
+     "S4"
+    ]
+   },
+   "notes": "[SC194] TheElec 2023-07-19: Dongwha supplies electrolyte in canisters to SK On's Komarom facility, and was expected to start supplying SKOH2 (SK On Hungary 2 = Ivancsa per the article) before Q4 2023 - link confidence 0.6 (Komarom) / 0.55 (Ivancsa, SKOH2 naming from the article, not in the quoted sentence). TheElec 2020-12-10: Dongwha named electrolyte supplier for Samsung SDI's second Goed factory (EcoPro BM cathode in the same article) - link confidence 0.5, 2020 plan-stage report; the article does not name the Dongwha plant (Soskut is the only Dongwha Hungary site). Plant permit annulled 18 Oct 2026 per later Hungarian reporting seen only in search results (not verified); links reflect supply relationships as reported, not current operating status."
+  },
+  {
+   "action": "update",
+   "id": "enchem-georgia-united-states",
+   "fields": {
+    "feeds": "cell:sk-on-sk-battery-america-commerce-georgia-united-states",
+    "offtakers": "SK On Georgia (initial supply from Mar 2023, Asiae 2024-01-25); Ultium Cells (Ohio Plant 1 and Tennessee, per Enchem release Aug 2023 - supplying Enchem plant not named, so not linked)"
+   },
+   "evidence": {
+    "feeds": [
+     "S5"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.7. Asiae 2024-01-25: the Georgia plant 'began initial electrolyte supply to SK On's Georgia plant in March last year' (i.e. March 2023) and has 40,000 t/yr capacity. SK Battery America operates two EV plants at Commerce, GA, held as one cell row (sk-battery-america-commerce-georgia). Unresolved receiver: Ultium Cells (Asiae 2023-08-24: Enchem secured next-generation electrolyte supply for Ultium Cells Ohio Plant 1; Tennessee plant from Feb 2024) - the source does not say which Enchem plant ships it (Georgia vs a Tennessee Enchem plant), so no feeds id."
+  },
+  {
+   "action": "update",
+   "id": "sk-nexilis-stalowa-wola-poland",
+   "fields": {
+    "feeds": "cell:lyten-formerly-northvolt-northvolt-ett-skellefte-sweden",
+    "offtakers": "Northvolt (5-year copper foil contract from 2024 worth about KRW 1.4 trn, ~80% of Northvolt copper foil needs, Asiae 2023-02-19); Northvolt's bankruptcy/Lyten takeover means the contract status is unverified"
+   },
+   "evidence": {
+    "feeds": [
+     "S6"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.5. Asiae 2023-02-19: SK Nexilis signed a contract to supply copper foil produced at its Stalowa Wola (Poland) plant to Northvolt for five years from 2024 (the article names Northvolt, not the receiving Northvolt plant; Northvolt Ett (Skelleftea) was its only operating cell plant, and the row is now listed under Lyten). The Stalowa Wola plant was still not producing in 2026 (see SC028 note), and Northvolt went bankrupt in 2025 - the contract is historical/likely void; link kept as the stated supply relationship."
+  },
+  {
+   "action": "update",
+   "id": "soulbrain-mi-kokomo-united-states",
+   "fields": {
+    "feeds": "cell:starplus-energy-starplus-energy-gigafactory-kokomo-indiana-united-states"
+   },
+   "evidence": {
+    "feeds": [
+     "S7"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.5. Indiana Economic Development Corporation (13 Dec 2022): the Kokomo electrolyte facility is 'helping to power' the new Stellantis/Samsung SDI EV battery manufacturing plant (StarPlus Energy Kokomo). Wording is 'helping to power', not an explicit supply contract; the row is still announced-stage."
+  },
+  {
+   "action": "update",
+   "id": "lg-toray-hungary-battery-separator-nyergesujfalu-hungary",
+   "fields": {
+    "feeds": "cell:lg-energy-solution-lg-energy-solution-wroc-aw-poland",
+    "offtakers": "LG Energy Solution Poland (Wroclaw), per Asiae 2021-10-27"
+   },
+   "evidence": {
+    "feeds": [
+     "S8"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.6. Asiae 2021-10-27 (LG Chem-Toray JV announcement): separators from the Hungary JV 'will be supplied to European battery companies such as LG Energy Solution's Poland plant in Wroclaw'. Plan-stage statement; JV plant still announced (SC028)."
+  },
+  {
+   "action": "update",
+   "id": "novonix-riverside-chattanooga-united-states",
+   "fields": {
+    "feeds": "cell:panasonic-energy-gigafactory-nevada-united-states,cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states"
+   },
+   "evidence": {
+    "feeds": [
+     "S9"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.5. S&P AutoTechInsight 2024-02-12: Novonix to supply synthetic graphite anode material from its Riverside facility in Chattanooga to Panasonic's battery plants in North America (binding offtake Feb 2024, at least 10,000 t over 2025-2028 per Panasonic/Novonix coverage). Source says 'plants in North America' without naming them; mapped to Panasonic Energy's two US cell plants (Nevada and De Soto, Kansas) - receiver split unresolved, volume/timing depend on Novonix qualification milestones."
+  },
+  {
+   "action": "update",
+   "id": "sila-moses-lake-titan-silicon-united-states",
+   "fields": {
+    "feeds": "cell:panasonic-energy-gigafactory-nevada-united-states,cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states",
+    "offtakers": "Panasonic Energy Corporation of North America (multiyear offtake, potential value over USD 1 bn, announced Nov 2026)"
+   },
+   "evidence": {
+    "feeds": [
+     "S10"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.5. electrive 2026-11-19: Sila intends to supply anode material from Moses Lake to Panasonic's US cell factories; the article mentions the De Soto and Nevada plants but does not tie either to this deal - both linked as Panasonic's US cell plants, receiver split unresolved."
+  },
+  {
+   "action": "update",
+   "id": "amg-lithium-bitterfeld-lithium-hydroxide-germany",
+   "fields": {
+    "feeds": "ecopro-bm-debrecen-hungary"
+   },
+   "evidence": {
+    "feeds": [
+     "S11"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.65. AMG release 2022-09-06: binding multiyear agreement for a minimum 5,000 t/yr battery-grade lithium hydroxide to EcoPro BM's cathode plant in Debrecen (initial three years, qualification volumes from late 2023, regular volumes 2024). The AMG refinery only ramped from 2024-25 and qualification shipments only in H1 2026 (AMG FY2025 release), so actual deliveries are unverified. The existing offtakers text 'European cathode makers (qualification stage)' is left unchanged. Unresolved: Easpring MoU (Oct 2025, Easpring Kotka, Finland plant has no asset row)."
+  },
+  {
+   "action": "update",
+   "id": "rock-tech-lithium-guben-converter-germany",
+   "fields": {
+    "feeds": "ronbay-poland-poland"
+   },
+   "evidence": {
+    "feeds": [
+     "S12"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.4. electrive 2025-06-27: Rock Tech and Ronbay signed an MoU (non-binding) under which Rock Tech will supply battery-grade lithium hydroxide from the Guben converter to Ronbay's European cathode facilities, including the newly acquired plant in Konin, Poland. The converter is not built (announced, paused for financing), so this is a prospective relationship only. Rock Tech's Mercedes offtake (existing offtakers text) has no receiving asset."
+  },
+  {
+   "action": "update",
+   "id": "basf-harjavalta-pcam-finland",
+   "fields": {
+    "feeds": "basf-schwarzheide-cam-germany",
+    "offtakers": "BASF Schwarzheide CAM plant (intra-company, planned)"
+   },
+   "evidence": {
+    "feeds": [
+     "S13"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.55. BASF story page (undated; refers to the 2018 Harjavalta announcement and 2020 construction starts): 'The plant in Schwarzheide will use precursors (PCAM) from BASF's previously announced plant in Harjavalta, Finland.' Design/plan statement; Harjavalta start-up has been postponed since 2024 (see row note), so no flow has been verified. BASF's Schwarzheide customer contracts (Sept 2025 renewal with an unnamed customer; July 2025 CATL framework deal) name no receiving plant - unresolved."
+  },
+  {
+   "action": "update",
+   "id": "umicore-nysa-cathode-poland",
+   "fields": {
+    "feeds": "cell:powerco-powerco-salzgitter-gigafactory-germany"
+   },
+   "evidence": {
+    "feeds": [
+     "S14"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.7. Volkswagen Group release 2023-10-07: PowerCo's CAM demand for the Salzgitter cell gigafactory is secured from the existing production capacity of Umicore in Nysa until the IONWAY plant runs (supply before the Salzgitter 2025 start). Supersedes the SC170 'not linked' note for the PowerCo/Salzgitter part (the 2023 release names Nysa and Salzgitter). ACC receiver (Billy-Berclau/Kaiserslautern/Termoli) still unresolved; existing offtakers text unchanged. The existing reported_fields=['feeds'] marker was set for the ACC item; this link rests on a confirmed (opened) source."
+  },
+  {
+   "action": "update",
+   "id": "ionway-nysa-cathode-poland",
+   "fields": {
+    "feeds": "cell:powerco-powerco-salzgitter-gigafactory-germany",
+    "offtakers": "PowerCo Salzgitter (JV purpose: supply PowerCo's Salzgitter factory)"
+   },
+   "evidence": {
+    "feeds": [
+     "S15",
+     "S14"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.55. VW Group release 2022-09-26: production at the Umicore/PowerCo JV is scheduled to start in 2025 'to supply PowerCo's Salzgitter factory'; the 7 Oct 2023 release (S14) places the JV's first plant in Nysa. Plan-stage; the JV plant is not confirmed built."
+  },
+  {
+   "action": "update",
+   "id": "tlea-kwinana-lithium-hydroxide-australia",
+   "fields": {
+    "feeds": "cell:lyten-formerly-northvolt-northvolt-ett-skellefte-sweden",
+    "offtakers": "Northvolt Ett AB (long-term hydroxide supply agreement signed 24 Sep 2019, 2020-2025; cumulative revenue about RMB 963 m recognised, RMB 51 m overdue at end-2025 per Tianqi AR 2025); LG Chem Ltd (2019 three-year deal 2020-22 for not less than 15% of Kwinana annual capacity, per Metal.com 2019-09-25; a separate 2022-06-27 hydroxide supply contract with LG Chem is booked at Chengdu Tianqi in the AR table - receiving LG Chem plant not named)"
+   },
+   "evidence": {
+    "feeds": [
+     "S16",
+     "S17"
+    ]
+   },
+   "notes": "[SC194] Link confidence 0.55. Tianqi AR 2025 material-contracts table lists Tianqi Lithium Kwinana Pty Ltd as seller of lithium hydroxide to Northvolt ETT AB (agreement date 24 Sep 2019, linked to the 2019-096 announcement 'Agreement with Northvolt'); the table cells are interleaved across lines in the text file, so only the fragment 'Northvolt ... Long-term supply' is quotable (S16); the plant-specific sentence (TLK -> Northvolt Ett, 2020-25) is reported tier (S17, snippet). Receiver is Northvolt Ett AB, mapped to the Ett cell plant (Northvolt's Skelleftea site; now Lyten). Northvolt overdue receivable RMB 51 m suggests the relationship is impaired after the 2025 bankruptcy. Unresolved: the 2022 LG Chem contract is booked at Chengdu Tianqi (seller entity), not necessarily Kwinana; the 2019 LG Chem 15% deal (Metal.com snippet) names Kwinana but no LG Chem plant."
+  }
+ ]
+}
