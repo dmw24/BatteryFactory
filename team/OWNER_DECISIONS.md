@@ -4,14 +4,14 @@ Each line is a choice the team made and logged in `team/DECISIONS.md` as "pendin
 recommended option; ticking it confirms. Changing one means a rebuild, not a re-research, unless marked *re-research*.
 
 ## Definitions that move the totals
-- [ ] **D-014 Nameplate = full site plan** (built + under construction + every stated phase with a GWh figure). Alternative: built + under construction only. *Recommended: keep* — the IEA-basis series already separates built from planned.
+- [ ] **D-014 Nameplate = full site plan** (built + under construction + every stated phase with a GWh figure). Alternative: built + under construction only. *Recommended: keep* — the built-nameplate series already separates built from planned.
 - [ ] **D-015 Undated aspirations go to notes, not nameplate** ("can later be doubled"). *Recommended: keep.*
 - [ ] **D-017 A later company description supersedes an earlier site total.** *Recommended: keep.*
 - [ ] **D-021 Reference year = latest dated phase** when only some phases are dated. *Recommended: keep.*
 - [ ] **D-022 "Up to X GWh" counts as design capacity** of a named plant. *Recommended: keep.*
 - [ ] **D-026 Bundled figures (cells + packs/systems) → plant kept, capacity null.** *Recommended: keep* (conservative).
 - [ ] **D-019 Long-duration non-lithium chemistries excluded from totals** (Form, ESS Inc, Eos, …). *Recommended: keep.*
-- [ ] **D-023/D-024/D-027/D-028/D-030 The five series** (A confirmed, B upper fill, C best estimate, D/D-high IEA basis,
+- [ ] **D-023/D-024/D-027/D-028/D-030 The five series** (A confirmed, B upper fill, C best estimate, D/D-high built nameplate,
       E with unallocated company capacity; Ah-converted estimates reported separately). *Recommended: quote C as
       "producing" and E as the IEA-comparable figure, always with D-high as the range.*
 

@@ -81,7 +81,7 @@ def main():
     con.execute("""CREATE TABLE capacity_by_year (
         id VARCHAR, year INTEGER, gwh_firm DOUBLE, gwh_pipeline DOUBLE,
         gwh_nameplate DOUBLE, region VARCHAR, status VARCHAR, source_kind VARCHAR, hub_flag BOOLEAN,
-        gwh_best DOUBLE, best_basis VARCHAR, gwh_iea DOUBLE, iea_basis VARCHAR, gwh_iea_high DOUBLE)""")
+        gwh_best DOUBLE, best_basis VARCHAR, gwh_built_nameplate DOUBLE, built_basis VARCHAR, gwh_built_nameplate_high DOUBLE)""")
 
 
     # v3 (T102 audit): all per-plant logic lives in scripts/series_core.py (evidence precedence, no credit before
@@ -135,23 +135,23 @@ def main():
 
     con.execute("""COPY (
         SELECT year,
-               round(sum(gwh_firm),0) AS gwh_online_achieved,
-               round(sum(gwh_firm) FILTER (WHERE source_kind IN ('real','online_unquantified')),0) AS gwh_online_real_sourced,
-               round(sum(gwh_nameplate),0) AS gwh_installed_nameplate,
-               round(sum(gwh_best),0) AS gwh_best_estimate,
-               round(sum(gwh_iea),0) AS gwh_iea_like_commissioned,
-               round(sum(gwh_iea_high),0) AS gwh_iea_like_high,
+               round(sum(gwh_firm),0) AS gwh_confirmed_installed,
+               round(sum(gwh_firm) FILTER (WHERE source_kind IN ('real','online_unquantified')),0) AS gwh_confirmed_installed_sourced,
+               round(sum(gwh_nameplate),0) AS gwh_upper_fill_B,
+               round(sum(gwh_best),0) AS gwh_producing,
+               round(sum(gwh_built_nameplate),0) AS gwh_built_nameplate,
+               round(sum(gwh_built_nameplate_high),0) AS gwh_built_nameplate_high,
                round(sum(gwh_pipeline),0) AS gwh_pipeline_additional,
                round(sum(gwh_firm) FILTER (WHERE region='China'),0) AS gwh_online_china
         FROM capacity_by_year GROUP BY year ORDER BY year)
         TO 'capacity_by_year.csv' (HEADER, DELIMITER ',')""")
     con.execute("""COPY (
         SELECT year, region,
-               round(sum(gwh_firm),0) AS gwh_online_firm,
+               round(sum(gwh_firm),0) AS gwh_confirmed_installed,
                round(sum(gwh_pipeline),0) AS gwh_pipeline,
-               round(sum(gwh_best),0) AS gwh_best_estimate,
-               round(sum(gwh_iea),0) AS gwh_iea_like_commissioned,
-               round(sum(gwh_iea_high),0) AS gwh_iea_like_high
+               round(sum(gwh_best),0) AS gwh_producing,
+               round(sum(gwh_built_nameplate),0) AS gwh_built_nameplate,
+               round(sum(gwh_built_nameplate_high),0) AS gwh_built_nameplate_high
         FROM capacity_by_year GROUP BY year, region ORDER BY year, region)
         TO 'capacity_by_year_region.csv' (HEADER, DELIMITER ',')""")
     print("\nWrote capacity_by_year.csv and capacity_by_year_region.csv")

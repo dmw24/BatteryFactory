@@ -14,7 +14,7 @@ Rules (no double counting, no invention)
   - Only metric=capacity with basis year_end or annual_effective is used; planned/target figures never are.
     Per company-year, year_end is preferred over annual_effective; scope must be the company's whole lithium
     battery business (segment-only figures are skipped and reported).
-  - Site sum = Series D (gwh_iea) of every active DB row mapped to the company, INCLUDING JV sites, restricted
+  - Site sum = Series D (gwh_built_nameplate) of every active DB row mapped to the company, INCLUDING JV sites, restricted
     to China when the disclosed scope is china. Subtracting JV sites can only understate the remainder.
   - unallocated = max(0, disclosed - site sum). A negative difference is reported ("sites exceed disclosed"),
     never used to reduce anything.
@@ -54,7 +54,7 @@ for _r in csv.DictReader(open("data/reference/company_map.csv", encoding="utf-8"
 
 con = duckdb.connect("factories.db")
 # all comparable rows (paused/cancelled rows carry capacity before 2025 in D, so they must be subtracted too — T111)
-site = con.execute("""SELECT b.id, b.year, b.gwh_iea, f.region FROM capacity_by_year b
+site = con.execute("""SELECT b.id, b.year, b.gwh_built_nameplate, f.region FROM capacity_by_year b
                       JOIN factories f ON f.id = b.id""").fetchall()
 
 
@@ -103,11 +103,11 @@ if out:
     con.executemany("INSERT INTO capacity_unallocated VALUES (?,?,?,?,?,?,?,?,?,?,?)", out)
 con.execute("COPY (SELECT * FROM capacity_unallocated ORDER BY company, year) TO 'capacity_unallocated.csv' (HEADER)")
 con.execute("""COPY (
-    SELECT d.year, d.gwh_iea_like, coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_unallocated_disclosed,
+    SELECT d.year, d.gwh_built_nameplate, coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_unallocated_disclosed,
            coalesce(u.est, 0) AS gwh_unallocated_estimate,
-           d.gwh_iea_like + coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_series_e,
-           d.gwh_iea_like + coalesce(u.unalloc, 0) AS gwh_series_e_incl_estimates
-    FROM (SELECT year, round(sum(gwh_iea)) AS gwh_iea_like FROM capacity_by_year GROUP BY year) d
+           d.gwh_built_nameplate + coalesce(u.unalloc, 0) - coalesce(u.est, 0) AS gwh_series_e,
+           d.gwh_built_nameplate + coalesce(u.unalloc, 0) AS gwh_series_e_incl_estimates
+    FROM (SELECT year, round(sum(gwh_built_nameplate)) AS gwh_built_nameplate FROM capacity_by_year GROUP BY year) d
     LEFT JOIN (SELECT year, round(sum(unallocated_gwh)) AS unalloc,
                       round(sum(unallocated_gwh) FILTER (WHERE flag LIKE 'estimate%')) AS est
                FROM capacity_unallocated GROUP BY year) u

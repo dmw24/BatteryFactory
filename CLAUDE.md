@@ -106,7 +106,7 @@ non-comparable long-duration chemistries in `data/reference/non_comparable.csv` 
   exists; otherwise the plant's *reported* history (v1 `capacity_timeline` or a reported `capacity_by_year_json`
   ramp, capped at nameplate); otherwise the B nameplate fill. A ≤ C ≤ B. `best_basis` in `capacity_by_year`
   says which applied. This is the series to set against IEA/BNEF; quote A as the confirmed floor.
-- **Series D — IEA-like commissioned nameplate (D-027).** max(C, sourced dated phase steps, full site nameplate
+- **Series D — built nameplate (D-027).** max(C, sourced dated phase steps, full site nameplate
   once a *dated* `capacity_ref_year` ≤ year), for operational active plants; `gwh_iea_high` also credits plans whose
   ref year is only the publication-year fallback (upper bound). Use D/D-high for like-for-like comparison with IEA
   and as a missing-plant check; C stays the "actually producing" estimate.

@@ -16,12 +16,15 @@ Every capacity and status value links to a source with a verbatim quote (`data/f
 - `confidence` 0–1; `evidence_tier = reported` when status or capacity rests on an unconfirmed (v1, snippet-only)
   source; such rows are capped at 0.5.
 
+## Naming (owner, 2026-11-27)
+**Planned nameplate** = a site's full plan (`nameplate_capacity_gwh`). **Built nameplate** = design capacity of lines already built and commissioned, regardless of how much they run (the basis IEA/BNEF use; Series D). **Producing capacity** = lines confirmed built and running (Series C). **Actual output** = cells produced (not in the database). Export columns: `gwh_confirmed_installed` (A), `gwh_producing` (C), `gwh_built_nameplate` / `_high` (D / D-high).
+
 ## Five capacity series (`capacity_by_year`, `capacity_by_year_e.csv`)
 | series | meaning | use |
 |---|---|---|
 | A | confirmed installed anchors only (D-035) | floor |
 | C | best estimate of capacity actually producing | "how much is running" |
-| D | IEA basis: design capacity of commissioned lines (dated phases only) | compare with IEA/BNEF |
+| D | built nameplate: design capacity of commissioned lines (dated phases only) | compare with IEA/BNEF |
 | D-high | D plus plans whose completion year is undated | upper bound of D |
 | E | D plus *unallocated* company capacity: a company's disclosed total minus its sites in the database (no location) | closest sourced figure to IEA/BNEF |
 | F | E plus a modelled history backfill (linear ramp from a plant's start year to its first sourced figure, capped by company disclosures) | labelled estimate for history |

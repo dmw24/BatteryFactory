@@ -1,4 +1,4 @@
-year,gwh_online_achieved,gwh_online_real_sourced,gwh_installed_nameplate,gwh_best_estimate,gwh_iea_like_commissioned,gwh_iea_like_high,gwh_pipeline_additional,gwh_online_china
+year,gwh_confirmed_installed,gwh_confirmed_installed_sourced,gwh_upper_fill_B,gwh_producing,gwh_built_nameplate,gwh_built_nameplate_high,gwh_pipeline_additional,gwh_online_china
 2015,0.0,0.0,11.0,11.0,11.0,11.0,3.0,0.0
 2016,0.0,0.0,13.0,13.0,13.0,13.0,3.0,0.0
 2017,0.0,0.0,13.0,13.0,13.0,13.0,3.0,0.0

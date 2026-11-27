@@ -118,3 +118,9 @@ Owner: "accept g4". The 119 active plants ≥10 GWh below 0.6 confidence stay as
 in research_notes; G4 is closed by owner waiver, not by changing confidences. Network (T088): owner allowed the hosts;
 from this session dart.fss.or.kr and jintan.gov.cn now respond (200); nrel.gov still refused by the proxy (may need a
 new session); iea.org and meti.go.jp return 403 from the sites themselves (bot blocking — not bypassed).
+
+## D-037 — Naming (owner 2026-11-27): "built nameplate" instead of "IEA basis"
+Series D is called **built nameplate** (design capacity of built, commissioned lines, utilisation ignored), D-high its
+upper bound; C **producing capacity**; A **confirmed installed**; the site field is **planned nameplate**. Export columns
+renamed: gwh_built_nameplate(_high), gwh_producing, gwh_confirmed_installed, gwh_upper_fill_B; DB table columns
+gwh_built_nameplate / built_basis / gwh_built_nameplate_high. Older log entries keep the old wording.

@@ -30,7 +30,7 @@ plt.rcParams.update({"font.family": "DejaVu Sans", "axes.edgecolor": GRID, "axes
 con = duckdb.connect("factories.db", read_only=True)
 years = list(range(2020, 2026))
 q = {r[0]: r[1:] for r in con.execute(
-    f"SELECT year, sum(gwh_best), sum(gwh_iea), sum(gwh_iea_high) FROM capacity_by_year "
+    f"SELECT year, sum(gwh_best), sum(gwh_built_nameplate), sum(gwh_built_nameplate_high) FROM capacity_by_year "
     f"WHERE year BETWEEN {years[0]} AND {years[-1]} GROUP BY year").fetchall()}
 e = {int(r["year"]): float(r["gwh_series_e"]) for r in csv.DictReader(open("capacity_by_year_e.csv"))}
 bench = [r for r in csv.DictReader(l for l in open("scripts/benchmarks.csv") if not l.startswith("#"))]
@@ -68,19 +68,19 @@ for s in ("top", "right", "left"):
 ax.tick_params(length=0)
 # direct labels at line ends
 last = years[-1]
-ax.annotate(f"Series E {E[-1]:.1f}", (last, E[-1]), xytext=(8, 6), textcoords="offset points", color=HL, fontsize=9)
-ax.annotate(f"IEA-basis range {D[-1]:.1f}–{DH[-1]:.1f}", (last, DH[-1]), xytext=(8, 4), textcoords="offset points",
+ax.annotate(f"Built + company {E[-1]:.1f}", (last, E[-1]), xytext=(8, 6), textcoords="offset points", color=HL, fontsize=9)
+ax.annotate(f"Built nameplate range {D[-1]:.1f}–{DH[-1]:.1f}", (last, DH[-1]), xytext=(8, 4), textcoords="offset points",
             color=HL, fontsize=8, alpha=0.9)
-ax.annotate(f"Producing (C) {C[-1]:.1f}", (last, C[-1]), xytext=(8, -12), textcoords="offset points", color=TOTAL, fontsize=9)
+ax.annotate(f"Producing {C[-1]:.1f}", (last, C[-1]), xytext=(8, -12), textcoords="offset points", color=TOTAL, fontsize=9)
 share = 100 * e[last] / max(float(b["gwh"]) for b in bench if b["source"] == "IEA" and int(b["year"]) == last)
 fig.text(0.08, 0.93, f"Bottom-up cell capacity reaches {share:.0f}% of the IEA figure for {last}",
          fontsize=14, weight="bold", color=INK)
 fig.text(0.08, 0.885, f"Lithium-ion battery cell manufacturing capacity (TWh per year), global, {years[0]}–{last}",
          fontsize=10, color=SUB)
-handles = [Line2D([], [], color=HL, lw=2.5, label="Ours: Series E (IEA basis + unallocated company capacity)"),
-           Line2D([], [], color=HL, lw=1.8, ls=(0, (4, 3)), label="Ours: F = E + modelled history backfill (estimate)"),
-           Line2D([], [], color=HL, lw=8, alpha=0.15, label="Ours: IEA-basis range (D to D-high)"),
-           Line2D([], [], color=TOTAL, lw=2, label="Ours: actually producing (C)"),
+handles = [Line2D([], [], color=HL, lw=2.5, label="Ours: built nameplate + company totals (E)"),
+           Line2D([], [], color=HL, lw=1.8, ls=(0, (4, 3)), label="Ours: + modelled history (F, estimate)"),
+           Line2D([], [], color=HL, lw=8, alpha=0.15, label="Ours: built nameplate, sourced to upper bound (D to D-high)"),
+           Line2D([], [], color=TOTAL, lw=2, label="Ours: producing capacity (C)"),
            Line2D([], [], color=HL2, marker="o", lw=0, label="IEA"),
            Line2D([], [], color=INK, marker="s", lw=0, label="BNEF"),
            Line2D([], [], color=SUB, marker="^", lw=0, label="Benchmark")]

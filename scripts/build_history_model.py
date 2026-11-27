@@ -29,7 +29,7 @@ os.chdir(ROOT)
 FIRST, LAST = 2015, 2025
 
 con = duckdb.connect("factories.db")
-rows = con.execute("""SELECT b.id, b.year, b.gwh_iea, f.start_year FROM capacity_by_year b
+rows = con.execute("""SELECT b.id, b.year, b.gwh_built_nameplate, f.start_year FROM capacity_by_year b
                       JOIN factories_active f ON f.id = b.id WHERE f.status = 'operational'""").fetchall()
 d = defaultdict(dict)
 start = {}
@@ -132,14 +132,14 @@ for (comp, y), (_, v) in disc.items():
     site = sum(d[i].get(y, 0.0) + model[i].get(y, 0.0) for i in ids)
     unalloc[y] += max(0.0, v - site)
 dtot = defaultdict(float)
-for i, y, g in con.execute("SELECT id, year, gwh_iea FROM capacity_by_year").fetchall():
+for i, y, g in con.execute("SELECT id, year, gwh_built_nameplate FROM capacity_by_year").fetchall():
     dtot[y] += g or 0.0
 mtot = defaultdict(float)
 for i, y, g, _c in out:
     mtot[y] += g
 with open("capacity_by_year_f.csv", "w", newline="") as fh:
     w = csv.writer(fh)
-    w.writerow(["year", "gwh_iea_like_D", "gwh_modelled_backfill", "gwh_unallocated_vs_D_plus_model", "gwh_series_f"])
+    w.writerow(["year", "gwh_built_nameplate", "gwh_modelled_backfill", "gwh_unallocated_vs_D_plus_model", "gwh_series_f"])
     for y in range(2015, 2031):
         w.writerow([y, round(dtot[y]), round(mtot[y]), round(unalloc[y]), round(dtot[y] + mtot[y] + unalloc[y])])
 print(f"modelled {len(model)} plants; capacity of operational plants first credited after 2015 without a start_year "

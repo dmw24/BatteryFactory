@@ -1,4 +1,4 @@
-year,region,gwh_online_firm,gwh_pipeline,gwh_best_estimate,gwh_iea_like_commissioned,gwh_iea_like_high
+year,region,gwh_confirmed_installed,gwh_pipeline,gwh_producing,gwh_built_nameplate,gwh_built_nameplate_high
 2015,China,0.0,0.0,10.0,10.0,10.0
 2015,Europe,0.0,2.0,1.0,1.0,1.0
 2015,Japan,0.0,1.0,0.0,0.0,0.0
