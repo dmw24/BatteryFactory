@@ -3901,12 +3901,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC103",
@@ -3927,12 +3931,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC104",
@@ -3953,12 +3961,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC105",
@@ -3979,12 +3991,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC110",
@@ -4005,12 +4021,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC111",
@@ -4031,12 +4051,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC112",
@@ -4057,12 +4081,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "quotes verified (filing passes 100%/94%); unverified demoted"
+   }
   },
   {
    "id": "SC113",

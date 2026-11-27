@@ -1,0 +1,4 @@
+{"task": "SCZ_lead", "verified_on": "2026-11-27", "sources": {}, "rows": [
+ {"action": "fix", "id": "gem-morowali-pcam-indonesia", "fields": {}, "confidence": 0.5, "notes": "lead: installed_capacity rests on a search snippet only; confidence capped at 0.5 (S6)."},
+ {"action": "fix", "id": "albemarle-kemerton-lithium-hydroxide-australia", "fields": {}, "confidence": 0.5, "notes": "lead: capacity rests on reported-tier evidence; confidence capped at 0.5 (S6)."}
+]}

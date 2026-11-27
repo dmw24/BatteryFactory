@@ -2,67 +2,507 @@
  "task": "SC107",
  "verified_on": "2026-11-27",
  "sources": {
-  "S1": {"url": "https://www.sec.gov/Archives/edgar/data/0000909037/000090903725000026/a6-k_1q2025earningsrelease.htm", "publisher": "SQM (Form 6-K, Q1 2025 earnings release, Santiago, May 27, 2025)", "published": "2025-05-27", "accessed": "2026-11-27", "language": "en", "quote": "we continue working to reach a total capacity of 240,000 metric tons of lithium carbonate ... and 100,000 metric tons of lithium hydroxide."},
-  "S2": {"url": "https://www.industrialinfo.com/news/article/sqm-hits-record-lithium-sales-higher-income-in-q1-despite-lower-prices--342473", "publisher": "Industrial Info Resources", "published": "2025-05-30", "accessed": "2026-11-27", "language": "en", "quote": "SQM foresees reaching a lithium carbonate capacity of 240,000 metric tons in its Chilean operations by next year"},
-  "S3": {"url": "https://finviz.com/news/325890/sqm-reports-earnings-for-the-twelve-months-ended-december-31-2025", "publisher": "SQM FY2025 earnings release (GlobeNewswire via Finviz, Santiago, Feb. 27, 2026)", "published": "2026-02-27", "accessed": "2026-11-27", "language": "en", "quote": "we are operating at full capacity to meet our customer commitments"},
-  "S4": {"url": "https://seekingalpha.com/pr/20418299", "publisher": "SQM FY2025 earnings release (Seeking Alpha PR copy)", "published": "2026-02-27", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Nova Andino Litio (formerly SQM Salar) sold about 233,100 metric tons in 2025, up 14% from 2024 (web-search result summary of the SQM FY2025 release; page not opened). Sales volume of Chile lithium chemicals, not plant production."},
-  "S5": {"url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm", "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "During 2025, the Company's manufacturing plants operated at approximately 81% capacity, in the aggregate."},
-  "S6": {"url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm", "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties table, La Negra row)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "Production of technical and battery-grade lithium carbonate"},
-  "S7": {"url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm", "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties table footnote)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "both of the constructed trains of the Kemerton plant will be in care and maintenance"},
-  "S8": {"url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf", "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX, 27 Aug 2026), page 11", "published": "2026-08-27", "accessed": "2026-11-27", "language": "en", "quote": "First product and sales of lithium hydroxide from the Kwinana refinery were achieved in financial year 2026."},
-  "S9": {"url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf", "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX), page 11", "published": "2026-08-27", "accessed": "2026-11-27", "language": "en", "quote": "Ramp-up and progression of qualification activities were affected by intermittent odour issues throughout the year"},
-  "S10": {"url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf", "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX), page 11", "published": "2026-08-27", "accessed": "2026-11-27", "language": "en", "quote": "A portion of costs incurred during the ramp-up phase will continue to be capitalised until commercial production is achieved."},
-  "S11": {"url": "https://www.sec.gov/Archives/edgar/data/909037/000090903725000032/a6-k_2q2025earningsrelease.htm", "publisher": "SQM (Form 6-K, Q2 2025 earnings release, Santiago, Aug 19, 2025)", "published": "2025-08-19", "accessed": "2026-11-27", "language": "en", "quote": "We expect an 18-month ramp-up period to reach nameplate capacity of 50,000 tons of lithium hydroxide ... by the end of 2026."},
-  "S12": {"url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery", "publisher": "Covalent Lithium (company news release, 14 August; year 2025 inferred)", "published": "2025-08-14", "accessed": "2026-11-27", "language": "en", "quote": "the operation is expected to ramp-up to 50,000 tonnes per annum nameplate capacity over the next 18 months."},
-  "S13": {"url": "https://www.koreaherald.com/article/10012007", "publisher": "The Korea Herald (Yonhap), 29 Nov 2024", "published": "2024-11-29", "accessed": "2026-11-27", "language": "en", "quote": "Each plant can produce 21,500 tons of lithium hydroxide annually ... the combined amount of 43,000 tons is sufficient to produce batteries"},
-  "S14": {"url": "https://biz.heraldcorp.com/article/10932322", "publisher": "Herald Corp (Herald Business), 10 Nov 2026", "published": "2026-11-10", "accessed": "2026-11-27", "language": "en", "quote": "Combined annual capacity stands at 43,000 tons."},
-  "S15": {"url": "https://www.just-auto.com/newsletters/posco-pilbara-completes-second-lithium-hydroxide-plant-in-south-korea", "publisher": "Just Auto, 4 Dec 2024", "published": "2024-12-04", "accessed": "2026-11-27", "language": "en", "quote": "The facility will be able to produce up to 43,000 tonnes of lithium hydroxide per year at full capacity"},
-  "S16": {"url": "https://biz.heraldcorp.com/article/10932322", "publisher": "Herald Corp (Herald Business), 10 Nov 2026", "published": "2026-11-10", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "first factory was completed in 2023 and the second in 2024 (WebFetch page-summary wording, not a verified verbatim quote; web-search summary says second plant completed Nov/Dec 2024)"},
-  "S17": {"url": "https://www.panorama-minero.com/en/news/posco-launches-the-first-commercial-lithium-hydroxide-plant-in-argentina", "publisher": "Panorama Minero, 25 Oct 2024", "published": "2024-10-25", "accessed": "2026-11-27", "language": "en", "quote": "an annual production capacity of 25,000 tons"},
-  "S18": {"url": "https://www.panorama-minero.com/en/news/posco-launches-the-first-commercial-lithium-hydroxide-plant-in-argentina", "publisher": "Panorama Minero, 25 Oct 2024", "published": "2024-10-25", "accessed": "2026-11-27", "language": "en", "quote": "General Güemes Industrial Park in Salta Province"},
-  "S19": {"url": "https://news.metal.com/newscontent/104078897-poscos-2nd-hombre-muerto-lithium-plant-in-argentina-aims-for-q4-2026-completion-adding-25000-ty-capacity", "publisher": "SMM (Shanghai Metals Market) News, 25 Aug 2026", "published": "2026-08-25", "accessed": "2026-11-27", "language": "en", "quote": "The company's first plant at the site began operations in 2024."},
-  "S20": {"url": "https://www.kedglobal.com/newsView/ked202302150001", "publisher": "KED Global (Korea Economic Daily), 15 Feb 2023", "published": "2023-02-15", "accessed": "2026-11-27", "language": "en", "quote": "from 13,000 tons from the first plant to 26,000 tons"},
-  "S21": {"url": "https://www.just-auto.com/news/ecopro-starts-building-second-lithium-hydroxide-plant", "publisher": "Just Auto, 15 Feb 2023", "published": "2023-02-15", "accessed": "2026-11-27", "language": "en", "quote": "double lithium hydroxide capacity to 26,000 tons per year"},
-  "S22": {"url": "https://www.electrive.com/2025/07/17/ecopro-wins-sk-on-as-a-customer-for-its-lithium-hydroxide/", "publisher": "electrive.com, 17 Jul 2025", "published": "2025-07-17", "accessed": "2026-11-27", "language": "en", "quote": "up to 6,000 tonnes of lithium hydroxide produced in South Korea from Ecopro"},
-  "S23": {"url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/", "publisher": "ThinkGeoEnergy, 5 May 2026", "published": "2026-05-05", "accessed": "2026-11-27", "language": "en", "quote": "Infraserv Industrial Park Höchst in Frankfurt, Germany."},
-  "S24": {"url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/", "publisher": "ThinkGeoEnergy, 5 May 2026", "published": "2026-05-05", "accessed": "2026-11-27", "language": "en", "quote": "production capacity of 24,000 tonnes of LHM annually."},
-  "S25": {"url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/", "publisher": "ThinkGeoEnergy, 5 May 2026", "published": "2026-05-05", "accessed": "2026-11-27", "language": "en", "quote": "2028 commercial start of production target."},
-  "S26": {"url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/", "publisher": "ThinkGeoEnergy, 5 May 2026", "published": "2026-05-05", "accessed": "2026-11-27", "language": "en", "quote": "the start of major construction works"},
-  "S27": {"url": "https://wraltechwire.com/2023/12/01/governor-treasury-secretary-check-out-nc-clean-energy-efforts-business-nc-reports/", "publisher": "WRAL TechWire (Business NC report), 1 Dec 2023", "published": "2023-12-01", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "the plant can now process about 15,000 metric tons of lithium hydroxide a year (web-search result summary; page redirected to a generic WRAL page and was not read)"},
-  "S28": {"url": "https://prnewswire.com/news-releases/livent-hosts-groundbreaking-ceremony-for-construction-of-additional-lithium-hydroxide-production-facilities-in-bessemer-city-north-carolina-300947183.html", "publisher": "Livent Corporation (PR Newswire, Bessemer City, N.C., 29 Oct 2019)", "published": "2019-10-29", "accessed": "2026-11-27", "language": "en", "quote": "expected to enable Livent to increase its production of lithium hydroxide by 5,000 metric tons per year"},
-  "S29": {"url": "https://news.metal.com/newscontent/103090078-teslas-first-large-scale-battery-grade-lithium-refinery-in-us-starts-operations-with-50-gwh-annual-capacity", "publisher": "SMM (Shanghai Metals Market) News, 16 Dec 2024", "published": "2024-12-16", "accessed": "2026-11-27", "language": "en", "quote": "Tesla announced that its new lithium refinery located in Robstown, Texas, has successfully commenced operations."},
-  "S30": {"url": "https://www.riotinto.com/en/invest/reports/annual-report/key-project-updates", "publisher": "Rio Tinto (Annual report 2025, Capital projects page)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "Capacity: 28 ktpa LCE (100%)"},
-  "S31": {"url": "https://www.riotinto.com/en/invest/reports/annual-report/key-project-updates", "publisher": "Rio Tinto (Annual report 2025, Capital projects page)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "Planned first production: 2028"},
-  "S32": {"url": "https://www.areadevelopment.com/newsitems/3-23-2023/albemarle-corporation-chester-county-south-carolina.shtml", "publisher": "Area Development (Albemarle announcement, 23 Mar 2023)", "published": "2023-03-23", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The new facility is expected to annually produce approximately 50,000 metric tons of battery-grade lithium hydroxide from multiple sources, with the potential to reach up to 100,000 metric tons. (web-search result text; page returned HTTP 403)"},
-  "S33": {"url": "https://scdailygazette.com/2024/03/18/major-electric-vehicle-lithium-project-paused-other-sc-battery-recycling-investments-continue/", "publisher": "SC Daily Gazette, 18 Mar 2024", "published": "2024-03-18", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Headline: 'Major electric vehicle lithium project paused'; search summary: Albemarle decided to hold off building the $1.3 billion Richburg plant until lithium prices stabilise; S&P Global (Feb 2024) says Albemarle deferred spending at the Richburg mega-flex facility. (web-search result text; page not opened)"},
-  "S34": {"url": "https://www.industrialinfo.com/news/article/uk-backs-first-lithium-processing-refinery--362914", "publisher": "Industrial Info Resources, 29 Sep 2026", "published": "2026-09-29", "accessed": "2026-11-27", "language": "en", "quote": "25,000 tonnes per annum (TPA) of battery grade lithium hydroxide monohydrate (LHM)"},
-  "S35": {"url": "https://www.industrialinfo.com/news/article/uk-backs-first-lithium-processing-refinery--362914", "publisher": "Industrial Info Resources, 29 Sep 2026", "published": "2026-09-29", "accessed": "2026-11-27", "language": "en", "quote": "estimated startup date of 2028"},
-  "S36": {"url": "https://www.mining.com/web/livista-plans-german-lithium-refinery-for-ev-batteries/", "publisher": "Mining.com (2023)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Livista planned an initial capacity of 40,000 tonnes/year of battery-grade lithium products, roughly 30,000 t/y lithium hydroxide and 10,000 t/y lithium carbonate, at Emden, Germany (web-search result summary; page returned HTTP 403)"},
-  "S37": {"url": "https://www.marklines.com/en/news/317400", "publisher": "MarkLines ('Livista Energy, Luxembourg to build major lithium refinery facility in Le Havre, France')", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Livista picked Le Havre (27-hectare West A29 site) for its first refinery; a Livista executive is quoted 'We'll go to Emden later'; production 2028, initial capacity 40,000 tons annually per an undated company profile (web-search result summaries; pages not opened)"},
-  "S38": {"url": "https://chemxplore.com/companies/viridian-lithium", "publisher": "chemXplore company page (Viridian Lithium)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "Cancelled"},
-  "S39": {"url": "https://autotechinsight.spglobal.com/news/5266321/viridian-to-set-up-new-25000-tpy-lithium-hydroxide-plant-in-eastern-france-by-2025", "publisher": "S&P Global Autotech Insight (headline), 2022", "published": "2022-06-07", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Viridian to set up new 25,000 TPY lithium hydroxide plant in Eastern France by 2025 (search-result headline; page not opened)"},
-  "S40": {"url": "https://www.lejournaldesentreprises.com/article/viridian-lithium-en-liquidation-judiciaire-un-revers-pour-la-souverainete-industrielle-du-lithium-en-2138695", "publisher": "Le Journal des Entreprises", "published": "2026-03-09", "accessed": "2026-11-27", "language": "fr", "tier": "reported", "snippet": "Headline 'Viridian Lithium en liquidation judiciaire: un revers pour la souverainete industrielle du lithium'; search summary: placed in judicial liquidation on 9 March 2026 by the Strasbourg commercial court; construction site was in the middle of earthworks. (page returned HTTP 503; publication date taken from the search summary event date)"},
-  "S41": {"url": "https://www.mining-technology.com/news/galp-abandons-aurora-lithium-refinery/", "publisher": "Mining Technology, 27 Nov 2024", "published": "2024-11-27", "accessed": "2026-11-27", "language": "en", "quote": "The project was expected to produce 35,000 tonnes of battery-grade lithium hydroxide annually"},
-  "S42": {"url": "https://www.mining-technology.com/news/galp-abandons-aurora-lithium-refinery/", "publisher": "Mining Technology, 27 Nov 2024", "published": "2024-11-27", "accessed": "2026-11-27", "language": "en", "quote": "in the Sapec Bay Industrial Park in Setubal, on Portugal’s coast."},
-  "S43": {"url": "https://www.electrive.com/2026/02/12/french-state-invests-in-imerys-lithium-project/", "publisher": "electrive.com, 12 Feb 2026", "published": "2026-02-12", "accessed": "2026-11-27", "language": "en", "quote": "a facility for refining minerals and converting the raw material into lithium hydroxide"},
-  "S44": {"url": "https://metals-wire.net/commodities/lithium/imerys-delays-french-lithium-project-to-2030-as-pfs-doubles-mine-life-and-lifts-capex", "publisher": "Metals Wire ('Imerys delays French lithium project to 2030 as PFS doubles mine life and lifts capex')", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Search summary: commercial output now 2030 (was 2028), FID by end-2027; nameplate about 34,000 t/y lithium hydroxide; conversion plant at the 'La Loue' industrial estate (Saint-Victor, near Montlucon); EUR 700-800 million earmarked for the conversion plant. (host not resolvable by WebFetch; search-result text only)"},
-  "S45": {"url": "https://pv-magazine-india.com/2025/03/05/lohum-announces-indias-first-battery-grade-lithium-refinery", "publisher": "pv magazine India, 5 Mar 2025", "published": "2025-03-05", "accessed": "2026-11-27", "language": "en", "quote": "1,000 metric tonnes annually"},
-  "S46": {"url": "https://www.autocarpro.in/news/lohum-pioneers-indias-first-battery-grade-lithium-refinery-125260", "publisher": "Autocar Professional (Lohum inaugurates India's first battery-grade lithium refinery)", "published": "2025-03-05", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Lohum inaugurated what it called India's first battery-grade lithium refinery in March 2025, annual capacity 1,000 metric tonnes, can also produce lithium hydroxide; Fastmarkets headline: refinery can take both black mass and spodumene inputs (web-search result summaries; pages not opened)"},
-  "S47": {"url": "https://evreporter.com/altmin-and-sccl-to-setup-%E2%82%B92250-crore-lithium-refinery-project-in-telangana/", "publisher": "EVreporter, 18 Dec 2025", "published": "2025-12-18", "accessed": "2026-11-27", "language": "en", "quote": "annual production capacity of 30,000 tonnes of battery-grade lithium carbonate"},
-  "S48": {"url": "https://evreporter.com/altmin-and-sccl-to-setup-%E2%82%B92250-crore-lithium-refinery-project-in-telangana/", "publisher": "EVreporter, 18 Dec 2025", "published": "2025-12-18", "accessed": "2026-11-27", "language": "en", "quote": "targeted to be operational by 2027"},
-  "S49": {"url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia", "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)", "published": "2023-01-25", "accessed": "2026-11-27", "language": "en", "quote": "The initial plan is to produce 50,000 tonnes and later 150,000 tonnes per year."},
-  "S50": {"url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia", "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)", "published": "2023-01-25", "accessed": "2026-11-27", "language": "en", "quote": "located in Yanbu Industrial City"},
-  "S51": {"url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia", "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)", "published": "2023-01-25", "accessed": "2026-11-27", "language": "en", "quote": "scheduled to start in 2026"},
-  "S52": {"url": "https://www.zawya.com/en/projects/industry/uaes-titan-lithium-to-build-14bln-lithium-processing-plant-in-kezad-h3izccnf", "publisher": "Zawya Projects (Titan Lithium, KEZAD)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "at the cost of 5 billion UAE dirhams ($1.36 billion)"},
-  "S53": {"url": "https://en.7news.ma/?p=12280", "publisher": "7news.ma, 24 Jul 2025", "published": "2025-07-24", "accessed": "2026-11-27", "language": "en", "quote": "LG Energy Solution and China’s Yahua Group"},
-  "S54": {"url": "https://www.argusmedia.com/news-and-insights/latest-market-news/2714082-yahua-lges-move-forward-with-morocco-lithium-refinery", "publisher": "Argus Media ('Yahua, LGES move forward with Morocco lithium refinery')", "published": "2025-07-24", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Search summary: nameplate capacity of 90,000 t/yr of lithium salts, including 30,000 t/yr in the first phase; first phase backed by over MAD 5.5 billion (announced July 2025). Page returned empty content; publication date approximated from the 7news.ma article."},
-  "S55": {"url": "https://interfax.com/newsroom/top-stories/115749/", "publisher": "Interfax, 22 Jan 2026", "published": "2026-01-22", "accessed": "2026-11-27", "language": "en", "quote": "will produce 45,000 tonnes of lithium carbonate and hydroxide per year, with full ramp-up by 2030"},
-  "S56": {"url": "https://www.mining.com/web/russia-to-speed-up-sole-lithium-project-to-cut-import-reliance/", "publisher": "Mining.com / Interfax and other search summaries (Polar Lithium, Kolmozerskoye)", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Search summaries: Polar Lithium (Nornickel and Rosatom, equal shares) plans mine, processing plant and chemical-metallurgical plant in the Murmansk Region by 2030, 45,000 t/y lithium carbonate and hydroxide; pilot stage at 10% of capacity in 2026-2027. Page returned HTTP 403."},
-  "S57": {"url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226010634/ex99-1.htm", "publisher": "Stardust Power Inc., Form 8-K Exhibit 99.1 (17 Mar 2026)", "published": "2026-03-17", "accessed": "2026-11-27", "language": "en", "quote": "the capacity to produce up to 50,000 metric tons of battery-grade lithium carbonate annually"},
-  "S58": {"url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226010634/ex99-1.htm", "publisher": "Stardust Power Inc., Form 8-K Exhibit 99.1 (17 Mar 2026)", "published": "2026-03-17", "accessed": "2026-11-27", "language": "en", "quote": "initiating early site preparation as the refinery advances toward construction"},
-  "S59": {"url": "https://news.metal.com/newscontent/103990045-yahua-accelerates-construction-of-zimbabwe-lithium-sulfate-processing-project", "publisher": "SMM (Shanghai Metals Market) News, 6 Jul 2026", "published": "2026-07-06", "accessed": "2026-11-27", "language": "en", "quote": "designed to process 350,000 mt of lithium concentrate annually and produce 75,000 mt of lithium sulfate per year."},
-  "S60": {"url": "https://news.metal.com/newscontent/103990045-yahua-accelerates-construction-of-zimbabwe-lithium-sulfate-processing-project", "publisher": "SMM (Shanghai Metals Market) News, 6 Jul 2026", "published": "2026-07-06", "accessed": "2026-11-27", "language": "en", "quote": "Commercial operation is scheduled for 2027."},
-  "S61": {"url": "https://www.fastmarkets.com/insights/brazilian-lithium-producers-plan-expansions-amid-falling-prices/", "publisher": "Fastmarkets, 16 Jul 2025", "published": "2025-07-16", "accessed": "2026-11-27", "language": "en", "quote": "from 2,000 tpy to 6,000 tpy of lithium carbonate equivalent (LCE)"}
+  "S1": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000909037/000090903725000026/a6-k_1q2025earningsrelease.htm",
+   "publisher": "SQM (Form 6-K, Q1 2025 earnings release, Santiago, May 27, 2025)",
+   "published": "2025-05-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we continue working to reach a total capacity of 240,000 metric tons of lithium carbonate ... and 100,000 metric tons of lithium hydroxide."
+  },
+  "S2": {
+   "url": "https://www.industrialinfo.com/news/article/sqm-hits-record-lithium-sales-higher-income-in-q1-despite-lower-prices--342473",
+   "publisher": "Industrial Info Resources",
+   "published": "2025-05-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "SQM foresees reaching a lithium carbonate capacity of 240,000 metric tons in its Chilean operations by next year"
+  },
+  "S3": {
+   "url": "https://finviz.com/news/325890/sqm-reports-earnings-for-the-twelve-months-ended-december-31-2025",
+   "publisher": "SQM FY2025 earnings release (GlobeNewswire via Finviz, Santiago, Feb. 27, 2026)",
+   "published": "2026-02-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "we are operating at full capacity to meet our customer commitments"
+  },
+  "S4": {
+   "url": "https://seekingalpha.com/pr/20418299",
+   "publisher": "SQM FY2025 earnings release (Seeking Alpha PR copy)",
+   "published": "2026-02-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Nova Andino Litio (formerly SQM Salar) sold about 233,100 metric tons in 2025, up 14% from 2024 (web-search result summary of the SQM FY2025 release; page not opened). Sales volume of Chile lithium chemicals, not plant production."
+  },
+  "S5": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "During 2025, the Company's manufacturing plants operated at approximately 81% capacity, in the aggregate."
+  },
+  "S6": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties table, La Negra row)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Production of technical and battery-grade lithium carbonate"
+  },
+  "S7": {
+   "url": "https://www.sec.gov/Archives/edgar/data/915913/000091591326000018/alb-20251231.htm",
+   "publisher": "Albemarle Corporation, Form 10-K FY2025 (Item 2 Properties table footnote)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "both of the constructed trains of the Kemerton plant will be in care and maintenance"
+  },
+  "S8": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf",
+   "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX, 27 Aug 2026), page 11",
+   "published": "2026-08-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "First product and sales of lithium hydroxide from the Kwinana refinery were achieved in financial year 2026."
+  },
+  "S9": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf",
+   "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX), page 11",
+   "published": "2026-08-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ramp-up and progression of qualification activities were affected by intermittent odour issues throughout the year"
+  },
+  "S10": {
+   "url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf",
+   "publisher": "Wesfarmers Limited, 2026 Full-year results news release (ASX), page 11",
+   "published": "2026-08-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "A portion of costs incurred during the ramp-up phase will continue to be capitalised until commercial production is achieved."
+  },
+  "S11": {
+   "url": "https://www.sec.gov/Archives/edgar/data/909037/000090903725000032/a6-k_2q2025earningsrelease.htm",
+   "publisher": "SQM (Form 6-K, Q2 2025 earnings release, Santiago, Aug 19, 2025)",
+   "published": "2025-08-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "We expect an 18-month ramp-up period to reach nameplate capacity of 50,000 tons of lithium hydroxide ... by the end of 2026."
+  },
+  "S12": {
+   "url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery",
+   "publisher": "Covalent Lithium (company news release, 14 August; year 2025 inferred)",
+   "published": "2025-08-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the operation is expected to ramp-up to 50,000 tonnes per annum nameplate capacity over the next 18 months."
+  },
+  "S13": {
+   "url": "https://www.koreaherald.com/article/10012007",
+   "publisher": "The Korea Herald (Yonhap), 29 Nov 2024",
+   "published": "2024-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Each plant can produce 21,500 tons of lithium hydroxide annually ... the combined amount of 43,000 tons is sufficient to produce batteries"
+  },
+  "S14": {
+   "url": "https://biz.heraldcorp.com/article/10932322",
+   "publisher": "Herald Corp (Herald Business), 10 Nov 2026",
+   "published": "2026-11-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Combined annual capacity stands at 43,000 tons."
+  },
+  "S15": {
+   "url": "https://www.just-auto.com/newsletters/posco-pilbara-completes-second-lithium-hydroxide-plant-in-south-korea",
+   "publisher": "Just Auto, 4 Dec 2024",
+   "published": "2024-12-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility will be able to produce up to 43,000 tonnes of lithium hydroxide per year at full capacity"
+  },
+  "S16": {
+   "url": "https://biz.heraldcorp.com/article/10932322",
+   "publisher": "Herald Corp (Herald Business), 10 Nov 2026",
+   "published": "2026-11-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "first factory was completed in 2023 and the second in 2024 (WebFetch page-summary wording, not a verified verbatim quote; web-search summary says second plant completed Nov/Dec 2024)"
+  },
+  "S17": {
+   "url": "https://www.panorama-minero.com/en/news/posco-launches-the-first-commercial-lithium-hydroxide-plant-in-argentina",
+   "publisher": "Panorama Minero, 25 Oct 2024",
+   "published": "2024-10-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "an annual production capacity of 25,000 tons"
+  },
+  "S18": {
+   "url": "https://www.panorama-minero.com/en/news/posco-launches-the-first-commercial-lithium-hydroxide-plant-in-argentina",
+   "publisher": "Panorama Minero, 25 Oct 2024",
+   "published": "2024-10-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "General Güemes Industrial Park in Salta Province"
+  },
+  "S19": {
+   "url": "https://news.metal.com/newscontent/104078897-poscos-2nd-hombre-muerto-lithium-plant-in-argentina-aims-for-q4-2026-completion-adding-25000-ty-capacity",
+   "publisher": "SMM (Shanghai Metals Market) News, 25 Aug 2026",
+   "published": "2026-08-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company's first plant at the site began operations in 2024."
+  },
+  "S20": {
+   "url": "https://www.kedglobal.com/newsView/ked202302150001",
+   "publisher": "KED Global (Korea Economic Daily), 15 Feb 2023",
+   "published": "2023-02-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from 13,000 tons from the first plant to 26,000 tons"
+  },
+  "S21": {
+   "url": "https://www.just-auto.com/news/ecopro-starts-building-second-lithium-hydroxide-plant",
+   "publisher": "Just Auto, 15 Feb 2023",
+   "published": "2023-02-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "double lithium hydroxide capacity to 26,000 tons per year"
+  },
+  "S22": {
+   "url": "https://www.electrive.com/2025/07/17/ecopro-wins-sk-on-as-a-customer-for-its-lithium-hydroxide/",
+   "publisher": "electrive.com, 17 Jul 2025",
+   "published": "2025-07-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "up to 6,000 tonnes of lithium hydroxide produced in South Korea from Ecopro"
+  },
+  "S23": {
+   "url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/",
+   "publisher": "ThinkGeoEnergy, 5 May 2026",
+   "published": "2026-05-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Infraserv Industrial Park Höchst in Frankfurt, Germany."
+  },
+  "S24": {
+   "url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/",
+   "publisher": "ThinkGeoEnergy, 5 May 2026",
+   "published": "2026-05-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "production capacity of 24,000 tonnes of LHM annually."
+  },
+  "S25": {
+   "url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/",
+   "publisher": "ThinkGeoEnergy, 5 May 2026",
+   "published": "2026-05-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "2028 commercial start of production target."
+  },
+  "S26": {
+   "url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/",
+   "publisher": "ThinkGeoEnergy, 5 May 2026",
+   "published": "2026-05-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the start of major construction works"
+  },
+  "S27": {
+   "url": "https://wraltechwire.com/2023/12/01/governor-treasury-secretary-check-out-nc-clean-energy-efforts-business-nc-reports/",
+   "publisher": "WRAL TechWire (Business NC report), 1 Dec 2023",
+   "published": "2023-12-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "the plant can now process about 15,000 metric tons of lithium hydroxide a year (web-search result summary; page redirected to a generic WRAL page and was not read)"
+  },
+  "S28": {
+   "url": "https://prnewswire.com/news-releases/livent-hosts-groundbreaking-ceremony-for-construction-of-additional-lithium-hydroxide-production-facilities-in-bessemer-city-north-carolina-300947183.html",
+   "publisher": "Livent Corporation (PR Newswire, Bessemer City, N.C., 29 Oct 2019)",
+   "published": "2019-10-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "expected to enable Livent to increase its production of lithium hydroxide by 5,000 metric tons per year"
+  },
+  "S29": {
+   "url": "https://news.metal.com/newscontent/103090078-teslas-first-large-scale-battery-grade-lithium-refinery-in-us-starts-operations-with-50-gwh-annual-capacity",
+   "publisher": "SMM (Shanghai Metals Market) News, 16 Dec 2024",
+   "published": "2024-12-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Tesla announced that its new lithium refinery located in Robstown, Texas, has successfully commenced operations."
+  },
+  "S30": {
+   "url": "https://www.riotinto.com/en/invest/reports/annual-report/key-project-updates",
+   "publisher": "Rio Tinto (Annual report 2025, Capital projects page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Capacity: 28 ktpa LCE (100%)"
+  },
+  "S31": {
+   "url": "https://www.riotinto.com/en/invest/reports/annual-report/key-project-updates",
+   "publisher": "Rio Tinto (Annual report 2025, Capital projects page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Planned first production: 2028"
+  },
+  "S32": {
+   "url": "https://www.areadevelopment.com/newsitems/3-23-2023/albemarle-corporation-chester-county-south-carolina.shtml",
+   "publisher": "Area Development (Albemarle announcement, 23 Mar 2023)",
+   "published": "2023-03-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The new facility is expected to annually produce approximately 50,000 metric tons of battery-grade lithium hydroxide from multiple sources, with the potential to reach up to 100,000 metric tons. (web-search result text; page returned HTTP 403)"
+  },
+  "S33": {
+   "url": "https://scdailygazette.com/2024/03/18/major-electric-vehicle-lithium-project-paused-other-sc-battery-recycling-investments-continue/",
+   "publisher": "SC Daily Gazette, 18 Mar 2024",
+   "published": "2024-03-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Headline: 'Major electric vehicle lithium project paused'; search summary: Albemarle decided to hold off building the $1.3 billion Richburg plant until lithium prices stabilise; S&P Global (Feb 2024) says Albemarle deferred spending at the Richburg mega-flex facility. (web-search result text; page not opened)"
+  },
+  "S34": {
+   "url": "https://www.industrialinfo.com/news/article/uk-backs-first-lithium-processing-refinery--362914",
+   "publisher": "Industrial Info Resources, 29 Sep 2026",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "25,000 tonnes per annum (TPA) of battery grade lithium hydroxide monohydrate (LHM)"
+  },
+  "S35": {
+   "url": "https://www.industrialinfo.com/news/article/uk-backs-first-lithium-processing-refinery--362914",
+   "publisher": "Industrial Info Resources, 29 Sep 2026",
+   "published": "2026-09-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "estimated startup date of 2028"
+  },
+  "S36": {
+   "url": "https://www.mining.com/web/livista-plans-german-lithium-refinery-for-ev-batteries/",
+   "publisher": "Mining.com (2023)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Livista planned an initial capacity of 40,000 tonnes/year of battery-grade lithium products, roughly 30,000 t/y lithium hydroxide and 10,000 t/y lithium carbonate, at Emden, Germany (web-search result summary; page returned HTTP 403)"
+  },
+  "S37": {
+   "url": "https://www.marklines.com/en/news/317400",
+   "publisher": "MarkLines ('Livista Energy, Luxembourg to build major lithium refinery facility in Le Havre, France')",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Livista picked Le Havre (27-hectare West A29 site) for its first refinery; a Livista executive is quoted 'We'll go to Emden later'; production 2028, initial capacity 40,000 tons annually per an undated company profile (web-search result summaries; pages not opened)"
+  },
+  "S38": {
+   "url": "https://chemxplore.com/companies/viridian-lithium",
+   "publisher": "chemXplore company page (Viridian Lithium)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Cancelled"
+  },
+  "S39": {
+   "url": "https://autotechinsight.spglobal.com/news/5266321/viridian-to-set-up-new-25000-tpy-lithium-hydroxide-plant-in-eastern-france-by-2025",
+   "publisher": "S&P Global Autotech Insight (headline), 2022",
+   "published": "2022-06-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Viridian to set up new 25,000 TPY lithium hydroxide plant in Eastern France by 2025 (search-result headline; page not opened)"
+  },
+  "S40": {
+   "url": "https://www.lejournaldesentreprises.com/article/viridian-lithium-en-liquidation-judiciaire-un-revers-pour-la-souverainete-industrielle-du-lithium-en-2138695",
+   "publisher": "Le Journal des Entreprises",
+   "published": "2026-03-09",
+   "accessed": "2026-11-27",
+   "language": "fr",
+   "tier": "reported",
+   "snippet": "Headline 'Viridian Lithium en liquidation judiciaire: un revers pour la souverainete industrielle du lithium'; search summary: placed in judicial liquidation on 9 March 2026 by the Strasbourg commercial court; construction site was in the middle of earthworks. (page returned HTTP 503; publication date taken from the search summary event date)"
+  },
+  "S41": {
+   "url": "https://www.mining-technology.com/news/galp-abandons-aurora-lithium-refinery/",
+   "publisher": "Mining Technology, 27 Nov 2024",
+   "published": "2024-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The project was expected to produce 35,000 tonnes of battery-grade lithium hydroxide annually"
+  },
+  "S42": {
+   "url": "https://www.mining-technology.com/news/galp-abandons-aurora-lithium-refinery/",
+   "publisher": "Mining Technology, 27 Nov 2024",
+   "published": "2024-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "in the Sapec Bay Industrial Park in Setubal, on Portugal’s coast."
+  },
+  "S43": {
+   "url": "https://www.electrive.com/2026/02/12/french-state-invests-in-imerys-lithium-project/",
+   "publisher": "electrive.com, 12 Feb 2026",
+   "published": "2026-02-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a facility for refining minerals and converting the raw material into lithium hydroxide"
+  },
+  "S44": {
+   "url": "https://metals-wire.net/commodities/lithium/imerys-delays-french-lithium-project-to-2030-as-pfs-doubles-mine-life-and-lifts-capex",
+   "publisher": "Metals Wire ('Imerys delays French lithium project to 2030 as PFS doubles mine life and lifts capex')",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search summary: commercial output now 2030 (was 2028), FID by end-2027; nameplate about 34,000 t/y lithium hydroxide; conversion plant at the 'La Loue' industrial estate (Saint-Victor, near Montlucon); EUR 700-800 million earmarked for the conversion plant. (host not resolvable by WebFetch; search-result text only)"
+  },
+  "S45": {
+   "url": "https://pv-magazine-india.com/2025/03/05/lohum-announces-indias-first-battery-grade-lithium-refinery",
+   "publisher": "pv magazine India, 5 Mar 2025",
+   "published": "2025-03-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "1,000 metric tonnes annually"
+  },
+  "S46": {
+   "url": "https://www.autocarpro.in/news/lohum-pioneers-indias-first-battery-grade-lithium-refinery-125260",
+   "publisher": "Autocar Professional (Lohum inaugurates India's first battery-grade lithium refinery)",
+   "published": "2025-03-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Lohum inaugurated what it called India's first battery-grade lithium refinery in March 2025, annual capacity 1,000 metric tonnes, can also produce lithium hydroxide; Fastmarkets headline: refinery can take both black mass and spodumene inputs (web-search result summaries; pages not opened)"
+  },
+  "S47": {
+   "url": "https://evreporter.com/altmin-and-sccl-to-setup-%E2%82%B92250-crore-lithium-refinery-project-in-telangana/",
+   "publisher": "EVreporter, 18 Dec 2025",
+   "published": "2025-12-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "annual production capacity of 30,000 tonnes of battery-grade lithium carbonate"
+  },
+  "S48": {
+   "url": "https://evreporter.com/altmin-and-sccl-to-setup-%E2%82%B92250-crore-lithium-refinery-project-in-telangana/",
+   "publisher": "EVreporter, 18 Dec 2025",
+   "published": "2025-12-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "targeted to be operational by 2027"
+  },
+  "S49": {
+   "url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia",
+   "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)",
+   "published": "2023-01-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The initial plan is to produce 50,000 tonnes and later 150,000 tonnes per year."
+  },
+  "S50": {
+   "url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia",
+   "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)",
+   "published": "2023-01-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "located in Yanbu Industrial City"
+  },
+  "S51": {
+   "url": "https://www.electrive.com/2023/01/25/ev-metals-to-build-processing-complex-in-saudi-arabia",
+   "publisher": "electrive.com, 25 Jan 2023 (updated 13 Feb 2023)",
+   "published": "2023-01-25",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "scheduled to start in 2026"
+  },
+  "S52": {
+   "url": "https://www.zawya.com/en/projects/industry/uaes-titan-lithium-to-build-14bln-lithium-processing-plant-in-kezad-h3izccnf",
+   "publisher": "Zawya Projects (Titan Lithium, KEZAD)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "at the cost of 5 billion UAE dirhams ($1.36 billion)"
+  },
+  "S53": {
+   "url": "https://en.7news.ma/?p=12280",
+   "publisher": "7news.ma, 24 Jul 2025",
+   "published": "2025-07-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "LG Energy Solution and China’s Yahua Group"
+  },
+  "S54": {
+   "url": "https://www.argusmedia.com/news-and-insights/latest-market-news/2714082-yahua-lges-move-forward-with-morocco-lithium-refinery",
+   "publisher": "Argus Media ('Yahua, LGES move forward with Morocco lithium refinery')",
+   "published": "2025-07-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search summary: nameplate capacity of 90,000 t/yr of lithium salts, including 30,000 t/yr in the first phase; first phase backed by over MAD 5.5 billion (announced July 2025). Page returned empty content; publication date approximated from the 7news.ma article."
+  },
+  "S55": {
+   "url": "https://interfax.com/newsroom/top-stories/115749/",
+   "publisher": "Interfax, 22 Jan 2026",
+   "published": "2026-01-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will produce 45,000 tonnes of lithium carbonate and hydroxide per year, with full ramp-up by 2030"
+  },
+  "S56": {
+   "url": "https://www.mining.com/web/russia-to-speed-up-sole-lithium-project-to-cut-import-reliance/",
+   "publisher": "Mining.com / Interfax and other search summaries (Polar Lithium, Kolmozerskoye)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Search summaries: Polar Lithium (Nornickel and Rosatom, equal shares) plans mine, processing plant and chemical-metallurgical plant in the Murmansk Region by 2030, 45,000 t/y lithium carbonate and hydroxide; pilot stage at 10% of capacity in 2026-2027. Page returned HTTP 403."
+  },
+  "S57": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226010634/ex99-1.htm",
+   "publisher": "Stardust Power Inc., Form 8-K Exhibit 99.1 (17 Mar 2026)",
+   "published": "2026-03-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the capacity to produce up to 50,000 metric tons of battery-grade lithium carbonate annually"
+  },
+  "S58": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1831979/000149315226010634/ex99-1.htm",
+   "publisher": "Stardust Power Inc., Form 8-K Exhibit 99.1 (17 Mar 2026)",
+   "published": "2026-03-17",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "initiating early site preparation as the refinery advances toward construction"
+  },
+  "S59": {
+   "url": "https://news.metal.com/newscontent/103990045-yahua-accelerates-construction-of-zimbabwe-lithium-sulfate-processing-project",
+   "publisher": "SMM (Shanghai Metals Market) News, 6 Jul 2026",
+   "published": "2026-07-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed to process 350,000 mt of lithium concentrate annually and produce 75,000 mt of lithium sulfate per year."
+  },
+  "S60": {
+   "url": "https://news.metal.com/newscontent/103990045-yahua-accelerates-construction-of-zimbabwe-lithium-sulfate-processing-project",
+   "publisher": "SMM (Shanghai Metals Market) News, 6 Jul 2026",
+   "published": "2026-07-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Commercial operation is scheduled for 2027."
+  },
+  "S61": {
+   "url": "https://www.fastmarkets.com/insights/brazilian-lithium-producers-plan-expansions-amid-falling-prices/",
+   "publisher": "Fastmarkets, 16 Jul 2025",
+   "published": "2025-07-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from 2,000 tpy to 6,000 tpy of lithium carbonate equivalent (LCE)"
+  }
  },
  "rows": [
   {
@@ -80,23 +520,46 @@
     "source_url": "https://www.sec.gov/Archives/edgar/data/0000909037/000090903725000026/a6-k_1q2025earningsrelease.htm",
     "source_published_date": "2025-05-27"
    },
-   "evidence": {"status": ["S3"], "capacity": ["S1", "S2"]},
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S1",
+     "S2"
+    ]
+   },
    "confidence": 0.65,
    "notes": "Replaces the earlier reported-tier 210,000 t Li2CO3 figure. SQM Q1-2025 release (6-K, 27 May 2025): 'working to reach a total capacity of 240,000 metric tons of lithium carbonate and 100,000 metric tons of lithium hydroxide' in Chile; Industrial Info (30 May 2025) says carbonate 240,000 t 'by next year' (2026) and hydroxide 100,000 t 'by the end of this year' (2025). capacity_norm 328,000 t LCE = 240,000 (Li2CO3) + 100,000 x 0.88 (LiOH monohydrate, D-102). These are Chile-wide targets for the SQM chemical plants (Salar del Carmen carbonate and hydroxide plants near Antofagasta; the release does not break out Coya Sur); stated targets, NOT confirmed installed capacity. installed_capacity left null. FY2025 results (27 Feb 2026): 'operating at full capacity to meet our customer commitments' (S3). Reported-tier: Nova Andino Litio sold ~233,100 t LCE in 2025 (S4; sales not plant production, includes Salar de Atacama volumes and China-made volumes are excluded per release), so actual Chile output is ~233 kt LCE vs the 328 kt LCE target. Search summaries give conflicting hydroxide plans (30,000 t in 2022 -> 40,000 t; 100,000 t by end-2025). The SQM 2025 Form 20-F (sqm-20251231.htm, filed 2026-04-22, sec.gov accession 0000909037-26-000023) exceeds the 10 MB fetch limit and could not be read; its Item 4 capacity table should supersede this row. sqm-ynv.com redirect from sqm.com seen and not followed. Capacity of Salar del Carmen alone vs total Chile not separable from the sources opened. Nova Andino Litio is the SQM-Codelco venture (SC008 notes)."
   },
   {
    "action": "update",
    "id": "albemarle-la-negra-lithium-carbonate-chile",
-   "fields": {"status": "operational", "project_state": "active"},
-   "evidence": {"status": ["S5", "S6"]},
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S5",
+     "S6"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Albemarle FY2025 Form 10-K Item 2 lists La Negra (Chile) among active plants: 'Production of technical and battery-grade lithium carbonate' (S6); 10-K says 'During 2025, the Company's manufacturing plants operated at approximately 81% capacity, in the aggregate' (S5; company-wide, not La Negra-specific). The 10-K does not give per-plant tonnage; 85,000 t Li2CO3 capacity remains from SC008 company-page evidence (page undated). No plant-level 2025 output found (Albemarle reports attributable mine production: Salar de Atacama 14 kt Li metal in 2025 per 10-K, not plant output)."
   },
   {
    "action": "update",
    "id": "albemarle-kemerton-lithium-hydroxide-australia",
-   "fields": {"status": "operational", "project_state": "paused"},
-   "evidence": {"status": ["S7"]},
+   "fields": {
+    "status": "operational",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ]
+   },
    "confidence": 0.55,
    "notes": "Albemarle FY2025 10-K Item 2 footnote: 'both of the constructed trains of the Kemerton plant will be in care and maintenance' (S7) - primary-source confirmation that the plant is idle (project_state paused). Capacity (2 x 25,000 t LiOH built; Trains 3-4 stopped) unchanged from SC008 (reported tier). Contributes 0 operating capacity as of Feb 2026."
   },
@@ -117,7 +580,17 @@
     "source_url": "https://announcements.asx.com.au/asxpdf/20260827/pdf/0738z7fxb48k84.pdf",
     "source_published_date": "2026-08-27"
    },
-   "evidence": {"status": ["S8", "S9", "S10"], "capacity": ["S11", "S12"]},
+   "evidence": {
+    "status": [
+     "S8",
+     "S9",
+     "S10"
+    ],
+    "capacity": [
+     "S11",
+     "S12"
+    ]
+   },
    "confidence": 0.8,
    "notes": "STATUS CHANGED from operational to under_construction (ramp-up/commissioning): Wesfarmers FY26 results (27 Aug 2026, page 11): first product and sales of LiOH achieved in FY2026, ramp-up affected by intermittent odour issues, mitigation measures started late FY26, recovery 'anticipated to remain below the targeted design rate during financial year 2027', and 'A portion of costs incurred during the ramp-up phase will continue to be capitalised until commercial production is achieved' (i.e. commercial production NOT yet reached). Production rates expected to accelerate through 2H FY27; offtake qualification to finish 2H FY27. Wesfarmers publishes NO hydroxide tonnage (only spodumene: WesCEF share 209 kt FY26; 151 kt sold; remainder to refinery/inventory), so 2025 and FY26 output = not disclosed (null). Nameplate 50,000 t/y LiOH (25,000 t attributable to SQM). capacity_ref_year: SQM Q2-2025 6-K says 18-month ramp to nameplate 'by the end of 2026' (S11) -> 2026; Covalent's own release (S12) says 18 months from Aug 2025 (= early 2027); SC008 used 2027. The lead may keep status operational if 'first product' is the definition; I treated the brief's 'commercial production reached' literally."
   },
@@ -135,7 +608,15 @@
     "source_url": "https://www.thinkgeoenergy.com/vulcan-starts-construction-of-downstream-processing-plant-for-geothermal-lithium-project/",
     "source_published_date": "2026-05-05"
    },
-   "evidence": {"status": ["S26"], "capacity": ["S24", "S25"]},
+   "evidence": {
+    "status": [
+     "S26"
+    ],
+    "capacity": [
+     "S24",
+     "S25"
+    ]
+   },
    "confidence": 0.7,
    "notes": "Site CONFIRMED as the Central Lithium Plant at Infraserv Industrial Park Hoechst, Frankfurt (S23, ThinkGeoEnergy 5 May 2026): 'the start of major construction works' (S26), 'production capacity of 24,000 tonnes of LHM annually' (S24), '2028 commercial start of production target' (S25). Search summaries (S&P Global, Mining Weekly; not opened, 403/paywall) agree: FID and EUR 2.2 bn financing Dec 2025, financial close May 2026, ~2.5-year build, first production 2028; the upstream lithium extraction (geothermal brine, Landau) is a separate asset. Replaces Wikipedia-only evidence from SC008. The 'Nobian' JV partner in jv_partners was a Wikipedia claim not confirmed here (left unchanged; lead should verify or null it). Coordinates are the Frankfurt-Hoechst locality (town)."
   },
@@ -149,15 +630,28 @@
     "source_url": "https://wraltechwire.com/2023/12/01/governor-treasury-secretary-check-out-nc-clean-energy-efforts-business-nc-reports/",
     "source_published_date": "2023-12-01"
    },
-   "evidence": {"capacity": ["S27", "S28"]},
+   "evidence": {
+    "capacity": [
+     "S27",
+     "S28"
+    ]
+   },
    "confidence": 0.45,
    "notes": "REPORTED TIER capacity: WRAL TechWire/Business NC (1 Dec 2023, search-summary text): plant 'can now process about 15,000 metric tons of lithium hydroxide a year'. Livent's 29 Oct 2019 release (verbatim, S28) says the expansion would add 5,000 t/y; a 2022 release says +50% (implies ~10,000 t before, ~15,000 after). A search summary of Rio Tinto's FY2025 annual report says the site is listed at 15,000 t/y LiOH monohydrate (PDF >10 MB, not opened). A policyrisk.com page says 5,000-8,000 t (vague, rejected). Unit assumed metric tonnes LiOH, monohydrate basis assumed (D-102). Arcadium Q2-2024 release (search summary): 30,000 t of hydroxide expansions at Bessemer City, Zhejiang (China) and Naraha 'finalizing qualification' - so current nameplate may be higher than 15,000 t; not resolved. 2025 plant output: not disclosed in anything found (null). Owner Rio Tinto since Mar 2025 (search summary: Arcadium deal completed)."
   },
   {
    "action": "update",
    "id": "tesla-robstown-lithium-refinery-united-states",
-   "fields": {"status": "operational", "project_state": "active", "start_year": 2024},
-   "evidence": {"status": ["S29"]},
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2024
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
    "confidence": 0.55,
    "notes": "SMM 16 Dec 2024: 'Tesla announced that its new lithium refinery located in Robstown, Texas, has successfully commenced operations.' (S29; the same page gives capacity only as '50 GWh' of lithium annually, an energy unit - not entered). start_year 2024 = first start (supersedes SC008 2025 'full integrated startup'; the lead may prefer 2025). Capacity in tonnes remains UNVERIFIED: a 2026 secondary/blog source (basenor.com, not opened) says ~20,000 t/y LiOH (~30 GWh) and an energyx/other blog estimates ~50,000 t LCE; no Tesla filing found. Not entered."
   },
@@ -175,7 +669,14 @@
     "source_url": "https://www.riotinto.com/en/invest/reports/annual-report/key-project-updates",
     "source_published_date": null
    },
-   "evidence": {"status": ["S31"], "capacity": ["S30"]},
+   "evidence": {
+    "status": [
+     "S31"
+    ],
+    "capacity": [
+     "S30"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Rio Tinto annual-report capital-projects page: 'Capacity: 28 ktpa LCE (100%)', 'Planned first production: 2028', 'Project work progresses at Bécancour hydroxide plant in Quebec' (page undated; shows 2026 footer). 28 kt LCE is consistent with the earlier 32,000 t LiOH (x0.88 = 28,160 t LCE), so the SC008 reported-tier figure is now corroborated by a primary source. Capacity unit changed to t LCE to match the stated figure. CONFLICT: Rio's page (via search summary) describes a '50/50 venture with Investissement Quebec' while Mining Technology (SC008) says Rio holds 53.9% after Feb 2026; jv_partners not changed."
   },
@@ -207,7 +708,10 @@
     "capacity_ref_year": 2024,
     "installed_capacity": 43000,
     "installed_as_of": "2024-11-29",
-    "capacity_by_year_json": {"2023": 21500, "2024": 43000},
+    "capacity_by_year_json": {
+     "2023": 21500,
+     "2024": 43000
+    },
     "production": null,
     "production_unit": null,
     "production_year": null,
@@ -217,7 +721,24 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-11-10"
    },
-   "evidence": {"status": ["S14", "S15"], "capacity": ["S13", "S14", "S15"], "installed_capacity": ["S13"], "capacity_by_year_json": ["S13", "S16"]},
+   "evidence": {
+    "status": [
+     "S14",
+     "S15"
+    ],
+    "capacity": [
+     "S13",
+     "S14",
+     "S15"
+    ],
+    "installed_capacity": [
+     "S13"
+    ],
+    "capacity_by_year_json": [
+     "S13",
+     "S16"
+    ]
+   },
    "confidence": 0.75,
    "notes": "Two 21,500 t/y trains/plants at the Yulchon Industrial Complex, Gwangyang: first completed 2023 (S16, page-summary wording, reported), second completed Nov 2024 (Korea Herald 29 Nov 2024; S13). Combined 43,000 t/y (S13, S14, S15); Just Auto (4 Dec 2024) says full capacity in 12-18 months, so 'installed_capacity 43,000' = built (completed), not necessarily producing at that rate; Herald (Nov 2026) says the plant is struggling on price and reports a loss, no output tonnage given. 2025/2026 output: not disclosed (null). installed_as_of = Korea Herald date of the second-plant completion news. Coordinates are Gwangyang city centre (the industrial complex is in Gwangyang). Chemical basis: monohydrate assumed (D-102). PPLS ownership split (POSCO/PLS percentages) not confirmed in sources opened. POSCO's plans for two further Korean plants by 2033 (search summary) not included."
   },
@@ -259,7 +780,18 @@
     "source_date": "2026-11-27",
     "source_published_date": "2024-10-25"
    },
-   "evidence": {"status": ["S17", "S19"], "capacity": ["S17"], "installed_capacity": ["S17"]},
+   "evidence": {
+    "status": [
+     "S17",
+     "S19"
+    ],
+    "capacity": [
+     "S17"
+    ],
+    "installed_capacity": [
+     "S17"
+    ]
+   },
    "confidence": 0.6,
    "notes": "Panorama Minero 25 Oct 2024: plant with 'an annual production capacity of 25,000 tons' at 'General Güemes Industrial Park in Salta Province' (S17, S18). Opening ceremony 24 Oct 2024 per search summaries (just-auto, BNamericas; not opened). Coordinates = General Güemes town (same as the Arcadium Güemes row), NOT surveyed. Exact input (lithium carbonate vs concentrated brine) not stated in opened sources. SMM 25 Aug 2026 (S19) says the company's first plant at the site 'began operations in 2024' and a second plant at Hombre Muerto (carbonate, ~25,000 t/y) is targeted for Q4 2026 completion; it feeds a Korean refinery (25,000 t LiOH from 2027) - not entered as separate rows (mining/upstream side belongs to posco-sal-de-oro-argentina). Plant output not disclosed. 'Phase 1' hydroxide capacity 25,000 t/y presumably monohydrate (D-102). Installed_as_of = publication date of the launch article."
   },
@@ -301,7 +833,15 @@
     "source_date": "2026-11-27",
     "source_published_date": "2023-02-15"
    },
-   "evidence": {"status": ["S22"], "capacity": ["S20", "S21"]},
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity": [
+     "S20",
+     "S21"
+    ]
+   },
    "confidence": 0.5,
    "notes": "KED Global / Just Auto (15 Feb 2023): second plant to 'double lithium hydroxide capacity to 26,000 tons per year' (13,000 t/y first plant) with construction finishing 'by the second half of 2023'. Completion of the second plant NOT confirmed in any page opened; status operational rests on electrive 17 Jul 2025 (S22): SK On to receive up to 6,000 t of LiOH 'produced in South Korea from Ecopro' in 2025. EcoPro Innovation's combined Korea + Europe capacity is said to reach 34,000 t by end-2025 and 79,000 t by 2028 (electrive; Europe = Hungary, not entered here). SK On is a customer, NOT an owner (the original task wording 'SK On/EcoPro Innovation' is a supply deal). Search snippet (Asiae, June 2024): Ecopro Inno to supply 150,000 t of hydroxide to Samsung SDI (not opened). Parent 'EcoPro' not verified in a source. Coordinates are Pohang city centre. Output not disclosed."
   },
@@ -343,7 +883,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2023-03-23"
    },
-   "evidence": {"status": ["S33"], "capacity": ["S32"]},
+   "evidence": {
+    "status": [
+     "S33"
+    ],
+    "capacity": [
+     "S32"
+    ]
+   },
    "confidence": 0.4,
    "notes": "REPORTED TIER only (both pages blocked or not opened). Announced Mar 2023: ~50,000 t/y battery-grade LiOH, potential 100,000 t, ~USD 1.3 bn, ~800 acres near Richburg, Chester County SC. Deferred/paused Feb-Mar 2024 (Albemarle capex cuts); no restart or cancellation found. capacity_ref_year 2023 = announcement-year fallback (no start date). Coordinates are the Richburg town locality. Albemarle's FY2025 10-K opened does not list Richburg among plants. Kings Mountain (mine; feed 50 kt LCE/y per search summary) is not a refining asset and was not added. Project paused -> contributes 0 to active pipeline."
   },
@@ -385,7 +932,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-09-29"
    },
-   "evidence": {"status": ["S35"], "capacity": ["S34"]},
+   "evidence": {
+    "status": [
+     "S35"
+    ],
+    "capacity": [
+     "S34"
+    ]
+   },
    "confidence": 0.6,
    "notes": "Industrial Info 29 Sep 2026: UK government backing (GBP 18.3 m grant for Phase 1); Phase 1 25,000 t/y LHM, 'estimated startup date of 2028', 100,000+ t/y stated ambition (not included), located at the Billingham Chemical Complex, Teesside (developer Alkemy Capital). Status 'announced' because no construction start is stated. A second UK project, Green Lithium (reported ~50,000 t/y LiOH, 2026 commissioning claim in a 2024 article via search summary), was not verified and not added. Coordinates = Billingham locality (town)."
   },
@@ -427,7 +981,14 @@
     "source_date": "2026-11-27",
     "source_published_date": null
    },
-   "evidence": {"status": ["S37"], "capacity": ["S36"]},
+   "evidence": {
+    "status": [
+     "S37"
+    ],
+    "capacity": [
+     "S36"
+    ]
+   },
    "confidence": 0.3,
    "notes": "REPORTED TIER only. 2023 announcements: Emden port (lease of 32 ha, Oct 2023), 40,000 t/y battery-grade lithium products = ~30,000 t LiOH + ~10,000 t Li2CO3 (only the LiOH part entered in 'capacity'; carbonate 10,000 t in notes), start was planned 2026 (not met, no construction found). Search summaries say Livista chose Le Havre (France) for its FIRST refinery and a Livista executive said 'We'll go to Emden later'; so Emden is treated as paused. No 2026 status report found. capacity_ref_year 2023 = announcement fallback. Coordinates = Emden city. Mining Journal headline 'Livista won't build lithium refinery ...' (403, unread) may bear on status - lead to check."
   },
@@ -469,7 +1030,14 @@
     "source_date": "2026-11-27",
     "source_published_date": null
    },
-   "evidence": {"status": ["S37"], "capacity": ["S37"]},
+   "evidence": {
+    "status": [
+     "S37"
+    ],
+    "capacity": [
+     "S37"
+    ]
+   },
    "confidence": 0.25,
    "notes": "REPORTED TIER, WEAK: search-result text only (MarkLines headline 'Livista Energy, Luxembourg to build major lithium refinery facility in Le Havre, France'; a company profile says 27-ha site secured, production 2028, 40,000 tons annually). Unit/basis ('tons' of battery-grade lithium products; LCE assumed) and dates unverified; pages not opened. Overlaps with the Emden plan (same 40,000 t figure) - do not sum both. Coordinates = Le Havre city."
   },
@@ -511,7 +1079,15 @@
     "source_date": "2026-11-27",
     "source_published_date": null
    },
-   "evidence": {"status": ["S38", "S40"], "capacity": ["S39"]},
+   "evidence": {
+    "status": [
+     "S38",
+     "S40"
+    ],
+    "capacity": [
+     "S39"
+    ]
+   },
    "confidence": 0.45,
    "notes": "CANCELLED. chemXplore lists the Lauterbourg project phase as 'Cancelled' (S38). Search summaries (S40, page 503): Viridian placed in judicial liquidation on 9 March 2026 (Strasbourg commercial court) with the construction site mid-earthworks. Original plan 25,000 t/y LiOH from 2025, expandable to 100,000 t/y by 2030 (S39 headline; reported). Site: port of Lauterbourg, ~14 ha lease signed July 2024 (search summary). capacity_ref_year 2025 = original target start (fallback). Contributes 0 to any active aggregate."
   },
@@ -553,7 +1129,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2024-11-27"
    },
-   "evidence": {"status": ["S41"], "capacity": ["S41"]},
+   "evidence": {
+    "status": [
+     "S41"
+    ],
+    "capacity": [
+     "S41"
+    ]
+   },
    "confidence": 0.8,
    "notes": "Mining Technology 27 Nov 2024: headline 'Galp abandons Aurora lithium refinery project in Portugal'; planned 35,000 t/y battery-grade LiOH at 'the Sapec Bay Industrial Park in Setubal' (S41, S42). Search summaries: 50:50 Galp-Northvolt JV formed Nov 2021, Northvolt did not invest after 2024, Galp found no replacement partner; ~EUR 1 bn; an SMM 2026 article title says Portugal cancelled the integrated lithium mining/processing project (not opened). jv_partners left null because the partnership is not confirmed on the page opened. capacity_ref_year 2024 = cancellation year (earlier target was after 2026). Contributes 0 to active aggregates. Galp's Mina do Barroso stake is a separate mining asset."
   },
@@ -595,7 +1178,15 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-02-12"
    },
-   "evidence": {"status": ["S43", "S44"], "capacity": ["S44"]},
+   "evidence": {
+    "status": [
+     "S43",
+     "S44"
+    ],
+    "capacity": [
+     "S44"
+    ]
+   },
    "confidence": 0.4,
    "notes": "electrive 12 Feb 2026 (verbatim, S43): second site 'a facility for refining minerals and converting the raw material into lithium hydroxide' <100 km from the mine; feasibility study due next year (2027) before FID; the same article says 'up to 34,000 tonnes of lithium could be extracted annually' (wording does not clearly say LiOH). Capacity 34,000 t/y LiOH, commercial output 2030 (delayed from 2028), FID by end-2027, site La Loue industrial estate (Saint-Victor, Montluçon area) come from a search-summary of Metals Wire (S44, reported tier; host could not be fetched). A French-state EUR 50 m minority stake reported. A demonstration plant (EIB-backed) is not commercial capacity. capacity_ref_year 2030 from reported tier. Coordinates = Montluçon city, NOT the plant site. Mine (Beauvoir) is a mining-slice asset."
   },
@@ -637,7 +1228,17 @@
     "source_date": "2026-11-27",
     "source_published_date": "2025-03-05"
    },
-   "evidence": {"status": ["S46"], "capacity": ["S45"], "installed_capacity": ["S45"]},
+   "evidence": {
+    "status": [
+     "S46"
+    ],
+    "capacity": [
+     "S45"
+    ],
+    "installed_capacity": [
+     "S45"
+    ]
+   },
    "confidence": 0.4,
    "notes": "pv magazine India 5 Mar 2025: capacity '1,000 metric tonnes annually' (unit/product basis not stated: recorded as t Li2CO3 ~ LCE; the refinery can also make hydroxide). The page does not name the refinery site: it says Lohum has seven facilities in Greater Noida (Uttar Pradesh) and one in Gujarat; province_state 'Uttar Pradesh' is therefore NOT confirmed for this plant and coordinates are left null. Inauguration March 2025 per search summaries (reported tier, S46). Recycling-fed, so partly overlaps the recycling slice. No output data. Tiny relative to the 30,000 t/y plans below."
   },
@@ -679,7 +1280,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2025-12-18"
    },
-   "evidence": {"status": ["S48"], "capacity": ["S47"]},
+   "evidence": {
+    "status": [
+     "S48"
+    ],
+    "capacity": [
+     "S47"
+    ]
+   },
    "confidence": 0.5,
    "notes": "EVreporter 18 Dec 2025: Altmin and Singareni Collieries sign an MoU for a lithium refinery in Telangana, 'annual production capacity of 30,000 tonnes of battery-grade lithium carbonate', investment ~INR 2,250 crore, 'targeted to be operational by 2027'. MoU stage only; no construction. A single credence-research search summary (via Business Standard) mentions a ~USD 200 m 30,000 t Li2CO3 refinery at Kakinada, Andhra Pradesh - unverified, possibly the same plan under a different site; not added. Altmin also acquired a Brazil refinery project (32,000 t Li2CO3 per search summary; not entered). India's Cabinet approved a INR 2,814 crore subsidy scheme for two 30,000 t lithium refineries (search summary; no beneficiaries named). Manikaran-Neometals 20,000 t LiOH India refinery study (2019-2020) is stale and not added."
   },
@@ -721,7 +1329,15 @@
     "source_date": "2026-11-27",
     "source_published_date": "2023-01-25"
    },
-   "evidence": {"status": ["S50", "S51"], "capacity": ["S49"]},
+   "evidence": {
+    "status": [
+     "S50",
+     "S51"
+    ],
+    "capacity": [
+     "S49"
+    ]
+   },
    "confidence": 0.3,
    "notes": "STALE EVIDENCE (Jan 2023): 'The initial plan is to produce 50,000 tonnes and later 150,000 tonnes per year' of LiOH at Yanbu; production 'scheduled to start in 2026' (S51, not achieved as far as found). Search summaries: first two trains = 50,000 t/y, ~USD 906 m, RCF partnership, environmental permit and gas/electricity allocation received; earlier 2H-2024 target slipped. No 2026 report of construction or financial close found, so status announced. capacity entered as the full stated plan 150,000 t/y (50,000 t first stage) per the capacity rule; capacity_ref_year 2023 = publication fallback, NOT a delivery year - treat the 150,000 t figure as aspirational (D-015). Separate Saudi project: Obeikan / European Lithium 10,000-20,000 t/y LiOH JV (search summary only; no site) not added. Ma'aden-Aramco JV is extraction only (not refining)."
   },
@@ -763,7 +1379,11 @@
     "source_date": "2026-11-27",
     "source_published_date": null
    },
-   "evidence": {"status": ["S52"]},
+   "evidence": {
+    "status": [
+     "S52"
+    ]
+   },
    "confidence": 0.25,
    "notes": "Zawya Projects (undated): 'at the cost of 5 billion UAE dirhams ($1.36 billion)', 290,000 sqm plant 'will process battery-grade lithium for EVs', 50-year KEZAD land lease; search summary adds three development stages and both carbonate and hydroxide. NO capacity, timeline or construction evidence -> capacity null. Kept as a development-plan row only; lead may drop. Lepidico's older Abu Dhabi plan (~5,500 t/y LiOH, 2021-22) not verified and not added."
   },
@@ -805,7 +1425,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2025-07-24"
    },
-   "evidence": {"status": ["S53"], "capacity": ["S54"]},
+   "evidence": {
+    "status": [
+     "S53"
+    ],
+    "capacity": [
+     "S54"
+    ]
+   },
    "confidence": 0.3,
    "notes": "7news.ma 24 Jul 2025: LG Energy Solution and China's Yahua Group formally marked the milestone for a refinery whose 'first phase [is] valued at over 5.5 billion dirhams' (no capacity or site on the page). Capacity 90,000 t/y of lithium salts incl. 30,000 t/y in phase 1 is from an Argus search summary only (S54, reported tier; page empty). Unit/basis ('lithium salts') not specified, entered as t LCE with that caveat. Site not named in either page (Jorf Lasfar is mentioned only for a separate battery-materials unit). No construction evidence. capacity_ref_year 2025 = publication fallback. A Yahua plant in China is not in this slice."
   },
@@ -847,7 +1474,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-01-22"
    },
-   "evidence": {"status": ["S56"], "capacity": ["S55"]},
+   "evidence": {
+    "status": [
+     "S56"
+    ],
+    "capacity": [
+     "S55"
+    ]
+   },
    "confidence": 0.4,
    "notes": "Interfax 22 Jan 2026 (verbatim, S55): the Kolmozerskoye deposit (Lovozero district, Murmansk) 'will produce 45,000 tonnes of lithium carbonate and hydroxide per year, with full ramp-up by 2030' - the article attributes this to the mine, i.e. an integrated project output; entered as the chemical plant's product capacity with unit t LCE (carbonate + hydroxide mixed, basis ambiguous). Search summaries (S56): chemical-metallurgical plant planned in Murmansk Region by 2030, pilot stage at 10% of capacity 2026-27, Nornickel and Rosatom equal owners; Tatneft separately plans a lithium plant (headline, 16 Jul 2026, page 404) - not verified. No Rosatom/Novosibirsk lithium hydroxide plant found in any source. The Kolmozerskoye MINE is not in sc_assets.csv; the mining slice should add it. Plant site coordinates unknown."
   },
@@ -889,7 +1523,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-03-17"
    },
-   "evidence": {"status": ["S58"], "capacity": ["S57"]},
+   "evidence": {
+    "status": [
+     "S58"
+    ],
+    "capacity": [
+     "S57"
+    ]
+   },
    "confidence": 0.6,
    "notes": "Stardust Power 8-K Ex. 99.1 (17 Mar 2026): up to 50,000 t/y battery-grade Li2CO3 (two ~25,000 t phases per search summaries), final air permit received, early site preparation started, 'advances toward construction'. No FID or construction financing reported in anything found (search summaries as of Sep 2026: ~USD 500 m capex, USD 3.5 m cash at end-2025, feed only via non-binding agreements up to 13,500 t/y LCE) -> status kept 'announced' even though early site works began (lead may choose under_construction). capacity_ref_year 2026 = publication-year fallback (no stated completion date). Coordinates = Muskogee town."
   },
@@ -931,7 +1572,14 @@
     "source_date": "2026-11-27",
     "source_published_date": "2026-07-06"
    },
-   "evidence": {"status": ["S60"], "capacity": ["S59"]},
+   "evidence": {
+    "status": [
+     "S60"
+    ],
+    "capacity": [
+     "S59"
+    ]
+   },
    "confidence": 0.65,
    "notes": "SMM 6 Jul 2026: Yahua (via subsidiary KMC) is 'accelerating construction'; project 'designed to process 350,000 mt of lithium concentrate annually and produce 75,000 mt of lithium sulfate per year'; 'Commercial operation is scheduled for 2027.' Search summary: ~USD 200 m, includes smelter and sulfuric acid plant. Lithium sulphate unit factor 0.672 -> ~50,400 t LCE (basis anhydrous Li2SO4 assumed per units.csv). Site not stated in the page opened. Check overlap with the SC004 Zimbabwe rows (Bikita, Arcadia sulphate plants exist; no Yahua row seen). Other Zimbabwe sulphate plants (Prospect/Huayou Arcadia = existing SC004 row; Zheli Mining plan Dec 2026 target) not touched."
   },
@@ -973,7 +1621,17 @@
     "source_date": "2026-11-27",
     "source_published_date": "2025-07-16"
    },
-   "evidence": {"status": ["S61"], "capacity": ["S61"], "installed_capacity": ["S61"]},
+   "evidence": {
+    "status": [
+     "S61"
+    ],
+    "capacity": [
+     "S61"
+    ],
+    "installed_capacity": [
+     "S61"
+    ]
+   },
    "confidence": 0.4,
    "notes": "Fastmarkets 16 Jul 2025 (verbatim, S61): CBL's chemical production going 'from 2,000 tpy to 6,000 tpy of lithium carbonate equivalent (LCE)'. Reading: installed ~2,000 t LCE/y, planned 6,000 t LCE/y (no date for the step; capacity_ref_year 2025 is the publication-year fallback). Search summary adds ~45,000 t/y spodumene concentrate, ~15,000 t of it feeding the refinery. Plant location not stated in what I opened; coordinates null. Small, non-battery-scale producer. Sigma Lithium cancelled its sulphate plant (Argus headline); AMG Brazil carbonate plans are older plans (not entered)."
   }
