@@ -883,7 +883,7 @@
   },
   {
    "action": "update",
-   "id": "huayou-huayue-nickel-cobalt-hnc-hpal-indonesia",
+   "id": "huayue-nickel-cobalt-hnc-hpal-indonesia",
    "fields": {
     "feeds": "huayou-quzhou-pcam-china,huayou-quzhou-cobalt-refinery-china"
    },
@@ -907,7 +907,7 @@
     ]
    },
    "confidence": 0.65,
-   "notes": "[SC170] See huayou-huayue-nickel-cobalt-hnc-hpal-indonesia (same AR statement)."
+   "notes": "[SC170] See huayue-nickel-cobalt-hnc-hpal-indonesia (same AR statement)."
   },
   {
    "action": "update",

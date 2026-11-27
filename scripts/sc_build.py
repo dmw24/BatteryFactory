@@ -158,6 +158,19 @@ def main():
         fl = json.loads(rf) if isinstance(rf, str) and rf else []
         return "reported" if set(fl) & {"status", "capacity", "installed_capacity", "production"} else "confirmed"
     df["evidence_tier"] = df["reported_fields"].map(_tier)
+    # D-109: a row whose status/capacity/installed/production rests only on reported evidence is capped at 0.5,
+    # whatever a later patch set (later patches may raise confidence for other fields, e.g. feeds)
+    df["confidence"] = pd.to_numeric(df["confidence"], errors="coerce")
+    df.loc[(df.evidence_tier == "reported") & (df.confidence > 0.5), "confidence"] = 0.5
+
+    def _feeds(v):  # normalise JSON-list feeds to comma-separated ids
+        if isinstance(v, str) and v.strip().startswith("["):
+            try:
+                return ", ".join(json.loads(v))
+            except json.JSONDecodeError:
+                return v
+        return v
+    df["feeds"] = df["feeds"].map(_feeds)
     for c in INTS:
         df[c] = pd.to_numeric(df[c], errors="coerce").astype("Int64")
     df = df[COLUMNS].reset_index(drop=True).sort_values(["step", "commodity", "id"]).reset_index(drop=True)

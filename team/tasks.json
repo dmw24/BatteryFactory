@@ -4382,12 +4382,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "57 asset links; quotes found; feeds normalised; S14 added"
+   }
   },
   {
    "id": "SC180",

@@ -165,3 +165,6 @@ City/town centroids from geonamescache only where the row names an unambiguous l
 scripts/importers/sc_geocode_offline.py). precision town if <100k population, else city; mines geocoded only when
 named after their town; every point tagged [GEO=…] and "not a verified site". Indonesian parks, remote mines and
 multi-site rows left without coordinates.
+## D-109 (2026-11-27, lead) Build-time confidence cap
+sc_build caps confidence at 0.5 for rows whose key fields rest only on reported-tier evidence, so a later patch that
+raises confidence for another reason (e.g. sourced feeds) cannot lift an unconfirmed capacity/status above the cap.
