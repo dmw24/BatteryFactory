@@ -57,3 +57,21 @@ Disclosed output vs capacity per company-year; capacity by cell maker's headquar
 (site → company, `valid_to` when ownership ended), `operator_totals.csv`, `non_comparable.csv` (excluded chemistries),
 `benchmarks/` and `scripts/benchmarks.csv` (IEA/BNEF/Benchmark — comparison only, not data), `team/evidence/miit/`
 (official MIIT lists), `team/evidence/filings/MANIFEST.csv` (company filings used).
+
+# Supply-chain asset database (sc_assets.csv / supply_chain.db table `assets`)
+Rebuild: `python3 scripts/sc_build_all.py`. Methods: docs/SUPPLY_CHAIN_METHODS.md.
+| column | meaning |
+|---|---|
+| `id`, `asset_name`, `part_of` | slug `<operator>-<asset>-<country>`; site/asset name; site id when the row is a project at that site (D-107) |
+| `step`, `commodity`, `product`, `asset_type`, `feedstock`, `chemistry` | mining / refining / precursor / cathode / anode / electrolyte / separator / foil / recycling; lithium, nickel, cobalt, graphite, manganese, cathode, … |
+| `operator`, `parent_company`, `jv_partners`, `ownership_json` | operator, group, JV partners (one row per asset) |
+| `country`, `region`, `province_state`, `latitude`, `longitude`, `geo_precision` | 11 regions (D-101); coordinates with precision site/town/city |
+| `status`, `project_state`, `announced_year`, `start_year` | as in the cell database |
+| `capacity`, `capacity_unit`, `capacity_ref_year`, `capacity_norm`, `norm_unit` | full plan as reported + normalised value (units.csv) |
+| `installed_capacity`, `installed_as_of`, `installed_norm`, `capacity_by_year_json` | built and running; dated steps |
+| `production`, `production_unit`, `production_year`, `production_norm`, `production_norm_unit` | latest annual output |
+| `reserves_resources`, `feeds`, `offtakers`, `end_market` | context; `feeds` = ids this asset supplies when sourced |
+| `source_url`, `source_date`, `source_published_date`, `confidence`, `evidence_tier`, `reported_fields`, `research_notes` | as in the cell database |
+Other files: `data/supply_chain/field_evidence.csv` (quotes), `company_totals.csv` (company-level disclosures, `geo_scope`),
+`sc_company_coverage.csv` (company totals vs sites), `sc_benchmark.csv` (comparisons), `data/supply_chain/benchmarks/aggregates.csv`
+(benchmarks with URL and quote), `team/RECONCILIATION_SC.md`, charts/sc_asset_map.png, charts/sc_coverage.png.
