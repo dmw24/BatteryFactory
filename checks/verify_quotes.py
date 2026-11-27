@@ -45,9 +45,10 @@ def local_dataset(url):
     import csv as _csv
     m = os.path.join(ROOT, "team/evidence/open_datasets/LOCAL.csv")
     if os.path.exists(m):
-        for r in _csv.DictReader(open(m)):
-            if url.startswith(r["url"]):
-                return open(os.path.join(ROOT, r["local_file"]), encoding="utf-8").read()
+        hits = [open(os.path.join(ROOT, r["local_file"]), encoding="utf-8").read()
+                for r in _csv.DictReader(open(m)) if url.startswith(r["url"])]
+        if hits:
+            return "\n".join(hits)
     return None
 
 
