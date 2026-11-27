@@ -79,3 +79,6 @@ Wave 1 (lithium SC001–SC008) and wave 2 (cathode/pCAM SC009–SC014 + processi
 State: 905 assets, 14/14 checks, SC audits 1–4 done and fixed (rules D-109..D-113). Launched SC196 (dated built
 capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plants). Report: team/FINAL_REPORT_SC.md
 (figures generated), coverage: team/RECONCILIATION_SC.md.
+- 23:xx lead: merged SC196 (5 dated built capacities) and SC197 (9 cobalt/HPMSM plants). 914 assets, 14/14 checks.
+  CMOC HK AR 2025 fetched (HK_3993_AR2025): no per-mine cobalt split (group 117,549 t only) — stays company-level.
+  Next wake: audit 5 on SC191–SC197 + reconciliation refresh; then remaining gaps per team/SC_BACKLOG.md.
