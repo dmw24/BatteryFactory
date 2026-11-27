@@ -4535,6 +4535,54 @@
     "by": "lead",
     "notes": "validated; 1 quote each demoted"
    }
+  },
+  {
+   "id": "SC196",
+   "title": "Dated built capacity, China processing bases (EIA/验收/投产)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC196.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC197",
+   "title": "China cobalt refineries and HPMSM plants",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC197.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }

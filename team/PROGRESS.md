@@ -74,3 +74,8 @@ Merged T092–T101: ~25 more plant histories/start years; series bug fixed (pre-
 T114/T115 merged (6 plants dated; quotes 15/15 found). Supply-chain build in place: scripts/sc_build.py, checks/sc_checks.py
 (S1–S12), data/supply_chain/units.csv, scripts/sc_benchmark.py, USGS MCS 2026 mine benchmarks (Li, Ni, Co, graphite).
 Wave 1 (lithium SC001–SC008) and wave 2 (cathode/pCAM SC009–SC014 + processing benchmarks SC090) launched. Plan: team/SC_BACKLOG.md.
+
+## 2026-11-27 21:30 lead — supply chain, scheduled wake
+State: 905 assets, 14/14 checks, SC audits 1–4 done and fixed (rules D-109..D-113). Launched SC196 (dated built
+capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plants). Report: team/FINAL_REPORT_SC.md
+(figures generated), coverage: team/RECONCILIATION_SC.md.
