@@ -40,7 +40,21 @@ class ScannedPDF(Exception):
     """PDF without a text layer: cannot be string-matched; needs a visual check (tag SCANNED_PDF)."""
 
 
+def local_dataset(url):
+    """Open datasets mirrored locally (team/evidence/open_datasets/LOCAL.csv: url -> committed key-column file)."""
+    import csv as _csv
+    m = os.path.join(ROOT, "team/evidence/open_datasets/LOCAL.csv")
+    if os.path.exists(m):
+        for r in _csv.DictReader(open(m)):
+            if url.startswith(r["url"]):
+                return open(os.path.join(ROOT, r["local_file"]), encoding="utf-8").read()
+    return None
+
+
 def fetch(url):
+    ds = local_dataset(url)
+    if ds is not None:
+        return "\x00PDF\x00" + ds
     if url.lower().endswith(".pdf"):
         txt = local_filing(url)
         if txt is not None:

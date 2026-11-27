@@ -18,3 +18,8 @@ Status: **proposal, not yet adopted.** Nothing in the repo is licensed for publi
 - Alternatives: CC BY-SA 4.0 (share-alike; less reuse-friendly), ODbL (database-oriented, share-alike).
 - **OpenStreetMap**: some coordinates (T101, geo_precision town/city) come from OpenStreetMap Nominatim — ODbL; credit
   "© OpenStreetMap contributors" and keep the derived coordinates under ODbL-compatible terms (or replace them).
+
+## Third-party open data used in the supply-chain database
+- Center for Global Sustainability (University of Maryland), *Nickel Smelter Dataset V1*, CC BY 4.0,
+  doi:10.5281/zenodo.17701177 — Indonesian smelter status, coordinates and Ni-equivalent capacity (patch SCN_cgs_nickel).
+  Attribution must be kept in any redistribution.

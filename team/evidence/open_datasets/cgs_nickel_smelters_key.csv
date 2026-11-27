@@ -1,0 +1,107 @@
+row,Smelter Name,Industrial Park Name,Operating Owner,Province,Regency,Latitude,Longitude,Location Status,Process,Output Product,Output Capacity (Tonnes),Ni metal equivalent (tonnes),Status 2025
+0,Adhikara Cipta Mulia,,Adhikara Cipta Mulia,South East Sulawesi,North Konawe Regency,-3.52320167397664,122.164807122561,Mine - No smelter,HPAL,MHP,76500.0,30400.0,Unclear
+1,ANTAM Pomalaa RKEF,Kawasan Industri Antam Timur,PT Aneka Tambang,South East Sulawesi,Kolaka Regency,-4.18597128870594,121.611100571282,Exact,RKEF,FeNi,90000.0,27000.0,Operating
+2,ANTAM Feni Haltim RKEF,Kawasan Industri Buli,ANTAM,North Maluku,East Halmahera Regency,0.83684,128.24266,Approximate within a group of smelters,RKEF,FeNi,64655.0,13500.0,Unclear
+3,Ang And Fang Brother,,Ang and Fang Brother,Central Sulawesi,Morowali Regency,-2.78683713746305,122.083405959012,Mine - No smelter,RKEF,NPI,130508.0,,Stalled
+4,Angel Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Nickel Mines,North Maluku,Central Halmahera Regency,0.48068,127.99074,Exact,RKEF,NPI,350000.0,36000.0,Operating
+5,Anugrah Tambang Sejahtera,,Silkroad Nickel,South East Sulawesi,Morowali Regency,-3.01680813805646,122.233574871863,Mine - No smelter,RKEF,NPI,144000.0,14400.0,Stalled
+6,Artha Mining Industry,,Artha Mining Industry,South East Sulawesi,Bombana Regency,-4.89399835956639,121.987146995586,Construction,Unknown,NPI,200000.0,21500.0,Stalled
+7,Artabumi Sentra Industri,,Silkroad Nickel,Central Sulawesi,Morowali Regency,,,Unconfirmed,BF,NPI,72000.0,,Stalled
+8,Bahodopi Nickel Smelting Indonesia,Kawasan Industri ATI (Anugrah Tambang Industri),Vale Indonesia,Central Sulawesi,Morowali Regency,-3.09094,122.33023,Construction,HPAL,MHP,73000.0,, Construction
+9,Bintang Smelter Indonesia,,PT Ifishdeco,South East Sulawesi,South Konawe Regency,-4.40051665026324,122.198670979539,Exact,BF,NPI,40000.0,,No longer operational
+10,Bintang Timur Steel,Millenium Industrial Estate,Bintang Timur Steel,Banten,Tangerang Regency,-6.24800244074343,106.497542682449,Exact,SAF,NPI,35000.0,,No longer operational
+11,Bukit Smelter Indonesia,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Industri Mineral,Central Sulawesi,Morowali Regency,-2.85005087260833,122.167514383938,Exact,RKEF,NPI,150000.0,19000.0,Operating
+12,Cahaya Modern Metal Industri,Modern Cikande Industrial Estate,PT Modern Cahaya Makmur,Banten,Serang Regency,-6.20862610786271,106.326625086874,Exact,BF,NPI,35000.0,,Operating
+13,Cahaya Smelter Indonesia,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Industri Mineral,Central Sulawesi,Morowali Regency,-2.85565622639356,122.168987996916,Exact,RKEF,NPI,150000.0,19000.0,Operating
+14,CORII BF,,PT Central Omega Resources Tbk,Central Sulawesi,Morowali Regency,-1.93869141224428,121.320296797426,Exact,BF,NPI,100000.0,8000.0,No longer operational
+15,CORII RKEF,,Central Omega Resources,Central Sulawesi,Morowali Regency,-1.93869141224428,121.320296797426,Unconfirmed,RKEF,FeNi,200000.0,20000.0,Planned
+16,Century Metalindo,Modern Cikande Industrial Estate,Century Metalindo,Banten,Serang Regency,-6.18810173266052,106.315206339778,Exact,SAF,NPI,24500.0,3000.0,Operating
+17,Ceria Nugraha Indotama (RKEF) / Merah Putih smelter,,PT Ceria Nugraha Indotama,South East Sulawesi,Kolaka Regency,-3.85415246173602,121.297981864151,Exact,RKEF,FeNi,252728.0,55600.0,Operating
+18,Fajar Bhakti Lintas Nusantara,,PT Pengda Mining Indonesia,North Maluku,Central Halmahera Regency,-0.0695553166834322,129.3921427,Exact,BF,NPI,120000.0,,No longer operational
+19,Fajar Metal Industry Excelsior Nickel Cobalt Project,Indonesia Morowali Industrial Park (IMIP),Perpetual Power Technology Group Ltd.,Central Sulawesi,Morowali Regency,-2.83822430529276,122.117733364886,Unconfirmed,HPAL,Ni Sulfate,272700.0,60000.0, Construction
+20,Gebe Industry Nickel,,Gebe Industry Nickel,East Java,Gresik Regency,-7.13215,112.61242,Unconfirmed,HPAL,MHP,21601.0,13000.0,Operating
+21,Growth Java Industri,,Growth Java Industri,Banten,Cilegon,-6.02916664481287,105.954452028205,Approximate within a group of smelters,BF,NPI,57500.0,12000.0,Operating
+22,Gunbuster Nickel Industry,Kawasan Industri PT Stardust Estate Investment,Gunbuster Nickel Industry,Central Sulawesi,North Morowali Regency,-2.00042547039831,121.43504311042,Exact,RKEF,NPI,2000000.0,,Operating
+23,Halmahera Persada Lygend,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Harita Nickel and Lygend Resources,North Maluku,South Halmahera Regency,-1.53887378195392,127.420130725153,Exact,HPAL,MHP,365000.0,55000.0,Operating
+24,Heng Tai Yuan Indonesia,Krakatau Industrial Estate Cilegon,Heng Tai Yuan Indonesia,Banten,Cilegon,-6.0008994834225,106.019090624431,Exact,BF,NPI,40000.0,,Unclear
+25,Hengjaya Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.84720726843122,122.164215585423,Exact,RKEF,NPI,150000.0,15000.0,Operating
+26,Huadi Nickel-Alloy Indonesia,Kawasan Industri Bantaeng,Shanghai Huadi Industry Co. Ltd.,South Sulawesi,Bantaeng Regency,-5.57950003433346,120.065774009083,Approximate within a group of smelters,RKEF,NPI,42000.0,,No longer operational
+27,Huake Nickel Indonesia,Indonesia Weda Bay Industrial Park (IWIP),Zheijhang Huayou Cobalt ,North Maluku,Central Halmahera Regency,0.487095939709902,127.993195587294,Exact,SAF,NPI,350000.0,45000.0,Operating
+28,Huayue Nickel Cobalt,Indonesia Morowali Industrial Park (IMIP),Zhiejhang Huayou Cobalt Co. Ltd. ,Central Sulawesi,Morowali Regency,-2.85111166723729,122.180043120576,Exact,HPAL,MHP,160500.0,60000.0,Operating
+29,GO STAL Nickel Indonesia,,PT Trinitan Resourcetama Indonesia,West Java,Bogor Regency,-6.44227180460602,106.935760532311,Exact,STAL,MHP,3200.0,800.0,Operating
+30,Indonesia Guang Ching Nickel and SSI,Indonesia Morowali Industrial Park (IMIP),Indonesia Guang Ching Nickel SSI,Central Sulawesi,Morowali Regency,-2.82831965030396,122.162319664885,Exact,RKEF,NPI,600000.0,,Operating
+31,Indonesia Ruipu Nickel and Chrome Alloy,Indonesia Morowali Industrial Park (IMIP),Ruipu Technology Group Co. Ltd.,Central Sulawesi,Morowali Regency,-2.82843198390823,122.165753669219,Exact,RKEF,NPI,300000.0,,Operating
+32,Indonesia Tsingshan Stainless Steel,Indonesia Morowali Industrial Park (IMIP),Indonesia Tsingshan Stainless Steel,Central Sulawesi,Morowali Regency,-2.83238130604301,122.161456778463,Exact,RKEF,NPI,675000.0,,Operating
+33,Kolaka Nickel Indonesia,Indonesia Pomalaa Industrial Park (IPIP),PT Kolaka Indonesia Ltd. ,South East Sulawesi,Kolaka Regency,-4.23163100235464,121.584765653255,Construction,HPAL,MSP,,120000.0, Construction
+34,Lestari Smelter Indonesia,Indonesia Morowali Industrial Park (IMIP),Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.85057947264716,122.168994610921,Exact,RKEF,NPI,300000.0,,Operating
+35,Macika Mineral Industri,,Macika Mineral Industri,South East Sulawesi,South Konawe Regency,-4.45508381223903,122.360989755698,Construction,RKEF,NPI,93000.0,,Stalled
+36,Mapan Asri Sejahtera,,Mapan Asri Sejahtera,South East Sulawesi,Kolaka Regency,-4.27126551488023,121.565690265067,Exact,BF,NPI,21531.0,,Operating
+37,Megah Surya Pertiwi,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Megah Surya Pertiwi,North Maluku,South Halmahera Regency,-1.52952559965166,127.422421955604,Exact,RKEF,NPI,240000.0,25000.0,Operating
+38,Obsidian Stainless Steel,Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park,PT Obsidian Stainless Steel,South East Sulawesi,Konawe Regency,-3.87107080589466,122.40347199787,Exact,RKEF,NPI,2500000.0,,Operating
+39,QMB New Energy Materials Indonesia,Indonesia Morowali Industrial Park (IMIP),GEM,Central Sulawesi,Morowali Regency,-2.86010717942546,122.171462609067,Exact,HPAL,Ni Sulfate,136364.0,50000.0,Operating
+40,Ranger Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.85105650826125,122.163937924412,Approximate within a group of smelters,RKEF,NPI,150000.0,15000.0,Operating
+41,Sinar Deli Bantaeng,Kawasan Industri Bantaeng,Sinar Deli Bantaeng,South Sulawesi,Bantaeng Regency,-5.58047426678859,120.068267466755,Unconfirmed,Unknown,NPI,238000.0,,Stalled
+42,Smelter Nikel Indonesia,,Smelter Nikel Indonesia,Banten,Tangerang Regency,-6.211031,106.456376,Exact,HPAL,MHP,46800.0,,Operating
+43,Sulawesi Mining Investment,Indonesia Morowali Industrial Park (IMIP),Sulawesi Mining Investment,Central Sulawesi,Morowali Regency,-2.82450203373249,122.162005624412,Exact,RKEF,NPI,300000.0,30000.0,Operating
+44,Sulawesi Resources,,Sulawesi Resources,Central Sulawesi,Morowali Regency,-2.70055948941961,121.98016583085,Mine - No smelter,RKEF,FeNi,152400.0,,Unclear
+45,Teluk Metal Industry,Indonesia Morowali Industrial Park (IMIP) ,Teluk Metal Industry,Central Sulawesi,Morowali Regency,-2.83606038957607,122.118785655752,Approximate within a group of smelters,HPAL,Ni Sulfate,272700.0,,Unclear
+46,Titan Mineral Utama,Kawasan Industri Bantaeng,Titan Mineral Utama,South Sulawesi,Bantaeng Regency,-5.56626059272201,120.048542928533,Unconfirmed,BF,NPI,120000.0,,Stalled
+47,Tsingshan Steel Indonesia,Indonesia Morowali Industrial Park (IMIP),Tsingshan Steel Indonesia,Central Sulawesi,Morowali Regency,-2.83150301383204,122.168885300445,Exact,BF,NPI,500000.0,,Operating
+48,Vale Indonesia (Sorowako RKEF),,PT Vale Indonesia,South Sulawesi,East Luwu Regency,-2.57149,121.37843,Exact,RKEF,Ni Matte,94300.0,,Operating
+49,Virtue Dragon Nickel Industry (VDNI),Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park,Virtue Dragon Nickel Industry,South East Sulawesi,Konawe Regency,-3.9072272057542,122.417022046513,Exact,RKEF,NPI,1000000.0,,Operating
+50,Walsin Nickel Industrial Indonesia,Indonesia Morowali Industrial Park (IMIP),PT Walsin Nickel Industrial Indonesia,Central Sulawesi,Morowali Regency,-2.8577087407882,122.159837893722,Exact,RKEF,NPI,300000.0,,Operating
+51,Wanatiara Persada,,Mining Metallurgy Ltd.,North Maluku,South Halmahera Regency,-1.4590046405692,127.438374798906,Exact,BF,NPI,209450.0,,Operating
+52,Wanxiang Nickel Indonesia,,Wanxiang Nickel Indonesia,Central Sulawesi,Morowali Regency,-2.7385893251359,122.028568769438,Exact,RKEF,NPI,351018.0,,Operating
+53,Weda Bay Nickel,Indonesia Weda Bay Industrial Park (IWIP),Strand Minerals Indonesia,North Maluku,Central Halmahera Regency,0.48075,127.99338,Exact,RKEF,NPI,300000.0,30000.0,Operating
+54,Yashi Indonesia Investment,Indonesia Weda Bay Industrial Park (IWIP),PT Fajar Bakti Lintas Nusantra,North Maluku,Central Halmahera Regency,0.48073,127.99653,Exact,RKEF,NPI,300000.0,35000.0,Operating
+55,Youshan Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Youshan Nickel Industry,North Maluku,Central Halmahera Regency,0.48068,127.99945,Exact,RKEF,NPI,300000.0,34000.0,Operating
+56,Huafei Nickel Cobalt,Indonesia Weda Bay Industrial Park (IWIP),Huafei Nickel Cobalt,North Maluku,Central Halmahera Regency,0.471071383571861,127.943123210915,Approximate within a group of smelters,HPAL,MHP,120000.0,,Operating
+57,Huashan Nickel Cobalt,Indonesia Weda Bay Industrial Park (IWIP),PT Huashan Nickel Cobalt,North Maluku,Central Halmahera Regency,0.481106064991268,127.947138326664,Approximate within a group of smelters,HPAL,MHP,326000.0,120000.0,Stalled
+58,Vale Indonesia Huayou (Sorowako HPAL),PT Indonesia Huali Industrial Park,Vale Indonesia,South Sulawesi,East Luwu Regency,-2.56850483849486,121.374867432,Approximate within a group of smelters,HPAL,MHP,60000.0,,Planned
+59,Antam HKBCL HPAL,Kawasan Industri Buli,ANTAM,North Maluku,East Halmahera Regency,0.843094760616897,128.249473362336,Approximate within a group of smelters,HPAL,MHP,,55000.0,Planned
+60,Sambas Minerals Mining,,Sambas Minerals Mining,South East Sulawesi,South Konawe Regency,-4.45935420048957,122.359915890572,Mine - No smelter,RKEF,NPI,104544.0,,Stalled
+61,Asia Mining Minerals,,Asia Mining Minerals,South East Sulawesi,Kolaka Regency,-4.28249428949051,121.579914856684,Unconfirmed,RKEF,NPI,160712.0,,Stalled
+62,Surya Saga Utama,,Surya Saga Utama,South East Sulawesi,Bombana Regency,-5.12133354679023,121.883441022571,Exact,Unknown,FeNi,302506.0,,Stalled
+63,Integra Mining Nusantara,,Integra Mining Nusantara,South East Sulawesi,South Konawe Regency,-4.43789965420115,122.485019596937,Mine - No smelter,Unknown,NPI,285220.0,,Stalled
+64,Genba Multi Mineral,,Genba Multi Mineral,Central Sulawesi,North Morowali Regency,-2.14061,121.54069,Mine - No smelter,Unknown,NPI,500000.0,,Stalled
+65,Angkasa Jaya Mulia,,PT Batulicin Enam Sembilan,East Java,Tuban Regency,-6.80679180785876,111.981989012801,Unconfirmed,Unknown,FeNi,63000.0,,Stalled
+66,Teka Mining Resources,,Teka Mining Resources,North Maluku,Central Halmahera Regency,0.45996536934158,127.92242429557,Unconfirmed,Unknown,NPI,300000.0,,Stalled
+67,First Pacific Mining,,First Pacific Mining,North Maluku,Central Halmahera Regency,,,Unconfirmed,Unknown,FeNi,30000.0,,Stalled
+68,Kinlin Nickel Industri,,Kinlin Nickel Industri,South East Sulawesi,South Konawe Regency,-4.45663313945751,122.352577613714,Exact,Unknown,NPI,17000.0,,Stalled
+69,Mahkota Konaweeha,,Mahkota Konaweeha,South East Sulawesi,Kendari City,-4.00619632489727,122.636653236766,Exact,Unknown,NPI,62000.0,,Stalled
+70,Ocean Sky Metal Industry,Indonesia Morowali Industrial Park (IMIP),Ocean Sky Metal Industry,Central Sulawesi,Morowali Regency,-2.86157384070335,122.158853566739,Exact,Unknown,NPI,380000.0,,Operating
+71,Zhao Hui Nickel,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Industri Mineral,Central Sulawesi,Morowali Regency,-2.85963986226067,122.155000831011,Exact,RKEF,NPI,,23000.0,Operating
+72,Sunny Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Sunny Metal Industry,North Maluku,Central Halmahera Regency,0.487106858706739,127.981324757247,Approximate within a group of smelters,RKEF,FeNi,400000.0,55000.0,Operating
+73,Obi Nickel Cobalt,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Lygend New Power Ltd /Harita Nickel.,North Maluku,South Halmahera Regency,-1.53389444850468,127.41908725139,Exact,HPAL,MHP,,65000.0,Operating
+74,Perkasa Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Eternal Tsingshan Group ,North Maluku,Central Halmahera Regency,0.488145455865328,127.970546796433,Approximate within a group of smelters,Unknown,NPI,150000.0,,Operating
+75,Halmahera Jaya Feronikel,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Harita Nickel,North Maluku,South Halmahera Regency,-1.56014879697201,127.427420671122,Exact,RKEF,NPI,870000.0,95000.0,Operating
+76,Alchemist Metal Industry,,Gunbuster Nickel Industry,North Maluku,North Halmahera Regency,,,Unconfirmed,Unknown,NPI,1600000.0,,Stalled
+77,Karunia Permai Sentosa ,Kawasan Industri Pulau Obi / Obi Island Industrial Park,PT Karunia Permai Sentosa,North Maluku,South Halmahera Regency,-1.56863134432775,127.428752314741,Construction,RKEF,FeNi,,185000.0,Operating
+78,PT Metal Smelt Indo Selaras,Qingdao Indonesia Comprehensive Industrial Park,PT Metal Smelt Indo Selaras,Central Sulawesi,Morowali Regency,-3.04298747012378,122.264709376272,Exact,RKEF,,,,Operating
+79,Ceria Nugraha Indotama (HPAL),,Ceria Nugraha Indotama,South East Sulawesi,Kolaka Regency,-3.86572286265205,121.309797637587,Mine - No smelter,HPAL,MHP,293200.0,110900.0, Construction
+80,PT Huaneng Metal Industry,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.83568870469587,122.163299666395,Exact,RKEF,Ni Matte,50000.0,,Operating
+81,PT ESG New Energy Material,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.85718814631921,122.172082174176,Exact,HPAL,MHP,,30000.0,Operating
+82,Oracle Nickel,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.86090888374523,122.155868800702,Exact,RKEF,NPI,,36000.0,Operating
+83,PT Andalan Metal Industry ,Indonesia Weda Bay Industrial Park (IWIP),PT Andalan Metal Industry ,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,NPI,150000.0,24000.0,Operating
+84,PT Langit Metal Industry,,PT Langit Metal Industry,North Maluku,Central Halmahera Regency,0.485177317918801,127.984867275989,Approximate within a group of smelters,RKEF,NPI,300000.0,36000.0,Operating
+85,PT Lipe Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Tsingshan Holding Group,North Maluku,Central Halmahera Regency,0.483352214536535,127.990803625506,Approximate within a group of smelters,Unknown,NPI,300000.0,,Unclear
+86,PT Mazinger Nickel Industry,Delong Industrial Park,PT Mazinger Nickel Industry,Central Sulawesi,North Morowali Regency,-2.0169409880138,121.420463318436,Unconfirmed,RKEF,NPI,240000.0,, Construction
+87,PT Infei Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),PT Infei Metal Industry,North Maluku,Central Halmahera Regency,0.4823857761,127.9905995,Approximate within a group of smelters,RKEF,NPI,28000.0,,Operating
+88,PT Kao Rahai Smelters,Indonesia Weda Bay Industrial Park (IWIP),PT Kao Rahai Smelters,North Maluku,Central Halmahera Regency,0.47487682499693,127.959619795786,Approximate within a group of smelters,Unknown,NPI,350000.0,,Operating
+89,PT Maluku Utara Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),PT Maluku Utara Metal Industry,North Maluku,Central Halmahera Regency,0.581864352141389,127.946949735709,Unconfirmed,Unknown,NPI,350000.0,,Unclear
+90,PT Jiu Long Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),ANTAM,North Maluku,Central Halmahera Regency,0.487616462055293,127.985763953548,Approximate within a group of smelters,Unknown,NPI,200000.0,,Operating
+91,PT Sungai Raya Nickel Alloy Indonesia,,PT Sungai Raya Nickel Alloy Indonesia,South East Sulawesi,South Konawe Regency,-4.16161494641504,122.678787600165,Unconfirmed,Unknown,NPI,650000.0,,Stalled
+92,PT Guang Tsing Halmahera Nickel,,PT Guang Tsing Halmahera Nickel,,,,,Unconfirmed,Unknown,NPI,1200000.0,,Unclear
+93,PT MBG Nikel Indonesia,,PT MBG Nikel Indonesia,South East Sulawesi,North Konawe Regency,,,Unconfirmed,Unknown,MHP,34700.0,,Stalled
+94,PT Westrong Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Harum Energy,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,Ni Matte,,56000.0,Operating
+95,PT Blue Sparking Energy,Indonesia Weda Bay Industrial Park (IWIP),Harum Energy,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,HPAL,MHP,,67000.0, Construction
+96,PT Heng Sheng New Energy Material Indonesia,Kawasan Industri Bantaeng,PT Heng Sheng New Energy Material Indonesia,South Sulawesi,Bantaeng Regency,-5.56714042615137,120.063356231334,Exact,OESBF,Ni Matte,10000.0,,Operating
+97,PT Unity Nickel Alloy,Kawasan Industri Bantaeng,PT Unity Nickel Indonesia,South Sulawesi,Bantaeng Regency,-5.56584918587481,120.068234925222,Exact,Unknown,FeNi,200000.0,,Operating
+98,Dowstone Energy Materials Indonesia,Kawasan Industri Bantaeng,PT Dowstone Energy Materials Indonesia,South Sulawesi,Bantaeng Regency,-5.57753334707958,120.069017936948,Approximate within a group of smelters,Unknown,Ni Matte,20000.0,,Unclear
+99,Mitra Murni Perkasa,Kawasan Industri Kariangau,Mitra Murni Perkasa,East Kalimantan,Balikpapan City,-1.11363289581564,116.750163134973,Exact,RKEF,Ni Matte,28000.0,,Operating
+100,Nadesico Nickel Industry,Kawasan Industri PT Stardust Estate Investment,CNGR,Central Sulawesi,North Morowali Regency,-2.01427457604686,121.430177208944,Exact,RKEF,Ni Matte,1800000.0,80000.0,Operating
+101,Debonair Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),CNGR,North Maluku,Central Halmahera Regency,0.487668817784395,127.977118715487,Approximate within a group of smelters,RKEF,FeNi,,27500.0, Construction
+102,Zhongtsing New Energy,Indonesia Morowali Industrial Park (IMIP),Zhongtsing New Energy,Central Sulawesi,Morowali Regency,-2.82268590864756,122.146086856557,Exact,Unknown,Ni Matte,100000.0,,Operating
+103,Dingxing New Energy,Indonesia Morowali Industrial Park (IMIP),CNGR,Central Sulawesi,Morowali Regency,-2.82271172342708,122.137055315572,Exact,HPAL,Electrolytic Ni,,50000.0,Operating
+104,Jade Bay Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),CNGR,North Maluku,Central Halmahera Regency,0.489091049722045,127.977085187476,Approximate within a group of smelters,RKEF,FeNi,,27500.0,Unclear
+105,PT Meiming New Energy Material,Indonesia Morowali Industrial Park (IMIP),PT Meiming New Energy,Central Sulawesi,Morowali Regency,-2.86010279620949,122.145358157235,Approximate within a group of smelters,HPAL,MHP,,25000.0, Construction

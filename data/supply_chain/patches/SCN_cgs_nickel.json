@@ -1,0 +1,3509 @@
+{
+ "task": "SCN_cgs_nickel",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "C0": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 0; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "0,Adhikara Cipta Mulia,,Adhikara Cipta Mulia,South East Sulawesi,North Konawe Regency,-3.52320167397664,122.164807122561,Mine - No smelter,HPAL,MHP,76500.0,30400.0,Unclear"
+  },
+  "C1": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 1; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "1,ANTAM Pomalaa RKEF,Kawasan Industri Antam Timur,PT Aneka Tambang,South East Sulawesi,Kolaka Regency,-4.18597128870594,121.611100571282,Exact,RKEF,FeNi,90000.0,27000.0,Operating"
+  },
+  "C2": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 2; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "2,ANTAM Feni Haltim RKEF,Kawasan Industri Buli,ANTAM,North Maluku,East Halmahera Regency,0.83684,128.24266,Approximate within a group of smelters,RKEF,FeNi,64655.0,13500.0,Unclear"
+  },
+  "C3": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 3; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "3,Ang And Fang Brother,,Ang and Fang Brother,Central Sulawesi,Morowali Regency,-2.78683713746305,122.083405959012,Mine - No smelter,RKEF,NPI,130508.0,,Stalled"
+  },
+  "C4": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 4; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "4,Angel Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Nickel Mines,North Maluku,Central Halmahera Regency,0.48068,127.99074,Exact,RKEF,NPI,350000.0,36000.0,Operating"
+  },
+  "C5": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 5; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "5,Anugrah Tambang Sejahtera,,Silkroad Nickel,South East Sulawesi,Morowali Regency,-3.01680813805646,122.233574871863,Mine - No smelter,RKEF,NPI,144000.0,14400.0,Stalled"
+  },
+  "C6": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 6; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "6,Artha Mining Industry,,Artha Mining Industry,South East Sulawesi,Bombana Regency,-4.89399835956639,121.987146995586,Construction,Unknown,NPI,200000.0,21500.0,Stalled"
+  },
+  "C7": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 7; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "7,Artabumi Sentra Industri,,Silkroad Nickel,Central Sulawesi,Morowali Regency,,,Unconfirmed,BF,NPI,72000.0,,Stalled"
+  },
+  "C9": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 9; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "9,Bintang Smelter Indonesia,,PT Ifishdeco,South East Sulawesi,South Konawe Regency,-4.40051665026324,122.198670979539,Exact,BF,NPI,40000.0,,No longer operational"
+  },
+  "C10": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 10; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10,Bintang Timur Steel,Millenium Industrial Estate,Bintang Timur Steel,Banten,Tangerang Regency,-6.24800244074343,106.497542682449,Exact,SAF,NPI,35000.0,,No longer operational"
+  },
+  "C12": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 12; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "12,Cahaya Modern Metal Industri,Modern Cikande Industrial Estate,PT Modern Cahaya Makmur,Banten,Serang Regency,-6.20862610786271,106.326625086874,Exact,BF,NPI,35000.0,,Operating"
+  },
+  "C14": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 14; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "14,CORII BF,,PT Central Omega Resources Tbk,Central Sulawesi,Morowali Regency,-1.93869141224428,121.320296797426,Exact,BF,NPI,100000.0,8000.0,No longer operational"
+  },
+  "C15": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 15; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "15,CORII RKEF,,Central Omega Resources,Central Sulawesi,Morowali Regency,-1.93869141224428,121.320296797426,Unconfirmed,RKEF,FeNi,200000.0,20000.0,Planned"
+  },
+  "C16": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 16; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "16,Century Metalindo,Modern Cikande Industrial Estate,Century Metalindo,Banten,Serang Regency,-6.18810173266052,106.315206339778,Exact,SAF,NPI,24500.0,3000.0,Operating"
+  },
+  "C17": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 17; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "17,Ceria Nugraha Indotama (RKEF) / Merah Putih smelter,,PT Ceria Nugraha Indotama,South East Sulawesi,Kolaka Regency,-3.85415246173602,121.297981864151,Exact,RKEF,FeNi,252728.0,55600.0,Operating"
+  },
+  "C18": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 18; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "18,Fajar Bhakti Lintas Nusantara,,PT Pengda Mining Indonesia,North Maluku,Central Halmahera Regency,-0.0695553166834322,129.3921427,Exact,BF,NPI,120000.0,,No longer operational"
+  },
+  "C19": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 19; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "19,Fajar Metal Industry Excelsior Nickel Cobalt Project,Indonesia Morowali Industrial Park (IMIP),Perpetual Power Technology Group Ltd.,Central Sulawesi,Morowali Regency,-2.83822430529276,122.117733364886,Unconfirmed,HPAL,Ni Sulfate,272700.0,60000.0, Construction"
+  },
+  "C20": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 20; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "20,Gebe Industry Nickel,,Gebe Industry Nickel,East Java,Gresik Regency,-7.13215,112.61242,Unconfirmed,HPAL,MHP,21601.0,13000.0,Operating"
+  },
+  "C21": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 21; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "21,Growth Java Industri,,Growth Java Industri,Banten,Cilegon,-6.02916664481287,105.954452028205,Approximate within a group of smelters,BF,NPI,57500.0,12000.0,Operating"
+  },
+  "C22": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 22; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "22,Gunbuster Nickel Industry,Kawasan Industri PT Stardust Estate Investment,Gunbuster Nickel Industry,Central Sulawesi,North Morowali Regency,-2.00042547039831,121.43504311042,Exact,RKEF,NPI,2000000.0,,Operating"
+  },
+  "C23": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 23; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "23,Halmahera Persada Lygend,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Harita Nickel and Lygend Resources,North Maluku,South Halmahera Regency,-1.53887378195392,127.420130725153,Exact,HPAL,MHP,365000.0,55000.0,Operating"
+  },
+  "C24": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 24; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "24,Heng Tai Yuan Indonesia,Krakatau Industrial Estate Cilegon,Heng Tai Yuan Indonesia,Banten,Cilegon,-6.0008994834225,106.019090624431,Exact,BF,NPI,40000.0,,Unclear"
+  },
+  "C25": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 25; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "25,Hengjaya Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.84720726843122,122.164215585423,Exact,RKEF,NPI,150000.0,15000.0,Operating"
+  },
+  "C26": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 26; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "26,Huadi Nickel-Alloy Indonesia,Kawasan Industri Bantaeng,Shanghai Huadi Industry Co. Ltd.,South Sulawesi,Bantaeng Regency,-5.57950003433346,120.065774009083,Approximate within a group of smelters,RKEF,NPI,42000.0,,No longer operational"
+  },
+  "C27": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 27; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "27,Huake Nickel Indonesia,Indonesia Weda Bay Industrial Park (IWIP),Zheijhang Huayou Cobalt ,North Maluku,Central Halmahera Regency,0.487095939709902,127.993195587294,Exact,SAF,NPI,350000.0,45000.0,Operating"
+  },
+  "C28": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 28; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "28,Huayue Nickel Cobalt,Indonesia Morowali Industrial Park (IMIP),Zhiejhang Huayou Cobalt Co. Ltd. ,Central Sulawesi,Morowali Regency,-2.85111166723729,122.180043120576,Exact,HPAL,MHP,160500.0,60000.0,Operating"
+  },
+  "C29": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 29; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "29,GO STAL Nickel Indonesia,,PT Trinitan Resourcetama Indonesia,West Java,Bogor Regency,-6.44227180460602,106.935760532311,Exact,STAL,MHP,3200.0,800.0,Operating"
+  },
+  "C30": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 30; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "30,Indonesia Guang Ching Nickel and SSI,Indonesia Morowali Industrial Park (IMIP),Indonesia Guang Ching Nickel SSI,Central Sulawesi,Morowali Regency,-2.82831965030396,122.162319664885,Exact,RKEF,NPI,600000.0,,Operating"
+  },
+  "C31": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 31; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "31,Indonesia Ruipu Nickel and Chrome Alloy,Indonesia Morowali Industrial Park (IMIP),Ruipu Technology Group Co. Ltd.,Central Sulawesi,Morowali Regency,-2.82843198390823,122.165753669219,Exact,RKEF,NPI,300000.0,,Operating"
+  },
+  "C32": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 32; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "32,Indonesia Tsingshan Stainless Steel,Indonesia Morowali Industrial Park (IMIP),Indonesia Tsingshan Stainless Steel,Central Sulawesi,Morowali Regency,-2.83238130604301,122.161456778463,Exact,RKEF,NPI,675000.0,,Operating"
+  },
+  "C33": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 33; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "33,Kolaka Nickel Indonesia,Indonesia Pomalaa Industrial Park (IPIP),PT Kolaka Indonesia Ltd. ,South East Sulawesi,Kolaka Regency,-4.23163100235464,121.584765653255,Construction,HPAL,MSP,,120000.0, Construction"
+  },
+  "C35": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 35; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "35,Macika Mineral Industri,,Macika Mineral Industri,South East Sulawesi,South Konawe Regency,-4.45508381223903,122.360989755698,Construction,RKEF,NPI,93000.0,,Stalled"
+  },
+  "C36": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 36; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "36,Mapan Asri Sejahtera,,Mapan Asri Sejahtera,South East Sulawesi,Kolaka Regency,-4.27126551488023,121.565690265067,Exact,BF,NPI,21531.0,,Operating"
+  },
+  "C37": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 37; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "37,Megah Surya Pertiwi,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Megah Surya Pertiwi,North Maluku,South Halmahera Regency,-1.52952559965166,127.422421955604,Exact,RKEF,NPI,240000.0,25000.0,Operating"
+  },
+  "C38": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 38; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "38,Obsidian Stainless Steel,Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park,PT Obsidian Stainless Steel,South East Sulawesi,Konawe Regency,-3.87107080589466,122.40347199787,Exact,RKEF,NPI,2500000.0,,Operating"
+  },
+  "C39": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 39; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "39,QMB New Energy Materials Indonesia,Indonesia Morowali Industrial Park (IMIP),GEM,Central Sulawesi,Morowali Regency,-2.86010717942546,122.171462609067,Exact,HPAL,Ni Sulfate,136364.0,50000.0,Operating"
+  },
+  "C40": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 40; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "40,Ranger Nickel Industry,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.85105650826125,122.163937924412,Approximate within a group of smelters,RKEF,NPI,150000.0,15000.0,Operating"
+  },
+  "C41": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 41; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "41,Sinar Deli Bantaeng,Kawasan Industri Bantaeng,Sinar Deli Bantaeng,South Sulawesi,Bantaeng Regency,-5.58047426678859,120.068267466755,Unconfirmed,Unknown,NPI,238000.0,,Stalled"
+  },
+  "C42": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 42; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "42,Smelter Nikel Indonesia,,Smelter Nikel Indonesia,Banten,Tangerang Regency,-6.211031,106.456376,Exact,HPAL,MHP,46800.0,,Operating"
+  },
+  "C43": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 43; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "43,Sulawesi Mining Investment,Indonesia Morowali Industrial Park (IMIP),Sulawesi Mining Investment,Central Sulawesi,Morowali Regency,-2.82450203373249,122.162005624412,Exact,RKEF,NPI,300000.0,30000.0,Operating"
+  },
+  "C44": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 44; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "44,Sulawesi Resources,,Sulawesi Resources,Central Sulawesi,Morowali Regency,-2.70055948941961,121.98016583085,Mine - No smelter,RKEF,FeNi,152400.0,,Unclear"
+  },
+  "C45": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 45; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "45,Teluk Metal Industry,Indonesia Morowali Industrial Park (IMIP) ,Teluk Metal Industry,Central Sulawesi,Morowali Regency,-2.83606038957607,122.118785655752,Approximate within a group of smelters,HPAL,Ni Sulfate,272700.0,,Unclear"
+  },
+  "C46": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 46; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "46,Titan Mineral Utama,Kawasan Industri Bantaeng,Titan Mineral Utama,South Sulawesi,Bantaeng Regency,-5.56626059272201,120.048542928533,Unconfirmed,BF,NPI,120000.0,,Stalled"
+  },
+  "C47": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 47; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "47,Tsingshan Steel Indonesia,Indonesia Morowali Industrial Park (IMIP),Tsingshan Steel Indonesia,Central Sulawesi,Morowali Regency,-2.83150301383204,122.168885300445,Exact,BF,NPI,500000.0,,Operating"
+  },
+  "C48": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 48; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "48,Vale Indonesia (Sorowako RKEF),,PT Vale Indonesia,South Sulawesi,East Luwu Regency,-2.57149,121.37843,Exact,RKEF,Ni Matte,94300.0,,Operating"
+  },
+  "C49": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 49; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "49,Virtue Dragon Nickel Industry (VDNI),Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park,Virtue Dragon Nickel Industry,South East Sulawesi,Konawe Regency,-3.9072272057542,122.417022046513,Exact,RKEF,NPI,1000000.0,,Operating"
+  },
+  "C50": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 50; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "50,Walsin Nickel Industrial Indonesia,Indonesia Morowali Industrial Park (IMIP),PT Walsin Nickel Industrial Indonesia,Central Sulawesi,Morowali Regency,-2.8577087407882,122.159837893722,Exact,RKEF,NPI,300000.0,,Operating"
+  },
+  "C51": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 51; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "51,Wanatiara Persada,,Mining Metallurgy Ltd.,North Maluku,South Halmahera Regency,-1.4590046405692,127.438374798906,Exact,BF,NPI,209450.0,,Operating"
+  },
+  "C52": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 52; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "52,Wanxiang Nickel Indonesia,,Wanxiang Nickel Indonesia,Central Sulawesi,Morowali Regency,-2.7385893251359,122.028568769438,Exact,RKEF,NPI,351018.0,,Operating"
+  },
+  "C53": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 53; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "53,Weda Bay Nickel,Indonesia Weda Bay Industrial Park (IWIP),Strand Minerals Indonesia,North Maluku,Central Halmahera Regency,0.48075,127.99338,Exact,RKEF,NPI,300000.0,30000.0,Operating"
+  },
+  "C54": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 54; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "54,Yashi Indonesia Investment,Indonesia Weda Bay Industrial Park (IWIP),PT Fajar Bakti Lintas Nusantra,North Maluku,Central Halmahera Regency,0.48073,127.99653,Exact,RKEF,NPI,300000.0,35000.0,Operating"
+  },
+  "C55": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 55; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "55,Youshan Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),Youshan Nickel Industry,North Maluku,Central Halmahera Regency,0.48068,127.99945,Exact,RKEF,NPI,300000.0,34000.0,Operating"
+  },
+  "C56": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 56; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "56,Huafei Nickel Cobalt,Indonesia Weda Bay Industrial Park (IWIP),Huafei Nickel Cobalt,North Maluku,Central Halmahera Regency,0.471071383571861,127.943123210915,Approximate within a group of smelters,HPAL,MHP,120000.0,,Operating"
+  },
+  "C57": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 57; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "57,Huashan Nickel Cobalt,Indonesia Weda Bay Industrial Park (IWIP),PT Huashan Nickel Cobalt,North Maluku,Central Halmahera Regency,0.481106064991268,127.947138326664,Approximate within a group of smelters,HPAL,MHP,326000.0,120000.0,Stalled"
+  },
+  "C58": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 58; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "58,Vale Indonesia Huayou (Sorowako HPAL),PT Indonesia Huali Industrial Park,Vale Indonesia,South Sulawesi,East Luwu Regency,-2.56850483849486,121.374867432,Approximate within a group of smelters,HPAL,MHP,60000.0,,Planned"
+  },
+  "C59": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 59; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "59,Antam HKBCL HPAL,Kawasan Industri Buli,ANTAM,North Maluku,East Halmahera Regency,0.843094760616897,128.249473362336,Approximate within a group of smelters,HPAL,MHP,,55000.0,Planned"
+  },
+  "C60": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 60; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "60,Sambas Minerals Mining,,Sambas Minerals Mining,South East Sulawesi,South Konawe Regency,-4.45935420048957,122.359915890572,Mine - No smelter,RKEF,NPI,104544.0,,Stalled"
+  },
+  "C61": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 61; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "61,Asia Mining Minerals,,Asia Mining Minerals,South East Sulawesi,Kolaka Regency,-4.28249428949051,121.579914856684,Unconfirmed,RKEF,NPI,160712.0,,Stalled"
+  },
+  "C62": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 62; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "62,Surya Saga Utama,,Surya Saga Utama,South East Sulawesi,Bombana Regency,-5.12133354679023,121.883441022571,Exact,Unknown,FeNi,302506.0,,Stalled"
+  },
+  "C63": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 63; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "63,Integra Mining Nusantara,,Integra Mining Nusantara,South East Sulawesi,South Konawe Regency,-4.43789965420115,122.485019596937,Mine - No smelter,Unknown,NPI,285220.0,,Stalled"
+  },
+  "C64": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 64; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "64,Genba Multi Mineral,,Genba Multi Mineral,Central Sulawesi,North Morowali Regency,-2.14061,121.54069,Mine - No smelter,Unknown,NPI,500000.0,,Stalled"
+  },
+  "C65": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 65; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "65,Angkasa Jaya Mulia,,PT Batulicin Enam Sembilan,East Java,Tuban Regency,-6.80679180785876,111.981989012801,Unconfirmed,Unknown,FeNi,63000.0,,Stalled"
+  },
+  "C66": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 66; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "66,Teka Mining Resources,,Teka Mining Resources,North Maluku,Central Halmahera Regency,0.45996536934158,127.92242429557,Unconfirmed,Unknown,NPI,300000.0,,Stalled"
+  },
+  "C67": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 67; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "67,First Pacific Mining,,First Pacific Mining,North Maluku,Central Halmahera Regency,,,Unconfirmed,Unknown,FeNi,30000.0,,Stalled"
+  },
+  "C68": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 68; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "68,Kinlin Nickel Industri,,Kinlin Nickel Industri,South East Sulawesi,South Konawe Regency,-4.45663313945751,122.352577613714,Exact,Unknown,NPI,17000.0,,Stalled"
+  },
+  "C69": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 69; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "69,Mahkota Konaweeha,,Mahkota Konaweeha,South East Sulawesi,Kendari City,-4.00619632489727,122.636653236766,Exact,Unknown,NPI,62000.0,,Stalled"
+  },
+  "C70": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 70; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "70,Ocean Sky Metal Industry,Indonesia Morowali Industrial Park (IMIP),Ocean Sky Metal Industry,Central Sulawesi,Morowali Regency,-2.86157384070335,122.158853566739,Exact,Unknown,NPI,380000.0,,Operating"
+  },
+  "C72": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 72; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "72,Sunny Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Sunny Metal Industry,North Maluku,Central Halmahera Regency,0.487106858706739,127.981324757247,Approximate within a group of smelters,RKEF,FeNi,400000.0,55000.0,Operating"
+  },
+  "C73": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 73; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "73,Obi Nickel Cobalt,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Lygend New Power Ltd /Harita Nickel.,North Maluku,South Halmahera Regency,-1.53389444850468,127.41908725139,Exact,HPAL,MHP,,65000.0,Operating"
+  },
+  "C74": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 74; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "74,Perkasa Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Eternal Tsingshan Group ,North Maluku,Central Halmahera Regency,0.488145455865328,127.970546796433,Approximate within a group of smelters,Unknown,NPI,150000.0,,Operating"
+  },
+  "C75": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 75; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "75,Halmahera Jaya Feronikel,Kawasan Industri Pulau Obi / Obi Island Industrial Park,Harita Nickel,North Maluku,South Halmahera Regency,-1.56014879697201,127.427420671122,Exact,RKEF,NPI,870000.0,95000.0,Operating"
+  },
+  "C76": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 76; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "76,Alchemist Metal Industry,,Gunbuster Nickel Industry,North Maluku,North Halmahera Regency,,,Unconfirmed,Unknown,NPI,1600000.0,,Stalled"
+  },
+  "C77": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 77; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "77,Karunia Permai Sentosa ,Kawasan Industri Pulau Obi / Obi Island Industrial Park,PT Karunia Permai Sentosa,North Maluku,South Halmahera Regency,-1.56863134432775,127.428752314741,Construction,RKEF,FeNi,,185000.0,Operating"
+  },
+  "C78": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 78; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "78,PT Metal Smelt Indo Selaras,Qingdao Indonesia Comprehensive Industrial Park,PT Metal Smelt Indo Selaras,Central Sulawesi,Morowali Regency,-3.04298747012378,122.264709376272,Exact,RKEF,,,,Operating"
+  },
+  "C79": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 79; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "79,Ceria Nugraha Indotama (HPAL),,Ceria Nugraha Indotama,South East Sulawesi,Kolaka Regency,-3.86572286265205,121.309797637587,Mine - No smelter,HPAL,MHP,293200.0,110900.0, Construction"
+  },
+  "C80": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 80; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "80,PT Huaneng Metal Industry,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.83568870469587,122.163299666395,Exact,RKEF,Ni Matte,50000.0,,Operating"
+  },
+  "C81": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 81; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "81,PT ESG New Energy Material,Indonesia Morowali Industrial Park (IMIP),PT Merdeka Battery Materials,Central Sulawesi,Morowali Regency,-2.85718814631921,122.172082174176,Exact,HPAL,MHP,,30000.0,Operating"
+  },
+  "C82": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 82; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "82,Oracle Nickel,Indonesia Morowali Industrial Park (IMIP),Nickel Industries,Central Sulawesi,Morowali Regency,-2.86090888374523,122.155868800702,Exact,RKEF,NPI,,36000.0,Operating"
+  },
+  "C83": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 83; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "83,PT Andalan Metal Industry ,Indonesia Weda Bay Industrial Park (IWIP),PT Andalan Metal Industry ,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,NPI,150000.0,24000.0,Operating"
+  },
+  "C84": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 84; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "84,PT Langit Metal Industry,,PT Langit Metal Industry,North Maluku,Central Halmahera Regency,0.485177317918801,127.984867275989,Approximate within a group of smelters,RKEF,NPI,300000.0,36000.0,Operating"
+  },
+  "C85": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 85; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "85,PT Lipe Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Tsingshan Holding Group,North Maluku,Central Halmahera Regency,0.483352214536535,127.990803625506,Approximate within a group of smelters,Unknown,NPI,300000.0,,Unclear"
+  },
+  "C86": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 86; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "86,PT Mazinger Nickel Industry,Delong Industrial Park,PT Mazinger Nickel Industry,Central Sulawesi,North Morowali Regency,-2.0169409880138,121.420463318436,Unconfirmed,RKEF,NPI,240000.0,, Construction"
+  },
+  "C87": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 87; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "87,PT Infei Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),PT Infei Metal Industry,North Maluku,Central Halmahera Regency,0.4823857761,127.9905995,Approximate within a group of smelters,RKEF,NPI,28000.0,,Operating"
+  },
+  "C88": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 88; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "88,PT Kao Rahai Smelters,Indonesia Weda Bay Industrial Park (IWIP),PT Kao Rahai Smelters,North Maluku,Central Halmahera Regency,0.47487682499693,127.959619795786,Approximate within a group of smelters,Unknown,NPI,350000.0,,Operating"
+  },
+  "C89": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 89; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "89,PT Maluku Utara Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),PT Maluku Utara Metal Industry,North Maluku,Central Halmahera Regency,0.581864352141389,127.946949735709,Unconfirmed,Unknown,NPI,350000.0,,Unclear"
+  },
+  "C90": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 90; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "90,PT Jiu Long Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),ANTAM,North Maluku,Central Halmahera Regency,0.487616462055293,127.985763953548,Approximate within a group of smelters,Unknown,NPI,200000.0,,Operating"
+  },
+  "C91": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 91; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "91,PT Sungai Raya Nickel Alloy Indonesia,,PT Sungai Raya Nickel Alloy Indonesia,South East Sulawesi,South Konawe Regency,-4.16161494641504,122.678787600165,Unconfirmed,Unknown,NPI,650000.0,,Stalled"
+  },
+  "C92": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 92; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "92,PT Guang Tsing Halmahera Nickel,,PT Guang Tsing Halmahera Nickel,,,,,Unconfirmed,Unknown,NPI,1200000.0,,Unclear"
+  },
+  "C93": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 93; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "93,PT MBG Nikel Indonesia,,PT MBG Nikel Indonesia,South East Sulawesi,North Konawe Regency,,,Unconfirmed,Unknown,MHP,34700.0,,Stalled"
+  },
+  "C94": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 94; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "94,PT Westrong Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),Harum Energy,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,RKEF,Ni Matte,,56000.0,Operating"
+  },
+  "C95": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 95; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "95,PT Blue Sparking Energy,Indonesia Weda Bay Industrial Park (IWIP),Harum Energy,North Maluku,Central Halmahera Regency,0.484250049328921,127.986313601741,Approximate within a group of smelters,HPAL,MHP,,67000.0, Construction"
+  },
+  "C96": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 96; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "96,PT Heng Sheng New Energy Material Indonesia,Kawasan Industri Bantaeng,PT Heng Sheng New Energy Material Indonesia,South Sulawesi,Bantaeng Regency,-5.56714042615137,120.063356231334,Exact,OESBF,Ni Matte,10000.0,,Operating"
+  },
+  "C97": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 97; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "97,PT Unity Nickel Alloy,Kawasan Industri Bantaeng,PT Unity Nickel Indonesia,South Sulawesi,Bantaeng Regency,-5.56584918587481,120.068234925222,Exact,Unknown,FeNi,200000.0,,Operating"
+  },
+  "C98": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 98; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "98,Dowstone Energy Materials Indonesia,Kawasan Industri Bantaeng,PT Dowstone Energy Materials Indonesia,South Sulawesi,Bantaeng Regency,-5.57753334707958,120.069017936948,Approximate within a group of smelters,Unknown,Ni Matte,20000.0,,Unclear"
+  },
+  "C99": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 99; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "99,Mitra Murni Perkasa,Kawasan Industri Kariangau,Mitra Murni Perkasa,East Kalimantan,Balikpapan City,-1.11363289581564,116.750163134973,Exact,RKEF,Ni Matte,28000.0,,Operating"
+  },
+  "C100": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 100; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "100,Nadesico Nickel Industry,Kawasan Industri PT Stardust Estate Investment,CNGR,Central Sulawesi,North Morowali Regency,-2.01427457604686,121.430177208944,Exact,RKEF,Ni Matte,1800000.0,80000.0,Operating"
+  },
+  "C101": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 101; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "101,Debonair Nickel Industry,Indonesia Weda Bay Industrial Park (IWIP),CNGR,North Maluku,Central Halmahera Regency,0.487668817784395,127.977118715487,Approximate within a group of smelters,RKEF,FeNi,,27500.0, Construction"
+  },
+  "C102": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 102; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "102,Zhongtsing New Energy,Indonesia Morowali Industrial Park (IMIP),Zhongtsing New Energy,Central Sulawesi,Morowali Regency,-2.82268590864756,122.146086856557,Exact,Unknown,Ni Matte,100000.0,,Operating"
+  },
+  "C103": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 103; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "103,Dingxing New Energy,Indonesia Morowali Industrial Park (IMIP),CNGR,Central Sulawesi,Morowali Regency,-2.82271172342708,122.137055315572,Exact,HPAL,Electrolytic Ni,,50000.0,Operating"
+  },
+  "C104": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 104; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "104,Jade Bay Metal Industry,Indonesia Weda Bay Industrial Park (IWIP),CNGR,North Maluku,Central Halmahera Regency,0.489091049722045,127.977085187476,Approximate within a group of smelters,RKEF,FeNi,,27500.0,Unclear"
+  },
+  "C105": {
+   "url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+   "publisher": "CGS Nickel Smelter Dataset V1 (Univ. of Maryland, CC BY 4.0), row 105; local key columns team/evidence/open_datasets/cgs_nickel_smelters_key.csv",
+   "published": "2025-01-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "105,PT Meiming New Energy Material,Indonesia Morowali Industrial Park (IMIP),PT Meiming New Energy,Central Sulawesi,Morowali Regency,-2.86010279620949,122.145358157235,Approximate within a group of smelters,HPAL,MHP,,25000.0, Construction"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "adhikara-cipta-mulia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 30400.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "asset_name": "Adhikara Cipta Mulia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "Adhikara Cipta Mulia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C0"
+    ],
+    "capacity": [
+     "C0"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: HPAL → MHP, gross output 76500.0 t, Ni-equivalent 30400.0 t; status 2025 'Unclear'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "update",
+   "id": "pt-aneka-tambang-pomalaa-ferronickel-indonesia",
+   "fields": {
+    "latitude": -4.18597,
+    "longitude": 121.6111,
+    "geo_precision": "site",
+    "capacity": 27000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "C1"
+    ]
+   },
+   "notes": "CGS dataset: RKEF → FeNi, gross output 90000.0 t, Ni-equivalent 27000.0 t; status 2025 'Operating'; park Kawasan Industri Antam Timur; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "antam-feni-haltim-rkef-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 13500.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.83684,
+    "longitude": 128.24266,
+    "geo_precision": "town",
+    "asset_name": "ANTAM Feni Haltim RKEF",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "ANTAM",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C2"
+    ],
+    "capacity": [
+     "C2"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: RKEF → FeNi, gross output 64655.0 t, Ni-equivalent 13500.0 t; status 2025 'Unclear'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "ang-and-fang-brother-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Ang And Fang Brother",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Ang and Fang Brother",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C3"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: RKEF → NPI, gross output 130508.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-angel-nickel-indonesia",
+   "fields": {
+    "latitude": 0.48068,
+    "longitude": 127.99074,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 350000.0 t, Ni-equivalent 36000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "anugrah-tambang-sejahtera-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 14400.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "asset_name": "Anugrah Tambang Sejahtera",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Silkroad Nickel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C5"
+    ],
+    "capacity": [
+     "C5"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: RKEF → NPI, gross output 144000.0 t, Ni-equivalent 14400.0 t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "add",
+   "id": "artha-mining-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 21500.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -4.894,
+    "longitude": 121.98715,
+    "geo_precision": "site",
+    "asset_name": "Artha Mining Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Artha Mining Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C6"
+    ],
+    "capacity": [
+     "C6"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 200000.0 t, Ni-equivalent 21500.0 t; status 2025 'Stalled'; park nan; location status 'Construction'."
+  },
+  {
+   "action": "add",
+   "id": "artabumi-sentra-industri-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Artabumi Sentra Industri",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Silkroad Nickel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C7"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: BF → NPI, gross output 72000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "bintang-smelter-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "paused",
+    "latitude": -4.40052,
+    "longitude": 122.19867,
+    "geo_precision": "site",
+    "asset_name": "Bintang Smelter Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "PT Ifishdeco",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C9"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: BF → NPI, gross output 40000.0 t, Ni-equivalent nan t; status 2025 'No longer operational'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "bintang-timur-steel-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "paused",
+    "latitude": -6.248,
+    "longitude": 106.49754,
+    "geo_precision": "site",
+    "asset_name": "Bintang Timur Steel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "SAF smelter",
+    "operator": "Bintang Timur Steel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C10"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: SAF → NPI, gross output 35000.0 t, Ni-equivalent nan t; status 2025 'No longer operational'; park Millenium Industrial Estate; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "cahaya-modern-metal-industri-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -6.20863,
+    "longitude": 106.32663,
+    "geo_precision": "site",
+    "asset_name": "Cahaya Modern Metal Industri",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "PT Modern Cahaya Makmur",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C12"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: BF → NPI, gross output 35000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Modern Cikande Industrial Estate; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "corii-bf-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "paused",
+    "capacity": 8000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -1.93869,
+    "longitude": 121.3203,
+    "geo_precision": "site",
+    "asset_name": "CORII BF",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "PT Central Omega Resources Tbk",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C14"
+    ],
+    "capacity": [
+     "C14"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: BF → NPI, gross output 100000.0 t, Ni-equivalent 8000.0 t; status 2025 'No longer operational'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "corii-rkef-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 20000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "asset_name": "CORII RKEF",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "Central Omega Resources",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C15"
+    ],
+    "capacity": [
+     "C15"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: RKEF → FeNi, gross output 200000.0 t, Ni-equivalent 20000.0 t; status 2025 'Planned'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "century-metalindo-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 3000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -6.1881,
+    "longitude": 106.31521,
+    "geo_precision": "site",
+    "asset_name": "Century Metalindo",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "SAF smelter",
+    "operator": "Century Metalindo",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C16"
+    ],
+    "capacity": [
+     "C16"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: SAF → NPI, gross output 24500.0 t, Ni-equivalent 3000.0 t; status 2025 'Operating'; park Modern Cikande Industrial Estate; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "ceria-nugraha-indotama-rkef-merah-putih-smelter-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 55600.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -3.85415,
+    "longitude": 121.29798,
+    "geo_precision": "site",
+    "asset_name": "Ceria Nugraha Indotama (RKEF) / Merah Putih smelter",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Ceria Nugraha Indotama",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C17"
+    ],
+    "capacity": [
+     "C17"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → FeNi, gross output 252728.0 t, Ni-equivalent 55600.0 t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "fajar-bhakti-lintas-nusantara-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "paused",
+    "latitude": -0.06956,
+    "longitude": 129.39214,
+    "geo_precision": "site",
+    "asset_name": "Fajar Bhakti Lintas Nusantara",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "PT Pengda Mining Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C18"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: BF → NPI, gross output 120000.0 t, Ni-equivalent nan t; status 2025 'No longer operational'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "excelsior-nickel-cobalt-enc-hpal-indonesia",
+   "fields": {},
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → Ni Sulfate, gross output 272700.0 t, Ni-equivalent 60000.0 t; status 2025 'Construction'; park Indonesia Morowali Industrial Park (IMIP); location status 'Unconfirmed'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "gebe-industry-nickel-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 13000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "asset_name": "Gebe Industry Nickel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "Gebe Industry Nickel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "East Java",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C20"
+    ],
+    "capacity": [
+     "C20"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: HPAL → MHP, gross output 21601.0 t, Ni-equivalent 13000.0 t; status 2025 'Operating'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "growth-java-industri-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 12000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -6.02917,
+    "longitude": 105.95445,
+    "geo_precision": "town",
+    "asset_name": "Growth Java Industri",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Growth Java Industri",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C21"
+    ],
+    "capacity": [
+     "C21"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: BF → NPI, gross output 57500.0 t, Ni-equivalent 12000.0 t; status 2025 'Operating'; park nan; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "update",
+   "id": "pt-gunbuster-nickel-industry-npi-indonesia",
+   "fields": {
+    "latitude": -2.00043,
+    "longitude": 121.43504,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 2000000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri PT Stardust Estate Investment; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-persada-lygend-hpal-indonesia",
+   "fields": {
+    "latitude": -1.53887,
+    "longitude": 127.42013,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MHP, gross output 365000.0 t, Ni-equivalent 55000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "heng-tai-yuan-indonesia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -6.0009,
+    "longitude": 106.01909,
+    "geo_precision": "site",
+    "asset_name": "Heng Tai Yuan Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Heng Tai Yuan Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C24"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: BF → NPI, gross output 40000.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park Krakatau Industrial Estate Cilegon; location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-hengjaya-nickel-indonesia",
+   "fields": {
+    "latitude": -2.84721,
+    "longitude": 122.16422,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 150000.0 t, Ni-equivalent 15000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "huadi-nickel-alloy-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "paused",
+    "latitude": -5.5795,
+    "longitude": 120.06577,
+    "geo_precision": "town",
+    "asset_name": "Huadi Nickel-Alloy Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Shanghai Huadi Industry Co. Ltd.",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C26"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: RKEF → NPI, gross output 42000.0 t, Ni-equivalent nan t; status 2025 'No longer operational'; park Kawasan Industri Bantaeng; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "update",
+   "id": "huayou-huake-rkef-indonesia",
+   "fields": {
+    "latitude": 0.4871,
+    "longitude": 127.9932,
+    "geo_precision": "site",
+    "capacity": 45000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "C27"
+    ]
+   },
+   "notes": "CGS dataset: SAF → NPI, gross output 350000.0 t, Ni-equivalent 45000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "huayue-nickel-cobalt-hnc-hpal-indonesia",
+   "fields": {
+    "latitude": -2.85111,
+    "longitude": 122.18004,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MHP, gross output 160500.0 t, Ni-equivalent 60000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "go-stal-nickel-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 800.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "latitude": -6.44227,
+    "longitude": 106.93576,
+    "geo_precision": "site",
+    "asset_name": "GO STAL Nickel Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "STAL smelter",
+    "operator": "PT Trinitan Resourcetama Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "West Java",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C29"
+    ],
+    "capacity": [
+     "C29"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: STAL → MHP, gross output 3200.0 t, Ni-equivalent 800.0 t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "indonesia-guang-ching-nickel-and-ssi-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.82832,
+    "longitude": 122.16232,
+    "geo_precision": "site",
+    "asset_name": "Indonesia Guang Ching Nickel and SSI",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Indonesia Guang Ching Nickel SSI",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C30"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 600000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "indonesia-ruipu-nickel-and-chrome-alloy-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.82843,
+    "longitude": 122.16575,
+    "geo_precision": "site",
+    "asset_name": "Indonesia Ruipu Nickel and Chrome Alloy",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Ruipu Technology Group Co. Ltd.",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C31"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "indonesia-tsingshan-stainless-steel-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.83238,
+    "longitude": 122.16146,
+    "geo_precision": "site",
+    "asset_name": "Indonesia Tsingshan Stainless Steel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Indonesia Tsingshan Stainless Steel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C32"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 675000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "huayou-pomalaa-hpal-indonesia",
+   "fields": {
+    "latitude": -4.23163,
+    "longitude": 121.58477,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MSP, gross output nan t, Ni-equivalent 120000.0 t; status 2025 'Construction'; park Indonesia Pomalaa Industrial Park (IPIP); location status 'Construction'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "macika-mineral-industri-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -4.45508,
+    "longitude": 122.36099,
+    "geo_precision": "site",
+    "asset_name": "Macika Mineral Industri",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Macika Mineral Industri",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C35"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: RKEF → NPI, gross output 93000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Construction'."
+  },
+  {
+   "action": "add",
+   "id": "mapan-asri-sejahtera-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -4.27127,
+    "longitude": 121.56569,
+    "geo_precision": "site",
+    "asset_name": "Mapan Asri Sejahtera",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Mapan Asri Sejahtera",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C36"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: BF → NPI, gross output 21531.0 t, Ni-equivalent nan t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "megah-surya-pertiwi-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 25000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -1.52953,
+    "longitude": 127.42242,
+    "geo_precision": "site",
+    "asset_name": "Megah Surya Pertiwi",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Megah Surya Pertiwi",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C37"
+    ],
+    "capacity": [
+     "C37"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 240000.0 t, Ni-equivalent 25000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "pt-obsidian-stainless-steel-oss-npi-indonesia",
+   "fields": {
+    "latitude": -3.87107,
+    "longitude": 122.40347,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 2500000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "latitude": -2.86011,
+    "longitude": 122.17146,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → Ni Sulfate, gross output 136364.0 t, Ni-equivalent 50000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-ranger-nickel-indonesia",
+   "fields": {
+    "latitude": -2.85106,
+    "longitude": 122.16394,
+    "geo_precision": "town"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 150000.0 t, Ni-equivalent 15000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Approximate within a group of smelters'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "sinar-deli-bantaeng-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Sinar Deli Bantaeng",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Sinar Deli Bantaeng",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C41"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 238000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park Kawasan Industri Bantaeng; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "smelter-nikel-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -6.21103,
+    "longitude": 106.45638,
+    "geo_precision": "site",
+    "asset_name": "Smelter Nikel Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "Smelter Nikel Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Banten",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C42"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: HPAL → MHP, gross output 46800.0 t, Ni-equivalent nan t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "sulawesi-mining-investment-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 30000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": -2.8245,
+    "longitude": 122.16201,
+    "geo_precision": "site",
+    "asset_name": "Sulawesi Mining Investment",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Sulawesi Mining Investment",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C43"
+    ],
+    "capacity": [
+     "C43"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent 30000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "sulawesi-resources-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Sulawesi Resources",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "Sulawesi Resources",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C44"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: RKEF → FeNi, gross output 152400.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "add",
+   "id": "teluk-metal-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -2.83606,
+    "longitude": 122.11879,
+    "geo_precision": "town",
+    "asset_name": "Teluk Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Sulfate",
+    "asset_type": "HPAL smelter",
+    "operator": "Teluk Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C45"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: HPAL → Ni Sulfate, gross output 272700.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park Indonesia Morowali Industrial Park (IMIP) ; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "titan-mineral-utama-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Titan Mineral Utama",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Titan Mineral Utama",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C46"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: BF → NPI, gross output 120000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park Kawasan Industri Bantaeng; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "tsingshan-steel-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.8315,
+    "longitude": 122.16889,
+    "geo_precision": "site",
+    "asset_name": "Tsingshan Steel Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Tsingshan Steel Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C47"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: BF → NPI, gross output 500000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "pt-vale-indonesia-sorowako-matte-indonesia",
+   "fields": {
+    "latitude": -2.57149,
+    "longitude": 121.37843,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → Ni Matte, gross output 94300.0 t, Ni-equivalent nan t; status 2025 'Operating'; park nan; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "pt-virtue-dragon-nickel-industry-npi-indonesia",
+   "fields": {
+    "latitude": -3.90723,
+    "longitude": 122.41702,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 1000000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri VDNI / Kawasan Industri Morosi / Delong Industrial Park; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "walsin-nickel-industrial-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.85771,
+    "longitude": 122.15984,
+    "geo_precision": "site",
+    "asset_name": "Walsin Nickel Industrial Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Walsin Nickel Industrial Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C50"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "wanatiara-persada-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -1.459,
+    "longitude": 127.43837,
+    "geo_precision": "site",
+    "asset_name": "Wanatiara Persada",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "BF smelter",
+    "operator": "Mining Metallurgy Ltd.",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C51"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: BF → NPI, gross output 209450.0 t, Ni-equivalent nan t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "wanxiang-nickel-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.73859,
+    "longitude": 122.02857,
+    "geo_precision": "site",
+    "asset_name": "Wanxiang Nickel Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Wanxiang Nickel Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C52"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 351018.0 t, Ni-equivalent nan t; status 2025 'Operating'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "weda-bay-nickel-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 30000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48075,
+    "longitude": 127.99338,
+    "geo_precision": "site",
+    "asset_name": "Weda Bay Nickel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Strand Minerals Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C53"
+    ],
+    "capacity": [
+     "C53"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent 30000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "yashi-indonesia-investment-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 35000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48073,
+    "longitude": 127.99653,
+    "geo_precision": "site",
+    "asset_name": "Yashi Indonesia Investment",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Fajar Bakti Lintas Nusantra",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C54"
+    ],
+    "capacity": [
+     "C54"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent 35000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "shengtun-mining-youshan-nickel-indonesia",
+   "fields": {
+    "latitude": 0.48068,
+    "longitude": 127.99945,
+    "geo_precision": "site",
+    "capacity": 34000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "C55"
+    ]
+   },
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent 34000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "latitude": 0.47107,
+    "longitude": 127.94312,
+    "geo_precision": "town"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MHP, gross output 120000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "huashan-nickel-cobalt-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 120000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48111,
+    "longitude": 127.94714,
+    "geo_precision": "town",
+    "asset_name": "Huashan Nickel Cobalt",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "PT Huashan Nickel Cobalt",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C57"
+    ],
+    "capacity": [
+     "C57"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: HPAL → MHP, gross output 326000.0 t, Ni-equivalent 120000.0 t; status 2025 'Stalled'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "update",
+   "id": "pt-vale-huayou-sorowako-hpal-indonesia",
+   "fields": {
+    "latitude": -2.5685,
+    "longitude": 121.37487,
+    "geo_precision": "town"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MHP, gross output 60000.0 t, Ni-equivalent nan t; status 2025 'Planned'; park PT Indonesia Huali Industrial Park; location status 'Approximate within a group of smelters'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "antam-hkbcl-hpal-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 55000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "latitude": 0.84309,
+    "longitude": 128.24947,
+    "geo_precision": "town",
+    "asset_name": "Antam HKBCL HPAL",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "ANTAM",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C59"
+    ],
+    "capacity": [
+     "C59"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 55000.0 t; status 2025 'Planned'; park Kawasan Industri Buli; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "sambas-minerals-mining-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Sambas Minerals Mining",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Sambas Minerals Mining",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C60"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: RKEF → NPI, gross output 104544.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "add",
+   "id": "asia-mining-minerals-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Asia Mining Minerals",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "Asia Mining Minerals",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C61"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: RKEF → NPI, gross output 160712.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "surya-saga-utama-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -5.12133,
+    "longitude": 121.88344,
+    "geo_precision": "site",
+    "asset_name": "Surya Saga Utama",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "Unknown smelter",
+    "operator": "Surya Saga Utama",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C62"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → FeNi, gross output 302506.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "integra-mining-nusantara-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Integra Mining Nusantara",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Integra Mining Nusantara",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C63"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 285220.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "add",
+   "id": "genba-multi-mineral-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Genba Multi Mineral",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Genba Multi Mineral",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C64"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 500000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "add",
+   "id": "angkasa-jaya-mulia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Angkasa Jaya Mulia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Batulicin Enam Sembilan",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "East Java",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C65"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → FeNi, gross output 63000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "teka-mining-resources-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Teka Mining Resources",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Teka Mining Resources",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C66"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 300000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "first-pacific-mining-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "First Pacific Mining",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "Unknown smelter",
+    "operator": "First Pacific Mining",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C67"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → FeNi, gross output 30000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "kinlin-nickel-industri-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -4.45663,
+    "longitude": 122.35258,
+    "geo_precision": "site",
+    "asset_name": "Kinlin Nickel Industri",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Kinlin Nickel Industri",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C68"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 17000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "mahkota-konaweeha-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -4.0062,
+    "longitude": 122.63665,
+    "geo_precision": "site",
+    "asset_name": "Mahkota Konaweeha",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Mahkota Konaweeha",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C69"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 62000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "ocean-sky-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.86157,
+    "longitude": 122.15885,
+    "geo_precision": "site",
+    "asset_name": "Ocean Sky Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Ocean Sky Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C70"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → NPI, gross output 380000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "sunny-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 55000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48711,
+    "longitude": 127.98132,
+    "geo_precision": "town",
+    "asset_name": "Sunny Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "Sunny Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C72"
+    ],
+    "capacity": [
+     "C72"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → FeNi, gross output 400000.0 t, Ni-equivalent 55000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "update",
+   "id": "pt-obi-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "latitude": -1.53389,
+    "longitude": 127.41909,
+    "geo_precision": "site",
+    "capacity": 65000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "C73"
+    ]
+   },
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 65000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "perkasa-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": 0.48815,
+    "longitude": 127.97055,
+    "geo_precision": "town",
+    "asset_name": "Perkasa Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Eternal Tsingshan Group",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C74"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → NPI, gross output 150000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-jaya-feronikel-rkef-indonesia",
+   "fields": {
+    "latitude": -1.56015,
+    "longitude": 127.42742,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output 870000.0 t, Ni-equivalent 95000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "alchemist-metal-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "Alchemist Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Gunbuster Nickel Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C76"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 1600000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "update",
+   "id": "pt-karunia-permai-sentosa-rkef-indonesia",
+   "fields": {
+    "latitude": -1.56863,
+    "longitude": 127.42875,
+    "geo_precision": "site",
+    "capacity": 185000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "C77"
+    ]
+   },
+   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 185000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Construction'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "pt-metal-smelt-indo-selaras-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -3.04299,
+    "longitude": 122.26471,
+    "geo_precision": "site",
+    "asset_name": "PT Metal Smelt Indo Selaras",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": null,
+    "asset_type": "RKEF smelter",
+    "operator": "PT Metal Smelt Indo Selaras",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C78"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CGS dataset: RKEF → nan, gross output nan t, Ni-equivalent nan t; status 2025 'Operating'; park Qingdao Indonesia Comprehensive Industrial Park; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "ceria-nugraha-indotama-hpal-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 110900.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "asset_name": "Ceria Nugraha Indotama (HPAL)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "Ceria Nugraha Indotama",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C79"
+    ],
+    "capacity": [
+     "C79"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "CGS dataset: HPAL → MHP, gross output 293200.0 t, Ni-equivalent 110900.0 t; status 2025 'Construction'; park nan; location status 'Mine - No smelter'."
+  },
+  {
+   "action": "update",
+   "id": "merdeka-battery-materials-nickel-matte-converter-indonesia",
+   "fields": {
+    "latitude": -2.83569,
+    "longitude": 122.1633,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → Ni Matte, gross output 50000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "pt-esg-new-energy-material-hpal-indonesia",
+   "fields": {
+    "latitude": -2.85719,
+    "longitude": 122.17208,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 30000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "nickel-industries-oracle-nickel-indonesia",
+   "fields": {
+    "latitude": -2.86091,
+    "longitude": 122.15587,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → NPI, gross output nan t, Ni-equivalent 36000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "pt-andalan-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 24000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48425,
+    "longitude": 127.98631,
+    "geo_precision": "town",
+    "asset_name": "PT Andalan Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Andalan Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C83"
+    ],
+    "capacity": [
+     "C83"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 150000.0 t, Ni-equivalent 24000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-langit-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 36000.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48518,
+    "longitude": 127.98487,
+    "geo_precision": "town",
+    "asset_name": "PT Langit Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Langit Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C84"
+    ],
+    "capacity": [
+     "C84"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 300000.0 t, Ni-equivalent 36000.0 t; status 2025 'Operating'; park nan; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-lipe-metal-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": 0.48335,
+    "longitude": 127.9908,
+    "geo_precision": "town",
+    "asset_name": "PT Lipe Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "Tsingshan Holding Group",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C85"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: Unknown → NPI, gross output 300000.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-mazinger-nickel-industry-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "asset_name": "PT Mazinger Nickel Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Mazinger Nickel Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C86"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "CGS dataset: RKEF → NPI, gross output 240000.0 t, Ni-equivalent nan t; status 2025 'Construction'; park Delong Industrial Park; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "pt-infei-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": 0.48239,
+    "longitude": 127.9906,
+    "geo_precision": "town",
+    "asset_name": "PT Infei Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "RKEF smelter",
+    "operator": "PT Infei Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C87"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → NPI, gross output 28000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-kao-rahai-smelters-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": 0.47488,
+    "longitude": 127.95962,
+    "geo_precision": "town",
+    "asset_name": "PT Kao Rahai Smelters",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Kao Rahai Smelters",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C88"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → NPI, gross output 350000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-maluku-utara-metal-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "PT Maluku Utara Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Maluku Utara Metal Industry",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C89"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: Unknown → NPI, gross output 350000.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "pt-jiu-long-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": 0.48762,
+    "longitude": 127.98576,
+    "geo_precision": "town",
+    "asset_name": "PT Jiu Long Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "ANTAM",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C90"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → NPI, gross output 200000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-sungai-raya-nickel-alloy-indonesia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "PT Sungai Raya Nickel Alloy Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Sungai Raya Nickel Alloy Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C91"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → NPI, gross output 650000.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "pt-guang-tsing-halmahera-nickel-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "PT Guang Tsing Halmahera Nickel",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "NPI",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Guang Tsing Halmahera Nickel",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C92"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: Unknown → NPI, gross output 1200000.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "pt-mbg-nikel-indonesia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "asset_name": "PT MBG Nikel Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "Unknown smelter",
+    "operator": "PT MBG Nikel Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South East Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C93"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "CGS dataset: Unknown → MHP, gross output 34700.0 t, Ni-equivalent nan t; status 2025 'Stalled'; park nan; location status 'Unconfirmed'."
+  },
+  {
+   "action": "add",
+   "id": "pt-westrong-metal-industry-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 56000.0,
+    "capacity_unit": "t Ni in matte",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48425,
+    "longitude": 127.98631,
+    "geo_precision": "town",
+    "asset_name": "PT Westrong Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Matte",
+    "asset_type": "RKEF smelter",
+    "operator": "Harum Energy",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C94"
+    ],
+    "capacity": [
+     "C94"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → Ni Matte, gross output nan t, Ni-equivalent 56000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-blue-sparking-energy-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 67000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48425,
+    "longitude": 127.98631,
+    "geo_precision": "town",
+    "asset_name": "PT Blue Sparking Energy",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "Harum Energy",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C95"
+    ],
+    "capacity": [
+     "C95"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 67000.0 t; status 2025 'Construction'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-heng-sheng-new-energy-material-indonesia-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -5.56714,
+    "longitude": 120.06336,
+    "geo_precision": "site",
+    "asset_name": "PT Heng Sheng New Energy Material Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Matte",
+    "asset_type": "OESBF smelter",
+    "operator": "PT Heng Sheng New Energy Material Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C96"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: OESBF → Ni Matte, gross output 10000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri Bantaeng; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "pt-unity-nickel-alloy-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -5.56585,
+    "longitude": 120.06823,
+    "geo_precision": "site",
+    "asset_name": "PT Unity Nickel Alloy",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Unity Nickel Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C97"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → FeNi, gross output 200000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri Bantaeng; location status 'Exact'."
+  },
+  {
+   "action": "add",
+   "id": "dowstone-energy-materials-indonesia-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "latitude": -5.57753,
+    "longitude": 120.06902,
+    "geo_precision": "town",
+    "asset_name": "Dowstone Energy Materials Indonesia",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Matte",
+    "asset_type": "Unknown smelter",
+    "operator": "PT Dowstone Energy Materials Indonesia",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "South Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C98"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: Unknown → Ni Matte, gross output 20000.0 t, Ni-equivalent nan t; status 2025 'Unclear'; park Kawasan Industri Bantaeng; location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "mitra-murni-perkasa-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -1.11363,
+    "longitude": 116.75016,
+    "geo_precision": "site",
+    "asset_name": "Mitra Murni Perkasa",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Matte",
+    "asset_type": "RKEF smelter",
+    "operator": "Mitra Murni Perkasa",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "East Kalimantan",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C99"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: RKEF → Ni Matte, gross output 28000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Kawasan Industri Kariangau; location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "cngr-nadesico-low-matte-indonesia",
+   "fields": {
+    "latitude": -2.01427,
+    "longitude": 121.43018,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → Ni Matte, gross output 1800000.0 t, Ni-equivalent 80000.0 t; status 2025 'Operating'; park Kawasan Industri PT Stardust Estate Investment; location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "update",
+   "id": "cngr-debonair-low-matte-indonesia",
+   "fields": {
+    "latitude": 0.48767,
+    "longitude": 127.97712,
+    "geo_precision": "town"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 27500.0 t; status 2025 'Construction'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "zhongtsing-new-energy-indonesia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active",
+    "latitude": -2.82269,
+    "longitude": 122.14609,
+    "geo_precision": "site",
+    "asset_name": "Zhongtsing New Energy",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "Ni Matte",
+    "asset_type": "Unknown smelter",
+    "operator": "Zhongtsing New Energy",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C102"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "CGS dataset: Unknown → Ni Matte, gross output 100000.0 t, Ni-equivalent nan t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'."
+  },
+  {
+   "action": "update",
+   "id": "cngr-ding-xing-refined-nickel-indonesia",
+   "fields": {
+    "latitude": -2.82271,
+    "longitude": 122.13706,
+    "geo_precision": "site"
+   },
+   "evidence": {},
+   "notes": "CGS dataset: HPAL → Electrolytic Ni, gross output nan t, Ni-equivalent 50000.0 t; status 2025 'Operating'; park Indonesia Morowali Industrial Park (IMIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+  },
+  {
+   "action": "add",
+   "id": "jade-bay-metal-industry-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 27500.0,
+    "capacity_unit": "t NPI Ni",
+    "capacity_ref_year": 2025,
+    "latitude": 0.48909,
+    "longitude": 127.97709,
+    "geo_precision": "town",
+    "asset_name": "Jade Bay Metal Industry",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "FeNi",
+    "asset_type": "RKEF smelter",
+    "operator": "CNGR",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C104"
+    ],
+    "capacity": [
+     "C104"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 27500.0 t; status 2025 'Unclear'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "add",
+   "id": "pt-meiming-new-energy-material-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 25000.0,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2025,
+    "latitude": -2.8601,
+    "longitude": 122.14536,
+    "geo_precision": "town",
+    "asset_name": "PT Meiming New Energy Material",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "MHP",
+    "asset_type": "HPAL smelter",
+    "operator": "PT Meiming New Energy",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "source_url": "https://zenodo.org/records/17701177/files/CGS_Nickel_Smelter_Dataset_V1.xlsx",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-01-04"
+   },
+   "evidence": {
+    "status": [
+     "C105"
+    ],
+    "capacity": [
+     "C105"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "CGS dataset: HPAL → MHP, gross output nan t, Ni-equivalent 25000.0 t; status 2025 'Construction'; park Indonesia Morowali Industrial Park (IMIP); location status 'Approximate within a group of smelters'."
+  },
+  {
+   "action": "remove",
+   "id": "huayou-huake-nickel-indonesia-pyro-indonesia",
+   "reason": "duplicate of huayou-huake-rkef-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "huayou-huayue-hpal-indonesia",
+   "reason": "duplicate of huayue-nickel-cobalt-hnc-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "huayou-huafei-hpal-indonesia",
+   "reason": "duplicate of huayou-huafei-nickel-cobalt-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "huayou-sorowako-hpal-indonesia",
+   "reason": "duplicate of pt-vale-huayou-sorowako-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "pt-kni-pomalaa-hpal-indonesia",
+   "reason": "duplicate of huayou-pomalaa-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "huayou-huaxing-pyro-indonesia",
+   "reason": "duplicate of huayou-huaxing-rkef-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "huayou-qingtian-pyro-indonesia",
+   "reason": "duplicate of huayou-qingtian-rkef-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "gem-vale-danantara-igip-indonesia",
+   "reason": "duplicate of gem-igip-nickel-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  },
+  {
+   "action": "remove",
+   "id": "pt-qmb-new-energy-materials-hpal-indonesia",
+   "reason": "duplicate of gem-qmb-hpal-indonesia (overlapping first passes; CGS dataset check)"
+  }
+ ]
+}
