@@ -76,6 +76,12 @@ def main():
     check("S13", "normalised LCE/metal values plausible vs ore/concentrate tonnes (norm <= 20% of gross)",
           [f"{x.id}:{c}" for _, x in df.iterrows() for c, gu in (("production_norm", "production_unit"), ("capacity_norm", "capacity_unit"))
            if x[gu] in ORE and x["production_norm_unit" if c == "production_norm" else "norm_unit"] not in ORE and pd.notna(x[c]) and pd.notna(x[c.replace("_norm", "")]) and x[c] > 0.2 * x[c.replace("_norm", "")]])
+    cells = set(pd.read_csv(os.path.join(ROOT, "factories_export.csv")).id) if os.path.exists(os.path.join(ROOT, "factories_export.csv")) else set()
+    ids = set(df.id)
+    check("S14", "feeds point to existing assets (or cell:<factories id>)",
+          [f"{x.id}->{f}" for _, x in df.iterrows() if isinstance(x.feeds, str)
+           for f in [t.strip() for t in x.feeds.split(",") if t.strip()]
+           if not ((f.startswith("cell:") and f[5:] in cells) or f in ids)])
     fails = 0
     for code, name, bad in res:
         ok = not bad

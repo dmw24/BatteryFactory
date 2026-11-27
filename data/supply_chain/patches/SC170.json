@@ -2,322 +2,1235 @@
  "task": "SC170",
  "verified_on": "2026-11-27",
  "sources": {
-  "L01": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 913)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "文菲尔德股东同意各股东有权采购格林布什锂辉石矿的实际年产量的 50%"},
-  "L02": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 615)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司目前国内外各锂化工产品生产基地所需化学级锂精矿主要来源于澳大利亚格林布什锂辉石矿"},
-  "L03": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF", "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 946-949)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "公司控股子公司 TLEA 从泰利森锂... 购买的锂精矿优先满足 TLK 需求... 剩余量满足天齐锂业国内工厂和代加工需求"},
-  "L04": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1754)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "马里 Goulamina 锂辉石矿项目完成首批锂精矿装船发往国内，2025 年全年产出精矿 33.66 万吨（干），为公司提供"},
-  "L05": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1724-1725)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "公司订立了包销协议，获得 Cauchari-... Olaroz 项目规划年产 4 万吨 LCE 中 76%的产品包销权"},
-  "L06": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 3131-3132)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "确保澳大利亚 Mt Marion、澳大利亚 Pilgangoora、非... 洲马里 Goulamina 锂辉石项目的产能供应，提高公司锂辉石自给比例"},
-  "L07": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF", "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 2877)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "公司战略持有 PLS5.36%的股权，以获取锂辉石包销权、保障核心原材料供应"},
-  "L08": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 1208-1210)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "公司锁定澳洲皮尔巴拉、DMCC、巴西 ATLAS、... 通过长协包销方式锁定锂精矿供应量"},
-  "L09": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 1206)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "维锂精矿已于 2025 年下半年达产，年产锂精矿约 35 万吨，极大提升公司锂精矿自主保供能力"},
-  "L10": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 1206-1208)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "四川李家沟锂矿已进入... 正常生产运营阶段，后续也将逐步保障国理公司原料供应"},
-  "L11": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF", "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 552)", "published": "2026-04-27", "accessed": "2026-11-27", "language": "zh", "quote": "雅安锂业、国理公司、兴晟锂业三个锂盐产品生产基地"},
-  "L12": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 546-552)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "针对主要原料锂精矿，通过多渠道保障供应... 金鑫矿业、Pilbara等境内外企业签署了长期承购协议"},
-  "L13": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF", "publisher": "Shengxin Lithium Energy 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 548-550)", "published": "2026-03-28", "accessed": "2026-11-27", "language": "zh", "quote": "津巴布韦萨比星矿... 山其中5个矿权原矿生产规模99万吨/年，可生产锂精矿约29万吨/年"},
-  "L14": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 2996-2997)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "公司子公司衢州新能源与 LG Energy Solution,... Ltd.签订了《三元前驱体供应协议》，协议约定，2026 年至 2030 年期间，衢州新能源预计向 LGES 及其指定采购商供应三元前驱体产品合计约 7.6 万吨"},
-  "L15": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, line 2999)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "2026 年至 2030 年期间，匈牙利巴莫预计向 LGES 及其子公司 LGES 波兰工厂销售电池三元正极材料合计约 8.8 万吨"},
-  "L16": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, line 3001)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "2026 年至 2035 年期间，成都巴莫匈牙利工厂预计向亿纬锂能匈牙利工厂供应超高镍三元正极材料合计约 12.78 万吨"},
-  "L17": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 417-419)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "主要产品为粗制氢氧化镍、高冰镍等镍... 镍中间产品作为国内新材料业务所需原料"},
-  "L18": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 396-397)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "生产正极材料所需的原材料主要来源于子... 公司内供和市场化采购"},
-  "L19": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF", "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 550-551)", "published": "2026-04-08", "accessed": "2026-11-27", "language": "zh", "quote": "年产 5... 万吨硫酸锂项目于今年一季度建成试产，实现矿冶一体化资源高效利用模式落地"},
-  "L20": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF", "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 652-653)", "published": "2026-04-23", "accessed": "2026-11-27", "language": "zh", "quote": "包括宁德时代、比亚迪、亿纬锂能、海辰储能、... 远景动力、瑞浦兰钧、国轩高科等众多知名锂电池企业"},
-  "L21": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF", "publisher": "Easpring 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 1019)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "LGES、SK on 两大锂电巨头签订未来三年长期供货协议，为未来销量和盈利奠定了坚实基础"},
-  "L22": {"url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF", "publisher": "CNGR Advanced Material 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 984)", "published": "2026-03-31", "accessed": "2026-11-27", "language": "zh", "quote": "SK On、蜂巢能源、松下、当升科技、贝特瑞、巴莫科技、L＆F、振华新材、容百科技、ECOPRO、POSCO 等国内外一"},
-  "L23": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5088-5089)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "锂源（亚太）与 BlueOval Battery Park, Michigan 签署了《供应协议》。协议约定，由锂源（亚太）自 2026 年至 2030... 年向 Blue Oval 销售磷酸铁锂正极材料"},
-  "L24": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5098-5099)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "锂源（亚太）与 Eve Energy Malaysia Sdn. Bhd.签署了《生产定价协议》... 2026 至 2030 年间合计向 Eve Energy 及其关联企业销售 15.2 万吨符合双方约定规格的磷酸铁锂正极材料"},
-  "L25": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5103-5104)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "锂源（亚太）与宁德时代新能源科技股份有限公司签署了《磷酸铁锂正极材料采购合作协议》... 自 2026 年第二季度至 2031 年间合计向宁德时代海外工厂销售 15.75 万吨符合双方约定规格的磷酸铁锂正极材料"},
-  "L26": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5094)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "约定总供应量为 130 万吨，其中 2026 年供应总量为 10 万吨，2027 至 2030 年每年供应总量为 30 万吨"},
-  "L27": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF", "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 1275-1276)", "published": "2026-04-25", "accessed": "2026-11-27", "language": "zh", "quote": "公司与 LGES 签订的《长期供货协议》及《修订协议》仅约定预计销售数量，约定的供应期... 为 2024 年至 2028 年"},
-  "L28": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF", "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 5087-5088)", "published": "2026-04-29", "accessed": "2026-11-27", "language": "zh", "quote": "公司与宁德时代于 2019 年 5 月 12 日签署了《合资经营协议》，依据《合资经营协议》的约定，宁德时代向曲靖... 麟铁分三次预付总额不超过 13,150 万元的采购预付款"},
-  "L29": {"url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF", "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 502-504)", "published": "2026-04-10", "accessed": "2026-11-27", "language": "zh", "quote": "公司锂电新能源原料业务的锂精矿主要来源于自有矿山... 供应，通过生产和销售锂盐产品实现盈利"},
-  "W01": {"url": "https://www.albemarle.com/de/en/news/albemarle-announces-plans-to-idle-its-kemerton-lithium-hydroxide-processing-plant-a", "publisher": "Albemarle Corporation, press release 'Albemarle announces plans to idle its Kemerton lithium hydroxide processing plant'", "published": "2026-02-11", "accessed": "2026-11-27", "language": "en", "quote": "The Kemerton plant processes spodumene from the Greenbushes mine, one of the world's best spodumene resources."},
-  "W02": {"url": "https://albemarle.com/au/en/global-locations/chile", "publisher": "Albemarle Corporation, global locations - Chile (La Negra)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "The concentrated brine is transported to the La Negra plant in Antofagasta"},
-  "W03": {"url": "https://newsroom.posco.com/en/posco-holdings-leads-the-charge-in-rechargeable-battery-material-sovereignty-with-the-comprehensive-completion-of-the-korean-lithium-hydroxide-plant", "publisher": "POSCO Holdings newsroom, comprehensive completion of Korean lithium hydroxide plant", "published": "2024-11-29", "accessed": "2026-11-27", "language": "en", "quote": "signed a 20-year contract for the stable supply of lithium ore mined from Pilbara Minerals’ Pilgangoora mine"},
-  "W04": {"url": "https://newsroom.posco.com/en/posco-holdings-leads-the-charge-in-rechargeable-battery-material-sovereignty-with-the-comprehensive-completion-of-the-korean-lithium-hydroxide-plant", "publisher": "POSCO Holdings newsroom, comprehensive completion of Korean lithium hydroxide plant", "published": "2024-11-29", "accessed": "2026-11-27", "language": "en", "quote": "POSCO Pilbara Lithium Solution plans to supply 20,000 tons of lithium hydroxide annually to POSCO Future M."},
-  "W05": {"url": "https://view.asiae.co.kr/en/article/2024120609325417055", "publisher": "Asia Economy (Asiae) English, POSCO Group completes supply system from mines to lithium and cathode materials", "published": "2024-12-06", "accessed": "2026-11-27", "language": "en", "quote": "POSCO Group has completed an integrated supply system from mines to lithium hydroxide and cathode materials."},
-  "W06": {"url": "https://www.kedglobal.com/newsView/ked202306020015", "publisher": "Korea Economic Daily Global (kedglobal), POSCO Future M-GM venture investment", "published": "2023-06-02", "accessed": "2026-11-27", "language": "en", "quote": "Ultium CAM will supply 13.2 trillion won ($10 billion) worth of high-nickel cathode materials to Ultium Cells"},
-  "W07": {"url": "https://view.asiae.co.kr/en/article/2023120309124474674", "publisher": "Asia Economy (Asiae) English, EcoPro BM to supply Samsung SDI with 44 trillion won of cathode materials over 5 years", "published": "2023-12-03", "accessed": "2026-11-27", "language": "en", "quote": "from 2025 onwards, we plan to supply Samsung SDI's Hungary plant locally."},
-  "W08": {"url": "https://view.asiae.co.kr/en/article/2023120309124474674", "publisher": "Asia Economy (Asiae) English, EcoPro BM to supply Samsung SDI with 44 trillion won of cathode materials over 5 years", "published": "2023-12-03", "accessed": "2026-11-27", "language": "en", "quote": "The 2024 volume will be supplied from the Pohang campus."},
-  "W09": {"url": "https://www.electrive.com/2025/12/01/ecopro-bm-starts-cathode-material-production-in-hungary", "publisher": "electrive, EcoPro BM starts cathode material production in Hungary", "published": "2025-12-01", "accessed": "2026-11-27", "language": "en", "quote": "The company produces materials there for Samsung SDI's battery plant in Goed near Budapest."},
-  "W10": {"url": "https://www.basf.com/global/en/media/news-releases/2018/10/p-18-336", "publisher": "BASF / Nornickel joint news release 22 Oct 2018", "published": "2018-10-22", "accessed": "2026-11-27", "language": "en", "quote": "a long-term, market-based supply agreement for nickel and cobalt feedstocks from Nornickel's metal refinery"},
-  "W11": {"url": "https://www.mining-technology.com/news/glencore-cobalt-umicore/", "publisher": "Mining Technology, Glencore / Umicore cobalt supply", "published": "2019-05-29", "accessed": "2026-11-27", "language": "en", "quote": "Glencore has entered into a long-term revolving agreement for the supply of cobalt hydroxide"},
-  "W12": {"url": "https://canadianminingjournal.com/news/ford-contracts-lithium-hydroxide-supply-from-nemaskas-becancour-plant", "publisher": "Canadian Mining Journal, Ford contracts lithium hydroxide supply from Nemaska's Becancour plant", "published": "2023-05-23", "accessed": "2026-11-27", "language": "en", "quote": "The agreement calls for the delivery of up to 13,000 tonnes of lithium hydroxide per year."},
-  "W13": {"url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery", "publisher": "Covalent Lithium, news 'first product at Kwinana lithium hydroxide refinery' (page dated 14 August, year not shown; context 2025)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "fully integrated mine-to-refinery operation"},
-  "W14": {"url": "https://www.mining-technology.com/news/pls-spodumene-supply-deal-canmax/", "publisher": "Mining Technology, PLS spodumene supply deal with Canmax", "published": "2026-02-10", "accessed": "2026-11-27", "language": "en", "quote": "PLS will supply 150,000 tonnes per annum (tpa) of spodumene"},
-  "W15": {"url": "https://australianminingreview.com.au/features/bhp-nickel-west-feeding-the-battery-revolution/", "publisher": "Australian Mining Review, BHP Nickel West: feeding the battery revolution", "published": "2020-12-12", "accessed": "2026-11-27", "language": "en", "quote": "Nickel West is a fully integrated mine-to-market business with all its operations"},
-  "W16": {"url": "https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/first-spodumene-concentrate-shipment", "publisher": "Wesfarmers, first spodumene concentrate shipment (FY2024 stories)", "published": null, "accessed": "2026-11-27", "language": "en", "quote": "This concentrate will be processed overseas."},
-  "R01": {"url": "https://www.mining.com/web/mineral-resources-inks-deal-with-albemarle-for-restructuring-existing-jv/", "publisher": "Mining.com / trade press on MinRes-Albemarle JV restructure (Feb 2023), via WebSearch result summary", "published": "2023-02-22", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "MinRes also entered a transitional tolling arrangement with Albemarle to convert Wodgina spodumene until 30 June 2024."},
-  "R02": {"url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2752838-australia-s-minres-s-korea-s-posco-form-lithium-jv", "publisher": "Argus Media, MinRes and POSCO form lithium JV, via WebSearch result summary", "published": "2025-11-12", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Posco will also sign an offtake agreement for 30pc of MinRes' share of Wodgina and Mount Marion's spodumene output."},
-  "R03": {"url": "https://www.mining.com/mineral-resources-ends-lithium-deal-with-ganfeng/", "publisher": "Mining.com, Mineral Resources ends lithium deal with Ganfeng, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The original toll deal was a seven-month toll treatment agreement with Ganfeng Lithium Co. Ltd. to convert its 51% share of the spodumene off-take from their jointly owned Mount Marion mine."},
-  "R04": {"url": "https://www.marketindex.com.au/news/liontown-signs-ford-as-third-and-final-lithium-offtake-partner", "publisher": "Market Index, Liontown signs Ford as third and final lithium offtake partner, via WebSearch result summary", "published": "2022-07-01", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Together the three foundational deals reach up to 450,000 dmt per year, or approximately 90% of Kathleen Valley's initial production capacity of 500,000 tonnes per annum."},
-  "R05": {"url": "https://finance.yahoo.com/news/liontown-opens-kathleen-valley-lithium-085838642.html", "publisher": "Yahoo Finance, Liontown opens Kathleen Valley, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "has established offtake agreements with electric vehicle and battery manufacturers Tesla, Ford, LG Energy Solution and Beijing Sinomine"},
-  "R06": {"url": "https://www.miningweekly.com/article/liontown-signs-another-kathleen-valley-offtake-deal-2025-12-09", "publisher": "Mining Weekly, Liontown signs another Kathleen Valley offtake deal, via WebSearch result summary", "published": "2025-12-09", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "In December 2025, Liontown signed a binding offtake agreement with China's Canmax Technologies for 150,000 t/y of spodumene concentrate over 2027 and 2028."},
-  "R07": {"url": "https://www.mining.com/pilbara-minerals-expands-offtake-deal-with-ganfeng/", "publisher": "Mining.com, Pilbara Minerals expands offtake deal with Ganfeng, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The updated agreement, originally inked in 2017, spans 2024, 2025 and 2026 with a total allocation of up to 310,000 tonnes per annum (ktpa)."},
-  "R08": {"url": "https://www.northernminer.com/news/pilbara-seals-another-chinese-offtake-deal/1003864969/", "publisher": "Northern Miner, Pilbara seals another Chinese offtake deal, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "PLS agreed to deliver 20,000 tonnes of the mineral from its Pilgangoora operation in Western Australia this year and 100,000 tonnes annually in 2025 and 2026, with an option to supply an extra 60,000 tonnes each year."},
-  "R09": {"url": "https://www.miningweekly.com/article/pilbara-cements-great-wall-deal-2017-10-30", "publisher": "Mining Weekly, Pilbara cements Great Wall lithium supply deal, via WebSearch result summary", "published": "2017-10-30", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Pilbara finalised an offtake for 75,000 tonnes per year of chemical-grade spodumene from the Stage 2 expansion at Pilgangoora."},
-  "R10": {"url": "https://newsroom.posco.com/en/?p=26718", "publisher": "POSCO newsroom, PPLS plants, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "PPLS signed a long-term contract with SK On in 2024 to supply up to 15,000 tons over three years, and in August 2025 signed an MOU with Chinese cathode material maker Ronbay Group."},
-  "R11": {"url": "https://sqm.com/en/?p=9961", "publisher": "SQM, new long-term agreement with LG Energy Solution (WebSearch result summary; page itself not readable)", "published": "2023-01-01", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "SQM and LGES announced a new long-term purchase agreement, which replaces the previous one in force, to supply over 100,000 metric tons of battery grade lithium carbonate and lithium hydroxide during 2023-2029."},
-  "R12": {"url": "https://www.industrialinfo.com/news/article/lg-signs-ev-battery-material-agreement-with-gm--328087", "publisher": "IIR Energy, LG signs EV battery material agreement with GM, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "The contract will run from 2026 through 2035, and LG will supply more than 500,000 tons of cathode materials, with the material 'primarily used' by Ultium Cells."},
-  "R13": {"url": "https://www.koreajoongangdaily.com/business/sk-innovation-ecopro-bm-sign-cathodes-deal/10094871", "publisher": "Korea JoongAng Daily, SK Innovation, EcoPro BM sign cathodes deal, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "SK Innovation agreed a deal worth about 10.1 trillion won for EcoPro BM to supply high-nickel cathodes to its battery plants in and outside Korea, covering 2024 through 2026"},
-  "R14": {"url": "https://www.nsenergybusiness.com/projects/obi-hpal-nickel-cobalt-project/", "publisher": "NS Energy, Obi HPAL nickel-cobalt project, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "GEM signed an offtake agreement with Halmahera Persada Lygend for the supply of MHP, nickel sulphate, and cobalt sulphate, along with other raw materials from the project in September 2020."},
-  "R15": {"url": "https://www.asianmetal.com/news/1986758/GEM-to-build-high-nickel-NCM-precursor-project-in-Indonesia", "publisher": "Asian Metal, GEM to build high nickel NCM precursor project in Indonesia, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "A 2023 plan tied the precursor plant to MHP from the QMB project, which had reached 30,000 t nickel per year in phase one"},
-  "R16": {"url": "https://www.miningweekly.com/article/keliber-lithium-hydroxide-project-finland-update-2025-11-14", "publisher": "Mining Weekly, Keliber lithium hydroxide project update, via WebSearch result summary", "published": "2025-11-14", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Ore is processed at the Paivaneva concentrator to produce spodumene concentrate, which will be transported about 66 km to the Kokkola refinery."},
-  "R17": {"url": "https://www.argusmedia.com/ja/news-and-insights/latest-market-news/2236602-bhp-to-supply-nickel-to-tesla", "publisher": "Argus Media, BHP to supply nickel to Tesla, via WebSearch result summary", "published": "2021-07-01", "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "BHP signed a nickel supply agreement with Tesla in 2021 for product from Nickel West."},
-  "R18": {"url": "https://in.marketscreener.com/quote/stock/UMICORE-38123506/news/Umicore-and-ACC-Enter-Strategic-Partnership-for-EV-Battery-Materials-in-Europe-40184951/", "publisher": "MarketScreener, Umicore and ACC enter strategic partnership, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Umicore signed a long-term supply agreement with Automotive Cells Company (ACC) for high-nickel cathode materials from Nysa. The agreement starts with an annual offtake commitment of 13 GWh"},
-  "R19": {"url": "https://www.mining.com/web/pilbara-minerals-finalizes-deal-with-posco-for-lithium-facility/", "publisher": "Mining.com, Pilbara Minerals finalizes deal with POSCO, via WebSearch result summary", "published": null, "accessed": "2026-11-27", "language": "en", "tier": "reported", "snippet": "Pilbara Minerals supplies spodumene concentrate from its Pilgangoora operation under a long-term offtake agreement. Pilbara's supply deal is reported at 315,000 tonnes a year of chemical grade spodumene concentrate."}
+  "L01": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 913)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "文菲尔德股东同意各股东有权采购格林布什锂辉石矿的实际年产量的 50%"
+  },
+  "L02": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, line 615)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司目前国内外各锂化工产品生产基地所需化学级锂精矿主要来源于澳大利亚格林布什锂辉石矿"
+  },
+  "L03": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044817.PDF",
+   "publisher": "Tianqi Lithium 2025 annual report (local text team/evidence/filings/002466_2025.txt, lines 946-949)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司控股子公司 TLEA 从泰利森锂... 购买的锂精矿优先满足 TLK 需求... 剩余量满足天齐锂业国内工厂和代加工需求"
+  },
+  "L04": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 1754)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "马里 Goulamina 锂辉石矿项目完成首批锂精矿装船发往国内，2025 年全年产出精矿 33.66 万吨（干），为公司提供"
+  },
+  "L05": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 1724-1725)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司订立了包销协议，获得 Cauchari-... Olaroz 项目规划年产 4 万吨 LCE 中 76%的产品包销权"
+  },
+  "L06": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, lines 3131-3132)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "确保澳大利亚 Mt Marion、澳大利亚 Pilgangoora、非... 洲马里 Goulamina 锂辉石项目的产能供应，提高公司锂辉石自给比例"
+  },
+  "L07": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225059953.PDF",
+   "publisher": "Ganfeng Lithium 2025 annual report (local text team/evidence/filings/002460_2025.txt, line 2877)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司战略持有 PLS5.36%的股权，以获取锂辉石包销权、保障核心原材料供应"
+  },
+  "L08": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF",
+   "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 1208-1210)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司锁定澳洲皮尔巴拉、DMCC、巴西 ATLAS、... 通过长协包销方式锁定锂精矿供应量"
+  },
+  "L09": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF",
+   "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 1206)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "维锂精矿已于 2025 年下半年达产，年产锂精矿约 35 万吨，极大提升公司锂精矿自主保供能力"
+  },
+  "L10": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF",
+   "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, lines 1206-1208)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "四川李家沟锂矿已进入... 正常生产运营阶段，后续也将逐步保障国理公司原料供应"
+  },
+  "L11": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-27/1225181781.PDF",
+   "publisher": "Yahua Group 2025 annual report (local text team/evidence/filings/002497_2025.txt, line 552)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "雅安锂业、国理公司、兴晟锂业三个锂盐产品生产基地"
+  },
+  "L12": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF",
+   "publisher": "Shengxin Lithium Energy 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 546-552)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "针对主要原料锂精矿，通过多渠道保障供应... 金鑫矿业、Pilbara等境内外企业签署了长期承购协议"
+  },
+  "L13": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-28/1225044105.PDF",
+   "publisher": "Shengxin Lithium Energy 2025 annual report (local text team/evidence/filings/002240_2025.txt, lines 548-550)",
+   "published": "2026-03-28",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "津巴布韦萨比星矿... 山其中5个矿权原矿生产规模99万吨/年，可生产锂精矿约29万吨/年"
+  },
+  "L14": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 2996-2997)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司子公司衢州新能源与 LG Energy Solution,... Ltd.签订了《三元前驱体供应协议》，协议约定，2026 年至 2030 年期间，衢州新能源预计向 LGES 及其指定采购商供应三元前驱体产品合计约 7.6 万吨"
+  },
+  "L15": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, line 2999)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026 年至 2030 年期间，匈牙利巴莫预计向 LGES 及其子公司 LGES 波兰工厂销售电池三元正极材料合计约 8.8 万吨"
+  },
+  "L16": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, line 3001)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2026 年至 2035 年期间，成都巴莫匈牙利工厂预计向亿纬锂能匈牙利工厂供应超高镍三元正极材料合计约 12.78 万吨"
+  },
+  "L17": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 417-419)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "主要产品为粗制氢氧化镍、高冰镍等镍... 镍中间产品作为国内新材料业务所需原料"
+  },
+  "L18": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 396-397)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "生产正极材料所需的原材料主要来源于子... 公司内供和市场化采购"
+  },
+  "L19": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report (local text team/evidence/filings/603799_.txt, lines 550-551)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "年产 5... 万吨硫酸锂项目于今年一季度建成试产，实现矿冶一体化资源高效利用模式落地"
+  },
+  "L20": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-23/1225155057.PDF",
+   "publisher": "Hunan Yuneng 2025 annual report (local text team/evidence/filings/301358_2025.txt, lines 652-653)",
+   "published": "2026-04-23",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "包括宁德时代、比亚迪、亿纬锂能、海辰储能、... 远景动力、瑞浦兰钧、国轩高科等众多知名锂电池企业"
+  },
+  "L21": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225057127.PDF",
+   "publisher": "Easpring 2025 annual report (local text team/evidence/filings/300073_2025.txt, line 1019)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "LGES、SK on 两大锂电巨头签订未来三年长期供货协议，为未来销量和盈利奠定了坚实基础"
+  },
+  "L22": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF",
+   "publisher": "CNGR Advanced Material 2025 annual report (local text team/evidence/filings/300919_2025.txt, line 984)",
+   "published": "2026-03-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "SK On、蜂巢能源、松下、当升科技、贝特瑞、巴莫科技、L＆F、振华新材、容百科技、ECOPRO、POSCO 等国内外一"
+  },
+  "L23": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5088-5089)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂源（亚太）与 BlueOval Battery Park, Michigan 签署了《供应协议》。协议约定，由锂源（亚太）自 2026 年至 2030... 年向 Blue Oval 销售磷酸铁锂正极材料"
+  },
+  "L24": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5098-5099)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂源（亚太）与 Eve Energy Malaysia Sdn. Bhd.签署了《生产定价协议》... 2026 至 2030 年间合计向 Eve Energy 及其关联企业销售 15.2 万吨符合双方约定规格的磷酸铁锂正极材料"
+  },
+  "L25": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 5103-5104)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "锂源（亚太）与宁德时代新能源科技股份有限公司签署了《磷酸铁锂正极材料采购合作协议》... 自 2026 年第二季度至 2031 年间合计向宁德时代海外工厂销售 15.75 万吨符合双方约定规格的磷酸铁锂正极材料"
+  },
+  "L26": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, line 5094)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "约定总供应量为 130 万吨，其中 2026 年供应总量为 10 万吨，2027 至 2030 年每年供应总量为 30 万吨"
+  },
+  "L27": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-25/1225195645.PDF",
+   "publisher": "Longpan Technology 2025 annual report (local text team/evidence/filings/603906_.txt, lines 1275-1276)",
+   "published": "2026-04-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司与 LGES 签订的《长期供货协议》及《修订协议》仅约定预计销售数量，约定的供应期... 为 2024 年至 2028 年"
+  },
+  "L28": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225249571.PDF",
+   "publisher": "Dynanonic 2025 annual report (local text team/evidence/filings/300769_2025.txt, lines 5087-5088)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司与宁德时代于 2019 年 5 月 12 日签署了《合资经营协议》，依据《合资经营协议》的约定，宁德时代向曲靖... 麟铁分三次预付总额不超过 13,150 万元的采购预付款"
+  },
+  "L29": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-10/1225089391.PDF",
+   "publisher": "Sinomine Resource 2025 annual report (local text team/evidence/filings/002738_2025.txt, lines 502-504)",
+   "published": "2026-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司锂电新能源原料业务的锂精矿主要来源于自有矿山... 供应，通过生产和销售锂盐产品实现盈利"
+  },
+  "W01": {
+   "url": "https://www.albemarle.com/de/en/news/albemarle-announces-plans-to-idle-its-kemerton-lithium-hydroxide-processing-plant-a",
+   "publisher": "Albemarle Corporation, press release 'Albemarle announces plans to idle its Kemerton lithium hydroxide processing plant'",
+   "published": "2026-02-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Kemerton plant processes spodumene from the Greenbushes mine, one of the world's best spodumene resources."
+  },
+  "W02": {
+   "url": "https://albemarle.com/au/en/global-locations/chile",
+   "publisher": "Albemarle Corporation, global locations - Chile (La Negra)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The concentrated brine is transported to the La Negra plant in Antofagasta"
+  },
+  "W03": {
+   "url": "https://newsroom.posco.com/en/posco-holdings-leads-the-charge-in-rechargeable-battery-material-sovereignty-with-the-comprehensive-completion-of-the-korean-lithium-hydroxide-plant",
+   "publisher": "POSCO Holdings newsroom, comprehensive completion of Korean lithium hydroxide plant",
+   "published": "2024-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "signed a 20-year contract for the stable supply of lithium ore mined from Pilbara Minerals’ Pilgangoora mine"
+  },
+  "W04": {
+   "url": "https://newsroom.posco.com/en/posco-holdings-leads-the-charge-in-rechargeable-battery-material-sovereignty-with-the-comprehensive-completion-of-the-korean-lithium-hydroxide-plant",
+   "publisher": "POSCO Holdings newsroom, comprehensive completion of Korean lithium hydroxide plant",
+   "published": "2024-11-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "POSCO Pilbara Lithium Solution plans to supply 20,000 tons of lithium hydroxide annually to POSCO Future M."
+  },
+  "W05": {
+   "url": "https://view.asiae.co.kr/en/article/2024120609325417055",
+   "publisher": "Asia Economy (Asiae) English, POSCO Group completes supply system from mines to lithium and cathode materials",
+   "published": "2024-12-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "POSCO Group has completed an integrated supply system from mines to lithium hydroxide and cathode materials."
+  },
+  "W06": {
+   "url": "https://www.kedglobal.com/newsView/ked202306020015",
+   "publisher": "Korea Economic Daily Global (kedglobal), POSCO Future M-GM venture investment",
+   "published": "2023-06-02",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ultium CAM will supply 13.2 trillion won ($10 billion) worth of high-nickel cathode materials to Ultium Cells"
+  },
+  "W07": {
+   "url": "https://view.asiae.co.kr/en/article/2023120309124474674",
+   "publisher": "Asia Economy (Asiae) English, EcoPro BM to supply Samsung SDI with 44 trillion won of cathode materials over 5 years",
+   "published": "2023-12-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "from 2025 onwards, we plan to supply Samsung SDI's Hungary plant locally."
+  },
+  "W08": {
+   "url": "https://view.asiae.co.kr/en/article/2023120309124474674",
+   "publisher": "Asia Economy (Asiae) English, EcoPro BM to supply Samsung SDI with 44 trillion won of cathode materials over 5 years",
+   "published": "2023-12-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The 2024 volume will be supplied from the Pohang campus."
+  },
+  "W09": {
+   "url": "https://www.electrive.com/2025/12/01/ecopro-bm-starts-cathode-material-production-in-hungary",
+   "publisher": "electrive, EcoPro BM starts cathode material production in Hungary",
+   "published": "2025-12-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company produces materials there for Samsung SDI's battery plant in Goed near Budapest."
+  },
+  "W10": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2018/10/p-18-336",
+   "publisher": "BASF / Nornickel joint news release 22 Oct 2018",
+   "published": "2018-10-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a long-term, market-based supply agreement for nickel and cobalt feedstocks from Nornickel's metal refinery"
+  },
+  "W11": {
+   "url": "https://www.mining-technology.com/news/glencore-cobalt-umicore/",
+   "publisher": "Mining Technology, Glencore / Umicore cobalt supply",
+   "published": "2019-05-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Glencore has entered into a long-term revolving agreement for the supply of cobalt hydroxide"
+  },
+  "W12": {
+   "url": "https://canadianminingjournal.com/news/ford-contracts-lithium-hydroxide-supply-from-nemaskas-becancour-plant",
+   "publisher": "Canadian Mining Journal, Ford contracts lithium hydroxide supply from Nemaska's Becancour plant",
+   "published": "2023-05-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The agreement calls for the delivery of up to 13,000 tonnes of lithium hydroxide per year."
+  },
+  "W13": {
+   "url": "https://www.covalentlithium.com/news/covalent-lithium-achieves-first-product-at-kwinana-lithium-hydroxide-refinery",
+   "publisher": "Covalent Lithium, news 'first product at Kwinana lithium hydroxide refinery' (page dated 14 August, year not shown; context 2025)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "fully integrated mine-to-refinery operation"
+  },
+  "W14": {
+   "url": "https://www.mining-technology.com/news/pls-spodumene-supply-deal-canmax/",
+   "publisher": "Mining Technology, PLS spodumene supply deal with Canmax",
+   "published": "2026-02-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "PLS will supply 150,000 tonnes per annum (tpa) of spodumene"
+  },
+  "W15": {
+   "url": "https://australianminingreview.com.au/features/bhp-nickel-west-feeding-the-battery-revolution/",
+   "publisher": "Australian Mining Review, BHP Nickel West: feeding the battery revolution",
+   "published": "2020-12-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nickel West is a fully integrated mine-to-market business with all its operations"
+  },
+  "W16": {
+   "url": "https://www.wesfarmers.com.au/sustainability/fy2024/our-stories/first-spodumene-concentrate-shipment",
+   "publisher": "Wesfarmers, first spodumene concentrate shipment (FY2024 stories)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "This concentrate will be processed overseas."
+  },
+  "R01": {
+   "url": "https://www.mining.com/web/mineral-resources-inks-deal-with-albemarle-for-restructuring-existing-jv/",
+   "publisher": "Mining.com / trade press on MinRes-Albemarle JV restructure (Feb 2023), via WebSearch result summary",
+   "published": "2023-02-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "MinRes also entered a transitional tolling arrangement with Albemarle to convert Wodgina spodumene until 30 June 2024."
+  },
+  "R02": {
+   "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2752838-australia-s-minres-s-korea-s-posco-form-lithium-jv",
+   "publisher": "Argus Media, MinRes and POSCO form lithium JV, via WebSearch result summary",
+   "published": "2025-11-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Posco will also sign an offtake agreement for 30pc of MinRes' share of Wodgina and Mount Marion's spodumene output."
+  },
+  "R03": {
+   "url": "https://www.mining.com/mineral-resources-ends-lithium-deal-with-ganfeng/",
+   "publisher": "Mining.com, Mineral Resources ends lithium deal with Ganfeng, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The original toll deal was a seven-month toll treatment agreement with Ganfeng Lithium Co. Ltd. to convert its 51% share of the spodumene off-take from their jointly owned Mount Marion mine."
+  },
+  "R04": {
+   "url": "https://www.marketindex.com.au/news/liontown-signs-ford-as-third-and-final-lithium-offtake-partner",
+   "publisher": "Market Index, Liontown signs Ford as third and final lithium offtake partner, via WebSearch result summary",
+   "published": "2022-07-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Together the three foundational deals reach up to 450,000 dmt per year, or approximately 90% of Kathleen Valley's initial production capacity of 500,000 tonnes per annum."
+  },
+  "R05": {
+   "url": "https://finance.yahoo.com/news/liontown-opens-kathleen-valley-lithium-085838642.html",
+   "publisher": "Yahoo Finance, Liontown opens Kathleen Valley, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "has established offtake agreements with electric vehicle and battery manufacturers Tesla, Ford, LG Energy Solution and Beijing Sinomine"
+  },
+  "R06": {
+   "url": "https://www.miningweekly.com/article/liontown-signs-another-kathleen-valley-offtake-deal-2025-12-09",
+   "publisher": "Mining Weekly, Liontown signs another Kathleen Valley offtake deal, via WebSearch result summary",
+   "published": "2025-12-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "In December 2025, Liontown signed a binding offtake agreement with China's Canmax Technologies for 150,000 t/y of spodumene concentrate over 2027 and 2028."
+  },
+  "R07": {
+   "url": "https://www.mining.com/pilbara-minerals-expands-offtake-deal-with-ganfeng/",
+   "publisher": "Mining.com, Pilbara Minerals expands offtake deal with Ganfeng, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The updated agreement, originally inked in 2017, spans 2024, 2025 and 2026 with a total allocation of up to 310,000 tonnes per annum (ktpa)."
+  },
+  "R08": {
+   "url": "https://www.northernminer.com/news/pilbara-seals-another-chinese-offtake-deal/1003864969/",
+   "publisher": "Northern Miner, Pilbara seals another Chinese offtake deal, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "PLS agreed to deliver 20,000 tonnes of the mineral from its Pilgangoora operation in Western Australia this year and 100,000 tonnes annually in 2025 and 2026, with an option to supply an extra 60,000 tonnes each year."
+  },
+  "R09": {
+   "url": "https://www.miningweekly.com/article/pilbara-cements-great-wall-deal-2017-10-30",
+   "publisher": "Mining Weekly, Pilbara cements Great Wall lithium supply deal, via WebSearch result summary",
+   "published": "2017-10-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Pilbara finalised an offtake for 75,000 tonnes per year of chemical-grade spodumene from the Stage 2 expansion at Pilgangoora."
+  },
+  "R10": {
+   "url": "https://newsroom.posco.com/en/?p=26718",
+   "publisher": "POSCO newsroom, PPLS plants, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "PPLS signed a long-term contract with SK On in 2024 to supply up to 15,000 tons over three years, and in August 2025 signed an MOU with Chinese cathode material maker Ronbay Group."
+  },
+  "R11": {
+   "url": "https://sqm.com/en/?p=9961",
+   "publisher": "SQM, new long-term agreement with LG Energy Solution (WebSearch result summary; page itself not readable)",
+   "published": "2023-01-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "SQM and LGES announced a new long-term purchase agreement, which replaces the previous one in force, to supply over 100,000 metric tons of battery grade lithium carbonate and lithium hydroxide during 2023-2029."
+  },
+  "R12": {
+   "url": "https://www.industrialinfo.com/news/article/lg-signs-ev-battery-material-agreement-with-gm--328087",
+   "publisher": "IIR Energy, LG signs EV battery material agreement with GM, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The contract will run from 2026 through 2035, and LG will supply more than 500,000 tons of cathode materials, with the material 'primarily used' by Ultium Cells."
+  },
+  "R13": {
+   "url": "https://www.koreajoongangdaily.com/business/sk-innovation-ecopro-bm-sign-cathodes-deal/10094871",
+   "publisher": "Korea JoongAng Daily, SK Innovation, EcoPro BM sign cathodes deal, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "SK Innovation agreed a deal worth about 10.1 trillion won for EcoPro BM to supply high-nickel cathodes to its battery plants in and outside Korea, covering 2024 through 2026"
+  },
+  "R14": {
+   "url": "https://www.nsenergybusiness.com/projects/obi-hpal-nickel-cobalt-project/",
+   "publisher": "NS Energy, Obi HPAL nickel-cobalt project, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "GEM signed an offtake agreement with Halmahera Persada Lygend for the supply of MHP, nickel sulphate, and cobalt sulphate, along with other raw materials from the project in September 2020."
+  },
+  "R15": {
+   "url": "https://www.asianmetal.com/news/1986758/GEM-to-build-high-nickel-NCM-precursor-project-in-Indonesia",
+   "publisher": "Asian Metal, GEM to build high nickel NCM precursor project in Indonesia, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "A 2023 plan tied the precursor plant to MHP from the QMB project, which had reached 30,000 t nickel per year in phase one"
+  },
+  "R16": {
+   "url": "https://www.miningweekly.com/article/keliber-lithium-hydroxide-project-finland-update-2025-11-14",
+   "publisher": "Mining Weekly, Keliber lithium hydroxide project update, via WebSearch result summary",
+   "published": "2025-11-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ore is processed at the Paivaneva concentrator to produce spodumene concentrate, which will be transported about 66 km to the Kokkola refinery."
+  },
+  "R17": {
+   "url": "https://www.argusmedia.com/ja/news-and-insights/latest-market-news/2236602-bhp-to-supply-nickel-to-tesla",
+   "publisher": "Argus Media, BHP to supply nickel to Tesla, via WebSearch result summary",
+   "published": "2021-07-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "BHP signed a nickel supply agreement with Tesla in 2021 for product from Nickel West."
+  },
+  "R18": {
+   "url": "https://in.marketscreener.com/quote/stock/UMICORE-38123506/news/Umicore-and-ACC-Enter-Strategic-Partnership-for-EV-Battery-Materials-in-Europe-40184951/",
+   "publisher": "MarketScreener, Umicore and ACC enter strategic partnership, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Umicore signed a long-term supply agreement with Automotive Cells Company (ACC) for high-nickel cathode materials from Nysa. The agreement starts with an annual offtake commitment of 13 GWh"
+  },
+  "R19": {
+   "url": "https://www.mining.com/web/pilbara-minerals-finalizes-deal-with-posco-for-lithium-facility/",
+   "publisher": "Mining.com, Pilbara Minerals finalizes deal with POSCO, via WebSearch result summary",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Pilbara Minerals supplies spodumene concentrate from its Pilgangoora operation under a long-term offtake agreement. Pilbara's supply deal is reported at 315,000 tonnes a year of chemical grade spodumene concentrate."
+  }
  },
  "rows": [
-  {"action": "update", "id": "talison-greenbushes-australia",
-   "fields": {"feeds": "tlea-kwinana-lithium-hydroxide-australia,albemarle-kemerton-lithium-hydroxide-australia,tianqi-lithium-shehong-china,tianqi-lithium-anju-china,tianqi-lithium-zhangjiagang-carbonate-china,tianqi-lithium-zhangjiagang-hydroxide-china,tianqi-lithium-tongliang-china",
-              "offtakers": "Tianqi Lithium (via TLEA, right to 50% of output, chemical grade priority to Kwinana TLK then Tianqi China plants); Albemarle (via RT Lithium, 50% of output); technical grade also to glass/ceramics third parties"},
-   "evidence": {"feeds": ["L01", "L02", "L03", "W01"]},
+  {
+   "action": "update",
+   "id": "talison-greenbushes-australia",
+   "fields": {
+    "feeds": "tlea-kwinana-lithium-hydroxide-australia,albemarle-kemerton-lithium-hydroxide-australia,tianqi-lithium-shehong-china,tianqi-lithium-anju-china,tianqi-lithium-zhangjiagang-carbonate-china,tianqi-lithium-zhangjiagang-hydroxide-china,tianqi-lithium-tongliang-china",
+    "offtakers": "Tianqi Lithium (via TLEA, right to 50% of output, chemical grade priority to Kwinana TLK then Tianqi China plants); Albemarle (via RT Lithium, 50% of output); technical grade also to glass/ceramics third parties"
+   },
+   "evidence": {
+    "feeds": [
+     "L01",
+     "L02",
+     "L03",
+     "W01"
+    ]
+   },
    "confidence": 0.85,
-   "notes": "[SC170] Greenbushes -> Kwinana (TLEA hydroxide) and Albemarle Kemerton: confirmed (Tianqi AR 2025: Windfield shareholders TLEA 51% and Albemarle RT Lithium 49% each may buy 50% of actual annual output; TLEA purchases serve TLK Kwinana first, remainder Tianqi's domestic plants; Albemarle release 2026-02-11: Kemerton processes Greenbushes spodumene and Albemarle holds half the offtake). Tianqi China plants (Shehong, Anju/Suining, Zhangjiagang carbonate+hydroxide, Tongliang metal) = all 'domestic and overseas lithium chemical bases' for which chemical-grade concentrate comes mainly from Greenbushes (AR line 615; base list line 707); per-plant volumes not stated. NOT linked: Albemarle Meishan/Qinzhou/Xinyu - no source found stating Greenbushes feed to them (Albemarle site pages only list products). Year basis: 2025 annual report (CY2025)."},
-  {"action": "update", "id": "covalent-lithium-mt-holland-australia",
-   "fields": {"feeds": "covalent-lithium-kwinana-refinery-australia",
-              "offtakers": "Covalent Lithium JV (Wesfarmers/SQM) - own Kwinana refinery; before refinery start (Mar 2024 onward) concentrate exported to overseas processors"},
-   "evidence": {"feeds": ["W13", "W16"]},
+   "notes": "[SC170] Greenbushes -> Kwinana (TLEA hydroxide) and Albemarle Kemerton: confirmed (Tianqi AR 2025: Windfield shareholders TLEA 51% and Albemarle RT Lithium 49% each may buy 50% of actual annual output; TLEA purchases serve TLK Kwinana first, remainder Tianqi's domestic plants; Albemarle release 2026-02-11: Kemerton processes Greenbushes spodumene and Albemarle holds half the offtake). Tianqi China plants (Shehong, Anju/Suining, Zhangjiagang carbonate+hydroxide, Tongliang metal) = all 'domestic and overseas lithium chemical bases' for which chemical-grade concentrate comes mainly from Greenbushes (AR line 615; base list line 707); per-plant volumes not stated. NOT linked: Albemarle Meishan/Qinzhou/Xinyu - no source found stating Greenbushes feed to them (Albemarle site pages only list products). Year basis: 2025 annual report (CY2025)."
+  },
+  {
+   "action": "update",
+   "id": "covalent-lithium-mt-holland-australia",
+   "fields": {
+    "feeds": "covalent-lithium-kwinana-refinery-australia",
+    "offtakers": "Covalent Lithium JV (Wesfarmers/SQM) - own Kwinana refinery; before refinery start (Mar 2024 onward) concentrate exported to overseas processors"
+   },
+   "evidence": {
+    "feeds": [
+     "W13",
+     "W16"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] Covalent describes the mine and Kwinana refinery as a 'fully integrated mine-to-refinery operation' (page dated 14 August, year not shown, context 2025; first hydroxide at Kwinana July 2025 per press). Wesfarmers FY2024 page: first concentrate shipment March 2024, 'processed overseas' (country/facility not named) - so before the refinery ramps, some Mt Holland concentrate goes to unnamed overseas converters (unresolved receiver). Page itself did not name Mt Holland explicitly; link inferred from the JV structure (Covalent operates both assets)."},
-  {"action": "update", "id": "pls-pilgangoora-australia",
-   "fields": {"feeds": "posco-pilbara-lithium-solution-gwangyang-south-korea,yahua-group-yaan-china,yahua-guoli-aba-china,yahua-xingsheng-meishan-china",
-              "offtakers": "Ganfeng (up to 310 ktpa 2024-2026); Yahua (100 ktpa 2025-2026 + 60 kt option); POSCO (20-year supply contract, 315 ktpa reported; 4.75% equity); Great Wall Motor (75 ktpa from Stage 2, 2017 deal; 2019 additional 20 ktpa); Canmax (150 ktpa, 2-year from Feb 2026); Shengxin (long-term offtake per its annual report)"},
-   "evidence": {"feeds": ["W03", "W05", "L08", "L11", "L12", "L07", "R07", "R08", "R09", "R19", "W14"]},
+   "notes": "[SC170] Covalent describes the mine and Kwinana refinery as a 'fully integrated mine-to-refinery operation' (page dated 14 August, year not shown, context 2025; first hydroxide at Kwinana July 2025 per press). Wesfarmers FY2024 page: first concentrate shipment March 2024, 'processed overseas' (country/facility not named) - so before the refinery ramps, some Mt Holland concentrate goes to unnamed overseas converters (unresolved receiver). Page itself did not name Mt Holland explicitly; link inferred from the JV structure (Covalent operates both assets)."
+  },
+  {
+   "action": "update",
+   "id": "pls-pilgangoora-australia",
+   "fields": {
+    "feeds": "posco-pilbara-lithium-solution-gwangyang-south-korea,yahua-group-yaan-china,yahua-guoli-aba-china,yahua-xingsheng-meishan-china",
+    "offtakers": "Ganfeng (up to 310 ktpa 2024-2026); Yahua (100 ktpa 2025-2026 + 60 kt option); POSCO (20-year supply contract, 315 ktpa reported; 4.75% equity); Great Wall Motor (75 ktpa from Stage 2, 2017 deal; 2019 additional 20 ktpa); Canmax (150 ktpa, 2-year from Feb 2026); Shengxin (long-term offtake per its annual report)"
+   },
+   "evidence": {
+    "feeds": [
+     "W03",
+     "W05",
+     "L08",
+     "L11",
+     "L12",
+     "L07",
+     "R07",
+     "R08",
+     "R09",
+     "R19",
+     "W14"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC170] Receiver assets resolved: POSCO Pilbara Lithium Solution Gwangyang (POSCO newsroom 2024-11-29: 20-year contract for Pilgangoora ore; Asiae 2024-12-06: PPLS hydroxide made from Pilgangoora concentrate); Yahua's three lithium-salt bases (Yahua AR 2025 says it locks Pilbara supply by long-term offtake, and lists Ya'an Lithium, Guoli, Xingsheng as its three salt bases - per-base split not stated, company-level mapping). Company-level offtakers with NO asset id (unresolved receivers): Ganfeng plants, Great Wall, Canmax plant, Shengxin plants. Ganfeng AR 2025 also states a 5.36% PLS stake held 'to obtain spodumene offtake rights' (L07). Volumes/years from trade-press snippets (reported tier): Ganfeng 310 ktpa 2024-26; Yahua 100 ktpa 2025-26; Great Wall 75 ktpa (2017 Stage 2 offtake; later 2019 amendment) - status of Great Wall contract today unverified. Replaces earlier 'not source-verified' offtaker text."},
-  {"action": "update", "id": "posco-pilbara-lithium-solution-gwangyang-south-korea",
-   "fields": {"offtakers": "POSCO Future M (20,000 t LiOH/yr contract signed Dec 2024, up to 30,000 t); SK On (up to 15,000 t over 3 years, 2024, reported); Ronbay (MOU Aug 2025, reported)"},
-   "evidence": {"feeds": ["W04", "W05", "R10"]},
+   "notes": "[SC170] Receiver assets resolved: POSCO Pilbara Lithium Solution Gwangyang (POSCO newsroom 2024-11-29: 20-year contract for Pilgangoora ore; Asiae 2024-12-06: PPLS hydroxide made from Pilgangoora concentrate); Yahua's three lithium-salt bases (Yahua AR 2025 says it locks Pilbara supply by long-term offtake, and lists Ya'an Lithium, Guoli, Xingsheng as its three salt bases - per-base split not stated, company-level mapping). Company-level offtakers with NO asset id (unresolved receivers): Ganfeng plants, Great Wall, Canmax plant, Shengxin plants. Ganfeng AR 2025 also states a 5.36% PLS stake held 'to obtain spodumene offtake rights' (L07). Volumes/years from trade-press snippets (reported tier): Ganfeng 310 ktpa 2024-26; Yahua 100 ktpa 2025-26; Great Wall 75 ktpa (2017 Stage 2 offtake; later 2019 amendment) - status of Great Wall contract today unverified. Replaces earlier 'not source-verified' offtaker text."
+  },
+  {
+   "action": "update",
+   "id": "posco-pilbara-lithium-solution-gwangyang-south-korea",
+   "fields": {
+    "offtakers": "POSCO Future M (20,000 t LiOH/yr contract signed Dec 2024, up to 30,000 t); SK On (up to 15,000 t over 3 years, 2024, reported); Ronbay (MOU Aug 2025, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "W04",
+     "W05",
+     "R10"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] POSCO newsroom 2024-11-29: PPLS plans to supply 20,000 t/yr lithium hydroxide to POSCO Future M; Asiae 2024-12-06: contract signed 5 Dec 2024, output 'entirely used for producing cathode materials for export to the U.S.'. The receiving POSCO Future M plant (Pohang / Gwangyang / Ultium CAM Becancour) is NOT named - unresolved, so no feeds id set. SK On and Ronbay items are search-snippet only."},
-  {"action": "update", "id": "mineral-resources-wodgina-australia",
-   "fields": {"feeds": "albemarle-kemerton-lithium-hydroxide-australia",
-              "offtakers": "Albemarle (50% JV partner; Wodgina concentrate converted at Kemerton, tolling arrangement to 30 Jun 2024); MinRes sales; POSCO (offtake of 30% of MinRes share, binding agreement Nov 2025, reported)"},
-   "evidence": {"feeds": ["R01", "R02"]},
+   "notes": "[SC170] POSCO newsroom 2024-11-29: PPLS plans to supply 20,000 t/yr lithium hydroxide to POSCO Future M; Asiae 2024-12-06: contract signed 5 Dec 2024, output 'entirely used for producing cathode materials for export to the U.S.'. The receiving POSCO Future M plant (Pohang / Gwangyang / Ultium CAM Becancour) is NOT named - unresolved, so no feeds id set. SK On and Ronbay items are search-snippet only."
+  },
+  {
+   "action": "update",
+   "id": "mineral-resources-wodgina-australia",
+   "fields": {
+    "feeds": "albemarle-kemerton-lithium-hydroxide-australia",
+    "offtakers": "Albemarle (50% JV partner; Wodgina concentrate converted at Kemerton, tolling arrangement to 30 Jun 2024); MinRes sales; POSCO (offtake of 30% of MinRes share, binding agreement Nov 2025, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "R01",
+     "R02"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC170] Reported tier only (search summaries). Wodgina (MARBL JV) -> Kemerton historically; 2023 restructure: MinRes tolling arrangement with Albemarle to convert Wodgina spodumene until 30 Jun 2024; Kemerton now idled (Albemarle release 2026-02-11), so the link is historical. POSCO offtake (Argus 2025-11-12) not yet verified as completed. Receiver for POSCO share unresolved."},
-  {"action": "update", "id": "mineral-resources-mt-marion-australia",
-   "fields": {"offtakers": "Ganfeng (51% of offtake per reported 2022 toll-deal description; Ganfeng is 50% JV partner); POSCO (offtake of 30% of MinRes share, Nov 2025 binding agreement, reported)"},
-   "evidence": {"feeds": ["R03", "R02", "L06"]},
+   "notes": "[SC170] Reported tier only (search summaries). Wodgina (MARBL JV) -> Kemerton historically; 2023 restructure: MinRes tolling arrangement with Albemarle to convert Wodgina spodumene until 30 Jun 2024; Kemerton now idled (Albemarle release 2026-02-11), so the link is historical. POSCO offtake (Argus 2025-11-12) not yet verified as completed. Receiver for POSCO share unresolved."
+  },
+  {
+   "action": "update",
+   "id": "mineral-resources-mt-marion-australia",
+   "fields": {
+    "offtakers": "Ganfeng (51% of offtake per reported 2022 toll-deal description; Ganfeng is 50% JV partner); POSCO (offtake of 30% of MinRes share, Nov 2025 binding agreement, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "R03",
+     "R02",
+     "L06"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC170] Reported tier (search summaries). Ganfeng AR 2025 lists Mt Marion among projects whose capacity it works with partners to secure for its spodumene self-sufficiency (L06). Ganfeng receiving plant(s) not specified - unresolved. The 2022 MinRes-Ganfeng toll conversion deal was terminated early."},
-  {"action": "update", "id": "liontown-kathleen-valley-australia",
-   "fields": {"offtakers": "Tesla (100 kt/yr yr1 rising to 150 kt/yr; 5-yr); Ford (up to 150 kt/yr, 5-yr initial term); LG Energy Solution (up to 150 kt/yr; first cargo delivered 2024-25); Beijing Sinomine; Canmax (150 kt/yr over 2027-2028, signed Dec 2025)"},
-   "evidence": {"feeds": ["R04", "R05", "R06"]},
+   "notes": "[SC170] Reported tier (search summaries). Ganfeng AR 2025 lists Mt Marion among projects whose capacity it works with partners to secure for its spodumene self-sufficiency (L06). Ganfeng receiving plant(s) not specified - unresolved. The 2022 MinRes-Ganfeng toll conversion deal was terminated early."
+  },
+  {
+   "action": "update",
+   "id": "liontown-kathleen-valley-australia",
+   "fields": {
+    "offtakers": "Tesla (100 kt/yr yr1 rising to 150 kt/yr; 5-yr); Ford (up to 150 kt/yr, 5-yr initial term); LG Energy Solution (up to 150 kt/yr; first cargo delivered 2024-25); Beijing Sinomine; Canmax (150 kt/yr over 2027-2028, signed Dec 2025)"
+   },
+   "evidence": {
+    "feeds": [
+     "R04",
+     "R05",
+     "R06"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Reported tier (search summaries). REPLACES the earlier unverified offtaker text 'Ganfeng, Tianqi, Yibin Tianyi, Albemarle (not source-verified here)' which none of the sources found supports (conflict - lead may prefer to keep the old value only if a source is found). Foundational deals 2022: Tesla, Ford, LGES together up to 450 kt/yr (~90% of the planned 500 ktpa start-up capacity). Receiving plants for these buyers (e.g. Tesla Robstown refinery, Ford/LGES converters) are not stated in sources found - unresolved; no feeds id set."},
-  {"action": "update", "id": "ganfeng-goulamina-mine-mali",
-   "fields": {"offtakers": "Ganfeng (65% owner; concentrate shipped to China from June 2025 for Ganfeng's own lithium salt plants)"},
-   "evidence": {"feeds": ["L04"]},
+   "notes": "[SC170] Reported tier (search summaries). REPLACES the earlier unverified offtaker text 'Ganfeng, Tianqi, Yibin Tianyi, Albemarle (not source-verified here)' which none of the sources found supports (conflict - lead may prefer to keep the old value only if a source is found). Foundational deals 2022: Tesla, Ford, LGES together up to 450 kt/yr (~90% of the planned 500 ktpa start-up capacity). Receiving plants for these buyers (e.g. Tesla Robstown refinery, Ford/LGES converters) are not stated in sources found - unresolved; no feeds id set."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-goulamina-mine-mali",
+   "fields": {
+    "offtakers": "Ganfeng (65% owner; concentrate shipped to China from June 2025 for Ganfeng's own lithium salt plants)"
+   },
+   "evidence": {
+    "feeds": [
+     "L04"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] Ganfeng AR 2025 (CY2025): first Goulamina concentrate shipped to China June 2025; 336.6 kt concentrate produced 2025; supplies Ganfeng. Which Ganfeng conversion plant receives it (Ningdu, Fengcheng, Xinyu, Sichuan) is not stated - unresolved, so no feeds id."},
-  {"action": "update", "id": "minera-exar-cauchari-olaroz-argentina",
-   "fields": {"offtakers": "Ganfeng (offtake rights to 76% of planned 40 ktpa LCE); Lithium Argentina (remainder)"},
-   "evidence": {"feeds": ["L05"]},
+   "notes": "[SC170] Ganfeng AR 2025 (CY2025): first Goulamina concentrate shipped to China June 2025; 336.6 kt concentrate produced 2025; supplies Ganfeng. Which Ganfeng conversion plant receives it (Ningdu, Fengcheng, Xinyu, Sichuan) is not stated - unresolved, so no feeds id."
+  },
+  {
+   "action": "update",
+   "id": "minera-exar-cauchari-olaroz-argentina",
+   "fields": {
+    "offtakers": "Ganfeng (offtake rights to 76% of planned 40 ktpa LCE); Lithium Argentina (remainder)"
+   },
+   "evidence": {
+    "feeds": [
+     "L05"
+    ]
+   },
    "confidence": 0.8,
-   "notes": "[SC170] Ganfeng AR 2025: Ganfeng holds 46.67% and 'offtake rights to 76% of the 40 ktpa LCE planned annual output'. Ganfeng receiving plant not stated - unresolved."},
-  {"action": "update", "id": "yahua-kamativi-mine-zimbabwe",
-   "fields": {"feeds": "yahua-group-yaan-china,yahua-xingsheng-meishan-china",
-              "offtakers": "Yahua (own lithium salt bases)"},
-   "evidence": {"feeds": ["L09", "L11"]},
+   "notes": "[SC170] Ganfeng AR 2025: Ganfeng holds 46.67% and 'offtake rights to 76% of the 40 ktpa LCE planned annual output'. Ganfeng receiving plant not stated - unresolved."
+  },
+  {
+   "action": "update",
+   "id": "yahua-kamativi-mine-zimbabwe",
+   "fields": {
+    "feeds": "yahua-group-yaan-china,yahua-xingsheng-meishan-china",
+    "offtakers": "Yahua (own lithium salt bases)"
+   },
+   "evidence": {
+    "feeds": [
+     "L09",
+     "L11"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Yahua AR 2025: Kamativi concentrate reached design output (~350 kt/yr) in H2 2025 and 'greatly improves the self-supply capacity' of the company's concentrate; company has three salt bases (Ya'an Lithium, Guoli, Xingsheng). Link to Ya'an and Xingsheng is a company-level mapping (Lijiagou is separately earmarked for Guoli); per-base allocation not stated. No evidence found that a Zimbabwe sulphate plant (yahua-kmc-zimbabwe-lithium-sulphate-zimbabwe) consumes Kamativi concentrate, so not linked."},
-  {"action": "update", "id": "sichuan-energy-investment-lijiagou-china",
-   "fields": {"feeds": "yahua-guoli-aba-china",
-              "offtakers": "Yahua (Guoli Lithium Materials)"},
-   "evidence": {"feeds": ["L10"]},
+   "notes": "[SC170] Yahua AR 2025: Kamativi concentrate reached design output (~350 kt/yr) in H2 2025 and 'greatly improves the self-supply capacity' of the company's concentrate; company has three salt bases (Ya'an Lithium, Guoli, Xingsheng). Link to Ya'an and Xingsheng is a company-level mapping (Lijiagou is separately earmarked for Guoli); per-base allocation not stated. No evidence found that a Zimbabwe sulphate plant (yahua-kmc-zimbabwe-lithium-sulphate-zimbabwe) consumes Kamativi concentrate, so not linked."
+  },
+  {
+   "action": "update",
+   "id": "sichuan-energy-investment-lijiagou-china",
+   "fields": {
+    "feeds": "yahua-guoli-aba-china",
+    "offtakers": "Yahua (Guoli Lithium Materials)"
+   },
+   "evidence": {
+    "feeds": [
+     "L10"
+    ]
+   },
    "confidence": 0.75,
-   "notes": "[SC170] Yahua AR 2025: Lijiagou lithium mine (in normal production since Sept 2025) 'will gradually secure raw-material supply for Guoli'."},
-  {"action": "update", "id": "sinomine-bikita-mine-zimbabwe",
-   "fields": {"feeds": "sinomine-jiangxi-dongpeng-china",
-              "offtakers": "Sinomine's Chinese smelters (own lithium salt plants, Jiangxi)"},
-   "evidence": {"feeds": ["L29"]},
+   "notes": "[SC170] Yahua AR 2025: Lijiagou lithium mine (in normal production since Sept 2025) 'will gradually secure raw-material supply for Guoli'."
+  },
+  {
+   "action": "update",
+   "id": "sinomine-bikita-mine-zimbabwe",
+   "fields": {
+    "feeds": "sinomine-jiangxi-dongpeng-china",
+    "offtakers": "Sinomine's Chinese smelters (own lithium salt plants, Jiangxi)"
+   },
+   "evidence": {
+    "feeds": [
+     "L29"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC170] Sinomine AR 2025: lithium concentrate for its lithium-materials business 'mainly comes from own mines' (Bikita, Tanco). Plant-level allocation not stated; link to the Jiangxi lithium salt plant is inferred from it being the company's only operating lithium-salt site in the asset list. A Bikita lithium-sulphate plant is only at feasibility stage (AR line 3683: construction start planned 2026) so not linked. Liontown also lists Beijing Sinomine as a Kathleen Valley offtaker (reported)."},
-  {"action": "update", "id": "chengxin-sabi-star-mine-zimbabwe",
-   "fields": {"offtakers": "Shengxin Lithium Energy (own lithium salt plants in Sichuan/Indonesia)"},
-   "evidence": {"feeds": ["L13", "L12"]},
+   "notes": "[SC170] Sinomine AR 2025: lithium concentrate for its lithium-materials business 'mainly comes from own mines' (Bikita, Tanco). Plant-level allocation not stated; link to the Jiangxi lithium salt plant is inferred from it being the company's only operating lithium-salt site in the asset list. A Bikita lithium-sulphate plant is only at feasibility stage (AR line 3683: construction start planned 2026) so not linked. Liontown also lists Beijing Sinomine as a Kathleen Valley offtaker (reported)."
+  },
+  {
+   "action": "update",
+   "id": "chengxin-sabi-star-mine-zimbabwe",
+   "fields": {
+    "offtakers": "Shengxin Lithium Energy (own lithium salt plants in Sichuan/Indonesia)"
+   },
+   "evidence": {
+    "feeds": [
+     "L13",
+     "L12"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Shengxin AR 2025 lists Sabi Star (5 mining rights, 990 kt/yr ore, ~290 kt/yr concentrate) as its own concentrate source for its lithium salt production; plant-level allocation not stated - unresolved (candidate receivers shengxin-lithium-suining-china / shengxin-lithium-shengjing-china, not asserted)."},
-  {"action": "update", "id": "huayou-arcadia-mine-zimbabwe",
-   "fields": {"feeds": "huayou-arcadia-sulphate-plant-zimbabwe",
-              "offtakers": "Huayou (own lithium chemicals; lithium raw material mainly self-supplied)"},
-   "evidence": {"feeds": ["L19"]},
+   "notes": "[SC170] Shengxin AR 2025 lists Sabi Star (5 mining rights, 990 kt/yr ore, ~290 kt/yr concentrate) as its own concentrate source for its lithium salt production; plant-level allocation not stated - unresolved (candidate receivers shengxin-lithium-suining-china / shengxin-lithium-shengjing-china, not asserted)."
+  },
+  {
+   "action": "update",
+   "id": "huayou-arcadia-mine-zimbabwe",
+   "fields": {
+    "feeds": "huayou-arcadia-sulphate-plant-zimbabwe",
+    "offtakers": "Huayou (own lithium chemicals; lithium raw material mainly self-supplied)"
+   },
+   "evidence": {
+    "feeds": [
+     "L19"
+    ]
+   },
    "confidence": 0.8,
-   "notes": "[SC170] Huayou AR 2025 (CY2025): 50 kt/yr lithium sulphate project at Arcadia completed trial production in Q1 (2026) 'realising the mine-metallurgy integrated resource utilisation model'. Sulphate then moves to Huayou lithium carbonate lines in China (receiver asset not in list - unresolved)."},
-  {"action": "update", "id": "albemarle-salar-de-atacama-chile",
-   "fields": {"feeds": "albemarle-la-negra-lithium-carbonate-chile",
-              "offtakers": "Albemarle (own La Negra conversion)"},
-   "evidence": {"feeds": ["W02"]},
+   "notes": "[SC170] Huayou AR 2025 (CY2025): 50 kt/yr lithium sulphate project at Arcadia completed trial production in Q1 (2026) 'realising the mine-metallurgy integrated resource utilisation model'. Sulphate then moves to Huayou lithium carbonate lines in China (receiver asset not in list - unresolved)."
+  },
+  {
+   "action": "update",
+   "id": "albemarle-salar-de-atacama-chile",
+   "fields": {
+    "feeds": "albemarle-la-negra-lithium-carbonate-chile",
+    "offtakers": "Albemarle (own La Negra conversion)"
+   },
+   "evidence": {
+    "feeds": [
+     "W02"
+    ]
+   },
    "confidence": 0.85,
-   "notes": "[SC170] Albemarle Chile page: brine from the Salar de Atacama nucleus is concentrated in solar ponds to 6% Li and 'transported to the La Negra plant in Antofagasta' where it is purified and converted to technical and battery grade lithium carbonate."},
-  {"action": "update", "id": "novaandino-litio-salar-de-atacama-chile",
-   "fields": {"offtakers": "LG Energy Solution (long-term agreement, >100 kt LCE carbonate/hydroxide over 2023-2029, reported); other customers not verified"},
-   "evidence": {"feeds": ["R11"]},
+   "notes": "[SC170] Albemarle Chile page: brine from the Salar de Atacama nucleus is concentrated in solar ponds to 6% Li and 'transported to the La Negra plant in Antofagasta' where it is purified and converted to technical and battery grade lithium carbonate."
+  },
+  {
+   "action": "update",
+   "id": "novaandino-litio-salar-de-atacama-chile",
+   "fields": {
+    "offtakers": "LG Energy Solution (long-term agreement, >100 kt LCE carbonate/hydroxide over 2023-2029, reported); other customers not verified"
+   },
+   "evidence": {
+    "feeds": [
+     "R11"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC170] Reported tier. SQM-LGES 2023 replacement long-term agreement; SQM page itself not readable. No source found for SQM Salar de Atacama -> Salar del Carmen feed link (known physically, not evidenced here) - not added."},
-  {"action": "update", "id": "nemaska-lithium-whabouchi-canada",
-   "fields": {"feeds": "nemaska-lithium-becancour-lithium-hydroxide-canada",
-              "offtakers": "Ford (up to 13,000 t LiOH/yr, 11 years, signed May 2023; interim spodumene concentrate from Whabouchi)"},
-   "evidence": {"feeds": ["W12"]},
+   "notes": "[SC170] Reported tier. SQM-LGES 2023 replacement long-term agreement; SQM page itself not readable. No source found for SQM Salar de Atacama -> Salar del Carmen feed link (known physically, not evidenced here) - not added."
+  },
+  {
+   "action": "update",
+   "id": "nemaska-lithium-whabouchi-canada",
+   "fields": {
+    "feeds": "nemaska-lithium-becancour-lithium-hydroxide-canada",
+    "offtakers": "Ford (up to 13,000 t LiOH/yr, 11 years, signed May 2023; interim spodumene concentrate from Whabouchi)"
+   },
+   "evidence": {
+    "feeds": [
+     "W12"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC170] Canadian Mining Journal 2023-05-23: Ford contract up to 13,000 t LiOH/yr over 11 years; Nemaska 'will supply Ford with spodumene concentrate from its Whabouchi mine' until Becancour produces hydroxide. The Whabouchi -> Becancour feed is implied by the integrated project design (page does not state it in one sentence)."},
-  {"action": "update", "id": "keliber-syvajarvi-rapasaari-finland",
-   "fields": {"feeds": "keliber-kokkola-lithium-hydroxide-finland"},
-   "evidence": {"feeds": ["R16"]},
+   "notes": "[SC170] Canadian Mining Journal 2023-05-23: Ford contract up to 13,000 t LiOH/yr over 11 years; Nemaska 'will supply Ford with spodumene concentrate from its Whabouchi mine' until Becancour produces hydroxide. The Whabouchi -> Becancour feed is implied by the integrated project design (page does not state it in one sentence)."
+  },
+  {
+   "action": "update",
+   "id": "keliber-syvajarvi-rapasaari-finland",
+   "fields": {
+    "feeds": "keliber-kokkola-lithium-hydroxide-finland"
+   },
+   "evidence": {
+    "feeds": [
+     "R16"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Reported tier: ore from Syvajarvi and Rapasaari processed at Paivaneva concentrator; spodumene concentrate trucked ~66 km to the Kokkola refinery (15 kt/yr LiOH design). Concentrator in commissioning, refinery built but ramp-up timing TBD (2026 reports)."},
-  {"action": "update", "id": "bhp-nickel-west-mt-keith-leinster-kalgoorlie-australia",
-   "fields": {"feeds": "bhp-kwinana-nickel-refinery-australia",
-              "offtakers": "Tesla (supply agreement 2021, size undisclosed, reported); Toyota/Panasonic battery venture (nickel sulphate MoU, reported)"},
-   "evidence": {"feeds": ["W15", "R17"]},
+   "notes": "[SC170] Reported tier: ore from Syvajarvi and Rapasaari processed at Paivaneva concentrator; spodumene concentrate trucked ~66 km to the Kokkola refinery (15 kt/yr LiOH design). Concentrator in commissioning, refinery built but ramp-up timing TBD (2026 reports)."
+  },
+  {
+   "action": "update",
+   "id": "bhp-nickel-west-mt-keith-leinster-kalgoorlie-australia",
+   "fields": {
+    "feeds": "bhp-kwinana-nickel-refinery-australia",
+    "offtakers": "Tesla (supply agreement 2021, size undisclosed, reported); Toyota/Panasonic battery venture (nickel sulphate MoU, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "W15",
+     "R17"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Australian Mining Review (2020-12-12): Nickel West is a fully integrated mine-to-market business (WA mines, concentrators, Kalgoorlie smelter, Kwinana refinery). Tesla deal and Toyota-Panasonic MoU are search-snippet only. Current Nickel West operating status (it was reported suspended in Oct 2024) was NOT verified in this task - treat the link as historical/dormant."},
-  {"action": "update", "id": "glencore-kcc-cobalt-drc",
-   "fields": {"feeds": "umicore-kokkola-cobalt-refinery-finland",
-              "offtakers": "Umicore (long-term revolving cobalt hydroxide supply, 2019)"},
-   "evidence": {"feeds": ["W11"]},
+   "notes": "[SC170] Australian Mining Review (2020-12-12): Nickel West is a fully integrated mine-to-market business (WA mines, concentrators, Kalgoorlie smelter, Kwinana refinery). Tesla deal and Toyota-Panasonic MoU are search-snippet only. Current Nickel West operating status (it was reported suspended in Oct 2024) was NOT verified in this task - treat the link as historical/dormant."
+  },
+  {
+   "action": "update",
+   "id": "glencore-kcc-cobalt-drc",
+   "fields": {
+    "feeds": "umicore-kokkola-cobalt-refinery-finland",
+    "offtakers": "Umicore (long-term revolving cobalt hydroxide supply, 2019)"
+   },
+   "evidence": {
+    "feeds": [
+     "W11"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Mining Technology 2019-05-29: Glencore long-term revolving agreement to supply cobalt hydroxide to Umicore from KCC and Mutanda; cobalt shipped to Umicore refineries including one in Finland (Kokkola, then being acquired). Kokkola named only as 'a facility in Finland' - receiver inferred. Status in 2025-26 not verified."},
-  {"action": "update", "id": "glencore-mutanda-cobalt-drc",
-   "fields": {"feeds": "umicore-kokkola-cobalt-refinery-finland",
-              "offtakers": "Umicore (long-term revolving cobalt hydroxide supply, 2019)"},
-   "evidence": {"feeds": ["W11"]},
+   "notes": "[SC170] Mining Technology 2019-05-29: Glencore long-term revolving agreement to supply cobalt hydroxide to Umicore from KCC and Mutanda; cobalt shipped to Umicore refineries including one in Finland (Kokkola, then being acquired). Kokkola named only as 'a facility in Finland' - receiver inferred. Status in 2025-26 not verified."
+  },
+  {
+   "action": "update",
+   "id": "glencore-mutanda-cobalt-drc",
+   "fields": {
+    "feeds": "umicore-kokkola-cobalt-refinery-finland",
+    "offtakers": "Umicore (long-term revolving cobalt hydroxide supply, 2019)"
+   },
+   "evidence": {
+    "feeds": [
+     "W11"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] See glencore-kcc-cobalt-drc: same 2019 agreement covers KCC and Mutanda."},
-  {"action": "update", "id": "nornickel-harjavalta-nickel-refinery-finland",
-   "fields": {"feeds": "basf-harjavalta-pcam-finland",
-              "offtakers": "BASF (long-term, market-based supply of nickel and cobalt feedstocks, 2018 agreement)"},
-   "evidence": {"feeds": ["W10"]},
+   "notes": "[SC170] See glencore-kcc-cobalt-drc: same 2019 agreement covers KCC and Mutanda."
+  },
+  {
+   "action": "update",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {
+    "feeds": "basf-harjavalta-pcam-finland",
+    "offtakers": "BASF (long-term, market-based supply of nickel and cobalt feedstocks, 2018 agreement)"
+   },
+   "evidence": {
+    "feeds": [
+     "W10"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] BASF/Nornickel release 2018-10-22: long-term market-based supply agreement for nickel and cobalt feedstocks from Nornickel's metal refinery; BASF's plant to be built adjacent to the Nornickel refinery (Harjavalta). Release does not name the plant as recipient in the same sentence; adjacency makes the link near-certain. Status after 2022 sanctions not verified."},
-  {"action": "update", "id": "huayou-huayue-nickel-cobalt-hnc-hpal-indonesia",
-   "fields": {"feeds": "huayou-quzhou-pcam-china,huayou-quzhou-cobalt-refinery-china"},
-   "evidence": {"feeds": ["L17"]},
+   "notes": "[SC170] BASF/Nornickel release 2018-10-22: long-term market-based supply agreement for nickel and cobalt feedstocks from Nornickel's metal refinery; BASF's plant to be built adjacent to the Nornickel refinery (Harjavalta). Release does not name the plant as recipient in the same sentence; adjacency makes the link near-certain. Status after 2022 sanctions not verified."
+  },
+  {
+   "action": "update",
+   "id": "huayou-huayue-nickel-cobalt-hnc-hpal-indonesia",
+   "fields": {
+    "feeds": "huayou-quzhou-pcam-china,huayou-quzhou-cobalt-refinery-china"
+   },
+   "evidence": {
+    "feeds": [
+     "L17"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC170] Huayou AR 2025: Indonesian nickel-cobalt development (Huayue and Huafei HPAL, MHP shipments 236.5 kt in 2025 combined) produces MHP / high-matte intermediates 'as raw material for the domestic new-materials business' (Quzhou refinery/pCAM). Company-level statement, not site-specific; both Quzhou assets are Huayou's domestic new-materials sites."},
-  {"action": "update", "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
-   "fields": {"feeds": "huayou-quzhou-pcam-china,huayou-quzhou-cobalt-refinery-china"},
-   "evidence": {"feeds": ["L17"]},
+   "notes": "[SC170] Huayou AR 2025: Indonesian nickel-cobalt development (Huayue and Huafei HPAL, MHP shipments 236.5 kt in 2025 combined) produces MHP / high-matte intermediates 'as raw material for the domestic new-materials business' (Quzhou refinery/pCAM). Company-level statement, not site-specific; both Quzhou assets are Huayou's domestic new-materials sites."
+  },
+  {
+   "action": "update",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "feeds": "huayou-quzhou-pcam-china,huayou-quzhou-cobalt-refinery-china"
+   },
+   "evidence": {
+    "feeds": [
+     "L17"
+    ]
+   },
    "confidence": 0.65,
-   "notes": "[SC170] See huayou-huayue-nickel-cobalt-hnc-hpal-indonesia (same AR statement)."},
-  {"action": "update", "id": "huayou-quzhou-pcam-china",
-   "fields": {"feeds": "huayou-bamo-chengdu-china,huayou-bamo-hungary-cathode-hungary",
-              "offtakers": "LG Energy Solution and designated purchasers (approx 76 kt NCM pCAM 2026-2030); undisclosed 'internationally known customer' (79.6 kt pCAM MoU, Dec 2025); Tesla (supply framework agreement); Bamo CAM plants (internal)"},
-   "evidence": {"feeds": ["L14", "L18"]},
+   "notes": "[SC170] See huayou-huayue-nickel-cobalt-hnc-hpal-indonesia (same AR statement)."
+  },
+  {
+   "action": "update",
+   "id": "huayou-quzhou-pcam-china",
+   "fields": {
+    "feeds": "huayou-bamo-chengdu-china,huayou-bamo-hungary-cathode-hungary",
+    "offtakers": "LG Energy Solution and designated purchasers (approx 76 kt NCM pCAM 2026-2030); undisclosed 'internationally known customer' (79.6 kt pCAM MoU, Dec 2025); Tesla (supply framework agreement); Bamo CAM plants (internal)"
+   },
+   "evidence": {
+    "feeds": [
+     "L14",
+     "L18"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] Huayou AR 2025 other-major-contracts section (announcement 2025-112, 30 Sep 2025): Quzhou New Energy supplies ~76 kt ternary precursor to LGES and designated buyers 2026-2030. Bamo cathode raw materials come mainly from subsidiary internal supply (company-level; Chengdu and Hungary Bamo are the CAM sites). 79.6 kt MoU customer unnamed."},
-  {"action": "update", "id": "huayou-bamo-hungary-cathode-hungary",
-   "fields": {"feeds": "cell:lg-energy-solution-lg-energy-solution-wroc-aw-poland,cell:eve-energy-eve-power-hungary-kft-eve-energy-debrecen-hungary",
-              "offtakers": "LG Energy Solution Wroclaw (approx 88 kt NCM CAM 2026-2030); EVE Energy Hungary (approx 127.8 kt ultra-high-nickel CAM 2026-2035, of which 126.5 kt in 2027-2031)"},
-   "evidence": {"feeds": ["L15", "L16"]},
+   "notes": "[SC170] Huayou AR 2025 other-major-contracts section (announcement 2025-112, 30 Sep 2025): Quzhou New Energy supplies ~76 kt ternary precursor to LGES and designated buyers 2026-2030. Bamo cathode raw materials come mainly from subsidiary internal supply (company-level; Chengdu and Hungary Bamo are the CAM sites). 79.6 kt MoU customer unnamed."
+  },
+  {
+   "action": "update",
+   "id": "huayou-bamo-hungary-cathode-hungary",
+   "fields": {
+    "feeds": "cell:lg-energy-solution-lg-energy-solution-wroc-aw-poland,cell:eve-energy-eve-power-hungary-kft-eve-energy-debrecen-hungary",
+    "offtakers": "LG Energy Solution Wroclaw (approx 88 kt NCM CAM 2026-2030); EVE Energy Hungary (approx 127.8 kt ultra-high-nickel CAM 2026-2035, of which 126.5 kt in 2027-2031)"
+   },
+   "evidence": {
+    "feeds": [
+     "L15",
+     "L16"
+    ]
+   },
    "confidence": 0.85,
-   "notes": "[SC170] Huayou AR 2025: Hungary Bamo -> LGES and LGES Wroclaw (announced 2025-09-30) ~88 kt 2026-2030; Chengdu Bamo's Hungary plant -> EVE Energy Hungary (announcement 2025-131, 26 Nov 2025) ~127.8 kt 2026-2035. Phase 1 (25 kt) was in line commissioning per AR; volumes are expected/contracted-framework figures, not shipments."},
-  {"action": "update", "id": "ultium-cam-becancour-canada",
-   "fields": {"feeds": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states,cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states",
-              "offtakers": "Ultium Cells LLC (GM / LGES JV): 13.2 trillion won (~US$10bn) of high-nickel cathode over nine years from 2025 (contract basis; plant start delayed to late 2026)"},
-   "evidence": {"feeds": ["W06"]},
+   "notes": "[SC170] Huayou AR 2025: Hungary Bamo -> LGES and LGES Wroclaw (announced 2025-09-30) ~88 kt 2026-2030; Chengdu Bamo's Hungary plant -> EVE Energy Hungary (announcement 2025-131, 26 Nov 2025) ~127.8 kt 2026-2035. Phase 1 (25 kt) was in line commissioning per AR; volumes are expected/contracted-framework figures, not shipments."
+  },
+  {
+   "action": "update",
+   "id": "ultium-cam-becancour-canada",
+   "fields": {
+    "feeds": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states,cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states",
+    "offtakers": "Ultium Cells LLC (GM / LGES JV): 13.2 trillion won (~US$10bn) of high-nickel cathode over nine years from 2025 (contract basis; plant start delayed to late 2026)"
+   },
+   "evidence": {
+    "feeds": [
+     "W06"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC170] Contract counterparty is Ultium Cells (entity); which of its three plants takes the material is not stated, so all three are listed (company-level). Kedglobal 2023-06-02. Plant delayed: Bécancour phase 1 now targeted ~late Oct 2026 per search reports (not verified here), so no deliveries yet."},
-  {"action": "update", "id": "lg-chem-clarksville-cam-united-states",
-   "fields": {"feeds": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states,cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states",
-              "offtakers": "GM / Ultium Cells (2026-2035 supply agreement, >500 kt cathode, reported)"},
-   "evidence": {"feeds": ["R12"]},
+   "notes": "[SC170] Contract counterparty is Ultium Cells (entity); which of its three plants takes the material is not stated, so all three are listed (company-level). Kedglobal 2023-06-02. Plant delayed: Bécancour phase 1 now targeted ~late Oct 2026 per search reports (not verified here), so no deliveries yet."
+  },
+  {
+   "action": "update",
+   "id": "lg-chem-clarksville-cam-united-states",
+   "fields": {
+    "feeds": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states,cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states,cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states",
+    "offtakers": "GM / Ultium Cells (2026-2035 supply agreement, >500 kt cathode, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "R12"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC170] Reported tier (search summary): LG Chem - GM cathode supply 2026-2035, material 'primarily used' by Ultium Cells; Clarksville NCMA plant. Plant-level receiver within Ultium Cells not stated."},
-  {"action": "update", "id": "ecopro-bm-debrecen-hungary",
-   "fields": {"feeds": "cell:samsung-sdi-samsung-sdi-g-d-hungary",
-              "offtakers": "Samsung SDI Goed (Hungary); SK On (reported); Mercedes/BMW via Samsung SDI reported in Hungarian press"},
-   "evidence": {"feeds": ["W07", "W09", "R13"]},
+   "notes": "[SC170] Reported tier (search summary): LG Chem - GM cathode supply 2026-2035, material 'primarily used' by Ultium Cells; Clarksville NCMA plant. Plant-level receiver within Ultium Cells not stated."
+  },
+  {
+   "action": "update",
+   "id": "ecopro-bm-debrecen-hungary",
+   "fields": {
+    "feeds": "cell:samsung-sdi-samsung-sdi-g-d-hungary",
+    "offtakers": "Samsung SDI Goed (Hungary); SK On (reported); Mercedes/BMW via Samsung SDI reported in Hungarian press"
+   },
+   "evidence": {
+    "feeds": [
+     "W07",
+     "W09",
+     "R13"
+    ]
+   },
    "confidence": 0.8,
-   "notes": "[SC170] Electrive 2025-12-01: Debrecen produces materials for Samsung SDI's battery plant in Goed. Asiae 2023-12-03: under the 44 trillion won, 2024-2028 contract the 2024 volume is shipped from Pohang and 'from 2025 onwards' Samsung SDI's Hungary plant is supplied locally. SK On share is snippet-only."},
-  {"action": "update", "id": "ecopro-bm-pohang-cam-other-south-korea",
-   "fields": {"offtakers": "Samsung SDI (44 trillion won NCA contract 2024-2028; 2024 volume from Pohang campus); SK On (about 10.1 trillion won high-nickel contract 2024-2026, reported)"},
-   "evidence": {"feeds": ["W08", "R13"]},
+   "notes": "[SC170] Electrive 2025-12-01: Debrecen produces materials for Samsung SDI's battery plant in Goed. Asiae 2023-12-03: under the 44 trillion won, 2024-2028 contract the 2024 volume is shipped from Pohang and 'from 2025 onwards' Samsung SDI's Hungary plant is supplied locally. SK On share is snippet-only."
+  },
+  {
+   "action": "update",
+   "id": "ecopro-bm-pohang-cam-other-south-korea",
+   "fields": {
+    "offtakers": "Samsung SDI (44 trillion won NCA contract 2024-2028; 2024 volume from Pohang campus); SK On (about 10.1 trillion won high-nickel contract 2024-2026, reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "W08",
+     "R13"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC170] Asiae 2023-12-03: 2024 volume of the Samsung SDI contract 'will be supplied from the Pohang campus'. SK On contract from a search summary (CAM5/CAM5-N plants named there, mapping to the SC asset ids not verified). Receiving Samsung SDI / SK On cell plants not named - unresolved."},
-  {"action": "update", "id": "dynanonic-qujing-lfp-china",
-   "fields": {"offtakers": "CATL (Qujing Linxie JV, 2019 joint venture agreement; CATL prepays purchases); EVE Energy (Dynanonic-EVE Qujing JV)"},
-   "evidence": {"feeds": ["L28"]},
+   "notes": "[SC170] Asiae 2023-12-03: 2024 volume of the Samsung SDI contract 'will be supplied from the Pohang campus'. SK On contract from a search summary (CAM5/CAM5-N plants named there, mapping to the SC asset ids not verified). Receiving Samsung SDI / SK On cell plants not named - unresolved."
+  },
+  {
+   "action": "update",
+   "id": "dynanonic-qujing-lfp-china",
+   "fields": {
+    "offtakers": "CATL (Qujing Linxie JV, 2019 joint venture agreement; CATL prepays purchases); EVE Energy (Dynanonic-EVE Qujing JV)"
+   },
+   "evidence": {
+    "feeds": [
+     "L28"
+    ]
+   },
    "confidence": 0.7,
-   "notes": "[SC170] Dynanonic AR 2025: JV agreement with CATL (12 May 2019) under which CATL prepaid up to RMB 131.5m for purchases from Qujing Linxie; Dynanonic-EVE Qujing JV is a listed subsidiary (AR line 172). Receiving CATL / EVE cell plants not stated - unresolved."},
-  {"action": "update", "id": "hunan-yuneng-xiangtan-china",
-   "fields": {"offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"},
-   "evidence": {"feeds": ["L20"]},
+   "notes": "[SC170] Dynanonic AR 2025: JV agreement with CATL (12 May 2019) under which CATL prepaid up to RMB 131.5m for purchases from Qujing Linxie; Dynanonic-EVE Qujing JV is a listed subsidiary (AR line 172). Receiving CATL / EVE cell plants not stated - unresolved."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-xiangtan-china",
+   "fields": {
+    "offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"
+   },
+   "evidence": {
+    "feeds": [
+     "L20"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC170] Hunan Yuneng AR 2025: customers cover mainstream Chinese power/ESS cell makers incl. CATL, BYD, EVE, Hithium, Envision, REPT, Gotion; the largest customer (CATL) is a >5% shareholder. Base-level split not disclosed; same company-level text applied to all Yuneng operating bases. Unresolved receivers (company only)."},
-  {"action": "update", "id": "hunan-yuneng-guangxi-yuneng-china",
-   "fields": {"offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"},
-   "evidence": {"feeds": ["L20"]},
+   "notes": "[SC170] Hunan Yuneng AR 2025: customers cover mainstream Chinese power/ESS cell makers incl. CATL, BYD, EVE, Hithium, Envision, REPT, Gotion; the largest customer (CATL) is a >5% shareholder. Base-level split not disclosed; same company-level text applied to all Yuneng operating bases. Unresolved receivers (company only)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-guangxi-yuneng-china",
+   "fields": {
+    "offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"
+   },
+   "evidence": {
+    "feeds": [
+     "L20"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."},
-  {"action": "update", "id": "hunan-yuneng-guizhou-fuquan-china",
-   "fields": {"offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"},
-   "evidence": {"feeds": ["L20"]},
+   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-guizhou-fuquan-china",
+   "fields": {
+    "offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"
+   },
+   "evidence": {
+    "feeds": [
+     "L20"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."},
-  {"action": "update", "id": "hunan-yuneng-sichuan-yuneng-china",
-   "fields": {"offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"},
-   "evidence": {"feeds": ["L20"]},
+   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-sichuan-yuneng-china",
+   "fields": {
+    "offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"
+   },
+   "evidence": {
+    "feeds": [
+     "L20"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."},
-  {"action": "update", "id": "hunan-yuneng-yunnan-yuneng-china",
-   "fields": {"offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"},
-   "evidence": {"feeds": ["L20"]},
+   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-yunnan-yuneng-china",
+   "fields": {
+    "offtakers": "CATL (also >5% shareholder), BYD, EVE Energy, Hithium, Envision AESC, REPT, Gotion (company-level customer list)"
+   },
+   "evidence": {
+    "feeds": [
+     "L20"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."},
-  {"action": "update", "id": "longpan-lithium-source-indonesia-indonesia",
-   "fields": {"feeds": "cell:ford-blueoval-battery-park-michigan-blueoval-battery-park-michigan-marshall-united-states,cell:eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia",
-              "offtakers": "BlueOval Battery Park Michigan (LFP supply 2026-2030); Eve Energy Malaysia and affiliates (152 kt LFP 2026-2030); CATL overseas plants (157.5 kt 2026Q2-2031, table lists CATL Indonesia); Sunwoda Thailand (contract listed in table, volumes not stated)"},
-   "evidence": {"feeds": ["L23", "L24", "L25"]},
+   "notes": "[SC170] Company-level customer list, see hunan-yuneng-xiangtan-china."
+  },
+  {
+   "action": "update",
+   "id": "longpan-lithium-source-indonesia-indonesia",
+   "fields": {
+    "feeds": "cell:ford-blueoval-battery-park-michigan-blueoval-battery-park-michigan-marshall-united-states,cell:eve-energy-malaysia-sdn-bhd-eve-energy-malaysia-kulim-kedah-malaysia",
+    "offtakers": "BlueOval Battery Park Michigan (LFP supply 2026-2030); Eve Energy Malaysia and affiliates (152 kt LFP 2026-2030); CATL overseas plants (157.5 kt 2026Q2-2031, table lists CATL Indonesia); Sunwoda Thailand (contract listed in table, volumes not stated)"
+   },
+   "evidence": {
+    "feeds": [
+     "L23",
+     "L24",
+     "L25"
+    ]
+   },
    "confidence": 0.6,
-   "notes": "[SC170] Longpan AR 2025 other-major-contracts: contracts are signed by Lithium Source (Asia-Pacific) (锂源（亚太）) and its affiliates, Longpan's overseas LFP arm; the Indonesia (Semarang) plant is its only overseas LFP site (phase 1 30 kt built, phase 2 90 kt under construction per AR), so the overseas contracts are mapped to this asset (inference: the contract text names the entity, not the plant). Cell receivers resolved: BlueOval Battery Park Michigan (Marshall) and EVE Malaysia (Kulim). CATL (Indonesia) and Sunwoda (Thailand) are named in AR table (lines 1266-1274) but the CATL overseas plant is not in factories_export; Sunwoda Thailand id sunwoda-automotive-energy-thailand-sunwoda-chonburi-cell-plant-thailand exists but its supply is only in a table (no verbatim sentence), so not added to feeds."},
-  {"action": "update", "id": "longpan-jiangsu-lithium-source-jintan-existing-china",
-   "fields": {"offtakers": "Chuneng New Energy (Wuhan/Xiaogan/Yichang plants; total 1.3 Mt LFP 2026-2030: 100 kt 2026, 300 kt/yr 2027-2030); LGES (long-term supply 2024-2028)"},
-   "evidence": {"feeds": ["L26", "L27"]},
+   "notes": "[SC170] Longpan AR 2025 other-major-contracts: contracts are signed by Lithium Source (Asia-Pacific) (锂源（亚太）) and its affiliates, Longpan's overseas LFP arm; the Indonesia (Semarang) plant is its only overseas LFP site (phase 1 30 kt built, phase 2 90 kt under construction per AR), so the overseas contracts are mapped to this asset (inference: the contract text names the entity, not the plant). Cell receivers resolved: BlueOval Battery Park Michigan (Marshall) and EVE Malaysia (Kulim). CATL (Indonesia) and Sunwoda (Thailand) are named in AR table (lines 1266-1274) but the CATL overseas plant is not in factories_export; Sunwoda Thailand id sunwoda-automotive-energy-thailand-sunwoda-chonburi-cell-plant-thailand exists but its supply is only in a table (no verbatim sentence), so not added to feeds."
+  },
+  {
+   "action": "update",
+   "id": "longpan-jiangsu-lithium-source-jintan-existing-china",
+   "fields": {
+    "offtakers": "Chuneng New Energy (Wuhan/Xiaogan/Yichang plants; total 1.3 Mt LFP 2026-2030: 100 kt 2026, 300 kt/yr 2027-2030); LGES (long-term supply 2024-2028)"
+   },
+   "evidence": {
+    "feeds": [
+     "L26",
+     "L27"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC170] Chuneng contract signed by Changzhou Lithium Source (Jintan) and Nanjing Lithium Source; supplementary agreement 2 of 24 Nov 2025 (volume is a framework figure; AR flags related risk notices). LGES contract (2024-2028, quantity only indicative) - the supplying Longpan plant is not stated. Chuneng cell plants are not in the factory list ids checked - unresolved."},
-  {"action": "update", "id": "cngr-ningxiang-pcam-china",
-   "fields": {"offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"},
-   "evidence": {"feeds": ["L22"]},
+   "notes": "[SC170] Chuneng contract signed by Changzhou Lithium Source (Jintan) and Nanjing Lithium Source; supplementary agreement 2 of 24 Nov 2025 (volume is a framework figure; AR flags related risk notices). LGES contract (2024-2028, quantity only indicative) - the supplying Longpan plant is not stated. Chuneng cell plants are not in the factory list ids checked - unresolved."
+  },
+  {
+   "action": "update",
+   "id": "cngr-ningxiang-pcam-china",
+   "fields": {
+    "offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"
+   },
+   "evidence": {
+    "feeds": [
+     "L22"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] CNGR AR 2025 lists these customers company-wide ('stable cooperation relationships'); no base-level or contract-volume split. Unresolved receivers (companies only; CAM-maker plant ids not assigned)."},
-  {"action": "update", "id": "cngr-tongren-pcam-china",
-   "fields": {"offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"},
-   "evidence": {"feeds": ["L22"]},
+   "notes": "[SC170] CNGR AR 2025 lists these customers company-wide ('stable cooperation relationships'); no base-level or contract-volume split. Unresolved receivers (companies only; CAM-maker plant ids not assigned)."
+  },
+  {
+   "action": "update",
+   "id": "cngr-tongren-pcam-china",
+   "fields": {
+    "offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"
+   },
+   "evidence": {
+    "feeds": [
+     "L22"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level list, see cngr-ningxiang-pcam-china."},
-  {"action": "update", "id": "cngr-qinzhou-pcam-china",
-   "fields": {"offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"},
-   "evidence": {"feeds": ["L22"]},
+   "notes": "[SC170] Company-level list, see cngr-ningxiang-pcam-china."
+  },
+  {
+   "action": "update",
+   "id": "cngr-qinzhou-pcam-china",
+   "fields": {
+    "offtakers": "Company-level pCAM/nickel customers: Xiamen Tungsten, Easpring, ECOPRO, BTR, Ronbay, Bamo, L&F, Zhenhua, LG Chem, POSCO; cell makers listed: Samsung SDI, SK On, Panasonic, CATL, BYD, CALB, Sunwoda, SVOLT, Tesla"
+   },
+   "evidence": {
+    "feeds": [
+     "L22"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level list, see cngr-ningxiang-pcam-china."},
-  {"action": "update", "id": "easpring-changzhou-china",
-   "fields": {"offtakers": "LG Energy Solution (long-term supply agreement, ~RMB 1.4bn indicative), SK On (3-year long-term agreement), Samsung SDI, Murata (strategic partners)"},
-   "evidence": {"feeds": ["L21"]},
+   "notes": "[SC170] Company-level list, see cngr-ningxiang-pcam-china."
+  },
+  {
+   "action": "update",
+   "id": "easpring-changzhou-china",
+   "fields": {
+    "offtakers": "LG Energy Solution (long-term supply agreement, ~RMB 1.4bn indicative), SK On (3-year long-term agreement), Samsung SDI, Murata (strategic partners)"
+   },
+   "evidence": {
+    "feeds": [
+     "L21"
+    ]
+   },
    "confidence": 0.55,
-   "notes": "[SC170] Easpring AR 2025: LGES and SK On signed future three-year long-term supply agreements; the contract table shows an LGES contract for high-nickel/mid-nickel NCM CAM (indicative total RMB 1.4bn, no fixed amount). Supplying Easpring plant not stated; applied to Changzhou and Haimen (company-level). Receiving LGES/SK On cell plants unresolved."},
-  {"action": "update", "id": "easpring-haimen-nantong-china",
-   "fields": {"offtakers": "LG Energy Solution (long-term supply agreement, ~RMB 1.4bn indicative), SK On (3-year long-term agreement), Samsung SDI, Murata (strategic partners)"},
-   "evidence": {"feeds": ["L21"]},
+   "notes": "[SC170] Easpring AR 2025: LGES and SK On signed future three-year long-term supply agreements; the contract table shows an LGES contract for high-nickel/mid-nickel NCM CAM (indicative total RMB 1.4bn, no fixed amount). Supplying Easpring plant not stated; applied to Changzhou and Haimen (company-level). Receiving LGES/SK On cell plants unresolved."
+  },
+  {
+   "action": "update",
+   "id": "easpring-haimen-nantong-china",
+   "fields": {
+    "offtakers": "LG Energy Solution (long-term supply agreement, ~RMB 1.4bn indicative), SK On (3-year long-term agreement), Samsung SDI, Murata (strategic partners)"
+   },
+   "evidence": {
+    "feeds": [
+     "L21"
+    ]
+   },
    "confidence": 0.5,
-   "notes": "[SC170] Company-level, see easpring-changzhou-china."},
-  {"action": "update", "id": "umicore-nysa-cathode-poland",
-   "fields": {"offtakers": "ACC (Automotive Cells Company): high-nickel CAM, 13 GWh/yr initial offtake commitment rising to >=46 GWh by 2030 (reported)"},
-   "evidence": {"feeds": ["R18"]},
+   "notes": "[SC170] Company-level, see easpring-changzhou-china."
+  },
+  {
+   "action": "update",
+   "id": "umicore-nysa-cathode-poland",
+   "fields": {
+    "offtakers": "ACC (Automotive Cells Company): high-nickel CAM, 13 GWh/yr initial offtake commitment rising to >=46 GWh by 2030 (reported)"
+   },
+   "evidence": {
+    "feeds": [
+     "R18"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC170] Reported tier (MarketScreener / Umicore news via search summary). ACC receiving plant (Billy-Berclau, Kaiserslautern, Termoli) not specified - unresolved. Umicore-PowerCo (Salzgitter) JV (2022 release: production 'to supply PowerCo's Salzgitter factory', take-or-pay) is not a separate asset id in sc_assets.csv and its JV plant site is not stated in the source - not linked."},
-  {"action": "update", "id": "gem-qmb-hpal-indonesia",
-   "fields": {"feeds": "gem-morowali-pcam-indonesia,gem-qmb-niso4-indonesia",
-              "offtakers": "GEM (captive: Indonesia Qingmei precursor/sulphate plants in the QMB park)"},
-   "evidence": {"feeds": ["R15"]},
+   "notes": "[SC170] Reported tier (MarketScreener / Umicore news via search summary). ACC receiving plant (Billy-Berclau, Kaiserslautern, Termoli) not specified - unresolved. Umicore-PowerCo (Salzgitter) JV (2022 release: production 'to supply PowerCo's Salzgitter factory', take-or-pay) is not a separate asset id in sc_assets.csv and its JV plant site is not stated in the source - not linked."
+  },
+  {
+   "action": "update",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "feeds": "gem-morowali-pcam-indonesia,gem-qmb-niso4-indonesia",
+    "offtakers": "GEM (captive: Indonesia Qingmei precursor/sulphate plants in the QMB park)"
+   },
+   "evidence": {
+    "feeds": [
+     "R15"
+    ]
+   },
    "confidence": 0.45,
-   "notes": "[SC170] Reported tier: a 2023 Asian Metal item says GEM's Indonesian high-nickel precursor plant is tied to MHP from the QMB project (30 kt Ni/yr phase 1). NiSO4 crystal plant link is by co-location in the QMB park (not separately evidenced)."},
-  {"action": "update", "id": "pt-halmahera-persada-lygend-hpal-indonesia",
-   "fields": {"offtakers": "GEM (offtake of MHP, nickel sulphate, cobalt sulphate, Sept 2020; up to 17.9 kt Ni / 2.2 kt Co over 8 years per Yicai); Easpring (nickel/cobalt sulphate, per Wood Mackenzie summary)"},
-   "evidence": {"feeds": ["R14"]},
+   "notes": "[SC170] Reported tier: a 2023 Asian Metal item says GEM's Indonesian high-nickel precursor plant is tied to MHP from the QMB project (30 kt Ni/yr phase 1). NiSO4 crystal plant link is by co-location in the QMB park (not separately evidenced)."
+  },
+  {
+   "action": "update",
+   "id": "pt-halmahera-persada-lygend-hpal-indonesia",
+   "fields": {
+    "offtakers": "GEM (offtake of MHP, nickel sulphate, cobalt sulphate, Sept 2020; up to 17.9 kt Ni / 2.2 kt Co over 8 years per Yicai); Easpring (nickel/cobalt sulphate, per Wood Mackenzie summary)"
+   },
+   "evidence": {
+    "feeds": [
+     "R14"
+    ]
+   },
    "confidence": 0.4,
-   "notes": "[SC170] Reported tier, 2020-21 sources; current customers not confirmed. GEM receiving plant (Jingmen / Wuxi) not stated - unresolved. Lygend (Ningbo Lygend) is the JV partner and also an obvious captive receiver, not evidenced here."}
+   "notes": "[SC170] Reported tier, 2020-21 sources; current customers not confirmed. GEM receiving plant (Jingmen / Wuxi) not stated - unresolved. Lygend (Ningbo Lygend) is the JV partner and also an obvious captive receiver, not evidenced here."
+  }
  ]
 }
