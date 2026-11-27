@@ -63,3 +63,12 @@ Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543,t LCE,group,000
 Zangge,mining,2025,production,lithium carbonate,8808,t LCE,group,000408_2025.txt,47,SC102,zangge
 Jiangte,refining,2025,production,lithium carbonate,13610,t LCE,group,002176_2025.txt,1067-1070,SC102,jiangte
 Huayou,refining,2025,production,lithium products,51728,t LCE,group (lithium products),603799_.txt,820,SC102,huayou
+Tianqi,refining,2025,capacity,lithium chemicals,121600,t LCE,built (12.16万吨; includes Kwinana),002466_2025.txt,709,SC101,tianqi|tlea
+Tianqi,refining,2025,production,lithium compounds,87936,t LCE,group,002466_2025.txt,1862,SC101,tianqi|tlea
+Ganfeng,refining,2025,production,basic lithium chemicals,182419,t LCE,group incl. Cauchari/Mariana,002460_2025.txt,2055,SC101,ganfeng|minera-exar
+Yahua,refining,2025,capacity,lithium salts,130000,t LCE,design (近13万吨),002497_2025.txt,583,SC101,yahua
+Yahua,refining,2025,production,lithium salts,68615,t LCE,group,002497_2025.txt,2054,SC101,yahua
+Sinomine,refining,2025,capacity,lithium salts,65000,t LCE,carbonate/hydroxide (excl. 6 kt LiF),002738_2025.txt,435,SC101,sinomine
+Sinomine,refining,2025,production,lithium salts,37408,t LCE,group,002738_2025.txt,1645,SC101,sinomine
+Shengxin,refining,2025,capacity,lithium salts,137000,t LCE,built (77 kt Sichuan + 60 kt Indonesia),002240_2025.txt,386-400,SC101,shengxin|chengxin
+Shengxin,refining,2025,production,lithium products,77477,t LCE,group,002240_2025.txt,1179,SC101,shengxin|chengxin
