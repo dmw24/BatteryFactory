@@ -1,0 +1,1070 @@
+{
+ "task": "SC160",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S01": {
+   "url": "https://en.wikipedia.org/wiki/Kamoto_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Kamoto mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10°42′53″S 25°23′08″E ... 10.714798°S 25.385542°E"
+  },
+  "S02": {
+   "url": "https://en.wikipedia.org/wiki/Mutanda_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Mutanda mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10°47′09″S 25°48′30″E ... 10.7858°S 25.8082°E"
+  },
+  "S03": {
+   "url": "https://en.wikipedia.org/wiki/Deziwa_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Deziwa mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10°47′36″S 25°46′54″E ... located about 35 km east of Kolwezi in Lualaba Province in the Democratic Republic of the Congo."
+  },
+  "S04": {
+   "url": "https://en.wikipedia.org/wiki/Musonoi_Mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Musonoi Mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10°42′39″S 25°23′56″E"
+  },
+  "S05": {
+   "url": "https://en.wikipedia.org/wiki/Mutoshi_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Mutoshi mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "10°40′40″S 25°32′07″E ... 10.677815°S 25.535316°E"
+  },
+  "S06": {
+   "url": "https://en.wikipedia.org/wiki/Goro_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Goro mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "22°20′10″S 166°54′43″E ... The Goro mine is a large nickel mine in the south of New Caledonia, near the township of Yaté, Prony Bay"
+  },
+  "S07": {
+   "url": "https://en.wikipedia.org/wiki/Ambatovy_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Ambatovy mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "18°50′42″S 48°18′25″E ... The Ambatovy mine is a large open cut lateritic nickel-cobalt mine located in Madagascar"
+  },
+  "S08": {
+   "url": "https://en.wikipedia.org/wiki/Murrin_Murrin,_Western_Australia",
+   "publisher": "Wikipedia (CC BY-SA), article 'Murrin Murrin, Western Australia'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "28°55′S 121°49′E ... Murrin Murrin is an abandoned town in Western Australia located 883 km (549 mi) east of Perth"
+  },
+  "S09": {
+   "url": "https://en.wikipedia.org/wiki/Ramu_Nickel_Mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Ramu Nickel Mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "5°34′7.4″S 145°13′6.8″E ... The Ramu Nickel Mine is a major nickel and cobalt mining operation located in Madang Province, Papua New Guinea."
+  },
+  "S10": {
+   "url": "https://en.wikipedia.org/wiki/Voisey%27s_Bay_Mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Voisey's Bay Mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "56°20′5″N 62°6′11″W ... Voisey's Bay Mine is a nickel mine in Labrador, Canada, near the bay of the same name."
+  },
+  "S11": {
+   "url": "https://en.wikipedia.org/wiki/Kevitsa_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Kevitsa mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "67°41′38″N 26°55′41″E ... The Kevitsa mine is a large nickel-copper mine in the north of Finland in Sodankylä, Lapland."
+  },
+  "S12": {
+   "url": "https://en.wikipedia.org/wiki/Cerro_Matoso_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Cerro Matoso mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "7°54′18″N 75°33′06″W ... The Cerro Matoso mine in northwest of Colombia is one of the largest open-pit ferronickel mines in the world."
+  },
+  "S13": {
+   "url": "https://en.wikipedia.org/wiki/Ravensthorpe_Nickel_Mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Ravensthorpe Nickel Mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "33°38′42″S 120°23′49″E ... The Ravensthorpe Nickel Mine is a nickel mine and hydrometallurgical processing plant located at Bandalup Hill"
+  },
+  "S14": {
+   "url": "https://en.wikipedia.org/wiki/Koniambo_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Koniambo mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "21°00′29″S 164°43′48″E ... The Koniambo mine is a large open pit mine of the laterite variety in the north of New Caledonia in the North Province."
+  },
+  "S15": {
+   "url": "https://en.wikipedia.org/wiki/Eagle_Mine_(Michigan)",
+   "publisher": "Wikipedia (CC BY-SA), article 'Eagle Mine (Michigan)'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "46°44′47″N 87°52′50″W ... The Eagle Mine is a small, high-grade nickel mining and copper mining project owned by Talon Metals."
+  },
+  "S16": {
+   "url": "https://en.wikipedia.org/wiki/Talvivaara_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Talvivaara mine' (former name of the Terrafame mine, Sotkamo)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "63°58′03″N 28°01′04″E ... The Talvivaara mine is one of the largest nickel mines in Finland."
+  },
+  "S17": {
+   "url": "https://www.mineralsgroup.fi/business/terrafame.html",
+   "publisher": "Finnish Minerals Group, 'Terrafame' business page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "all phases of production are carried out on the same industrial site in Sotkamo, Finland."
+  },
+  "S18": {
+   "url": "https://en.wikipedia.org/wiki/Moa,_Cuba",
+   "publisher": "Wikipedia (CC BY-SA), article 'Moa, Cuba'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "20°38′23″N 74°55′3″W ... This industry is what makes Moa a leading nickel producer"
+  },
+  "S19": {
+   "url": "https://en.wikipedia.org/wiki/Long_Harbour-Mount_Arlington_Heights",
+   "publisher": "Wikipedia (CC BY-SA), article 'Long Harbour-Mount Arlington Heights'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "47°25′46″N 53°51′30″W ... The town is the site of the Long Harbour Nickel Processing Plant."
+  },
+  "S20": {
+   "url": "https://en.wikipedia.org/wiki/Thompson,_Manitoba",
+   "publisher": "Wikipedia (CC BY-SA), article 'Thompson, Manitoba'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "55°44′36″N 97°51′19″W ... Vale Limited is the owner and operator of Thompson's mining operations"
+  },
+  "S21": {
+   "url": "https://en.wikipedia.org/wiki/Norilsk",
+   "publisher": "Wikipedia (CC BY-SA), article 'Norilsk'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "69°20′N 88°13′E ... Norilsk is a center of non-ferrous metallurgy and is home to mining giant Norilsk Nickel's mining operations."
+  },
+  "S22": {
+   "url": "https://en.wikipedia.org/wiki/Idaho_Cobalt_Operations",
+   "publisher": "Wikipedia (CC BY-SA), article 'Idaho Cobalt Operations'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "45°08′21″N 114°21′07″W ... Idaho Cobalt Operations (ICO) is a cobalt mine located in Lemhi County, Idaho, United States, near the town of Salmon."
+  },
+  "S23": {
+   "url": "https://en.wikipedia.org/wiki/Copper_Cliff",
+   "publisher": "Wikipedia (CC BY-SA), article 'Copper Cliff' (Ontario)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "46°28′23″N 81°04′10″W ... later known as Inco, which was incorporated in Copper Cliff in 1916."
+  },
+  "S24": {
+   "url": "https://en.wikipedia.org/wiki/Fort_Saskatchewan",
+   "publisher": "Wikipedia (CC BY-SA), article 'Fort Saskatchewan'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "53°42′46″N 113°12′48″W ... Sherritt Gordon Mines started construction on a $25-million nickel refinery in 1952, which started production in 1954."
+  },
+  "S25": {
+   "url": "https://en.wikipedia.org/wiki/Harjavalta",
+   "publisher": "Wikipedia (CC BY-SA), article 'Harjavalta'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "61°19′0″N 22°08′1″E ... Harjavalta is a centre for copper and nickel smelting industries."
+  },
+  "S26": {
+   "url": "https://en.wikipedia.org/wiki/Drenas",
+   "publisher": "Wikipedia (CC BY-SA), article 'Drenas'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "42°37′25″N 20°53′38″E ... Ferronikeli mine and smelter operation provided jobs for more than 2,000 people at the peak of its production in 1988."
+  },
+  "S27": {
+   "url": "https://en.wikipedia.org/wiki/Noum%C3%A9a",
+   "publisher": "Wikipedia (CC BY-SA), article 'Nouméa'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "22°16′33″S 166°27′29″E ... Doniambo, Montagne coupée, Montravel, and Vallée du tir"
+  },
+  "S28": {
+   "url": "https://en.wikipedia.org/wiki/Claver,_Surigao_del_Norte",
+   "publisher": "Wikipedia (CC BY-SA), article 'Claver, Surigao del Norte'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "9°34′27″N 125°43′58″E ... loading port at Taganito"
+  },
+  "S29": {
+   "url": "https://en.wikipedia.org/wiki/Yangquan",
+   "publisher": "Wikipedia (CC BY-SA), article 'Yangquan'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "37°51′26″N 113°34′49″E ... is a prefecture-level city in the east of Shanxi province, China"
+  },
+  "S30": {
+   "url": "https://en.wikipedia.org/wiki/S%C3%B3sk%C3%BAt",
+   "publisher": "Wikipedia (CC BY-SA), article 'Sóskút'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "47°24′23″N 18°49′43″E ... Sóskút is a village in Pest County, Hungary."
+  },
+  "S31": {
+   "url": "https://en.wikipedia.org/wiki/Nyerges%C3%BAjfalu",
+   "publisher": "Wikipedia (CC BY-SA), article 'Nyergesújfalu'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "47°45′24″N 18°32′56″E ... Nyergesújfalu (German: Neudorf; Latin: Crumerum) is a town in Komárom-Esztergom County, Hungary"
+  },
+  "S32": {
+   "url": "https://en.wikipedia.org/wiki/Tengzhou",
+   "publisher": "Wikipedia (CC BY-SA), article 'Tengzhou'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "35°05′N 117°09′E"
+  },
+  "S33": {
+   "url": "https://en.wikipedia.org/wiki/Longyan",
+   "publisher": "Wikipedia (CC BY-SA), article 'Longyan'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "25°04′34″N 117°01′01″E ... Prefecture-level city in south-western Fujian Province, China"
+  },
+  "S34": {
+   "url": "https://en.wikipedia.org/wiki/Mbombela",
+   "publisher": "Wikipedia (CC BY-SA), article 'Mbombela'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "25°27′57″S 30°59′07″E ... Mbombela, formerly Nelspruit, is a city in northeastern South Africa."
+  },
+  "S35": {
+   "url": "https://en.wikipedia.org/wiki/Saint-Ghislain",
+   "publisher": "Wikipedia (CC BY-SA), article 'Saint-Ghislain'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "50°27′N 03°49′E"
+  },
+  "S36": {
+   "url": "https://en.wikipedia.org/wiki/El_Estor",
+   "publisher": "Wikipedia (CC BY-SA), article 'El Estor'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "15°32′0″N 89°21′0″W ... in favor of the economic interests of Izabal Mining Operations Company (EXMIBAL) in El Estor"
+  },
+  "S37": {
+   "url": "https://en.wikipedia.org/wiki/Hotazel",
+   "publisher": "Wikipedia (CC BY-SA), article 'Hotazel'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "27°12′S 22°57′E ... The town serves the manganese mines"
+  },
+  "S38": {
+   "url": "https://en.wikipedia.org/wiki/Etoile_mine",
+   "publisher": "Wikipedia (CC BY-SA), article 'Etoile mine'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "11°37′56″S 27°34′49″E ... an open-pit copper mine on the outskirts of Lubumbashi"
+  },
+  "S39": {
+   "url": "https://en.wikipedia.org/wiki/Eskilstuna",
+   "publisher": "Wikipedia (CC BY-SA), article 'Eskilstuna'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "59°22′15″N 16°30′35″E"
+  },
+  "S40": {
+   "url": "https://www.nordicpropertynews.com/article/5384/nyfosa-signs-lease-with-chinese-company",
+   "publisher": "Nordic Property News, 'Nyfosa signs lease with Chinese company'",
+   "published": "2021-03-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has signed a 12-year lease for the Grönsta 2:52 property in the Svista industrial park of Eskilstuna, Sweden"
+  },
+  "S41": {
+   "url": "https://en.wikipedia.org/wiki/Debrecen",
+   "publisher": "Wikipedia (CC BY-SA), article 'Debrecen'",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "47°31′54″N 21°37′28″E"
+  },
+  "S42": {
+   "url": "https://batteriesnews.com/semcorp-opens-first-li-ion-production-unit-in-hungary",
+   "publisher": "BatteriesNews, 'SEMCORP opens first Li-ion production unit in Hungary'",
+   "published": "2020-12-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "will establish its first outside-of-China Li-ion production unit in the Debrecen South Industrial Park in Hungary.",
+   "tier": "reported",
+   "snippet": "will establish its first outside-of-China Li-ion production unit in the Debrecen South Industrial Park in Hungary.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "glencore-kcc-cobalt-drc",
+   "fields": {
+    "latitude": -10.714798,
+    "longitude": 25.385542,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S01"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Kamoto mine' infobox coordinates (decimal as printed: 10.714798°S 25.385542°E; S negative). Kamoto underground mine is the KCC core site; KCC also operates other pits/concentrators nearby (Kolwezi area), so the point is the Kamoto mine, not every KCC facility."
+  },
+  {
+   "action": "update",
+   "id": "glencore-mutanda-cobalt-drc",
+   "fields": {
+    "latitude": -10.7858,
+    "longitude": 25.8082,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S02"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Mutanda mine' coordinates (decimal as printed 10.7858°S 25.8082°E; S negative)."
+  },
+  {
+   "action": "update",
+   "id": "cnmc-deziwa-drc",
+   "fields": {
+    "latitude": -10.793456,
+    "longitude": 25.781658,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S03"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Deziwa mine' coordinates; decimal as printed 10.79345565555149°S 25.7816583969706°E rounded to 6 dp, S negative. Article places the mine about 35 km east of Kolwezi."
+  },
+  {
+   "action": "update",
+   "id": "jinchuan-musonoi-drc",
+   "fields": {
+    "latitude": -10.710876,
+    "longitude": 25.399017,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S04"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Musonoi Mine' coordinates (decimal as printed 10.710876°S 25.399017°E; S negative). The article does not mention Jinchuan/COMMUS; match rests on the mine name Musonoi (row asset_name 'Musonoi (COMMUS)'). Not to be confused with zijin-musonoi-kolwezi-drc, a different Kolwezi row."
+  },
+  {
+   "action": "update",
+   "id": "chemaf-mutoshi-drc",
+   "fields": {
+    "latitude": -10.677815,
+    "longitude": 25.535316,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S05"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Mutoshi mine' coordinates (decimal as printed 10.677815°S 25.535316°E; S negative); the article says Chemaf took over the mine in 2016."
+  },
+  {
+   "action": "update",
+   "id": "glencore-murrin-murrin-cobalt-australia",
+   "fields": {
+    "latitude": -28.92,
+    "longitude": 121.82,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S08"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Murrin Murrin, Western Australia' gives the coordinates of the (abandoned) Murrin Murrin townsite (28°55′S 121°49′E = -28.92, 121.82 as printed). The article says the Murrin Murrin mine is a separate operation about 20 km NW of the townsite, so precision is 'town' (approximate, ~20 km), not site."
+  },
+  {
+   "action": "update",
+   "id": "glencore-murrin-murrin-nickel-australia",
+   "fields": {
+    "latitude": -28.92,
+    "longitude": 121.82,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S08"
+    ]
+   },
+   "notes": "[SC160] Same as glencore-murrin-murrin-cobalt-australia: coordinates of the Murrin Murrin townsite (Wikipedia); the mine/plant lie about 20 km NW of it (per the article). Precision 'town'."
+  },
+  {
+   "action": "update",
+   "id": "mcc-ramu-nico-png",
+   "fields": {
+    "latitude": -5.568722,
+    "longitude": 145.218556,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S09"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Ramu Nickel Mine' coordinates (5°34′7.4″S 145°13′6.8″E; decimal as printed 5.568722°S 145.218556°E, S negative). Page does not say whether the point is the pit or the plant; the HPAL/refinery is at Basamuk Bay on the coast (~135 km slurry pipeline), so this is the Kurumbukari mine area point for a mine+HPAL row."
+  },
+  {
+   "action": "update",
+   "id": "mcc-ramu-nico-nickel-png",
+   "fields": {
+    "latitude": -5.568722,
+    "longitude": 145.218556,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S09"
+    ]
+   },
+   "notes": "[SC160] Same point as mcc-ramu-nico-png (Wikipedia 'Ramu Nickel Mine'); mine area, not the Basamuk Bay plant."
+  },
+  {
+   "action": "update",
+   "id": "prony-resources-goro-new-caledonia",
+   "fields": {
+    "latitude": -22.336,
+    "longitude": 166.912,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S06"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Goro mine' coordinates (22°20′10″S 166°54′43″E; decimal as printed 22.336°S 166.912°E, S negative); near Yaté, Prony Bay, South Province."
+  },
+  {
+   "action": "update",
+   "id": "prony-resources-goro-nickel-new-caledonia",
+   "fields": {
+    "latitude": -22.336,
+    "longitude": 166.912,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S06"
+    ]
+   },
+   "notes": "[SC160] Same as prony-resources-goro-new-caledonia (Wikipedia 'Goro mine')."
+  },
+  {
+   "action": "update",
+   "id": "ambatovy-cobalt-madagascar",
+   "fields": {
+    "latitude": -18.845,
+    "longitude": 48.307,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S07"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Ambatovy mine' coordinates (18°50′42″S 48°18′25″E; decimal as printed 18.845°S 48.307°E, S negative). This is the MINE point (Moramanga area); the row is mine+HPAL+refinery and the processing plant is at Toamasina (~200 km by slurry pipeline), so the point is the mine only."
+  },
+  {
+   "action": "update",
+   "id": "ambatovy-minerals-ambatovy-nickel-madagascar",
+   "fields": {
+    "latitude": -18.845,
+    "longitude": 48.307,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S07"
+    ]
+   },
+   "notes": "[SC160] Same as ambatovy-cobalt-madagascar: mine point only; the refinery is at Toamasina."
+  },
+  {
+   "action": "update",
+   "id": "sherritt-moa-jv-cuba",
+   "fields": {
+    "latitude": 20.63972,
+    "longitude": -74.9175,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Moa, Cuba' town coordinates (20°38′23″N 74°55′3″W; decimal as printed 20.63972°N 74.91750°W, W negative). Moa JV mine and plant are in the Moa area; the point is the town centre, not the plant."
+  },
+  {
+   "action": "update",
+   "id": "moa-jv-moa-nickel-cuba",
+   "fields": {
+    "latitude": 20.63972,
+    "longitude": -74.9175,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S18"
+    ]
+   },
+   "notes": "[SC160] Same as sherritt-moa-jv-cuba: Moa town centre (Wikipedia)."
+  },
+  {
+   "action": "update",
+   "id": "vale-voiseys-bay-cobalt-canada",
+   "fields": {
+    "latitude": 56.33472,
+    "longitude": -62.10306,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Voisey's Bay Mine' coordinates (56°20′5″N 62°6′11″W; decimal as printed 56.33472°N 62.10306°W, W negative)."
+  },
+  {
+   "action": "update",
+   "id": "vale-voiseys-bay-nickel-canada",
+   "fields": {
+    "latitude": 56.33472,
+    "longitude": -62.10306,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S10"
+    ]
+   },
+   "notes": "[SC160] Same as vale-voiseys-bay-cobalt-canada (Wikipedia 'Voisey's Bay Mine')."
+  },
+  {
+   "action": "update",
+   "id": "boliden-kevitsa-nickel-finland",
+   "fields": {
+    "latitude": 67.693992,
+    "longitude": 26.928048,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S11"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Kevitsa mine' coordinates (67°41′38″N 26°55′41″E; decimal as printed 67.693992°N 26.928048°E)."
+  },
+  {
+   "action": "update",
+   "id": "corex-cerro-matoso-nickel-colombia",
+   "fields": {
+    "latitude": 7.9049,
+    "longitude": -75.5516,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S12"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Cerro Matoso mine' coordinates (7°54′18″N 75°33′06″W; decimal as printed 7.9049°N 75.5516°W, W negative)."
+  },
+  {
+   "action": "update",
+   "id": "first-quantum-ravensthorpe-nickel-australia",
+   "fields": {
+    "latitude": -33.645,
+    "longitude": 120.397,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S13"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Ravensthorpe Nickel Mine' coordinates (33°38′42″S 120°23′49″E; decimal as printed -33.645, 120.397); article describes the mine and hydrometallurgical plant at Bandalup Hill."
+  },
+  {
+   "action": "update",
+   "id": "glencore-koniambo-nickel-new-caledonia",
+   "fields": {
+    "latitude": -21.008,
+    "longitude": 164.73,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S14"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Koniambo mine' coordinates (21°00′29″S 164°43′48″E; decimal as printed 21.008°S 164.73°E, S negative). This is the mine (Koniambo massif); the KNS smelter is a separate site on the coast (Vavouto), so the point is the mine only."
+  },
+  {
+   "action": "update",
+   "id": "talon-metals-eagle-mine-united-states",
+   "fields": {
+    "latitude": 46.74639,
+    "longitude": -87.88056,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S15"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Eagle Mine (Michigan)' coordinates (46°44′47″N 87°52′50″W; decimal as printed 46.74639°N 87.88056°W, W negative)."
+  },
+  {
+   "action": "update",
+   "id": "terrafame-sotkamo-nickel-mine-finland",
+   "fields": {
+    "latitude": 63.9674,
+    "longitude": 28.0179,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S16"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Talvivaara mine' (the Terrafame mine, Sotkamo) coordinates 63°58′03″N 28°01′04″E, decimal as printed 63.9674°N 28.0179°E."
+  },
+  {
+   "action": "update",
+   "id": "terrafame-sotkamo-battery-chemicals-finland",
+   "fields": {
+    "latitude": 63.9674,
+    "longitude": 28.0179,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S16",
+     "S17"
+    ]
+   },
+   "notes": "[SC160] Terrafame states 'all phases of production are carried out on the same industrial site in Sotkamo' (S17, Finnish Minerals Group page, undated); the battery chemicals plant is therefore on the Terrafame/Talvivaara industrial site, whose mine coordinates are from Wikipedia (S16). The point is the mine/site reference point; the plant itself may lie up to a few km away within the site."
+  },
+  {
+   "action": "update",
+   "id": "vale-long-harbour-nickel-canada",
+   "fields": {
+    "latitude": 47.42944,
+    "longitude": -53.85833,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S19"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Long Harbour-Mount Arlington Heights': 'The town is the site of the Long Harbour Nickel Processing Plant.' Town coordinates 47°25′46″N 53°51′30″W (decimal 47.42944, -53.85833, W negative); not the plant's own point."
+  },
+  {
+   "action": "update",
+   "id": "vale-thompson-nickel-canada",
+   "fields": {
+    "latitude": 55.74333,
+    "longitude": -97.85528,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S20"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Thompson, Manitoba' town coordinates (55°44′36″N 97°51′19″W; decimal 55.74333, -97.85528, W negative); the article says Vale owns/operates Thompson's mining operations. Town centre, not the individual mines/mill."
+  },
+  {
+   "action": "update",
+   "id": "nornickel-polar-division-norilsk-russia",
+   "fields": {
+    "latitude": 69.333,
+    "longitude": 88.217,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S21"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Norilsk' city coordinates (69°20′N 88°13′E; decimal as printed 69.333°N 88.217°E). The Polar Division mines (Talnakh, Oktyabrsky etc.) lie in the Norilsk-Talnakh area; the point is the city, an aggregate of several mines and not a single site."
+  },
+  {
+   "action": "update",
+   "id": "jervois-idaho-cobalt-operations-usa",
+   "fields": {
+    "latitude": 45.13917,
+    "longitude": -114.35194,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S22"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Idaho Cobalt Operations' coordinates (45°08′21″N 114°21′07″W; decimal as printed 45.13917°N 114.35194°W, W negative); article: ICO is in Lemhi County, Idaho, near Salmon."
+  },
+  {
+   "action": "update",
+   "id": "vale-sudbury-mines-and-smelter-nickel-canada",
+   "fields": {
+    "latitude": 46.47306,
+    "longitude": -81.06944,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S23"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Copper Cliff' (Ontario) town coordinates (46°28′23″N 81°04′10″W; decimal 46.47306, -81.06944, W negative). Copper Cliff is the historic Inco (now Vale) smelter/mill town in the Sudbury basin; the article names Inco, not Vale, and does not name the mines. The row aggregates several Sudbury mines, mill and smelter; the point is the Copper Cliff smelter-town only."
+  },
+  {
+   "action": "update",
+   "id": "sherritt-fort-saskatchewan-refinery-canada",
+   "fields": {
+    "latitude": 53.71278,
+    "longitude": -113.21333,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S24"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Fort Saskatchewan': Sherritt Gordon began a nickel refinery there in 1952 (production 1954). Town coordinates 53°42′46″N 113°12′48″W (decimal 53.71278, -113.21333, W negative); refinery's own point not given."
+  },
+  {
+   "action": "update",
+   "id": "sherritt-fort-saskatchewan-nickel-canada",
+   "fields": {
+    "latitude": 53.71278,
+    "longitude": -113.21333,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S24"
+    ]
+   },
+   "notes": "[SC160] Same as sherritt-fort-saskatchewan-refinery-canada (Fort Saskatchewan town centre)."
+  },
+  {
+   "action": "update",
+   "id": "boliden-harjavalta-smelter-nickel-finland",
+   "fields": {
+    "latitude": 61.31667,
+    "longitude": 22.13361,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S25"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Harjavalta' town coordinates (61°19′0″N 22°08′1″E; decimal 61.31667, 22.13361); article: 'a centre for copper and nickel smelting industries'. Town centre, not the smelter's own point."
+  },
+  {
+   "action": "update",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {
+    "latitude": 61.31667,
+    "longitude": 22.13361,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S25"
+    ]
+   },
+   "notes": "[SC160] Same as boliden-harjavalta-smelter-nickel-finland: Harjavalta town centre (Wikipedia); the Nornickel refinery is in the Harjavalta industrial area."
+  },
+  {
+   "action": "update",
+   "id": "newco-ferronikeli-drenas-kosovo",
+   "fields": {
+    "latitude": 42.62361,
+    "longitude": 20.89389,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S26"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Drenas' town coordinates (42°37′25″N 20°53′38″E; decimal 42.62361, 20.89389); article describes the Ferronikeli mine and smelter operation in Drenas (Glogovac). Town centre, not the smelter point."
+  },
+  {
+   "action": "update",
+   "id": "sln-doniambo-ferronickel-new-caledonia",
+   "fields": {
+    "latitude": -22.2758,
+    "longitude": 166.458,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S27"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Nouméa' city coordinates (22°16′33″S 166°27′29″E; decimal as printed 22.2758°S 166.4580°E, S negative). The article lists Doniambo among Nouméa's districts; the SLN smelter is at Doniambo, so the point is the city centroid only (smelter is a few km away). The row also covers SLN mines elsewhere on the island."
+  },
+  {
+   "action": "update",
+   "id": "smm-taganito-hpal-nickel-philippines",
+   "fields": {
+    "latitude": 9.5742,
+    "longitude": 125.7328,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S28"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Claver, Surigao del Norte' municipality coordinates (9°34′27″N 125°43′58″E; decimal 9.5742, 125.7328). Taganito is a locality in Claver per the article (it mentions the loading port at Taganito); the article does not mention the THPAL plant. Low-precision municipality point; plant location rests on the plant's name (Taganito) and general knowledge, not on the quoted page."
+  },
+  {
+   "action": "update",
+   "id": "huayang-yangquan-sodium-cathode-china",
+   "fields": {
+    "latitude": 37.8571,
+    "longitude": 113.5804,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S29"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Yangquan' city coordinates (37°51′26″N 113°34′49″E; decimal as printed 37.8571°N 113.5804°E). Locality taken from the row id/operator (Huayang Shares, Yangquan Coal group, Shanxi); city centroid only, plant site not given."
+  },
+  {
+   "action": "update",
+   "id": "dongwha-electrolyte-soskut-hungary",
+   "fields": {
+    "latitude": 47.40626,
+    "longitude": 18.82849,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S30"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Sóskút' village coordinates (47°24′23″N 18°49′43″E; decimal as printed 47.40626; 18.82849). Locality named in the row asset_name; village point, not the plant."
+  },
+  {
+   "action": "update",
+   "id": "toray-industries-hungary-nyergesujfalu-hungary",
+   "fields": {
+    "latitude": 47.75678,
+    "longitude": 18.54875,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S31"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Nyergesújfalu' town coordinates (47°45′24″N 18°32′56″E; decimal 47.75678, 18.54875). Locality named in the row asset_name; the article does not mention Toray. Town point, not the plant."
+  },
+  {
+   "action": "update",
+   "id": "sinoma-lithium-film-tengzhou-china",
+   "fields": {
+    "latitude": 35.083,
+    "longitude": 117.15,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S32"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Tengzhou' county-level city coordinates (35°05′N 117°09′E; decimal as printed 35.083°N 117.150°E). Locality named in the row asset_name ('Tengzhou base'); city centroid only."
+  },
+  {
+   "action": "update",
+   "id": "fujian-dexiang-longyan-hpmsm-china",
+   "fields": {
+    "latitude": 25.076,
+    "longitude": 117.017,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S33"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Longyan' prefecture-level city coordinates (25°04′34″N 117°01′01″E; decimal as printed 25.076°N 117.017°E). Locality named in the row asset_name; city centroid only (prefecture-level city covers a large area)."
+  },
+  {
+   "action": "update",
+   "id": "mintek-metals-company-mbombela-hpmsm-south-africa",
+   "fields": {
+    "latitude": -25.46583,
+    "longitude": 30.98528,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S34"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Mbombela' (formerly Nelspruit) coordinates (25°27′57″S 30°59′07″E; decimal 25.46583°S 30.98528°E, S negative). Locality named in the row asset_name; city centroid only."
+  },
+  {
+   "action": "update",
+   "id": "vibrantz-saint-ghislain-hpmsm-belgium",
+   "fields": {
+    "latitude": 50.45,
+    "longitude": 3.817,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S35"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Saint-Ghislain' coordinates (50°27′N 03°49′E; decimal as printed 50.450°N 3.817°E). Locality named in the row asset_name; municipality point only."
+  },
+  {
+   "action": "update",
+   "id": "solway-fenix-pronico-cgn-guatemala",
+   "fields": {
+    "latitude": 15.53333,
+    "longitude": -89.35,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S36"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'El Estor' town coordinates (15°32′0″N 89°21′0″W; decimal 15.53333°N 89.35000°W, W negative). El Estor is named in the row asset_name; the article mentions the EXMIBAL nickel operation in El Estor but not Fenix/CGN/PRONICO. Town point only; the CGN mine and PRONICO plant are in the El Estor area."
+  },
+  {
+   "action": "update",
+   "id": "hotazel-manganese-mines-mamatwan-wessels-south-africa",
+   "fields": {
+    "latitude": -27.2,
+    "longitude": 22.95,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S37"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Hotazel' town coordinates (27°12′S 22°57′E; decimal as printed 27.200°S 22.950°E, S negative); article: 'The town serves the manganese mines'. Mamatwan and Wessels lie within a few km of the town; the point is the town only."
+  },
+  {
+   "action": "update",
+   "id": "chemaf-etoile-drc",
+   "fields": {
+    "latitude": -11.632134,
+    "longitude": 27.580168,
+    "geo_precision": "site"
+   },
+   "evidence": {
+    "latitude": [
+     "S38"
+    ]
+   },
+   "notes": "[SC160] Wikipedia 'Etoile mine' coordinates (11°37′56″S 27°34′49″E; decimal as printed 11.632134°S 27.580168°E, S negative); an open-pit copper mine on the outskirts of Lubumbashi; the article says Chemaf holds the licence."
+  },
+  {
+   "action": "update",
+   "id": "senior-sweden-sweden",
+   "fields": {
+    "latitude": 59.37083,
+    "longitude": 16.50972,
+    "geo_precision": "town"
+   },
+   "evidence": {
+    "latitude": [
+     "S39",
+     "S40"
+    ]
+   },
+   "notes": "[SC160] Senior Technology Material signed a lease for the Grönsta 2:52 property in the Svista industrial park, Eskilstuna (S40, Nordic Property News, 2021-03-26). Point is Eskilstuna city centre from Wikipedia (59°22′15″N 16°30′35″E; decimal 59.37083°N 16.50972°E) - not the Svista site."
+  },
+  {
+   "action": "update",
+   "id": "semcorp-hungary-hungary",
+   "fields": {
+    "latitude": 47.53167,
+    "longitude": 21.62444,
+    "geo_precision": "city"
+   },
+   "evidence": {
+    "latitude": [
+     "S41",
+     "S42"
+    ]
+   },
+   "notes": "[SC160] SEMCORP's first outside-China unit is in the Debrecen South Industrial Park, Hungary (S42, BatteriesNews, 2020-12-23). Point is Debrecen city centre from Wikipedia (47°31′54″N 21°37′28″E; decimal 47.53167, 21.62444) - not the industrial park."
+  }
+ ]
+}

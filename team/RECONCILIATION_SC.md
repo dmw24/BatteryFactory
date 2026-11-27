@@ -14,7 +14,7 @@ Assets: 885 — by step and status (never summed across statuses):
 | refining | 174 | 24 | 27 | 48 |
 | separator | 34 | 8 | 2 | 1 |
 
-Evidence: 741 rows confirmed, 144 reported-tier; 449 with coordinates; mean confidence 0.53.
+Evidence: 741 rows confirmed, 144 reported-tier; 497 with coordinates; mean confidence 0.53.
 
 ## Mining — 2025 production vs USGS MCS 2026 (operational assets; company-level output not tied to a site shown separately)
 
