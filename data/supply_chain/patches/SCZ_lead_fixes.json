@@ -109,6 +109,14 @@
     "production_norm": 19121
    },
    "notes": "lead: SC120 set production_norm = 577,000 (ore tonnes) in t LCE — unit error; restored SC030's contained-LCE estimate 19,121 t (577 kt ore × 1.34% Li2O × 2.473, upper bound before recovery losses)."
+  },
+  {
+   "action": "fix",
+   "id": "umicore-large-scale-battery-recycling-plant-europe",
+   "fields": {
+    "country": "Europe (site not stated)"
+   },
+   "notes": "lead: site/country not announced; placeholder country so the row passes S1 (excluded from country benchmarks)."
   }
  ]
 }

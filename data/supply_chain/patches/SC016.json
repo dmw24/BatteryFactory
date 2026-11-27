@@ -1,0 +1,626 @@
+{
+ "task": "SC016",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.bjnews.com.cn/detail/1786783360129868.html",
+   "publisher": "Beijing News (新京报), 'Hegang to build Asia's largest graphite new-materials base' feature",
+   "published": "2026-08-15",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "已建成全球产能规模最大的年产600万吨矿石绿色低碳智能石墨矿山、单体产能最大的年产20万吨精粉的石墨选厂，以及年产5万吨球形石墨、5万吨高纯石墨项目"
+  },
+  "S2": {
+   "url": "https://www.stdaily.com/web/gdxw/2025-08/25/content_390077.html",
+   "publisher": "Science and Technology Daily (科技日报)",
+   "published": "2025-08-25",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "五矿石墨用5年时间，建成全球产能规模最大的年产600万吨绿色低碳智能石墨矿山、年产28万吨石墨选厂、年产10万吨球形石墨和8万吨高纯石墨生产线。"
+  },
+  "S3": {
+   "url": "https://www.chinadaily.com.cn/a/202409/04/WS66d7fc1ca3108f29c1fca19b.html",
+   "publisher": "China Daily, 'Chinese researchers develop ultra-high purity graphite products'",
+   "published": "2024-09-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company owns one of the largest graphite mine across the world - Yunshan Graphite Mine in Hegang, ... which has an annual production capacity of 200,000 metric tons"
+  },
+  "S4": {
+   "url": "https://www.stdaily.com/web/English/2026-05/13/content_515342.html",
+   "publisher": "Science and Technology Daily English channel, 'Intelligent Mining Sparks Hegang Revival'",
+   "published": "2026-05-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with an annual capacity of six million tonnes ... Currently, the Yunshan Graphite Mine has reserves exceeding 1.5 billion tonnes."
+  },
+  "S5": {
+   "url": "https://www.itiger.com/news/1111611177",
+   "publisher": "Tiger Brokers news page (English, 'Heilongjiang's Luobei County Designated as China's Graphite City')",
+   "published": "2025-09-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "actively promoting the second phase of China Minmetals' 12-million-ton annual green and intelligent graphite mining project"
+  },
+  "S6": {
+   "url": "https://www.jixi.gov.cn/jixi/c100075/202506/333745/files/鸡西市金宇石墨有限公司矿山地质环境保护与土地复垦方案.pdf",
+   "publisher": "Jixi City government website: Jixi Jinyu Graphite Co. mine geological environment protection and land reclamation plan (public-notice version, dated May 2025)",
+   "published": "2025-05-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "开采矿种：石墨 开采方式：露天开采 生产规模：3.5 万吨/年 ... 有效期限：2021年4月6日～ 2034年4月6日（十三年）"
+  },
+  "S7": {
+   "url": "https://www.jixi.gov.cn/jixi/c100075/202506/333745/files/鸡西市金宇石墨有限公司矿山地质环境保护与土地复垦方案.pdf",
+   "publisher": "Jixi City government website: Jixi Jinyu Graphite Co. reclamation plan, section on implementation (page 9)",
+   "published": "2025-05-31",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "矿山处于生产过程中，未进行矿山地质环境保护与土地复垦工作"
+  },
+  "S8": {
+   "url": "https://stock.10jqka.com.cn/20251209/c673082976.shtml",
+   "publisher": "10jqka (Tonghuashun) news item on Longjiang Transportation (601188) announcement",
+   "published": "2025-12-09",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "公司控股子公司黑龙江省龙创新材料技术有限责任公司拟投资 ... 年处理200万吨石墨矿采选联合项目 ... 年产鳞片石墨21.6万吨 ... 拟投资26.79亿元"
+  },
+  "S9": {
+   "url": "https://news.metal.com/newscontent/103330789/cnbm-heilongjiang-graphite-launches-100000-mt-green-and-intelligent-graphite-concentrate-demonstration-line-project",
+   "publisher": "SMM (Shanghai Metals Market) news, CNBM Heilongjiang Graphite 100,000 mt concentrate demonstration line",
+   "published": "2025-05-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the annual capacity of graphite concentrate at Heilongjiang Graphite Company will reach 150,000 mt ... is 346 million yuan"
+  },
+  "S10": {
+   "url": "https://www.fastmarkets.com/insights/industry-integration-to-be-the-new-trend-for-china-graphite-firms",
+   "publisher": "Fastmarkets, 'Industry integration to be the new trend for China graphite firms' (S. Pan)",
+   "published": "2023-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CNBM Heilongjiang Graphite New Materials, a major flake graphite producer with a current capacity of 80,000 tonnes per year"
+  },
+  "S11": {
+   "url": "https://www.fastmarkets.com/insights/industry-integration-to-be-the-new-trend-for-china-graphite-firms",
+   "publisher": "Fastmarkets, 'Industry integration to be the new trend for China graphite firms' (S. Pan)",
+   "published": "2023-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Qingdao Luowei New Materials has capacity of 50,000 tpy for spheroidization and 250,000 tpy for purification"
+  },
+  "S12": {
+   "url": "https://www.mee.gov.cn/ywgz/zysthjbhdc/dcjl/202112/t20211216_964308.shtml",
+   "publisher": "China Ministry of Ecology and Environment (central environmental inspection bulletin on Luobei graphite park)",
+   "published": "2021-12-16",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "2020年，全县生产石墨精粉38万吨、球形石墨9.8万吨。"
+  },
+  "S13": {
+   "url": "https://www.fastmarkets.com/insights/natural-graphite-under-pressure-from-synthetics-amid-oversupply-slow-trade-flows/",
+   "publisher": "Fastmarkets, 'Natural graphite under pressure from synthetics, amid oversupply, slow trade flows' (S. Pan)",
+   "published": "2024-04-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "China's total flake graphite capacity was up by 0.6 million tonnes to 1.8 million tonnes in 2023 ... with Heilongjiang province accounting for 92% of that total"
+  },
+  "S14": {
+   "url": "https://jixi.gov.cn/jixi/c100080/202605/362273/files/鸡环审〔2026〕21号.doc",
+   "publisher": "Jixi Ecology and Environment Bureau EIA approval 鸡环审〔2026〕21号 (CNBM Heilongjiang Graphite New Materials phase 2/3 expansion)",
+   "published": "2026-05-07",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "项目建成后年产高纯石墨20000t、锂离子负极材料20000t。 (search-result summary of the approval; the .doc could not be machine-read, so the published date 2026-05-07 is also unconfirmed)"
+  },
+  "S15": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0718/10346199/sehk22062001352.pdf",
+   "publisher": "China Graphite Group Ltd (HKEX 2237) listing documents, July 2022 (SRK independent technical report / prospectus; exact document within the 2022-07-18 batch not confirmed)",
+   "published": "2022-07-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The Project comprises the Beishan graphite mine (the Mine), a beneficiation plant and a spherical graphite processing plant, located in Yanjun Farm, Luobei County, Heilongjiang Province ... annual graphite mining capacity of 0.5 Mtpa ... we extracted approximately 255,500 tonnes, 211,200 tonnes and 258,300 tonnes of unprocessed graphite, respectively, from our Beishan Mine ... the spherical graphite production capacity will be raised to 6,500tpa"
+  },
+  "S16": {
+   "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0410/2025041001226_c.pdf",
+   "publisher": "China Graphite Group Ltd annual results announcement FY2024 (HKEX, 2025-04-10; text layer unreadable, figure seen only in search summary of the results notice)",
+   "published": "2025-04-10",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "球形石墨及副產品收入同比大幅下滑，銷量同比減少52.0%至3,089噸 (search-result summary, FY2024)"
+  },
+  "S17": {
+   "url": "https://www.163.com/dy/article/L3DVDKIR05568W0A.html",
+   "publisher": "NetEase (credited to Sina Finance / mybattery) on Qingdao Haidaruiyuan anode expansion",
+   "published": "2026-08-03",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "海达瑞远年生产能力达15万吨，主营产品包括中碳石墨、高碳石墨、高纯石墨、微粉石墨、可膨胀石墨、石墨纸等七大系列三百多个品种"
+  },
+  "S18": {
+   "url": "https://www.chinanews.com.cn/sh/2021/04-02/9446698.shtml",
+   "publisher": "China News Service (中国新闻网), Jixi graphite feature",
+   "published": "2021-04-02",
+   "accessed": "2026-11-27",
+   "language": "zh",
+   "quote": "深加工的石墨制品已有22个品种，产能50万吨，全市石墨企业总资产达68.35亿元人民币"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "china-minmetals-graphite-yunshan-china",
+   "fields": {
+    "asset_name": "Yunshan graphite mine and concentrator (Hegang / Luobei)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite concentrate",
+    "asset_type": "open-pit crystalline graphite mine and concentrator",
+    "feedstock": "graphite ore",
+    "operator": "China Minmetals Group (Heilongjiang) Graphite Industry Co. (五矿石墨)",
+    "parent_company": "China Minmetals Corporation",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Hegang city, Luobei county)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 200000,
+    "installed_as_of": "2026-08-15",
+    "production": null,
+    "end_market": "battery (natural-graphite anode feed) and high-purity products",
+    "source_url": "https://www.bjnews.com.cn/detail/1786783360129868.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-15"
+   },
+   "evidence": {
+    "status": [
+     "S1",
+     "S4"
+    ],
+    "capacity": [
+     "S1",
+     "S3"
+    ],
+    "installed_capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Largest Chinese graphite mine. Mine: 6,000,000 t/yr ore ('年产600万吨矿石', S1; 'six million tonnes', S4); concentrator 200,000 t/yr concentrate ('20万吨精粉', S1, S3). Capacity recorded in t graphite (concentrate) = 200,000; ore capacity (6 Mt) is not a separate field. CONFLICT: Science and Technology Daily 2025-08-25 (S2) says 'year-production 280,000 t graphite concentrator' (年产28万吨石墨选厂); 2024 China Daily and 2026 Beijing News both say 200,000 t, so 200,000 used (28万 could be a later expansion or a different base; unresolved). Phase II (12 Mt/yr ore, S5, 2025-09) is being 'actively promoted' - undated, NOT counted. Reserves >1.5 bn t (S4, state media). installed_capacity = capacity because the sources describe the plant as 'built' (已建成) - no utilisation or production figure found (no 2025 output in open sources). Start year not found (company formed Dec 2019 per background in search text; mine consolidation 2019-2020). Hegang-wide figures in S4: 6.5 Mt ore capacity, 1.1 Mt 'refined graphite powder' (not used; sums several firms, unclear basis). Coordinates not taken. S4 publication date: URL path says 2026-05-13, page text 2026-05-15."
+  },
+  {
+   "action": "add",
+   "id": "china-minmetals-graphite-hegang-spherical-china",
+   "fields": {
+    "asset_name": "Minmetals Graphite spherical and high-purity graphite plant (Hegang, Heilongjiang)",
+    "step": "refining",
+    "commodity": "graphite",
+    "product": "spherical graphite (plus high-purity graphite)",
+    "asset_type": "spheroidization and purification plant",
+    "feedstock": "flake graphite concentrate (own Yunshan concentrate)",
+    "operator": "China Minmetals Group (Heilongjiang) Graphite Industry Co. (五矿石墨)",
+    "parent_company": "China Minmetals Corporation",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Hegang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.bjnews.com.cn/detail/1786783360129868.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-15"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "capacity": [
+     "S1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "S1 (2026-08-15): '年产5万吨球形石墨、5万吨高纯石墨项目' listed among things 'built' (已建成). CONFLICT: S2 (2025-08-25) says 'year-production 100,000 t spherical graphite and 80,000 t high-purity graphite lines' built; a recruitment page (search text only) also says ~100 kt spherical 'basically built'. The two Chinese state/news sources disagree by 2x; the more recent, 50,000 t, is used, 100,000 t not recorded. High-purity graphite (50 kt per S1, 80 kt per S2) is a separate product, not counted in capacity. Whether the 5万吨 is built-and-running vs project ('项目') is not clear, so installed_capacity left null. Exact plant location (Hegang industrial / graphite high-quality-utilisation park) not confirmed."
+  },
+  {
+   "action": "add",
+   "id": "jixi-jinyu-graphite-mashan-china",
+   "fields": {
+    "asset_name": "Jixi Jinyu Graphite mine (Mashan, zones 1 and 2)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "graphite ore (ore transported to an off-site concentrator)",
+    "asset_type": "open-pit graphite mine",
+    "feedstock": "graphite ore",
+    "operator": "Jixi Jinyu Graphite Co., Ltd. (鸡西市金宇石墨有限公司)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Jixi, Mashan district, Mashan township)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 35000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery and industrial",
+    "source_url": "https://www.jixi.gov.cn/jixi/c100075/202506/333745/files/鸡西市金宇石墨有限公司矿山地质环境保护与土地复垦方案.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-05-31"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Primary government-published document. Licence no. C1000002021057248000109 (as printed), valid 2021-04-06 to 2034-04-06; area 34.634 ha (zone 1 24.68 ha, zone 2 9.95 ha); 'production scale 3.5万吨/年' is ORE (the document sizes the mine in the ore-volume class table; ore is hauled off-site to a concentrator, 'no waste dump or tailings pond'), hence unit 't ore'; the concentrate yield is not stated. capacity_ref_year 2025 = document date (not a phase year). Status from 'mine is in production' (S7). COORDINATES NOT TAKEN: the printed geographic bounds (130d27'-130d30'E, 44d06'-44d08'N) contradict the printed Gauss-Kruger X ~ 5,000,000 m northing and the document's own location map (which put the site north of 45N); conflict unresolved. Production not disclosed. Only an example of the many small licensed mines in the Jixi area."
+  },
+  {
+   "action": "add",
+   "id": "cnbm-heilongjiang-graphite-concentrate-china",
+   "fields": {
+    "asset_name": "CNBM Heilongjiang Graphite New Materials - flake graphite concentrate (Heilongjiang)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite concentrate",
+    "asset_type": "graphite concentrator (mine ownership not verified)",
+    "feedstock": "graphite ore",
+    "operator": "CNBM Heilongjiang Graphite New Materials Co. (中建材黑龙江石墨新材料有限公司)",
+    "parent_company": "China National Building Material group (CNBM)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Jixi per EIA documents for the sister anode/purification plant)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 150000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 80000,
+    "installed_as_of": "2023-11-27",
+    "capacity_by_year_json": {
+     "2023": 80000
+    },
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103330789/cnbm-heilongjiang-graphite-launches-100000-mt-green-and-intelligent-graphite-concentrate-demonstration-line-project",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-05-19"
+   },
+   "evidence": {
+    "status": [
+     "S9",
+     "S10"
+    ],
+    "capacity": [
+     "S9"
+    ],
+    "installed_capacity": [
+     "S10"
+    ],
+    "capacity_by_year_json": [
+     "S10"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "S10 (Fastmarkets 2023-11-27): current capacity 80,000 tpy. S9 (SMM 2025-05-19): groundbreaking 2025-05-16 of a 100,000 t 'green intelligent concentrate demonstration line', total investment CNY 346m, after which annual concentrate capacity 'will reach 150,000 mt' (80k + 100k would be 180k; SMM says 150k - not reconciled; a search snippet attributed to Fastmarkets says 180,000 tpy by end-2024 - not opened, not used). Completion date not stated; capacity_ref_year 2025 is the publication-year fallback. Status stays operational (furthest stage reached), expansion under construction. Location: SMM says only 'Heilongjiang'; Jixi per search-result summary of EIA approval 2026-21 for the company's downstream plant in Jixi Hengshan graphite park (see purification row). Whether CNBM owns the mine feeding this concentrator was not verified (it is described as a shareholder of Asian natural-graphite resources in a 2026 Qingdao press item, search text)."
+  },
+  {
+   "action": "add",
+   "id": "cnbm-heilongjiang-graphite-jixi-purification-china",
+   "fields": {
+    "asset_name": "CNBM Heilongjiang Graphite phase 2/3 high-purity graphite and anode expansion (Jixi Hengshan)",
+    "step": "refining",
+    "commodity": "graphite",
+    "product": "high-purity graphite (plus 20,000 t anode material)",
+    "asset_type": "purification workshop and anode workshop",
+    "feedstock": "flake graphite concentrate",
+    "operator": "CNBM Heilongjiang Graphite New Materials Co. (中建材黑龙江石墨新材料有限公司)",
+    "parent_company": "China National Building Material group (CNBM)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Jixi, Hengshan graphite industrial park)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://jixi.gov.cn/jixi/c100080/202605/362273/files/鸡环审〔2026〕21号.doc",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-07"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "capacity": [
+     "S14"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Reported tier (search-result summary of the Jixi EIA approval; the .doc binary could not be read and the 2026-04 EIA report-table .doc returned 404/unreadable). Summary: expansion on the existing site in Hengshan graphite park, using existing buildings, to make 20,000 t high-purity graphite and 20,000 t Li-ion anode material; investment CNY 460m (summary says 46000万元); planned construction June-Aug 2026 (plan only, not confirmed). 'Phase 2 and 3' wording implies a phase-1 plant exists - its capacity not found. Status 'announced' because only the EIA approval is evidenced. Purification here is a graphite product, not spherical graphite specifically; the 20 kt anode is not counted."
+  },
+  {
+   "action": "add",
+   "id": "longjiang-transportation-luobei-gongnong-graphite-china",
+   "fields": {
+    "asset_name": "Luobei Gongnong village 2 Mtpa graphite mining and concentrating project (Longchuang New Materials)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite",
+    "asset_type": "graphite mine and concentrator (proposed)",
+    "feedstock": "graphite ore",
+    "operator": "Heilongjiang Longchuang New Materials Technology Co. (黑龙江省龙创新材料技术有限责任公司)",
+    "parent_company": "Longjiang Transportation Development (601188)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Luobei county, Gongnong village)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": null,
+    "capacity": 216000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery (part of flake used for spherical graphite)",
+    "source_url": "https://stock.10jqka.com.cn/20251209/c673082976.shtml",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-09"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Listed-company announcement (news item dated 2025-12-09; exchange filing dated 2025-12-10 per the page, filing itself not opened). Design: 2,000,000 t/yr ore processed ('年处理200万吨石墨矿'), 216,000 t/yr flake graphite of which 132,700 t sold externally and 83,300 t used for the project's spherical graphite production; total investment CNY 2.679bn (CNY 794m equity, CNY 1.886bn bank loans); design life 45 years, construction period 2 years (page text, paraphrased). Proposed, not built. capacity_ref_year 2025 is the publication fallback (completion year not stated; ~2027-28 if built)."
+  },
+  {
+   "action": "add",
+   "id": "china-graphite-group-beishan-mine-china",
+   "fields": {
+    "asset_name": "Beishan graphite mine (Yanjun Farm, Luobei) and beneficiation plant",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "graphite ore / flake concentrate",
+    "asset_type": "open-pit graphite mine with beneficiation plant",
+    "feedstock": "graphite ore",
+    "operator": "China Graphite Group Ltd (HKEX 2237) operating subsidiary in Luobei",
+    "parent_company": "China Graphite Group Ltd",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Luobei county, Yanjun Farm)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t ore",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": 258300,
+    "production_unit": "t ore",
+    "production_year": 2021,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0718/10346199/sehk22062001352.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-07-18"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ],
+    "capacity": [
+     "S15"
+    ],
+    "production": [
+     "S15"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported tier: search-result text from HKEX listing documents (SRK technical report / prospectus); full PDFs exceed the fetch limit, so the exact document/page is not confirmed. Mine permitted capacity 0.5 Mtpa of ore (annual graphite mining capacity); 'unprocessed graphite' extracted 255,500 t (2019), 211,200 t (2020), 258,300 t (2021) - 2021 recorded as latest found (production_year 2021, NOT 2025). Search text also says a 2024 filing planned to lift the permitted volume above 500,000 t/yr (not confirmed granted). Beneficiation plant capacity not found (expansion finished Q3 2021 per search text). Mine is ~10 km NW of the plant complex. China Graphite Group's FY2024 results (S16) show sharply lower graphite sales; 2025 status of the mine not verified."
+  },
+  {
+   "action": "add",
+   "id": "china-graphite-group-luobei-spherical-china",
+   "fields": {
+    "asset_name": "China Graphite Group spherical graphite processing plant (Yanjun Farm, Luobei)",
+    "step": "refining",
+    "commodity": "graphite",
+    "product": "spherical graphite and by-products",
+    "asset_type": "spheroidization plant",
+    "feedstock": "flake graphite concentrate (own Beishan concentrate)",
+    "operator": "China Graphite Group Ltd (HKEX 2237) operating subsidiary in Luobei",
+    "parent_company": "China Graphite Group Ltd",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Luobei county, Yanjun Farm)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 6500,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0718/10346199/sehk22062001352.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-07-18"
+   },
+   "evidence": {
+    "status": [
+     "S15",
+     "S16"
+    ],
+    "capacity": [
+     "S15"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Reported tier. 2022 technical-report text: upgrade expected to complete by 2022, raising spherical graphite capacity to 6,500 tpa (prospectus plan: 6,000 t spherical + 10,000 t micro powder). Sales (not production) of spherical graphite and by-products: ~8,300 t (2019), 10,400 t (2020), 13,800 t (2021) per prospectus text in search results; FY2024 sales 3,089 t, down 52.0% (S16, summary). Sales of 13.8 kt > 6.5 kt capacity suggests the sales figure includes by-products/micro-powder or the capacity is outdated; not reconciled. No 2024-26 capacity figure found."
+  },
+  {
+   "action": "add",
+   "id": "qingdao-luowei-new-materials-spherical-graphite-china",
+   "fields": {
+    "asset_name": "Qingdao Luowei New Materials spheroidization and purification plant (Shandong)",
+    "step": "refining",
+    "commodity": "graphite",
+    "product": "spherical graphite (plus purified natural graphite)",
+    "asset_type": "spheroidization and purification plant",
+    "feedstock": "flake graphite concentrate",
+    "operator": "Qingdao Luowei New Materials (青岛洛唯新材料)",
+    "parent_company": "CarbonOne Group",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong (Qingdao)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.fastmarkets.com/insights/industry-integration-to-be-the-new-trend-for-china-graphite-firms",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-11-27"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Fastmarkets (2023-11-27): 50,000 tpy spheroidization and 250,000 tpy purification capacity; Luowei is a unit of CarbonOne Group (nine production areas across Anhui, Heilongjiang, Shandong, Zhejiang, Yunnan per the same article). Purification capacity (250,000 t) is a separate process step, not added. A search summary of a 2023 Qingdao Daily page reports a CNY 1bn Luowei 250,000 t/yr high-purity lithium-grade graphite project in Laixi (Nanshu) - consistent with the purification figure, page not opened. Exact site not verified (Laixi vs Pingdu), so only province recorded. Status inferred from 'has capacity' wording, no commissioning date."
+  },
+  {
+   "action": "add",
+   "id": "qingdao-haida-ruiyuan-pingdu-china",
+   "fields": {
+    "asset_name": "Qingdao Haidaruiyuan New Energy natural graphite deep-processing base (Tianzhuang, Pingdu)",
+    "step": "refining",
+    "commodity": "graphite",
+    "product": "natural graphite deep-processing products (medium/high-carbon, high-purity, micro-powder, expandable graphite)",
+    "asset_type": "graphite deep-processing plant",
+    "feedstock": "natural graphite",
+    "operator": "Qingdao Haidaruiyuan New Energy Technology Co. (青岛海达瑞远新能源科技有限公司)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong (Qingdao, Pingdu, Tianzhuang town)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 1993,
+    "capacity": 150000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "mixed (industrial and battery)",
+    "source_url": "https://www.163.com/dy/article/L3DVDKIR05568W0A.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-08-03"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Company capacity claim (150,000 t/yr, 'founded 1993', undated claim carried in an Aug-2026 article on its anode expansion). Product list is mixed natural-graphite grades (not only spherical graphite) and likely includes processing of purchased material; included as the Pingdu (Shandong) deep-processing cluster stand-in, low confidence. The anode expansion (80,000 t/yr, CNY 117m, artificial graphite from petroleum/needle coke) is anode capacity and is NOT counted here. Start year 1993 is the company founding year, not plant start. Plant footprint details not verified."
+  }
+ ]
+}

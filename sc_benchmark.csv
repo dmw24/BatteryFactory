@@ -69,8 +69,8 @@ mining,graphite,production,2024,Brazil,58000.0,t graphite,0,0,85500,2,0.0,1.47,0
 mining,graphite,production,2025,Brazil,65000.0,t graphite,0,0,85500,2,0.0,1.32,0,0,0,USGS MCS 2026
 mining,graphite,production,2024,Canada,11700.0,t graphite,0,0,25000,1,0.0,2.14,0,0,0,USGS MCS 2026
 mining,graphite,production,2025,Canada,8000.0,t graphite,0,0,25000,1,0.0,3.12,0,0,0,USGS MCS 2026
-mining,graphite,production,2024,China,1270000.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
-mining,graphite,production,2025,China,1400000.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
+mining,graphite,production,2024,China,1270000.0,t graphite,0,0,280000,2,0.0,0.22,0,0,0,USGS MCS 2026
+mining,graphite,production,2025,China,1400000.0,t graphite,0,0,280000,2,0.0,0.2,0,0,0,USGS MCS 2026
 mining,graphite,production,2024,India,17600.0,t graphite,0,0,8400,1,0.0,0.48,0,0,0,USGS MCS 2026
 mining,graphite,production,2025,India,17000.0,t graphite,0,0,8400,1,0.0,0.49,0,0,0,USGS MCS 2026
 mining,graphite,production,2024,"Korea, North",8100.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
@@ -101,8 +101,8 @@ mining,graphite,production,2024,Austria,100.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,U
 mining,graphite,production,2025,Austria,200.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,graphite,production,2024,Germany,140.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,graphite,production,2025,Germany,140.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
-mining,graphite,production,2024,World,1550000.0,t graphite,174169,5,580900,10,0.11,0.37,0,0,0,USGS MCS 2026
-mining,graphite,production,2025,World,1800000.0,t graphite,174169,5,580900,10,0.1,0.32,0,0,0,USGS MCS 2026
+mining,graphite,production,2024,World,1550000.0,t graphite,174169,5,860900,12,0.11,0.56,0,0,0,USGS MCS 2026
+mining,graphite,production,2025,World,1800000.0,t graphite,174169,5,860900,12,0.1,0.48,0,0,0,USGS MCS 2026
 cathode,cathode,production,2023,China,2300000.0,t CAM,0,0,1537060,20,0.0,0.67,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
 anode,anode,production,2023,China,1650000.0,t anode,0,0,1900000,14,0.0,1.15,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
 separator,separator,production,2023,China,15000.0,Mm2,0,0,4620,6,0.0,0.31,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT) [150亿平方米 = 15000 Mm2]
@@ -149,3 +149,7 @@ refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,4038
 refining,lithium,production,2023,China,713800.0,t LCE,0,0,1080107,37,0.0,1.51,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 refining,lithium,production,2024,China,986800.0,t LCE,43514,4,1080107,37,0.04,1.09,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 refining,lithium,production,2025,China,1289280.0,t LCE,43514,4,1080107,37,0.03,0.84,138801,553716,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
+recycling,recycling,capacity,2024,China,4230000.0,t feed,52576,1,120000,2,0.01,0.03,0,0,0,Mysteel 2025-07-31 (open article)
+recycling,recycling,production,2024,China,654000.0,t feed,52576,1,120000,2,0.08,0.18,0,0,0,Mysteel 2025-07-31 (recycling volume)
+recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0.0,0.0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"
+mining,graphite,production,2020,China (Luobei county),380000.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,MEE inspection bulletin 2021-12-16

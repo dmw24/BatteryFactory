@@ -1,0 +1,2533 @@
+{
+ "task": "SC031",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://news.metal.com/newscontent/103610585/Redwood-Materials-Launches-SC-Plant-Pivots-to-Energy-Storage-Amid-6B-Valuation",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2025-11-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "launched production at its $3.5 billion South Carolina plant ... The facility can recycle 20,000 tonnes of key minerals annually. ... its Nevada site's 60,000-tonne capacity",
+   "tier": "reported",
+   "snippet": "launched production at its $3.5 billion South Carolina plant ... The facility can recycle 20,000 tonnes of key minerals annually. ... its Nevada site's 60,000-tonne capacity",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S2": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+   "publisher": "Li-Cycle Holdings Corp. Form 10-K FY2024 (SEC EDGAR)",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "As at December 31, 2024, Li-Cycle had three operational Generation 3 Spokes in North America and Europe."
+  },
+  "S3": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+   "publisher": "Li-Cycle Holdings Corp. Form 10-K FY2024 (SEC EDGAR)",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the operations of which were paused on November 1, 2023 and where work toward closure is underway."
+  },
+  "S4": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+   "publisher": "Li-Cycle Holdings Corp. Form 10-K FY2024 (SEC EDGAR)",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the operations which were curtailed as of November 7, 2024."
+  },
+  "S5": {
+   "url": "https://www.wastedive.com/news/glencore-completes-takeover-of-li-cycle-battery-recycling-assets/757199/",
+   "publisher": "Waste Dive",
+   "published": "2025-08-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Today, the spoke facilities are idle. ... remains in operation with 66 employees."
+  },
+  "S6": {
+   "url": "https://chargedevs.com/newswire/li-cycle-opens-battery-recycling-facility-in-alabama",
+   "publisher": "Charged EVs (Li-Cycle newswire)",
+   "published": "2022-10-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Alabama Spoke has a total input processing capacity of 10,000 tons of lithium-ion battery materials per year."
+  },
+  "S7": {
+   "url": "https://www.recyclingtoday.com/article/li-cycle-adds-arizona-spoke-location",
+   "publisher": "Recycling Today",
+   "published": "2022-05-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "search-result summary: Gilbert, Arizona site will be able to process up to 10,000 metric tons of manufacturing scrap and end-of-life batteries per year (page itself not opened; Arizona Spoke described as two 5,000-metric-ton lines)"
+  },
+  "S8": {
+   "url": "https://www.waste360.com/recycling/li-cycle-starts-operations-its-first-european-lithium-ion-battery-recycling-facility",
+   "publisher": "Waste360 (Li-Cycle release)",
+   "published": "2023-08-01",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "search-result excerpt (page returned 403): first main processing line will be followed by a second main line, expected later in 2023. Each main line has capacity to process up to 10,000 tonnes of lithium-ion battery material per year; total planned capacity 30,000 tonnes per year incl. ancillary"
+  },
+  "S9": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+   "publisher": "Li-Cycle Holdings Corp. Form 10-K FY2024 (SEC EDGAR)",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Li-Cycle’s Spoke in Gilbert, Arizona, which commenced operations on May 17, 2022. ... Li-Cycle’s Spoke near Tuscaloosa, Alabama, which commenced operations on October 13, 2022."
+  },
+  "S10": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+   "publisher": "Li-Cycle Holdings Corp. Form 10-K FY2024 (SEC EDGAR)",
+   "published": "2025-03-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "up to approximately 8,250 tonnes of lithium carbonate and up to approximately 72,000 tonnes of MHP"
+  },
+  "S11": {
+   "url": "https://www.businesswire.com/news/home/20241031827195/en",
+   "publisher": "Business Wire (Li-Cycle release)",
+   "published": "2024-10-31",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "search-result summary (page returned 403): The Rochester Hub has a nameplate capacity of 35,000 tonnes of black mass annually; scope could be reduced to up to ~8,250 t lithium carbonate and ~72,000 t MHP"
+  },
+  "S12": {
+   "url": "https://www.glencore.com/what-we-do/recycling/li-cycle",
+   "publisher": "Glencore",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "As of August 8th 2025, Li-Cycle has been acquired by Glencore Plc."
+  },
+  "S13": {
+   "url": "https://electrive.com/2026/09/11/r3-lithium-launches-lithium-recycling-facility-in-georgia",
+   "publisher": "electrive",
+   "published": "2026-09-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The shredding plants have an annual capacity of 30,000 tonnes ... R3 Lithium took over the approximately 14,300 square metre facility in Covington only in July 2026. ... The existing line can produce 2,500 tonnes of lithium carbonate annually."
+  },
+  "S14": {
+   "url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+   "publisher": "Canary Media",
+   "published": "2025-03-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "opened a plant in Covington, Georgia, in March 2023 that grinds up used batteries into the powder known as black mass."
+  },
+  "S15": {
+   "url": "https://www.industrialinfo.com/iirenergy/industry-news/article/contractor-partnership-wins-kentucky-battery-recycling-plant-in-chapter-11-auction--359113",
+   "publisher": "IIR Energy (industrialinfo.com)",
+   "published": "2026-06-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "A Texas bankruptcy court approved TKJV's $31.7 million bid for the facility on June 4. ... Construction began in 2022 but was halted in 2024."
+  },
+  "S16": {
+   "url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+   "publisher": "Canary Media",
+   "published": "2025-03-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "That project, called Apex 1, is still happening, but Ascend has narrowed its scope."
+  },
+  "S17": {
+   "url": "https://www.canarymedia.com/articles/batteries/this-ev-battery-recycling-plant-in-ohio-is-planning-a-huge-expansion",
+   "publisher": "Canary Media",
+   "published": "2023-02-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "For now, Cirba Solutions sends its black mass off for additional hydrometallurgical processing. ... fully operational in late 2024 or early 2025.",
+   "tier": "reported",
+   "snippet": "For now, Cirba Solutions sends its black mass off for additional hydrometallurgical processing. ... fully operational in late 2024 or early 2025.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S18": {
+   "url": "https://www.newswire.ca/news-releases/cirba-solutions-to-build-world-class-ev-battery-materials-facility-in-south-carolina-847732616.html",
+   "publisher": "Cirba Solutions via CNW Group",
+   "published": "2023-03-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "be located near Columbia, South Carolina in Richland County ... Groundbreaking will take place this year, with operations expected to begin in late 2024."
+  },
+  "S19": {
+   "url": "https://www.recyclingtoday.com/news/cirba-solutions-selected-for-200-million-dollar-award-negotiations-with-doe",
+   "publisher": "Recycling Today / Cirba announcements (search summary)",
+   "published": "2023-03-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "search-result summary: The Columbia facility is described as capable of processing more than 60,000 tonnes of batteries annually (60,000 tons of batteries per year per Recycling Today); page not opened"
+  },
+  "S20": {
+   "url": "https://resource-recycling.com/e-scrap/2024/05/22/nevada-battery-recycling-operation-ramps-up-capacity/",
+   "publisher": "Resource Recycling",
+   "published": "2024-05-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility was designed with an estimated 44 million pounds per year capacity. ... has recently been operating at 115% of that, or over 50 million pounds per year.",
+   "tier": "reported",
+   "snippet": "The facility was designed with an estimated 44 million pounds per year capacity. ... has recently been operating at 115% of that, or over 50 million pounds per year.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S21": {
+   "url": "https://news.metal.com/newscontent/103478075/Princeton-NuEnergy-Opens-First-Commercial-Scale-Black-Mass-Recycling-Plant-in-US",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2025-08-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility has an annual capacity of 5,000 metric tons ... which the company plans to increase to 15,000 metric tons per year by 2026 ... with potential expansion to 50,000 metric tons as demand grows"
+  },
+  "S22": {
+   "url": "https://www.umicore.com/en/markets-products/metals/nickel/recycling-refining/",
+   "publisher": "Umicore (company web page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with an annual capacity of 7,000 tonnes, equivalent to 20,000 car batteries. ... a dedicated pilot battery recycling plant",
+   "tier": "reported",
+   "snippet": "with an annual capacity of 7,000 tonnes, equivalent to 20,000 car batteries. ... a dedicated pilot battery recycling plant",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S23": {
+   "url": "https://resource-recycling.com/e-scrap/2025/04/10/market-factors-combine-to-shift-umicores-capital-plans/",
+   "publisher": "Resource Recycling",
+   "published": "2025-04-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the 150,000 metric ton per year recycling plant now will be operational no earlier than 2032."
+  },
+  "S24": {
+   "url": "https://electrive.com/2026/10/20/hydrovolt-to-recycle-icelands-ev-batteries-in-future",
+   "publisher": "electrive",
+   "published": "2026-10-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed to process 12,000 tonnes of battery packs per year ... The Fredrikstad plant has been operational since May 2022 ... since the second half of 2024, Hydro has been the sole owner of the recycling company."
+  },
+  "S25": {
+   "url": "https://www.fortum.com/services/battery-recycling/next-hydromet",
+   "publisher": "Fortum (company web page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "With a processing capacity of 3,000 tonnes of black mass per year ... The NEXT HYDROMET project is in its development phase ... The estimated start of operations is 2029."
+  },
+  "S26": {
+   "url": "https://www.fortum.com/services/battery-recycling/next-hydromet",
+   "publisher": "Fortum (company web page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "already Europe’s largest closed-loop hydrometallurgical battery recycling plant."
+  },
+  "S27": {
+   "url": "https://www.fortum.com/media/2023/04/fortum-battery-recycling-opens-europes-largest-closed-loop-hydrometallurgical-battery-recycling-facility-finland",
+   "publisher": "Fortum press release",
+   "published": "2023-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "search-result text: lithium-ion batteries first disassembled and treated during a mechanical process at Fortum's plant in Ikaalinen; Kirchardt (Germany) hub can pre-treat over 3,000 tonnes of batteries per year (page fetch confirmed Kirchardt 3,000 t and mechanical step at Ikaalinen, no Ikaalinen tonnage)"
+  },
+  "S28": {
+   "url": "https://www.basf.com/global/en/media/news-releases/2025/06/p-25-112",
+   "publisher": "BASF press release",
+   "published": "2025-06-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "BASF has successfully started the commercial operation of its Black Mass plant in Schwarzheide, Germany. ... with an annual processing capacity of up to 15,000 tons of end-of-life lithium-ion batteries and production scrap.",
+   "tier": "reported",
+   "snippet": "BASF has successfully started the commercial operation of its Black Mass plant in Schwarzheide, Germany. ... with an annual processing capacity of up to 15,000 tons of end-of-life lithium-ion batteries and production scrap.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S29": {
+   "url": "https://heise.de/-9862813",
+   "publisher": "heise online (English translation)",
+   "published": "2024-09-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The plant is expected to recycle 30,000 tons of electric car batteries per year ... on a 22,000 square meter site at Chempark Dormagen ... when it goes into operation in 2026"
+  },
+  "S30": {
+   "url": "https://www.electrive.com/2025/04/22/altilium-starts-construction-of-major-battery-recycling-plant-in-southern-england/",
+   "publisher": "electrive",
+   "published": "2025-04-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The ACT 3 scale-up plant will be able to recycle batteries from around 24,000 electric vehicles per year. ... Construction is scheduled to begin in summer 2026, with commissioning planned for the end of 2027."
+  },
+  "S31": {
+   "url": "https://www.electrive.com/2025/04/04/ecobat-now-has-three-lithium-recycling-plants",
+   "publisher": "electrive",
+   "published": "2025-04-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The first plant to go online was the one in Hettstedt, Germany, which was commissioned at the end of 2023. ... The last plant to go online, namely in November 2024, is the one Darlaston, England."
+  },
+  "S32": {
+   "url": "https://www.electrive.com/2025/04/04/ecobat-now-has-three-lithium-recycling-plants",
+   "publisher": "electrive",
+   "published": "2025-04-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Second on the list is the US recycling factory in Casa Grande, Arizona. ... can thus process 10,000 tons of lithium-ion batteries annually",
+   "tier": "reported",
+   "snippet": "Second on the list is the US recycling factory in Casa Grande, Arizona. ... can thus process 10,000 tons of lithium-ion batteries annually",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S33": {
+   "url": "https://recyclinginternational.com/?p=63097",
+   "publisher": "Recycling International",
+   "published": "2026-02-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a system that can process around 6 000 tonnes per year and is set for further expansion. ... Accurec plans to expand capacity at the Krefeld site to 20 000 tonnes by mid-2028."
+  },
+  "S34": {
+   "url": "https://www.cleanthinking.de/duesenfeld-recycelt-3000-tonnen-batterien/",
+   "publisher": "cleanthinking.de",
+   "published": "2023-03-17",
+   "accessed": "2026-11-27",
+   "language": "de",
+   "quote": "derzeit zirka 3000 Tonnen Batterien recycelt werden können"
+  },
+  "S35": {
+   "url": "https://english.atlatszo.hu/2026/03/20/rural-town-is-taking-legal-action-against-polluting-battery-plant/",
+   "publisher": "Átlátszó (english.atlatszo.hu)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "it has expanded its capacity to 10,000 tons per year at its plant in Szigetszentmiklós."
+  },
+  "S36": {
+   "url": "https://www.electrive.com/2025/05/03/librec-inaugurates-battery-recycling-plant-in-switzerland",
+   "publisher": "electrive",
+   "published": "2025-05-03",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Librec has inaugurated its first industrial recycling plant for electric vehicle batteries in Biberist, Switzerland ... The plant will recycle 12,000 tons of electric car batteries per year."
+  },
+  "S37": {
+   "url": "https://electrive.com/2023/03/30/stena-opens-new-battery-recycling-plant-in-sweden",
+   "publisher": "electrive",
+   "published": "2023-03-30",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Swedish company Stena Recycling has opened its new battery recycling facility in Halmstad, Sweden. ... The initial recycling capacity is 10,000 tonnes but is expected to increase in line with the growth of the market."
+  },
+  "S38": {
+   "url": "https://stenarecycling.com/what-we-offer/material-recycling/vehicle-batteries",
+   "publisher": "Stena Recycling (company web page)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "is expected to initially handle 10,000 tonnes of battery material per year. ... As the market grows, there is scope to scale up further to 20,000 tonnes."
+  },
+  "S39": {
+   "url": "https://group.mercedes-benz.com/company/news/recycling-factory-kuppenheim.html",
+   "publisher": "Mercedes-Benz Group",
+   "published": "2024-10-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The Mercedes-Benz battery recycling plant in Kuppenheim has an annual capacity of 2,500 tonnes. ... Mercedes-Benz's technology partner for the battery recycling factory is Primobius,",
+   "tier": "reported",
+   "snippet": "The Mercedes-Benz battery recycling plant in Kuppenheim has an annual capacity of 2,500 tonnes. ... Mercedes-Benz's technology partner for the battery recycling factory is Primobius,",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S40": {
+   "url": "https://electrive.com/2026/03/14/lyten-acquires-another-northvolt-unit/",
+   "publisher": "electrive",
+   "published": "2026-03-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with an installed recycling capacity of 8,500 tonnes per year ... located in close proximity to the Lyten Ett gigafactory in Skellefteå ... expects to finalise the acquisition in the second quarter of this year"
+  },
+  "S41": {
+   "url": "https://www.electrive.com/2024/09/23/ae-elemental-opens-recycling-plant-in-poland/",
+   "publisher": "electrive",
+   "published": "2024-09-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "which can process 12,000 tonnes of used lithium-ion batteries per year ... officially opened the joint plant in Zawiercie"
+  },
+  "S42": {
+   "url": "https://www.sktes.com/press-release/sk-tes-opens-cutting-edge-battery-recycling-facility-in-netherlands-to-meet-surging-demand-in-electric-vehicle-market",
+   "publisher": "SK tes press release",
+   "published": "2024-09-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Equipped to process up to 10,000 tonnes of material annually."
+  },
+  "S43": {
+   "url": "https://www.mysteel.net/news/5123530-flash-hunan-brunps-power-battery-recycling-project-expands-production-capacity-by-approximately-12-000-tonnes",
+   "publisher": "Mysteel",
+   "published": "2026-05-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "with a total processing capacity of 20,000 tonnes per year ... The lithium carbonate production capacity will be raised from the current 3,000 tonnes per year to 7,000 tonnes per year."
+  },
+  "S44": {
+   "url": "https://news.metal.com/newscontent/103877332-이창-브룬프-연간-30만-톤의-리튬인산철-배터리-재활용을-위한-10억-6600만-달러-프로젝트-착수",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2026-04-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "It is designed to process 300,000 tons of spent lithium iron phosphate batteries annually. ... The total investment is 1.066 billion yuan."
+  },
+  "S45": {
+   "url": "https://biz.heraldcorp.com/article/10932330",
+   "publisher": "The Korea Herald / Herald Business",
+   "published": "2026-11-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility can process 12,000 tons of black mass per year. ... The plant has the capacity to produce 2,500 tons of lithium carbonate annually ... is currently operating at above 95 percent utilization."
+  },
+  "S46": {
+   "url": "https://news.metal.com/en/newscontent/103779133-SungEel-HiTech-Restores-Saemangeum-Plant-Utilization-to-90",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2026-02-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "its Gunsan Saemangeum No. 3 plant, which has an annual capacity of 20,000 tons. ... raised the facility's utilization rate to approximately 90%.",
+   "tier": "reported",
+   "snippet": "its Gunsan Saemangeum No. 3 plant, which has an annual capacity of 20,000 tons. ... raised the facility's utilization rate to approximately 90%.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S47": {
+   "url": "https://view.asiae.co.kr/en/article/2024070110341254385",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2024-07-02",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "capable of processing 40,000 tons annually based on the input of black powder"
+  },
+  "S48": {
+   "url": "https://biz-journal.jp/company/post_396041.html",
+   "publisher": "Business Journal (biz-journal.jp)",
+   "published": "2026-09-23",
+   "accessed": "2026-11-27",
+   "language": "ja",
+   "quote": "東予工場（乾式処理）とニッケル工場（湿式処理、新居浜市）の二拠点を連携させ、年間約1万トン（電池セル換算）の使用済み電池を処理し ... 住友金属鉱山の東予工場で開かれた竣工式典に"
+  },
+  "S49": {
+   "url": "https://evreporter.com/we-are-the-only-facility-in-india-capable-of-handling-all-kinds-of-end-of-life-lithium-ion-batteries-nitin-gupta/",
+   "publisher": "EVreporter (interview with Attero)",
+   "published": "2024-12-19",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "We handle around 15,000 tons of battery recycling, also running at full capacity. ... Our main recycling plant is in Roorkee"
+  },
+  "S50": {
+   "url": "https://www.fastmarkets.com/insights/indias-ev-battery-gigafactory-plans-could-spur-black-mass-imports-and-cut-exports",
+   "publisher": "Fastmarkets",
+   "published": "2024-02-12",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The company has an input capacity of 20,000 tonnes of battery scrap ... with the ability to produce 10,000 tonnes black mass per year."
+  },
+  "S51": {
+   "url": "https://www.mse.gov.sg/latest-news/speech-at-official-opening-of-tes-b-plant/",
+   "publisher": "Singapore Ministry of Sustainability and the Environment (speech at official opening of TES-B plant)",
+   "published": "2021-03-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility will have an annual recycling capacity of 5,000 tonnes of lithium-ion batteries."
+  },
+  "S52": {
+   "url": "https://www.beeahgroup.com/moei-beeah-and-lohum-to-form-joint-venture-partnership-advancing-plans-for-uaes-first-ev-battery-recycling-facility/",
+   "publisher": "BEEAH Group",
+   "published": "2026-01-15",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The joint venture aims to develop a facility in 2026 with an annual processing capacity of 1,500 tonnes ... To be located within BEEAH's integrated Waste Management Complex in Al Saja'a, Sharjah.",
+   "tier": "reported",
+   "snippet": "The joint venture aims to develop a facility in 2026 with an annual processing capacity of 1,500 tonnes ... To be located within BEEAH's integrated Waste Management Complex in Al Saja'a, Sharjah.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S53": {
+   "url": "https://www.zawya.com/en/projects/industry/uaes-first-lithium-battery-recycling-plant-to-begin-operations-in-2027-qumpgkt8",
+   "publisher": "Zawya Projects",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The facility will be able to recycle 5,000 tonnes of battery waste annually by 2027 ... is scheduled to commence full operations by the second quarter of 2027"
+  },
+  "S54": {
+   "url": "https://www.industrialinfo.com/iirenergy/industry-news/article/contractor-partnership-wins-kentucky-battery-recycling-plant-in-chapter-11-auction--359113",
+   "publisher": "IIR Energy (industrialinfo.com)",
+   "published": "2026-06-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Construction began in 2022 but was halted in 2024."
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "redwood-materials-nevada-usa",
+   "fields": {
+    "asset_name": "Redwood Materials Nevada recycling campus (Carson City / McCarran area)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "recovered critical minerals / battery materials",
+    "asset_type": "recycling plant",
+    "feedstock": "end-of-life batteries and production scrap",
+    "operator": "Redwood Materials",
+    "parent_company": "Redwood Materials",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103610585/Redwood-Materials-Launches-SC-Plant-Pivots-to-Energy-Storage-Amid-6B-Valuation",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-11-07"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Capacity left null: the only open figure is '60,000-tonne capacity' of recovered critical minerals (product basis, not t feed; S1). Redwood also claims >20 GWh/yr of batteries processed (TechCrunch 2025-06-26 via search summary only, not opened; GWh is not an allowed unit). Exact site (McCarran / Carson City) not confirmed by the quote; S1 says 'Nevada site'. Start year not sourced."
+  },
+  {
+   "action": "add",
+   "id": "redwood-materials-camp-hall-south-carolina-usa",
+   "fields": {
+    "asset_name": "Redwood Materials Camp Hall (Berkeley County), South Carolina",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "recovered critical minerals / battery materials",
+    "asset_type": "recycling plant",
+    "feedstock": "end-of-life batteries and production scrap",
+    "operator": "Redwood Materials",
+    "parent_company": "Redwood Materials",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "South Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": 2025,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103610585/Redwood-Materials-Launches-SC-Plant-Pivots-to-Energy-Storage-Amid-6B-Valuation",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-11-07"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "S1 (2025-11-07): production launched at the SC plant; 'can recycle 20,000 tonnes of key minerals annually' (product basis, not t feed, so capacity left null). Search-result coverage said the plant is not at full capacity and the ramp timeline was not disclosed (not verified on page). The 2022 announcement was a 100 GWh/yr cathode+anode materials campus (Camp Hall, Berkeley County; search summary only). Start year 2025 inferred from the Nov 2025 launch report. Recycling vs materials step boundary: this site's main purpose is battery-materials production from recycled metals."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-gilbert-arizona-usa",
+   "fields": {
+    "asset_name": "Li-Cycle Gilbert (Arizona) Spoke",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (spoke, mechanical)",
+    "feedstock": "manufacturing scrap and end-of-life batteries",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Arizona",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": 2022,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S5",
+     "S9"
+    ],
+    "capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Operations began 2022-05-17 (S9); one of three operational Gen-3 spokes at 2024-12-31 (S2); 'Today, the spoke facilities are idle' at Glencore takeover 2025-08-08 (S5) => project_state paused. Capacity 10,000 t/yr is from a search-result summary of a 2022 release (reported tier, ref year = 2022 publication year). Glencore completed purchase of Li-Cycle assets effective 2025-08-08 (S12)."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-tuscaloosa-alabama-usa",
+   "fields": {
+    "asset_name": "Li-Cycle Tuscaloosa (Alabama) Spoke",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (spoke, mechanical)",
+    "feedstock": "manufacturing scrap and end-of-life batteries",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Alabama",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": 2022,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2022,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://chargedevs.com/newswire/li-cycle-opens-battery-recycling-facility-in-alabama",
+    "source_date": "2026-11-27",
+    "source_published_date": "2022-10-31"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S5",
+     "S9"
+    ],
+    "capacity": [
+     "S6"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Release uses 'tons' (US short tons likely; treated as t, <=10% difference). Operations began 2022-10-13 (S9); idle at 2025-08-08 (S5). Same release: total input capacity of 30,000 tons/yr across Kingston (ON), Rochester (NY) and Tuscaloosa spokes. Earlier reports gave 5,000 t initial with a second 5,000 t line planned (search summary; not verified)."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-magdeburg-germany",
+   "fields": {
+    "asset_name": "Li-Cycle Magdeburg (Germany) Spoke",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (spoke, mechanical)",
+    "feedstock": "manufacturing scrap and end-of-life batteries",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Saxony-Anhalt",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 30000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2023,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S5",
+     "S9"
+    ],
+    "capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Commenced operations 2023-08-01 (S9); only spoke still running at the Glencore takeover, 66 employees (S5). Capacity 30,000 t/yr planned (two 10,000 t main lines + ~10,000 t ancillary) is from a search-result excerpt of the opening release, not re-opened (reported tier). 10-K gives 'over 50,000 tonnes of LIB per year' main+ancillary capacity for the three operational Gen-3 spokes (Gilbert, Tuscaloosa, Magdeburg), consistent with 10+10+30. Whether the second line was commissioned is not confirmed."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-kingston-ontario-canada",
+   "fields": {
+    "asset_name": "Li-Cycle Kingston (Ontario) Spoke (Gen 1)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (spoke, mechanical)",
+    "feedstock": "manufacturing scrap and end-of-life batteries",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "cancelled",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S3",
+     "S5"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "10-K: operations paused 2023-11-01, 'work toward closure is underway' (S3); idle at 2025-08-08 (S5). Gen-1 spoke (an earlier ~5,000 t/yr plant per memory, not sourced here) so capacity left null; project_state set to cancelled because closure is underway. Kingston is named in the Waste Dive article but the 10-K quote does not name the town explicitly (it says 'Ontario')."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-rochester-spoke-new-york-usa",
+   "fields": {
+    "asset_name": "Li-Cycle Rochester (New York) Spoke (Gen 2)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (spoke, mechanical)",
+    "feedstock": "manufacturing scrap and end-of-life batteries",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "New York",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "10-K: New York Spoke operations curtailed as of 2024-11-07 (S4). Spoke tonnage not found in the opened 10-K text (only part of the 343k-character filing read) so capacity null. S6: Kingston + Rochester + Tuscaloosa spokes together = 30,000 tons/yr input (2022), implying Kingston+Rochester ~20,000; not allocated."
+  },
+  {
+   "action": "add",
+   "id": "li-cycle-rochester-hub-new-york-usa",
+   "fields": {
+    "asset_name": "Li-Cycle Rochester Hub (New York) - hydrometallurgical hub",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "battery-grade lithium carbonate and mixed hydroxide precipitate (MHP)",
+    "asset_type": "hydrometallurgical recycling hub",
+    "feedstock": "black mass",
+    "operator": "Glencore (ex Li-Cycle)",
+    "parent_company": "Glencore",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "New York",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 35000,
+    "capacity_unit": "t black mass",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1828811/000182881125000009/licy-20241231.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-03-31"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Hub paused: Waste Dive says construction was paused in 2023 and the hub 'never began operations' (S5); other reports say 2024 (battery-news.de, resource-recycling: 'Construction was paused in 2024') - conflict on year. Capacity 35,000 t/yr black mass (input) is from a search summary of the 2024-10-31 release (reported). 10-K (S10) states expected annual production of up to ~8,250 t lithium carbonate and up to ~72,000 t MHP. Glencore bought Li-Cycle effective 2025-08-08 (S12); Glencore has not disclosed hub plans (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "ascend-elements-covington-georgia-usa",
+   "fields": {
+    "asset_name": "Ascend Elements Covington Base 1 (Georgia) - now R3 Lithium",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass; recycled lithium carbonate",
+    "asset_type": "recycling plant (shredding + hydromet line)",
+    "feedstock": "end-of-life batteries and production scrap",
+    "operator": "R3 Lithium (took over July 2026)",
+    "parent_company": "R3 Lithium",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Georgia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 30000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://electrive.com/2026/09/11/r3-lithium-launches-lithium-recycling-facility-in-georgia",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-11"
+   },
+   "evidence": {
+    "status": [
+     "S13",
+     "S14"
+    ],
+    "capacity": [
+     "S13"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Shredding plants: 30,000 t/yr; lithium carbonate line 2,500 t/yr (S13). Ascend Elements filed Chapter 11 on 2026-04-09 (AJC 2026-04-10, search/fetch); R3 Lithium took over the facility July 2026 and has started producing lithium carbonate (S13). Start year conflict: Canary Media says opened March 2023 (S14), AJC says opened in 2022; start_year left null. Earlier Ascend-era reports quoted a 3,000 t/yr Li2CO3 line (search summary) vs 2,500 t now."
+  },
+  {
+   "action": "add",
+   "id": "ascend-elements-apex-1-hopkinsville-kentucky-usa",
+   "fields": {
+    "asset_name": "Ascend Elements Apex 1 (Hopkinsville, Kentucky)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "pCAM and lithium carbonate from recycled black mass (scope narrowed 2025)",
+    "asset_type": "recycling-to-materials plant",
+    "feedstock": "black mass",
+    "operator": "Ascend Elements (Chapter 11); buyer Turner-Kokosing Joint Venture (TKJV)",
+    "parent_company": "Ascend Elements",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Kentucky",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "paused",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.industrialinfo.com/iirenergy/industry-news/article/contractor-partnership-wins-kentucky-battery-recycling-plant-in-chapter-11-auction--359113",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-16"
+   },
+   "evidence": {
+    "status": [
+     "S15",
+     "S16"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Construction began 2022, halted 2024; TKJV's $31.7M bid approved by Texas bankruptcy court 2026-06-04 (S15, S54). Scope narrowed in March 2025 (S16); search summaries say pCAM + lithium carbonate only (cathode dropped) and start had slipped to Q3 2026 - not verified on page. Capacity not found in an opened source (earlier trade snippets quote ~12,000 t/yr; unverified, left null). Classified as recycling because feed is recycled black mass; could be moved to precursor by the lead. DOE grant of $316M partly cancelled (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "cirba-solutions-lancaster-ohio-usa",
+   "fields": {
+    "asset_name": "Cirba Solutions Lancaster (Ohio) lithium-ion processing facility (ex Retriev)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass (hydromet salts planned)",
+    "asset_type": "recycling plant (mechanical; hydromet expansion planned)",
+    "feedstock": "end-of-life and scrap lithium-ion batteries",
+    "operator": "Cirba Solutions",
+    "parent_company": "Cirba Solutions",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Ohio",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.canarymedia.com/articles/batteries/this-ev-battery-recycling-plant-in-ohio-is-planning-a-huge-expansion",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-02-22"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Existing plant sends black mass out for hydromet (S17, Feb 2023); $200M expansion (later >$400M) said to be 'fully operational in late 2024 or early 2025' with processing capacity targeted at +300% to +600% vs 2022 (percentages only; DOE EA-2213 holds tonnage but the PDF exceeded the fetch size limit). No tonnage obtained; capacity null. Retriev Technologies merged with Heritage Battery Recycling and Battery Solutions into Cirba Solutions (search summary). Trail (BC) and Retriev Baltimore/Brea sites not covered (no capacity found). Current expansion status (2026) not verified."
+  },
+  {
+   "action": "add",
+   "id": "cirba-solutions-columbia-south-carolina-usa",
+   "fields": {
+    "asset_name": "Cirba Solutions Columbia (Richland County), South Carolina campus",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "battery-grade metal salts, black mass",
+    "asset_type": "recycling plant (mechanical + hydromet)",
+    "feedstock": "end-of-life EV, ESS and consumer batteries",
+    "operator": "Cirba Solutions",
+    "parent_company": "Cirba Solutions",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "South Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 60000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.newswire.ca/news-releases/cirba-solutions-to-build-world-class-ev-battery-materials-facility-in-south-carolina-847732616.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-22"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "2023 release: campus near Columbia, groundbreaking 2023, operations expected late 2024, Phase I >$300M, salts for >500,000 EV batteries/yr (S18, no tonnes). 60,000 t/yr batteries is from a search summary only (reported). DOE award up to $200M was under negotiation (search summary). No evidence found that the plant was built or is operating; status kept announced (stale 2023 sources). Ref year 2024 = planned start."
+  },
+  {
+   "action": "add",
+   "id": "american-battery-technology-reno-nevada-usa",
+   "fields": {
+    "asset_name": "American Battery Technology Company (ABTC) Reno recycling facility",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass and recovered metals",
+    "asset_type": "recycling plant",
+    "feedstock": "end-of-life and scrap lithium-ion batteries",
+    "operator": "American Battery Technology Company",
+    "parent_company": "American Battery Technology Company",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Nevada",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 19958,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 19958,
+    "installed_as_of": "2024-05-22",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://resource-recycling.com/e-scrap/2024/05/22/nevada-battery-recycling-operation-ramps-up-capacity/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-05-22"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ],
+    "installed_capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Design capacity 44 million lb/yr x 0.45359 = 19,958 t/yr (conversion mine; ABTC rounds to ~20,000 t). Operating at 115% (>50 million lb/yr = >22,680 t/yr annualised run-rate) in May 2024 - a run-rate, not an annual output. Fiscal-2026 (FYE 2026-06-30) revenue $21.7M, +407% (waste360 via search summary), tonnage not disclosed. ABTC plans a second ~100,000 t/yr recycling site in the Southeast (search summary; no site/date) - not added. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "princeton-nuenergy-chester-south-carolina-usa",
+   "fields": {
+    "asset_name": "Princeton NuEnergy Chester (South Carolina) flagship facility",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "direct-recycled cathode material / black mass",
+    "asset_type": "recycling plant (direct recycling)",
+    "feedstock": "end-of-life and scrap batteries",
+    "operator": "Princeton NuEnergy",
+    "parent_company": "Princeton NuEnergy",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "South Carolina",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 15000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 5000,
+    "installed_as_of": "2025-08-13",
+    "capacity_by_year_json": {
+     "2025": 5000,
+     "2026": 15000
+    },
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103478075/Princeton-NuEnergy-Opens-First-Commercial-Scale-Black-Mass-Recycling-Plant-in-US",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-08-13"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "capacity": [
+     "S21"
+    ],
+    "installed_capacity": [
+     "S21"
+    ],
+    "capacity_by_year_json": [
+     "S21"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "SMM (2025-08-13): facility in Chester, SC 'now fully operational', 5,000 metric tons/yr, plan 15,000 t/yr by 2026, potential 50,000 t. Basis (batteries vs black mass) not stated in the quote; treated as feed. Recycling Today (search summary) says 'tons' unspecified. Start year 2025 inferred from 'now fully operational' Aug 2025 (earlier groundbreaking 2024). Whether 15,000 t was reached by 2026 is not verified."
+  },
+  {
+   "action": "add",
+   "id": "umicore-hoboken-battery-recycling-belgium",
+   "fields": {
+    "asset_name": "Umicore Hoboken battery recycling (pilot smelter, Antwerp)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "metal alloy / intermediates for hydromet refining",
+    "asset_type": "recycling plant (pyrometallurgical, pilot)",
+    "feedstock": "end-of-life batteries",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": null,
+    "country": "Belgium",
+    "region": "Europe",
+    "province_state": "Antwerp",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 7000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 7000,
+    "installed_as_of": "2026-11-27",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.umicore.com/en/markets-products/metals/nickel/recycling-refining/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity": [
+     "S22"
+    ],
+    "installed_capacity": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Umicore web page (undated; accessed 2026-11-27) describes a dedicated pilot battery recycling plant with 7,000 t/yr capacity (~20,000 car batteries). Page does not name Hoboken in the quote I captured (summariser tied it to Hoboken facility; Umicore Hoboken is the known location) - treat location as Hoboken per company. Ref year/installed_as_of = access date because the page is undated. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "umicore-large-scale-battery-recycling-plant-europe",
+   "fields": {
+    "asset_name": "Umicore large-scale European battery recycling plant (delayed)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "recycled battery metals",
+    "asset_type": "recycling plant (planned)",
+    "feedstock": "end-of-life batteries",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": null,
+    "country": null,
+    "region": "Europe",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "paused",
+    "announced_year": null,
+    "start_year": 2032,
+    "capacity": 150000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2032,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://resource-recycling.com/e-scrap/2025/04/10/market-factors-combine-to-shift-umicores-capital-plans/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-10"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Resource Recycling (2025-04-10, citing CEO on July 2024 call): 150,000 metric t/yr plant, originally start-up 2026, now no earlier than 2032. Location not given in the source (user brief suggested Olen; not confirmed by any opened source) so country null. 'no earlier than 2032' used as start_year (earliest possible, not a commitment); search summary says Umicore is exploring partnerships and the 2028 roadmap lists the investment as postponed. Umicore 2025 annual report (2026-03-27) not checked."
+  },
+  {
+   "action": "add",
+   "id": "hydrovolt-fredrikstad-norway",
+   "fields": {
+    "asset_name": "Hydrovolt Fredrikstad",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass; aluminium, copper, plastics",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "EV battery packs",
+    "operator": "Hydrovolt",
+    "parent_company": "Norsk Hydro",
+    "jv_partners": null,
+    "country": "Norway",
+    "region": "Europe",
+    "province_state": "Viken",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2022,
+    "capacity": 12000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2022,
+    "installed_capacity": 12000,
+    "installed_as_of": "2026-10-20",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://electrive.com/2026/10/20/hydrovolt-to-recycle-icelands-ev-batteries-in-future",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-10-20"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ],
+    "capacity": [
+     "S24"
+    ],
+    "installed_capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "electrive 2026-10-20: designed for 12,000 t of battery packs/yr, operational since May 2022; Hydro sole owner since 2H 2024 after Northvolt withdrew (Hydro 100%; Northvolt bankrupt March 2025). Former JV partner Northvolt not listed. Black mass output ~2,000+ t/yr expected by 2025 and the 70,000 t (2025)/300,000 t (2030) ambitions are from 2022 announcements via search summary; not confirmed reached. Hydro's own 2022 news URL returned 404."
+  },
+  {
+   "action": "add",
+   "id": "fortum-harjavalta-hydromet-finland",
+   "fields": {
+    "asset_name": "Fortum Harjavalta hydrometallurgical battery recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "nickel sulphate, cobalt sulphate (from black mass)",
+    "asset_type": "hydrometallurgical recycling plant",
+    "feedstock": "black mass",
+    "operator": "Fortum Battery Recycling",
+    "parent_company": "Fortum",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Satakunta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": 2023,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.fortum.com/media/2023/04/fortum-battery-recycling-opens-europes-largest-closed-loop-hydrometallurgical-battery-recycling-facility-finland",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-27"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Fortum describes it as 'already Europe's largest closed-loop hydrometallurgical battery recycling plant' (S26); opened 27 April 2023 (press release date; the 2021 release said operating in 2023). No tonnage in any opened Fortum source (2021 and 2023 releases state none); a French trade article cited a 30,000 t/yr battery goal by 2027 and a >200,000 t battery waste target by 2030 (search summary, unverified). Current 2026 operating status not independently confirmed beyond the company page."
+  },
+  {
+   "action": "add",
+   "id": "fortum-ikaalinen-mechanical-finland",
+   "fields": {
+    "asset_name": "Fortum Ikaalinen mechanical battery recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "end-of-life lithium-ion batteries",
+    "operator": "Fortum Battery Recycling",
+    "parent_company": "Fortum",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Pirkanmaa",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.fortum.com/media/2023/04/fortum-battery-recycling-opens-europes-largest-closed-loop-hydrometallurgical-battery-recycling-facility-finland",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-04-27"
+   },
+   "evidence": {
+    "status": [
+     "S27"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Mechanical stage feeding Harjavalta (S27). No capacity found. Fortum Kirchardt (Germany) pre-treatment hub 'can pre-treat over 3,000 tonnes of batteries per year' (same release; not added as separate row - could be added by the lead)."
+  },
+  {
+   "action": "add",
+   "id": "fortum-next-hydromet-harjavalta-finland",
+   "fields": {
+    "asset_name": "Fortum NEXT HYDROMET (Harjavalta)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "battery-grade nickel sulphate, cobalt sulphate, lithium hydroxide",
+    "asset_type": "hydrometallurgical recycling plant (planned)",
+    "feedstock": "black mass",
+    "operator": "Fortum Battery Recycling",
+    "parent_company": "Fortum",
+    "jv_partners": null,
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Satakunta",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2029,
+    "capacity": 3000,
+    "capacity_unit": "t black mass",
+    "capacity_ref_year": 2029,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.fortum.com/services/battery-recycling/next-hydromet",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S25"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Fortum page: 'in its development phase', estimated start of operations 2029, 3,000 t/yr black mass processing capacity (black-mass input basis). Page undated."
+  },
+  {
+   "action": "add",
+   "id": "basf-schwarzheide-black-mass-germany",
+   "fields": {
+    "asset_name": "BASF Schwarzheide black mass plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "end-of-life lithium-ion batteries and production scrap",
+    "operator": "BASF",
+    "parent_company": "BASF",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Brandenburg",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2022,
+    "start_year": 2025,
+    "capacity": 15000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 15000,
+    "installed_as_of": "2025-06-03",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.basf.com/global/en/media/news-releases/2025/06/p-25-112",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-06-03"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ],
+    "capacity": [
+     "S28"
+    ],
+    "installed_capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "BASF release 2025-06-03: commercial operation started; up to 15,000 t/yr of end-of-life LIBs and production scrap (~40,000 EV batteries). Commissioning was originally planned for early 2024 (electrive, search summary). Black mass pre-treatment by Stena Halmstad is the feed. A planned BASF hydromet refinery (target mid-decade per 2022 release) is a separate, not-built stage. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "cylib-dormagen-germany",
+   "fields": {
+    "asset_name": "cylib Dormagen (Chempark) recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass and battery-grade materials (hydromet)",
+    "asset_type": "recycling plant (mechanical + hydromet)",
+    "feedstock": "end-of-life EV batteries",
+    "operator": "cylib",
+    "parent_company": "cylib",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "North Rhine-Westphalia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": 2026,
+    "capacity": 30000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://heise.de/-9862813",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-09-09"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ],
+    "capacity": [
+     "S29"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Site is Dormagen (Chempark), not Boizenburg as in the brief (no cylib source mentions Boizenburg). Groundbreaking 2024-09-09; expected to start 2026 with 30,000 t/yr (S29). A battery-tech.net summary (undated, unverified) lists 60,000 t/yr (NMC + LFP lines, 2027); conflict unresolved - kept 30,000. 2026 construction progress not found; status under_construction based on the 2024 groundbreaking only."
+  },
+  {
+   "action": "add",
+   "id": "altilium-plymouth-act3-uk",
+   "fields": {
+    "asset_name": "Altilium ACT 3 (Plymouth) scale-up plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "nickel MHP, lithium sulphate, graphite (from black mass)",
+    "asset_type": "recycling plant (hydromet, planned)",
+    "feedstock": "black mass / EV batteries",
+    "operator": "Altilium",
+    "parent_company": "Altilium",
+    "jv_partners": null,
+    "country": "UK",
+    "region": "Europe",
+    "province_state": "England",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2024,
+    "start_year": 2027,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2025/04/22/altilium-starts-construction-of-major-battery-recycling-plant-in-southern-england/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-22"
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "electrive (2025-04-22, updated 2026-04-24): capacity expressed as batteries of ~24,000 EVs/yr, no tonnage (Kallanish via search summary: ~8,000 t/yr black mass and outputs ~5,200 t Ni MHP, 8,000 t lithium sulphate, 5,400 t graphite - unverified). Timing conflict inside the source: 2025 text said construction already begun; 2026 update says construction to begin summer 2026 and commissioning end-2027 -> kept announced. Planned Teesside ACT 4 (30,000 t/yr CAM) not added."
+  },
+  {
+   "action": "add",
+   "id": "ecobat-hettstedt-germany",
+   "fields": {
+    "asset_name": "Ecobat Hettstedt (lithium-ion shredding plant)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "lithium-ion batteries",
+    "operator": "Ecobat",
+    "parent_company": "Ecobat",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Saxony-Anhalt",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2025/04/04/ecobat-now-has-three-lithium-recycling-plants",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-04"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Commissioned end of 2023 (S31). Ecobat's three plants (Hettstedt DE, Darlaston UK, Casa Grande US) 'can thus process 10,000 tons of lithium-ion batteries annually' combined (S32); not split per plant. Fastmarkets (search summary): Hettstedt shredding aimed >10,000 t/yr; Ecobat plans ~25,000 t combined."
+  },
+  {
+   "action": "add",
+   "id": "ecobat-darlaston-uk",
+   "fields": {
+    "asset_name": "Ecobat Darlaston (lithium-ion pre-treatment hub)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "lithium-ion batteries",
+    "operator": "Ecobat",
+    "parent_company": "Ecobat",
+    "jv_partners": null,
+    "country": "UK",
+    "region": "Europe",
+    "province_state": "England",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2025/04/04/ecobat-now-has-three-lithium-recycling-plants",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-04"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Went online November 2024 (S31). Fastmarkets (search summary, undated) quotes planned input capacity >22,000 t/yr - conflicts with the combined 10,000 t/yr for all three plants in Ecobat's April 2025 release (S32); not used. Capacity null."
+  },
+  {
+   "action": "add",
+   "id": "ecobat-casa-grande-arizona-usa",
+   "fields": {
+    "asset_name": "Ecobat Casa Grande (Arizona) lithium-ion recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "lithium-ion batteries",
+    "operator": "Ecobat",
+    "parent_company": "Ecobat",
+    "jv_partners": null,
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Arizona",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2025/04/04/ecobat-now-has-three-lithium-recycling-plants",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-04-04"
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Listed as one of Ecobat's three operational lithium-ion plants (S32); start year not stated (between end-2023 and Nov 2024 per the sequence in the article; start_year 2024 is an inference - lead may null it). Combined capacity of three plants 10,000 t/yr, not allocated."
+  },
+  {
+   "action": "add",
+   "id": "accurec-krefeld-germany",
+   "fields": {
+    "asset_name": "Accurec Krefeld lithium-ion recycling and lithium recovery plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "battery-grade lithium carbonate; black mass",
+    "asset_type": "recycling plant (pyrolysis + hydromet lithium)",
+    "feedstock": "lithium-ion batteries (mostly portable consumer)",
+    "operator": "Accurec Recycling",
+    "parent_company": "Accurec Recycling",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "North Rhine-Westphalia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 20000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2028,
+    "installed_capacity": 6000,
+    "installed_as_of": "2026-02-05",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://recyclinginternational.com/?p=63097",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-05"
+   },
+   "evidence": {
+    "status": [
+     "S33"
+    ],
+    "capacity": [
+     "S33"
+    ],
+    "installed_capacity": [
+     "S33"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Recycling International (2026-02-05): ~6,000 t/yr, expansion to 20,000 t by mid-2028 (expansion depends on approvals per Recycling Magazine, search summary). Conflicts: EUWID ~4,000 t/yr (plan 20,000), Euronews ~5,000 t/yr (both search summaries), electrive 2025-12-02 says the plant's annual capacity 'remains undisclosed'. The lithium plant was officially opened Dec 2025 (start_year 2025 refers to this lithium line; Accurec has recycled batteries in Krefeld/Mülheim earlier). The 6,000 t may refer to the lithium-recovery system's feed."
+  },
+  {
+   "action": "add",
+   "id": "duesenfeld-wendeburg-germany",
+   "fields": {
+    "asset_name": "Duesenfeld Wendeburg recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass and recovered materials",
+    "asset_type": "recycling plant (mechanical + hydromet)",
+    "feedstock": "lithium-ion batteries",
+    "operator": "Duesenfeld",
+    "parent_company": "Duesenfeld",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Lower Saxony",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 3000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2023,
+    "installed_capacity": 3000,
+    "installed_as_of": "2023-03-17",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.cleanthinking.de/duesenfeld-recycelt-3000-tonnen-batterien/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-17"
+   },
+   "evidence": {
+    "status": [
+     "S34"
+    ],
+    "capacity": [
+     "S34"
+    ],
+    "installed_capacity": [
+     "S34"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "cleanthinking.de (2023-03-17): about 3,000 t of batteries can be recycled there at present. Demonstration-scale plant (search summary). Status as of 2026 not verified; a Duesenfeld slide deck gives 500 kg/h (not comparable)."
+  },
+  {
+   "action": "add",
+   "id": "sungeel-hungary-szigetszentmiklos-hungary",
+   "fields": {
+    "asset_name": "SungEel Hungary Szigetszentmiklós recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "spent lithium-ion batteries and scrap",
+    "operator": "SungEel Hungary Kft.",
+    "parent_company": "SungEel HiTech",
+    "jv_partners": null,
+    "country": "Hungary",
+    "region": "Europe",
+    "province_state": "Pest",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://english.atlatszo.hu/2026/03/20/rural-town-is-taking-legal-action-against-polluting-battery-plant/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-20"
+   },
+   "evidence": {
+    "status": [
+     "S35"
+    ],
+    "capacity": [
+     "S35"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Átlátszó (2026-03-20): expanded to 10,000 t/yr at Szigetszentmiklós (permit year 2025 per article). Same article: 'SungEel Hitech will be able to process 27,400 tons of scrap batteries at its facility in Bátonyterenye' (expansion permitted Nov 2025/upheld Feb 2026, municipality sued March 2026) - no 'per year' wording, operating status of the existing Bátonyterenye plant not stated; not added as a row. Earlier 7,000 t/yr figure (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "librec-biberist-switzerland",
+   "fields": {
+    "asset_name": "Librec Biberist recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "EV batteries",
+    "operator": "Librec",
+    "parent_company": "Librec",
+    "jv_partners": null,
+    "country": "Switzerland",
+    "region": "Europe",
+    "province_state": "Solothurn",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2025,
+    "capacity": 12000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2025,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2025/05/03/librec-inaugurates-battery-recycling-plant-in-switzerland",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-05-03"
+   },
+   "evidence": {
+    "status": [
+     "S36"
+    ],
+    "capacity": [
+     "S36"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Inaugurated (electrive, 2025-05-03); 12,000 t/yr. One source lists 9,000 t/yr (search summary) - conflict, kept 12,000 (nameplate). Fraunhofer ISI 2023 blog: Librec aims for 200,000 t/yr by 2026 (company target, not built). Installed vs nameplate not distinguished."
+  },
+  {
+   "action": "add",
+   "id": "stena-recycling-halmstad-sweden",
+   "fields": {
+    "asset_name": "Stena Recycling Halmstad battery plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "EV batteries and battery production scrap",
+    "operator": "Stena Recycling",
+    "parent_company": "Stena",
+    "jv_partners": null,
+    "country": "Sweden",
+    "region": "Europe",
+    "province_state": "Halland",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2023,
+    "capacity": 20000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 10000,
+    "installed_as_of": "2023-03-30",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://stenarecycling.com/what-we-offer/material-recycling/vehicle-batteries",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S37"
+    ],
+    "capacity": [
+     "S38"
+    ],
+    "installed_capacity": [
+     "S37",
+     "S38"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Opened March 2023 (electrive, S37), initial capacity 10,000 t (S37; Stena page: 'initially handle 10,000 tonnes of battery material per year'), scope to scale up to 20,000 t (S38, undated - no ref year). A 2024 trade article quoted 15,000 t/yr (search summary) - conflict. Supplies black mass to BASF Schwarzheide. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "mercedes-benz-kuppenheim-germany",
+   "fields": {
+    "asset_name": "Mercedes-Benz Kuppenheim battery recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass; hydromet metal salts",
+    "asset_type": "recycling plant (mechanical + hydromet, OEM)",
+    "feedstock": "EV batteries and scrap",
+    "operator": "Mercedes-Benz",
+    "parent_company": "Mercedes-Benz Group",
+    "jv_partners": "Primobius (technology partner)",
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Baden-Württemberg",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 2500,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 2500,
+    "installed_as_of": "2024-10-21",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://group.mercedes-benz.com/company/news/recycling-factory-kuppenheim.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-10-21"
+   },
+   "evidence": {
+    "status": [
+     "S39"
+    ],
+    "capacity": [
+     "S39"
+    ],
+    "installed_capacity": [
+     "S39"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Opened 2024-10-21; 2,500 t/yr (Mercedes factsheet; some outlets call it the first-phase figure, others final). Technology partner Primobius (JV of SMS group and Neometals) - Primobius is not an owner of this plant, jv_partners records the technology partner only. Primobius' own Hilchenbach (DE) 10 t/day plant: no confirming quote found. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "northvolt-revolt-ett-skelleftea-sweden",
+   "fields": {
+    "asset_name": "Northvolt Revolt Ett recycling plant (Skellefteå)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass and recycled metals",
+    "asset_type": "recycling plant (mechanical + hydromet)",
+    "feedstock": "batteries and production scrap",
+    "operator": "Northvolt Revolt (acquisition by Lyten agreed 2026-03)",
+    "parent_company": "Lyten (pending); Northvolt (bankrupt)",
+    "jv_partners": null,
+    "country": "Sweden",
+    "region": "Europe",
+    "province_state": "Västerbotten",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 8500,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 8500,
+    "installed_as_of": "2026-03-14",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://electrive.com/2026/03/14/lyten-acquires-another-northvolt-unit/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-14"
+   },
+   "evidence": {
+    "status": [
+     "S40"
+    ],
+    "capacity": [
+     "S40"
+    ],
+    "installed_capacity": [
+     "S40"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Located in Skellefteå next to Northvolt Ett, not Västerås (Västerås hosts Northvolt Labs; the brief's 'Revolt (Västerås)' is a site mismatch). electrive 2026-03-14: Lyten binding agreement, installed capacity 8,500 t/yr, closing expected Q2 2026 (closing not confirmed in found sources). Earlier targets 25,000 t then 125,000 t/yr not achieved (search summary). Basis of the 8,500 t (batteries vs black mass) not stated."
+  },
+  {
+   "action": "add",
+   "id": "ae-elemental-zawiercie-poland",
+   "fields": {
+    "asset_name": "AE Elemental Zawiercie recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "used lithium-ion batteries",
+    "operator": "AE Elemental",
+    "parent_company": "Elemental Strategic Metals / Ascend Elements (JV)",
+    "jv_partners": "Elemental Strategic Metals; Ascend Elements",
+    "country": "Poland",
+    "region": "Europe",
+    "province_state": "Silesia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2024,
+    "start_year": 2024,
+    "capacity": 12000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 12000,
+    "installed_as_of": "2024-09-23",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.electrive.com/2024/09/23/ae-elemental-opens-recycling-plant-in-poland/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-09-23"
+   },
+   "evidence": {
+    "status": [
+     "S41"
+    ],
+    "capacity": [
+     "S41"
+    ],
+    "installed_capacity": [
+     "S41"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "electrive 2024-09-23: opened, 12,000 t/yr. JV partner Ascend Elements filed Chapter 11 in April 2026 (AJC); current JV status not verified. A planned German AE Elemental plant (25,000 t/yr) and lithium extraction add-on are not added (no opened source)."
+  },
+  {
+   "action": "add",
+   "id": "sk-tes-rotterdam-netherlands",
+   "fields": {
+    "asset_name": "SK tes Rotterdam battery recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant (mechanical)",
+    "feedstock": "EV batteries and scrap",
+    "operator": "SK tes",
+    "parent_company": "SK ecoplant",
+    "jv_partners": null,
+    "country": "Netherlands",
+    "region": "Europe",
+    "province_state": "South Holland",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2024,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 10000,
+    "installed_as_of": "2024-09-09",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.sktes.com/press-release/sk-tes-opens-cutting-edge-battery-recycling-facility-in-netherlands-to-meet-surging-demand-in-electric-vehicle-market",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-09-09"
+   },
+   "evidence": {
+    "status": [
+     "S42"
+    ],
+    "capacity": [
+     "S42"
+    ],
+    "installed_capacity": [
+     "S42"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Opening announced 2024-09-09; 'up to 10,000 tonnes of material annually' (not specifically batteries), plan to double on adjacent plot. Black mass output quoted as ~5,000 t or up to 10,000 t (search summaries; conflict). A Korean report (via search summary) says a second-stage plant would bring black-mass output to 25,000 t/yr by end-2025 - not confirmed. SK tes Yancheng (China) completed 2023, ~2,000 t black mass (search summary) - not added."
+  },
+  {
+   "action": "add",
+   "id": "brunp-recycling-ningxiang-china",
+   "fields": {
+    "asset_name": "Hunan Brunp Recycling Plant 1 (Ningxiang)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "NCM precursor, lithium carbonate, nickel/cobalt salts",
+    "asset_type": "recycling plant (hydromet)",
+    "feedstock": "waste power batteries",
+    "operator": "Hunan Brunp Recycling Technology Co., Ltd.",
+    "parent_company": "CATL (Brunp Recycling)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.mysteel.net/news/5123530-flash-hunan-brunps-power-battery-recycling-project-expands-production-capacity-by-approximately-12-000-tonnes",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-13"
+   },
+   "evidence": {
+    "status": [
+     "S43"
+    ],
+    "capacity": [
+     "S43"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Mysteel (2026-05-13): approved expansion of Plant 1 with 20,000 t/yr total processing capacity (the headline says +12,000 t; pre-treatment of waste cells rising from 8,100 to 20,000 t/yr and Li2CO3 from 3,000 to 7,000 t/yr, per search summary) and 13,150 t NCM precursor. The 20,000 t is the post-expansion total (ref year 2026 assumed = approval year); existing 8,100 t not opened. Brunp group: >120,000 t of used batteries and 17,100 t recycled lithium salts processed in 2024 (electrive 2025-10-23, https://www.electrive.com/2025/10/23/catl-subsidiary-brunp-reports-progress-in-battery-recycling; company-level, not allocated). Other Brunp bases (Yichang, Foshan, Indonesia Morowali ~20,000 t/yr older profile) have no site-level confirmed figure."
+  },
+  {
+   "action": "add",
+   "id": "brunp-recycling-yichang-lfp-china",
+   "fields": {
+    "asset_name": "Yichang Brunp waste LFP battery recycling project",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "lithium salts, iron phosphate (from spent LFP)",
+    "asset_type": "recycling plant (hydromet, planned)",
+    "feedstock": "spent lithium iron phosphate batteries",
+    "operator": "Yichang Brunp Recycling",
+    "parent_company": "CATL (Brunp Recycling)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "city",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 300000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/103877332-이창-브룬프-연간-30만-톤의-리튬인산철-배터리-재활용을-위한-10억-6600만-달러-프로젝트-착수",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-27"
+   },
+   "evidence": {
+    "status": [
+     "S44"
+    ],
+    "capacity": [
+     "S44"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "SMM 2026-04-27: designed to process 300,000 t/yr spent LFP batteries, investment 1.066 bn yuan (headline mis-states USD). One other SMM item gives 30,000 t for the same project (search summary) - possible typo/conflict; EIA draft out for comment 2026-06-03 (search summary). Status announced (EIA/permitting stage; the headline says 'launches' but no construction evidence)."
+  },
+  {
+   "action": "add",
+   "id": "posco-hy-clean-metal-gwangyang-south-korea",
+   "fields": {
+    "asset_name": "POSCO HY Clean Metal Gwangyang (Yulchon) battery recycling plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "lithium carbonate, nickel/cobalt/manganese sulphates (from black mass)",
+    "asset_type": "recycling plant (hydromet)",
+    "feedstock": "black mass",
+    "operator": "POSCO HY Clean Metal",
+    "parent_company": "POSCO Holdings",
+    "jv_partners": "POSCO Holdings; Huayou Cobalt",
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "South Jeolla",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": 2023,
+    "capacity": 12000,
+    "capacity_unit": "t black mass",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 12000,
+    "installed_as_of": "2026-11-10",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://biz.heraldcorp.com/article/10932330",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-11-10"
+   },
+   "evidence": {
+    "status": [
+     "S45"
+    ],
+    "capacity": [
+     "S45"
+    ],
+    "installed_capacity": [
+     "S45"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Herald (2026-11-10): 12,000 t/yr black mass (input), 2,500 t/yr lithium carbonate, lithium-carbonate line at >95% utilisation. 2023 sources: from 12,000 t recovers 2,500 t Ni, 800 t Co, 2,500 t Li2CO3; Oct 2026 Maeil Business gives 12,000 t NiSO4, 3,800 t CoSO4, 2,000 t MnSO4 (sulphate vs metal basis; search summaries). Start year 2023 and Huayou JV partner from search summaries/2023 coverage, not opened. POSCO Poland (Legnica) sourcing centre produces ~8,000 t/yr black mass (search summary) - not added."
+  },
+  {
+   "action": "add",
+   "id": "sungeel-hitech-saemangeum-no3-south-korea",
+   "fields": {
+    "asset_name": "SungEel HiTech Saemangeum No. 3 (3rd Hydro Center), Gunsan",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass / hydromet products",
+    "asset_type": "recycling plant (hydromet)",
+    "feedstock": "black powder (black mass)",
+    "operator": "SungEel HiTech",
+    "parent_company": "SungEel HiTech",
+    "jv_partners": null,
+    "country": "South Korea",
+    "region": "East Asia",
+    "province_state": "North Jeolla",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "city",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2021,
+    "start_year": 2024,
+    "capacity": 20000,
+    "capacity_unit": "t black mass",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 20000,
+    "installed_as_of": "2026-02-26",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/en/newscontent/103779133-SungEel-HiTech-Restores-Saemangeum-Plant-Utilization-to-90",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-26"
+   },
+   "evidence": {
+    "status": [
+     "S46",
+     "S47"
+    ],
+    "capacity": [
+     "S46"
+    ],
+    "installed_capacity": [
+     "S46"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CONFLICT: SMM 2026-02-26 gives 20,000 t/yr and ~90% utilisation (S46); Asia Economy 2024-07-02 says the 3rd Hydro Center, completed early June 2024, can process 40,000 t/yr on black powder input (S47). Unresolved - the 20,000 t figure (later, more specific) is used; the 40,000 t may be a design/phase-2 or scope difference. 2022 IPO plan was 10,000 t. Start 2024 from the asiae completion report. SungEel's older Gunsan plants and LFP pilot (~500 t) not added."
+  },
+  {
+   "action": "add",
+   "id": "sumitomo-metal-mining-toyo-niihama-japan",
+   "fields": {
+    "asset_name": "Sumitomo Metal Mining LIB recycling (Toyo Works, Saijo + Niihama Nickel Refinery)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "nickel, cobalt, lithium, copper recovered (dry + wet process)",
+    "asset_type": "recycling plant (pyro + hydromet, two-site process)",
+    "feedstock": "used lithium-ion battery cells",
+    "operator": "Sumitomo Metal Mining",
+    "parent_company": "Sumitomo Metal Mining",
+    "jv_partners": null,
+    "country": "Japan",
+    "region": "East Asia",
+    "province_state": "Ehime",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": 2023,
+    "start_year": 2026,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": 10000,
+    "installed_as_of": "2026-09-11",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://biz-journal.jp/company/post_396041.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-09-23"
+   },
+   "evidence": {
+    "status": [
+     "S48"
+    ],
+    "capacity": [
+     "S48"
+    ],
+    "installed_capacity": [
+     "S48"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Business Journal (2026-09-23): the two sites (Toyo dry, Niihama wet) are linked to process about 10,000 t/yr of used batteries (battery-cell basis); completion ceremony at the Toyo Works on Sept 11 (year not in body text; article 2026). One row for the two-site process (capacity not allocated between sites). Earlier targets: Nikkan Kogyo (2023-06): 'aim for ~10,000 t/yr'; Argus 2024 quoted ~6,000-7,000 t/yr black mass (search summary). Completed later than the planned June 2026."
+  },
+  {
+   "action": "add",
+   "id": "attero-recycling-roorkee-india",
+   "fields": {
+    "asset_name": "Attero Recycling Roorkee (Uttarakhand) lithium-ion battery recycling",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass, recovered metals",
+    "asset_type": "recycling plant",
+    "feedstock": "end-of-life lithium-ion batteries",
+    "operator": "Attero Recycling",
+    "parent_company": "Attero Recycling",
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": "Uttarakhand",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 15000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 15000,
+    "installed_as_of": "2024-12-19",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://evreporter.com/we-are-the-only-facility-in-india-capable-of-handling-all-kinds-of-end-of-life-lithium-ion-batteries-nitin-gupta/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-12-19"
+   },
+   "evidence": {
+    "status": [
+     "S49"
+    ],
+    "capacity": [
+     "S49"
+    ],
+    "installed_capacity": [
+     "S49"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "EVreporter interview (Dec 2024): ~15,000 t/yr of battery recycling at full capacity; main plant Roorkee. Argus (search summary): 15,000 t/yr Li-ion and ~144,000 t/yr e-waste; plans 100,000 t/yr Li-ion plant in Andhra Pradesh and 200,000 t/yr target (not added - no opened source). BDO India estimate 17,500 t/yr (ThePrint via search summary) - conflict. Industry total India ~50-60 kt/yr (search summary)."
+  },
+  {
+   "action": "add",
+   "id": "lohum-battery-recycling-india",
+   "fields": {
+    "asset_name": "Lohum Cleantech battery recycling (India)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant",
+    "feedstock": "battery scrap and end-of-life batteries",
+    "operator": "Lohum",
+    "parent_company": "Lohum",
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2024,
+    "installed_capacity": 20000,
+    "installed_as_of": "2024-02-12",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.fastmarkets.com/insights/indias-ev-battery-gigafactory-plans-could-spur-black-mass-imports-and-cut-exports",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-02-12"
+   },
+   "evidence": {
+    "status": [
+     "S50"
+    ],
+    "capacity": [
+     "S50"
+    ],
+    "installed_capacity": [
+     "S50"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Fastmarkets (2024-02-12): input capacity 20,000 t battery scrap, can produce 10,000 t/yr black mass. Plant location (Greater Noida, UP) not confirmed by the opened page, so province null. Earlier ~1,000 t/yr and BDO India 20,000 t (ThePrint via search summary). Lohum also has a battery-grade lithium refinery plan (~1 Mtpa per search summary; not verified) - belongs in refining."
+  },
+  {
+   "action": "add",
+   "id": "tes-tes-b-lithium-ion-recycling-singapore",
+   "fields": {
+    "asset_name": "TES-B lithium-ion battery recycling plant (Singapore)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "recovered nickel, cobalt, lithium (precious metals)",
+    "asset_type": "recycling plant",
+    "feedstock": "lithium-ion batteries",
+    "operator": "TES (TES-AMM)",
+    "parent_company": "TES",
+    "jv_partners": null,
+    "country": "Singapore",
+    "region": "Southeast Asia",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2021,
+    "capacity": 5000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2021,
+    "installed_capacity": 5000,
+    "installed_as_of": "2021-03-24",
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.mse.gov.sg/latest-news/speech-at-official-opening-of-tes-b-plant/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2021-03-24"
+   },
+   "evidence": {
+    "status": [
+     "S51"
+    ],
+    "capacity": [
+     "S51"
+    ],
+    "installed_capacity": [
+     "S51"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "Minister's speech at the official opening of TES-B (2021-03-24): annual capacity 5,000 t of Li-ion batteries (14 t/day per search summary). Operating since 2021 per the opening event (status inferred from 'official opening' speech); current utilisation unknown. Government later cited other Singapore EV battery recyclers at 8,600 t combined plus KGS 2,600 t/yr (search summary). Green Li-ion (Singapore): no source found."
+  },
+  {
+   "action": "add",
+   "id": "beeah-lohum-sharjah-uae",
+   "fields": {
+    "asset_name": "BEEAH-Lohum (MoEI) EV battery recycling facility, Al Saja'a, Sharjah",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass (for shipment to India)",
+    "asset_type": "recycling plant (planned JV)",
+    "feedstock": "EV and lithium-ion batteries",
+    "operator": "BEEAH-Lohum joint venture",
+    "parent_company": "BEEAH Group",
+    "jv_partners": "BEEAH; Lohum; UAE Ministry of Energy and Infrastructure (MoEI)",
+    "country": "UAE",
+    "region": "Middle East",
+    "province_state": "Sharjah",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "town",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": 2026,
+    "capacity": 1500,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.beeahgroup.com/moei-beeah-and-lohum-to-form-joint-venture-partnership-advancing-plans-for-uaes-first-ev-battery-recycling-facility/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-15"
+   },
+   "evidence": {
+    "status": [
+     "S52"
+    ],
+    "capacity": [
+     "S52"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "BEEAH release 2026-01-15: JV aims to develop the facility in 2026 with 1,500 t/yr, doubling by year 3 (so ~3,000 t/yr by about 2028-29; doubling not captured in capacity). Output black mass for Lohum's Indian refining (search summary). Not verified whether construction has begun by Nov 2026. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "witthal-gulf-kezad-abu-dhabi-uae",
+   "fields": {
+    "asset_name": "Witthal Gulf Industries lithium battery recycling plant (KEZAD, Abu Dhabi)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass, copper, aluminium",
+    "asset_type": "recycling plant (planned)",
+    "feedstock": "lithium battery waste",
+    "operator": "Witthal Gulf Industries",
+    "parent_company": "Witthal Gulf Industries",
+    "jv_partners": "KEZAD Group (Khalifa Economic Zones Abu Dhabi)",
+    "country": "UAE",
+    "region": "Middle East",
+    "province_state": "Abu Dhabi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": 2027,
+    "capacity": 5000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2027,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "production": null,
+    "end_market": "battery",
+    "source_url": "https://www.zawya.com/en/projects/industry/uaes-first-lithium-battery-recycling-plant-to-begin-operations-in-2027-qumpgkt8",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S53"
+    ],
+    "capacity": [
+     "S53"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Zawya Projects (undated): 5,000 t/yr, full operations Q2 2027; partners KEZAD Group and Witthal Gulf Industries. KEZAD partner role (JV vs landlord) not clear from the page; exact site not stated. An energy-solutions.co claim of >150,000 t/yr combined UAE/Saudi capacity is uncorroborated and ignored."
+  }
+ ]
+}
