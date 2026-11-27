@@ -20,10 +20,12 @@ SC191 installed capacity (filings) · SC192 installed capacity (web, ex-China).
 SC021 nickel ex-Indonesia, SC032 manganese, SC150/SC160 coordinates, SC161 China plant capacities, SC170 supply links,
 SC180 HKEX filings, sc_timeseries, charts, docs; SC audits 2 and 3 (FAIL → fixed; built = confirmed-date floor).
 
-## Next
-1. Merge running tasks; re-run SC audit (audit 2) on the whole after fixes + new steps.
-2. Gap passes where coverage is weakest (team/RECONCILIATION_SC.md): China processing site-level capacity (anode,
-   cathode, separator, electrolyte — more filings: unlisted makers via MIIT + provincial EIA notices), China graphite mine
-   output, Zimbabwe lithium, Indonesian cobalt in MHP, nickel/cobalt refining China per plant.
-3. Cross-step links (`feeds`: mine → refinery → pCAM → CAM → cell plant, offtakes), supply-chain charts (Ember style),
-   docs (docs/SUPPLY_CHAIN_METHODS.md, data dictionary section), FINAL report section; delete the recurring wake task when done.
+## Next (as of 2026-11-27 evening; 905 assets, 14/14 checks, audits 1–3 fixed)
+1. Built-capacity evidence for remaining Chinese bases (EIA 竣工验收 notices; HKEX prospectuses of A+H listings —
+   route in team/lessons/hkex-filings.md: Hunan Yuneng, Capchem, Tinci, CNGR H, Lopal H).
+2. Mine output gaps: Zimbabwe lithium (national only), China lepidolite/graphite, Indonesian ore grades (nickel),
+   South Africa/Gabon manganese grades.
+3. More plant-level supply links where contracts name plants (current: 40 rows with feeds).
+4. HPMSA producers in China; cobalt refineries China per plant; Electra CoSO4 unit check.
+5. Opus audit 4 on SC191–SC195 + any new passes; refresh FINAL_REPORT_SC.md and charts; delete recurring wake task
+   when the owner's 2-day window ends or nothing material remains.
