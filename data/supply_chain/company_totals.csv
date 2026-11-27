@@ -94,3 +94,6 @@ Tengyuan Cobalt,refining,2025,capacity,nickel (group),60000.0,t Ni,group,301219_
 Nornickel,mining,2025,production,nickel,199000.0,t Ni,"group (AK&M 2026-01-28, via SC021 notes)",SC021 notes,,SC021,nornickel,global
 Lygend,refining,2025,capacity,nickel (HPAL MHP),120000.0,t Ni,Obi HPAL HPL+ONC designed,LYGEND_2245_AR2025.txt,93-95,SC180,pt-halmahera-persada-lygend|pt-obi-nickel-cobalt,global
 Jinchuan Intl,mining,2025,production,cobalt,1085.0,t Co,group,HK_2362_AR2025.txt,391-392,SC180,jinchuan,global
+Jinchuan Group,refining,2025,capacity,nickel products,330000,t Ni,group (SC021 source),SC021 notes,n/a,SC021,jinchuan-group,china
+GEM,refining,2025,capacity,nickel in MHP (Indonesia park incl. participating lines),150000,t Ni,Indonesia park,002340_2025.txt,498-500,SC105,gem-qmb|esg|meiming,global
+GEM,refining,2025,production,nickel shipments (Indonesia park),110839,t Ni,Indonesia park,002340_2025.txt,561,SC105,gem-qmb|esg|meiming,global

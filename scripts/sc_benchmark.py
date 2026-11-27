@@ -18,10 +18,12 @@ import pandas as pd
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sc_build import COUNTRY_ALIASES  # noqa: E402
+from sc_core import built_upper  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INTERMEDIATE = {"t Ni in MHP", "t Ni in matte"}
 LI_CHEM = re.compile(r"carbonate|chloride|hydroxide|Li2CO3|LiOH|LiCl|lithium salt", re.I)
+BRINE = re.compile(r"brine|salar|salt.?lake|盐湖", re.I)
 
 
 def main():
@@ -41,7 +43,10 @@ def main():
         com, sub = m.group(1).strip(), m.group(2)
         s = a[(a.step == r.step) & (a.commodity == com)]
         if r.step == "refining" and com == "lithium":
-            s = pd.concat([s, a[(a.step == "mining") & (a.commodity == "lithium") & a["product"].fillna("").str.contains(LI_CHEM)]])
+            onsite = a[(a.step == "mining") & (a.commodity == "lithium") & a["product"].fillna("").str.contains(LI_CHEM)
+                       & ~a["product"].fillna("").str.contains("brine|concentrate", case=False)
+                       & (a.feedstock.fillna("") + " " + a.asset_type.fillna("") + " " + a.asset_name.fillna("")).str.contains(BRINE)]
+            s = pd.concat([s, onsite])   # D-103: on-site brine chemical plants only (audit 2 D8)
         if sub and com != "nickel":
             s = s[s["product"].fillna("").str.contains(sub.split("/")[0], case=False)]
         if r.country != "World":
@@ -50,20 +55,21 @@ def main():
         if com == "nickel" and r.step == "refining":
             im = s.capacity_unit.isin(INTERMEDIATE)
             si = s[im]
-            inter = si.installed_norm.where(si.installed_norm.notna(),
-                                            si.capacity_norm.where(si.capacity_ref_year.fillna(9999) <= yr)).sum()
+            inter = sum(built_upper(x, yr)[0] for x in si.itertuples())
             s = s.assign(norm_unit=s.norm_unit.where(~im, "t Ni (intermediate)"))
         p = s[s.production_year.between(yr - 1, yr + 1) & (s.production_norm_unit == r.norm_unit)]
         c = s[s.norm_unit == r.norm_unit]
-        built = c.installed_norm.where(c.installed_norm.notna(),
-                                       c.capacity_norm.where(c.capacity_ref_year.fillna(9999) <= yr))
-        plan = c.capacity_norm.where(c.installed_norm.isna() & (c.capacity_ref_year.fillna(9999) > yr))
+        bu = [built_upper(x, yr) for x in c.itertuples()]
+        built = pd.Series([v[0] for v in bu], index=c.index, dtype=float)
+        plan = pd.Series([v[1] - v[0] for v in bu], index=c.index, dtype=float)
+        built_rep = built[c.evidence_tier == "reported"].sum()
         cco = cc[(cc.step == r.step) & (cc.unit == r.norm_unit) & (cc.year == yr)] if (r.country in ("China", "World") and not sub) else cc.iloc[0:0]
         china = cco[cco.geo_scope == "china"] if r.country == "China" else cco
         rows.append(dict(step=r.step, commodity=r.commodity, metric=r.metric, year=yr, country=r.country,
                          benchmark=r.value, unit=r.norm_unit,
                          ours_production=round(p.production_norm.sum()), n_prod=len(p),
                          ours_capacity=round(built.sum()), plan_only_capacity=round(plan.sum()),
+                         built_reported_tier=round(built_rep),
                          intermediate_capacity=round(inter),
                          production_coverage=round(p.production_norm.sum() / r.value, 2),
                          capacity_ratio=round(built.sum() / r.value, 2),

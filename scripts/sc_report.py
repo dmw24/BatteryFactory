@@ -34,7 +34,7 @@ def main():
         cov = (r.ours_production + extra) / r.benchmark
         L.append(f"| {r.commodity} | {r.country} | {fmt(r.benchmark)} {r.unit} | {fmt(r.ours_production)} | {fmt(extra)} | {cov:.0%} |")
     L += ["", "## Processing — China/world output benchmarks vs our capacity and company-disclosed output", "",
-          "| step | product | metric | area | year | benchmark | built site capacity | plan-only (unbuilt phases) | unallocated company capacity | company output (China-only cos.) | company output incl. overseas |",
+          "| step | product | metric | area | year | benchmark | built site capacity (installed/dated) | rest of operational plans (upper bound) | unallocated company capacity | company output (China-only cos.) | company output incl. overseas |",
           "|---|---|---|---|---|---:|---:|---:|---:|---:|---:|"]
     p = b[(b.step != "mining") & b.year.between(2024, 2025)]
     p = p.sort_values("year").groupby(["step", "commodity", "metric", "country"]).tail(1)

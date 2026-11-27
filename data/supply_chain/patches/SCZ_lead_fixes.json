@@ -227,6 +227,93 @@
    "action": "remove",
    "id": "jade-bay-metal-industry-indonesia",
    "reason": "audit 2026-11-27 (SC audit 1) CGS (e): same 27.5 kt figure and IWIP location as cngr-debonair-low-matte-indonesia; CGS 'Unclear' duplicate of the Debonair project"
+  },
+  {
+   "action": "fix",
+   "id": "pt-vale-indonesia-pomalaa-mine-indonesia",
+   "fields": {
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D4: 298,259 t not in any quote (Bahodopi figure / bulk-sampling sales) — nulled.)"
+  },
+  {
+   "action": "fix",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D6: GEM's 150 kt and 110,839 t shipments cover the whole Indonesian park incl. partner lines (ESG, Meiming) — moved to company_totals; row keeps plant capacity only.)"
+  },
+  {
+   "action": "fix",
+   "id": "cngr-indonesia-high-matte-80kt-indonesia",
+   "fields": {
+    "capacity": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "part_of": "cngr-nadesico-low-matte-indonesia"
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D7: low→high matte conversion of the same nickel (Nadesico/Debonair low matte) — capacity not additive; nulled, linked via part_of.)"
+  },
+  {
+   "action": "fix",
+   "id": "novonix-riverside-chattanooga-united-states",
+   "fields": {
+    "status": "under_construction"
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D9: company page says 'poised to become' / 'plans to grow output to 20,000 tpa' — not yet commercial; 20,000 tpa is the plan.)"
+  },
+  {
+   "action": "fix",
+   "id": "enchem-georgia-united-states",
+   "fields": {
+    "capacity_by_year_json": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D11: 2024=100,000 was a target, not a completion — dated step removed.)"
+  },
+  {
+   "action": "fix",
+   "id": "capchem-jingmen-electrolyte-china",
+   "fields": {
+    "capacity_by_year_json": "{\"2024\": 80000}"
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D11: 2026 step (phase 2, 20% complete, target 2026-12-31) removed; it is a plan.)"
+  },
+  {
+   "action": "fix",
+   "id": "mineral-resources-wodgina-australia",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D12: Wodgina→Kemerton tolling ended 30 June 2024 — historical link removed from feeds (kept in notes).)"
+  },
+  {
+   "action": "fix",
+   "id": "nemaska-lithium-whabouchi-canada",
+   "fields": {
+    "feeds": null
+   },
+   "notes": "lead (audit 2026-11-27 (SC audit 2) D12: quote is an LiOH offtake, not a mine→refinery link — removed.)"
+  },
+  {
+   "action": "fix",
+   "id": "jinchuan-group-nickel-refining-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 2 D10): 330 kt is Jinchuan Group's group-wide nickel products figure, not one site — moved to company_totals."
   }
  ]
 }

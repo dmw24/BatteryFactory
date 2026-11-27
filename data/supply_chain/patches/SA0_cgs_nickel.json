@@ -1469,17 +1469,10 @@
    "fields": {
     "latitude": 0.4871,
     "longitude": 127.9932,
-    "geo_precision": "site",
-    "capacity": 45000.0,
-    "capacity_unit": "t NPI Ni",
-    "capacity_ref_year": 2025
+    "geo_precision": "site"
    },
-   "evidence": {
-    "capacity": [
-     "C27"
-    ]
-   },
-   "notes": "CGS dataset: SAF → NPI, gross output 350000.0 t, Ni-equivalent 45000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+   "evidence": {},
+   "notes": "CGS dataset: SAF → NPI, gross output 350000.0 t, Ni-equivalent 45000.0 t; status 2025 'Operating'; park Indonesia Weda Bay Industrial Park (IWIP); location status 'Exact'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note). [lead, audit 2 D3] CGS capacity not applied — company filing values take precedence."
   },
   {
    "action": "update",
@@ -2698,17 +2691,10 @@
    "fields": {
     "latitude": -1.56863,
     "longitude": 127.42875,
-    "geo_precision": "town",
-    "capacity": 185000.0,
-    "capacity_unit": "t NPI Ni",
-    "capacity_ref_year": 2025
+    "geo_precision": "town"
    },
-   "evidence": {
-    "capacity": [
-     "C77"
-    ]
-   },
-   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 185000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Construction'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note)."
+   "evidence": {},
+   "notes": "CGS dataset: RKEF → FeNi, gross output nan t, Ni-equivalent 185000.0 t; status 2025 'Operating'; park Kawasan Industri Pulau Obi / Obi Island Industrial Park; location status 'Construction'. Coordinates from CGS; status/capacity kept from company sources (CGS values in this note). [lead, audit 2 D3] CGS capacity not applied — company filing values take precedence."
   },
   {
    "action": "add",

@@ -140,3 +140,12 @@ Jade Bay duplicate removed; CGS construction points → town precision. sc_bench
 nickel one stage per chain (intermediates separate), D-103 brine chemicals in Li refining, China-only vs incl.-overseas
 company totals, active rows only; scripts/sc_build_all.py regenerates every derived file. Open: CNGR Indonesian
 smelter chain links (part_of), Goulamina design-grade norm, Wanrun Hubei aggregate row.
+
+## SC audit 2 (Opus) — 2026-11-27 — FAIL → fixed
+New rows sample 52: 21% number-changing defects, no fabricated quotes. Fixed as rules (scripts/sc_core.py shared by
+benchmark and timeseries): built = installed/dated steps only (D1/D5), rest of plan = upper bound; nickel intermediates
+split in the timeseries (D2); CGS patch renamed SA0_ so filings override it, KPS/Huake capacity overrides dropped (D3);
+D-103 brine regex tightened (D8); reported-tier built shown separately (systemic D). Rows: Pomalaa production (D4),
+GEM QMB park totals → company_totals (D6), CNGR high-matte conversion part_of (D7), Novonix → under construction (D9),
+Jinchuan group → company_totals (D10), target steps removed (D11), unsupported feeds removed (D12). Open: ref_basis is
+still not a field (rule now avoids needing it); Electra CoSO4 unit; Harita ore sales as production (labelled).
