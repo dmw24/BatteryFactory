@@ -159,3 +159,11 @@ recycling,recycling,capacity,Europe,2026,420000.0,t feed,"Fraunhofer ISI 2025-07
 mining,graphite,production,China (Luobei county),2020,380000.0,t graphite,MEE inspection bulletin 2021-12-16,https://www.mee.gov.cn/ywgz/zysthjbhdc/dcjl/202112/t20211216_964308.shtml,,,2020年，全县生产石墨精粉38万吨、球形石墨9.8万吨。
 mining,lithium,production,World,2025,1806300.0,t LCE,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)",http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF,,,2025 年全球锂资源供应量 180.63 万吨碳酸锂（LCE）
 cathode,cathode (LFP),production,World,2025,3915000.0,t CAM,ICC 鑫椤 via CNGR 2025 annual report,http://static.cninfo.com.cn/finalpage/2026-03-31/1225054811.PDF,,,2025 年全球磷酸铁锂总产量达 391.5 万吨
+mining,manganese,production,South Africa,2025,7600000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,Gabon,2025,5000000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,Ghana,2025,2000000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,Australia,2025,1600000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,Brazil,2025,800000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,India,2025,790000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,China,2025,700000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+mining,manganese,production,World,2025,20000000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,

@@ -1,0 +1,1141 @@
+{
+ "task": "SC032",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.eramet.com/wp-content/uploads/2026/02/2026-18-02-Eramet-PR-FY-2025.pdf",
+   "publisher": "Eramet, FY 2025 results press release (PDF p.8)",
+   "published": "2026-02-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "volumes for manganese ore transported and sold externally came out to 6.1 Mt and 5.5 Mt respectively ... production at the Moanda mine was up 4% to 7.1 Mt."
+  },
+  "S2": {
+   "url": "https://www.eramet.com/wp-content/uploads/2026/02/2026-18-02-Eramet-PR-FY-2025.pdf",
+   "publisher": "Eramet, FY 2025 results press release (PDF p.8, market trends)",
+   "published": "2026-02-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Manganese ore production increased to 20.8 Mt-Mn (+7%), strongly increasing in H2 (+12% vs. H1 2025)."
+  },
+  "S3": {
+   "url": "https://www.opis.com/resources/energy-market-news-from-opis/south32-exceeds-gemco-manganese-fy25-output-guidance/",
+   "publisher": "OPIS (Dow Jones), news item on South32 June 2025 quarterly report",
+   "published": "2025-07",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "South32 has exceeded its Australia 1 mt manganese production guidance for FY2025 ... with an output of 1.1 mt for year ending June"
+  },
+  "S4": {
+   "url": "https://www.opis.com/resources/energy-market-news-from-opis/south32s-australia-gemco-mine-resumes-manganese-output/",
+   "publisher": "OPIS (Dow Jones), news item on GEMCO restart",
+   "published": "2025",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "a 60% stake in the Samancor manganese joint venture ... Anglo American owns the remaining 40%"
+  },
+  "S5": {
+   "url": "https://www.miningweekly.com/article/south-africa-manganese-delivers-strong-finish-with-25-higher-last-quarter-production-2025-07-21",
+   "publisher": "Mining Weekly (page blocked to fetch; text from search result)",
+   "published": "2025-07-21",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Saleable production was largely unchanged at 2.151 [million wet tons] in FY25 (South Africa Manganese, South32 FY ended June 2025); FY26 South Africa manganese production guidance remains unchanged at 2 000 000 wmt."
+  },
+  "S6": {
+   "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nkbdxkqyfdst.pdf",
+   "publisher": "Jupiter Mines Ltd, ASX Preliminary Final Report FY2025 (PDF p.2)",
+   "published": "2025-08-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The 2025 financial year saw Tshipi achieve record-breaking results across sales, mining and material processed ... Jupiter's 49.9% share of profit from Tshipi was $42.5 million at year-end"
+  },
+  "S7": {
+   "url": "https://quartr.com/events/jupiter-mines-limited-jms-agm-2025_F3OOkUgF",
+   "publisher": "Quartr AI-generated summary of Jupiter Mines AGM 2025 (page itself warns it may contain errors)",
+   "published": "2025-11-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Tshipi Manganese Mine reported record operational and sales results, processing about 3.72 million tonnes and exporting about 3.6 million tonnes of manganese ore (FY2025, year to 30 June 2025)."
+  },
+  "S8": {
+   "url": "https://www.manganese.org/en/tech-tours/kalagadi-mine",
+   "publisher": "International Manganese Institute (IMnI), Kalagadi Mine tech tour page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The mine has the capacity to produce 3million tonnes of manganese ore"
+  },
+  "S9": {
+   "url": "https://gna.org.gh/2026/08/ghana-manganese-company-targets-700000-tonnes-production-in-august/",
+   "publisher": "Ghana News Agency",
+   "published": "2026-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ghana's sole manganese Miner and exporter ... an annual target of eight million tonnes",
+   "tier": "reported",
+   "snippet": "Ghana's sole manganese Miner and exporter ... an annual target of eight million tonnes",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S10": {
+   "url": "https://www.graphic.com.gh/features/opinion/ghana-news-manganese-positioning-ghana-for-the-next-phase-of-mineral-value-creation.html",
+   "publisher": "Graphic Online (Ghana), opinion feature",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "to 4.75 million tonnes in 2024 and 5.28 million tonnes in 2025 ... The Nsuta Mine in the Western Region, which began commercial operations in 1916"
+  },
+  "S11": {
+   "url": "https://der.wa.gov.au/images/documents/our-work/licences-and-works-approvals/aacr/L6131/L6131%2001OCT24-30SEP25.pdf",
+   "publisher": "WA Dept of Water and Environmental Regulation, licence L6131 annual compliance report 1 Oct 2024-30 Sep 2025 (Pilbara Manganese Pty Ltd) - page blocked to fetch; text from search result",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "During the reporting period, Woodie produced 1,343,782 tonnes of manganese ore and supports over 440 personnel."
+  },
+  "S12": {
+   "url": "https://www.steelorbis.com/steel-news/latest-news/indias-moil-limited-sees-6-rise-in-manganese-ore-output-in-fy-2025-26-1446195.htm",
+   "publisher": "SteelOrbis",
+   "published": "2026",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "achieved total manganese ore production of 1.907 million mt in the fiscal year 2025-26"
+  },
+  "S13": {
+   "url": "https://www.steelorbis.com/steel-news/latest-news/indias-moil-limited-achieves-highest-ever-annual-manganese-ore-output-in-fy-2024-25-1385867.htm",
+   "publisher": "SteelOrbis",
+   "published": "2025",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "achieved manganese ore production of 1.802 million mt in the fiscal year 2024-25"
+  },
+  "S14": {
+   "url": "https://www.indiainfoline.com/company/moil-ltd-share-price/directors-report/13863",
+   "publisher": "IndiaInfoline mirror of MOIL Ltd Directors' Report FY2025-26",
+   "published": "2026",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "We operate seven underground and three opencast mines ... We achieved production of 832 MT of electrolytic manganese dioxide (EMD)"
+  },
+  "S15": {
+   "url": "https://vibrantz.com/press/vibrantz-technologies-scales-up-high-purity-manganese-sulfate-for-north-american-lithium-ion-battery-market/",
+   "publisher": "Vibrantz Technologies press release",
+   "published": "2023-07-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "produces HPMSM at its manganese chemical facility in Saint-Ghislain, Belgium"
+  },
+  "S16": {
+   "url": "https://vibrantz.com/press/vibrantz-technologies-scales-up-high-purity-manganese-sulfate-for-north-american-lithium-ion-battery-market/",
+   "publisher": "Vibrantz Technologies press release (Tampico expansion)",
+   "published": "2023-07-18",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "increase Vibrantz's HPMSM capacity to up to 45,000 metric tons per year ... The new facility is expected to be operational in 2026."
+  },
+  "S17": {
+   "url": "https://www.element25.com.au/",
+   "publisher": "Element 25 Ltd company website (Louisiana HPMSM project)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "65,000 t/a HPMSM Facility Capacity ... currently working to finalise project financing"
+  },
+  "S18": {
+   "url": "https://www.opportunitylouisiana.gov/project/element-25",
+   "publisher": "Louisiana Economic Development, project page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Ascension Parish / Capital Region"
+  },
+  "S19": {
+   "url": "https://www.naif.gov.au/our-projects/element-25-butcherbird-manganese-project/",
+   "publisher": "Northern Australia Infrastructure Facility (NAIF), project page",
+   "published": "2025-06",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "increasing manganese concentrate production from 360Ktpa to 1.1Mtpa"
+  },
+  "S20": {
+   "url": "https://stocktitan.net/news/EUMNF/euro-manganese-announces-positive-preliminary-economic-gwmptk0trlg0.html",
+   "publisher": "StockTitan repost of Euro Manganese Inc. news release (PEA)",
+   "published": "2026-05-14",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Annual nominal production: 150,000 tpa HPMSM ... Project life: 26 years"
+  },
+  "S21": {
+   "url": "https://dailynews.gov.bw/news-detail/89413",
+   "publisher": "Botswana Daily News (government)",
+   "published": "2025-12-16",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "projected to take off in 2026 ... ramping up to production in 2028 with full production in 2029 to 2030"
+  },
+  "S22": {
+   "url": "https://finance.yahoo.com/sectors/energy/articles/giyani-metals-reports-positive-feasibility-130600223.html",
+   "publisher": "Yahoo Finance, Giyani Metals feasibility study report",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "100%-owned K.Hill project in the Kanye Basin"
+  },
+  "S23": {
+   "url": "https://www.miningweekly.com/article/south-africas-battery-materials-supply-status-surges-ahead-with-new-mmc-plant-2026-06-11",
+   "publisher": "Mining Weekly (page blocked to fetch; text from search result)",
+   "published": "2026-06-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The plant will convert 2 000 t of MMC's pure manganese metal into 6 000 t of HPMSM; a June 2026 report says the second phase is poised to add a further 18 000 t/y (Mintek Metals Company, Mbombela)."
+  },
+  "S24": {
+   "url": "https://news.metal.com/newscontent/103421769-Hongxing-Development-supplies-manganese-based-products-to-solid-state-battery-enterprises",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2025-07-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "both electrolytic manganese dioxide (EMD) and high-purity manganese sulphate had a capacity of 30,000 mt/year."
+  },
+  "S25": {
+   "url": "https://news.metal.com/en/newscontent/104025885-lithium-battery-fujian-xinluo-manganese-based-new-energy-materials-project-breaks-ground",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-07-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Recently, the groundbreaking ceremony for the Dexiang Manganese-Based New Energy Materials Production Project was held."
+  },
+  "S26": {
+   "url": "https://news.metal.com/en/newscontent/104025885-lithium-battery-fujian-xinluo-manganese-based-new-energy-materials-project-breaks-ground",
+   "publisher": "SMM (capacity sentence as shown in search result; fetch returned paraphrase)",
+   "published": "2026-07-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Upon completion, the first phase will have an annual production capacity of 100,000 tons of high-purity manganese sulfate, 20,000 tons of trimanganese tetroxide, and by-products. Total investment 1.2 billion yuan, 299.82 mu, Xinluo District, Longyan City, Fujian."
+  },
+  "S27": {
+   "url": "https://news.metal.com/newscontent/103144731-[SMM-Analysis]-2024-China-High-Purity-Manganese-Sulphate-Market-Review",
+   "publisher": "SMM Analysis (benchmark, not an asset source)",
+   "published": "2025",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "total production of high-purity manganese sulphate in 2024 is approximately 52,000 mt (metal content)"
+  },
+  "S28": {
+   "url": "https://source.benchmarkminerals.com/article/china-to-hold-position-as-top-manganese-sulphate-producer-this-decade-despite-falling-share",
+   "publisher": "Benchmark Mineral Intelligence (free first paragraph; remainder paywalled)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "While HPMSM production in China is set to nearly double to 308,000 tonnes by the end of the decade"
+  },
+  "S29": {
+   "url": "https://www.mining-technology.com/analyst-comment/groote-eylandt-mine-support-global-manganese-supply/",
+   "publisher": "Mining Technology (GlobalData analyst comment)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "global manganese production is estimated to have increased by 10.8% to 57.3 million tonnes (mt) ... the suspension of mining at Kazakhstan's Kazmarganets mine since December 2023"
+  },
+  "S30": {
+   "url": "https://www.gov.br/anm/pt-br/assuntos/economia-mineral/publicacoes/sumario-mineral/sumario-mineral-brasileiro-2026/manganes-final.pdf",
+   "publisher": "ANM (Brazil) Sumario Mineral 2026, manganese (PDF too large to fetch; text from search result)",
+   "published": "2026",
+   "accessed": "2026-11-27",
+   "language": "pt",
+   "tier": "reported",
+   "snippet": "Producao Brasil 519,1 mil toneladas de manganes contido (2025); Buritirama Mineracao is the top CFEM payer (58.9% of collections). Buritirama runs an open-pit mine in Para with capacity above 2.5 million tonnes a year (capacity statement from secondary press, Rio Times 2026)."
+  },
+  "S31": {
+   "url": "https://www.mining.com/south32-tapped-for-166-million-us-government-funding-for-arizona-manganese-plant/",
+   "publisher": "Mining.com (page blocked to fetch; text from search result)",
+   "published": "2024-09",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The deposit has a mineral resource estimate of 55-million tonnes averaging 9.08% manganese, 2.31% zinc and silver; the US Department of Energy has granted South32 up to $166m to develop battery-grade manganese (Hermosa/Clark, Arizona). South32 has not yet made a final investment decision on the manganese deposit."
+  },
+  "S32": {
+   "url": "https://arm.co.za/wp-content/uploads/2025/10/Ops-review_Ferrous-2025.pdf",
+   "publisher": "African Rainbow Minerals, Ferrous operational review F2025 (fetch returned 404; text from search result)",
+   "published": "2025-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Total manganese ore production was up 4% for the year (ARM Ferrous, Assmang Black Rock Mine: Nchwaning and Gloria). Assmang's own site lists approximate production of 3.6Mt manganese ore."
+  },
+  "S33": {
+   "url": "https://www.metalnomist.com/2025/05/georgian-manganese-ends-underground.html",
+   "publisher": "Metalnomist",
+   "published": "2025-05",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Georgian Manganese will permanently halt underground mining at its Chiatura complex"
+  }
+ },
+ "rows": [
+  {
+   "action": "add",
+   "id": "eramet-comilog-moanda-mine-gabon",
+   "fields": {
+    "asset_name": "Moanda manganese mine (Comilog)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (lump/fines; also feed to sinter/alloys)",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "Eramet Comilog (Compagnie Miniere de l'Ogooue)",
+    "parent_company": "Eramet",
+    "jv_partners": "Gabonese State / SEM (minority in Comilog; reported 28.94%, Eramet International 63.71%)",
+    "country": "Gabon",
+    "region": "Africa",
+    "province_state": "Haut-Ogooue",
+    "latitude": -1.5667,
+    "longitude": 13.2,
+    "geo_precision": "town",
+    "status": "operational",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 7100000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.eramet.com/wp-content/uploads/2026/02/2026-18-02-Eramet-PR-FY-2025.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-18"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "production": [
+     "S1"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "[SC032] Eramet FY2025 PR: Moanda mine production 7.1 Mt (+4%) of ore (wet ore, grade not stated in the PR; Comilog ore is typically ~44-46% Mn, NOT verified here, so no norm). Ore transported 6.1 Mt (record low-volume year, logistics at Owendo port and Transgabonese rail) and sold externally 5.5 Mt (S1). Eramet 2026 target: transported Mn ore 6.4-6.8 Mt. Group-wide world context quoted by Eramet: world Mn ore production 20.8 Mt-Mn in 2025 (S2). Ownership split (Eramet International 63.71%, SEM 28.94%, others 7.35%) comes from a search-result summary only, not confirmed on an opened page. Gabon announced an export ban on unprocessed Mn ore from 1 Jan 2029; Eramet/Gabon MoU (July 2026, search result only) to study local processing of up to 700,000 t/yr ore by end-2031 - no HPMSA project found. Coordinates = town of Moanda (named locality), not the pit."
+  },
+  {
+   "action": "add",
+   "id": "south32-gemco-groote-eylandt-australia",
+   "fields": {
+    "asset_name": "GEMCO (Groote Eylandt Mining Company)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (high grade, 43-48% Mn per older sources)",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "GEMCO (South32 / Samancor)",
+    "parent_company": "South32",
+    "jv_partners": "South32 60%, Anglo American 40% (Samancor Manganese)",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Northern Territory",
+    "status": "operational",
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 1100000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.opis.com/resources/energy-market-news-from-opis/south32-exceeds-gemco-manganese-fy25-output-guidance/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "production": [
+     "S3"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC032] FY2025 (year to 30 June 2025) output 1.1 Mt (S3), wmt; South32 does not make clear in the OPIS item whether this is 100% or its 60% share (South32 historically reports its share; FY23 'its share' of GEMCO was 3.54 Mwmt per a search result) - UNRESOLVED, so do not compare to USGS without checking. Operations suspended March 2024 after Cyclone Megan; phased restart; exports resumed May 2025 (S3/S4). FY26 South32 guidance Australia 3.2 Mt (OPIS paraphrase). Ownership S4. Capacity not stated in an opened page (older sources 4.2-4.8 Mtpa, not verified). Production year 2025 = South32 FY25. South32 own pages (south32.net) are blocked to the fetch tool."
+  },
+  {
+   "action": "add",
+   "id": "hotazel-manganese-mines-mamatwan-wessels-south-africa",
+   "fields": {
+    "asset_name": "Hotazel Manganese Mines (Mamatwan open pit + Wessels underground)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (semi-carbonate Mamatwan; high-grade Wessels)",
+    "asset_type": "open-pit and underground mines",
+    "feedstock": "manganese ore",
+    "operator": "Hotazel Manganese Mines (Samancor / South32)",
+    "parent_company": "South32",
+    "jv_partners": "South32 and Anglo American via Samancor (South32 60% of Samancor; South32 effective interest in HMM reported 44.4%)",
+    "country": "South Africa",
+    "region": "Africa",
+    "province_state": "Northern Cape",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 2151000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.miningweekly.com/article/south-africa-manganese-delivers-strong-finish-with-25-higher-last-quarter-production-2025-07-21",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-07-21"
+   },
+   "evidence": {
+    "status": [
+     "S5"
+    ],
+    "production": [
+     "S5"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC032] REPORTED tier (Mining Weekly blocked; figure from search-result text): South Africa Manganese saleable production 2.151 M wet tonnes in South32 FY25 (to June 2025), largely unchanged y/y; Wessels had a temporary shutdown and Mamatwan planned maintenance in the year. Combined figure for the two physical mines (not split), as South32 reports South Africa Manganese as one segment; basis (100% vs attributable) not confirmed. FY26 guidance 2.0 Mwmt. Older sources: Mamatwan ~3.5 Mtpa capacity, Wessels ~1 Mtpa (undated, unverified). Ownership: stake percentages conflict between search results (60% Samancor JV vs 44.4% effective HMM); see Conflicts in handback."
+  },
+  {
+   "action": "add",
+   "id": "tshipi-e-ntle-manganese-mining-borwa-south-africa",
+   "fields": {
+    "asset_name": "Tshipi Borwa mine (Tshipi e Ntle Manganese Mining)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (high-grade lumpy ore)",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "Tshipi e Ntle Manganese Mining (Pty) Ltd",
+    "parent_company": "Ntsimbintle Mining (50.1%) / Jupiter Mines (49.9%)",
+    "jv_partners": "Jupiter Mines 49.9%; Ntsimbintle Mining 50.1% (reported)",
+    "country": "South Africa",
+    "region": "Africa",
+    "province_state": "Northern Cape",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 3720000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nkbdxkqyfdst.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-08-29"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "production": [
+     "S7"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC032] Status confirmed (Jupiter ASX release S6: record sales, mining and material processed in FY2025; Jupiter holds 49.9%). Production = material PROCESSED 3.72 Mt and ~3.6 Mt EXPORTED in FY2025 (year to 30 June 2025), from a Quartr AI summary of the AGM (S7, tier reported; a Mining Weekly headline says ~3.6 Mt record full-year production - page blocked). FY2026 (to June 2026): production and sales 3.5 Mt per a search-result headline (not opened). Mine is about 20 km SW of Hotazel (search result, older profile); 2013 profile: planned 2.4 Mtpa ROM, resource 163 Mt at 37.1% Mn - dated, not verified. FY2025 realised price US$4.02/dmtu (S6)."
+  },
+  {
+   "action": "add",
+   "id": "assmang-black-rock-nchwaning-gloria-south-africa",
+   "fields": {
+    "asset_name": "Black Rock Mine (Nchwaning and Gloria)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "underground mines",
+    "feedstock": "manganese ore",
+    "operator": "Assmang (African Rainbow Minerals / Assore JV)",
+    "parent_company": "African Rainbow Minerals / Assore",
+    "jv_partners": null,
+    "country": "South Africa",
+    "region": "Africa",
+    "province_state": "Northern Cape",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "mixed",
+    "source_url": "https://arm.co.za/wp-content/uploads/2025/10/Ops-review_Ferrous-2025.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-10"
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC032] REPORTED tier only. ARM F2025 Ferrous operational review: total manganese ore production up 4% y/y (F2024 was down 15%); Assmang site lists approximate production of ~3.6 Mt Mn ore; a mining database targets 4.6 Mtpa by F2025 (target, not actual). Mine-level F2025 tonnes NOT obtained (ARM PDFs blocked/404 to the fetch tool): production left null. Nchwaning and Gloria are two separate mines at Black Rock, recorded here as one site because only combined data was found. Exact ownership split Assmang 50:50 ARM/Assore not verified here."
+  },
+  {
+   "action": "add",
+   "id": "kalagadi-manganese-mine-south-africa",
+   "fields": {
+    "asset_name": "Kalagadi Manganese mine (Umtu/Olive Pan/Gama, west of Hotazel)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (36-38% Mn) and sinter (44-48% Mn)",
+    "asset_type": "open-pit mine plus sinter plant",
+    "feedstock": "manganese ore",
+    "operator": "Kalagadi Manganese",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "South Africa",
+    "region": "Africa",
+    "province_state": "Northern Cape",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2018,
+    "capacity": 3000000,
+    "capacity_unit": "t Mn ore",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "mixed",
+    "source_url": "https://www.manganese.org/en/tech-tours/kalagadi-mine",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S8"
+    ],
+    "start_year": [
+     "S8"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC032] IMnI page (undated): mine capacity 3 Mt ROM ore at 36-38% Mn; sinter output about 2.4 Mt at 44-48% Mn; production started March 2018; plant runs 24/7; 6,300 ha over farms Umtu 281, Olive Pan 282, Gama 283, west of Hotazel off the R31. CONFLICT: a mining database snippet says the open pit was to start ore production towards end-2025 with latest public production data from 2021, so operating status in 2025 is uncertain; confidence kept low. Owners not stated on the page (Kalahari Resources / Kalagadi Manganese). Capacity ref year unknown (page undated). [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "ghana-manganese-company-nsuta-ghana",
+   "fields": {
+    "asset_name": "Nsuta manganese mine (Ghana Manganese Company)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore (export lump/fines)",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "Ghana Manganese Company Ltd (GMC)",
+    "parent_company": "Tianyuan Manganese Industry (TMI), reported majority owner",
+    "jv_partners": null,
+    "country": "Ghana",
+    "region": "Africa",
+    "province_state": "Western Region",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 1916,
+    "capacity": 8000000,
+    "capacity_unit": "t Mn ore",
+    "capacity_ref_year": 2026,
+    "production": 5280000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.graphic.com.gh/features/opinion/ghana-news-manganese-positioning-ghana-for-the-next-phase-of-mineral-value-creation.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ],
+    "production": [
+     "S10"
+    ],
+    "start_year": [
+     "S10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC032] Production = Ghana NATIONAL 2025 manganese output 5.28 Mt (2024: 4.75 Mt; 2023: 2.99 Mt) from a Ghanaian newspaper feature (S10), assigned to Nsuta because GMC is 'Ghana's sole manganese Miner and exporter' (S9). Capacity 8 Mt/yr is the company's stated ANNUAL TARGET (S9), not demonstrated nameplate; ref year not stated. Cross-check vs USGS: 2.0 Mt Mn content / 5.28 Mt ore implies ~38% Mn, consistent with ~35-40% Ghana ore grade. Ownership by TMI (Ningxia Tianyuan Manganese Industry, the world's largest EMM producer) is from search-result text only; neither opened page states it. GMC also planned a US$450m refinery in the Tarkwa enclave (search result only; no capacity, not recorded as an asset). Mining Technology also states GMC production growth reflects Nsuta ramp-up (S29). [lead] capacity_ref_year = publication-year fallback. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "consolidated-minerals-woodie-woodie-australia",
+   "fields": {
+    "asset_name": "Woodie Woodie manganese mine",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "Pilbara Manganese Pty Ltd (Consolidated Minerals)",
+    "parent_company": "Consolidated Minerals (owner conflict, see notes)",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia (Pilbara)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 1343782,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://der.wa.gov.au/images/documents/our-work/licences-and-works-approvals/aacr/L6131/L6131%2001OCT24-30SEP25.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "production": [
+     "S11"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC032] REPORTED tier (government PDF blocked to the fetch tool; figure from search-result text). Licence annual report for 1 Oct 2024 - 30 Sep 2025: 1,343,782 t manganese ore produced, 440+ personnel. Wet vs dry basis not stated. CONFLICT on owner: the regulator report names Consolidated Minerals' subsidiary Pilbara Manganese; a Mining Technology item says Woodie Woodie is owned by Ningxia Tianyuan Manganese Industry and produced 600,000 t in 2023 (not opened). An older Mining News figure of 610,849 t full year (year unclear) also exists. GSWA 2024-25 statewide tonnes SOLD 553,097 t is not comparable (sold, state-wide). Needs a primary company source."
+  },
+  {
+   "action": "add",
+   "id": "element-25-butcherbird-australia",
+   "fields": {
+    "asset_name": "Butcherbird manganese project (Butcherbird Expansion)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese oxide concentrate (feed to Element 25 Louisiana HPMSM)",
+    "asset_type": "open-pit mine + concentrator",
+    "feedstock": "manganese oxide ore",
+    "operator": "Element 25 Ltd",
+    "parent_company": "Element 25 Ltd",
+    "jv_partners": null,
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia (Pilbara)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 1100000,
+    "capacity_unit": "t Mn ore",
+    "capacity_ref_year": 2025,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "feeds": "element-25-louisiana-hpmsm-united-states",
+    "end_market": "battery",
+    "source_url": "https://www.naif.gov.au/our-projects/element-25-butcherbird-manganese-project/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-06"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC032] NAIF (federal lender) page: expansion 'increasing manganese concentrate production from 360Ktpa to 1.1Mtpa', up to A$50m loan, listed at Contractual Close; Pilbara, WA. So 360 ktpa is the existing concentrate rate (installed, as-of date not given) and 1.1 Mtpa the expansion target (capacity above; unit is concentrate tonnes, not ore, mapped to 't Mn ore' as the closest allowed unit - grade not stated). Status 'operational' inferred from 'from 360Ktpa'; expansion not yet complete (search results: WA approval March 2025, aims to deliver 2026, early site works reported - not verified). Element 25 website (S17) says the mine supplies concentrate to its Louisiana refinery and lists a Jan 2025 feasibility study update. Actual production tonnes not found. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "moil-manganese-mines-india",
+   "fields": {
+    "asset_name": "MOIL Ltd manganese mines (7 underground + 3 opencast, Maharashtra / Madhya Pradesh)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "multi-mine group (aggregate)",
+    "feedstock": "manganese ore",
+    "operator": "MOIL Limited",
+    "parent_company": "MOIL Limited (Govt of India majority)",
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": "Maharashtra / Madhya Pradesh",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 1907000,
+    "production_unit": "t Mn ore",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.steelorbis.com/steel-news/latest-news/indias-moil-limited-sees-6-rise-in-manganese-ore-output-in-fy-2025-26-1446195.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "production": [
+     "S12"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC032] AGGREGATE of ~10 mines (Balaghat, Chikla, Munsar, Kandri, Gumgaon, Sitapatore, Dongri Buzurg, Beldongri, Tirodi, Ukwa named in the directors' report, S14) - mine-level tonnes NOT obtained, so this is one company row, not one physical asset; lead may split later. Production: 1.907 Mt in FY2025-26 (April 2025 - March 2026) (S12); FY2024-25 was 1.802 Mt (S13; directors' report implies ~18.03 lakh t). Production_year 2025 is set to the fiscal year 2025-26 label; for a calendar-2025 comparison use FY2024-25 (1.802 Mt) and FY2025-26 weighted. Ore wet tonnes, grade not stated (MOIL ore ~ 30-48% Mn depending on mine, unverified). Benchmark: USGS India 2025e 790 kt Mn content (lead-provided) -> implies ~40% average Mn if all India = MOIL; India also has private producers, so MOIL share not computable."
+  },
+  {
+   "action": "add",
+   "id": "moil-dongri-buzurg-emd-india",
+   "fields": {
+    "asset_name": "MOIL EMD plant (Dongri Buzurg)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "electrolytic manganese dioxide (EMD)",
+    "asset_type": "EMD plant",
+    "feedstock": "manganese ore",
+    "operator": "MOIL Limited",
+    "parent_company": "MOIL Limited",
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": "Maharashtra",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": 832,
+    "production_unit": "t EMD",
+    "production_year": 2025,
+    "end_market": "mixed",
+    "source_url": "https://www.indiainfoline.com/company/moil-ltd-share-price/directors-report/13863",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "production": [
+     "S14"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC032] MOIL directors' report FY2025-26 (April 2025-March 2026): 832 t EMD produced (S14). FY2024-25 EMD production reported as 1,350 t in a search result (not opened). A government fact sheet snippet lists an EMD plant of 1,500 tpy at Dongri Buzurg (search result only; not opened, capacity left null). Small scale: primary-battery EMD, not Li-ion HPMSA."
+  },
+  {
+   "action": "add",
+   "id": "buritirama-mineracao-para-brazil",
+   "fields": {
+    "asset_name": "Buritirama manganese mine (Maraba region, Para)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "open-pit mine",
+    "feedstock": "manganese ore",
+    "operator": "Mineracao Buritirama S.A.",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Para",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 2500000,
+    "capacity_unit": "t Mn ore",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "mixed",
+    "source_url": "https://www.gov.br/anm/pt-br/assuntos/economia-mineral/publicacoes/sumario-mineral/sumario-mineral-brasileiro-2026/manganes-final.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026"
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ],
+    "capacity": [
+     "S30"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC032] REPORTED tier. Search-result text: ANM Sumario Mineral 2026 puts Brazil 2025 manganese output at 519.1 kt contained Mn (Para 55.7%), Buritirama the top CFEM (royalty) payer (58.9%); secondary press (Rio Times 2026) says Buritirama's Para open-pit mine capacity is 'above 2.5 Mt/yr' and ~70% of Brazil's Mn exports (capacity statement NOT from the ANM PDF; '2,500,000' is a lower bound). No Buritirama tonnage found; 'Azul mine' (Vale, Carajas) is a separate, reportedly inactive deposit and is not recorded. Benchmark: lead-provided USGS Brazil 2025e = 800 kt Mn content vs ANM 519.1 kt contained Mn (conflict; different definitions). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "kazmarganets-kazakhstan",
+   "fields": {
+    "asset_name": "Kazmarganets (Kazakhstan) manganese mine",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese ore",
+    "asset_type": "mine",
+    "feedstock": "manganese ore",
+    "operator": "Kazmarganets",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "Kazakhstan",
+    "region": "Russia & Central Asia",
+    "province_state": null,
+    "status": "operational",
+    "project_state": "paused",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "mixed",
+    "source_url": "https://www.mining-technology.com/analyst-comment/groote-eylandt-mine-support-global-manganese-supply/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC032] GlobalData/Mining Technology analyst comment: mining suspended 'since December 2023' (resource depletion). Care-and-maintenance style row (operational + paused). No capacity or output found; operator name per the article's 'Kazmarganets mine'; owner not stated."
+  },
+  {
+   "action": "add",
+   "id": "south32-hermosa-clark-manganese-united-states",
+   "fields": {
+    "asset_name": "Hermosa - Clark manganese deposit (Arizona)",
+    "step": "mining",
+    "commodity": "manganese",
+    "product": "manganese (planned battery-grade manganese from Clark ore)",
+    "asset_type": "underground mine project",
+    "feedstock": "manganese-zinc-silver ore",
+    "operator": "South32 Hermosa Inc.",
+    "parent_company": "South32",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Arizona",
+    "status": "announced",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://www.mining.com/south32-tapped-for-166-million-us-government-funding-for-arizona-manganese-plant/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2024-09"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC032] REPORTED tier (Mining.com blocked; text from search results). Clark resource 55 Mt at 9.08% Mn, 2.31% Zn, silver; US DoE grant up to US$166m for battery-grade manganese, plus US$20m DoD DPA award; no final investment decision on the manganese deposit; a decline to Clark was under construction (access targeted end-2025); manganese processing plant location was undetermined (southern Arizona). Taylor (zinc-lead-silver) deposit is separate and not recorded. No production or capacity figures."
+  },
+  {
+   "action": "add",
+   "id": "vibrantz-saint-ghislain-hpmsm-belgium",
+   "fields": {
+    "asset_name": "Vibrantz Saint-Ghislain manganese chemical plant (HPMSM)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate (HPMSM)",
+    "asset_type": "manganese chemical plant",
+    "feedstock": "manganese ore / intermediates",
+    "operator": "Vibrantz Technologies",
+    "parent_company": "Vibrantz Technologies",
+    "jv_partners": null,
+    "country": "Belgium",
+    "region": "Europe",
+    "province_state": "Hainaut",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://vibrantz.com/press/vibrantz-technologies-scales-up-high-purity-manganese-sulfate-for-north-american-lithium-ion-battery-market/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-07-18"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC032] Vibrantz PR (2023-07-18): produces HPMSM at Saint-Ghislain, Belgium. Search results mention this plant has supplied the EV value chain with battery-grade MnSO4 for 10+ years and (2024 trade article) cannot grow its capacity, hence the Tampico expansion. Capacity not disclosed on an opened page."
+  },
+  {
+   "action": "add",
+   "id": "vibrantz-tampico-hpmsm-mexico",
+   "fields": {
+    "asset_name": "Vibrantz Tampico HPMSM expansion (pilot plant + new capacity)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate (HPMSM)",
+    "asset_type": "manganese chemical plant",
+    "feedstock": "manganese ore / intermediates",
+    "operator": "Vibrantz Technologies",
+    "parent_company": "Vibrantz Technologies",
+    "jv_partners": null,
+    "country": "Mexico",
+    "region": "North America",
+    "province_state": "Tamaulipas",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://vibrantz.com/press/vibrantz-technologies-scales-up-high-purity-manganese-sulfate-for-north-american-lithium-ion-battery-market/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-07-18"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC032] Press release (2023-07-18): pilot plant being built at Tampico; expansion 'anticipated to increase Vibrantz's HPMSM capacity to up to 45,000 metric tons per year' over three years; new facility expected operational 2026 (S16). The 45,000 t/yr figure is worded as VIBRANTZ's HPMSM capacity and may include the Belgian plant, so it is NOT entered as this row's capacity (avoids double counting); company-level value for the lead. No later confirmation of construction/commissioning found -> status kept 'announced', confidence 0.4. Tampico town implied (named in release)."
+  },
+  {
+   "action": "add",
+   "id": "element-25-louisiana-hpmsm-united-states",
+   "fields": {
+    "asset_name": "Element 25 Louisiana HPMSM refinery (Ascension Parish)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate monohydrate (HPMSM)",
+    "asset_type": "manganese refinery",
+    "feedstock": "manganese oxide concentrate (Butcherbird, Western Australia)",
+    "operator": "Element 25 Ltd",
+    "parent_company": "Element 25 Ltd",
+    "jv_partners": null,
+    "country": "United States",
+    "region": "North America",
+    "province_state": "Louisiana",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2023,
+    "capacity": 65000,
+    "capacity_unit": "t MnSO4",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "offtakers": "General Motors; Stellantis (binding offtake and financing agreements, US$115M combined per company site)",
+    "end_market": "battery",
+    "source_url": "https://www.element25.com.au/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC032] Company website: 65,000 t/a HPMSM facility capacity; 'currently working to finalise project financing'; commencement date TBA; Ascension Parish, Louisiana (S17). Louisiana Economic Development page: Ascension Parish / Capital Region, capex US$480m, 628 new jobs, estimated completion 2026 (S18; those job/capex figures from the page as read by the fetch tool). CONFLICT: older press (2023) gave up to 135,000 tpa HPMSM and earlier study capex ~US$289m (search results, not opened); the company site now says 65,000 t/a - latest taken. Feed: Butcherbird (see feeds link on element-25-butcherbird-australia). [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "euro-manganese-chvaletice-czechia",
+   "fields": {
+    "asset_name": "Chvaletice Manganese Project (tailings reprocessing + HPMSM plant)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate monohydrate (HPMSM) via HPEMM",
+    "asset_type": "tailings reprocessing + manganese refinery",
+    "feedstock": "Chvaletice manganese tailings",
+    "operator": "Euro Manganese Inc.",
+    "parent_company": "Euro Manganese Inc. (TSX-V/ASX: EMN)",
+    "jv_partners": null,
+    "country": "Czechia",
+    "region": "Europe",
+    "province_state": "Pardubice Region",
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 150000,
+    "capacity_unit": "t MnSO4",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://stocktitan.net/news/EUMNF/euro-manganese-announces-positive-preliminary-economic-gwmptk0trlg0.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-05-14"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC032] PEA (news release 2026-05-14): nominal 150,000 tpa HPMSM, 26-year life, post-tax NPV US$492M at 8% (search results; StockTitan page), phased development starting at ~50% capacity then expanding; full feasibility study targeted H1 2027. CONFLICT with earlier studies: 2022 feasibility = 100,000 tpa HPMSM (+15,000 tpa HPEMM); a 2025 update averaged 98,600 tpa - the 2026 PEA total is the latest plan, so capacity uses 150,000; the capacity_by_year phase steps are undated and so not recorded. Designated EU Strategic Project 25 March 2025 (AAP/GlobeNewswire); Determination of Mining Lease secured Jan 2025 (search result). Separate Becancour (Quebec) HPMSM concept (48,500 tpa scoping study, search result only) not recorded. A US cathode maker offtake term sheet reported (unverified). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "giyani-metals-khill-botswana",
+   "fields": {
+    "asset_name": "K.Hill battery-grade manganese project (Kanye)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate monohydrate (HPMSM) and manganese oxide",
+    "asset_type": "mine + manganese processing plant",
+    "feedstock": "K.Hill manganese ore (Kgwakgwe Hill)",
+    "operator": "Giyani Metals Corp.",
+    "parent_company": "Giyani Metals Corp.",
+    "jv_partners": null,
+    "country": "Botswana",
+    "region": "Africa",
+    "province_state": "Southern District (Kanye)",
+    "status": "announced",
+    "project_state": "active",
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://dailynews.gov.bw/news-detail/89413",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-16"
+   },
+   "evidence": {
+    "status": [
+     "S21",
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC032] Botswana Daily News 2025-12-16: plant 'adjacent to Kgwakgwe Hill in Kanye', construction 'projected to take off in 2026', ramp-up 2028, full production 2029-2030 (S21). Feasibility study (Yahoo Finance): 100%-owned, post-tax NPV US$481.5m, IRR 20.3%, initial capex ~US$535m, ~220,000 t/yr dry run-of-mine ore, 25-year life, 87% recovery (S22). HPMSM annual tonnage NOT stated on either opened page (a search summary said 80,000 t HPMSM: not found in the opened page - unverified, so capacity left null). Demonstration plant is in Johannesburg (up to 600 kg/d HPMSM; search result), not recorded as an asset."
+  },
+  {
+   "action": "add",
+   "id": "mintek-metals-company-mbombela-hpmsm-south-africa",
+   "fields": {
+    "asset_name": "MMC metal-to-crystal HPMSM plant (Mbombela, Mpumalanga)",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate monohydrate (HPMSM) crystals from HP manganese metal",
+    "asset_type": "manganese chemical plant",
+    "feedstock": "high-purity electrolytic manganese metal (MMC own)",
+    "operator": "Manganese Metal Company / Mintek Metals Company (MMC)",
+    "parent_company": "MMC",
+    "jv_partners": null,
+    "country": "South Africa",
+    "region": "Africa",
+    "province_state": "Mpumalanga",
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 24000,
+    "capacity_unit": "t MnSO4",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://www.miningweekly.com/article/south-africas-battery-materials-supply-status-surges-ahead-with-new-mmc-plant-2026-06-11",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-11"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC032] REPORTED tier (Mining Weekly/Engineering News/Polity blocked; text from search results). Phase 1: 2,000 t MMC manganese metal converted to 6,000 t HPMSM; phase 2 reported to add a further 18,000 t/yr -> 24,000 t/yr total (capacity = 6,000 + 18,000, derived by me; no dates for the phases). Search results also show 2024-10 headline 'Battery manganese project begins in Mpumalanga, orders placed for long-lead items' and a 2025-02 crystalliser procurement item, so construction status inferred; June 2026 coverage says facility brought into service in 2026 - commissioning NOT confirmed (status may now be operational). An OPIS item says '30,000 t per month' scaling - judged an error, ignored. MMC also supplies HP Mn metal feedstock to Euro Manganese's Becancour MoU (search result). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "fujian-dexiang-longyan-hpmsm-china",
+   "fields": {
+    "asset_name": "Dexiang Manganese-Based New Energy Materials project (Longyan, Fujian) phase 1",
+    "step": "refining",
+    "commodity": "manganese",
+    "product": "high-purity manganese sulphate; trimanganese tetroxide (Mn3O4)",
+    "asset_type": "manganese chemical plant",
+    "feedstock": "manganese ore / intermediates",
+    "operator": "Fujian Dexiang New Materials Co., Ltd.",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2026,
+    "capacity": 100000,
+    "capacity_unit": "t MnSO4",
+    "capacity_ref_year": 2026,
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/en/newscontent/104025885-lithium-battery-fujian-xinluo-manganese-based-new-energy-materials-project-breaks-ground",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-07-27"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S26"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC032] SMM 2026-07-27: groundbreaking ceremony held (physical works just starting -> under_construction; no operational date). Phase 1 capacity 100,000 t/yr HPMSM + 20,000 t/yr Mn3O4 (+ by-products), investment RMB 1.2bn, 299.82 mu, Xinluo District, Longyan City (capacity sentence from search-result text, tier reported: the fetch returned only a paraphrase). Unit t MnSO4 for the HPMSM; Mn3O4 20,000 t kept in notes (one capacity per row). Compare with SMM China HPMSM output 2024 ~52,000 t Mn content (S27) - this single phase would be >60% of 2024 total output in MnSO4-equivalent terms (52 kt Mn / 0.325 = ~160 kt MnSO4). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "hongxing-development-dalong-manganese-emd-china",
+   "fields": {
+    "capacity": 30000,
+    "capacity_unit": "t EMD",
+    "capacity_ref_year": 2025
+   },
+   "evidence": {
+    "capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[SC032] SMM (2025-07-11, quoting the company's 10 July 2025 statement): 'both electrolytic manganese dioxide (EMD) and high-purity manganese sulphate had a capacity of 30,000 mt/year'. This confirms the SC113 annual-report EMD design capacity (30,000 t) with a second source, and ADDS the HPMSM capacity: 30,000 t/yr high-purity manganese sulphate (as MnSO4, not entered as a separate capacity because the row holds one capacity unit; units.csv 't MnSO4' x 0.325 = 9,750 t Mn). Capacity set to the EMD 30,000 t (t EMD); 2025 EMD production was 12,053 t (SC113)."
+  }
+ ]
+}
