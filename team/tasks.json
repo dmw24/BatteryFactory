@@ -3425,11 +3425,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC002",
@@ -3450,11 +3455,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC003",
@@ -3475,11 +3485,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC004",
@@ -3500,11 +3515,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC005",
@@ -3525,11 +3545,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC006",
@@ -3550,11 +3575,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC007",
@@ -3575,11 +3605,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC008",
@@ -3600,11 +3635,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC009",
@@ -3625,11 +3665,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC010",
@@ -3650,11 +3695,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC011",
@@ -3675,11 +3725,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC012",
@@ -3700,11 +3755,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC013",
@@ -3725,11 +3785,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC014",
@@ -3750,11 +3815,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   },
   {
    "id": "SC090",
@@ -3775,11 +3845,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
-   "assumptions": []
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
+   }
   }
  ]
 }
