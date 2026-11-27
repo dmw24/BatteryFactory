@@ -75,3 +75,19 @@ Quality bar = the cell database: every number traceable to an open source with a
 ## Hand-back (short)
 Rows added, what lists you used for completeness, known missing assets (name them), blocked sources, injected
 instructions seen (or none), and a rough total vs the USGS/benchmark figure for your slice if you have it.
+
+## Filing-pass tasks (SC1xx) — extra rules
+- Primary input: local annual-report text in team/evidence/filings/<code>_<year>.txt (first line `SOURCE: <pdf url>`).
+  Use Grep (e.g. 产能, 万吨, 基地, 项目, 投产, 在建, 产量, 生产量, 锂盐, 正极, 前驱体, 碳酸锂, 氢氧化锂, 矿山, 采矿) then Read the
+  surrounding lines. Cite the PDF url from the SOURCE line as `url`, publisher "<company> 2025 annual report (local text
+  team/evidence/filings/<file>, line N)", and copy the quote exactly as in the text file (you may drop line breaks;
+  use "..." between fragments). Table rows split over lines are fine as fragments joined with "...".
+- Do NOT use WebSearch (shared budget is exhausted). WebFetch only for a handful of non-PDF pages if essential.
+- FIRST read sc_assets.csv (repo root) to see existing rows. If an asset already exists, use action "update" with its
+  exact id (only change fields you can evidence; keep others). Add new rows only for assets not present.
+- Plant-level capacity: annual reports usually have a table of 主要产品产能/产量 by product and sometimes by subsidiary/base,
+  plus 在建工程 (projects under construction with planned capacity) and 主要子公司 descriptions. Allocate to a plant only
+  when the text ties the number to that plant/subsidiary/base. Company totals go in notes (and in your hand-back) —
+  never split them yourself.
+- Also report each company's total disclosed capacity and output (with line refs) in the hand-back: the lead records them
+  as company-level reference data.

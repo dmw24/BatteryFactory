@@ -3855,6 +3855,136 @@
     "by": "lead",
     "notes": "first pass, thin (shared search budget exhausted); unverified quotes demoted to reported; follow-up pass queued"
    }
+  },
+  {
+   "id": "SC101",
+   "title": "Filing pass — lithium A: Tianqi, Ganfeng, Yahua, Sinomine, Shengxin, Tianhua (mines + refineries)",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC101.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC102",
+   "title": "Filing pass — lithium B: Yongxing, Tibet Summit, Zangge, Qinghai Salt Lake, Tibet Mineral, Rongjie, Jiangte, Tibet Urban, Huayou lithium",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC102.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC103",
+   "title": "Filing pass — cathode A: Ronbay, Easpring, XTC, Minmetals New Energy (Changyuan), Zhenhua, Shanshan",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC103.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC104",
+   "title": "Filing pass — cathode B (LFP): Hunan Yuneng, Dynanonic, Wanrun, Lopal, Fulin",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC104.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC105",
+   "title": "Filing pass — pCAM/CAM: GEM, CNGR, Fangyuan, Huayou (pCAM, CAM, nickel/cobalt assets noted for later)",
+   "workstream": "SC. Supply chain — filing passes",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC105.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief incl. filing-pass rules",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }
