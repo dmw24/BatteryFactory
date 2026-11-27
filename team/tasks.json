@@ -4421,6 +4421,56 @@
     "by": "lead",
     "notes": "all sampled quotes found"
    }
+  },
+  {
+   "id": "SC191",
+   "title": "Installed capacity with dates from local filings (China processing)",
+   "workstream": "SC. Supply chain — built capacity",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC191.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass",
+    "quotes found"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC192",
+   "title": "Installed capacity with dates, largest ex-China assets (web)",
+   "workstream": "SC. Supply chain — built capacity",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC192.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass",
+    "quotes found"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }

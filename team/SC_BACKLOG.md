@@ -14,7 +14,11 @@ separator/foil (SC028, SC111, SC112), recycling (SC031), MIIT completeness (SC13
 SC audit 1 (FAIL → fixed, AUDIT_LOG).
 
 ## Running
-SC021 nickel ex-Indonesia · SC032 manganese · SC150 offline geocoding.
+SC191 installed capacity (filings) · SC192 installed capacity (web, ex-China).
+
+## Also done since
+SC021 nickel ex-Indonesia, SC032 manganese, SC150/SC160 coordinates, SC161 China plant capacities, SC170 supply links,
+SC180 HKEX filings, sc_timeseries, charts, docs; SC audits 2 and 3 (FAIL → fixed; built = confirmed-date floor).
 
 ## Next
 1. Merge running tasks; re-run SC audit (audit 2) on the whole after fixes + new steps.
