@@ -1,0 +1,1131 @@
+{
+ "task": "SC025",
+ "verified_on": "2026-11-27",
+ "sources": {
+  "S1": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.10 (rendered PDF page read as image; table row 'KCC ... Cobalt')",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "KCC Copper metal kt 55.9 30.2 33.0 54.7 70.8 188.7 190.6 ... Cobalt2 kt 8.0 5.9 6.0 5.8 5.2 22.9 27.2 (16) (35)"
+  },
+  "S2": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.10 (rendered PDF page read as image; table row 'Mutanda ... Cobalt'; footnote 2 'Cobalt contained in concentrates and hydroxides')",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Mutanda Copper metal kt 12.9 10.3 9.9 15.8 23.1 59.1 33.9 ... Cobalt2 kt 2.9 2.9 2.9 3.0 1.8 10.6 7.9 34 (38)"
+  },
+  "S3": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; Murrin Murrin block)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Murrin Murrin Total Nickel metal kt 8.1 8.4 6.2 10.3 7.2 32.1 34.3 ... Total Cobalt metal kt 0.6 0.6 0.4 0.8 0.4 2.2 2.5 (12) (33)"
+  },
+  "S4": {
+   "url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+   "publisher": "Glencore plc, Full Year 2025 Production Report, p.12 (rendered PDF page read as image; Integrated Nickel Operations (Sudbury, Raglan, Nikkelverk) block)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Integrated Nickel Operations - total production including third party feed ... Cobalt metal kt 0.7 0.7 0.8 0.7 0.8 3.0 3.0"
+  },
+  "S5": {
+   "url": "https://pdf.dfcfw.com/pdf/H22_AN202601291818540139_1.pdf",
+   "publisher": "Glencore plc RNS 7846Q, Full Year 2025 Production Report (copy hosted by dfcfw.com; DRC cobalt update, p.2 read as image)",
+   "published": "2026-01-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "KCC and Mutanda did not export any cobalt in Q4 2025, with their 2025 quotas therefore available for use up to 31 March 2026."
+  },
+  "S6": {
+   "url": "https://www.ergafrica.com/cobalt-copper-division/metalkol/",
+   "publisher": "ERG Africa, Metalkol page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nameplate capacity: of ~100ktpa of copper cathode and ~23ktpa of cobalt in hydroxide"
+  },
+  "S7": {
+   "url": "https://news.metal.com/newscontent/103865996-ERG-expects-limited-Congo-cobalt-hydroxide-output-recovery-after-deliberate-2025-cut",
+   "publisher": "SMM (Reuters wire), ERG expects limited Congo cobalt hydroxide output recovery after deliberate 2025 cut",
+   "published": "2026-04-20",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "ERG slashed its cobalt hydroxide production by 70% in 2025, down to 5,700 metric tons from 19,000 tons in 2024"
+  },
+  "S8": {
+   "url": "https://finance.yahoo.com/markets/commodities/articles/musonoi-ramp-mutanda-feed-drive-152011592.html",
+   "publisher": "Mining Technology analyst comment via Yahoo Finance, Musonoi ramp-up and Mutanda feed to drive DRC cobalt output in 2026",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "has a production capacity of around 7,400t of cobalt"
+  },
+  "S9": {
+   "url": "https://finance.yahoo.com/markets/commodities/articles/musonoi-ramp-mutanda-feed-drive-152011592.html",
+   "publisher": "Mining Technology analyst comment via Yahoo Finance (GlobalData estimate), Musonoi ramp-up and Mutanda feed to drive DRC cobalt output in 2026",
+   "published": "2026-03-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "collectively produced 20,430t in 2025"
+  },
+  "S10": {
+   "url": "https://dyys.cnmc.com.cn/ysen/BusinessScope/BusinessScopePage/Resource/dom/2025/5/I1371494382322057216.html",
+   "publisher": "China Nonferrous Metal Mining (Group) (CNMC), Deziwa mining project in the DRC",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "producing 80,000 tonnes of cathode copper and 8,000 tonnes of cobalt metal annually."
+  },
+  "S11": {
+   "url": "https://subsites.chinadaily.com.cn/jnmc/2026-06/29/c_784249.htm",
+   "publisher": "Jinchuan Group (China Daily subsite), Ruashi Mine page",
+   "published": "2026-06-29",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "The mine has an annual production capacity of 36,000 metric tons of cathode copper. ... 5,300 metric tons of cobalt metal in its cobalt hydroxide products.",
+   "tier": "reported",
+   "snippet": "The mine has an annual production capacity of 36,000 metric tons of cathode copper. ... 5,300 metric tons of cobalt metal in its cobalt hydroxide products.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S12": {
+   "url": "https://filingreader.com/news-wire/hongkong/2025-11-27/jinchuan-resources-reports-mixed-performance-cobalt-production-plummets",
+   "publisher": "FilingReader (HKEX filing summary), Jinchuan Group International Resources 9M 2025 operations",
+   "published": "2025-11-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Cobalt production saw a drastic reduction of approximately 90.3% year-on-year, falling to 71 tonnes"
+  },
+  "S13": {
+   "url": "https://www.minichart.com.sg/2026/05/26/jinchuan-group-international-resources-2025-annual-report-copper-and-cobalt-mining-operations-compliance-governance-and-financial-performance/",
+   "publisher": "Minichart (secondary summary of Jinchuan Group International Resources 2025 annual report)",
+   "published": "2026-05-26",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "full-year 2025 group output at 61,867 tonnes of copper and 1,085 tonnes of cobalt (search-result summary; page not opened)"
+  },
+  "S14": {
+   "url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+   "publisher": "Sherritt International, Q4 and Full Year 2025 Results press release, p.1",
+   "published": "2026-02-10",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Full year 2025 production reached 25,240 tonnes of nickel and 2,728 tonnes of cobalt (100% basis) both within revised annual guidance ranges"
+  },
+  "S15": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-06-11/madagascan-miner-ambatovy-resumes-nickel-production-after-cyclone",
+   "publisher": "Reuters via Kitco, Madagascan miner Ambatovy resumes nickel production after cyclone",
+   "published": "2026-06-11",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Its production was at around 29,000 tons of nickel and 2,700 tons of cobalt in 2025."
+  },
+  "S16": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp press release via Yahoo Finance, Ramu Q4 and full year 2025 operating performance",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "full year production of 3,099 tonnes of contained cobalt in MHP"
+  },
+  "S17": {
+   "url": "https://mining-technology.com/newsletters/prony-resources-nickel-goro-mine",
+   "publisher": "Mining Technology, Prony Resources nickel Goro mine",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "designed to produce 57,000tpa of nickel and 5,000tpa of cobalt"
+  },
+  "S18": {
+   "url": "https://tass.com/economy/2055075/amp",
+   "publisher": "TASS, Nornickel launches upgraded unique metallic cobalt production facility in Russia",
+   "published": "2025-12-08",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Norilsk Nickel has launched a metallic cobalt production facility in Monchegorsk following reconstruction. ... a capacity of up to 3,000 tons per year",
+   "tier": "reported",
+   "snippet": "Norilsk Nickel has launched a metallic cobalt production facility in Monchegorsk following reconstruction. ... a capacity of up to 3,000 tons per year",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S19": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704052.pdf",
+   "publisher": "CMOC Group 2025 Environmental, Social and Governance Report (HKEX), pp.3-4 of rendered PDF read as image",
+   "published": "2026-03-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "CMOC holds an 80% equity interest in TFM ... TFM had five production lines, with an annual copper production capacity exceeding 450,000 tonnes, all operating at full capacity.",
+   "tier": "reported",
+   "snippet": "CMOC holds an 80% equity interest in TFM ... TFM had five production lines, with an annual copper production capacity exceeding 450,000 tonnes, all operating at full capacity.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S20": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704052.pdf",
+   "publisher": "CMOC Group 2025 Environmental, Social and Governance Report (HKEX), p.3-4 of rendered PDF read as image",
+   "published": "2026-03-27",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "in which it currently holds a 71.25% interest ... KFM operated one production line with an annual copper production capacity exceeding 200,000 tonnes. ... Cobalt metal (tonnes) 117,549",
+   "tier": "reported",
+   "snippet": "in which it currently holds a 71.25% interest ... KFM operated one production line with an annual copper production capacity exceeding 200,000 tonnes. ... Cobalt metal (tonnes) 117,549",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S21": {
+   "url": "https://www.managemgroup.com/en/our-products/cobalt",
+   "publisher": "Managem Group, cobalt product page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "one of the world's only primary cobalt mines ... \"650\" tons of cobalt cathodes",
+   "tier": "reported",
+   "snippet": "one of the world's only primary cobalt mines ... \"650\" tons of cobalt cathodes",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S22": {
+   "url": "https://medias24.com/2026/04/01/nouveaux-projets-et-strategie-un-pipeline-etoffe-pour-soutenir-la-croissance-de-managem-1651761/",
+   "publisher": "Medias24 (Moroccan press) on Managem 2025 results",
+   "published": "2026-04-01",
+   "accessed": "2026-11-27",
+   "language": "fr",
+   "tier": "reported",
+   "snippet": "En 2025, la production s'est etablie a 507 tonnes de cathodes de cobalt, en repli de 61% par rapport a 2024, en raison de la chute des cours. (search-result text; page returned 403)"
+  },
+  "S23": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-04-22/virtus-and-indian-partner-restart-chemaf-2027-union-executive-says",
+   "publisher": "Reuters via Kitco, Virtus and Indian partner to restart Chemaf in 2027, union executive says",
+   "published": "2026-04-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "currently the company's only producing operation ... has been stalled since 2019"
+  },
+  "S24": {
+   "url": "https://www.kitco.com/news/article/2023-03-28/jervois-suspends-final-construction-idaho-cobalt-operations-due-low-cobalt",
+   "publisher": "Kitco, Jervois suspends final construction at Idaho Cobalt Operations",
+   "published": "2023-03-28",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "decision to suspend final construction and full concentrator commissioning at its 100%-owned Idaho Cobalt Operations mine"
+  },
+  "S25": {
+   "url": "https://www.umicore.com/en/media/newsroom/umicore-to-acquire-cobalt-refinery-and-cathode-precursor-operations-in-finland/",
+   "publisher": "Umicore press release, Umicore to acquire cobalt refinery and cathode precursor operations in Finland",
+   "published": "2019-05-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Europe's largest cobalt refinery"
+  },
+  "S26": {
+   "url": "https://www.mining-journal.com/m-a/news/1376945/umicore-completes-ususd203-million-kokkola-acquisition",
+   "publisher": "Mining Journal (search-result text on Umicore completing Kokkola acquisition)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Umicore will acquire the 15,000 t/y refinery in addition to its related cobalt cathode precursor business (search-result summary; page not opened)"
+  },
+  "S27": {
+   "url": "https://www.nasdaq.com/press-release/electra-approves-construction-budget-and-sets-schedule-completion-its-north-american",
+   "publisher": "Electra Battery Materials press release via Nasdaq (search-result summary; page returned 503)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The refinery is designed to initially produce approximately 5,120 tonnes per annum of battery-grade cobalt sulfate, with plans to increase production capacity to approximately 6,500 tonnes per annum. Mechanical completion is targeted for the second quarter of 2027. (search-result summary)"
+  },
+  "S28": {
+   "url": "https://www.cim.org/past-award-winners/voiseys-bay-mine-expansion/",
+   "publisher": "CIM, Voisey's Bay mine expansion award page",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "In addition to the increased nickel production, the project will add 20 ktpy of copper and 2.6 ktpy of cobalt."
+  },
+  "S29": {
+   "url": "https://www.prnewswire.com/apac/news-releases/vale-base-metals-announces-successful-completion-of-cobalt-throughput-test-at-voiseys-bay-302546641.html",
+   "publisher": "Vale Base Metals press release via PR Newswire",
+   "published": "2025-09-04",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "the successful completion of the cobalt throughput test at its Voisey's Bay mine"
+  },
+  "S30": {
+   "url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2644488-smm-to-wholly-own-philippine-coral-bay-nickel-smelter",
+   "publisher": "Argus Media, SMM to wholly own Philippine Coral Bay nickel smelter (search-result summary; page empty on fetch)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "CBNC has the capacity to produce 24,000t/yr of nickel and 2,500t/yr of cobalt. SMM currently owns an 84.375pc stake in CBNC (search-result summary)"
+  },
+  "S31": {
+   "url": "https://www.mining.com/web/virtus-and-indian-partner-to-restart-chemaf-in-2027-union-executive-says/",
+   "publisher": "Mining.com / search-result summaries on Chemaf Mutoshi design capacity (page not opened)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Mutoshi design capacity 16,000 tons of cobalt and 50,000 tons of copper a year (sentence cut off in the search-result summary)"
+  },
+  "S32": {
+   "url": "https://www.redimin.cl/virtus-minerals-y-lloyds-metals-impulsan-produccion-de-cobre-y-cobalto",
+   "publisher": "Redimin (Spanish-language report on Chemaf/Virtus; search-result summary)",
+   "published": "2026-04-01",
+   "accessed": "2026-11-27",
+   "language": "es",
+   "tier": "reported",
+   "snippet": "Etoile has an annual capacity of 25.000 toneladas de catodos de cobre y 4.000 toneladas de hidroxido de cobalto (search-result summary)"
+  },
+  "S33": {
+   "url": "https://www.ergafrica.com/wp-content/uploads/ERG-Clean-Cobalt-and-Copper-Performance-Report-2025.pdf",
+   "publisher": "ERG Clean Cobalt and Copper Performance Report 2025 (search-result summary; PDF text not extractable)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "101kt of copper cathodes and 5,7kt of cobalt in hydroxide produced at Metalkol in 2025 (search-result summary)"
+  },
+  "S34": {
+   "url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+   "publisher": "Nickel 28 Capital Corp press release via Yahoo Finance, Ramu Q4 and full year 2025 operating performance",
+   "published": "2026-02-23",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Nickel 28 currently holds an 8.56% joint-venture interest in Ramu."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "cmoc-tenke-fungurume-tfm-drc",
+   "fields": {
+    "status": "operational",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704052.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-27"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "SC025 update. CMOC 2025 ESG report (HKEX, p.3): CMOC holds 80% of TFM; as of end-2025 five production lines, copper capacity >450 kt/yr, all operating at full capacity (confirms operating status that SC113 had inferred). Cobalt capacity and per-mine cobalt output are NOT disclosed. Group cobalt metal 2025 = 117,549 t (ESG p.4; annual report 11.75 wan t = 117,500 t) for TFM + KFM combined, not split by mine; guidance 2026 100-120 kt Co (secondary press). Combined TFM+KFM output left unallocated. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "cmoc-kisanfu-kfm-drc",
+   "fields": {
+    "status": "operational",
+    "source_url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0327/2026032704052.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-27"
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "SC025 update. CMOC 2025 ESG report (HKEX, p.3): CMOC holds 71.25% of KFM (acquired Dec 2020); as of end-2025 KFM operated one production line with copper capacity >200 kt/yr; Phase II (+100 kt Cu) due 2027. Cobalt capacity not disclosed in the ESG report (a press snippet mentions an average KFM cobalt capacity of 82,000 t/yr for 2025-26 - NOT used, unverified). Group cobalt metal 2025 = 117,549 t (TFM+KFM combined, ESG p.4), not split by mine. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "glencore-kcc-cobalt-drc",
+   "fields": {
+    "asset_name": "Kamoto Copper Company (KCC) - cobalt",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide (in hydroxides/concentrates) with copper cathode",
+    "asset_type": "copper-cobalt mine and processing",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Glencore (KCC)",
+    "parent_company": "Glencore plc",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "operational",
+    "project_state": "active",
+    "production": 22900,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "production": [
+     "S1"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Glencore FY2025 production report p.10: KCC cobalt (contained in concentrates and hydroxides) 22.9 kt in 2025 vs 27.2 kt in 2024 (-16%); H2 weaker because Glencore prioritised copper over cobalt under DRC export restrictions. Capacity for cobalt not disclosed. DRC export quota (cobalt, kt): KCC 16.1 for 2026 (incl. 2025 carryover) and 13.3 for 2027 (S5 p.2); output above quota is stored in-country. Ownership split (Glencore/Gecamines) not evidenced here. Table was read from the rendered PDF page (image), not extracted text."
+  },
+  {
+   "action": "add",
+   "id": "glencore-mutanda-cobalt-drc",
+   "fields": {
+    "asset_name": "Mutanda Mining - cobalt",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide (in hydroxides/concentrates) with copper cathode",
+    "asset_type": "copper-cobalt mine and processing",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Glencore (Mutanda)",
+    "parent_company": "Glencore plc",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "operational",
+    "project_state": "active",
+    "production": 10600,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ],
+    "production": [
+     "S2"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Glencore FY2025 production report p.10: Mutanda cobalt 10.6 kt in 2025 vs 7.9 kt in 2024 (+34%); Q4 2025 1.8 kt (down sharply). Report attributes H1 2025 growth to higher grades and volumes at Mutanda. Quota (kt Co): 6.7 for 2026 incl. carryover, 5.5 for 2027 (S5). Glencore total DRC cobalt = KCC 22.9 + Mutanda 10.6 = 33.5 kt (production report p.10 'Total Cobalt')."
+  },
+  {
+   "action": "add",
+   "id": "erg-metalkol-rtr-drc",
+   "fields": {
+    "asset_name": "Metalkol RTR (Roan Tailings Reclamation)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide with copper cathode",
+    "asset_type": "tailings reclamation and hydrometallurgical plant",
+    "feedstock": "historic copper-cobalt tailings",
+    "operator": "ERG (Eurasian Resources Group)",
+    "parent_company": "Eurasian Resources Group",
+    "jv_partners": "DRC State (10%)",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 23000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "production": 5700,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.ergafrica.com/cobalt-copper-division/metalkol/",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S6"
+    ],
+    "production": [
+     "S7",
+     "S33"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "ERG Metalkol page: Kolwezi, Lualaba; nameplate ~100 ktpa copper cathode and ~23 ktpa cobalt in hydroxide; 90% ERG / 10% DRC State; processes historic tailings (Musonoi River valley, Kingamyambo). capacity_ref_year left null (page undated). Production 2025: Reuters/SMM (S7, confirmed quote) says ERG cut cobalt hydroxide output 70% to 5,700 t in 2025 from 19,000 t in 2024 - an ERG-level statement that does not name Metalkol; ERG's Performance Report snippet (S33, reported) attributes 5.7 kt Co to Metalkol. Treat as Metalkol with caution. ERG 2026 DRC export quota 12,325 t (incl. Q4-2025 carryover). ERG's other DRC cobalt assets (Boss Mining, Frontier; Chambishi Metals in Zambia) exist per ERG menu but no data found - not added. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "jinchuan-musonoi-drc",
+   "fields": {
+    "asset_name": "Musonoi (COMMUS) copper-cobalt mine",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide with copper",
+    "asset_type": "underground copper-cobalt mine",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Jinchuan Group International Resources (Musonoi)",
+    "parent_company": "Jinchuan Group",
+    "jv_partners": "Gecamines (25%)",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "capacity": 7400,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.yahoo.com/markets/commodities/articles/musonoi-ramp-mutanda-feed-drive-152011592.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-03-24"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Mining Technology analyst comment (GlobalData): Musonoi owned Jinchuan 75% / Gecamines 25% (stated in the fetched page summary, not in the short quote), capacity ~7,400 t Co, underground operations began Sept 2025 (search snippets elsewhere say commercial production Nov 2025). start_year 2025 and capacity_ref_year 2026 (publication year fallback) are inferred from that. Production: Jinchuan Intl group cobalt (Ruashi + Musonoi) 2025 = 1,085 t per a secondary summary (S13, reported) and 71 t in 9M 2025 (S12); H1 2026 Musonoi cobalt 4,101 t per search snippet only (not opened). Per-mine 2025 cobalt output not allocated."
+  },
+  {
+   "action": "add",
+   "id": "jinchuan-ruashi-drc",
+   "fields": {
+    "asset_name": "Ruashi copper-cobalt mine and SX-EW plant",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide with copper cathode",
+    "asset_type": "open-pit copper-cobalt mine and SX-EW",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Ruashi Mining (Metorex / Jinchuan Group International Resources)",
+    "parent_company": "Jinchuan Group",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Haut-Katanga",
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 5300,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://subsites.chinadaily.com.cn/jnmc/2026-06/29/c_784249.htm",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-29"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Jinchuan page: Ruashi mine 5 km east of Lubumbashi, 36,000 t/yr cathode copper and 5,300 t cobalt metal in cobalt hydroxide products (undated page; capacity_ref_year = 2026 publication-year fallback). 2025: SX-EW plant suspended Jan 2025 (power) and resumed mid-May 2025; cobalt output 71 t in Jan-Sep 2025 (-90.3% y/y) and no cobalt sold (S12). Group cobalt incl. Musonoi 1,085 t in 2025 (S13, reported). Ownership (Metorex 75% / Gecamines 25%) seen only in a search snippet - not stated as a field. Coordinates not set (town-level 'Lubumbashi' only). [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "cnmc-deziwa-drc",
+   "fields": {
+    "asset_name": "Deziwa copper-cobalt mine",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt metal / cobalt products with cathode copper",
+    "asset_type": "copper-cobalt mine and processing",
+    "feedstock": "copper-cobalt ore",
+    "operator": "CNMC (China Nonferrous Metal Mining Group)",
+    "parent_company": "China Nonferrous Metal Mining (Group)",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 8000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://dyys.cnmc.com.cn/ysen/BusinessScope/BusinessScopePage/Resource/dom/2025/5/I1371494382322057216.html",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "CNMC page (dated 2025-05 from URL): Deziwa described as CNMC's largest standalone overseas copper-cobalt investment, 80,000 t cathode copper and 8,000 t cobalt metal annually; capacity_ref_year 2025 is the publication-year fallback. Mining Technology (S9): Kalongwe, Deziwa and Etoile COLLECTIVELY produced 20,430 t Co in 2025; Deziwa closure slated 2030 - per-mine output not given, not allocated. Relationship between Deziwa and Huayou's CDM (existing row huayou-cdm-congo-dongfang-drc) is NOT established by the sources; lead to check for double-counting."
+  },
+  {
+   "action": "add",
+   "id": "chemaf-etoile-drc",
+   "fields": {
+    "asset_name": "Etoile copper-cobalt plant (Chemaf)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide with copper cathode",
+    "asset_type": "copper-cobalt mine and SX-EW plant",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Chemaf (Virtus Lloyds Mineral Holding from 2026)",
+    "parent_company": "Virtus Lloyds Mineral Holding",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Haut-Katanga",
+    "status": "operational",
+    "project_state": "paused",
+    "capacity": 4000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-04-22/virtus-and-indian-partner-restart-chemaf-2027-union-executive-says",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-22"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S32"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reuters/Kitco (Apr 2026): the Lubumbashi operation was Chemaf's only producing site, to be suspended for up to two months for maintenance; new owners (Virtus-Lloyds JV, bought mines Mar 2026 for $30m, ~$900m debt assumed) aim for full production at Lubumbashi and Kolwezi by Jan 2027; a July 2026 Semafor snippet says it remained shut. Hence project_state paused. Site name 'Etoile' is from search snippets (Etoile is near Lubumbashi); the Kitco page itself does not name it. Capacity 4,000 t Co hydroxide (25,000 t Cu cathode) from a Spanish-language report snippet only (reported). No output figure found. Part of the 20,430 t Kalongwe/Deziwa/Etoile 2025 combined figure (S9)."
+  },
+  {
+   "action": "add",
+   "id": "chemaf-mutoshi-drc",
+   "fields": {
+    "asset_name": "Mutoshi copper-cobalt project (Chemaf)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt hydroxide with copper cathode",
+    "asset_type": "copper-cobalt mine and processing project",
+    "feedstock": "copper-cobalt ore",
+    "operator": "Chemaf (Virtus Lloyds Mineral Holding from 2026)",
+    "parent_company": "Virtus Lloyds Mineral Holding",
+    "country": "DRC",
+    "region": "Africa",
+    "province_state": "Lualaba",
+    "status": "under_construction",
+    "project_state": "paused",
+    "capacity": 16000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-04-22/virtus-and-indian-partner-restart-chemaf-2027-union-executive-says",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-04-22"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S31"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Kitco/Reuters: Mutoshi (near Kolwezi) has been stalled since 2019 when processing was suspended; new owners intend to complete the Mutoshi projects, no date. Design capacity 16,000 t Co / 50,000 t Cu per year from a search-result summary of Mining.com only (reported, not opened). Status under_construction/paused is a judgment: plant partly built then idled; no production reported."
+  },
+  {
+   "action": "add",
+   "id": "sherritt-moa-jv-cuba",
+   "fields": {
+    "asset_name": "Moa Joint Venture (Moa mine and processing - mixed sulphides)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "nickel-cobalt mixed sulphides (feed to Fort Saskatchewan refinery)",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Moa JV (Sherritt / Cuban state)",
+    "parent_company": "Sherritt International",
+    "jv_partners": "Sherritt (50%)",
+    "country": "Cuba",
+    "region": "North America",
+    "province_state": "Holguin",
+    "status": "operational",
+    "project_state": "active",
+    "end_market": "battery",
+    "source_url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-10",
+    "feeds": "sherritt-fort-saskatchewan-refinery-canada"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "Sherritt Q4 2025 release: Moa JV finished nickel and cobalt output (100% basis) 25,240 t Ni and 2,728 t Co in 2025 - recorded on the Fort Saskatchewan refinery row to avoid double counting. Mixed sulphides production fell short in Q4 2025; 2026 guidance 30-32 kt contained Ni+Co in mixed sulphides, finished Co 2,750-2,850 t (100%). Sherritt holds a 50% interest. Province 'Holguin' is general knowledge (Moa), not evidenced in the cited page; no coordinates. Possible overlap with a nickel-commodity Moa row from another slice."
+  },
+  {
+   "action": "add",
+   "id": "sherritt-fort-saskatchewan-refinery-canada",
+   "fields": {
+    "asset_name": "Fort Saskatchewan nickel-cobalt refinery (Moa JV metals refinery)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "finished cobalt (metal) and nickel",
+    "asset_type": "hydrometallurgical refinery",
+    "feedstock": "Moa mixed sulphides",
+    "operator": "Sherritt International (Moa JV metals refinery)",
+    "parent_company": "Sherritt International",
+    "jv_partners": "Moa JV 50% Sherritt",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Alberta",
+    "status": "operational",
+    "project_state": "active",
+    "production": 2728,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://sherritt.com/wp-content/uploads/2026/02/Sherritt-Q4-2025-Press-Release-VF.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-10"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "production": [
+     "S14"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Production 2,728 t finished cobalt in 2025 on a 100% Moa JV basis (Sherritt share 50%); Q4 2025 Sherritt share 424 t. A search-result summary of Business Wire gives refinery complex capacity ~38,200 t/yr combined nickel+cobalt (100%); not split by metal and not opened, so capacity left null. Refinery described elsewhere as the only significant cobalt refinery in North America (search snippet)."
+  },
+  {
+   "action": "add",
+   "id": "ambatovy-cobalt-madagascar",
+   "fields": {
+    "asset_name": "Ambatovy nickel-cobalt mine and refinery",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt metal (briquettes/powder) with nickel",
+    "asset_type": "laterite mine, HPAL and refinery",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Ambatovy Minerals",
+    "parent_company": "Sumitomo Corporation (sold 54% stake to investors in 2026)",
+    "jv_partners": "KOMIR (Korea), other investors",
+    "country": "Madagascar",
+    "region": "Africa",
+    "status": "operational",
+    "project_state": "active",
+    "production": 2700,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.kitco.com/news/off-the-wire/2026-06-11/madagascan-miner-ambatovy-resumes-nickel-production-after-cyclone",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-06-11"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ],
+    "production": [
+     "S15"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Reuters via Kitco: ~29,000 t Ni and 2,700 t Co in 2025. A cyclone in Feb 2026 stopped operations; one acid plant restarted 23 May 2026, second planned by end-June 2026 (hence active, in restart). Sumitomo sold its 54% stake to a group of investors in May 2026; KOMIR remains a shareholder (article). Nameplate not stated in the page. A snippet (Skillings) cites 2025 nickel 28,000 t and a 60,000 t nameplate - not used. Possible overlap with a nickel-commodity Ambatovy row from another slice."
+  },
+  {
+   "action": "add",
+   "id": "mcc-ramu-nico-png",
+   "fields": {
+    "asset_name": "Ramu NiCo (laterite mine and HPAL)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "mixed hydroxide precipitate (MHP), contained cobalt",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "MCC (Metallurgical Corporation of China)",
+    "parent_company": "MCC",
+    "jv_partners": "Nickel 28 (8.56%)",
+    "country": "Papua New Guinea",
+    "region": "Australia & Oceania",
+    "status": "operational",
+    "project_state": "active",
+    "production": 3099,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://finance.yahoo.com/news/nickel-28-releases-ramu-q4-125500904.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-02-23"
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ],
+    "production": [
+     "S16"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Nickel 28 release: 2025 full-year production 33,007 t contained nickel and 3,099 t contained cobalt in MHP (2024: 28,669 t Ni and 2,625 t Co); Nickel 28 holds an 8.56% JV interest and MCC operates (S34). Output is 100% basis of the plant. Product is MHP, so the 'cobalt contained in MHP' is intermediate, not refined cobalt. Possible overlap with a nickel-commodity Ramu row from another slice."
+  },
+  {
+   "action": "add",
+   "id": "prony-resources-goro-new-caledonia",
+   "fields": {
+    "asset_name": "Goro (Prony Resources) nickel-cobalt mine and HPAL plant",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "nickel-cobalt hydroxide cake (NHC) / nickel-cobalt chemicals",
+    "asset_type": "laterite mine and HPAL",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Prony Resources New Caledonia",
+    "parent_company": "Prony Resources",
+    "country": "New Caledonia",
+    "region": "Australia & Oceania",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 5000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://mining-technology.com/newsletters/prony-resources-nickel-goro-mine",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Mining Technology (undated): Goro designed for 57,000 tpa Ni and 5,000 tpa Co, located in south New Caledonia; monthly target 3,500 t of nickel and cobalt chemicals. Search snippets (not opened): plant restarted 9 Dec 2024 after ~7 months idle; a Mining.com report (dated July 2026 on the page) says output was cut after a tailings dam leak. No 2025 cobalt output found (Mining Data Online lists cobalt 1,703-3,188 t across years, labels garbled). Status operational is therefore weakly evidenced; capacity is design, not actual. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "add",
+   "id": "glencore-murrin-murrin-cobalt-australia",
+   "fields": {
+    "asset_name": "Murrin Murrin nickel-cobalt operation",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt metal with nickel",
+    "asset_type": "laterite mine, HPAL and refinery",
+    "feedstock": "nickel-cobalt laterite ore",
+    "operator": "Glencore (Murrin Murrin)",
+    "parent_company": "Glencore plc",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "status": "operational",
+    "project_state": "active",
+    "production": 2200,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "production": [
+     "S3"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "Glencore FY2025 production report p.12: Murrin Murrin total cobalt metal 2.2 kt own-sourced in 2025 (2.5 kt in 2024); 2.3 kt including third-party feed (2.8 kt in 2024). Own-sourced nickel 32.1 kt. Integrated site (mine + HPAL + refinery) held as one cobalt row; refinery capacity not retrieved. Possible overlap with a nickel-commodity Murrin Murrin row from another slice."
+  },
+  {
+   "action": "add",
+   "id": "glencore-nikkelverk-cobalt-norway",
+   "fields": {
+    "asset_name": "Nikkelverk (Kristiansand) refinery - cobalt (Integrated Nickel Operations)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt metal",
+    "asset_type": "electrolytic nickel-cobalt refinery",
+    "feedstock": "Sudbury/Raglan matte and third-party feed",
+    "operator": "Glencore (Nikkelverk)",
+    "parent_company": "Glencore plc",
+    "country": "Norway",
+    "region": "Europe",
+    "status": "operational",
+    "project_state": "active",
+    "production": 3000,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.glencore.com/.rest/api/v1/documents/static/a8114247-02e8-4bd8-bc04-81f411ba631c/GLEN_2025-FY-Production-Report.pdf",
+    "source_date": "2026-11-27",
+    "source_published_date": "2026-01-29"
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "production": [
+     "S4"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Glencore reports cobalt metal only at the level of 'Integrated Nickel Operations (Sudbury, Raglan, Nikkelverk)': 0.4 kt own-sourced and 3.0 kt including third-party feed in 2025 (3.0 kt in 2024). The refined cobalt is assumed to be made at Nikkelverk (the only refinery in the group), but the report does not state the split, so confidence is limited. Location (Kristiansand, Norway) is general knowledge, not in the cited table. Sudbury and Raglan mines not added as separate cobalt rows (no per-mine data)."
+  },
+  {
+   "action": "add",
+   "id": "nornickel-kola-mmc-cobalt-russia",
+   "fields": {
+    "asset_name": "Kola MMC Monchegorsk cobalt metal workshop",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "metallic cobalt 99.9%",
+    "asset_type": "cobalt metal refinery workshop",
+    "feedstock": "cobalt concentrate/intermediates",
+    "operator": "Nornickel (Kola MMC)",
+    "parent_company": "Nornickel",
+    "country": "Russia",
+    "region": "Russia & Central Asia",
+    "province_state": "Murmansk",
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "start_year": 2025,
+    "capacity": 3000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://tass.com/economy/2055075/amp",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-12-08"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S18"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "TASS 8 Dec 2025: Nornickel launched a rebuilt metallic cobalt production facility in Monchegorsk, capacity up to 3,000 t/yr, 99.9% purity. Search snippets (Interfax/metal.com, not opened): pre-fire (Sept 2022) capacity 2,500 t; interim output up to 1,000 t/yr from concentrate. No 2025 production figure found. Nornickel's Harjavalta refinery (Finland) makes nickel and cobalt sulphate/solutions - no cobalt tonnage found, not added. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "managem-bou-azzer-morocco",
+   "fields": {
+    "asset_name": "Bou Azzer cobalt mine (Managem / CTT)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt concentrate (refined to cathodes at Guemassa)",
+    "asset_type": "primary cobalt-arsenide mine",
+    "feedstock": "cobalt-arsenide ore",
+    "operator": "Managem Group (CTT)",
+    "parent_company": "Managem Group",
+    "country": "Morocco",
+    "region": "Africa",
+    "status": "operational",
+    "project_state": "active",
+    "production": 650,
+    "production_unit": "t Co",
+    "production_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.managemgroup.com/en/our-products/cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "production": [
+     "S21",
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "CONFLICT: Managem product page gives 650 t of cobalt cathodes (as of 31 Dec 2025); Medias24 (reported snippet, page 403) says 507 t of cobalt cathodes in 2025, -61% y/y. Neither is mine output of concentrate; cathodes are made at Guemassa from Bou Azzer concentrate. Managem expects ~2,870 t Co in 2026 once a cobalt sulphate unit starts (snippet; capacity statements conflict: 2,880 t CoSO4 ~590 t Co vs 1,200 t Co metal + 5,800 t sulphate). Bou Azzer described as one of the world's only primary cobalt mines. No coordinates."
+  },
+  {
+   "action": "add",
+   "id": "jervois-idaho-cobalt-operations-usa",
+   "fields": {
+    "asset_name": "Idaho Cobalt Operations (ICO)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "cobalt sulphide concentrate",
+    "asset_type": "underground cobalt mine and concentrator",
+    "feedstock": "cobalt ore",
+    "operator": "Jervois Mining USA (Jervois Global)",
+    "parent_company": "Jervois Global",
+    "country": "USA",
+    "region": "North America",
+    "province_state": "Idaho",
+    "status": "under_construction",
+    "project_state": "paused",
+    "end_market": "battery",
+    "source_url": "https://www.kitco.com/news/article/2023-03-28/jervois-suspends-final-construction-idaho-cobalt-operations-due-low-cobalt",
+    "source_date": "2026-11-27",
+    "source_published_date": "2023-03-28"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "Kitco (Mar 2023): Jervois suspended final construction and full concentrator commissioning at its 100%-owned ICO mine in Idaho (low cobalt prices, construction inflation). Search snippets (Idaho DEQ doc, not opened): site moving from short-term suspension to long-term care and maintenance; water treatment to stop from Nov 2025. Jervois recapitalised via Chapter 11 (Millstreet) in 2025 (snippet). Capacity not stated in any fetched page - left null. Status under_construction + paused because it was built but never reached commercial production."
+  },
+  {
+   "action": "add",
+   "id": "umicore-kokkola-cobalt-refinery-finland",
+   "fields": {
+    "asset_name": "Kokkola cobalt refinery and precursor plant (Umicore)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt chemicals / precursor feed",
+    "asset_type": "cobalt refinery",
+    "feedstock": "cobalt hydroxide and intermediates",
+    "operator": "Umicore",
+    "parent_company": "Umicore",
+    "jv_partners": "Jervois Finland (toll-refining rights, per search snippet)",
+    "country": "Finland",
+    "region": "Europe",
+    "province_state": "Central Ostrobothnia",
+    "geo_precision": "town",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 15000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2020,
+    "end_market": "battery",
+    "source_url": "https://www.umicore.com/en/media/newsroom/umicore-to-acquire-cobalt-refinery-and-cathode-precursor-operations-in-finland/",
+    "source_date": "2026-11-27",
+    "source_published_date": "2019-05-23"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S26"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Umicore 2019 release (confirmed quote): Europe's largest cobalt refinery, acquired from Freeport Cobalt; Umicore Sept 2020 release (not quoted) says Olen cobalt refining moves to Kokkola by mid-2023. Capacity 15,000 t/y from a Mining Journal search snippet at acquisition time (reported, dated 2020; unit assumed t Co - unverified). I found NO evidence of a 2025/26 sale of Kokkola by Umicore; the lead's 'now Jervois Finland -> sold?' is unresolved: Jervois (via Freeport Cobalt) holds toll-refining rights (~40% of capacity, snippet) and its Chapter 11 recapitalisation was in 2025. No production figure found."
+  },
+  {
+   "action": "add",
+   "id": "electra-cobalt-sulfate-refinery-canada",
+   "fields": {
+    "asset_name": "Electra cobalt sulfate refinery (Temiskaming Shores)",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "battery-grade cobalt sulfate",
+    "asset_type": "hydrometallurgical refinery",
+    "feedstock": "cobalt intermediates and black mass",
+    "operator": "Electra Battery Materials",
+    "parent_company": "Electra Battery Materials",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "geo_precision": "town",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "capacity": 6500,
+    "capacity_unit": "t CoSO4",
+    "capacity_ref_year": 2027,
+    "end_market": "battery",
+    "source_url": "https://www.nasdaq.com/press-release/electra-approves-construction-budget-and-sets-schedule-completion-its-north-american",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S27"
+    ],
+    "capacity": [
+     "S27"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Reported tier only (search-result summaries; the press release page returned 503): initial capacity ~5,120 tpa battery-grade cobalt sulfate rising to ~6,500 tpa; mechanical completion targeted Q2 2027; US$73m construction budget; construction resumed Nov 2025. Location Temiskaming Shores/New Liskeard per search results. Unit assumed CoSO4 as stated ('cobalt sulfate'); hydration state not stated. Publication date of the release not confirmed (null)."
+  },
+  {
+   "action": "add",
+   "id": "vale-voiseys-bay-cobalt-canada",
+   "fields": {
+    "asset_name": "Voisey's Bay mine (cobalt by-product)",
+    "step": "mining",
+    "commodity": "cobalt",
+    "product": "nickel-copper-cobalt concentrates (cobalt to Long Harbour)",
+    "asset_type": "underground nickel-copper-cobalt mine",
+    "feedstock": "sulphide ore",
+    "operator": "Vale Base Metals",
+    "parent_company": "Vale S.A.",
+    "jv_partners": "Manara Minerals (10% of Vale Base Metals)",
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Newfoundland and Labrador",
+    "status": "operational",
+    "project_state": "active",
+    "end_market": "battery",
+    "source_url": "https://www.prnewswire.com/apac/news-releases/vale-base-metals-announces-successful-completion-of-cobalt-throughput-test-at-voiseys-bay-302546641.html",
+    "source_date": "2026-11-27",
+    "source_published_date": "2025-09-04"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Vale Base Metals (4 Sep 2025): Voisey's Bay passed the 90-day cobalt throughput test (93.7% average, a condition of the Wheaton/Ecora cobalt streams). CIM award page (S28): the expansion project 'will add 20 ktpy of copper and 2.6 ktpy of cobalt' - read as INCREMENTAL by-product capacity, so total site cobalt capacity and 2025 output are NOT stated; capacity left null. Vale Base Metals is 90% Vale S.A. / 10% Manara. Vale's own cobalt output by site (4Q25 production report Annex) could not be retrieved (PDF not text-extractable / 403). Long Harbour refinery and Sudbury/Thompson cobalt: no data found."
+  },
+  {
+   "action": "add",
+   "id": "smm-coral-bay-nickel-philippines",
+   "fields": {
+    "asset_name": "Coral Bay Nickel Corporation (CBNC) HPAL",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "nickel-cobalt mixed sulphide",
+    "asset_type": "HPAL plant",
+    "feedstock": "limonite laterite ore",
+    "operator": "Coral Bay Nickel Corporation",
+    "parent_company": "Sumitomo Metal Mining",
+    "jv_partners": "Nickel Asia (15.625%, per snippet)",
+    "country": "Philippines",
+    "region": "Southeast Asia",
+    "province_state": "Palawan",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 2500,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2644488-smm-to-wholly-own-philippine-coral-bay-nickel-smelter",
+    "source_date": "2026-11-27",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ],
+    "capacity": [
+     "S30"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Reported tier only (Argus search-result summary; page empty on fetch): CBNC capacity 24,000 t/yr nickel and 2,500 t/yr cobalt; SMM owns 84.375% (planned to buy the remaining 15.625% from Nickel Asia, July 2025). A secondary summary notes a JPY51.2bn impairment on CBNC in the FY ended Mar 2026 (snippet). No cobalt production found. Province Palawan is general knowledge (not in snippet). SMM's Taganito HPAL (75%) and Niihama refinery cobalt: no data found."
+  }
+ ]
+}

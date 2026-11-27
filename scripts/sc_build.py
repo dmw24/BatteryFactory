@@ -58,11 +58,14 @@ def units():
 def apply_patches():
     df = pd.DataFrame({c: pd.Series(dtype=object) for c in COLUMNS}).set_index("id", drop=False)
     ev_rows, removed, log = [], [], []
-    for path in sorted(glob.glob(os.path.join(SC, "patches/*.json"))):
-        name = os.path.basename(path)
-        p = json.load(open(path))
+    # two passes (D-106): every patch's "add" rows first, then update/fix/remove in filename order, so a
+    # lower-numbered task can update an asset added by a higher-numbered one.
+    patches = [(os.path.basename(f), json.load(open(f))) for f in sorted(glob.glob(os.path.join(SC, "patches/*.json")))]
+    work = [(n, p, r) for n, p in patches for r in p["rows"] if r["action"] == "add"] + \
+           [(n, p, r) for n, p in patches for r in p["rows"] if r["action"] != "add"]
+    for name, p, r in work:
         task, vdate, sources = p["task"], p["verified_on"], p.get("sources", {})
-        for r in p["rows"]:
+        if True:
             action, rid, fields = r["action"], r.get("id"), dict(r.get("fields") or {})
             if action == "remove":
                 if rid not in df.index:

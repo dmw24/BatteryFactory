@@ -153,3 +153,6 @@ else 6% (SC6) only where the operator reports "SC6 equivalent"; assumptions are 
 Filing passes sometimes add a project row (e.g. "Haijing 30 kt expansion") next to its site row. Before any capacity
 total is published, such rows are merged into the site row as dated steps (QA task); until then aggregates are flagged
 as upper bounds for cathode/anode.
+## D-106 (2026-11-27, lead) Patch application order
+sc_build applies every patch's `add` rows first, then update/fix/remove rows in filename order, so task numbering
+does not constrain which task may update which asset.
