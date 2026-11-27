@@ -9,16 +9,16 @@ mining,lithium,production,2024,Canada,25657.0,t LCE,0,0,180000,1,0.0,7.02,0,0,0,
 mining,lithium,production,2025,Canada,29809.0,t LCE,24479,1,180000,1,0.82,6.04,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Chile,260295.0,t LCE,308547,2,210000,1,1.19,0.81,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Chile,298088.0,t LCE,308547,2,210000,1,1.04,0.7,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2024,China,220372.0,t LCE,92576,7,360710,12,0.42,1.64,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,China,330026.0,t LCE,92576,7,360710,12,0.28,1.09,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,China,220372.0,t LCE,774757,12,373848,12,3.52,1.7,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,China,330026.0,t LCE,774757,12,373848,12,2.35,1.13,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Mali,4099.0,t LCE,49945,1,75080,1,12.18,18.32,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Mali,50036.0,t LCE,49945,1,75080,1,1.0,1.5,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Portugal,2023.0,t LCE,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Portugal,2023.0,t LCE,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Zimbabwe,106460.0,t LCE,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Zimbabwe,149044.0,t LCE,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2024,World,1181706.0,t LCE,932674,20,1866162,30,0.79,1.58,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,World,1543670.0,t LCE,1175445,24,1866162,30,0.76,1.21,0,0,5543,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,World,1181706.0,t LCE,1614855,25,1879300,30,1.37,1.59,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,World,1543670.0,t LCE,1857626,29,1879300,30,1.2,1.22,0,0,5543,USGS MCS 2026 (Li content x5.323)
 mining,nickel,production,2024,United States,7490.0,t Ni,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,United States,10000.0,t Ni,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,Australia,98000.0,t Ni,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
