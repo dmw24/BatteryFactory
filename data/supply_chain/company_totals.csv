@@ -1,5 +1,5 @@
 company,step,year,metric,product,value,unit,scope,source_file,line_ref,task,asset_match
-CMOC,refining,2025,production,cobalt,117500,t Co,group (DRC TFM+KFM),603993_.txt,371-385,SC113,
+CMOC,mining,2025,production,cobalt,117500,t Co,group (DRC TFM+KFM),603993_.txt,371-385,SC113,cmoc
 Hanrui Cobalt,refining,2025,production,cobalt products,16761.79,t,group,300618_2025.txt,1552-1559,SC113,
 Tengyuan Cobalt,refining,2025,production,cobalt,27348.72,t Co,group,301219_2025.txt,754-766,SC113,
 Tengyuan Cobalt,refining,2025,capacity,cobalt,39500,t Co,Ganzhou after phase II,301219_2025.txt,4040-4041,SC113,

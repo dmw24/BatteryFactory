@@ -64,7 +64,7 @@ mining,cobalt,production,2025,Russia,7700.0,t Co,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 
 mining,cobalt,production,2024,Turkey,2200.0,t Co,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,cobalt,production,2025,Turkey,1900.0,t Co,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,cobalt,production,2024,World,302000.0,t Co,47849,7,52700,6,0.16,0.17,0,0,0,USGS MCS 2026
-mining,cobalt,production,2025,World,310000.0,t Co,47849,7,52700,6,0.15,0.17,0,0,400,USGS MCS 2026
+mining,cobalt,production,2025,World,310000.0,t Co,47849,7,52700,6,0.15,0.17,0,0,117900,USGS MCS 2026
 mining,graphite,production,2024,Brazil,58000.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,graphite,production,2025,Brazil,65000.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
 mining,graphite,production,2024,Canada,11700.0,t graphite,0,0,0,0,0.0,0.0,0,0,0,USGS MCS 2026
@@ -140,7 +140,7 @@ refining,lithium hydroxide,production,2025,China,356000.0,t LiOH,0,0,0,0,0.0,0.0
 refining,lithium,capacity,2025,China,2400000.0,t LCE,43514,4,1040107,35,0.02,0.43,122001,544016,0,电池网 repost of 有色标准计量质量 (basic lithium salt capacity; 'exceeded' = floor)
 refining,cobalt,production,2024,World,228000.0,t Co,5728,2,80000,6,0.03,0.35,0,0,0,Cobalt Institute Cobalt Market Report 2025 Fig. 7 (chart centre label; Benchmark data)
 refining,cobalt,production,2025,World,240000.0,t Co,5728,2,80000,6,0.02,0.33,0,0,0,Cobalt Institute Cobalt Market Report 2025 (Benchmark Mineral Intelligence)
-mining,cobalt,production,2025,World,270000.0,t Co,47849,7,52700,6,0.18,0.2,0,0,400,Cobalt Institute Cobalt Market Report 2025 (mined; comparison with USGS)
+mining,cobalt,production,2025,World,270000.0,t Co,47849,7,52700,6,0.18,0.2,0,0,117900,Cobalt Institute Cobalt Market Report 2025 (mined; comparison with USGS)
 mining,cobalt,production,2025,Indonesia,42500.0,t Co,0,0,0,0,0.0,0.0,0,0,0,Cobalt Institute Cobalt Market Report 2025 (mined; Indonesia HPAL/MHP)
 mining,cobalt,production,2023,World,208000.0,t Co,0,0,52700,6,0.0,0.25,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
 mining,cobalt,production,2024,World,254000.0,t Co,47849,7,52700,6,0.19,0.21,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)

@@ -1,4 +1,5 @@
 company,step,year,metric,product,disclosed,unit,sites_sum,n_sites,n_site_rows,unallocated,source
+CMOC,mining,2025,production,cobalt,117500.0,t Co,0,0,0,117500,603993_.txt l.371-385
 SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,0,0,10,14400,"002812_2025.txt l.435,439"
 SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718
 Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235
