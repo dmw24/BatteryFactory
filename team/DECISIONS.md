@@ -160,3 +160,8 @@ does not constrain which task may update which asset.
 Where a filing gives only a project's capacity at a site whose existing capacity is undisclosed, the project stays a
 separate row with `part_of = <site id>`; capacities may be summed (increment + undisclosed base) but maps/counts treat
 them as one site. Merging would invent a site total (SC140 finding).
+## D-108 (2026-11-27, lead) Offline geocoding of supply-chain assets
+City/town centroids from geonamescache only where the row names an unambiguous locality (SCG_geo, 280 rows; script
+scripts/importers/sc_geocode_offline.py). precision town if <100k population, else city; mines geocoded only when
+named after their town; every point tagged [GEO=…] and "not a verified site". Indonesian parks, remote mines and
+multi-site rows left without coordinates.

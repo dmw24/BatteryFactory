@@ -1,0 +1,2807 @@
+{
+ "task": "SCG_geo",
+ "verified_on": "2026-11-27",
+ "sources": {},
+ "rows": [
+  {
+   "action": "fix",
+   "id": "btr-binzhou-ruiyang-anode-china",
+   "fields": {
+    "latitude": 37.3667,
+    "longitude": 118.0167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Binzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-dali-xiangyun-anode-china",
+   "fields": {
+    "latitude": 25.4669,
+    "longitude": 100.5625,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangcheng, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name (row text 'Xiangyun' = gazetteer place 'Xiangcheng'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-guangming-silicon-anode-china",
+   "fields": {
+    "latitude": 22.5455,
+    "longitude": 114.0683,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Shenzhen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-huizhou-anode-china",
+   "fields": {
+    "latitude": 23.1115,
+    "longitude": 114.4152,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-jixi-natural-graphite-anode-china",
+   "fields": {
+    "latitude": 45.2932,
+    "longitude": 130.9622,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jixi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-tianjin-anode-china",
+   "fields": {
+    "latitude": 39.1422,
+    "longitude": 117.1767,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tianjin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-yaan-ruian-anode-china",
+   "fields": {
+    "latitude": 29.9852,
+    "longitude": 102.999,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ya'an, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-yibin-sichuan-anode-china",
+   "fields": {
+    "latitude": 28.7593,
+    "longitude": 104.6399,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yibin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "epsilon-advanced-materials-karnataka-india",
+   "fields": {
+    "latitude": 15.142,
+    "longitude": 76.924,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ballari, geonamescache] Approximate city-level centroid of the locality named in the row's province_state (row text 'Bellary' = gazetteer place 'Ballari'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "epsilon-advanced-materials-vaasa-finland",
+   "fields": {
+    "latitude": 63.096,
+    "longitude": 21.6158,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Vaasa, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "gotion-wuhai-anode-china",
+   "fields": {
+    "latitude": 39.6844,
+    "longitude": 106.8158,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhai, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "graphite-one-ohio-anode-plant-united-states",
+   "fields": {
+    "latitude": 41.2376,
+    "longitude": -80.8184,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Warren, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "himadri-speciality-hooghly-anode-india",
+   "fields": {
+    "latitude": 22.9088,
+    "longitude": 88.3967,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hugli, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name (row text 'Hooghly' = gazetteer place 'Hugli'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "northern-graphite-yanbu-bam-saudi-arabia",
+   "fields": {
+    "latitude": 24.0895,
+    "longitude": 38.0618,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yanbu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "putailai-anhui-zichen-wuhu-china",
+   "fields": {
+    "latitude": 31.3526,
+    "longitude": 118.4295,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "putailai-jiangxi-zichen-yichun-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "putailai-sichuan-zichen-qionglai-china",
+   "fields": {
+    "latitude": 30.4159,
+    "longitude": 103.4609,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Linqiong, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Qionglai' = gazetteer place 'Linqiong'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shangtai-shanxi-xiyang-phases-1-3-china",
+   "fields": {
+    "latitude": 37.684,
+    "longitude": 112.7547,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jinzhong, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "xiangfenghua-sichuan-pengxi-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-guizhou-xingcheng-tongren-china",
+   "fields": {
+    "latitude": 27.7172,
+    "longitude": 109.1853,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Tongren, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-haida-anqing-china",
+   "fields": {
+    "latitude": 30.5136,
+    "longitude": 117.0472,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Anqing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-hunan-xingcheng-ningxiang-china",
+   "fields": {
+    "latitude": 28.2583,
+    "longitude": 112.5605,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Yutan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Ningxiang' = gazetteer place 'Yutan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-luzhou-sichuan-china",
+   "fields": {
+    "latitude": 28.8903,
+    "longitude": 105.4257,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Luzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-oman-sohar-oman",
+   "fields": {
+    "latitude": 24.3474,
+    "longitude": 56.7094,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sohar, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongke-yunnan-xingcheng-qujing-china",
+   "fields": {
+    "latitude": 25.4833,
+    "longitude": 103.7833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qujing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "anda-hengzhou-240kt-lfp-china",
+   "fields": {
+    "latitude": 22.8167,
+    "longitude": 108.3167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nanning, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "anda-kaiyang-lfp-china",
+   "fields": {
+    "latitude": 26.5833,
+    "longitude": 106.7167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guiyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ascend-elements-apex-1-cam-united-states",
+   "fields": {
+    "latitude": 36.8656,
+    "longitude": -87.4912,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hopkinsville, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "basf-shanshan-changsha-china",
+   "fields": {
+    "latitude": 28.1987,
+    "longitude": 112.9709,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changsha, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "basf-toda-america-battle-creek-united-states",
+   "fields": {
+    "latitude": 42.3173,
+    "longitude": -85.1782,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Battle Creek, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "basf-toda-america-elyria-united-states",
+   "fields": {
+    "latitude": 41.3684,
+    "longitude": -82.1077,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Elyria, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "btr-tianjin-nano-materials-tianjin-china",
+   "fields": {
+    "latitude": 39.1422,
+    "longitude": 117.1767,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tianjin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "catl-brunp-yichang-integrated-battery-materials-china",
+   "fields": {
+    "latitude": 30.7144,
+    "longitude": 111.2847,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "citic-guoan-mengguli-beijing-changping-china",
+   "fields": {
+    "latitude": 40.2161,
+    "longitude": 116.2347,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Changping, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "dynanonic-foshan-lfp-china",
+   "fields": {
+    "latitude": 23.0268,
+    "longitude": 113.1315,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Foshan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "dynanonic-qujing-lfp-china",
+   "fields": {
+    "latitude": 25.4833,
+    "longitude": 103.7833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qujing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "dynanonic-yibin-lfp-china",
+   "fields": {
+    "latitude": 28.7593,
+    "longitude": 104.6399,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yibin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-debrecen-hungary",
+   "fields": {
+    "latitude": 47.5317,
+    "longitude": 21.6244,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Debrecen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-ochang-south-korea",
+   "fields": {
+    "latitude": 36.6372,
+    "longitude": 127.4897,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Cheongju-si, geonamescache] Approximate city-level centroid of the locality named in the row's province_state; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-pohang-blue-valley-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-pohang-cam-other-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-pohang-cam9-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-em-pohang-cam7-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "fulin-deyang-mianzhu-lfp-china",
+   "fields": {
+    "latitude": 31.1302,
+    "longitude": 104.382,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Deyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "fulin-jiangxi-shenghua-yichun-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "gem-wuxi-cathode-china",
+   "fields": {
+    "latitude": 31.5689,
+    "longitude": 120.2886,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuxi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "gotion-lujiang-kehong-cathode-china",
+   "fields": {
+    "latitude": 31.2336,
+    "longitude": 117.2806,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Lucheng, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Lujiang' = gazetteer place 'Lucheng'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hefei-gotion-battery-materials-hefei-china",
+   "fields": {
+    "latitude": 31.8639,
+    "longitude": 117.2808,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hefei, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "henan-kelong-new-energy-xinxiang-china",
+   "fields": {
+    "latitude": 35.1903,
+    "longitude": 113.8015,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xinxiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-sichuan-yuneng-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-sichuan-yuning-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-xiangtan-china",
+   "fields": {
+    "latitude": 27.85,
+    "longitude": 112.9,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangtan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-xiangtan-phase-vi-china",
+   "fields": {
+    "latitude": 27.85,
+    "longitude": 112.9,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangtan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-yunnan-yuneng-china",
+   "fields": {
+    "latitude": 24.9227,
+    "longitude": 102.485,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Anning, geonamescache] Approximate city-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ionway-nysa-cathode-poland",
+   "fields": {
+    "latitude": 50.4738,
+    "longitude": 17.3344,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Nysa, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "l-f-guji-plant3-ncm-south-korea",
+   "fields": {
+    "latitude": 35.8703,
+    "longitude": 128.5911,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Daegu, geonamescache] Approximate city-level centroid of the locality named in the row's province_state; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "l-f-plus-daegu-lfp-south-korea",
+   "fields": {
+    "latitude": 35.8703,
+    "longitude": 128.5911,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Daegu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "lg-chem-clarksville-cam-united-states",
+   "fields": {
+    "latitude": 36.5298,
+    "longitude": -87.3594,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Clarksville, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "lg-chem-gumi-cathode-south-korea",
+   "fields": {
+    "latitude": 36.1136,
+    "longitude": 128.336,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gumi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-hubei-lithium-source-xiangyang-85kt-project-china",
+   "fields": {
+    "latitude": 32.0422,
+    "longitude": 112.1448,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-hubei-lithium-source-xiangyang-china",
+   "fields": {
+    "latitude": 32.0422,
+    "longitude": 112.1448,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-jintan-high-compaction-lfp-china",
+   "fields": {
+    "latitude": 31.7736,
+    "longitude": 119.954,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-shandong-lithium-source-heze-china",
+   "fields": {
+    "latitude": 35.2393,
+    "longitude": 115.4736,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Heze, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-shandong-lithium-source-heze-phase2-china",
+   "fields": {
+    "latitude": 35.2393,
+    "longitude": 115.4736,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Heze, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-suining-lithium-source-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-tianjin-lithium-source-baodi-china",
+   "fields": {
+    "latitude": 39.1422,
+    "longitude": 117.1767,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tianjin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "mengguli-baodi-cathode-china",
+   "fields": {
+    "latitude": 39.1422,
+    "longitude": 117.1767,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tianjin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "mitra-chem-muskegon-united-states",
+   "fields": {
+    "latitude": 43.2342,
+    "longitude": -86.2484,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Muskegon, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nichia-anan-cathode-japan",
+   "fields": {
+    "latitude": 33.9167,
+    "longitude": 134.65,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Anan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-gumi-cathode-south-korea",
+   "fields": {
+    "latitude": 36.1136,
+    "longitude": 128.336,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gumi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-gwangyang-cathode-south-korea",
+   "fields": {
+    "latitude": 34.9414,
+    "longitude": 127.6957,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gwangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-gwangyang-nca-52500-south-korea",
+   "fields": {
+    "latitude": 34.9414,
+    "longitude": 127.6957,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gwangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-pohang-cathode-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-pohang-lfp-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "redwood-materials-carson-city-united-states",
+   "fields": {
+    "latitude": 39.1638,
+    "longitude": -119.7674,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Carson City, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "redwood-materials-charleston-united-states",
+   "fields": {
+    "latitude": 32.7763,
+    "longitude": -79.9327,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Charleston, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ronbay-xiantao-sodium-integrated-china",
+   "fields": {
+    "latitude": 30.3708,
+    "longitude": 113.4429,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiantao, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "smm-niihama-cathode-japan",
+   "fields": {
+    "latitude": 33.9605,
+    "longitude": 133.3052,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Niihama, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sundon-new-energy-xiangtan-china",
+   "fields": {
+    "latitude": 27.85,
+    "longitude": 112.9,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangtan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "umicore-nysa-cathode-poland",
+   "fields": {
+    "latitude": 50.4738,
+    "longitude": 17.3344,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Nysa, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanhua-chemical-haiyang-lfp-china",
+   "fields": {
+    "latitude": 36.7767,
+    "longitude": 121.1597,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Dongcun, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Haiyang' = gazetteer place 'Dongcun'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanhua-chemical-laizhou-lfp-china",
+   "fields": {
+    "latitude": 37.1807,
+    "longitude": 119.9422,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Laizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-anhui-china",
+   "fields": {
+    "latitude": 30.5136,
+    "longitude": 117.0472,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Anqing, geonamescache] Approximate city-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-baokang-xiangyang-lfp-china",
+   "fields": {
+    "latitude": 32.0422,
+    "longitude": 112.1448,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-hubei-china",
+   "fields": {
+    "latitude": 32.6475,
+    "longitude": 110.7781,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Shiyan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-lubei-binzhou-shandong-china",
+   "fields": {
+    "latitude": 37.3667,
+    "longitude": 118.0167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Binzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "xiamen-tungsten-new-energy-yaan-china",
+   "fields": {
+    "latitude": 29.9852,
+    "longitude": 102.999,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ya'an, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "xinxiang-tianli-lithium-energy-xinxiang-china",
+   "fields": {
+    "latitude": 35.1903,
+    "longitude": 113.8015,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xinxiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongna-energy-meishan-china",
+   "fields": {
+    "latitude": 30.0439,
+    "longitude": 103.837,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Meishan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "duofluoride-jiaozuo-lipf6-china",
+   "fields": {
+    "latitude": 35.2392,
+    "longitude": 113.2391,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiaozuo, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tianji-taiji-changshu-lipf6-china",
+   "fields": {
+    "latitude": 31.6461,
+    "longitude": 120.7422,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changshu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tianji-tairui-liante-changshu-lipf6-china",
+   "fields": {
+    "latitude": 31.6461,
+    "longitude": 120.7422,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changshu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tianji-xintai-changshu-lipf6-china",
+   "fields": {
+    "latitude": 31.6461,
+    "longitude": 120.7422,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changshu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-chizhou-lipf6-china",
+   "fields": {
+    "latitude": 30.6613,
+    "longitude": 117.4778,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-jiujiang-xindongli-lipf6-china",
+   "fields": {
+    "latitude": 29.7048,
+    "longitude": 116.0021,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "yongtai-shaowu-gaoxin-lithium-salt-china",
+   "fields": {
+    "latitude": 27.3409,
+    "longitude": 117.4831,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Shaowu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-chongqing-electrolyte-china",
+   "fields": {
+    "latitude": 29.5603,
+    "longitude": 106.5577,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chongqing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-huizhou-daya-bay-electrolyte-china",
+   "fields": {
+    "latitude": 23.1115,
+    "longitude": 114.4152,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-huizhou-phase4-200kt-electrolyte-china",
+   "fields": {
+    "latitude": 23.1115,
+    "longitude": 114.4152,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-jingmen-electrolyte-china",
+   "fields": {
+    "latitude": 31.0336,
+    "longitude": 112.2047,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jingmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-nantong-electrolyte-china",
+   "fields": {
+    "latitude": 32.0303,
+    "longitude": 120.8747,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nantong, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-poland-walbrzych-electrolyte-poland",
+   "fields": {
+    "latitude": 50.7714,
+    "longitude": 16.2843,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wałbrzych, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name (row text 'Walbrzych' = gazetteer place 'Wałbrzych'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-sanming-haisifu-electrolyte-china",
+   "fields": {
+    "latitude": 26.2486,
+    "longitude": 117.6186,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sanming, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-tianjin-electrolyte-china",
+   "fields": {
+    "latitude": 39.1422,
+    "longitude": 117.1767,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tianjin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "capchem-yanbu-battery-materials-saudi-arabia",
+   "fields": {
+    "latitude": 24.0895,
+    "longitude": 38.0618,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yanbu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "dongwha-electrolyte-clarksville-united-states",
+   "fields": {
+    "latitude": 36.5298,
+    "longitude": -87.3594,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Clarksville, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "enchem-hungary-komarom-hungary",
+   "fields": {
+    "latitude": 47.7432,
+    "longitude": 18.1191,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Komárom, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Komarom' = gazetteer place 'Komárom'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "green-energy-origin-billingham-united-kingdom",
+   "fields": {
+    "latitude": 54.5888,
+    "longitude": -1.2903,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Billingham, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "green-energy-origin-memphis-united-states",
+   "fields": {
+    "latitude": 35.1495,
+    "longitude": -90.049,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Memphis, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiangsu-bikang-pharmaceutical-nantong-china",
+   "fields": {
+    "latitude": 32.0303,
+    "longitude": 120.8747,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nantong, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiujiang-tinci-advanced-materials-jiujiang-china",
+   "fields": {
+    "latitude": 29.7048,
+    "longitude": 116.0021,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "mitsubishi-chemical-yokkaichi-japan",
+   "fields": {
+    "latitude": 34.9667,
+    "longitude": 136.6167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yokkaichi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "orbia-fluor-energy-materials-madison-united-states",
+   "fields": {
+    "latitude": 43.0731,
+    "longitude": -89.4012,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Madison, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-huarong-ningde-400kt-electrolyte-china",
+   "fields": {
+    "latitude": 27.3273,
+    "longitude": 120.214,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Fuding, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-huarong-ningde-80kt-electrolyte-china",
+   "fields": {
+    "latitude": 27.3273,
+    "longitude": 120.214,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Fuding, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-huarong-zhangjiagang-electrolyte-china",
+   "fields": {
+    "latitude": 31.865,
+    "longitude": 120.5389,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhangjiagang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-huarong-zigong-300kt-electrolyte-china",
+   "fields": {
+    "latitude": 29.3416,
+    "longitude": 104.7769,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zigong, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ruitai-quzhou-300kt-electrolyte-china",
+   "fields": {
+    "latitude": 28.9594,
+    "longitude": 118.8686,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Quzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shida-shenghua-dongying-electrolyte-china",
+   "fields": {
+    "latitude": 37.4627,
+    "longitude": 118.4917,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Dongying, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shida-shenghua-wuhan-electrolyte-china",
+   "fields": {
+    "latitude": 30.5833,
+    "longitude": 114.2667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "soulbrain-mi-kokomo-united-states",
+   "fields": {
+    "latitude": 40.4864,
+    "longitude": -86.1336,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Kokomo, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-jiangmen-200kt-electrolyte-china",
+   "fields": {
+    "latitude": 22.5833,
+    "longitude": 113.0833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiangmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-jiangsu-liyang-200kt-electrolyte-china",
+   "fields": {
+    "latitude": 31.4281,
+    "longitude": 119.4835,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Licheng, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Liyang' = gazetteer place 'Licheng'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-jiujiang-200kt-lithium-materials-china",
+   "fields": {
+    "latitude": 29.7048,
+    "longitude": 116.0021,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "yongtai-taizhou-150kt-electrolyte-china",
+   "fields": {
+    "latitude": 28.6627,
+    "longitude": 121.4331,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Taizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhuhai-saiwei-electronic-materials-zhuhai-china",
+   "fields": {
+    "latitude": 22.2769,
+    "longitude": 113.5678,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhuhai, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "defu-gansu-lanzhou-china",
+   "fields": {
+    "latitude": 36.057,
+    "longitude": 103.8399,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Lanzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "defu-jiujiang-amber-china",
+   "fields": {
+    "latitude": 29.7048,
+    "longitude": 116.0021,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "defu-jiujiang-defu-new-energy-china",
+   "fields": {
+    "latitude": 29.7048,
+    "longitude": 116.0021,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiujiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hailiang-gansu-lanzhou-copper-foil-china",
+   "fields": {
+    "latitude": 36.057,
+    "longitude": 103.8399,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Lanzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hailiang-zhuji-copper-foil-china",
+   "fields": {
+    "latitude": 29.7188,
+    "longitude": 120.2423,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhuji, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiayuan-ganzhou-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiayuan-liaocheng-china",
+   "fields": {
+    "latitude": 36.4506,
+    "longitude": 116.0025,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Liaocheng, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiayuan-meizhou-china",
+   "fields": {
+    "latitude": 24.2886,
+    "longitude": 116.1177,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Meizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiayuan-ningde-china",
+   "fields": {
+    "latitude": 26.6617,
+    "longitude": 119.5228,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ningde, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "lotte-energy-materials-iksan-south-korea",
+   "fields": {
+    "latitude": 35.9439,
+    "longitude": 126.9544,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Iksan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "lotte-energy-materials-kuching-malaysia",
+   "fields": {
+    "latitude": 1.55,
+    "longitude": 110.3333,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kuching, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nuode-guixi-china",
+   "fields": {
+    "latitude": 28.2863,
+    "longitude": 117.2066,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Huayuan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Guixi' = gazetteer place 'Huayuan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nuode-huangshi-china",
+   "fields": {
+    "latitude": 30.2471,
+    "longitude": 115.0481,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huangshi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nuode-huizhou-china",
+   "fields": {
+    "latitude": 23.1115,
+    "longitude": 114.4152,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Huizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nuode-xining-china",
+   "fields": {
+    "latitude": 36.6255,
+    "longitude": 101.7574,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-nexilis-jeongeup-south-korea",
+   "fields": {
+    "latitude": 35.6,
+    "longitude": 126.917,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jeongeup, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-nexilis-kota-kinabalu-malaysia",
+   "fields": {
+    "latitude": 5.9749,
+    "longitude": 116.0724,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kota Kinabalu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-nexilis-stalowa-wola-poland",
+   "fields": {
+    "latitude": 50.5829,
+    "longitude": 22.0533,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Stalowa Wola, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "solus-advanced-materials-tatabanya-plant-1-hungary",
+   "fields": {
+    "latitude": 47.5925,
+    "longitude": 18.381,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Tatabánya, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Tatabanya' = gazetteer place 'Tatabánya'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "solus-advanced-materials-tatabanya-plant-2-hungary",
+   "fields": {
+    "latitude": 47.5925,
+    "longitude": 18.381,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Tatabánya, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Tatabanya' = gazetteer place 'Tatabánya'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tongguan-chizhou-china",
+   "fields": {
+    "latitude": 30.6613,
+    "longitude": 117.4778,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chizhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tongguan-tongling-china",
+   "fields": {
+    "latitude": 30.95,
+    "longitude": 117.7833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tongling, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "volta-energy-solutions-granby-canada",
+   "fields": {
+    "latitude": 45.4001,
+    "longitude": -72.7324,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Granby, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhongyi-yunmeng-copper-foil-china",
+   "fields": {
+    "latitude": 31.0625,
+    "longitude": 113.7655,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Yunmeng Chengguanzhen, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Yunmeng' = gazetteer place 'Yunmeng Chengguanzhen'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cmoc-tenke-fungurume-tfm-drc",
+   "fields": {
+    "latitude": -10.6177,
+    "longitude": 26.3211,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Fungurume, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zijin-musonoi-kolwezi-drc",
+   "fields": {
+    "latitude": -10.7148,
+    "longitude": 25.4667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kolwezi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "critical-metals-wolfsberg-austria",
+   "fields": {
+    "latitude": 46.8406,
+    "longitude": 14.8442,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Wolfsberg, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "kobold-manono-roche-dure-drc",
+   "fields": {
+    "latitude": -7.2986,
+    "longitude": 27.3989,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Manono, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "yichun-tantalum-niobium-mine-414-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zijin-manono-northeast-mine-drc",
+   "fields": {
+    "latitude": -7.2986,
+    "longitude": 27.3989,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Manono, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "anda-kaiyang-450kt-lfp-precursor-china",
+   "fields": {
+    "latitude": 26.5833,
+    "longitude": 106.7167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Guiyang, geonamescache] Approximate city-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ascend-elements-apex-1-pcam-united-states",
+   "fields": {
+    "latitude": 36.8656,
+    "longitude": -87.4912,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hopkinsville, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cngr-ningxiang-pcam-china",
+   "fields": {
+    "latitude": 28.2583,
+    "longitude": 112.5605,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Yutan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Ningxiang' = gazetteer place 'Yutan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cngr-qinzhou-pcam-china",
+   "fields": {
+    "latitude": 21.9825,
+    "longitude": 108.6506,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qinzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cngr-tongren-pcam-china",
+   "fields": {
+    "latitude": 27.7172,
+    "longitude": 109.1853,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Tongren, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cnp-new-material-pohang-pcam-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "fangyuan-jiangmen-pcam-china",
+   "fields": {
+    "latitude": 22.5833,
+    "longitude": 113.0833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiangmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "huayou-quzhou-pcam-china",
+   "fields": {
+    "latitude": 28.9594,
+    "longitude": 118.8686,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Quzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-shandong-lithium-source-heze-fepo4-phase3-china",
+   "fields": {
+    "latitude": 35.2393,
+    "longitude": 115.4736,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Heze, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tinci-yichang-30wt-fepo4-china",
+   "fields": {
+    "latitude": 30.7144,
+    "longitude": 111.2847,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "wanrun-lubei-binzhou-fepo4-china",
+   "fields": {
+    "latitude": 37.3667,
+    "longitude": 118.0167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Binzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "accurec-krefeld-germany",
+   "fields": {
+    "latitude": 51.3364,
+    "longitude": 6.5538,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Krefeld, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ae-elemental-zawiercie-poland",
+   "fields": {
+    "latitude": 50.4877,
+    "longitude": 19.4168,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Zawiercie, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "altilium-plymouth-act3-uk",
+   "fields": {
+    "latitude": 50.3715,
+    "longitude": -4.143,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Plymouth, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "american-battery-technology-reno-nevada-usa",
+   "fields": {
+    "latitude": 39.5296,
+    "longitude": -119.8138,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Reno, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ascend-elements-apex-1-hopkinsville-kentucky-usa",
+   "fields": {
+    "latitude": 36.8656,
+    "longitude": -87.4912,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hopkinsville, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "attero-recycling-roorkee-india",
+   "fields": {
+    "latitude": 29.8663,
+    "longitude": 77.8912,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Roorkee, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "brunp-recycling-ningxiang-china",
+   "fields": {
+    "latitude": 28.2583,
+    "longitude": 112.5605,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Yutan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Ningxiang' = gazetteer place 'Yutan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "brunp-recycling-yichang-lfp-china",
+   "fields": {
+    "latitude": 30.7144,
+    "longitude": 111.2847,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cirba-solutions-columbia-south-carolina-usa",
+   "fields": {
+    "latitude": 34.0007,
+    "longitude": -81.0348,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Columbia, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cirba-solutions-lancaster-ohio-usa",
+   "fields": {
+    "latitude": 39.7137,
+    "longitude": -82.5993,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Lancaster, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cylib-dormagen-germany",
+   "fields": {
+    "latitude": 51.0968,
+    "longitude": 6.8317,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Dormagen, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecobat-casa-grande-arizona-usa",
+   "fields": {
+    "latitude": 32.8795,
+    "longitude": -111.7574,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Casa Grande, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ecobat-hettstedt-germany",
+   "fields": {
+    "latitude": 51.6503,
+    "longitude": 11.5115,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hettstedt, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hanrui-cobalt-ganzhou-hanrui-recycling-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "huayou-resource-recycling-quzhou-china",
+   "fields": {
+    "latitude": 28.9594,
+    "longitude": 118.8686,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Quzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hydrovolt-fredrikstad-norway",
+   "fields": {
+    "latitude": 59.2181,
+    "longitude": 10.9298,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Fredrikstad, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-gilbert-arizona-usa",
+   "fields": {
+    "latitude": 33.3528,
+    "longitude": -111.789,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gilbert, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-kingston-ontario-canada",
+   "fields": {
+    "latitude": 44.2298,
+    "longitude": -76.481,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kingston, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-magdeburg-germany",
+   "fields": {
+    "latitude": 52.1313,
+    "longitude": 11.6319,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Magdeburg, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-rochester-hub-new-york-usa",
+   "fields": {
+    "latitude": 43.1548,
+    "longitude": -77.6156,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Rochester, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-rochester-spoke-new-york-usa",
+   "fields": {
+    "latitude": 43.1548,
+    "longitude": -77.6156,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Rochester, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "li-cycle-tuscaloosa-alabama-usa",
+   "fields": {
+    "latitude": 33.2098,
+    "longitude": -87.5692,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Tuscaloosa, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "northvolt-revolt-ett-skelleftea-sweden",
+   "fields": {
+    "latitude": 64.7507,
+    "longitude": 20.9528,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Skellefteå, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Skelleftea' = gazetteer place 'Skellefteå'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "posco-hy-clean-metal-gwangyang-south-korea",
+   "fields": {
+    "latitude": 34.9414,
+    "longitude": 127.6957,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gwangyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "redwood-materials-nevada-usa",
+   "fields": {
+    "latitude": 39.1638,
+    "longitude": -119.7674,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Carson City, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "stena-recycling-halmstad-sweden",
+   "fields": {
+    "latitude": 56.6745,
+    "longitude": 12.8568,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Halmstad, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sungeel-hitech-saemangeum-no3-south-korea",
+   "fields": {
+    "latitude": 35.9786,
+    "longitude": 126.7114,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Gunsan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sungeel-hungary-szigetszentmiklos-hungary",
+   "fields": {
+    "latitude": 47.3438,
+    "longitude": 19.0434,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Szigetszentmiklós, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Szigetszentmiklos' = gazetteer place 'Szigetszentmiklós'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tianqi-ganzhou-circular-150kt-lfp-recycling-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tianqi-jintaige-ganzhou-battery-recycling-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "umicore-hoboken-battery-recycling-belgium",
+   "fields": {
+    "latitude": 51.1761,
+    "longitude": 4.3484,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hoboken, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "gem-jingmen-base-china",
+   "fields": {
+    "latitude": 31.0336,
+    "longitude": 112.2047,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jingmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "glencore-nikkelverk-cobalt-norway",
+   "fields": {
+    "latitude": 58.1467,
+    "longitude": 7.9956,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kristiansand, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hanrui-cobalt-ganzhou-hanrui-cobalt-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "huayou-quzhou-cobalt-refinery-china",
+   "fields": {
+    "latitude": 28.9594,
+    "longitude": 118.8686,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Quzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nornickel-kola-mmc-cobalt-russia",
+   "fields": {
+    "latitude": 67.9397,
+    "longitude": 32.8739,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Monchegorsk, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-cobalt-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "umicore-kokkola-cobalt-refinery-finland",
+   "fields": {
+    "latitude": 63.8385,
+    "longitude": 23.1307,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Kokkola, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "china-graphite-group-luobei-spherical-china",
+   "fields": {
+    "latitude": 47.576,
+    "longitude": 130.8131,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Luobei, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "china-minmetals-graphite-hegang-spherical-china",
+   "fields": {
+    "latitude": 47.3473,
+    "longitude": 130.2903,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hegang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cnbm-heilongjiang-graphite-jixi-purification-china",
+   "fields": {
+    "latitude": 45.2932,
+    "longitude": 130.9622,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jixi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "qingdao-haida-ruiyuan-pingdu-china",
+   "fields": {
+    "latitude": 36.0649,
+    "longitude": 120.3804,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qingdao, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "qingdao-luowei-new-materials-spherical-graphite-china",
+   "fields": {
+    "latitude": 36.0649,
+    "longitude": 120.3804,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qingdao, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "albemarle-chengdu-lithium-hydroxide-china",
+   "fields": {
+    "latitude": 30.6667,
+    "longitude": 104.0667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chengdu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "albemarle-meishan-lithium-hydroxide-china",
+   "fields": {
+    "latitude": 30.0439,
+    "longitude": 103.837,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Meishan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "albemarle-qinzhou-lithium-carbonate-hydroxide-china",
+   "fields": {
+    "latitude": 21.9825,
+    "longitude": 108.6506,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Qinzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "albemarle-xinyu-lithium-hydroxide-china",
+   "fields": {
+    "latitude": 27.8043,
+    "longitude": 114.9334,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xinyu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "fangyuan-jiangmen-lithium-carbonate-china",
+   "fields": {
+    "latitude": 22.5833,
+    "longitude": 113.0833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiangmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ganfeng-lithium-fengxin-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-circular-xiangxiang-lithium-carbonate-china",
+   "fields": {
+    "latitude": 27.7333,
+    "longitude": 112.5333,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Xiangxiang, geonamescache] Approximate town-level centroid of the locality named in the row's research_notes; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiangte-motor-yichun-lithium-carbonate-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jiuling-lithium-fengcheng-lithium-carbonate-china",
+   "fields": {
+    "latitude": 28.1938,
+    "longitude": 115.7836,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Jianguang, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Fengcheng' = gazetteer place 'Jianguang'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "longpan-yichun-times-lithium-carbonate-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "rongjie-chengdu-rongjie-lithium-china",
+   "fields": {
+    "latitude": 30.6667,
+    "longitude": 104.0667,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chengdu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shengxin-lithium-shengwei-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shengxin-lithium-suining-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shengxin-lithium-suining-tech-china",
+   "fields": {
+    "latitude": 30.508,
+    "longitude": 105.5733,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suining, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "shengxin-lithium-zhiyuan-china",
+   "fields": {
+    "latitude": 31.1302,
+    "longitude": 104.382,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Deyang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tibet-guoneng-jinchang-lithium-salt-china",
+   "fields": {
+    "latitude": 38.5006,
+    "longitude": 102.1938,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jinchang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "weiling-chenzhou-lingneng-lithium-carbonate-china",
+   "fields": {
+    "latitude": 25.8,
+    "longitude": 113.0333,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chenzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "weiling-guixi-lingneng-lithium-carbonate-china",
+   "fields": {
+    "latitude": 28.2863,
+    "longitude": 117.2066,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Huayuan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Guixi' = gazetteer place 'Huayuan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "weiling-lingneng-yichun-lithium-carbonate-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "yahua-xingsheng-meishan-china",
+   "fields": {
+    "latitude": 30.0439,
+    "longitude": 103.837,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Meishan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "yongxing-materials-yongxing-new-energy-lithium-carbonate-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-manganese-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "xiangtan-electrochemical-xiangtan-emd-china",
+   "fields": {
+    "latitude": 27.85,
+    "longitude": 112.9,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Xiangtan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "zhonggang-tianyuan-mn3o4-china",
+   "fields": {
+    "latitude": 31.6858,
+    "longitude": 118.5101,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ma’anshan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "bhp-kwinana-nickel-refinery-australia",
+   "fields": {
+    "latitude": -32.2301,
+    "longitude": 115.7813,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Kwinana, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "fangyuan-jiangmen-sulphate-china",
+   "fields": {
+    "latitude": 22.5833,
+    "longitude": 113.0833,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jiangmen, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "glencore-nikkelverk-nickel-norway",
+   "fields": {
+    "latitude": 58.1467,
+    "longitude": 7.9956,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Kristiansand, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hanrui-cobalt-ganzhou-hanrui-nickel-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "huayou-guangxi-new-materials-yulin-china",
+   "fields": {
+    "latitude": 22.6305,
+    "longitude": 110.1469,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yulin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jinchuan-group-nickel-refining-china",
+   "fields": {
+    "latitude": 38.5006,
+    "longitude": 102.1938,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jinchang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "nornickel-kola-mmc-nickel-russia",
+   "fields": {
+    "latitude": 67.9397,
+    "longitude": 32.8739,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Monchegorsk, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "poscocngr-nickel-solution-pohang-south-korea",
+   "fields": {
+    "latitude": 36.0292,
+    "longitude": 129.3648,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pohang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "smm-niihama-nickel-sulphate-refinery-japan",
+   "fields": {
+    "latitude": 33.9605,
+    "longitude": 133.3052,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Niihama, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "tengyuan-cobalt-ganzhou-nickel-china",
+   "fields": {
+    "latitude": 25.8466,
+    "longitude": 114.9326,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Ganzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "vale-clydach-nickel-refinery-united-kingdom",
+   "fields": {
+    "latitude": 51.6833,
+    "longitude": -3.9,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Clydach, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "vale-matsusaka-nickel-refinery-japan",
+   "fields": {
+    "latitude": 34.5789,
+    "longitude": 136.5371,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Matsusaka, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "asahi-kasei-hyuga-japan",
+   "fields": {
+    "latitude": 32.4227,
+    "longitude": 131.6409,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Hyūga, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Hyuga' = gazetteer place 'Hyūga'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "asahi-kasei-moriyama-japan",
+   "fields": {
+    "latitude": 35.0667,
+    "longitude": 135.9833,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Moriyama, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "asahi-kasei-port-colborne-canada",
+   "fields": {
+    "latitude": 42.9001,
+    "longitude": -79.2329,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Port Colborne, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cangzhou-mingzhu-cangzhou-china",
+   "fields": {
+    "latitude": 38.3112,
+    "longitude": 116.8533,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Cangzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cangzhou-mingzhu-dezhou-china",
+   "fields": {
+    "latitude": 37.4466,
+    "longitude": 116.3671,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Dezhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "cangzhou-mingzhu-wuhu-china",
+   "fields": {
+    "latitude": 31.3526,
+    "longitude": 118.4295,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuhu, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "celgard-north-carolina-united-states",
+   "fields": {
+    "latitude": 35.2271,
+    "longitude": -80.8431,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Charlotte, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "entek-terre-haute-united-states",
+   "fields": {
+    "latitude": 39.4667,
+    "longitude": -87.4139,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Terre Haute, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "hebei-jinli-new-energy-handan-china",
+   "fields": {
+    "latitude": 36.61,
+    "longitude": 114.4876,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Handan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "jieshou-tianhong-new-materials-jieshou-china",
+   "fields": {
+    "latitude": 33.2634,
+    "longitude": 115.3611,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Jieshou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-chongqing-china",
+   "fields": {
+    "latitude": 29.5603,
+    "longitude": 106.5577,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Chongqing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-jiangsu-changzhou-china",
+   "fields": {
+    "latitude": 31.7736,
+    "longitude": 119.954,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-jiangxi-enbo-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-jiangxi-tongrui-china",
+   "fields": {
+    "latitude": 27.8333,
+    "longitude": 114.4,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yichun, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-shanghai-china",
+   "fields": {
+    "latitude": 31.2222,
+    "longitude": 121.4581,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Shanghai, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-suzhou-jieli-china",
+   "fields": {
+    "latitude": 31.3041,
+    "longitude": 120.5954,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Suzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-wuxi-china",
+   "fields": {
+    "latitude": 31.5689,
+    "longitude": 120.2886,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Wuxi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-yuxi-china",
+   "fields": {
+    "latitude": 24.355,
+    "longitude": 102.5422,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yuxi, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "semcorp-zhuhai-china",
+   "fields": {
+    "latitude": 22.2769,
+    "longitude": 113.5678,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Zhuhai, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "senior-changzhou-china",
+   "fields": {
+    "latitude": 31.7736,
+    "longitude": 119.954,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "senior-foshan-china",
+   "fields": {
+    "latitude": 23.0268,
+    "longitude": 113.1315,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Foshan, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "senior-hefei-china",
+   "fields": {
+    "latitude": 31.8639,
+    "longitude": 117.2808,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hefei, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "senior-nantong-china",
+   "fields": {
+    "latitude": 32.0303,
+    "longitude": 120.8747,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nantong, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-changde-china",
+   "fields": {
+    "latitude": 29.0321,
+    "longitude": 111.6984,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changde, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-hohhot-china",
+   "fields": {
+    "latitude": 40.8106,
+    "longitude": 111.6522,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Hohhot, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-nanjing-china",
+   "fields": {
+    "latitude": 32.0617,
+    "longitude": 118.7778,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nanjing, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-ningxiang-china",
+   "fields": {
+    "latitude": 28.2583,
+    "longitude": 112.5605,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Yutan, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Ningxiang' = gazetteer place 'Yutan'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-pingxiang-china",
+   "fields": {
+    "latitude": 27.6167,
+    "longitude": 113.8535,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Pingxiang, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sinoma-lithium-film-yibin-china",
+   "fields": {
+    "latitude": 28.7593,
+    "longitude": 104.6399,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Yibin, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-ie-technology-changzhou-china",
+   "fields": {
+    "latitude": 31.7736,
+    "longitude": 119.954,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Changzhou, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-ie-technology-dabrowa-gornicza-poland",
+   "fields": {
+    "latitude": 50.3339,
+    "longitude": 19.2048,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Dąbrowa Górnicza, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name (row text 'Dabrowa Gornicza' = gazetteer place 'Dąbrowa Górnicza'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "sk-ie-technology-jeungpyeong-south-korea",
+   "fields": {
+    "latitude": 36.7847,
+    "longitude": 127.5819,
+    "geo_precision": "town"
+   },
+   "notes": "[GEO=town:Jungpyong, geonamescache] Approximate town-level centroid of the locality named in the row's asset_name (row text 'Jeungpyeong' = gazetteer place 'Jungpyong'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "ube-maxell-sakai-japan",
+   "fields": {
+    "latitude": 34.5822,
+    "longitude": 135.4665,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Sakai, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name; offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  },
+  {
+   "action": "fix",
+   "id": "w-scope-nyiregyhaza-hungary",
+   "fields": {
+    "latitude": 47.9554,
+    "longitude": 21.7167,
+    "geo_precision": "city"
+   },
+   "notes": "[GEO=city:Nyíregyháza, geonamescache] Approximate city-level centroid of the locality named in the row's asset_name (row text 'Nyiregyhaza' = gazetteer place 'Nyíregyháza'); offline geonamescache gazetteer match within the stated country/province - NOT a verified site location."
+  }
+ ]
+}
