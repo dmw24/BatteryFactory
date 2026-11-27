@@ -1,0 +1,2 @@
+Korean battery makers' DART business reports (사업보고서) state production capacity in KRW million (생산능력 = 당기가동가능금액), not GWh — e.g. LGES 2025: capacity 51,474,256 / output 24,501,746 / utilisation 47.6% (2024 57.8%, 2023 69.3%). Useful only for utilisation; do not convert to GWh. DART pages: dsab007/detailSearch.ax (search), dsaf001/main.do?rcpNo= (tree), report/viewer.do (section).
+China's national pollutant-discharge permit platform (permit.mee.gov.cn) needs a login + captcha — not usable (do not create accounts or bypass). Public alternatives: local 环评批复 / 竣工环保验收 公示 pages.
