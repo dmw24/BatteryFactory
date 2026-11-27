@@ -4185,6 +4185,84 @@
     "by": "lead",
     "notes": "17/22 fetchable quotes found; 5 demoted to reported"
    }
+  },
+  {
+   "id": "SC130",
+   "title": "Completeness — MIIT 锂离子电池行业规范条件 materials makers (cathode, anode, separator, electrolyte) vs database",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC130.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC030",
+   "title": "Lithium — China and Zimbabwe mine production 2025 by asset (gap-fill vs USGS)",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC030.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
+  },
+  {
+   "id": "SC031",
+   "title": "Recycling — black mass and hydrometallurgical plants worldwide",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC031.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "brief",
+    "sc_checks pass",
+    "quotes FOUND>=90%"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }
