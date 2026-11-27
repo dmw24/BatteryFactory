@@ -86,5 +86,5 @@ Nornickel,mining,2025,production,nickel,199000.0,t Ni,0,0,0,199000,SC021 notes l
 Lygend,refining,2025,capacity,nickel (HPAL MHP),120000.0,t Ni,119000,2,2,1000,LYGEND_2245_AR2025.txt l.93-95,global
 Jinchuan Intl,mining,2025,production,cobalt,1085.0,t Co,1085,2,2,0,HK_2362_AR2025.txt l.391-392,global
 Jinchuan Group,refining,2025,capacity,nickel products,330000.0,t Ni,0,0,0,330000,SC021 notes l.nan,china
-GEM,refining,2025,capacity,nickel in MHP (Indonesia park incl. participating lines),150000.0,t Ni,90000,3,3,60000,002340_2025.txt l.498-500,global
+GEM,refining,2025,capacity,nickel in MHP (Indonesia park incl. participating lines),150000.0,t Ni,60000,2,2,90000,002340_2025.txt l.498-500,global
 GEM,refining,2025,production,nickel shipments (Indonesia park),110839.0,t Ni,25994,1,1,84845,002340_2025.txt l.561,global

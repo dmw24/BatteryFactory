@@ -9,16 +9,16 @@ mining,lithium,production,2024,Canada,25657.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,
 mining,lithium,production,2025,Canada,29809.0,t LCE,24479,1,0,0,0,0,0.82,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Chile,260295.0,t LCE,308547,2,0,0,0,0,1.19,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Chile,298088.0,t LCE,308547,2,0,0,0,0,1.04,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2024,China,220372.0,t LCE,155335,10,65000,8710,20000,0,0.7,0.29,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,China,330026.0,t LCE,155335,10,167000,56848,20000,0,0.47,0.51,0,0,55351,80810,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,China,220372.0,t LCE,155335,10,45000,28710,0,0,0.7,0.2,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,China,330026.0,t LCE,155335,10,147000,76848,0,0,0.47,0.45,0,0,55351,80810,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Mali,4099.0,t LCE,49945,1,0,0,0,0,12.18,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Mali,50036.0,t LCE,49945,1,0,0,0,0,1.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Portugal,2023.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Portugal,2023.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Zimbabwe,106460.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Zimbabwe,149044.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2024,World,1181706.0,t LCE,995433,23,110500,8710,20000,0,0.84,0.09,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,World,1543670.0,t LCE,1238204,27,289920,187917,20000,0,0.8,0.19,0,5543,80810,80810,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,World,1181706.0,t LCE,995433,23,90500,28710,0,0,0.84,0.08,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,World,1543670.0,t LCE,1238204,27,269920,207917,0,0,0.8,0.17,0,5543,80810,80810,USGS MCS 2026 (Li content x5.323)
 mining,nickel,production,2024,United States,7490.0,t Ni,9907,1,0,0,0,0,1.32,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,United States,10000.0,t Ni,9907,1,0,0,0,0,0.99,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,Australia,98000.0,t Ni,32100,1,0,0,0,0,0.33,0.0,0,0,0,0,USGS MCS 2026
@@ -137,7 +137,7 @@ separator,separator,shipments,2025,China,32850.0,Mm2,0,0,900,4320,0,0,0.0,0.03,2
 electrolyte,electrolyte,shipments,2025,China,2235000.0,t electrolyte,0,0,695000,150000,0,0,0.0,0.31,300000,0,0,1320686,前瞻产业研究院 2026年中国储能电池上游原材分析 (attributed in article to EVTank)
 electrolyte,LiPF6,production,2025,World,279000.0,t LiPF6,0,0,69000,0,0,0,0.0,0.25,65000,39568,39568,39568,华夏时报 via 腾讯新闻 (citing ICC 鑫椤锂电)
 refining,lithium hydroxide,production,2025,China,356000.0,t LiOH,0,0,0,0,0,0,0.0,0.0,0,0,0,0,电池网 repost of 有色标准计量质量 (lithium hydroxide; not converted to LCE)
-refining,lithium,capacity,2025,China,2400000.0,t LCE,106030,9,824720,437604,75000,0,0.04,0.34,131800,115723,154156,553716,电池网 repost of 有色标准计量质量 (basic lithium salt capacity; 'exceeded' = floor)
+refining,lithium,capacity,2025,China,2400000.0,t LCE,106030,9,768220,484104,45000,0,0.04,0.32,131800,115723,154156,553716,电池网 repost of 有色标准计量质量 (basic lithium salt capacity; 'exceeded' = floor)
 refining,cobalt,production,2024,World,228000.0,t Co,5728,2,0,25000,0,0,0.03,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2025 Fig. 7 (chart centre label; Benchmark data)
 refining,cobalt,production,2025,World,240000.0,t Co,5728,2,0,30500,0,0,0.02,0.0,39500,0,0,0,Cobalt Institute Cobalt Market Report 2025 (Benchmark Mineral Intelligence)
 mining,cobalt,production,2025,World,270000.0,t Co,48955,10,28000,8000,0,0,0.18,0.1,0,117900,154685,154685,Cobalt Institute Cobalt Market Report 2025 (mined; comparison with USGS)
@@ -145,15 +145,15 @@ mining,cobalt,production,2025,Indonesia,42500.0,t Co,0,0,0,0,0,0,0.0,0.0,0,0,0,0
 mining,cobalt,production,2023,World,208000.0,t Co,0,0,0,0,0,0,0.0,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
 mining,cobalt,production,2024,World,254000.0,t Co,48955,10,5000,0,0,0,0.19,0.02,0,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
 refining,"nickel (primary, all forms)",production,2024,World,3589000.0,t Ni,302475,7,66000,44961,0,0,0.08,0.02,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
-refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,302475,7,692600,649961,0,411000,0.08,0.18,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
-refining,lithium,production,2023,China,713800.0,t LCE,0,0,172079,150710,30000,0,0.0,0.24,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
-refining,lithium,production,2024,China,986800.0,t LCE,106030,9,269079,194710,75000,0,0.11,0.27,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
-refining,lithium,production,2025,China,1289280.0,t LCE,106030,9,824720,437604,75000,0,0.08,0.64,131800,115723,154156,553716,derived: SC090 carbonate + hydroxide x0.880 (D-102)
+refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,302475,7,372000,940561,0,155000,0.08,0.1,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
+refining,lithium,production,2023,China,713800.0,t LCE,0,0,142079,170710,0,0,0.0,0.2,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
+refining,lithium,production,2024,China,986800.0,t LCE,106030,9,239079,214710,45000,0,0.11,0.24,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
+refining,lithium,production,2025,China,1289280.0,t LCE,106030,9,768220,484104,45000,0,0.08,0.6,131800,115723,154156,553716,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 recycling,recycling,capacity,2024,China,4230000.0,t feed,52576,1,0,0,0,0,0.01,0.0,0,0,0,0,Mysteel 2025-07-31 (open article)
 recycling,recycling,production,2024,China,654000.0,t feed,52576,1,0,0,0,0,0.08,0.0,0,0,0,0,Mysteel 2025-07-31 (recycling volume)
 recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0,0,0.0,0.0,0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"
 mining,graphite,production,2020,China (Luobei county),380000.0,t graphite,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MEE inspection bulletin 2021-12-16
-mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,289920,187917,20000,0,0.69,0.16,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
+mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,269920,207917,0,0,0.69,0.15,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
 cathode,cathode (LFP),production,2025,World,3915000.0,t CAM,0,0,517500,60000,0,0,0.0,0.13,0,0,0,0,ICC 鑫椤 via CNGR 2025 annual report
 mining,manganese,production,2025,South Africa,7600000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,Gabon,5000000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026

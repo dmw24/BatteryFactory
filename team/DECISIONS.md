@@ -176,3 +176,11 @@ at build. `feeds` values need evidence like other key fields (check S4).
 A smelter listed as "Operating" in the CGS Nickel Smelter Dataset with a Ni-equivalent capacity counts as installed at
 the dataset date (2025-01-04) — the dataset is an inventory of operating capacity. Rows where CGS gives no Ni-equivalent
 (OSS, GNI) are not set. Nickel Industries' four RKEF rows are floors (group 2025 output 125 kt > their 102 kt sum).
+## D-111 amended (audit 4) — CGS "Operating" counts as installed only with a second source confirming the lines run
+(company report, output figure); otherwise the CGS capacity stays a plan (upper bound). CGS "Status 2025" is not dated.
+## D-112 (2026-11-27, lead) Trial production
+试生产 / 试车 / "trial production" / "commissioning" = under_construction, no installed value, until the operator states
+commercial production (or output at design rate over a period). Applied to Qinghai 40 kt, Huixin, Jiabusi, Arcadia sulphate.
+## D-113 (2026-11-27, lead) feeds vs feeds_company
+`feeds` = links where the source names the supplying AND receiving plant (or the receiver is the only plant of that
+company in the segment); company-level relationships go to `feeds_company`.

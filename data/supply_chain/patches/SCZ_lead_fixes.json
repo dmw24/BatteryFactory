@@ -1,7 +1,16 @@
 {
  "task": "SCZ_lead",
  "verified_on": "2026-11-27",
- "sources": {},
+ "sources": {
+  "H1": {
+   "url": "https://ar2019.nornickel.ru/en/business-overview/operational-performance/finland.html",
+   "publisher": "Nornickel Annual Report 2019, Finland (Harjavalta)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Harjavalta’s capacity is 66 ktpa of nickel products."
+  }
+ },
  "rows": [
   {
    "action": "fix",
@@ -463,6 +472,369 @@
     "capacity_norm": null
    },
    "notes": "lead: Nornickel AR 2019 states 66 kt installed (SC192), above the 65 kt figure cited for capacity; capacity set to the installed 66 kt."
+  },
+  {
+   "action": "fix",
+   "id": "ceria-nugraha-indotama-rkef-merah-putih-smelter-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #1): CGS 252,728 t FeNi is the 4-line plan; only Line 1 started (first FeNi 27 Apr 2025) — installed nulled, plan stays upper bound)"
+  },
+  {
+   "action": "fix",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #2): CGS gives gross output only (Ni-eq blank) — D-111 excludes; installed nulled)"
+  },
+  {
+   "action": "fix",
+   "id": "pt-westrong-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "sunny-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "pt-langit-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "yashi-indonesia-investment-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "megah-surya-pertiwi-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "pt-andalan-metal-industry-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "weda-bay-nickel-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "sulawesi-mining-investment-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "cngr-nadesico-low-matte-indonesia",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #3, D-111 amended): CGS listing alone is not confirmation that lines are built; installed nulled pending a second source)"
+  },
+  {
+   "action": "fix",
+   "id": "tianhua-lithium-carbonate-line2-china",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #4): construction-in-progress transfer only, no production statement, site unknown — installed nulled)"
+  },
+  {
+   "action": "fix",
+   "id": "china-salt-lake-qinghai-huixin-china",
+   "fields": {},
+   "notes": "lead (SC audit 4 #5, D-112): operator describes trial runs; Xinhua '投产' for the '4+2' project kept in notes; status stays under_construction)",
+   "drop_evidence": {
+    "status": [
+     "SC195"
+    ],
+    "installed_capacity": [
+     "SC195"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "ganfeng-jiabusi-mine-china",
+   "fields": {
+    "status": "under_construction",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #6, D-112): trial production (试生产) is not commercial production)"
+  },
+  {
+   "action": "fix",
+   "id": "huayou-arcadia-sulphate-plant-zimbabwe",
+   "fields": {
+    "status": "under_construction",
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #6, D-112): '建成试产' Q1 2026 = trial production)"
+  },
+  {
+   "action": "fix",
+   "id": "weiling-lingneng-yichun-lithium-carbonate-china",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #7): no plant capacity in the quote (auxiliary-works CIP line))"
+  },
+  {
+   "action": "fix",
+   "id": "qinghai-hengxinrong-lithium-xitai-china",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #8): 2021 article, capacity not released — not a built figure for 2025)"
+  },
+  {
+   "action": "fix",
+   "id": "tianhua-fengxin-shidai-china",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #8): headline-only evidence (no quote))"
+  },
+  {
+   "action": "fix",
+   "id": "posco-sal-de-oro-argentina",
+   "fields": {
+    "capacity_by_year_json": "{\"2026\": 23000}"
+   },
+   "notes": "lead (SC audit 4 #9): step aligned with the 23 kt carbonate capacity)"
+  },
+  {
+   "action": "fix",
+   "id": "gem-qmb-niso4-indonesia",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null,
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 4 #9): '3万金属吨' is Ni+Co+Mn crystal metal, not t Ni — moved to notes)"
+  },
+  {
+   "action": "update",
+   "id": "nornickel-harjavalta-nickel-refinery-finland",
+   "fields": {},
+   "evidence": {
+    "capacity": [
+     "H1"
+    ]
+   },
+   "notes": "lead (SC audit 4 #9): capacity 66 kt evidenced by the installed-capacity source (Nornickel AR 2019)."
+  },
+  {
+   "action": "fix",
+   "id": "redwood-materials-carson-city-united-states",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "posco-future-m-pohang-artificial-graphite-south-korea",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states, cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "sk-nexilis-stalowa-wola-poland",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:lyten-formerly-northvolt-northvolt-ett-skellefte-sweden"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "novonix-riverside-chattanooga-united-states",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:panasonic-energy-gigafactory-nevada-united-states, cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "sila-moses-lake-titan-silicon-united-states",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:panasonic-energy-gigafactory-nevada-united-states, cell:panasonic-energy-panasonic-energy-de-soto-kansas-factory-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "soulbrain-mi-kokomo-united-states",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:starplus-energy-starplus-energy-gigafactory-kokomo-indiana-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "ultium-cam-becancour-canada",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states, cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states, cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "lg-chem-clarksville-cam-united-states",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "cell:ultium-cells-llc-ultium-cells-warren-lordstown-ohio-united-states, cell:ultium-cells-llc-ultium-cells-spring-hill-tennessee-united-states, cell:lg-energy-solution-ultium-cells-lansing-factory-3-delta-township-michigan-united-states"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "huayue-nickel-cobalt-hnc-hpal-indonesia",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "huayou-quzhou-pcam-china, huayou-quzhou-cobalt-refinery-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "huayou-huafei-nickel-cobalt-hpal-indonesia",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "huayou-quzhou-pcam-china, huayou-quzhou-cobalt-refinery-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "huayou-quzhou-pcam-china",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "huayou-bamo-chengdu-china, huayou-bamo-hungary-cathode-hungary"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "gem-qmb-hpal-indonesia",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "gem-morowali-pcam-indonesia, gem-qmb-niso4-indonesia"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "sinomine-bikita-mine-zimbabwe",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "sinomine-jiangxi-dongpeng-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "yahua-kamativi-mine-zimbabwe",
+   "fields": {
+    "feeds": null,
+    "feeds_company": "yahua-group-yaan-china, yahua-xingsheng-meishan-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "talison-greenbushes-australia",
+   "fields": {
+    "feeds": "tlea-kwinana-lithium-hydroxide-australia, albemarle-kemerton-lithium-hydroxide-australia",
+    "feeds_company": "tianqi-lithium-shehong-china, tianqi-lithium-anju-china, tianqi-lithium-zhangjiagang-carbonate-china, tianqi-lithium-zhangjiagang-hydroxide-china, tianqi-lithium-tongliang-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "pls-pilgangoora-australia",
+   "fields": {
+    "feeds": "posco-pilbara-lithium-solution-gwangyang-south-korea",
+    "feeds_company": "yahua-group-yaan-china, yahua-guoli-aba-china, yahua-xingsheng-meishan-china"
+   },
+   "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
   }
  ]
 }

@@ -30,7 +30,7 @@ COLUMNS = [
     "capacity", "capacity_unit", "capacity_ref_year", "capacity_norm", "installed_capacity", "installed_as_of",
     "installed_norm", "capacity_by_year_json",
     "production", "production_unit", "production_year", "production_norm", "norm_unit", "production_norm_unit",
-    "reserves_resources", "part_of", "feeds", "offtakers", "end_market",
+    "reserves_resources", "part_of", "feeds", "feeds_company", "offtakers", "end_market",
     "source_url", "source_date", "source_published_date", "confidence", "research_notes",
     "last_verified", "verified_by_task", "reported_fields", "evidence_tier",
 ]
@@ -94,6 +94,8 @@ def apply_patches():
                 df.at[rid, f] = json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
             if "confidence" in r:
                 df.at[rid, "confidence"] = r["confidence"]
+            for f, tasks in (r.get("drop_evidence") or {}).items():   # lead: retire superseded evidence (audit 4)
+                ev_rows = [e for e in ev_rows if not (e["id"] == rid and e["field"] == f and e["task"] in tasks)]
             if r.get("notes"):
                 prev = df.at[rid, "research_notes"]
                 tag = f"[{task}{' fix' if action == 'fix' else ''} {vdate}] {r['notes']}"
@@ -180,7 +182,8 @@ def main():
     # audit 3: evidence for a field whose final value is null (nulled by a later fix) or for a removed asset is dropped
     if len(ev):
         vals = df.set_index("id")
-        keep = [(r.id in vals.index) and (r.field not in vals.columns or pd.notna(vals.at[r.id, r.field]))
+        keep = [(r.id in vals.index) and (r.field not in vals.columns or pd.notna(vals.at[r.id, r.field])
+                                          or (r.field == "feeds" and pd.notna(vals.at[r.id, "feeds_company"])))
                 for r in ev.itertuples()]
         ev = ev[keep]
     ev.to_csv(os.path.join(SC, "field_evidence.csv"), index=False)

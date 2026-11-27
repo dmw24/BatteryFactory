@@ -8,10 +8,10 @@ Assets: 905 — by step and status (never summed across statuses):
 | cathode | 81 | 26 | 23 | 7 |
 | electrolyte | 40 | 5 | 7 | 2 |
 | foil | 24 | 1 | 4 | 0 |
-| mining | 133 | 19 | 39 | 22 |
+| mining | 132 | 20 | 39 | 22 |
 | precursor | 14 | 5 | 1 | 3 |
 | recycling | 38 | 3 | 7 | 7 |
-| refining | 180 | 24 | 29 | 48 |
+| refining | 179 | 25 | 29 | 48 |
 | separator | 34 | 8 | 2 | 1 |
 
 Evidence: 757 rows confirmed, 148 reported-tier; 498 with coordinates; mean confidence 0.53.
@@ -72,16 +72,16 @@ Evidence: 757 rows confirmed, 148 reported-tier; 498 with coordinates; mean conf
 | cathode | cathode | capacity | China | 2025 | 9,000,000 t CAM | 599,060 | 260,000 | 1,845,833 | 2,527,072 | 2,832,821 |
 | separator | separator | shipments | China | 2025 | 32,850 Mm2 | 900 | 4,320 | 2,120 | 3,926 | 20,673 |
 | anode | anode | shipments | China | 2025 | 2,900,000 t anode | 307,500 | 680,000 | 613,343 | 1,594,612 | 2,189,456 |
-| refining | lithium | capacity | China | 2025 | 2,400,000 t LCE | 824,720 | 437,604 | 131,800 | 154,156 | 553,716 |
+| refining | lithium | capacity | China | 2025 | 2,400,000 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
 | refining | lithium hydroxide | production | China | 2025 | 356,000 t LiOH | – | – | – | – | – |
 | electrolyte | LiPF6 | production | World | 2025 | 279,000 t LiPF6 | 69,000 | – | 65,000 | 39,568 | 39,568 |
 | electrolyte | electrolyte | shipments | China | 2025 | 2,235,000 t electrolyte | 695,000 | 150,000 | 300,000 | – | 1,320,686 |
-| refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 692,600 | 649,961 | – | – | – |
+| refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 372,000 | 940,561 | – | – | – |
 | refining | cobalt | production | World | 2025 | 240,000 t Co | – | 30,500 | 39,500 | – | – |
-| refining | lithium | production | China | 2025 | 1,289,280 t LCE | 824,720 | 437,604 | 131,800 | 154,156 | 553,716 |
+| refining | lithium | production | China | 2025 | 1,289,280 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
 | cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 517,500 | 60,000 | – | – | – |
 
-Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 692,600 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 411,000 t Ni shown separately, not added.
+Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 372,000 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 155,000 t Ni shown separately, not added.
 
 Notes: benchmarks are comparison only (USGS public domain; MIIT official; industry figures via open press — see data/supply_chain/benchmarks/aggregates.csv for quotes and URLs). Capacity ≥ output is expected; company-disclosed output is the share of the benchmark produced by companies whose filings we read.
 
@@ -90,10 +90,11 @@ Notes: benchmarks are comparison only (USGS public domain; MIIT official; indust
 - Built capacity = installed at a sourced date or sourced dated steps up to 2025 — a CONFIRMED-DATE FLOOR, not a growth
   series (annual-report figures dated 2025-12-31 are not carried back, so 2024→2025 jumps are partly dating artefacts).
   The rest of operational plans is an upper-bound column; it also holds capacity that is built but has no installed
-  field (e.g. CGS "Operating" smelters, so built nickel is near zero and the nickel picture is in the upper-bound column).
+  field. CGS "Operating" smelters count as built only with a second source (D-111 amended).
 - Nickel: MHP/matte are a separate "intermediate" series in capacity AND production; Indonesia's output is represented
   by smelter capacity (CGS dataset + filings), mostly in the upper-bound column.
-- Lithium: mining 81% of USGS world 2025; gaps China (Qinghai province 169 kt Li2CO3 vs ~55 kt in plant rows) and
+- Lithium: mining ~81% of USGS world 2025; gaps China (Qinghai province output 169 kt Li2CO3 in 2025; plant-level output is
+  mostly undisclosed although plant capacities are now largely captured) and
   Zimbabwe (no mine-level output published). On-site salt-lake carbonate plants count in lithium refining (D-103).
 - Cobalt: CMOC's 117.5 kt is company-level. Graphite China: county-level official data only. Recycling: China capacity
   4.23 Mt vs 0.65 Mt processed (Mysteel). Reported-tier built capacity is in sc_benchmark.csv (built_reported_tier).
