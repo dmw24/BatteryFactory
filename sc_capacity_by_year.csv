@@ -126,12 +126,12 @@ mining,nickel (intermediate),t Ni,2027,32600.0,32600.0,0.0,0.0,1
 mining,nickel (intermediate),t Ni,2028,32600.0,32600.0,0.0,0.0,1
 mining,nickel (intermediate),t Ni,2029,32600.0,32600.0,0.0,0.0,1
 mining,nickel (intermediate),t Ni,2030,32600.0,32600.0,0.0,0.0,1
-precursor,precursor,t FePO4,2025,590000.0,590000.0,0.0,0.0,3
-precursor,precursor,t FePO4,2026,590000.0,890000.0,450000.0,800000.0,8
-precursor,precursor,t FePO4,2027,590000.0,890000.0,450000.0,800000.0,8
-precursor,precursor,t FePO4,2028,590000.0,890000.0,450000.0,800000.0,8
-precursor,precursor,t FePO4,2029,590000.0,890000.0,450000.0,800000.0,8
-precursor,precursor,t FePO4,2030,590000.0,890000.0,450000.0,800000.0,8
+precursor,precursor,t FePO4,2025,690000.0,690000.0,0.0,0.0,4
+precursor,precursor,t FePO4,2026,690000.0,990000.0,450000.0,800000.0,9
+precursor,precursor,t FePO4,2027,690000.0,990000.0,450000.0,800000.0,9
+precursor,precursor,t FePO4,2028,690000.0,990000.0,450000.0,800000.0,9
+precursor,precursor,t FePO4,2029,690000.0,990000.0,450000.0,800000.0,9
+precursor,precursor,t FePO4,2030,690000.0,990000.0,450000.0,800000.0,9
 precursor,precursor,t pCAM,2023,0.0,120000.0,0.0,0.0,1
 precursor,precursor,t pCAM,2024,0.0,150000.0,0.0,0.0,2
 precursor,precursor,t pCAM,2025,91000.0,231000.0,40000.0,0.0,5

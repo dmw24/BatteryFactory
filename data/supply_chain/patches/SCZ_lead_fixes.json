@@ -33,6 +33,22 @@
    "accessed": "2026-11-27",
    "language": "en",
    "quote": "Represents theoretical capacity for lithium carbonate and lithium chloride at Fénix of 28,000 MT and 9,000 MT, respectively."
+  },
+  "C7A": {
+   "url": "https://www.yicai.com/news/102650355.html",
+   "publisher": "Yicai (第一财经) on CNNC Titanium (中核钛白) announcement",
+   "published": "2025-06-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "中核钛白（002145.SZ）近日公告，终止其“年产50万吨磷酸铁项目”等募投项目。"
+  },
+  "C7B": {
+   "url": "https://www.yicai.com/news/102650355.html",
+   "publisher": "Yicai (第一财经) on CNNC Titanium (中核钛白) announcement",
+   "published": "2025-06-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "截至4月末，该项目累计投入13.09亿元，仅建成10万吨/年磷酸铁装置并实现销售。"
   }
  },
  "rows": [
@@ -1119,6 +1135,102 @@
     "status": "announced"
    },
    "notes": "lead (SC audit 6 #9, D-020): headline only, no physical works evidenced)"
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-bm-pohang-blue-valley-south-korea",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "huayou-posco-zhejiang-cam-china",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "ionway-nysa-cathode-poland",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "cirba-solutions-columbia-south-carolina-usa",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "ganfeng-lithium-fengxin-china",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "gotion-fengxin-lithium-carbonate-china",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #1): 'paused' without evidence reverted (CONVENTIONS: paused needs evidence); the row is flagged stale by D-114 instead."
+  },
+  {
+   "action": "fix",
+   "id": "cnnc-titanium-lfp-china",
+   "fields": {
+    "project_state": "active"
+   },
+   "notes": "lead (SC audit 7 #2): SC204's cancellation quote concerns CNNC's 500 kt FePO4 project, not this LFP row — reverted (row stays stale under D-114)",
+   "drop_evidence": {
+    "project_state": [
+     "SC204"
+    ]
+   }
+  },
+  {
+   "action": "add",
+   "id": "cnnc-titanium-fepo4-china",
+   "fields": {
+    "asset_name": "CNNC Titanium (中核钛白) iron phosphate plant (built 100 kt line of the terminated 500 kt project)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "FePO4",
+    "operator": "CNNC Huayuan Titanium Dioxide (中核钛白)",
+    "country": "China",
+    "region": "China",
+    "status": "operational",
+    "capacity": 100000,
+    "capacity_unit": "t FePO4",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 100000,
+    "installed_as_of": "2025-04-30",
+    "source_url": "https://www.yicai.com/news/102650355.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-06-05"
+   },
+   "evidence": {
+    "status": [
+     "C7B"
+    ],
+    "capacity": [
+     "C7B"
+    ],
+    "installed_capacity": [
+     "C7B"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "lead (SC audit 7 #2): the 500 kt FePO4 project was terminated (C7A); only a 100 kt/yr line was built and is selling (C7B). Site not stated in the source."
   }
  ]
 }

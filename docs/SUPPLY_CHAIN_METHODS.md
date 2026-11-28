@@ -1,6 +1,6 @@
 # Methods — open battery supply-chain asset database
 
-Companion to the cell gigafactory database (docs/METHODS.md). Spec: team/SPEC_SUPPLY_CHAIN.md; decisions D-101–D-113
+Companion to the cell gigafactory database (docs/METHODS.md). Spec: team/SPEC_SUPPLY_CHAIN.md; decisions D-101–D-114
 in team/DECISIONS.md; coverage and caveats in team/RECONCILIATION_SC.md (regenerated).
 
 ## What is in it
@@ -39,7 +39,7 @@ reported output; processing = built capacity (installed, or plan whose reference
 and nickel intermediates shown separately.
 
 ## Rebuild and checks
-`python3 scripts/sc_build_all.py` (build → company coverage → benchmarks → report → charts); `python3 checks/sc_checks.py`
+`python3 scripts/sc_build_all.py` (build → company coverage → benchmarks → report → capacity by year → built guard → charts → status); `python3 checks/sc_checks.py`
 (14 checks); `python3 checks/verify_quotes.py --sc --task SCxxx`.
 
 ## Known limitations
@@ -54,3 +54,9 @@ and nickel intermediates shown separately.
 Built capacity per step/commodity/unit by year from sourced dated steps, installed dates and dated plan years; under
 construction and announced projects from their reference year, kept as separate columns (never added to built).
 History before ~2022 is thin because few assets disclose start years or dated phases; treat it as a floor.
+
+## Pipeline flags (D-114)
+`stale` marks announced/under-construction projects with no evidence newer than 2024 (excluded from pipeline columns);
+`ref_basis` = stated | fallback for the reference year; `latest_evidence` = newest source date; the built guard
+(scripts/sc_built_guard.py) blocks unexplained falls in built capacity. Multi-commodity operations have one row per
+commodity (never summed across commodities).

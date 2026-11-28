@@ -176,3 +176,8 @@ announcements in pipeline, Fulin overlap, ENC unit). Fixed: graphite company fig
 removed, Yunshan production nulled); Gwangyang/Fenix earlier anchors restored as dated steps; D-114 stale flag + ref_basis
 + built guard; Fulin Mianzhu, Hengtong capacity nulled; ENC → t Ni in MHP; LG Chem Cheongju installed nulled; Yuneng
 Spain 50 kt; Moa refined output removed from mine rows; Yongtai Shaowu paused (not cancelled); Altmin → announced.
+
+## SC audit 7 (Opus, final) — 2026-11-28 — FAIL → fixed
+Whole-DB unweighted sample n=30: 0% number-changing (CI 0–11%), 6.7% any defect; pooled with audit 5 ≈2% number-changing,
+≈8% any defect. Fixed: six evidence-less pauses reverted (stale flag instead), CNNC LFP cancellation reverted + built 100 kt
+FePO4 row added, per-step definition-of-done table with gap explanations (RECONCILIATION_SC.md), stale doc text updated.
