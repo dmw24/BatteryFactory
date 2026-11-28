@@ -104,12 +104,12 @@ mining,graphite,production,2025,Germany,140.0,t graphite,0,0,0,0,0,0,0.0,0.0,0,0
 mining,graphite,production,2024,World,1550000.0,t graphite,174169,5,80000,20400,0,0,0.11,0.05,0,0,0,0,USGS MCS 2026
 mining,graphite,production,2025,World,1800000.0,t graphite,174169,5,430000,226900,0,0,0.1,0.24,0,0,0,0,USGS MCS 2026
 cathode,cathode,production,2023,China,2300000.0,t CAM,0,0,215000,100000,0,0,0.0,0.09,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
-anode,anode,production,2023,China,1650000.0,t anode,0,0,300000,0,0,0,0.0,0.18,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
+anode,anode,production,2023,China,1650000.0,t anode,0,0,100000,0,0,0,0.0,0.06,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
 separator,separator,production,2023,China,15000.0,Mm2,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT) [150亿平方米 = 15000 Mm2]
 electrolyte,electrolyte,production,2023,China,1000000.0,t electrolyte,0,0,35000,0,0,0,0.0,0.04,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT)
 refining,lithium hydroxide,production,2023,China,285000.0,t LiOH,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MIIT 电子信息司 2023年全国锂离子电池行业运行情况 (repost Fujian DoIT) [lithium hydroxide as reported; not converted to LCE]
 cathode,cathode,production,2024,China,3100000.0,t CAM,25064,2,290000,100000,75000,0,0.01,0.09,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻)
-anode,anode,production,2024,China,2000000.0,t anode,0,0,300000,0,0,0,0.0,0.15,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻)
+anode,anode,production,2024,China,2000000.0,t anode,0,0,100000,0,0,0,0.0,0.05,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻)
 separator,separator,production,2024,China,21000.0,Mm2,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻) [210亿平方米 = 21000 Mm2]
 electrolyte,electrolyte,production,2024,China,1300000.0,t electrolyte,0,0,115000,0,0,0,0.0,0.09,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻)
 refining,lithium hydroxide,production,2024,China,360000.0,t LiOH,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MIIT 工信部 2024年全国锂离子电池行业运行情况 (repost Heilongjiang DoIT / 中国工业新闻) [battery-grade lithium hydroxide; not converted to LCE]
@@ -121,8 +121,8 @@ cathode,cathode (LMO),production,2023,China,84210.0,t CAM,0,0,0,0,0,0,0.0,0.0,0,
 cathode,cathode (LMO),production,2024,China,124910.0,t CAM,1600,1,0,0,0,0,0.01,0.0,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12) [锰酸锂]
 cathode,cathode (LCO),production,2023,China,78700.0,t CAM,0,0,0,0,0,0,0.0,0.0,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12) [钴酸锂]
 cathode,cathode (LCO),production,2024,China,90180.0,t CAM,23464,1,0,0,0,0,0.26,0.0,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12) [钴酸锂]
-anode,anode,production,2023,China,1714110.0,t anode,0,0,300000,0,0,0,0.0,0.18,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
-anode,anode,production,2024,China,2103500.0,t anode,0,0,300000,0,0,0,0.0,0.14,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
+anode,anode,production,2023,China,1714110.0,t anode,0,0,100000,0,0,0,0.0,0.06,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
+anode,anode,production,2024,China,2103500.0,t anode,0,0,100000,0,0,0,0.0,0.05,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
 separator,separator,production,2023,China,17370.0,Mm2,0,0,0,0,0,0,0.0,0.0,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12) [173.70亿平方米 = 17370 Mm2]
 separator,separator,production,2024,China,21446.0,Mm2,0,0,0,0,0,0,0.0,0.0,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12) [214.46亿平方米 = 21446 Mm2]
 electrolyte,electrolyte,production,2023,China,1057500.0,t electrolyte,0,0,35000,0,0,0,0.0,0.03,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
@@ -137,9 +137,9 @@ separator,separator,shipments,2025,China,32850.0,Mm2,0,0,900,4320,0,0,0.0,0.03,2
 electrolyte,electrolyte,shipments,2025,China,2235000.0,t electrolyte,0,0,695000,150000,0,0,0.0,0.31,300000,0,0,1320686,前瞻产业研究院 2026年中国储能电池上游原材分析 (attributed in article to EVTank)
 electrolyte,LiPF6,production,2025,World,279000.0,t LiPF6,0,0,69000,0,0,0,0.0,0.25,65000,39568,39568,39568,华夏时报 via 腾讯新闻 (citing ICC 鑫椤锂电)
 refining,lithium hydroxide,production,2025,China,356000.0,t LiOH,0,0,0,0,0,0,0.0,0.0,0,0,0,0,电池网 repost of 有色标准计量质量 (lithium hydroxide; not converted to LCE)
-refining,lithium,capacity,2025,China,2400000.0,t LCE,106030,9,768220,484104,45000,0,0.04,0.32,131800,115723,154156,553716,电池网 repost of 有色标准计量质量 (basic lithium salt capacity; 'exceeded' = floor)
-refining,cobalt,production,2024,World,228000.0,t Co,5728,2,0,38000,0,0,0.03,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2025 Fig. 7 (chart centre label; Benchmark data)
-refining,cobalt,production,2025,World,240000.0,t Co,5728,2,0,43500,0,0,0.02,0.0,39500,51197,51197,51197,Cobalt Institute Cobalt Market Report 2025 (Benchmark Mineral Intelligence)
+refining,lithium,capacity,2025,China,2400000.0,t LCE,106030,9,768220,484104,45000,0,0.04,0.32,131800,115723,154156,501988,电池网 repost of 有色标准计量质量 (basic lithium salt capacity; 'exceeded' = floor)
+refining,cobalt,production,2024,World,228000.0,t Co,13070,3,0,35000,0,0,0.06,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2025 Fig. 7 (chart centre label; Benchmark data)
+refining,cobalt,production,2025,World,240000.0,t Co,13070,3,0,40500,0,0,0.05,0.0,79000,87749,87749,87749,Cobalt Institute Cobalt Market Report 2025 (Benchmark Mineral Intelligence)
 mining,cobalt,production,2025,World,270000.0,t Co,48955,10,28000,8000,0,0,0.18,0.1,0,117900,154685,154685,Cobalt Institute Cobalt Market Report 2025 (mined; comparison with USGS)
 mining,cobalt,production,2025,Indonesia,42500.0,t Co,0,0,0,0,0,0,0.0,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2025 (mined; Indonesia HPAL/MHP)
 mining,cobalt,production,2023,World,208000.0,t Co,0,0,0,0,0,0,0.0,0.0,0,0,0,0,Cobalt Institute Cobalt Market Report 2024 Factsheet (waterfall chart label; Benchmark)
@@ -148,7 +148,7 @@ refining,"nickel (primary, all forms)",production,2024,World,3589000.0,t Ni,3024
 refining,"nickel (primary, all forms)",production,2025,World,3875000.0,t Ni,302475,7,372000,940561,0,155000,0.08,0.1,0,0,0,0,INSG Press Release 13 Oct 2026 (October 2026 meetings)
 refining,lithium,production,2023,China,713800.0,t LCE,0,0,142079,170710,0,0,0.0,0.2,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 refining,lithium,production,2024,China,986800.0,t LCE,106030,9,239079,214710,45000,0,0.11,0.24,0,0,0,0,derived: SC090 carbonate + hydroxide x0.880 (D-102)
-refining,lithium,production,2025,China,1289280.0,t LCE,106030,9,768220,484104,45000,0,0.08,0.6,131800,115723,154156,553716,derived: SC090 carbonate + hydroxide x0.880 (D-102)
+refining,lithium,production,2025,China,1289280.0,t LCE,106030,9,768220,484104,45000,0,0.08,0.6,131800,115723,154156,501988,derived: SC090 carbonate + hydroxide x0.880 (D-102)
 recycling,recycling,capacity,2024,China,4230000.0,t feed,52576,1,0,0,0,0,0.01,0.0,0,0,0,0,Mysteel 2025-07-31 (open article)
 recycling,recycling,production,2024,China,654000.0,t feed,52576,1,0,0,0,0,0.08,0.0,0,0,0,0,Mysteel 2025-07-31 (recycling volume)
 recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0,0,0.0,0.0,0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"

@@ -5,7 +5,7 @@ Assets: 914 — by step and status (never summed across statuses):
 | step | operational | under construction | announced | paused/cancelled |
 |---|---:|---:|---:|---:|
 | anode | 40 | 10 | 16 | 2 |
-| cathode | 81 | 26 | 23 | 7 |
+| cathode | 80 | 27 | 23 | 7 |
 | electrolyte | 40 | 5 | 7 | 2 |
 | foil | 24 | 1 | 4 | 0 |
 | mining | 132 | 20 | 39 | 22 |
@@ -62,7 +62,7 @@ Evidence: 762 rows confirmed, 152 reported-tier; 500 with coordinates; mean conf
 | cathode | cathode (NCM/ternary) | production | China | 2024 | 614,700 t CAM | 100,000 | 100,000 | – | – | – |
 | cathode | cathode (LMO) | production | China | 2024 | 124,910 t CAM | – | – | – | – | – |
 | cathode | cathode (LCO) | production | China | 2024 | 90,180 t CAM | – | – | – | – | – |
-| anode | anode | production | China | 2024 | 2,103,500 t anode | 300,000 | – | – | – | – |
+| anode | anode | production | China | 2024 | 2,103,500 t anode | 100,000 | – | – | – | – |
 | separator | separator | production | China | 2024 | 21,446 Mm2 | – | – | – | – | – |
 | electrolyte | electrolyte | production | China | 2024 | 1,492,600 t electrolyte | 115,000 | – | – | – | – |
 | recycling | recycling | production | China | 2024 | 654,000 t feed | – | – | – | – | – |
@@ -72,13 +72,13 @@ Evidence: 762 rows confirmed, 152 reported-tier; 500 with coordinates; mean conf
 | cathode | cathode | capacity | China | 2025 | 9,000,000 t CAM | 884,060 | 160,000 | 1,660,833 | 2,527,072 | 2,832,821 |
 | separator | separator | shipments | China | 2025 | 32,850 Mm2 | 900 | 4,320 | 2,120 | 3,926 | 20,673 |
 | anode | anode | shipments | China | 2025 | 2,900,000 t anode | 607,500 | 580,000 | 613,343 | 1,594,612 | 2,189,456 |
-| refining | lithium | capacity | China | 2025 | 2,400,000 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
+| refining | lithium | capacity | China | 2025 | 2,400,000 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 501,988 |
 | refining | lithium hydroxide | production | China | 2025 | 356,000 t LiOH | – | – | – | – | – |
 | electrolyte | LiPF6 | production | World | 2025 | 279,000 t LiPF6 | 69,000 | – | 65,000 | 39,568 | 39,568 |
 | electrolyte | electrolyte | shipments | China | 2025 | 2,235,000 t electrolyte | 695,000 | 150,000 | 300,000 | – | 1,320,686 |
 | refining | nickel (primary, all forms) | production | World | 2025 | 3,875,000 t Ni | 372,000 | 940,561 | – | – | – |
-| refining | cobalt | production | World | 2025 | 240,000 t Co | – | 43,500 | 39,500 | 51,197 | 51,197 |
-| refining | lithium | production | China | 2025 | 1,289,280 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 553,716 |
+| refining | cobalt | production | World | 2025 | 240,000 t Co | – | 40,500 | 79,000 | 87,749 | 87,749 |
+| refining | lithium | production | China | 2025 | 1,289,280 t LCE | 768,220 | 484,104 | 131,800 | 154,156 | 501,988 |
 | cathode | cathode (LFP) | production | World | 2025 | 3,915,000 t CAM | 702,500 | 60,000 | – | – | – |
 
 Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 372,000 (NPI/FeNi/refined/sulphate); intermediates (MHP, matte) 155,000 t Ni shown separately, not added.
@@ -86,7 +86,7 @@ Nickel: INSG primary nickel 3,875,000 t Ni vs our built final-product capacity 3
 Notes: benchmarks are comparison only (USGS public domain; MIIT official; industry figures via open press — see data/supply_chain/benchmarks/aggregates.csv for quotes and URLs). Capacity ≥ output is expected; company-disclosed output is the share of the benchmark produced by companies whose filings we read.
 
 <!-- hand-written notes below this line are kept on regeneration -->
-## Lead notes (current — method v3 after SC audits 1–3, 2026-11-27)
+## Lead notes (current — method v3 after SC audits 1–5, 2026-11-27)
 - Built capacity = installed at a sourced date or sourced dated steps up to 2025 — a CONFIRMED-DATE FLOOR, not a growth
   series (annual-report figures dated 2025-12-31 are not carried back, so 2024→2025 jumps are partly dating artefacts).
   The rest of operational plans is an upper-bound column; it also holds capacity that is built but has no installed

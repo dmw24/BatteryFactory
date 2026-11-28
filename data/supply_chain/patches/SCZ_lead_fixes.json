@@ -9,6 +9,14 @@
    "accessed": "2026-11-27",
    "language": "en",
    "quote": "Harjavalta’s capacity is 66 ktpa of nickel products."
+  },
+  "G1": {
+   "url": "https://www.chinaservicesinfo.com/s/202601/13/WS69846f62498e23165e06d4fb/gem-cobalt-in-taixing-advances-development-of-green-materials.html",
+   "publisher": "China Services Info (China Daily group), 'GEM Cobalt in Taixing advances development of green materials'",
+   "published": "2026-01-13",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Located in the Taixing Economic Development Zone, GEM (Jiangsu) Cobalt has built a thriving business ... It now produces more than 10,000 metric tons per year of cobalt tetroxide, its flagship product"
   }
  },
  "rows": [
@@ -835,6 +843,101 @@
     "feeds_company": "yahua-group-yaan-china, yahua-guoli-aba-china, yahua-xingsheng-meishan-china"
    },
    "notes": "lead (SC audit 4 #10): company-level / unnamed-plant links moved to feeds_company; feeds keeps plant-explicit links only"
+  },
+  {
+   "action": "fix",
+   "id": "shanshan-anning-anode-china",
+   "fields": {
+    "capacity_by_year_json": null
+   },
+   "notes": "lead (SC audit 5 #1): 2023 step removed — 'planned capacity 200,000 t… has started production' is first production, not the phase built; the 2025-12-31 installed anchor (一期已投产) stays)"
+  },
+  {
+   "action": "fix",
+   "id": "gem-jiangsu-cobalt-taixing-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 5 #2): 'produces more than 10,000 t/yr of cobalt tetroxide' is output, stored as stated (t Co3O4, D-102) — capacity nulled)",
+   "drop_evidence": {
+    "capacity": [
+     "SC197"
+    ]
+   }
+  },
+  {
+   "action": "update",
+   "id": "gem-jiangsu-cobalt-taixing-china",
+   "fields": {
+    "production": 10000,
+    "production_unit": "t Co3O4",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "G1"
+    ]
+   },
+   "notes": "lead (SC audit 5 #2): production 10,000 t Co3O4 (lower bound, 'more than')."
+  },
+  {
+   "action": "fix",
+   "id": "hanrui-cobalt-anhui-hanrui-cobalt-powder-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 5 #3): cobalt powder made from Ganzhou Hanrui cobalt salts — downstream of the same cobalt; capacity (3,000 t) kept in notes to avoid stacking)",
+   "drop_evidence": {
+    "capacity": [
+     "SC197"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "merdeka-battery-materials-zhn-rkef-indonesia",
+   "fields": {
+    "asset_name": "MBMA RKEF NPI smelters (group aggregate: ZHN, BSI, CSI, Lestari at IMIP)"
+   },
+   "notes": "lead (SC audit 5 #5): production 73,871 t NPI Ni is the MBMA group RKEF total — row is a group aggregate, not one site)"
+  },
+  {
+   "action": "fix",
+   "id": "ecopro-em-pohang-cam7-south-korea",
+   "fields": {
+    "status": "under_construction"
+   },
+   "notes": "lead (SC audit 5 #7): quotes support trial runs / 'will go into operation', not commercial operation (D-112))"
+  },
+  {
+   "action": "fix",
+   "id": "hongxing-development-hpmsm-30kt-china",
+   "fields": {
+    "part_of": "hongxing-development-dalong-manganese-emd-china"
+   },
+   "notes": "lead (SC audit 5 #8): same Dalong site as the EMD row (different product line))"
+  },
+  {
+   "action": "fix",
+   "id": "guizhou-nengkuang-manganese-dalong-hpmsm-emd-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 5 #9): 30 kt HPMSM is a 2017 groundbreaking plan seen only in a search summary — nulled; operational status evidenced for EMD only)",
+   "drop_evidence": {
+    "capacity": [
+     "SC197"
+    ]
+   }
   }
  ]
 }

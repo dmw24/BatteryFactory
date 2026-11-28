@@ -1,6 +1,6 @@
 # Methods — open battery supply-chain asset database
 
-Companion to the cell gigafactory database (docs/METHODS.md). Spec: team/SPEC_SUPPLY_CHAIN.md; decisions D-101–D-108
+Companion to the cell gigafactory database (docs/METHODS.md). Spec: team/SPEC_SUPPLY_CHAIN.md; decisions D-101–D-113
 in team/DECISIONS.md; coverage and caveats in team/RECONCILIATION_SC.md (regenerated).
 
 ## What is in it
@@ -40,7 +40,7 @@ and nickel intermediates shown separately.
 
 ## Rebuild and checks
 `python3 scripts/sc_build_all.py` (build → company coverage → benchmarks → report → charts); `python3 checks/sc_checks.py`
-(13 checks); `python3 checks/verify_quotes.py --sc --task SCxxx`.
+(14 checks); `python3 checks/verify_quotes.py --sc --task SCxxx`.
 
 ## Known limitations
 - Most Chinese processing companies disclose company totals, not plant capacity: site-level capacity understates China,

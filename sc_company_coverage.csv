@@ -1,5 +1,10 @@
 company,step,year,metric,product,disclosed,unit,sites_sum,n_sites,n_site_rows,unallocated,source,geo_scope
 CMOC,mining,2025,production,cobalt,117500.0,t Co,0,0,0,117500,603993_.txt l.371-385,global
+Hanrui Cobalt,refining,2025,production,cobalt products,16761.79,t,0,0,0,16762,300618_2025.txt l.1552-1559,global
+Tengyuan Cobalt,refining,2025,production,cobalt,27348.72,t Co,0,0,0,27349,301219_2025.txt l.754-766,global
+Tengyuan Cobalt,refining,2025,capacity,cobalt,39500.0,t Co,0,0,1,39500,301219_2025.txt l.4040-4041,global
+Shengtun Mining,refining,2025,production,cobalt,9203.13,t Co,0,0,0,9203,600711_.txt l.850-867,global
+Shengtun Mining,refining,2025,production,nickel,49418.04,t Ni,0,0,0,49418,600711_.txt l.850-867,global
 SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,2200,3,10,12200,"002812_2025.txt l.435,439",global
 SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718,global
 Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235,global
@@ -53,7 +58,7 @@ Yongxing,refining,2025,production,lithium carbonate,24823.0,t LCE,24823,1,1,0,00
 Qinghai Salt Lake,mining,2025,production,lithium carbonate,46543.0,t LCE,41000,1,1,5543,000792_2025.txt l.1269-1271,china
 Zangge,mining,2025,production,lithium carbonate,8808.0,t LCE,8808,1,1,0,000408_2025.txt l.47,china
 Jiangte,refining,2025,production,lithium carbonate,13610.0,t LCE,13610,1,1,0,002176_2025.txt l.1067-1070,china
-Huayou,refining,2025,production,lithium products,51728.0,t LCE,0,0,0,51728,603799_.txt l.820,global
+Huayou,refining,2025,production,lithium products,51728.0,t lithium products,0,0,0,51728,603799_.txt l.820,global
 Tianqi,refining,2025,capacity,lithium chemicals,121600.0,t LCE,114599,6,6,7001,002466_2025.txt l.709,global
 Tianqi,refining,2025,production,lithium compounds,87936.0,t LCE,7778,1,1,80158,002466_2025.txt l.1862,global
 Ganfeng,refining,2025,production,basic lithium chemicals,182419.0,t LCE,0,0,0,182419,002460_2025.txt l.2055,global

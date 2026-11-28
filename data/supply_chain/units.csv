@@ -37,3 +37,4 @@ t lithium sulphate,t LCE,0.672,Li2SO4 to LCE (73.89/109.94)
 t petalite concentrate,t LCE,,grade varies; normalised only via capacity_lce_t
 t EMD,t EMD,1,electrolytic manganese dioxide (not normalised to Mn)
 t Mn3O4,t Mn,0.720,Mn3O4 to Mn (164.8/228.8)
+t Co3O4,t Co,0.7342,cobalt tetroxide to Co (176.8/240.8)
