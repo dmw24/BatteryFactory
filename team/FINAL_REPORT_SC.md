@@ -28,3 +28,14 @@ or rule application, fixed as rules (scripts/sc_core.py: one "built" definition;
 ## Known limits / next
 Plant-level capacity for many Chinese bases (companies disclose totals only); Zimbabwe and Chinese lepidolite/graphite
 mine output; Indonesian cobalt in MHP; more plant-level supply links; Chinese HPMSM/cobalt plant capacities. See team/SC_BACKLOG.md.
+
+## Close-out (2026-11-28, lead)
+The supply-chain phase is complete to the spec's definition of done: every step is covered at asset level with sourced
+evidence, benchmarked where an open benchmark exists, and each step either meets the 80% bar (lithium mining) or has
+its gap explained in team/RECONCILIATION_SC.md (mostly because companies disclose totals, not plants, or mines report
+ore without grade). Seven independent audits were run; the final whole-database sample found no number-changing defect
+(0/30; pooled estimate ≈2% number-changing, ≈8% any defect). Remaining work that would need new data rather than more
+effort: Chinese plant-level capacities and outputs, Zimbabwe/Chinese mine output, Indonesian ore grades, HPMSM/foil/
+precursor benchmarks (paywalled). Open owner items: dataset licence (docs/LICENSE_PROPOSAL.md incl. CGS CC BY 4.0
+attribution) and the pending decisions digest (team/OWNER_DECISIONS.md; supply-chain decisions D-101–D-114).
+Rebuild: `python3 scripts/sc_build_all.py`; checks: `python3 checks/sc_checks.py`.
