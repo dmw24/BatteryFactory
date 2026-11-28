@@ -1,0 +1,770 @@
+{
+ "task": "SC203",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://katadata.co.id/berita/energi/6aa2607cc2f1e/vale-percepat-smelter-hpal-pomalaa-produksi-penuh-ditargetkan-2027",
+   "publisher": "Katadata (Vale Indonesia public expose, Pomalaa HPAL)",
+   "published": "2026-09-10",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "Sehingga di 2027 kami bisa mulai peningkatan dan produksi penuh 120 ribu ton Mixed Hydroxide Precipitate (MHP) di Pomalaa."
+  },
+  "S2": {
+   "url": "https://katadata.co.id/berita/energi/6aa2607cc2f1e/vale-percepat-smelter-hpal-pomalaa-produksi-penuh-ditargetkan-2027",
+   "publisher": "Katadata (Vale Indonesia public expose, Pomalaa HPAL)",
+   "published": "2026-09-10",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "proses mechanical completion bisa dilakukan bulan ini, atau paling lambat Oktober 2026."
+  },
+  "S3": {
+   "url": "https://www.fortuneidn.com/market/3-proyek-hpal-baru-vale-indonesia-rampung-bertahap-hingga-2027-00-my5jv-5tv510",
+   "publisher": "Fortune Indonesia (Vale Indonesia's three new HPAL projects)",
+   "published": "2026-01-20",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "progres pembangunan smelter HPAL Sorowako baru mencapai sekitar 17 persen ... Vale menargetkan proyek ini baru dapat mulai beroperasi pada 2027."
+  },
+  "S4": {
+   "url": "https://www.fortuneidn.com/market/3-proyek-hpal-baru-vale-indonesia-rampung-bertahap-hingga-2027-00-my5jv-5tv510",
+   "publisher": "Fortune Indonesia (Vale Indonesia's three new HPAL projects; Bahodopi)",
+   "published": "2026-01-20",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "Smelter ini dirancang memiliki kapasitas produksi 66.000 ton MHP per tahun. ... ditargetkan mencapai mechanical completion pada kuartal IV-2026",
+   "tier": "reported",
+   "snippet": "Smelter ini dirancang memiliki kapasitas produksi 66.000 ton MHP per tahun. ... ditargetkan mencapai mechanical completion pada kuartal IV-2026",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S5": {
+   "url": "https://ekonomi.republika.co.id/berita/t93veu522/vale-targetkan-proyek-hpal-sorowako-beroperasi-2027",
+   "publisher": "Republika (Vale Indonesia president director to parliament)",
+   "published": "2026-01-19",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "Targetnya, HPAL Sorowako–Malili dapat mulai beroperasi pada 2027,"
+  },
+  "S6": {
+   "url": "https://indonesiaminer.com/news/detail/vale-indonesia-accelerates-three-hpal-smelter-projects-pomalaa-bahodopi-to-complete-in-2026-sorowako-in-2027",
+   "publisher": "Indonesia Miner (Vale Indonesia accelerates three HPAL projects)",
+   "published": "2026-01-21",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Construction of the smelter is only 17 percent complete,"
+  },
+  "S7": {
+   "url": "https://indonesiaminer.com/news/detail/vale-indonesia-accelerates-three-hpal-smelter-projects-pomalaa-bahodopi-to-complete-in-2026-sorowako-in-2027",
+   "publisher": "Indonesia Miner (Vale Indonesia accelerates three HPAL projects; Pomalaa)",
+   "published": "2026-01-21",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The HPAL plant's construction progress has reached 60 percent, while the mining sector has also reached 60 percent."
+  },
+  "S8": {
+   "url": "https://bcasekuritas.co.id/en/latest-news/news/bnsi-mulai-bangun-fasilitas-hpal",
+   "publisher": "BCA Sekuritas news digest (IQPlus), PT BNSI (Bahodopi) HPAL",
+   "published": "2026-07-23",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "resmi memulai fase utama pembangunan ... operasi komersial dijadwalkan dimulai pada kuartal pertama 2027"
+  },
+  "S9": {
+   "url": "https://news.metal.com/en/newscontent/104021133-smm-nickel-flash-vale-autoclave-arrives-at-the-sambalagi-hpal-project-site",
+   "publisher": "SMM Nickel Flash (Vale Sambalagi/Bahodopi HPAL autoclave)",
+   "published": "2026-07-23",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "designed to produce approximately 90,000 mt Ni of mixed hydroxide precipitate (MHP) annually ... targeted for mechanical completion by the end of 2026"
+  },
+  "S10": {
+   "url": "https://investortrust.id/market/117560/how-merdeka-battery-powered-an-830-profit-surge-as-downstream-nickel-pays-off",
+   "publisher": "Investortrust.id (Merdeka Battery Materials profit article)",
+   "published": "2026-09-27",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "currently undergoing multi-stage commercial commissioning"
+  },
+  "S11": {
+   "url": "https://www.globalminingreview.com/mining/27022025/mbma-expands-hpal-capacity/",
+   "publisher": "Global Mining Review (MBMA SLNC HPAL)",
+   "published": "2025-02-27",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "nameplate capacity of 90 000 t/y of contained nickel in mixed hydroxide precipitate (MHP) ... Construction of the project commenced in January 2025"
+  },
+  "S12": {
+   "url": "https://news.metal.com/en/newscontent/104031567-maiden-mhp-production-at-enc",
+   "publisher": "SMM / Metal.com (Nickel Industries ASX release, maiden MHP at ENC)",
+   "published": "2026-07-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "successfully produced its first mixed hydroxide precipitate (MHP) in July 2026. ... The Company expects to produce its first nickel cathode in August 2026."
+  },
+  "S13": {
+   "url": "https://announcements.asx.com.au/asxpdf/20261029/pdf/075z58zzym4jqy.pdf",
+   "publisher": "Nickel Industries ASX announcement 2026-10-29 (PDF text not machine-readable by WebFetch)",
+   "published": "2026-10-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): PT Fajar Metal Industry (FMI), the operating company owning the Excelsior Nickel Cobalt (ENC) HPAL project, has received its industrial business licence (IUI), which allows FMI to begin commercial sales, expected to start in the near term; Nickel Industries holds 46% of ENC. A later report says no ENC product sales were made in the September quarter pending the IUI."
+  },
+  "S14": {
+   "url": "https://petromindo.com/news/article/huayou-suspends-huashan-s-hpal-project",
+   "publisher": "Petromindo (paywalled; only headline/lead visible)",
+   "published": "2024-07-03",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Huayou Cobalt has announced the suspension of a High-Pressure Acid Leach HPAL"
+  },
+  "S15": {
+   "url": "https://www.metalnomist.com/2026/04/bse-on-spec-mhp-output-marks-new-step.html",
+   "publisher": "The Metalnomist (BSE on-spec MHP output)",
+   "published": "2026-04-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "nameplate capacity of 67,000 t/yr of nickel in MHP"
+  },
+  "S16": {
+   "url": "https://www.mysteel.net/news/5098862-flash-catl-and-antam-advance-integrated-nickel-smelter-project-with-19-billion-investment",
+   "publisher": "Mysteel Flash (CATL and Antam integrated nickel smelter project, East Halmahera)",
+   "published": "2025-09-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The HPAL facility aims to produce 55,000 tonnes of Mixed Hydroxide Precipitate (MHP) per year"
+  },
+  "S17": {
+   "url": "https://www.mysteel.net/news/5098862-flash-catl-and-antam-advance-integrated-nickel-smelter-project-with-19-billion-investment",
+   "publisher": "Mysteel Flash (CATL and Antam integrated nickel smelter project, East Halmahera; RKEF part)",
+   "published": "2025-09-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "designed to produce 88,000 tonnes of Nickel Pig Iron (NPI) annually ... scheduled to begin operations in 2027"
+  },
+  "S18": {
+   "url": "https://news.metal.com/newscontent/103968146-SMM-Nickel-Flash-Nickel-Industries-Akuisisi-175-Saham-di-Proyek-PT-TMI-MHP-Mulai-Produksi-pada-Pertengahan-2027",
+   "publisher": "SMM Nickel Flash (Nickel Industries acquires 17.5% of PT TMI)",
+   "published": "2026-06-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "TMI has an annual nominal capacity of 38,640 mt Ni. ... expected to commence production in mid-2027.",
+   "tier": "reported",
+   "snippet": "TMI has an annual nominal capacity of 38,640 mt Ni. ... expected to commence production in mid-2027.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S19": {
+   "url": "https://katadata.co.id/amp/finansial/bursa/6a3e24ced6801/afaliasi-untr-borong-dua-smelter-hpal-di-morowali-bidik-produsen-nikel-nomor-1",
+   "publisher": "Katadata (UNTR affiliate Nickel Industries buys stakes in two Morowali HPAL smelters)",
+   "published": "2026-06-26",
+   "accessed": "2026-11-28",
+   "language": "id",
+   "quote": "CNE saat ini masih dalam tahap konstruksi ... dijadwalkan mulai memasuki tahap commissioning pada pertengahan 2027"
+  },
+  "S20": {
+   "url": "https://news.metal.com/en/newscontent/103968196-nickel-industries-to-acquire-part-of-pt-cne-stake-annual-capacity-of-28357-mt-ni-production-expected-in-mid-2027",
+   "publisher": "SMM / Metal.com (Nickel Industries to acquire part of PT CNE stake)",
+   "published": "2026-06-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "CNE has an annual capacity of 28,357 mt Ni ... producing mixed hydroxide precipitate (MHP) for the EV battery supply chain."
+  },
+  "S21": {
+   "url": "https://www.miningweekly.com/article/australias-nickel-industries-secures-more-exposure-key-ev-battery-feedstock-2026-06-24",
+   "publisher": "Mining Weekly / Engineering News (page returned HTTP 403; Argus 2026-06 'Nickel Industries to buy Indonesian MHP stakes')",
+   "published": "2026-06-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Nickel Industries agreed on 24 June 2026 to pay USD 169m for a 17.5% interest in TMI; construction of TMI is already underway with commissioning expected to start in mid-2027; a construction guarantee (from Tsingshan via Shanghai Decent) is meant to give certainty that TMI reaches nameplate capacity by September 2027."
+  },
+  "S22": {
+   "url": "https://www.eramet.com/en/news/2024/06/eramet-and-basf-decide-against-joint-investment-in-a-nickel-cobalt-refining-complex-in-indonesia/",
+   "publisher": "Eramet press release (24 June 2024)",
+   "published": "2024-06-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "have decided against a joint investment in a nickel-cobalt refining complex"
+  },
+  "S23": {
+   "url": "https://www.eramet.com/en/news/basf-and-eramet-study-the-feasibility-of-nickel-cobalt-production-for-electric-batteries/",
+   "publisher": "Eramet press release (15 December 2020)",
+   "published": "2020-12-15",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "42,000 metric tons of nickel and 5,000 metric tons of cobalt annually"
+  },
+  "S24": {
+   "url": "https://electrive.com/2024/06/25/basf-emaret-cancel-plans-for-nickel-cobalt-refinery-in-indonesia",
+   "publisher": "electrive (also Reuters/Mining Technology via search results; page not opened)",
+   "published": "2024-06-25",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): project dropped June 2024; planned capacity 67,000 t/y of nickel and 7,500 t/y of cobalt (one Reuters report cited around 7,000 t of cobalt contained in MHP per year); USD 2.6bn investment; Weda Bay, Indonesia (also called Sonic Bay)."
+  },
+  "S25": {
+   "url": "https://www.riotimesonline.com/bndes-brazilian-nickel-piaui-financing-2026/",
+   "publisher": "The Rio Times (BNDES / Brazilian Nickel Piaui financing)",
+   "published": "2026-07-14",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "It targets about 27,000 tonnes of nickel and 900 tonnes of cobalt a year for electric-car batteries. ... The company puts first production in 2028, with a fuller operational phase around 2029."
+  },
+  "S26": {
+   "url": "https://magazine.cim.org/en/news/2026/crawford-nickel-project-clears-federal-review-en/",
+   "publisher": "CIM Magazine (Crawford Nickel Project clears federal review)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "annual output is projected to average about 48,000 tonnes of nickel ... A construction decision is anticipated in 2027, with production expected in 2029."
+  },
+  "S27": {
+   "url": "https://www.canada.ca/en/impact-assessment-agency/news/2026/07/the-federal-government-announces-major-milestone-for-the-crawford-nickel-project.html",
+   "publisher": "Impact Assessment Agency of Canada news release (decision statement 31 July 2026)",
+   "published": "2026-07-31",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "an open-pit nickel-cobalt mine and on-site metal mill ... located 42 kilometres north of Timmins, Ontario."
+  },
+  "S28": {
+   "url": "https://www.engineeringnews.co.za/article/kwinana-cobalt-refinery-australia-update-2026-10-23",
+   "publisher": "Engineering News / Mining Weekly (page returned HTTP 403; Cobalt Blue ASX releases 2026-06 and 2026-10-19)",
+   "published": "2026-10-23",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Cobalt Blue's Kwinana (Western Australia) cobalt refinery still pre-final-investment-decision in October 2026; stage 1 planned at 3,000 t/y of contained cobalt; works approval from WA government held; Iwatani Australia partner; 19 Oct 2026 term sheet with STG Metals for cobalt metal offtake."
+  },
+  "S29": {
+   "url": "https://finviz.com/news/373882/lifezone-metals-announces-h1-2026-interim-financial-results",
+   "publisher": "Lifezone Metals H1 2026 interim results (Business Wire release via Finviz)",
+   "published": "2026-07-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "We now expect FID to take place during Q1 2027"
+  },
+  "S30": {
+   "url": "https://jervoisglobal.com/wp-content/uploads/2026/05/260501-Jervois-Sustainability-Report-2025.pdf",
+   "publisher": "Jervois Sustainability Report 2025 (PDF not opened; Idaho DEQ draft 2026 Points of Compliance revision also seen in search)",
+   "published": "2026-05-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): the 2025 Sustainability Report describes continued safe and compliant management of Idaho Cobalt Operations during care and maintenance; Idaho DEQ draft 2026 Points of Compliance revision 'reflects changes appropriate for long-term care and maintenance' (comment period 26 Jan - 25 Feb 2026). No restart or sale found."
+  },
+  "S31": {
+   "url": "https://projectblue.com/blue/news-analysis/1391/pt-kni-delivers-first-autoclave-at-indonesian-hpal-project",
+   "publisher": "Project Blue (page body not retrievable; free teaser only)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): PT Kolaka Nickel Indonesia (PT KNI) is a joint venture of Huayou Cobalt (73.2%), PT Vale Indonesia (18.3%) and Ford Motor (8.5%); nameplate 120 ktpy Ni-in-MHP; limonite feed from PTVI's Pomalaa mine; first autoclave installed 15 December 2025."
+  },
+  "S32": {
+   "url": "https://news.metal.com/en/newscontent/103926824-smm-nickel-flash-indonesia-restricts-new-investment-in-npi-feni-matte-and-mhp-pushing-industry-further-downstream",
+   "publisher": "SMM Nickel Flash (Indonesia restricts new investment in intermediate nickel smelters)",
+   "published": "2026-05-28",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Indonesia is restricting new investment in nickel smelters producing intermediate products"
+  },
+  "S33": {
+   "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/1/indonesia-finalizing-reduced-nickel-ore-output-target-for-2026-97045526",
+   "publisher": "S&P Global Market Intelligence (also Argus 'Indonesia to cut nickel mining quota in 2026'; S&P Nov 2026 revised-quota item) - pages not opened",
+   "published": "2026-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summaries (not page text): Argus - energy ministry to cut the 2026 RKAB nickel ore quota to 260-270 Mt (2025: 379 Mt; forecast ore consumption ~330 Mt); S&P Global (Nov 2026) - revised 2026 quota about 290-300 Mt, a further 2027 reduction signalled; SMM (April 2026) - PT Vale Indonesia's Pomalaa quota 5.8 Mt vs 7 Mt needed for the smelter's planned August 2026 start."
+  },
+  "S34": {
+   "url": "https://finance.yahoo.com/markets/commodities/articles/project-launches-ramp-ups-set-170121762.html",
+   "publisher": "GlobalData / Mining Technology via Yahoo Finance (Indonesia cobalt output 2026)",
+   "published": "2026-03-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "In 2025, the country is estimated to have produced 49,300 tonnes (t) of cobalt,"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "huayou-pomalaa-hpal-indonesia",
+   "fields": {
+    "capacity_ref_year": 2027,
+    "capacity_by_year_json": {
+     "2027": 120000
+    },
+    "jv_partners": "Huayou Cobalt 73.2%; PT Vale Indonesia 18.3%; Ford Motor 8.5% (PT Kolaka Nickel Indonesia)",
+    "source_url": "https://katadata.co.id/berita/energi/6aa2607cc2f1e/vale-percepat-smelter-hpal-pomalaa-produksi-penuh-ditargetkan-2027",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-10"
+   },
+   "evidence": {
+    "status": [
+     "S2",
+     "S7"
+    ],
+    "capacity": [
+     "S1"
+    ],
+    "capacity_ref_year": [
+     "S1"
+    ],
+    "capacity_by_year_json": [
+     "S1"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "[SC203] Vale Indonesia public expose (Katadata, 2026-09-10): mechanical completion brought forward from Dec 2026 to Sept or at latest Oct 2026; end-to-end mine-to-smelter testing from ~15 Sept 2026; ramp-up 3-6 months; full 120,000 t MHP in 2027 (S1, S2) -> capacity_ref_year moved 2026 -> 2027 and a dated step {2027: 120000} recorded (the 'ribu ton MHP' wording is Vale's, other Vale material and Ford say 120 kt Ni contained in MHP; basis not reconciled). Construction progress: 60% in Jan 2026 (Indonesia Miner, S7) vs ~50% (Fortune IDN same week) - conflict unresolved. Huayou AR 2025 (local, line 546) said build complete 'before end of this year' (2026): consistent with mechanical completion in 2026 but full output in 2027. Status stays under_construction (D-112: trial/commissioning, no commercial production reported; nothing found dated after mid-Sept 2026). Ownership 73.2/18.3/8.5 is search-snippet tier (S31, Project Blue teaser) - not in fields' evidence. Quota constraint: Vale's 2026 RKAB for Pomalaa 5.8 Mt vs 7 Mt needed (S33, reported). GlobalData (2026-03-24, S34 page) still says start Q4 2026."
+  },
+  {
+   "action": "update",
+   "id": "pt-vale-huayou-sorowako-hpal-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity_ref_year": 2027,
+    "source_url": "https://www.fortuneidn.com/market/3-proyek-hpal-baru-vale-indonesia-rampung-bertahap-hingga-2027-00-my5jv-5tv510",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-01-20"
+   },
+   "evidence": {
+    "status": [
+     "S3",
+     "S6"
+    ],
+    "capacity_ref_year": [
+     "S3",
+     "S5"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC203] Vale Indonesia told parliament (Jan 2026) that Sorowako-Malili HPAL (60,000 t MHP/yr) is ~17% built and targets operation in 2027 (Fortune IDN 2026-01-20 S3; Indonesia Miner 2026-01-21 S6; Republika 2026-01-19 S5, which also describes land preparation, autoclave construction and camp building under way). Upgraded announced -> under_construction because physical works with a progress figure are reported. CONFLICT: Huayou 2025 AR (local 603799_.txt lines 546-547, 1411) still says Sorowako is at 'preparatory work' stage and construction will be 'started' in 2026 - the AR is older in spirit/wording; the lead may keep announced if only early works are accepted (D-020). Quote basis of 'MHP t' vs 'Ni t' for 60,000 not reconciled (AR says 60,000 t nickel metal). No news after Jan 2026 found."
+  },
+  {
+   "action": "update",
+   "id": "gem-igip-nickel-hpal-indonesia",
+   "fields": {
+    "start_year": 2027,
+    "capacity_ref_year": 2027,
+    "source_url": "https://bcasekuritas.co.id/en/latest-news/news/bnsi-mulai-bangun-fasilitas-hpal",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-07-23"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ],
+    "capacity": [
+     "S4"
+    ],
+    "capacity_ref_year": [
+     "S8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC203] Identification: Vale Indonesia's 'Bahodopi / Morowali' HPAL (66,000 t MHP/yr, mechanical completion targeted Q4 2026; S4) is the same GEM-Vale-Danantara 66 kt project already in this row (SC105, Aug 2025). The project company is PT BNSI (Bahodopi Nickel Smelting Indonesia; GEM took 51%, Vale 49% in 2025 per search snippets, not opened). BCA Sekuritas/IQPlus 2026-07-23: BNSI 'officially began the main construction phase' (new-generation 1,268 m3 autoclave) with construction completion end-2026 and commercial operation Q1 2027 (S8) -> start_year 2027, ref year 2027. CAPACITY CONFLICT: S8 says 90,000 t MHP/yr and SMM (2026-07-23, S9) says 'approximately 90,000 mt Ni of mixed hydroxide precipitate' with three production lines (first line mechanically complete end-2026), whereas Vale (Jan 2026, S4), the GEM 2025 AR and Danantara say 66,000 t. Row keeps 66,000 t Ni in MHP (company filings); 90,000 may be a later 3-line total or an MHP-product tonnage - unresolved. Status under_construction confirmed by main works started (S8). Province: Central Sulawesi (Morowali, Bahodopi) per Fortune IDN text, not entered. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "pt-sulawesi-nickel-cobalt-slnc-hpal-indonesia",
+   "fields": {
+    "announced_year": 2025,
+    "source_url": "https://investortrust.id/market/117560/how-merdeka-battery-powered-an-830-profit-surge-as-downstream-nickel-pays-off",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-27"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC203] Capacity now confirmed from an opened page: 'nameplate capacity of 90 000 t/y of contained nickel in mixed hydroxide precipitate (MHP)', construction commenced January 2025, US$1.8bn (Global Mining Review 2025-02-27, S11) - resolves the earlier MHP-tonnes vs Ni-tonnes doubt in favour of contained nickel. Status 2026-09-27 (Investortrust, S10): 'currently undergoing multi-stage commercial commissioning' (energisation, ore haulage, primary feed trials into autoclaves), commercial extraction H2 2026, full design rate by year-end. D-112: commissioning/trial = under_construction until commercial production is stated. An undated Petromindo item (search snippet) says commissioning completed end-Q2 2026 and the plant awaits its industrial business licence (IUI) - not verified. MBMA affiliate PT Merdeka Energi Baru reportedly holds 50.1% (search snippet, not entered). The Q3 2026 MHP output of 9,742 t Ni reported by MBMA (Bisnis snippet) cannot be assigned to SLNC vs PT ESG."
+  },
+  {
+   "action": "update",
+   "id": "excelsior-nickel-cobalt-enc-hpal-indonesia",
+   "fields": {
+    "source_url": "https://news.metal.com/en/newscontent/104031567-maiden-mhp-production-at-enc",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-07-29"
+   },
+   "evidence": {
+    "status": [
+     "S12",
+     "S13"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC203] Nickel Industries ASX release (via SMM 2026-07-29, S12): ENC 'successfully produced its first mixed hydroxide precipitate (MHP) in July 2026'; first nickel cathode expected August 2026. Search-summary tier (S13, ASX 2026-10-29 PDF unreadable): the operating company PT Fajar Metal Industry (FMI) received its industrial business licence (IUI) on 29 Oct 2026, allowing commercial sales 'in the near term'; no ENC sales in the Sept quarter; ramp-up slowed by dry conditions/water shortage (Mining Weekly/Argus 2026-09-15, not opened). D-112: first MHP and licence do not equal commercial production -> status stays under_construction; the lead may flip to operational once commercial production is stated. Capacity unchanged (72,000 t Ni; NIC share 46% from Mar 2026). Related expansions at the same IMIP site are rows teluk-metal-industry-indonesia (TMI, 38,640 t Ni) and pt-chengsheng-new-energy-cne-hpal-indonesia (CNE, 28,357 t Ni), both mid-2027."
+  },
+  {
+   "action": "update",
+   "id": "huashan-nickel-cobalt-indonesia",
+   "fields": {
+    "project_state": "paused",
+    "source_url": "https://petromindo.com/news/article/huayou-suspends-huashan-s-hpal-project",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-07-03"
+   },
+   "evidence": {
+    "project_state": [
+     "S14"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC203] Petromindo headline/lead 2024-07-03 (paywalled): 'Huayou suspends Huashan's HPAL project' - 'Huayou Cobalt has announced the suspension of a High-Pressure Acid Leach HPAL ...' (reason, capacity, partners not visible). An AME Group feature (search snippet, page not readable) says the 120 ktpa Ni / 15 ktpa Co Huashan HPAL was cancelled; no revival found. Huayou 2025 AR (local 603799_.txt) lists Huayue, Huafei, Pomalaa, Sorowako and Huaxing but has no mention of Huashan (grep of all local filings: none). Kept 'paused' (suspension is the only sourced word); the lead may set cancelled if AME is accepted. CGS dataset status 'Stalled' is consistent."
+  },
+  {
+   "action": "update",
+   "id": "pt-blue-sparking-energy-indonesia",
+   "fields": {
+    "capacity_ref_year": 2026,
+    "source_url": "https://www.metalnomist.com/2026/04/bse-on-spec-mhp-output-marks-new-step.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-04-04"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ],
+    "capacity": [
+     "S15"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC203] Metalnomist 2026-04-04: nameplate 67,000 t/yr nickel in MHP (and 7,500 t/yr cobalt); trial production since late Nov 2025, qualified MHP produced, still commissioning, commercial operation (initially targeted early 2026) not yet reported -> under_construction per D-112; capacity_ref_year 2026 = that target year. Search snippets (not opened): Harum Energy owns 51% of PT BSE; construction began Dec 2023; ~85% built June 2025 (Kontan); Mysteel Q1 2026 says it is progressing 'smoothly toward its full capacity target of 67,000 t'. Cobalt by-product 7,500 t Co/yr is not stored in the row (single capacity field) - for the pipeline summary only. No evidence of commercial start through Nov 2026."
+  },
+  {
+   "action": "update",
+   "id": "antam-hkbcl-hpal-indonesia",
+   "fields": {
+    "project_state": "active",
+    "capacity_ref_year": 2028,
+    "jv_partners": "Indonesia Battery Corporation (IBC); Ningbo Contemporary Brunp Lygend (CBL, CATL-Brunp-Lygend); Antam 30% in the HPAL",
+    "source_url": "https://www.mysteel.net/news/5098862-flash-catl-and-antam-advance-integrated-nickel-smelter-project-with-19-billion-investment",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-09-17"
+   },
+   "evidence": {
+    "capacity": [
+     "S16"
+    ],
+    "capacity_ref_year": [
+     "S16"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC203] Mysteel 2025-09-17: CATL/Antam/IBC finalising FID on the East Halmahera integrated project; HPAL 'aims to produce 55,000 tonnes of Mixed Hydroxide Precipitate (MHP) per year' (the article's wording is MHP tonnes; other trade press says 55,000 t of nickel in MHP - basis unresolved, row keeps t Ni in MHP), Antam 30%, initial investment expected late 2025/early 2026, project completion targeted 2028 (summariser paraphrase of the article, not a verbatim quote -> ref year 2028 weakly evidenced). Search snippets: 30 Jan 2026 IBC framework agreement with Antam and HYD Investment (Huayou + EVE Energy), cell production from 20 GWh; Bisnis (2026-01-30): groundbreaking of the Antam-IBI-HYD project planned H1 2026 - no confirmation of physical works found. Status therefore stays announced (D-020). The June 2025 groundbreaking event (CATL-led, USD 5.9bn) was for the integrated programme incl. a West Java cell plant, not evidence of HPAL works."
+  },
+  {
+   "action": "update",
+   "id": "antam-feni-haltim-rkef-indonesia",
+   "fields": {
+    "project_state": "active",
+    "capacity_ref_year": 2027,
+    "source_url": "https://www.mysteel.net/news/5098862-flash-catl-and-antam-advance-integrated-nickel-smelter-project-with-19-billion-investment",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-09-17"
+   },
+   "evidence": {
+    "capacity_ref_year": [
+     "S17"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC203] Mysteel 2025-09-17: the East Halmahera RKEF part of the CATL/Antam/IBC project (USD 1.4bn, Antam 40% via PT Feni Haltim) is 'designed to produce 88,000 tonnes of Nickel Pig Iron (NPI) annually' and 'scheduled to begin operations in 2027'. Assumed to be this CGS row (ANTAM Feni Haltim, Buli park) - not confirmed. CAPACITY NOT CHANGED: CGS gives 13,500 t Ni-equivalent (gross FeNi 64,655 t) vs 88,000 t NPI (gross or contained unstated) - unresolved; unit/grade needed before any change. project_state paused -> active because the 2025 plan targets 2027; but Indonesia's PP 28/2025 and the May 2026 statement 'Indonesia is restricting new investment in nickel smelters producing intermediate products' (S32; scope vs under-construction projects not stated) is a risk; no works evidenced -> announced."
+  },
+  {
+   "action": "update",
+   "id": "teluk-metal-industry-indonesia",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "product": "mixed hydroxide precipitate (MHP)",
+    "capacity": 38640,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2027,
+    "jv_partners": "LS MnM, Hanwa and an undisclosed strategic investor (72.5% combined); Sumber International Investment 10%; Nickel Industries 17.5% (agreed 24 Jun 2026)",
+    "source_url": "https://news.metal.com/newscontent/103968146-SMM-Nickel-Flash-Nickel-Industries-Akuisisi-175-Saham-di-Proyek-PT-TMI-MHP-Mulai-Produksi-pada-Pertengahan-2027",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-24"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "capacity": [
+     "S18"
+    ],
+    "capacity_ref_year": [
+     "S18"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC203] PT Teluk Metal Industry (TMI), IMIP Morowali, is an HPAL/MHP project (CGS had it as 'HPAL -> Ni Sulfate', status Unclear, no capacity). SMM (2026-06-24, S18): 'TMI has an annual nominal capacity of 38,640 mt Ni', production expected mid-2027; Nickel Industries (17.5%) share ~6,775 t Ni/yr as MHP (Katadata 2026-06-26: 17.5% x 38,640 = 6,762, consistent -> contained Ni in MHP). Under construction rests on a search-summary tier statement ('construction of TMI is already underway', S21) - Katadata gives no TMI construction stage (it does for CNE) -> confidence <=0.5. Nameplate guaranteed by Sept 2027 (snippet). CGS gross output 272,700 t of this row duplicates ENC's CGS figure - the CGS entry may be a double of the ENC cluster; not used. Same site as ENC/CNE; coordinates from CGS kept."
+  },
+  {
+   "action": "add",
+   "id": "pt-chengsheng-new-energy-cne-hpal-indonesia",
+   "fields": {
+    "asset_name": "PT Chengsheng New Energy (CNE) HPAL (IMIP, next to ENC)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "mixed hydroxide precipitate (MHP)",
+    "asset_type": "HPAL",
+    "feedstock": "laterite ore",
+    "operator": "PT Chengsheng New Energy",
+    "parent_company": null,
+    "jv_partners": "Nickel Industries 36% (share-swap acquisition agreed 24 Jun 2026, subject to NIC board/EGM approval)",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "Central Sulawesi",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 28357,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2027,
+    "end_market": "battery",
+    "source_url": "https://katadata.co.id/amp/finansial/bursa/6a3e24ced6801/afaliasi-untr-borong-dua-smelter-hpal-di-morowali-bidik-produsen-nikel-nomor-1",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-26"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S20"
+    ],
+    "capacity_ref_year": [
+     "S19"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC203] Nickel Industries ASX 24 Jun 2026 (via SMM S20 and Katadata S19): CNE is an HPAL expansion on the same IMIP site as ENC producing MHP, 'annual capacity of 28,357 mt Ni' (Katadata: 'kapasitas produksi terpasang sebesar 28.357 ton nikel MHP per tahun'), 'still in the construction stage' and due to enter commissioning mid-2027. Parent/majority owner not established (SMM text names 'JAYA' acquiring 85.7% and a 36% swap stake - holder structure unclear; Jaya Agung Investasi is the seller per a search summary). No coordinates (same park as ENC; IMIP centroid not entered). Not in the CGS dataset. Province from IMIP location (Morowali, Central Sulawesi)."
+  },
+  {
+   "action": "add",
+   "id": "eramet-basf-sonic-bay-hpal-indonesia",
+   "fields": {
+    "asset_name": "Sonic Bay nickel-cobalt refining complex (Eramet-BASF, Weda Bay) - cancelled",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "nickel-cobalt intermediates for battery materials (HPAL + base metal refinery)",
+    "asset_type": "HPAL + refinery (project)",
+    "feedstock": "limonite laterite ore (Weda Bay)",
+    "operator": "Eramet / BASF (planned JV)",
+    "parent_company": "Eramet; BASF",
+    "jv_partners": "BASF; Eramet",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "province_state": "North Maluku",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2020,
+    "start_year": null,
+    "capacity": 67000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2024,
+    "end_market": "battery",
+    "source_url": "https://www.eramet.com/en/news/2024/06/eramet-and-basf-decide-against-joint-investment-in-a-nickel-cobalt-refining-complex-in-indonesia/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-06-24"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "project_state": [
+     "S22"
+    ],
+    "capacity": [
+     "S24"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC203] Eramet press release 2024-06-24: 'have decided against a joint investment in a nickel-cobalt refining complex' in Weda Bay -> cancelled (furthest stage reached: announced / feasibility). Capacity 67,000 t Ni (+ 7,500 t Co) is search-snippet tier only (S24); the opened Eramet 2020 release (S23) says '42,000 metric tons of nickel and 5,000 metric tons of cobalt annually' (the volume BASF would have accessed - likely a partner share, not the plant total). capacity_ref_year 2024 = year of cancellation (no target year); USD 2.6bn. Included so the cancellation is on record; contributes 0 to active pipeline."
+  },
+  {
+   "action": "add",
+   "id": "brazilian-nickel-piaui-nickel-project-brazil",
+   "fields": {
+    "asset_name": "Piaui Nickel Project (Brazilian Nickel / Piaui Niquel Metais)",
+    "step": "refining",
+    "commodity": "nickel",
+    "product": "mixed hydroxide precipitate (MHP, nickel-cobalt)",
+    "asset_type": "laterite mine + heap-leach hydrometallurgical plant (project)",
+    "feedstock": "nickel laterite ore",
+    "operator": "Brazilian Nickel (Piaui Niquel Metais)",
+    "parent_company": "Brazilian Nickel plc",
+    "jv_partners": null,
+    "country": "Brazil",
+    "region": "South America",
+    "province_state": "Piaui",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 27000,
+    "capacity_unit": "t Ni in MHP",
+    "capacity_ref_year": 2029,
+    "end_market": "battery",
+    "source_url": "https://www.riotimesonline.com/bndes-brazilian-nickel-piaui-financing-2026/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-07-14"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S25"
+    ],
+    "capacity_ref_year": [
+     "S25"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC203] The Rio Times 2026-07-14 (BNDES R$100m / ~US$19m approval): 'targets about 27,000 tonnes of nickel and 900 tonnes of cobalt a year'; first production 2028, fuller operation ~2029 (article notes other accounts put output later). Search summaries (not opened): needs ~US$1.4bn, fully financed not yet, construction planned to start late 2026 and first product H2 2029; DFC letter of interest up to US$550m; other sources give 1,000 t/y cobalt; product is MHP not nickel sulphate; IDB Invest page lists the project. Status announced: no construction evidenced. 2029 = fuller-operation year (conflicts: 2028 first production vs H2 2029). Cobalt 900 t/y not stored in row."
+  },
+  {
+   "action": "add",
+   "id": "canada-nickel-crawford-nickel-project-canada",
+   "fields": {
+    "asset_name": "Crawford nickel-cobalt project (Canada Nickel, Timmins)",
+    "step": "mining",
+    "commodity": "nickel",
+    "product": "nickel concentrate (Ni-Co-Cr project; processing route not verified)",
+    "asset_type": "open-pit nickel sulphide mine and mill (project)",
+    "feedstock": "nickel sulphide ore (Crawford deposit)",
+    "operator": "Canada Nickel Company",
+    "parent_company": "Canada Nickel Company",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Ontario",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 48000,
+    "capacity_unit": "t Ni",
+    "capacity_ref_year": 2029,
+    "end_market": "battery",
+    "source_url": "https://magazine.cim.org/en/news/2026/crawford-nickel-project-clears-federal-review-en/",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S26",
+     "S27"
+    ],
+    "capacity": [
+     "S26"
+    ],
+    "capacity_ref_year": [
+     "S26"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC203] CIM Magazine (2026, undated page; cites Canada Nickel release of 31 Jul 2026): 'annual output is projected to average about 48,000 tonnes of nickel' over the 27-year peak period (41-year life, ~1.6 Mt Ni); construction decision anticipated in 2027, production expected in 2029. Federal decision statement 31 Jul 2026 for 'an open-pit nickel-cobalt mine and on-site metal mill ... 42 kilometres north of Timmins' (S27). Search summaries: FID target Q3 2027 (one source) / year-end 2026 build start (older); first production Q4 2029; US$2.5bn plan not fully financed. Status announced (permitting, pre-FID). 48 kt is a 27-year average from the study, not first-year output; 2029 is the first-production year. Cobalt not quantified."
+  },
+  {
+   "action": "add",
+   "id": "cobalt-blue-kwinana-cobalt-refinery-australia",
+   "fields": {
+    "asset_name": "Kwinana cobalt refinery (Cobalt Blue / Iwatani), stage 1",
+    "step": "refining",
+    "commodity": "cobalt",
+    "product": "cobalt sulphate / cobalt metal (stage 1)",
+    "asset_type": "hydrometallurgical cobalt refinery (project)",
+    "feedstock": "cobalt intermediates / mixed sulphide",
+    "operator": "Cobalt Blue Holdings",
+    "parent_company": "Cobalt Blue Holdings",
+    "jv_partners": "Iwatani Australia (pre-FID partner)",
+    "country": "Australia",
+    "region": "Australia & Oceania",
+    "province_state": "Western Australia",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 3000,
+    "capacity_unit": "t Co",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.engineeringnews.co.za/article/kwinana-cobalt-refinery-australia-update-2026-10-23",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-10-23"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ],
+    "capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC203] Reported tier only (pages 403): as of Oct 2026 the Kwinana refinery was still pre-final-investment-decision; stage 1 planned at 3,000 t/y contained cobalt; WA works approval held; 19 Oct 2026 term sheet with STG Metals. capacity_ref_year 2026 = publication-year fallback (no target year found). No construction evidenced. Not counted unless the lead accepts reported-tier announced rows."
+  },
+  {
+   "action": "update",
+   "id": "lifezone-metals-kabanga-nickel-tanzania",
+   "fields": {
+    "source_url": "https://finviz.com/news/373882/lifezone-metals-announces-h1-2026-interim-financial-results",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-07-29"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC203] Lifezone H1 2026 results (2026-07-29): 'We now expect FID to take place during Q1 2027' (earlier guidance: mid-2026; then late 2026); Societe Generale-led project financing 'continued to progress well'; strategic equity talks (Standard Chartered) 'in an advanced stage'. Still pre-FID -> announced. Annual nickel tonnage not found in opened pages (search summary: FS July 2025, 3.4 Mtpa underground mine, reserves 52.2 Mt at 1.98% Ni, capex ~USD 950m-1.2bn); first production year not found, so capacity_ref_year left unchanged (2026 is the publication fallback, not a production year)."
+  },
+  {
+   "action": "update",
+   "id": "jervois-idaho-cobalt-operations-usa",
+   "fields": {
+    "source_url": "https://jervoisglobal.com/wp-content/uploads/2026/05/260501-Jervois-Sustainability-Report-2025.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-01"
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC203] Reported tier: Jervois 2025 Sustainability Report (May 2026) describes ICO as managed during care and maintenance; Idaho DEQ draft 2026 Points of Compliance revision reflects 'long-term care and maintenance'. No restart or sale process found for 2026; the same company is restarting its Sao Miguel Paulista (Brazil) nickel-cobalt refinery (operations forecast 2027, search snippet, not entered). Status/project_state unchanged (under_construction/paused)."
+  }
+ ]
+}

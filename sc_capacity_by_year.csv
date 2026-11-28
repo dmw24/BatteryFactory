@@ -112,8 +112,8 @@ mining,nickel,t Ni,2025,97000.0,137000.0,0.0,0.0,3
 mining,nickel,t Ni,2026,97000.0,162000.0,0.0,0.0,4
 mining,nickel,t Ni,2027,97000.0,162000.0,0.0,0.0,4
 mining,nickel,t Ni,2028,97000.0,162000.0,0.0,0.0,4
-mining,nickel,t Ni,2029,97000.0,162000.0,0.0,0.0,4
-mining,nickel,t Ni,2030,97000.0,162000.0,0.0,0.0,4
+mining,nickel,t Ni,2029,97000.0,162000.0,0.0,48000.0,5
+mining,nickel,t Ni,2030,97000.0,162000.0,0.0,48000.0,5
 mining,nickel,t ore,2025,0.0,42000000.0,0.0,0.0,1
 mining,nickel,t ore,2026,0.0,56300000.0,0.0,3400000.0,3
 mining,nickel,t ore,2027,0.0,56300000.0,0.0,3400000.0,3
@@ -168,11 +168,11 @@ refining,cobalt,t Co,2022,0.0,25000.0,0.0,0.0,2
 refining,cobalt,t Co,2023,0.0,35000.0,0.0,0.0,3
 refining,cobalt,t Co,2024,0.0,35000.0,0.0,0.0,3
 refining,cobalt,t Co,2025,0.0,40500.0,0.0,0.0,5
-refining,cobalt,t Co,2026,0.0,57500.0,2000.0,0.0,8
-refining,cobalt,t Co,2027,0.0,57500.0,7120.0,0.0,9
-refining,cobalt,t Co,2028,0.0,57500.0,7120.0,0.0,9
-refining,cobalt,t Co,2029,0.0,57500.0,7120.0,0.0,9
-refining,cobalt,t Co,2030,0.0,57500.0,7120.0,0.0,9
+refining,cobalt,t Co,2026,0.0,57500.0,2000.0,3000.0,9
+refining,cobalt,t Co,2027,0.0,57500.0,7120.0,3000.0,10
+refining,cobalt,t Co,2028,0.0,57500.0,7120.0,3000.0,10
+refining,cobalt,t Co,2029,0.0,57500.0,7120.0,3000.0,10
+refining,cobalt,t Co,2030,0.0,57500.0,7120.0,3000.0,10
 refining,graphite,t graphite,2022,0.0,6500.0,0.0,0.0,1
 refining,graphite,t graphite,2023,0.0,56500.0,0.0,0.0,2
 refining,graphite,t graphite,2024,0.0,56500.0,0.0,0.0,2
@@ -214,18 +214,18 @@ refining,nickel,t Ni,2023,66000.0,110961.0,0.0,0.0,3
 refining,nickel,t Ni,2024,66000.0,110961.0,0.0,0.0,3
 refining,nickel,t Ni,2025,372000.0,1312561.0,0.0,20000.0,28
 refining,nickel,t Ni,2026,372000.0,1656551.0,72000.0,143000.0,34
-refining,nickel,t Ni,2027,372000.0,1656551.0,72000.0,143000.0,34
-refining,nickel,t Ni,2028,372000.0,1656551.0,72000.0,143000.0,34
-refining,nickel,t Ni,2029,372000.0,1656551.0,72000.0,143000.0,34
-refining,nickel,t Ni,2030,372000.0,1656551.0,72000.0,143000.0,34
+refining,nickel,t Ni,2027,372000.0,1656551.0,72000.0,156500.0,35
+refining,nickel,t Ni,2028,372000.0,1656551.0,72000.0,156500.0,35
+refining,nickel,t Ni,2029,372000.0,1656551.0,72000.0,156500.0,35
+refining,nickel,t Ni,2030,372000.0,1656551.0,72000.0,156500.0,35
 refining,nickel (intermediate),t Ni,2023,0.0,54000.0,0.0,0.0,1
 refining,nickel (intermediate),t Ni,2024,0.0,54000.0,0.0,0.0,1
-refining,nickel (intermediate),t Ni,2025,155000.0,566300.0,202900.0,55000.0,15
-refining,nickel (intermediate),t Ni,2026,155000.0,566300.0,578900.0,95000.0,22
-refining,nickel (intermediate),t Ni,2027,155000.0,566300.0,578900.0,155000.0,23
-refining,nickel (intermediate),t Ni,2028,155000.0,566300.0,578900.0,155000.0,23
-refining,nickel (intermediate),t Ni,2029,155000.0,566300.0,578900.0,155000.0,23
-refining,nickel (intermediate),t Ni,2030,155000.0,566300.0,578900.0,155000.0,23
+refining,nickel (intermediate),t Ni,2025,155000.0,566300.0,135900.0,0.0,13
+refining,nickel (intermediate),t Ni,2026,155000.0,566300.0,392900.0,40000.0,19
+refining,nickel (intermediate),t Ni,2027,155000.0,566300.0,705897.0,40000.0,24
+refining,nickel (intermediate),t Ni,2028,155000.0,566300.0,705897.0,95000.0,25
+refining,nickel (intermediate),t Ni,2029,155000.0,566300.0,705897.0,122000.0,26
+refining,nickel (intermediate),t Ni,2030,155000.0,566300.0,705897.0,122000.0,26
 separator,separator,Mm2,2021,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2022,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2023,680.0,1230.0,0.0,0.0,2
