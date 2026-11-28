@@ -1,0 +1,462 @@
+{
+ "task": "SC198",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://allafrica.com/stories/202606010340.html",
+   "publisher": "Tanzania Daily News via AllAfrica, 'Tanzania: Goverment Gains Stake in Lindi Graphite Project' (Lindi Jumbo director quoted; 'last year' relative to a 1 June 2026 article = 2025; quote returned by the fetch tool, which limits quotations to 125 characters)",
+   "published": "2026-06-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "the mine processed nearly 170,000 dry tonnes of ore and produced 16,421 tonnes of graphite concentrate"
+  },
+  "S2": {
+   "url": "https://www.northerngraphite.com/?p=6393",
+   "publisher": "Northern Graphite Corporation - 2025 Year-End Results (press release)",
+   "published": "2026-05-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Concentrate production fell to 5,938 tonnes in 2025, compared to 11,697 tonnes in the prior year period",
+   "tier": "reported",
+   "snippet": "Concentrate production fell to 5,938 tonnes in 2025, compared to 11,697 tonnes in the prior year period",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S3": {
+   "url": "https://www.northerngraphite.com/?p=6393",
+   "publisher": "Northern Graphite Corporation - 2025 Year-End Results (press release)",
+   "published": "2026-05-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "temporarily placed the mine and plant on care and maintenance to accelerate development work",
+   "tier": "reported",
+   "snippet": "temporarily placed the mine and plant on care and maintenance to accelerate development work",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S4": {
+   "url": "https://www.investegate.co.uk/announcement/rns/total-graphite-plc--tgr/final-results-for-year-ended-31-march-2026/9697067",
+   "publisher": "Total Graphite plc (formerly Tirupati Graphite plc) - Final Results for year ended 31 March 2026 (RNS, 31 Jul 2026). The RNS text itself was not readable; wording taken from a web-search result summary that quotes it (the unit prints as 'Mt' in the summary; read as tonnes because the prior-year figure 2,169 equals the earlier 2,169 t FY2025 production).",
+   "published": "2026-07-31",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The Group produced 2,964 Mt of graphite during the year ended 31 March 2026 (2025: 2,169 Mt)."
+  },
+  "S5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-08/1225083106.PDF",
+   "publisher": "Huayou Cobalt 2025 annual report, section 'own mines' table (local text team/evidence/filings/603799_.txt, lines 1143-1146; the column header is 年产量 = annual output)",
+   "published": "2026-04-08",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "矿山名称 资源量 储量 品位 年产量 ... 津巴布韦 Arcadia 矿山 ... 1.34% 450 万吨 11.1 年 永续"
+  },
+  "S6": {
+   "url": "https://www.iisd.org/system/files/2026-07/commodity-profile-natural-graphite.pdf",
+   "publisher": "IGF/IISD Commodity Profile: Natural Graphite, section 1.3 (chart values from Benchmark Mineral Intelligence 2025 custom data set; text read from the rendered page image, the PDF has no text layer)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Top five natural graphite-producing companies by global production share ('000 mt, % share, 2024)"
+  },
+  "S7": {
+   "url": "https://www.metalnomist.com/2026/06/china-graphite-spherical-graphite.html",
+   "publisher": "The Metalnomist - China Graphite spherical graphite output falls as natural anode demand weakens (trade blog; cites China Graphite Group's results without naming the filing)",
+   "published": "2026-06-20",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The company produced 57,600t of natural graphite flake in 2025, up 10.8% from a year earlier."
+  },
+  "S8": {
+   "url": "https://aapnews.aap.com.au/news/surging-lithium-price-prompts-mines-to-restart-m-a",
+   "publisher": "AAP - Surging lithium price prompts mines to restart (Bald Hill / Finniss; page carries no printed date, image path suggests 20 May 2026)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "was similarly placed in care and maintenance mode in November 2024"
+  },
+  "S9": {
+   "url": "https://aapnews.aap.com.au/news/surging-lithium-price-prompts-mines-to-restart-m-a",
+   "publisher": "AAP - Surging lithium price prompts mines to restart (Bald Hill / Finniss)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "announced it had recommenced mining at its Finniss lithium operation, south of Darwin"
+  },
+  "S10": {
+   "url": "https://www.mining.com/core-lithium-restarts-finniss-mine-on-price-rebound/",
+   "publisher": "Mining.com - Core Lithium restarts Finniss mine on price rebound (page not opened, HTTP 403; wording from a web-search result summary)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Finniss was placed on care and maintenance in 2024 following a steep downturn in lithium prices that began in late 2023."
+  },
+  "S11": {
+   "url": "https://www.riotinto.com/en/operations/anz/western-australia/mt-cattlin",
+   "publisher": "Rio Tinto - Mt Cattlin operations page (undated)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "was placed into care and maintenance in 2025 due to lower spodumene prices"
+  },
+  "S12": {
+   "url": "https://investingnews.com/sherritt-reports-fourth-quarter-and-full-year-2025-results-provides-2026-guidance/",
+   "publisher": "Sherritt International - Fourth Quarter and Full Year 2025 Results (press release via InvestingNews)",
+   "published": "2026-02-10",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Full year 2025 production reached 25,240 tonnes of nickel and 2,728 tonnes of cobalt (100% basis)"
+  },
+  "S13": {
+   "url": "https://investingnews.com/sherritt-reports-fourth-quarter-and-full-year-2025-results-provides-2026-guidance/",
+   "publisher": "Sherritt International - Fourth Quarter and Full Year 2025 Results (press release via InvestingNews)",
+   "published": "2026-02-10",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Mixed sulphides production at the Moa JV was 12,650 tonnes of contained nickel and cobalt"
+  },
+  "S14": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0401/2026040101682.pdf",
+   "publisher": "CMOC Group 2025 annual report, resources and reserves table (local text team/evidence/filings/HK_3993_AR2025.txt, lines 2296-2304; column header 'Ore throughput for the year (mt)')",
+   "published": "2026-04-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "TFM Copper and Cobalt Copper 1,316.0 2.25 2,957.3 220.4 2.88 635.0 ... 24.3 9.1 0.5/9 years"
+  },
+  "S15": {
+   "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0401/2026040101682.pdf",
+   "publisher": "CMOC Group 2025 annual report, resources and reserves table (local text team/evidence/filings/HK_3993_AR2025.txt, lines 2296-2307; column header 'Ore throughput for the year (mt)')",
+   "published": "2026-04-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "KFM Copper and Cobalt Copper 223.9 1.79 400.8 180.1 1.88 339.1 ... 6.9 17.0 21 years"
+  },
+  "S16": {
+   "url": "https://clubofmozambique.com/news/mozambique-h1-graphite-production-for-evs-more-than-all-2025-production/",
+   "publisher": "Club of Mozambique (Lusa) - Mozambique H1 graphite production for EVs more than all 2025 production",
+   "published": "2026-09-21",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "By 2025, domestic graphite production had almost doubled, rising 92% to 67,078 tonnes, up from 34,899 tonnes in 2024."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "lindi-jumbo-ltd-lindi-jumbo-tanzania",
+   "fields": {
+    "production": 16421,
+    "production_unit": "t graphite",
+    "production_year": 2025,
+    "production_norm": null
+   },
+   "evidence": {
+    "production": [
+     "S1"
+    ]
+   },
+   "notes": "[SC198] 2025 concentrate output 16,421 t (94-96% TGC) from ~170 kt dry ore processed, per the mine's director (Tanzania Daily News 2026-06-01; 'last year' = 2025). It replaces the 2024 figure 38,140 t, which was USGS-reported exports, not output. Sales orders >27,800 t were also stated (not recorded). Quote came through the fetch tool's 125-character excerpt, not a full-page read. GAP: USGS MCS 2026 gives Tanzania 75 kt for 2025e, i.e. 4.6x this mine's output; no second producer with a figure was found (a minister statement of 25,000 t from two mines, Lindi Jumbo and God Mwanga, is undated). Likely USGS counts exports/stockpile sales; unresolved."
+  },
+  {
+   "action": "update",
+   "id": "northern-graphite-lac-des-iles-canada",
+   "fields": {
+    "production": 5938,
+    "production_unit": "t graphite",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S2"
+    ],
+    "status": [
+     "S3"
+    ]
+   },
+   "notes": "[SC198] Northern Graphite 2025 year-end release (2026-05-01): concentrate production 5,938 t in 2025 (2024: 11,697 t); sales 8,780 t of concentrate sold (-29%), so sales exceeded production by drawing inventory; quarterly production reported 1,211 t (Q1), 2,142 t (Q2), 2,325 t (Q3), Q4 not separately read. The release says the mine and plant were temporarily placed on care and maintenance after Q4 overburden stripping, with mining to resume around end-June 2026. USGS Canada 2025e 8 kt is closer to 2025 sales (8.8 kt) than to production (5.9 kt)."
+  },
+  {
+   "action": "update",
+   "id": "tirupati-vatomina-madagascar",
+   "fields": {
+    "production": 2964,
+    "production_unit": "t graphite",
+    "production_year": 2026,
+    "production_norm": null
+   },
+   "evidence": {
+    "production": [
+     "S4"
+    ]
+   },
+   "notes": "[SC198] Total Graphite plc (formerly Tirupati) final results for the year ended 31 March 2026: Group production 2,964 t (FY ended 31 Mar 2025: 2,169 t). Group figure = Vatomina essentially (Sahamamy has been on care and maintenance since 2024). production_year 2026 = fiscal year Apr 2025-Mar 2026 (D-104: nine of twelve months fall in 2025). Search-result snippet only (RNS page not readable; unit prints 'Mt'), hence reported tier. Search results also say operations were paused Sep 2025 to Mar 2026 for equipment installation, restarted end-March 2026, then suspended again in July 2026 with a restart above 1,000 t/month targeted for December 2026 (Mining Weekly/Engineering News 2026-07-17, snippets only; project_state not changed here)."
+  },
+  {
+   "action": "update",
+   "id": "china-minmetals-graphite-yunshan-china",
+   "fields": {
+    "production": 222000,
+    "production_unit": "t graphite",
+    "production_year": 2024
+   },
+   "evidence": {
+    "production": [
+     "S6"
+    ]
+   },
+   "notes": "[SC198] IGF/IISD commodity profile (2026), chart 'Top five natural graphite-producing companies' from Benchmark Mineral Intelligence 2025 custom data set: 'Minmetals (China)' 222 kt in 2024, the largest producer; mapped here to the Yunshan mine because Minmetals' graphite business is the Yunshan/Hegang operation (mapping not stated in the source). Chart values read from the rendered page (no text layer). Basis (concentrate vs ore) is not stated; assumed concentrate like the other companies on the chart. The 222 kt exceeds the row's 200 kt concentrator capacity and is consistent with the 280 kt figure in the 2025-08 Science and Technology Daily item (see row notes). The chart's percentages (44/17/13/13/12) are shares of the five-company total, not of global output as labelled. Source states 2024; no 2025 company figure found. [lead] company-level Benchmark figure mapped to Yunshan by the researcher — confidence 0.4.",
+   "confidence": 0.4
+  },
+  {
+   "action": "update",
+   "id": "china-graphite-group-beishan-mine-china",
+   "fields": {
+    "production": 57600,
+    "production_unit": "t graphite",
+    "production_year": 2025,
+    "production_norm": null
+   },
+   "evidence": {
+    "production": [
+     "S7"
+    ]
+   },
+   "notes": "[SC198] The Metalnomist (2026-06-20), reporting China Graphite Group (HKEX 2237) results: 57,600 t of natural graphite flake produced in 2025 (+10.8% y/y); flake sales 46,020 t (+1.3%). Company-level flake output from this single mine-and-plant complex (the company's other products are spherical graphite, separate row). Replaces the earlier ore figure (258,300 t ore, 2021). Source is a trade blog that names no filing; the HKEX FY2025 results announcement was not located, so confidence stays moderate. Spherical graphite sales 5,815 t were also given (not a mining figure)."
+  },
+  {
+   "action": "add",
+   "id": "qingdao-jinhui-graphite-china",
+   "fields": {
+    "asset_name": "Qingdao Jinhui Graphite - natural flake graphite production (site not identified)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite concentrate",
+    "asset_type": "graphite mining and concentrating operation (mine location not verified)",
+    "feedstock": "graphite ore",
+    "operator": "Qingdao Jinhui Graphite Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "geo_precision": "none",
+    "status": "operational",
+    "production": 85000,
+    "production_unit": "t graphite",
+    "production_year": 2024,
+    "end_market": "battery and industrial",
+    "source_url": "https://www.iisd.org/system/files/2026-07/commodity-profile-natural-graphite.pdf",
+    "source_date": "2026-11-28"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "production": [
+     "S6"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Second-largest natural graphite producer in the Benchmark 2025 custom data set shown in the IGF/IISD commodity profile: 85 kt in 2024 (chart value read from the rendered page). The source gives only the company name; mine name, location, parent, capacity and ownership are NOT known (a web-search snippet links Jinhui to Luobei, Heilongjiang, and says its Luobei Yunshan Carbon subsidiary was restructured in 2022 - not verified, so province left null). Added so the China coverage check is not understated; basis (ore vs concentrate) assumed concentrate. Possible overlap with another China row cannot be excluded because no site is named."
+  },
+  {
+   "action": "add",
+   "id": "shuangyashan-zhongshuang-graphite-china",
+   "fields": {
+    "asset_name": "Shuangyashan Zhongshuang Graphite - natural flake graphite production (site not identified)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite concentrate",
+    "asset_type": "graphite mining and concentrating operation (mine location not verified)",
+    "feedstock": "graphite ore",
+    "operator": "Shuangyashan Zhongshuang Graphite Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Shuangyashan, taken from the company name only)",
+    "geo_precision": "none",
+    "status": "operational",
+    "production": 67000,
+    "production_unit": "t graphite",
+    "production_year": 2024,
+    "end_market": "battery and industrial",
+    "source_url": "https://www.iisd.org/system/files/2026-07/commodity-profile-natural-graphite.pdf",
+    "source_date": "2026-11-28"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "production": [
+     "S6"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Third-largest producer in the Benchmark 2025 custom data set shown in the IGF/IISD commodity profile: 67 kt in 2024 (chart value read from the rendered page). Source gives only the company name; Heilongjiang/Shuangyashan is inferred from the name (a web search found nothing further on this company). Parent, mine name, capacity unknown. Basis (ore vs concentrate) assumed concentrate."
+  },
+  {
+   "action": "add",
+   "id": "luobei-haida-graphite-china",
+   "fields": {
+    "asset_name": "Luobei Country Haida Graphite - natural flake graphite production (site not identified)",
+    "step": "mining",
+    "commodity": "graphite",
+    "product": "natural flake graphite concentrate",
+    "asset_type": "graphite mining and concentrating operation (mine location not verified)",
+    "feedstock": "graphite ore",
+    "operator": "Luobei Country Haida Graphite Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Heilongjiang (Luobei, taken from the company name only)",
+    "geo_precision": "none",
+    "status": "operational",
+    "production": 61000,
+    "production_unit": "t graphite",
+    "production_year": 2024,
+    "end_market": "battery and industrial",
+    "source_url": "https://www.iisd.org/system/files/2026-07/commodity-profile-natural-graphite.pdf",
+    "source_date": "2026-11-28"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "production": [
+     "S6"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Fifth-largest producer in the Benchmark 2025 custom data set shown in the IGF/IISD commodity profile: 61 kt in 2024 (company name printed as 'Luobei Country Haida Graphite Co., Ltd.'; chart value read from the rendered page). Luobei, Heilongjiang is inferred from the name. Possibly the mining arm of the Qingdao Haida graphite group (an existing Pingdu spherical-graphite row has a similar name) - relationship NOT verified, no parent recorded. Basis (ore vs concentrate) assumed concentrate."
+  },
+  {
+   "action": "update",
+   "id": "syrah-balama-mozambique",
+   "fields": {},
+   "evidence": {
+    "production": [
+     "S16"
+    ]
+   },
+   "notes": "[SC198] Corroboration only, no field change: Mozambique government data via Lusa/Club of Mozambique (2026-09-21) gives national graphite output 67,078 t in 2025 (34,899 t in 2024), equal to Syrah's 67,000 t, i.e. Balama is effectively all of Mozambique's 2025 output. USGS MCS 2026 has Mozambique 2025e 60 kt (6 kt lower). The IISD/USGS fact sheet shows 75 kt for Mozambique in 2024, which conflicts with the government 34.9 kt for 2024 (and with USGS MCS 2026's 39 kt); not resolved. No 2025 output found for the second Mozambique mine (Ancuabe, AMG), consistent with its reported shutdown."
+  },
+  {
+   "action": "update",
+   "id": "huayou-arcadia-mine-zimbabwe",
+   "fields": {
+    "production": 4500000,
+    "production_unit": "t ore",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S5"
+    ]
+   },
+   "notes": "[SC198] Huayou 2025 annual report own-mines table: Arcadia annual output (年产量) 450万 t (4.5 Mt of ore; same table gives resource 66.85 Mt, reserve 50.22 Mt at 1.34% and 11.1 years remaining life = reserve / 4.5 Mt, so this may be the planned mining rate used for the reserve-life calculation rather than a measured 2025 tonnage; confidence low). Ore is not convertible to LCE without a mill-feed grade and recovery, so production_norm stays unset. Concentrate output: only a partial-year figure was found - Q1 2025 spodumene concentrates 128,348.68 t (Jan 34,057 t, Feb 43,791.68 t, Mar 50,500 t; Mining Zimbabwe 2025-06-13, https://miningzimbabwe.com/?p=28368, quote 'reporting 128,348.68 tonnes of spodumene concentrates in the first quarter') - not recorded as annual production. A 9,200 t cargo reached Yulin port on 2025-09-18 (search snippet). Huayou's AR gives no 2025 concentrate tonnage. Zimbabwe national spodumene exports were 1.128 Mt in 2025 (see Sabi Star row)."
+  },
+  {
+   "action": "update",
+   "id": "yahua-kamativi-mine-zimbabwe",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC198] Re-checked Yahua 2025 AR (002497_2025.txt lines 572, 1204-1206): Phase 2 fully built in 2024, 2.3 Mt/yr ore throughput, 'about 350,000 t/yr' lithium concentrate, reached design output in H2 2025; no 2025 concentrate output tonnage is disclosed (the only production table, line 2054, is lithium salts: 68,615 t). Yahua's June 2026 statement that Kamativi kept producing normally during the Zimbabwe export ban is search-snippet level. Production left null."
+  },
+  {
+   "action": "update",
+   "id": "sinomine-bikita-mine-zimbabwe",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC198] Searched again for 2025 Bikita concentrate output (English and Chinese): nothing beyond SC030/SC101 findings. Sinomine's H1-2026 statements (Reuters via Mining Weekly/Kitco) say Bikita supply returned to normal after Feb-Apr 2026 stoppages and that two 2 Mt/yr expansion plants (lithium feldspar and spodumene) were completed on 6-7 July 2026 (search snippets, not opened). Production left null."
+  },
+  {
+   "action": "update",
+   "id": "hainan-mining-bougouni-mine-mali",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC198] Search-snippet level only, nothing recorded as production: Kodal reported first spodumene concentrate in Feb 2025, first export cargo loaded at San Pedro (Cote d'Ivoire) in Nov 2025, about 69,000 t exported by the third cargo; quarterly output 26,981 t at 5.28% Li2O (Mar-2026 quarter) and 26,174 dmt at 5.34% Li2O (Jun-2026 quarter, YTD 53,195 dmt; below budget after crusher breakdowns). The Dec-2025 quarter and full-year 2025 production were not located, and only half of 2026 is reported, so no annual figure is set. USGS Mali 2025e 9,400 t Li (about 50 kt LCE)."
+  },
+  {
+   "action": "update",
+   "id": "mineral-resources-bald-hill-australia",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC198] AAP: Bald Hill 'was similarly placed in care and maintenance mode in November 2024' and MinRes announced a restart in 2026. Production 2025 = 0 is INFERRED from care and maintenance covering all of 2025 (no stockpile-processing statement found); not a reported zero. [lead] inferred zero output not stored (no reported figure); care and maintenance noted."
+  },
+  {
+   "action": "update",
+   "id": "core-lithium-finniss-australia",
+   "fields": {},
+   "evidence": {},
+   "notes": "[SC198] AAP (page undated, ~May 2026): Core 'announced it had recommenced mining at its Finniss lithium operation'; search-result summary of Mining.com says Finniss was placed on care and maintenance in 2024 and that first concentrate delivery is targeted Oct-Dec 2026. Production 2025 = 0 is INFERRED from care and maintenance covering all of 2025 (restart study completed Sep 2025); not a reported zero. [lead] inferred zero output not stored (no reported figure); care and maintenance noted."
+  },
+  {
+   "action": "update",
+   "id": "rio-tinto-mt-cattlin-australia",
+   "fields": {
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ]
+   },
+   "notes": "[SC198] Rio Tinto operations page: Mt Cattlin 'was placed into care and maintenance in 2025 due to lower spodumene prices' (a Rio resources/reserves notice seen in search results gives 1 July 2025; not opened). 2025 output (first half only) is not disclosed in anything opened, so production left null; the Mining Data Online series is paywalled."
+  },
+  {
+   "action": "update",
+   "id": "sherritt-moa-jv-cuba",
+   "fields": {
+    "production": 2728,
+    "production_unit": "t Co",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S12"
+    ]
+   },
+   "notes": "[SC198] Sherritt FY2025 release (2026-02-10): finished cobalt 2,728 t in 2025 on a 100% Moa JV basis (Q4 Sherritt share 424 t = 849 t at 100%). This is REFINED output at Fort Saskatchewan (same 2,728 t already on the sherritt-fort-saskatchewan refinery row), used as the best open proxy for Moa's cobalt because the cobalt content of the mixed sulphides is not disclosed. Do not add this row's production to the refinery row (different steps, same metal). Mixed sulphides output was 12,650 t contained nickel plus cobalt at Sherritt's 50% share (15,847 t in 2024), i.e. about 25,300 t at 100%; the refinery also processes some third-party feed (finished Ni+Co 27,968 t vs about 25,300 t MSP), so finished > MSP. USGS Cuba cobalt 2025e is 2,000 t."
+  },
+  {
+   "action": "update",
+   "id": "moa-jv-moa-nickel-cuba",
+   "fields": {
+    "production": 25240,
+    "production_unit": "t Ni",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S12",
+     "S13"
+    ]
+   },
+   "notes": "[SC198] Sherritt FY2025 release (2026-02-10): finished nickel 25,240 t in 2025 (100% basis; Sherritt share 12,620 t; Sherritt says output was at the lower end of its revised 2025 guidance). REFINED output at Fort Saskatchewan used as proxy for Moa nickel; the mixed sulphides themselves were 12,650 t contained Ni+Co at Sherritt's 50% share (about 25,300 t at 100%, nickel/cobalt split not disclosed). Treat as an approximation of mine output, not a mine measurement; do not sum with the refinery row."
+  },
+  {
+   "action": "update",
+   "id": "cmoc-tenke-fungurume-tfm-drc",
+   "fields": {
+    "production": 24300000,
+    "production_unit": "t ore",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S14"
+    ]
+   },
+   "notes": "[SC198] CMOC 2025 AR (HK_3993_AR2025.txt lines 2296-2304): TFM ore throughput for the year 24.3 Mt (reserve grade 0.29% Co, 2.88% Cu); the AR does NOT give cobalt output per mine (group 117,549 t Co, SC025). The same AR (lines 2518-2519) gives 'mining volume' of 24.5454 Mt for TFM vs 15.6098 Mt for KFM; for KFM the mining volume is much higher than throughput (6.9 Mt), so throughput is used. DERIVED, NOT LOADED (indicative split of the group total): contained Co in throughput at reserve grade = TFM 24.3 Mt x 0.29% = 70.5 kt vs KFM 6.9 Mt x 0.92% = 63.5 kt (sum 134 kt vs 117.5 kt reported output, 88% implied recovery); pro-rata that is about TFM 62 kt (53%) and KFM 56 kt (47%) of 117.5 kt. Reserve grade is not feed grade, so treat as +/-15%. No open per-mine statement of TFM vs KFM cobalt 2025 was found."
+  },
+  {
+   "action": "update",
+   "id": "cmoc-kisanfu-kfm-drc",
+   "fields": {
+    "production": 6900000,
+    "production_unit": "t ore",
+    "production_year": 2025
+   },
+   "evidence": {
+    "production": [
+     "S15"
+    ]
+   },
+   "notes": "[SC198] CMOC 2025 AR (HK_3993_AR2025.txt lines 2296-2307): KFM ore throughput for the year 6.9 Mt (reserve grade 0.92% Co, 1.88% Cu; reserves 180.1 Mt net of 2025 depletion; 17.0 years remaining is calculated on post-Phase-II theoretical capacity per AR note 3). Cobalt output per mine is not disclosed; see the TFM row for the derived, unloaded indicative split (KFM about 47% of the 117.5 kt group cobalt)."
+  }
+ ]
+}
