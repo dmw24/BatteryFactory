@@ -5,9 +5,9 @@ anode,anode,t anode,2024,126000.0,195250.0,0.0,0.0,5
 anode,anode,t anode,2025,804750.0,1452750.0,30300.0,100000.0,20
 anode,anode,t anode,2026,812950.0,2378450.0,340300.0,773000.0,36
 anode,anode,t anode,2027,812950.0,2378450.0,352800.0,1293000.0,39
-anode,anode,t anode,2028,812950.0,2378450.0,352800.0,1877500.0,45
-anode,anode,t anode,2029,812950.0,2378450.0,352800.0,2497000.0,47
-anode,anode,t anode,2030,812950.0,2378450.0,352800.0,2497000.0,47
+anode,anode,t anode,2028,812950.0,2378450.0,352800.0,1837500.0,44
+anode,anode,t anode,2029,812950.0,2378450.0,352800.0,2457000.0,46
+anode,anode,t anode,2030,812950.0,2378450.0,352800.0,2457000.0,46
 anode,graphite,t graphite,2026,0.0,0.0,0.0,10000.0,1
 anode,graphite,t graphite,2027,0.0,0.0,0.0,47000.0,2
 anode,graphite,t graphite,2028,0.0,0.0,0.0,47000.0,2
@@ -17,21 +17,21 @@ cathode,cathode,t CAM,2018,0.0,100000.0,0.0,0.0,1
 cathode,cathode,t CAM,2019,0.0,100000.0,0.0,0.0,1
 cathode,cathode,t CAM,2020,0.0,100000.0,0.0,0.0,1
 cathode,cathode,t CAM,2021,100000.0,200000.0,0.0,0.0,2
-cathode,cathode,t CAM,2022,210000.0,310000.0,54000.0,900000.0,7
-cathode,cathode,t CAM,2023,265000.0,581000.0,84000.0,900000.0,15
-cathode,cathode,t CAM,2024,400000.0,686000.0,84000.0,900000.0,17
-cathode,cathode,t CAM,2025,1064060.0,1684060.0,491500.0,900000.0,38
-cathode,cathode,t CAM,2026,1816060.0,3352060.0,1910500.0,4615000.0,71
-cathode,cathode,t CAM,2027,1816060.0,3382060.0,2030500.0,4705000.0,74
-cathode,cathode,t CAM,2028,1816060.0,3382060.0,2030500.0,5295000.0,78
-cathode,cathode,t CAM,2029,1816060.0,3382060.0,2030500.0,5295000.0,78
-cathode,cathode,t CAM,2030,1816060.0,3382060.0,2030500.0,5295000.0,78
+cathode,cathode,t CAM,2022,210000.0,310000.0,0.0,0.0,3
+cathode,cathode,t CAM,2023,335000.0,581000.0,0.0,0.0,10
+cathode,cathode,t CAM,2024,470000.0,686000.0,0.0,0.0,12
+cathode,cathode,t CAM,2025,1134060.0,1684060.0,407500.0,0.0,33
+cathode,cathode,t CAM,2026,1796060.0,3352060.0,1826500.0,3540000.0,65
+cathode,cathode,t CAM,2027,1796060.0,3382060.0,1926500.0,3630000.0,68
+cathode,cathode,t CAM,2028,1796060.0,3382060.0,1926500.0,4220000.0,72
+cathode,cathode,t CAM,2029,1796060.0,3382060.0,1926500.0,4220000.0,72
+cathode,cathode,t CAM,2030,1796060.0,3382060.0,1926500.0,4220000.0,72
 electrolyte,LiPF6,t LiPF6,2025,69000.0,69000.0,0.0,0.0,4
-electrolyte,LiPF6,t LiPF6,2026,69000.0,84000.0,0.0,60000.0,6
-electrolyte,LiPF6,t LiPF6,2027,69000.0,84000.0,0.0,60000.0,6
-electrolyte,LiPF6,t LiPF6,2028,69000.0,84000.0,0.0,60000.0,6
-electrolyte,LiPF6,t LiPF6,2029,69000.0,84000.0,0.0,60000.0,6
-electrolyte,LiPF6,t LiPF6,2030,69000.0,84000.0,0.0,60000.0,6
+electrolyte,LiPF6,t LiPF6,2026,69000.0,84000.0,0.0,10000.0,5
+electrolyte,LiPF6,t LiPF6,2027,69000.0,84000.0,0.0,10000.0,5
+electrolyte,LiPF6,t LiPF6,2028,69000.0,84000.0,0.0,10000.0,5
+electrolyte,LiPF6,t LiPF6,2029,69000.0,84000.0,0.0,10000.0,5
+electrolyte,LiPF6,t LiPF6,2030,69000.0,84000.0,0.0,10000.0,5
 electrolyte,electrolyte,t electrolyte,2017,0.0,20000.0,0.0,0.0,1
 electrolyte,electrolyte,t electrolyte,2018,0.0,20000.0,0.0,0.0,1
 electrolyte,electrolyte,t electrolyte,2019,0.0,20000.0,0.0,0.0,1
@@ -49,11 +49,11 @@ electrolyte,electrolyte,t electrolyte,2030,1531000.0,2560000.0,700000.0,1550000.
 foil,copper foil,t copper foil,2023,0.0,97000.0,57000.0,0.0,3
 foil,copper foil,t copper foil,2024,30000.0,150000.0,57000.0,0.0,6
 foil,copper foil,t copper foil,2025,30000.0,180000.0,57000.0,0.0,7
-foil,copper foil,t copper foil,2026,135000.0,520000.0,57000.0,142500.0,15
-foil,copper foil,t copper foil,2027,135000.0,520000.0,57000.0,197500.0,17
-foil,copper foil,t copper foil,2028,135000.0,520000.0,57000.0,197500.0,17
-foil,copper foil,t copper foil,2029,135000.0,520000.0,57000.0,197500.0,17
-foil,copper foil,t copper foil,2030,135000.0,520000.0,57000.0,197500.0,17
+foil,copper foil,t copper foil,2026,135000.0,520000.0,57000.0,92500.0,14
+foil,copper foil,t copper foil,2027,135000.0,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2028,135000.0,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2029,135000.0,520000.0,57000.0,147500.0,16
+foil,copper foil,t copper foil,2030,135000.0,520000.0,57000.0,147500.0,16
 mining,cobalt,t Co,2024,5000.0,5000.0,0.0,0.0,1
 mining,cobalt,t Co,2025,28000.0,36000.0,0.0,0.0,3
 mining,cobalt,t Co,2026,36000.0,48700.0,0.0,0.0,5
@@ -68,14 +68,14 @@ mining,cobalt,t ore,2028,0.0,2100000.0,0.0,0.0,1
 mining,cobalt,t ore,2029,0.0,2100000.0,0.0,0.0,1
 mining,cobalt,t ore,2030,0.0,2100000.0,0.0,0.0,1
 mining,graphite,t graphite,2022,0.0,8400.0,0.0,0.0,1
-mining,graphite,t graphite,2023,80000.0,100400.0,0.0,24780.0,4
-mining,graphite,t graphite,2024,80000.0,100400.0,0.0,24780.0,4
-mining,graphite,t graphite,2025,430000.0,656900.0,0.0,240780.0,10
-mining,graphite,t graphite,2026,630000.0,856900.0,106000.0,553780.0,16
-mining,graphite,t graphite,2027,630000.0,856900.0,106000.0,553780.0,16
-mining,graphite,t graphite,2028,630000.0,856900.0,106000.0,553780.0,16
-mining,graphite,t graphite,2029,630000.0,856900.0,106000.0,553780.0,16
-mining,graphite,t graphite,2030,630000.0,856900.0,106000.0,728780.0,17
+mining,graphite,t graphite,2023,80000.0,100400.0,0.0,0.0,3
+mining,graphite,t graphite,2024,80000.0,100400.0,0.0,0.0,3
+mining,graphite,t graphite,2025,430000.0,656900.0,0.0,216000.0,9
+mining,graphite,t graphite,2026,630000.0,856900.0,106000.0,529000.0,15
+mining,graphite,t graphite,2027,630000.0,856900.0,106000.0,529000.0,15
+mining,graphite,t graphite,2028,630000.0,856900.0,106000.0,529000.0,15
+mining,graphite,t graphite,2029,630000.0,856900.0,106000.0,529000.0,15
+mining,graphite,t graphite,2030,630000.0,856900.0,106000.0,704000.0,16
 mining,graphite,t ore,2022,0.0,500000.0,0.0,0.0,1
 mining,graphite,t ore,2023,0.0,500000.0,0.0,0.0,1
 mining,graphite,t ore,2024,0.0,500000.0,0.0,0.0,1
@@ -88,13 +88,13 @@ mining,graphite,t ore,2030,0.0,535000.0,0.0,0.0,2
 mining,lithium,t LCE,2021,0.0,20000.0,0.0,0.0,1
 mining,lithium,t LCE,2022,0.0,28710.0,0.0,0.0,2
 mining,lithium,t LCE,2023,45000.0,73710.0,0.0,0.0,3
-mining,lithium,t LCE,2024,62500.0,91210.0,0.0,0.0,4
-mining,lithium,t LCE,2025,241920.0,318768.0,60000.0,0.0,15
+mining,lithium,t LCE,2024,90500.0,119210.0,0.0,0.0,5
+mining,lithium,t LCE,2025,269920.0,346768.0,60000.0,0.0,16
 mining,lithium,t LCE,2026,571920.0,1355203.0,312000.0,597344.0,43
-mining,lithium,t LCE,2027,571920.0,1444231.0,333000.0,626044.0,46
-mining,lithium,t LCE,2028,571920.0,1489231.0,373000.0,626044.0,47
-mining,lithium,t LCE,2029,571920.0,1801131.0,373000.0,823008.0,52
-mining,lithium,t LCE,2030,571920.0,1916131.0,373000.0,863848.0,54
+mining,lithium,t LCE,2027,571920.0,1444231.0,333000.0,597344.0,45
+mining,lithium,t LCE,2028,571920.0,1489231.0,373000.0,597344.0,46
+mining,lithium,t LCE,2029,571920.0,1801131.0,373000.0,794308.0,51
+mining,lithium,t LCE,2030,571920.0,1916131.0,373000.0,835148.0,53
 mining,lithium,t ore,2025,3585000.0,3585000.0,0.0,0.0,3
 mining,lithium,t ore,2026,3585000.0,13785000.0,3100000.0,0.0,8
 mining,lithium,t ore,2027,3585000.0,13785000.0,3100000.0,0.0,8
@@ -155,13 +155,13 @@ recycling,recycling,t black mass,2030,32000.0,62000.0,0.0,3000.0,4
 recycling,recycling,t feed,2021,5000.0,5000.0,0.0,0.0,1
 recycling,recycling,t feed,2022,5000.0,17000.0,0.0,0.0,2
 recycling,recycling,t feed,2023,18000.0,60000.0,0.0,0.0,5
-recycling,recycling,t feed,2024,97458.0,139458.0,0.0,60000.0,12
-recycling,recycling,t feed,2025,217458.0,281458.0,0.0,60000.0,17
-recycling,recycling,t feed,2026,260958.0,382958.0,195000.0,371500.0,29
-recycling,recycling,t feed,2027,260958.0,382958.0,195000.0,376500.0,30
-recycling,recycling,t feed,2028,260958.0,396958.0,195000.0,376500.0,30
-recycling,recycling,t feed,2029,260958.0,396958.0,195000.0,376500.0,30
-recycling,recycling,t feed,2030,260958.0,396958.0,195000.0,376500.0,30
+recycling,recycling,t feed,2024,97458.0,139458.0,0.0,0.0,11
+recycling,recycling,t feed,2025,217458.0,281458.0,0.0,0.0,16
+recycling,recycling,t feed,2026,260958.0,382958.0,195000.0,311500.0,28
+recycling,recycling,t feed,2027,260958.0,382958.0,195000.0,316500.0,29
+recycling,recycling,t feed,2028,260958.0,396958.0,195000.0,316500.0,29
+recycling,recycling,t feed,2029,260958.0,396958.0,195000.0,316500.0,29
+recycling,recycling,t feed,2030,260958.0,396958.0,195000.0,316500.0,29
 refining,cobalt,t Co,2020,0.0,25000.0,0.0,0.0,2
 refining,cobalt,t Co,2021,0.0,25000.0,0.0,0.0,2
 refining,cobalt,t Co,2022,0.0,25000.0,0.0,0.0,2
@@ -184,15 +184,15 @@ refining,graphite,t graphite,2029,0.0,256500.0,0.0,20000.0,5
 refining,graphite,t graphite,2030,0.0,256500.0,0.0,20000.0,5
 refining,lithium,t LCE,2020,0.0,20000.0,0.0,0.0,1
 refining,lithium,t LCE,2021,20000.0,120000.0,0.0,0.0,4
-refining,lithium,t LCE,2022,182079.0,282079.0,0.0,50000.0,10
-refining,lithium,t LCE,2023,200999.0,379079.0,50000.0,232000.0,18
-refining,lithium,t LCE,2024,338919.0,577638.0,50000.0,232000.0,25
-refining,lithium,t LCE,2025,880180.0,1377293.0,55323.0,232000.0,52
-refining,lithium,t LCE,2026,1001567.0,1907016.0,152923.0,442000.0,65
-refining,lithium,t LCE,2027,1001567.0,1907016.0,203323.0,472000.0,67
-refining,lithium,t LCE,2028,1001567.0,1907016.0,237643.0,534000.0,71
-refining,lithium,t LCE,2029,1001567.0,1907016.0,237643.0,534000.0,71
-refining,lithium,t LCE,2030,1001567.0,1907016.0,237643.0,608920.0,73
+refining,lithium,t LCE,2022,182079.0,282079.0,0.0,0.0,9
+refining,lithium,t LCE,2023,200999.0,379079.0,50000.0,0.0,15
+refining,lithium,t LCE,2024,338919.0,577638.0,50000.0,0.0,22
+refining,lithium,t LCE,2025,880180.0,1377293.0,55323.0,0.0,49
+refining,lithium,t LCE,2026,1001567.0,1907016.0,152923.0,210000.0,62
+refining,lithium,t LCE,2027,1001567.0,1907016.0,203323.0,240000.0,64
+refining,lithium,t LCE,2028,1001567.0,1907016.0,237643.0,302000.0,68
+refining,lithium,t LCE,2029,1001567.0,1907016.0,237643.0,302000.0,68
+refining,lithium,t LCE,2030,1001567.0,1907016.0,237643.0,376920.0,70
 refining,manganese,t EMD,2025,0.0,30000.0,0.0,0.0,1
 refining,manganese,t EMD,2026,0.0,30000.0,0.0,0.0,1
 refining,manganese,t EMD,2027,0.0,30000.0,0.0,0.0,1
@@ -213,26 +213,26 @@ refining,nickel,t Ni,2022,66000.0,110961.0,0.0,0.0,3
 refining,nickel,t Ni,2023,66000.0,110961.0,0.0,0.0,3
 refining,nickel,t Ni,2024,66000.0,110961.0,0.0,0.0,3
 refining,nickel,t Ni,2025,372000.0,1312561.0,0.0,20000.0,28
-refining,nickel,t Ni,2026,372000.0,1656551.0,72000.0,143000.0,34
-refining,nickel,t Ni,2027,372000.0,1656551.0,72000.0,156500.0,35
-refining,nickel,t Ni,2028,372000.0,1656551.0,72000.0,156500.0,35
-refining,nickel,t Ni,2029,372000.0,1656551.0,72000.0,156500.0,35
-refining,nickel,t Ni,2030,372000.0,1656551.0,72000.0,156500.0,35
+refining,nickel,t Ni,2026,372000.0,1656551.0,0.0,143000.0,33
+refining,nickel,t Ni,2027,372000.0,1656551.0,0.0,156500.0,34
+refining,nickel,t Ni,2028,372000.0,1656551.0,0.0,156500.0,34
+refining,nickel,t Ni,2029,372000.0,1656551.0,0.0,156500.0,34
+refining,nickel,t Ni,2030,372000.0,1656551.0,0.0,156500.0,34
 refining,nickel (intermediate),t Ni,2023,0.0,54000.0,0.0,0.0,1
 refining,nickel (intermediate),t Ni,2024,0.0,54000.0,0.0,0.0,1
 refining,nickel (intermediate),t Ni,2025,155000.0,566300.0,135900.0,0.0,13
-refining,nickel (intermediate),t Ni,2026,155000.0,566300.0,392900.0,40000.0,19
-refining,nickel (intermediate),t Ni,2027,155000.0,566300.0,705897.0,40000.0,24
-refining,nickel (intermediate),t Ni,2028,155000.0,566300.0,705897.0,95000.0,25
-refining,nickel (intermediate),t Ni,2029,155000.0,566300.0,705897.0,122000.0,26
-refining,nickel (intermediate),t Ni,2030,155000.0,566300.0,705897.0,122000.0,26
+refining,nickel (intermediate),t Ni,2026,155000.0,566300.0,464900.0,40000.0,20
+refining,nickel (intermediate),t Ni,2027,155000.0,566300.0,777897.0,40000.0,25
+refining,nickel (intermediate),t Ni,2028,155000.0,566300.0,777897.0,95000.0,26
+refining,nickel (intermediate),t Ni,2029,155000.0,566300.0,777897.0,122000.0,27
+refining,nickel (intermediate),t Ni,2030,155000.0,566300.0,777897.0,122000.0,27
 separator,separator,Mm2,2021,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2022,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2023,680.0,1230.0,0.0,0.0,2
 separator,separator,Mm2,2024,680.0,1230.0,0.0,0.0,2
-separator,separator,Mm2,2025,1580.0,6450.0,1200.0,0.0,11
-separator,separator,Mm2,2026,1580.0,10690.0,2000.0,20200.0,20
-separator,separator,Mm2,2027,1580.0,10690.0,4100.0,20200.0,22
-separator,separator,Mm2,2028,1580.0,10690.0,4100.0,21000.0,23
-separator,separator,Mm2,2029,1580.0,10690.0,4100.0,21000.0,23
-separator,separator,Mm2,2030,1580.0,10690.0,4100.0,21000.0,23
+separator,separator,Mm2,2025,1580.0,6450.0,0.0,0.0,10
+separator,separator,Mm2,2026,1580.0,10690.0,800.0,20200.0,19
+separator,separator,Mm2,2027,1580.0,10690.0,1500.0,20200.0,20
+separator,separator,Mm2,2028,1580.0,10690.0,1500.0,20200.0,20
+separator,separator,Mm2,2029,1580.0,10690.0,1500.0,20200.0,20
+separator,separator,Mm2,2030,1580.0,10690.0,1500.0,20200.0,20

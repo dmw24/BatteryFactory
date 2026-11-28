@@ -98,3 +98,7 @@ Jinchuan Group,refining,2025,capacity,nickel products,330000.0,t Ni,group (SC021
 GEM,refining,2025,capacity,nickel in MHP (Indonesia park incl. participating lines),150000.0,t Ni,Indonesia park,002340_2025.txt,498-500,SC105,gem-qmb|esg|meiming,global
 GEM,refining,2025,production,nickel shipments (Indonesia park),110839.0,t Ni,Indonesia park,002340_2025.txt,561,SC105,gem-qmb|esg|meiming,global
 Huayou,refining,2025,production,cobalt products,51197.0,t Co,group (incl. Indonesia),603799_.txt,817,SC197,huayou,global
+China Minmetals graphite,mining,2024,production,natural graphite,222000.0,t graphite,company (Benchmark top-5 via IISD profile),IISD natural graphite commodity profile 2026-07,chart,SC198,minmetals,china
+Qingdao Jinhui,mining,2024,production,natural graphite,85000.0,t graphite,company (Benchmark top-5 via IISD profile),IISD natural graphite commodity profile 2026-07,chart,SC198,jinhui,china
+Shuangyashan Zhongshuang,mining,2024,production,natural graphite,67000.0,t graphite,company (Benchmark top-5 via IISD profile),IISD natural graphite commodity profile 2026-07,chart,SC198,zhongshuang,china
+Luobei Haida,mining,2024,production,natural graphite,61000.0,t graphite,company (Benchmark top-5 via IISD profile),IISD natural graphite commodity profile 2026-07,chart,SC198,luobei-haida,china

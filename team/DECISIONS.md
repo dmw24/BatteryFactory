@@ -184,3 +184,11 @@ commercial production (or output at design rate over a period). Applied to Qingh
 ## D-113 (2026-11-27, lead) feeds vs feeds_company
 `feeds` = links where the source names the supplying AND receiving plant (or the receiver is the only plant of that
 company in the segment); company-level relationships go to `feeds_company`.
+## D-114 (2026-11-28, lead, audit 6) Stale pipeline, ref_basis, built guard
+- `stale` = announced/under-construction active rows whose newest evidence is dated before 2024-01-01; they stay in the
+  database but are excluded from the pipeline columns of sc_capacity_by_year.csv (until a newer source is found).
+- `ref_basis` = stated | fallback (from the row notes), so outputs can separate dated targets from publication-year fallbacks.
+- `latest_evidence` = newest evidence publication date per row.
+- scripts/sc_built_guard.py fails the build if built capacity (≤2025) falls >1% versus data/supply_chain/built_baseline.csv;
+  the lead accepts deliberate drops with SC_ACCEPT_BUILT=1. Re-dating an installed anchor must keep the earlier date as a step.
+- Company-level output figures (e.g. Benchmark company charts) go to company_totals, never onto a mapped site.

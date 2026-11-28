@@ -169,3 +169,10 @@ an aggregate; new rows 2/14 number/unit. Fixed: Anning 2023 plan step removed; G
 (t Co3O4 unit added, capacity nulled); Anhui Hanrui downstream capacity nulled; MBMA ZHN renamed group aggregate;
 EcoPro CAM7 → under construction (D-112); Hongxing HPMSM part_of Dalong; Nengkuang plan capacity nulled; cobalt company
 totals matched (Tengyuan/Shengtun/Hanrui); Huayou lithium product-tonne unit; stale doc text updated.
+
+## SC audit 6 (Opus) — 2026-11-28 — FAIL → fixed
+Sample 42: 21% number-changing (company-level graphite on sites, re-dated anchors erasing built capacity, stale
+announcements in pipeline, Fulin overlap, ENC unit). Fixed: graphite company figures → company_totals (3 pseudo-rows
+removed, Yunshan production nulled); Gwangyang/Fenix earlier anchors restored as dated steps; D-114 stale flag + ref_basis
++ built guard; Fulin Mianzhu, Hengtong capacity nulled; ENC → t Ni in MHP; LG Chem Cheongju installed nulled; Yuneng
+Spain 50 kt; Moa refined output removed from mine rows; Yongtai Shaowu paused (not cancelled); Altmin → announced.

@@ -1,0 +1,93 @@
+step,commodity,norm_unit,year,built
+anode,anode,t anode,2022,124000.0
+anode,anode,t anode,2023,124000.0
+anode,anode,t anode,2024,126000.0
+anode,anode,t anode,2025,804750.0
+cathode,cathode,t CAM,2018,0.0
+cathode,cathode,t CAM,2019,0.0
+cathode,cathode,t CAM,2020,0.0
+cathode,cathode,t CAM,2021,100000.0
+cathode,cathode,t CAM,2022,210000.0
+cathode,cathode,t CAM,2023,335000.0
+cathode,cathode,t CAM,2024,470000.0
+cathode,cathode,t CAM,2025,1134060.0
+electrolyte,LiPF6,t LiPF6,2025,69000.0
+electrolyte,electrolyte,t electrolyte,2017,0.0
+electrolyte,electrolyte,t electrolyte,2018,0.0
+electrolyte,electrolyte,t electrolyte,2019,0.0
+electrolyte,electrolyte,t electrolyte,2020,0.0
+electrolyte,electrolyte,t electrolyte,2021,0.0
+electrolyte,electrolyte,t electrolyte,2022,55000.0
+electrolyte,electrolyte,t electrolyte,2023,95000.0
+electrolyte,electrolyte,t electrolyte,2024,255000.0
+electrolyte,electrolyte,t electrolyte,2025,931000.0
+foil,copper foil,t copper foil,2023,0.0
+foil,copper foil,t copper foil,2024,30000.0
+foil,copper foil,t copper foil,2025,30000.0
+mining,cobalt,t Co,2024,5000.0
+mining,cobalt,t Co,2025,28000.0
+mining,cobalt,t ore,2025,0.0
+mining,graphite,t graphite,2022,0.0
+mining,graphite,t graphite,2023,80000.0
+mining,graphite,t graphite,2024,80000.0
+mining,graphite,t graphite,2025,430000.0
+mining,graphite,t ore,2022,0.0
+mining,graphite,t ore,2023,0.0
+mining,graphite,t ore,2024,0.0
+mining,graphite,t ore,2025,0.0
+mining,lithium,t LCE,2021,0.0
+mining,lithium,t LCE,2022,0.0
+mining,lithium,t LCE,2023,45000.0
+mining,lithium,t LCE,2024,90500.0
+mining,lithium,t LCE,2025,269920.0
+mining,lithium,t ore,2025,3585000.0
+mining,manganese,t Mn ore,2025,0.0
+mining,nickel,t Ni,2024,57000.0
+mining,nickel,t Ni,2025,97000.0
+mining,nickel,t ore,2025,0.0
+mining,nickel (intermediate),t Ni,2025,32600.0
+precursor,precursor,t FePO4,2025,590000.0
+precursor,precursor,t pCAM,2023,0.0
+precursor,precursor,t pCAM,2024,0.0
+precursor,precursor,t pCAM,2025,91000.0
+recycling,recycling,t LCE,2025,0.0
+recycling,recycling,t black mass,2025,0.0
+recycling,recycling,t feed,2021,5000.0
+recycling,recycling,t feed,2022,5000.0
+recycling,recycling,t feed,2023,18000.0
+recycling,recycling,t feed,2024,97458.0
+recycling,recycling,t feed,2025,217458.0
+refining,cobalt,t Co,2020,0.0
+refining,cobalt,t Co,2021,0.0
+refining,cobalt,t Co,2022,0.0
+refining,cobalt,t Co,2023,0.0
+refining,cobalt,t Co,2024,0.0
+refining,cobalt,t Co,2025,0.0
+refining,graphite,t graphite,2022,0.0
+refining,graphite,t graphite,2023,0.0
+refining,graphite,t graphite,2024,0.0
+refining,graphite,t graphite,2025,0.0
+refining,lithium,t LCE,2020,0.0
+refining,lithium,t LCE,2021,20000.0
+refining,lithium,t LCE,2022,182079.0
+refining,lithium,t LCE,2023,200999.0
+refining,lithium,t LCE,2024,338919.0
+refining,lithium,t LCE,2025,880180.0
+refining,manganese,t EMD,2025,0.0
+refining,manganese,t Mn,2025,34950.0
+refining,nickel,t Ni,2018,0.0
+refining,nickel,t Ni,2019,66000.0
+refining,nickel,t Ni,2020,66000.0
+refining,nickel,t Ni,2021,66000.0
+refining,nickel,t Ni,2022,66000.0
+refining,nickel,t Ni,2023,66000.0
+refining,nickel,t Ni,2024,66000.0
+refining,nickel,t Ni,2025,372000.0
+refining,nickel (intermediate),t Ni,2023,0.0
+refining,nickel (intermediate),t Ni,2024,0.0
+refining,nickel (intermediate),t Ni,2025,155000.0
+separator,separator,Mm2,2021,680.0
+separator,separator,Mm2,2022,680.0
+separator,separator,Mm2,2023,680.0
+separator,separator,Mm2,2024,680.0
+separator,separator,Mm2,2025,1580.0

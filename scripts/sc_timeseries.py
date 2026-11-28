@@ -28,6 +28,8 @@ def main():
                 b, up = built_upper(r, y)
                 if b or up:
                     rows.append(dict(step=r.step, commodity=lab, norm_unit=r.norm_unit, year=y, built=b, built_upper=up, id=r.id))
+            elif getattr(r, "stale", False) is True or str(getattr(r, "stale", "")) == "True":
+                continue   # D-114: stale pipeline rows (no progress evidence since 2024) are not in the pipeline columns
             else:
                 cap = r.capacity_norm
                 oy = int(r.capacity_ref_year) if pd.notna(r.capacity_ref_year) else None

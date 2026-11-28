@@ -32,7 +32,7 @@ COLUMNS = [
     "production", "production_unit", "production_year", "production_norm", "norm_unit", "production_norm_unit",
     "reserves_resources", "part_of", "feeds", "feeds_company", "offtakers", "end_market",
     "source_url", "source_date", "source_published_date", "confidence", "research_notes",
-    "last_verified", "verified_by_task", "reported_fields", "evidence_tier",
+    "last_verified", "verified_by_task", "reported_fields", "evidence_tier", "ref_basis", "latest_evidence", "stale",
 ]
 STEPS = {"mining", "refining", "precursor", "cathode", "anode", "electrolyte", "separator", "foil", "recycling"}
 STATUS = {"announced", "under_construction", "operational"}
@@ -188,6 +188,21 @@ def main():
         ev = ev[keep]
     ev.to_csv(os.path.join(SC, "field_evidence.csv"), index=False)
     removed.to_csv(os.path.join(SC, "removed.csv"), index=False)
+    # audit 6: machine-readable reference-year basis and stale-pipeline flag (D-114)
+    if len(ev):
+        pub = pd.to_datetime(ev["published"], errors="coerce")
+        latest = ev.assign(p=pub).groupby("id").p.max()
+    else:
+        latest = pd.Series(dtype="datetime64[ns]")
+    lp = df.id.map(latest)
+    lp = lp.fillna(pd.to_datetime(df.source_published_date, errors="coerce"))
+    df["latest_evidence"] = lp.dt.strftime("%Y-%m-%d")
+    notes = df.research_notes.fillna("").str.lower()
+    df["ref_basis"] = pd.Series([None if pd.isna(v) else "stated" for v in df.capacity_ref_year], index=df.index, dtype=object)
+    df.loc[df.capacity_ref_year.notna() & notes.str.contains("fallback"), "ref_basis"] = "fallback"
+    df["stale"] = (df.status.isin(["announced", "under_construction"]) & (df.project_state.fillna("active") == "active")
+                   & (lp < pd.Timestamp("2024-01-01")))
+    df.to_csv(os.path.join(ROOT, "sc_assets.csv"), index=False)
     if os.path.exists(DB):
         os.remove(DB)
     con = duckdb.connect(DB)

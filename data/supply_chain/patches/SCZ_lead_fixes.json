@@ -17,6 +17,22 @@
    "accessed": "2026-11-27",
    "language": "en",
    "quote": "Located in the Taixing Economic Development Zone, GEM (Jiangsu) Cobalt has built a thriving business ... It now produces more than 10,000 metric tons per year of cobalt tetroxide, its flagship product"
+  },
+  "A6G": {
+   "url": "https://www.kedglobal.com/newsView/ked202304240016",
+   "publisher": "Korea Economic Daily Global (KED)",
+   "published": "2023-04-24",
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "90,000 tons from the Gwangyang plant in South Jeolla Province ... 10,000 tons from the Gumi plant in North Gyeongsang Province ... 5,000 tons from a factory in Zhejiang Province, China"
+  },
+  "A6F": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1977303/000197730325000006/lthm-20241231.htm",
+   "publisher": "Arcadium Lithium plc Form 10-K for FY ended 31 Dec 2024 (capacity table footnotes)",
+   "published": null,
+   "accessed": "2026-11-27",
+   "language": "en",
+   "quote": "Represents theoretical capacity for lithium carbonate and lithium chloride at Fénix of 28,000 MT and 9,000 MT, respectively."
   }
  },
  "rows": [
@@ -938,6 +954,171 @@
      "SC197"
     ]
    }
+  },
+  {
+   "action": "fix",
+   "id": "china-minmetals-graphite-yunshan-china",
+   "fields": {
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (SC audit 6 #1): 222 kt is Minmetals' company figure (Benchmark via IISD), not a Yunshan site value — moved to company_totals)",
+   "drop_evidence": {
+    "production": [
+     "SC198"
+    ]
+   }
+  },
+  {
+   "action": "remove",
+   "id": "qingdao-jinhui-graphite-china",
+   "reason": "lead (SC audit 6 #1): company-level Benchmark figure for Jinhui, mine and location unknown — moved to company_totals)"
+  },
+  {
+   "action": "remove",
+   "id": "shuangyashan-zhongshuang-graphite-china",
+   "reason": "lead (SC audit 6 #1): company-level Benchmark figure for Zhongshuang, mine and location unknown — moved to company_totals)"
+  },
+  {
+   "action": "remove",
+   "id": "luobei-haida-graphite-china",
+   "reason": "lead (SC audit 6 #1): company-level Benchmark figure for Luobei Haida, mine and location unknown — moved to company_totals)"
+  },
+  {
+   "action": "update",
+   "id": "posco-future-m-gwangyang-cathode-south-korea",
+   "fields": {
+    "capacity_by_year_json": "{\"2023\": 90000}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "A6G"
+    ]
+   },
+   "notes": "lead (SC audit 6 #2): 2023 anchor (90 kt, 2023-04-24) restored as a dated step; the 2026 re-confirmation must not erase it."
+  },
+  {
+   "action": "update",
+   "id": "minera-del-altiplano-fenix-argentina",
+   "fields": {
+    "capacity_by_year_json": "{\"2024\": 28000, \"2026\": 40000}"
+   },
+   "evidence": {
+    "capacity_by_year_json": [
+     "A6F"
+    ]
+   },
+   "notes": "lead (SC audit 6 #2): 2024 anchor (28 kt carbonate, Arcadium 10-K) restored as a dated step before the 2026 expansion to 40 kt."
+  },
+  {
+   "action": "fix",
+   "id": "fulin-deyang-mianzhu-lfp-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 6 #4): 175 kt likely half of the 350 kt Shenghua project already counted — nulled until resolved)",
+   "drop_evidence": {
+    "capacity": [
+     "SC202"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "excelsior-nickel-cobalt-enc-hpal-indonesia",
+   "fields": {
+    "capacity_unit": "t Ni in MHP",
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 6 #5): HPAL producing MHP — unit corrected to t Ni in MHP (intermediate))"
+  },
+  {
+   "action": "fix",
+   "id": "lg-chem-cheongju-cathode-south-korea",
+   "fields": {
+    "installed_capacity": null,
+    "installed_as_of": null,
+    "installed_norm": null
+   },
+   "notes": "lead (SC audit 6 #7): 20 kt single-crystal figure covers Cheongju + Iksan — not a site built value)"
+  },
+  {
+   "action": "fix",
+   "id": "hunan-yuneng-extremadura-spain",
+   "fields": {
+    "capacity": 50000,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 6 #10): confirmed first stage 50 kt; 70 kt not re-confirmed)"
+  },
+  {
+   "action": "fix",
+   "id": "hengtong-copper-foil-50kt-china",
+   "fields": {
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "capacity_norm": null
+   },
+   "notes": "lead (SC audit 6 #11): 50 kt mixes battery and PCB foil, battery share unknown — nulled)",
+   "drop_evidence": {
+    "capacity": [
+     "SC202"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "sherritt-moa-jv-cuba",
+   "fields": {
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (SC audit 6 #13): refined output (Fort Saskatchewan) is not mine output — kept on the refinery row only)",
+   "drop_evidence": {
+    "production": [
+     "SC198"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "moa-jv-moa-nickel-cuba",
+   "fields": {
+    "production": null,
+    "production_unit": null,
+    "production_year": null,
+    "production_norm": null
+   },
+   "notes": "lead (SC audit 6 #13): refined output (Fort Saskatchewan) is not mine output — kept on the refinery row only)",
+   "drop_evidence": {
+    "production": [
+     "SC198"
+    ]
+   }
+  },
+  {
+   "action": "fix",
+   "id": "yongtai-shaowu-200kt-electrolyte-china",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "lead (SC audit 6 #14): quote says 'early stage', not terminated — paused instead of cancelled)"
+  },
+  {
+   "action": "fix",
+   "id": "altmin-lfp-cathode-divitpally-india",
+   "fields": {
+    "status": "announced"
+   },
+   "notes": "lead (SC audit 6 #9, D-020): headline only, no physical works evidenced)"
   }
  ]
 }
