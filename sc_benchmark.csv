@@ -1,8 +1,8 @@
 step,commodity,metric,year,country,benchmark,unit,ours_production,n_prod,ours_capacity,plan_only_capacity,built_reported_tier,intermediate_capacity,production_coverage,capacity_ratio,unallocated_capacity,unallocated_production,company_disclosed_output,company_disclosed_output_incl_overseas,source
-mining,lithium,production,2024,Argentina,73457.0,t LCE,104890,4,45500,0,0,0,1.43,0.62,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,Argentina,122429.0,t LCE,104890,4,122920,0,0,0,0.86,1.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,Argentina,73457.0,t LCE,104890,4,17500,0,0,0,1.43,0.24,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,Argentina,122429.0,t LCE,104890,4,94920,0,20000,0,0.86,0.78,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Australia,440212.0,t LCE,337092,3,0,0,0,0,0.77,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,Australia,489716.0,t LCE,555384,6,0,131069,0,0,1.13,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,Australia,489716.0,t LCE,555384,6,0,0,0,0,1.13,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Brazil,54295.0,t LCE,34301,2,0,0,0,0,0.63,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Brazil,63876.0,t LCE,34301,2,0,0,0,0,0.54,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Canada,25657.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
@@ -17,8 +17,8 @@ mining,lithium,production,2024,Portugal,2023.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0
 mining,lithium,production,2025,Portugal,2023.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2024,Zimbabwe,106460.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
 mining,lithium,production,2025,Zimbabwe,149044.0,t LCE,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2024,World,1181706.0,t LCE,995433,23,90500,28710,0,0,0.84,0.08,0,0,0,0,USGS MCS 2026 (Li content x5.323)
-mining,lithium,production,2025,World,1543670.0,t LCE,1238204,27,269920,207917,0,0,0.8,0.17,0,5543,80810,80810,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2024,World,1181706.0,t LCE,995433,23,62500,28710,0,0,0.84,0.05,0,0,0,0,USGS MCS 2026 (Li content x5.323)
+mining,lithium,production,2025,World,1543670.0,t LCE,1238204,27,241920,76848,20000,0,0.8,0.16,0,5543,80810,80810,USGS MCS 2026 (Li content x5.323)
 mining,nickel,production,2024,United States,7490.0,t Ni,9907,1,0,0,0,0,1.32,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2025,United States,10000.0,t Ni,9907,1,0,0,0,0,0.99,0.0,0,0,0,0,USGS MCS 2026
 mining,nickel,production,2024,Australia,98000.0,t Ni,32100,1,0,0,0,0,0.33,0.0,0,0,0,0,USGS MCS 2026
@@ -153,7 +153,7 @@ recycling,recycling,capacity,2024,China,4230000.0,t feed,52576,1,0,0,0,0,0.01,0.
 recycling,recycling,production,2024,China,654000.0,t feed,52576,1,0,0,0,0,0.08,0.0,0,0,0,0,Mysteel 2025-07-31 (recycling volume)
 recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0,0,0.0,0.0,0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"
 mining,graphite,production,2020,China (Luobei county),380000.0,t graphite,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MEE inspection bulletin 2021-12-16
-mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,269920,207917,0,0,0.69,0.15,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
+mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,241920,76848,20000,0,0.69,0.13,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
 cathode,cathode (LFP),production,2025,World,3915000.0,t CAM,0,0,702500,60000,75000,0,0.0,0.18,0,0,0,0,ICC 鑫椤 via CNGR 2025 annual report
 mining,manganese,production,2025,South Africa,7600000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,Gabon,5000000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026

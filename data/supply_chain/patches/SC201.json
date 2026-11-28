@@ -1,0 +1,1087 @@
+{
+ "task": "SC201",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://im-mining.com/2026/07/22/covalent-lithium-to-double-spodumene-output-from-mt-holland/",
+   "publisher": "International Mining (im-mining.com)",
+   "published": "2026-07-22",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "will increase nameplate spodumene concentrate production from approximately 380,000 t/y to 760,000 t/y on a 100% basis. ... the first spodumene concentrate production volumes from the expansion expected in the first half of calendar year 2030.",
+   "tier": "reported",
+   "snippet": "will increase nameplate spodumene concentrate production from approximately 380,000 t/y to 760,000 t/y on a 100% basis. ... the first spodumene concentrate production volumes from the expansion expected in the first half of calendar year 2030.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S2": {
+   "url": "https://www.riotinto.com/en/operations/canada/galaxy",
+   "publisher": "Rio Tinto - Galaxy operations page",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "a hard rock lithium development ... is expected to produce up to 40,000 metrics tons of lithium carbonate equivalent (LCE)"
+  },
+  "S3": {
+   "url": "https://www.electrive.com/2026/11/03/rio-tinto-expands-lithium-production-in-argentina/",
+   "publisher": "electrive.com",
+   "published": "2026-11-03",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "increased the annual capacity of the existing facility by 10,000 tonnes of lithium carbonate equivalent ... bringing the total on-site capacity to around 40,000 tonnes ... a targeted annual capacity of 15,000 tonnes ... began ahead of schedule in the second quarter of 2026"
+  },
+  "S4": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1440972/000106299326001391/exhibit99-1.htm",
+   "publisher": "Lithium Argentina AG, Form 6-K exhibit 99.1 (SEC)",
+   "published": "2026-03-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Stage 2 targets an additional 45,000 tpa of LCE."
+  },
+  "S5": {
+   "url": "https://www.ess-news.com/2026/07/17/argentina-approves-709-million-lithium-expansion-project-under-investment-incentive-regime/",
+   "publisher": "ESS News",
+   "published": "2026-07-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "will add a processing plant with capacity to produce 40,000 MT of lithium carbonate annually. ... The project involves a $709 million investment. ... bringing total planned capacity to between 60,000 MT and 80,000 MT annually.",
+   "tier": "reported",
+   "snippet": "will add a processing plant with capacity to produce 40,000 MT of lithium carbonate annually. ... The project involves a $709 million investment. ... bringing total planned capacity to between 60,000 MT and 80,000 MT annually.",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S6": {
+   "url": "https://lithium-argentina.com/projects/pastos-grandes",
+   "publisher": "Lithium Argentina AG - Pozuelos-Pastos Grandes project page",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Feasibility stage ... 150,000 tpa ... Lithium Argentina (33%) and Ganfeng (67%)"
+  },
+  "S7": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001966983/000119312526456875/lac-ex99_1.htm",
+   "publisher": "Lithium Americas Corp., Form 8-K exhibit 99.1 (SEC), Q3 2026 results",
+   "published": "2026-11-12",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Phase 1 is designed for nominal production capacity of 40,000 tonnes per year ... mechanical completion is targeted for late 2027 ... with ramp-up through 2028"
+  },
+  "S8": {
+   "url": "https://www.mining-technology.com/news/vulcan-energy-financing-package-phase-one-lionheart/",
+   "publisher": "Mining Technology",
+   "published": "2025-12-03",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "the Vulcan board has approved the final investment decision (FID) ... aims to achieve an annual production capacity of 24,000 tonnes of lithium hydroxide monohydrate (LHM) ... Commercial production of LHM is scheduled to begin in 2028"
+  },
+  "S9": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001739016/000114036126036060/ef20081740_ex99-1.htm",
+   "publisher": "Elevra Lithium Ltd, Form 6-K exhibit 99.1 (SEC) - ASX release 7 Sep 2026, NAL Expansion PFS",
+   "published": "2026-09-07",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "an average annual post-expansion production rate of 373ktpa (5.4% Li2O spodumene concentrate) ... increase from 199ktpa in the base case to 373ktpa post-expansion ... Production from Stage 2 is expected to commence in mid CY28. ... Completion is expected in mid CY29."
+  },
+  "S10": {
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-01/eramet-plans-350-million-lithium-expansion-argentina",
+   "publisher": "Kitco (Reuters wire)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "aims to add 11,000 metric tons of annual capacity of lithium carbonate equivalent, on top of current capacity of 24,000 tons ... had said in July that it was targeting the FID by the end of 2027"
+  },
+  "S11": {
+   "url": "https://www.riotinto.com/en/news/releases/2025/rio-tinto-and-enami-sign-binding-agreement-for-salares-altoandinos-lithium-project-in-chile",
+   "publisher": "Rio Tinto press release",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "has agreed to acquire a controlling 51% interest in the project. ... The transaction is expected to close in the first half of 2026"
+  },
+  "S12": {
+   "url": "https://smallcaps.com.au/article/lake-resources-develop-kachi-lithium-two-stages-battery-grade-output-2027",
+   "publisher": "Smallcaps.com.au (undated article, evidently 2023: DFS then expected 'in December this year')",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "a phased approach of two 25,000tpa operations"
+  },
+  "R1": {
+   "url": "https://theenergyyear.com/news/argentina-eyes-eight-new-lithium-projects-double-output-by-2030/",
+   "publisher": "The Energy Year (page itself returned HTTP 403; text from search-result summary)",
+   "published": "2026-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Lake Resources and Lithium Chile will follow in 2030 with their Kachi and Arizaro projects, expected to add 25,000t/yr each. ... The PPG JV will commission its projects in 2029, with a combined nameplate capacity of 150,000t/yr LCE."
+  },
+  "R2": {
+   "url": "https://kalkine.com.au/news/mining/lake-resources-asxlke-kachi-moves-into-engineering-after-environmental-approval",
+   "publisher": "Kalkine Media (search-result summary only)",
+   "published": "2026-09",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Catamarca issued an Environmental Impact Declaration for Kachi in September 2026. ... The lithium brine project entered front-end engineering design. ... 25,000 tonnes per annum (25 ktpa) of battery-grade lithium carbonate over a 25-year life"
+  },
+  "R3": {
+   "url": "https://www.miningweekly.com/article/hombre-muerto-west-lithium-project-argentina-bolivia-and-chile-update-2026-06-05",
+   "publisher": "Mining Weekly (HTTP 403; search-result summary only)",
+   "published": "2026-06-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Galan holds construction permits to expand Hombre Muerto West to 21,000tpa LCE and has potential to increase production to up to 60,000tpa LCE across Phases 3 and 4. ... Earthworks have started, with higher production volumes targeted from second-half 2027."
+  },
+  "R4": {
+   "url": "https://engineeringnews.co.za/article/lithium-argentina-outlines-phased-expansion-plan-for-cauchari-olaroz-2026-10-01",
+   "publisher": "Engineering News (HTTP 403; search-result summary only)",
+   "published": "2026-10-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The $1-billion Stage 2 expansion project will expand total Cauchari-Olaroz capacity to 85,000 t/y ... accelerating an initial 10,000 t/y module using adsorption DLE. The initial module is expected to come online during 2028."
+  },
+  "R5": {
+   "url": "https://miningdataonline.com/property/4567/privacy-policy.aspx",
+   "publisher": "MiningDataOnline (search-result summary only)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "in August 2024, Arcadium Lithium announced intends to pause current investment in its Galaxy project amid the ongoing global lithium downturn"
+  },
+  "R6": {
+   "url": "https://www.miningweekly.com/article/rio-assumes-control-of-nemaska-lithium-after-lifting-stake-to-539-2026-02-19",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-02-19",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Rio Tinto is evaluating the Whabouchi mine, owned by Nemaska Lithium, and its wholly owned Galaxy mine to determine the optimal spodumene supply strategy for the Bécancour plant. ... One mining database lists the Whabouchi project as Inactive / Suspended, with a prefeasibility study."
+  },
+  "R7": {
+   "url": "https://www.miningweekly.com/article/australias-pls-greenlights-13bn-expansion-to-lift-pilgangoora-lithium-output-2026-10-16",
+   "publisher": "Mining Weekly (HTTP 403; search-result summary only)",
+   "published": "2026-10-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "PLS announced a positive final investment decision on 16 October 2026. ... The target is to push nameplate capacity from one million tonnes per annum to two million tonnes. ... first ore targeted for mid-2029. ... In February 2026, PLS approved the restart of the ~200 thousand tonnes per annum Ngungaju Plant, with production scheduled to resume in July 2026."
+  },
+  "R8": {
+   "url": "https://www.miningweekly.com/article/kathleen-valley-lithiumtantalum-project-australia-update-2026-10-02",
+   "publisher": "Mining Weekly (HTTP 403; search-result summary only)",
+   "published": "2026-10-02",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Liontown's board approved the expansion on September 30, 2026. ... increase production capacity from ~500 ktpa to ~780 ktpa of spodumene concentrate ... first incremental ore in Q1 FY28 ... with the expanded rate from FY30."
+  },
+  "R9": {
+   "url": "https://resourcesreview.com.au/projects/gina-rineharts-hancock-prospecting-to-start-new-lithium-mine-in-2028/",
+   "publisher": "Resources Review / Hancock-SQM Andover coverage (search-result summary only)",
+   "published": "2026-06",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Hancock and SQM aim to start building a roughly US$1 billion mine in 2028. ... about 6 million tonnes of ore a year, refined into up to 1.1 million tonnes of lithium concentrate annually. ... two construction years, 30 operating years and two closure years"
+  },
+  "R10": {
+   "url": "https://www.engineeringnews.co.za/print-version/core-lithium-restarts-spodumene-concentrate-production-at-finniss-after-two-year-hiatus-2026-09-08",
+   "publisher": "Engineering News (search-result summary only)",
+   "published": "2026-09-08",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Mining at Grants restarted in May 2026, and Core Lithium produced first spodumene concentrate from the recommissioned Finniss processing plant on September 8, 2026."
+  },
+  "R11": {
+   "url": "https://www.miningweekly.com/article/pak-lithium-mine-project-and-lithium-chemicals-conversion-facility-canada-2026-02-06",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-02-06",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The DFS forecasts 200,000 t/y of SC6, a high-grade lithium concentrate, from a mine and mill development near Red Lake. ... Frontier targets completion of the updated mine-and-mill feasibility study in the first quarter of 2027."
+  },
+  "R12": {
+   "url": "https://spglobal.com/energy/en/news-research/latest-news/metals/042426-vulcan-energy-begins-construction-on-frankfurt-lithium-plant",
+   "publisher": "S&P Global (search-result summary only)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "S&P Global reported in April 2026 that construction had started on the central lithium plant at Infraserv Höchst in Frankfurt."
+  },
+  "R13": {
+   "url": "https://metals-wire.net/commodities/lithium/imerys-delays-french-lithium-project-to-2030-as-pfs-doubles-mine-life-and-lifts-capex",
+   "publisher": "Metals Wire (search-result summary only)",
+   "published": "2026-03",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Commercial output was initially targeted for 2028 but is now scheduled for 2030 ... must be taken by end-2027"
+  },
+  "R14": {
+   "url": "https://www.tipranks.com/news/company-announcements/zinnwald-lithiums-pre-feasibility-study-reveals-strong-economic-potential-for-german-project",
+   "publisher": "TipRanks / Zinnwald Lithium plc PFS announcement (search-result summary only)",
+   "published": "2025-03",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "It projects a first phase of 18,000 tonnes of lithium hydroxide monohydrate (LHM) a year, with a second phase of 35,100 tonnes a year. ... The full feasibility study is not yet out."
+  },
+  "R15": {
+   "url": "https://oenergetice.cz/en/germany/lithium-mining-on-the-german-side-of-the-ore-mountains-is-expected-to-start-in-2030",
+   "publisher": "oEnergetice.cz (page title only)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Lithium mining on the German side of the Ore Mountains is expected to start in 2030"
+  },
+  "R16": {
+   "url": "https://www.riotimesonline.com/bolivia-lithium-explained-2026/",
+   "publisher": "Rio Times (search-result summary only)",
+   "published": "2026",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "the Russian and Chinese contracts worth over US$2 billion, signed in 2024, still lack congressional approval"
+  },
+  "R17": {
+   "url": "https://pv-magazine.com/2025/01/16/bolivias-ylb-signs-lithium-deals-with-russian-chinese-companies",
+   "publisher": "pv magazine (search-result summary only)",
+   "published": "2025-01-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "It covers a plant for 14,000 tonnes of lithium carbonate a year and an investment of about US$970 million. ... two plants with a combined capacity of 35,000 mt/year, one at 25,000 and one at 10,000 tonnes a year."
+  },
+  "R18": {
+   "url": "https://www.riotimesonline.com/falchani-lithium-puno-834-million-capex-2026/",
+   "publisher": "Rio Times (search-result summary only)",
+   "published": "2026-09-13",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "first-stage capex was revised to US$834 million, up from US$625 million, with construction targeted for the second half of 2028 ... 25,000 tonnes a year of lithium carbonate equivalent initially, cut from an earlier 30,000, then 44,000, then 100,000"
+  },
+  "R19": {
+   "url": "https://www.mining.com/web/chinas-ganfeng-indefinitely-postpones-mexican-lithium-target-date-amid-govt-spat/",
+   "publisher": "Mining.com (search-result summary only)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "A 2018 feasibility study also cited 35 000 t/y of battery-grade lithium carbonate. ... the Sonora lithium project couldn't proceed until issues with the Mexican government were resolved, adding that there was no clear timetable for that to occur."
+  },
+  "R20": {
+   "url": "https://www.miningweekly.com/article/chiles-enami-says-china-antitrust-review-of-rio-tinto-lithium-project-delayed-2026-08-07",
+   "publisher": "Mining Weekly (Reuters; search-result summary only)",
+   "published": "2026-08-07",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "ENAMI projects the initiative will begin operations in 2032 with a yearly output of 35 000 tons, gradually increasing to 75 000 tons over three years."
+  },
+  "R21": {
+   "url": "https://finviz.com/news/354376/smackover-lithium-concludes-national-environmental-policy-act-review-for-south-west-arkansas-project-with-finding-of-no-significant-impact",
+   "publisher": "Standard Lithium / Smackover Lithium release via Finviz (search-result summary only)",
+   "published": "2026-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The partnership expects to take FID and begin construction in 2026, and to achieve first commercial production in 2029. ... production capacity of 22,500 tonnes per annum of battery-quality lithium carbonate over a 20-year modeled operating life"
+  },
+  "R22": {
+   "url": "https://www.miningweekly.com/article/rhyolite-ridge-lithiumboron-project-us-update-2026-07-10",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-07-10",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ioneer is still targeting a FID in the second half of 2026. First commercial production is expected in 2029."
+  },
+  "R23": {
+   "url": "https://www.miningweekly.com/article/keliber-lithium-hydroxide-project-finland-update-2026-09-04",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-09-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Hot commissioning of the Päiväneva concentrator started in April 2026, with stable spodumene concentrate production targeted for the second half of 2026. ... Nameplate capacity is 15,000 tpa of battery-grade lithium hydroxide monohydrate, with steady-state production projected to start in 2028."
+  },
+  "R24": {
+   "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/081226-savannah-resources-secures-land-access-deals-for-portugal-lithium-project",
+   "publisher": "S&P Global (search-result summary only)",
+   "published": "2026-08-12",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "In June 2026, Savannah Resources announced that its Barroso lithium project in Portugal would resume operations effective immediately after the Portuguese government rejected an anticipated precautionary measure."
+  },
+  "R25": {
+   "url": "https://www.miningweekly.com/article/ghanas-parliament-ratifies-atlantic-lithiums-ewoyaa-mining-lease-2026-03-20",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-03-20",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ghana's Parliament ratified the Ewoyaa mining lease on March 20, 2026. ... The company is still working toward a final investment decision (FID)."
+  },
+  "R26": {
+   "url": "https://www.engineeringnews.co.za/print-version/manono-lithiumtin-project-democratic-republic-of-congo-update-2026-07-24",
+   "publisher": "Engineering News (search-result summary only)",
+   "published": "2026-07-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "A company notice dated July 9 said the processing plant had started production in May 2026, a month ahead of schedule ... The design is 5 million tons of ore annually and produce about 1 million tons of spodumene concentrate."
+  },
+  "R27": {
+   "url": "https://www.miningweekly.com/article/uis-lithium-expansion-project-namibia-update-2026-02-27",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-02-27",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The project targets production of 50 000 t/y of petalite concentrate by reprocessing waste material from the existing tin and tantalum concentrator ... The project is projected to enter the DFS phase during 2026."
+  },
+  "R28": {
+   "url": "https://www.nasdaq.com/press-release/critical-elements-lithium-announces-new-positive-feasibility-study-for-the-rose",
+   "publisher": "Critical Elements Lithium Corp. release via Nasdaq (search-result summary only)",
+   "published": "2023-08-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "average annual production of about 157,706 tonnes of chemical-grade (5.56%) spodumene concentrate and about 46,059 tonnes of technical-grade (6.16%) spodumene concentrate ... Average production Year 2-17 ... mine life spans 17 years"
+  },
+  "R29": {
+   "url": "https://www.mining.com/critical-elements-secures-up-to-115m-in-financial-support-for-quebecs-rose-lithium-project/",
+   "publisher": "Mining.com (HTTP 403; search-result summary only)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The project's 2024 annual report describes it as in the pre-construction phase ... Analysts moved the expected start of operations to 2027, a year later than previously predicted."
+  },
+  "R30": {
+   "url": "https://engineeringnews.co.za/article/codelco-sees-lithium-project-in-chiles-maricunga-salt-flat-feasible-in-eight-more-years-2026-07-16",
+   "publisher": "Engineering News (search-result summary only)",
+   "published": "2026-07-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "The plan targets Phase II beginning by 2033 and increasing output to the full 55,000 tons of LCE per year using Rio Tinto's direct lithium extraction process. A more recent July 2026 report says Codelco expects its lithium project in the Maricunga salt flat to become a reality in eight years"
+  },
+  "R31": {
+   "url": "https://www.miningweekly.com/article/sigma-lithium-resumes-operations-in-brazil-after-court-ruling-2026-10-07",
+   "publisher": "Mining Weekly (search-result summary only)",
+   "published": "2026-10-07",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "A July 2026 company release describes Phase 2 and Phase 3 targets of 520,000 tonnes and 770,000 tonnes, respectively. Other reports give roughly 580,000 t and 830,000 t"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "covalent-lithium-mt-holland-australia",
+   "fields": {
+    "capacity": 760000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2030,
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "capacity": [
+     "S1"
+    ],
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Expansion FID 22 Jul 2026 (Wesfarmers/SQM 50:50): nameplate 380 kt/y -> 760 kt/y (100% basis); first expansion volumes 1H CY2030 (S1). Capacity/ref year 2030 = target first production of the expansion (full-capacity year not stated). Surplus concentrate beyond the 50 kt/y LiOH Kwinana refinery is to be sold to Asian refiners (search summary, not quoted). Same capacity/ref year as the earlier row; this patch only adds confirmed evidence. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "rio-tinto-galaxy-james-bay-canada",
+   "fields": {
+    "capacity": 310000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 40000,
+    "norm_unit": "t LCE",
+    "status": "announced",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "capacity": [
+     "S2"
+    ],
+    "status": [
+     "S2",
+     "R5"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Rio Tinto page calls Galaxy 'a hard rock lithium development' expected to produce up to 40,000 t LCE (S2: Rio states the LCE figure; its production field lists 310 kt DMT spodumene concentrate at 5.6% Li2O, read from the fetch summary - the 310 kt/40 kt LCE pair is Rio's own). No start date on the page, so capacity_ref_year 2026 is the publication-year FALLBACK, not a target. Project_state paused: Arcadium announced in Aug 2024 it would pause investment (R5, database listing, unconfirmed against the original release); Rio Tinto (owner since the Arcadium acquisition) was reported in Feb 2026 to be evaluating Galaxy vs Whabouchi as spodumene supply for the Becancour hydroxide plant (R6) - no restart decision found. UNDATED."
+  },
+  {
+   "action": "update",
+   "id": "minera-del-altiplano-fenix-argentina",
+   "fields": {
+    "installed_capacity": 40000,
+    "installed_as_of": "2026-11-03",
+    "installed_norm": 40000,
+    "capacity_by_year_json": {
+     "2026": 40000
+    },
+    "capacity": 40000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S3"
+    ],
+    "capacity_by_year_json": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Rio Tinto opened 'Fenix 1B' in Nov 2026: +10,000 t LCE/yr, total on-site capacity ~40,000 t (S3). Installed set to 40,000 as of the opening date; ramp-up status of the new 10 kt not stated (nameplate-built, not necessarily producing at that rate). Earlier row had installed 28,000 (2024-12-31) from another task; the 2026 step is the completed 1B expansion. A search summary listed RIGI approval of Fenix expansion at +9,500 t to 41,500 t total (different figure from the 40,000 'around' above - not used; conflict logged). No further Fenix phase ('Fenix 2') with a stated capacity and date was found."
+  },
+  {
+   "action": "update",
+   "id": "rio-tinto-sal-de-vida-argentina",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "Rio Tinto opened Sal de Vida (Catamarca) Nov 2026: 'targeted annual capacity of 15,000 tonnes'; production began ahead of schedule in Q2 2026 (S3). Installed (producing) capacity not stated - left unset; the ramp-up is ongoing. No separate Stage 2/3 (older Allkem plan of 45 kt) re-stated in 2026 sources found; not added."
+  },
+  {
+   "action": "update",
+   "id": "minera-exar-cauchari-olaroz-argentina",
+   "fields": {
+    "capacity": 85000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2028,
+    "capacity_norm": 85000,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "capacity": [
+     "S4",
+     "R4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "Stage 1 = 40,000 t/y (installed, existing row); Stage 2 'targets an additional 45,000 tpa of LCE' (S4, 6-K of 11 Mar 2026; scoping study then due mid-2026) -> total 85,000 t/y (sum of 40,000 + 45,000; the 85,000 total is stated by R4, Engineering News 2026-10-01 via search summary only). capacity_ref_year 2028 = year the first 10 kt/y adsorption-DLE module is expected online (R4, reported); completion year of the remaining 35 kt is NOT stated - ref year is a first-production year, a lower bound on the last-phase year. RIGI approval May 2026; environmental permit application filed Dec 2025 and still pending (search summary). An older SMM item said Stage 2 completes mid-2026 - stale, not used. Status of the Stage 2 phase = announced/approved-not-built; the row stays operational for Stage 1."
+  },
+  {
+   "action": "update",
+   "id": "lithium-argentina-ppg-argentina",
+   "fields": {
+    "status": "announced",
+    "capacity": 150000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2029,
+    "capacity_norm": 150000,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "capacity": [
+     "S6",
+     "R1"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Company project page: 'Feasibility stage', expected capacity 150,000 tpa, ownership Ganfeng 67% / Lithium Argentina 33% (S6). Status corrected from under_construction to announced (feasibility stage; no construction evidence; a June 2026 search summary says the partners are seeking a third investor and Ganfeng applied for RIGI in March 2026). Plan = three 50,000 t/y stages (Nov 2025 scoping study per Mining Weekly search summary: 30-yr life, Stage 1 capex ~US$1.1bn, total ~US$3.3bn, hybrid solar evaporation + DLE). capacity_ref_year 2029 = 'commission its projects in 2029' (R1, search summary of The Energy Year) - ambiguous whether all three stages; the earlier ref year 2025 is superseded. UNCERTAIN timing; 150,000 is the full 3-stage plan."
+  },
+  {
+   "action": "update",
+   "id": "zijin-liex-tres-quebradas-argentina",
+   "fields": {
+    "capacity": 60000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 60000,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "capacity": [
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "RIGI committee approved Liex's US$709m Phase 2 in Jul 2026: new plant 'to produce 40,000 MT of lithium carbonate annually', 'total planned capacity between 60,000 MT and 80,000 MT annually' (S5). Capacity set to 20,000 (Phase 1, operating since Sep 2025) + 40,000 = 60,000 (lower end of the stated range; a further 10 kt from Phase 1 debottlenecking is mentioned in the same article, not added). capacity_ref_year 2026 = publication-year FALLBACK: no Phase 2 start/completion date found - UNDATED. Argus (via search summary) gave an older 40-60 kt/y guidance; discrepancy noted. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "galan-lithium-hombre-muerto-west-argentina",
+   "fields": {
+    "capacity": 21000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 21000,
+    "norm_unit": "t LCE",
+    "status": "under_construction"
+   },
+   "evidence": {
+    "capacity": [
+     "R3"
+    ],
+    "status": [
+     "R3"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Search summaries (Mining Weekly 2026-06-05 and a Nasdaq release): Phase 1 construction finished Mar 2026, first processed brine/lithium chloride May 2026, first LCl concentrate sales targeted Q4 2026 (commissioning = under_construction under D-112); nameplate 4 kt LCE expanding to 5.2 kt LCE in H1 2027 (the earlier row value 5,200); Phase 2 permitted to 21,000 tpa LCE with earthworks started, 'higher production volumes targeted from second-half 2027' (R3). capacity 21,000 = full permitted Phase 1+2 (cumulative reading of 'expand to 21,000tpa'); ref year 2027 = Phase 2 first-volume target (not a full-capacity date). Phases 3-4 to 60,000 tpa are undated aspirations - not counted (D-015). RIGI listing in a search summary gives 20,850 t LCE/yr - minor conflict. Reported tier (page 403)."
+  },
+  {
+   "action": "update",
+   "id": "eramet-centenario-ratones-argentina",
+   "fields": {},
+   "evidence": {
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "Current capacity 24,000 t LCE confirmed (S10). Planned expansion: +11,000 t LCE/yr (to 35,000) for about US$350m, subject to FID which Eramet targeted by end-2027, no start-up date given (S10). NOT added to capacity: undated, unsanctioned (D-015). The older 'Phase 2 to 75,000 t' (2023 plan) has been scaled back; 75,000 t is described as long-term optionality only. Ramp-up reached ~90% of nameplate in Jun 2026 (search summary, not evidenced)."
+  },
+  {
+   "action": "update",
+   "id": "lake-resources-kachi-argentina",
+   "fields": {
+    "capacity": 25000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2030,
+    "capacity_norm": 25000,
+    "norm_unit": "t LCE",
+    "status": "announced"
+   },
+   "evidence": {
+    "capacity": [
+     "R1",
+     "R2"
+    ],
+    "status": [
+     "R2"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Phase 1 = 25 ktpa battery-grade lithium carbonate (DFS addendum, R2). Catamarca issued the Environmental Impact Declaration in Sep 2026; project entered FEED; no FID/financing yet (R2). 2030 start per the Argentine government pipeline as reported (R1: Kachi and Arizaro +25,000 t/yr each in 2030). Company's longer-term 50 ktpa = two 25 ktpa phases (S12, undated 2023 article: 'a phased approach of two 25,000tpa operations'); Phase 2 NOT counted (undated aspiration). Older plans targeted first production 2027/2028 - slipped. Argentine Mining Secretary (via metal.com 2026-04-15, fetched): eight new projects add a combined 305,000 t LCE by 2030; items not itemised."
+  },
+  {
+   "action": "update",
+   "id": "enami-salares-altoandinos-chile",
+   "fields": {
+    "capacity": 75000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2032,
+    "capacity_norm": 75000,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "capacity": [
+     "R20"
+    ],
+    "status": [
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Rio Tinto to acquire a controlling 51% (ENAMI 49%, implied) of the project; closing expected H1 2026 (S11) but a Chinese antitrust review was delayed (Aug 2026, search summary). ENAMI projects start in 2032 at 35,000 t/y rising to 75,000 t/y over three years (R20) -> capacity 75,000 t LCE, ref year 2035 = 2032 + 3-year ramp (derived by me from the stated ramp). A 2025 report also gave 75,000 t LCE/yr. No FID (pre-feasibility/feasibility to come; capex >US$3bn per ENAMI). Earlier guess of 25,000 tpa not found in any source. [lead] ref year = stated 2032 start (the researcher's +3-year ramp derivation not used)."
+  },
+  {
+   "action": "update",
+   "id": "elevra-north-american-lithium-canada",
+   "fields": {
+    "capacity": 373000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2029,
+    "capacity_norm": 49800,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "NAL Expansion PFS (ASX release 7 Sep 2026): average annual post-expansion production 373 ktpa of 5.4% Li2O concentrate vs 199 ktpa in the unexpanded base case (S9); Stage 1 +15-20% within the existing 4,500 tpd mill permit, Stage 2 (6,500 tpd mill) production from mid CY28, Stage 3 completion mid CY29; C$366m, fully funded, ground broken Jun 2026 (search summaries). capacity_ref_year 2029 = Stage 3 completion. These are LOM AVERAGE production rates, not nameplate. capacity_norm 49,800 t LCE = 373,000 x 5.4% Li2O x 2.473 (stated grade; no recovery adjustment). Earlier row value 199,000 = base case; superseded as the 'full plan'. Installed capacity left unset. Authier (Elevra 100%) and Moblan (Elevra 60%) not found with stated capacities - not added."
+  },
+  {
+   "action": "update",
+   "id": "keliber-syvajarvi-rapasaari-finland",
+   "fields": {},
+   "notes": "[Reported-tier context only (R23, Mining Weekly 2026-09-04 search summary: 'Hot commissioning of the Päiväneva concentrator started in April 2026, with stable spodumene concentrate production targeted for the second half of 2026'); no evidence link made so the row's tier is not downgraded.] Search summary: mining started Feb 2026 at Syvajarvi; Paivaneva concentrator hot commissioning from Apr 2026 with stable spodumene concentrate production targeted H2 2026; Kokkola refinery (15,000 tpa LiOH.H2O, separate refining row) constructed, hot commissioning conditional ~Q4 2026; steady state 2028 (R23). Status kept under_construction (commissioning, D-112). Existing capacity/ref year unchanged."
+  },
+  {
+   "action": "update",
+   "id": "savannah-resources-barroso-portugal",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R24 S&P Global 2026-08-12 search summary.] Savannah announced in Jun 2026 that Barroso resumed work after the Portuguese government rejected an anticipated precautionary (suspension) measure; land-access agreements with two of three baldios signed Aug 2026; DFS expected H1 2026 and first production 2028 per earlier guidance (S&P 2025-09-04 headline: start-up pushed back to 2028). No FID found. Capacity/ref year unchanged."
+  },
+  {
+   "action": "update",
+   "id": "frontier-lithium-pak-canada",
+   "fields": {
+    "capacity": 200000,
+    "capacity_unit": "t SC6",
+    "capacity_ref_year": 2026,
+    "product": "spodumene concentrate (SC6)",
+    "status": "announced"
+   },
+   "evidence": {
+    "capacity": [
+     "R11"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "2025 DFS: 200,000 t/y SC6 from an open-pit mine and mill near Red Lake, 31-yr life, 31.1 Mt reserves at 1.51% Li2O, capex ~C$943m; an updated mine/mill feasibility study (DRA Americas) is due Q1 2027 (R11). Operated as JV Frontier 92.5% / Mitsubishi 7.5%; Thunder Bay conversion site acquired. capacity_ref_year 2026 = publication-year FALLBACK (no start date found) - UNDATED. t SC6 normalises at 0.148 (D-102)."
+  },
+  {
+   "action": "update",
+   "id": "nemaska-lithium-whabouchi-canada",
+   "fields": {
+    "project_state": "paused"
+   },
+   "evidence": {
+    "project_state": [
+     "R6"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Rio Tinto (53.9%, operator since Feb 2026; Investissement Quebec 46.1%) is still evaluating Whabouchi vs Galaxy as spodumene supply for the Becancour hydroxide plant (60% built end-2025, first production targeted 2028); one database lists Whabouchi as Inactive/Suspended (R6). No Whabouchi construction restart or first-concentrate date found. Federal assessment: ~3,000 t/d ore, 26-yr life (search summary). No concentrate capacity in tonnes verified, so capacity left null. Status kept under_construction (furthest stage: site works 2018-19)."
+  },
+  {
+   "action": "update",
+   "id": "ioneer-rhyolite-ridge-usa",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R22 Mining Weekly 2026-07-10 search summary.] Search summary (Mining Weekly 2026-07-10): FID still targeted for 2H 2026, first commercial production expected 2029; US$996m DOE loan closed Jan 2025 with conditions precedent incl. a strategic partner; Jun 2026 non-binding LOIs with KIND (equity) and Hyundai Engineering; federal permit upheld by district court 31 Mar 2026, Ninth Circuit appeal pending (decision mid-2027). Row capacity 27,800 t LiOH (2029) unchanged; a search summary also quotes ~24,500 t LCE/yr average (different basis) - not used."
+  },
+  {
+   "action": "update",
+   "id": "lithium-americas-thacker-pass-usa",
+   "fields": {
+    "status": "under_construction",
+    "capacity": 40000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2028
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.9,
+   "notes": "Q3 2026 release (12 Nov 2026): Phase 1 nominal capacity 40,000 t/yr, mechanical completion targeted late 2027, ramp-up through 2028 (S7). capex US$2.93bn, ~1,900 on site (search summary). Phase 2 appears in the release only as a forward-looking item ('including financing') - no capacity/date; NOT counted (D-015). Ref year 2028 = end of ramp-up per S7."
+  },
+  {
+   "action": "update",
+   "id": "smackover-lithium-south-west-arkansas-usa",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R21 Standard Lithium/Smackover release via Finviz, May 2026, search summary.] May 2026 release (search summary): NEPA review concluded (FONSI); partners (Standard Lithium 55% operator / Equinor 45%) expect FID and construction start in 2026 and first commercial production in 2029; Oct 2025 DFS: 22,500 t/y battery-quality Li2CO3, 20-yr life, capex US$1.45bn; total target 45,000 t/y in two 22,500 t phases (Phase 2 undated, not counted); Trafigura offtake 8,000 t/y 10 yrs; US$225m DOE grant. ExxonMobil (Saltwerx) Arkansas: no capacity or schedule disclosed by Exxon (a WSJ figure of 75-100 kt/y is unconfirmed) - not added."
+  },
+  {
+   "action": "update",
+   "id": "pls-pilgangoora-australia",
+   "fields": {
+    "capacity": 2000000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2029,
+    "capacity_norm": 262100,
+    "norm_unit": "t LCE"
+   },
+   "evidence": {
+    "capacity": [
+     "R7"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "P2000: PLS FID 16 Oct 2026 for the expansion to ~2 Mtpa nameplate (from 1 Mtpa); first ore targeted mid-2029 (R7, search summaries; Reuters A$1.9bn). Ref year 2029 = first-ore year (full-rate date not stated). capacity_norm 262,100 t LCE = 2.0 Mt x the existing row's grade basis (131,069 t LCE per 1.0 Mt, i.e. ~5.3% Li2O x 2.473) - same basis as the prior row, not a new grade statement. Ngungaju (~200 kt/y) restart approved Feb 2026, production resuming Jul 2026 (inside the current 1 Mtpa installed base per earlier row). Installed 1,000,000 (2025-06-30) unchanged."
+  },
+  {
+   "action": "update",
+   "id": "liontown-kathleen-valley-australia",
+   "fields": {
+    "capacity": 780000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2030
+   },
+   "evidence": {
+    "capacity": [
+     "R8"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "Search summaries (Engineering/Mining Weekly 2026-10-02, investor presentation summary): board approved the 4.2 Mtpa-plant expansion on 30 Sep 2026 (~A$389m): ~500 ktpa -> ~780 ktpa spodumene concentrate; first incremental ore Q1 FY28 (Jul-Sep 2027), expanded rate from FY30 (=> ref year 2030, fiscal year ending Jun 2030). Mining is entirely underground since Dec 2025. Single secondary source - check the ASX release. Earlier row capacity 500,000 (ref 2026) = current plan; installed unset."
+  },
+  {
+   "action": "update",
+   "id": "azure-minerals-andover-australia",
+   "fields": {
+    "capacity": 1100000,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2026,
+    "status": "announced"
+   },
+   "evidence": {
+    "capacity": [
+     "R9"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "Hancock/SQM environmental filing (WA EPA public comment 22-28 Jun 2026): ~6 Mtpa ore, up to 1.1 Mt/yr 'lithium concentrate' (grade and product not stated - assumed spodumene concentrate), ~34-year life; construction targeted to start 2028 (two construction years) => production not before ~2030 (inference, NOT stated). capacity_ref_year 2026 = publication-year FALLBACK - UNDATED production start. No FID; land-use agreement still being negotiated. No tonnes normalised (grade unknown)."
+  },
+  {
+   "action": "update",
+   "id": "core-lithium-finniss-australia",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "project_state": [
+     "R10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "Core Lithium took FID on the Finniss restart on 18 Mar 2026 (~A$290m package; search summaries); Grants open-pit mining restarted May 2026 and first spodumene concentrate from the recommissioned plant on 8 Sep 2026 (R10). Staged ramp-up with BP33 underground later. Capacity 214,000 t (ref 2028) unchanged; no BP33 tonnage found."
+  },
+  {
+   "action": "update",
+   "id": "atlantic-lithium-ewoyaa-ghana",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R25 Mining Weekly 2026-03-20 search summary.] Ghana's Parliament ratified the Ewoyaa mining lease on 20 Mar 2026 (15-yr initial term; sliding royalty 5-12%); EPA permit Sep 2024 and mine operating permit Oct 2024 already held; FID/financing still pending (R25). Huayou made a ~US$210m offer for Atlantic Lithium (7 May 2026) and assumed Ewoyaa funding obligations (search summaries; row jv_partners already notes Huayou). No construction start or first-production date and no tonnage found in 2026 sources; existing capacity/ref year left as is (ref year looks like a fallback)."
+  },
+  {
+   "action": "update",
+   "id": "zijin-manono-northeast-mine-drc",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R26 Engineering News 2026-07-24 search summary.] Search summary (Engineering News 2026-07-24): processing plant started production in May 2026 (a month ahead of schedule), first concentrate exports to China; design 5 Mt ore/yr producing ~1 Mt spodumene concentrate; smelter/downstream facilities due by Dec 2026; 2026 output target ~30,000 t LCE. Zijin 54.9% / Cominiere 35.1% / DRC govt 10% (as in row, 10% stake treated separately). KoBold's adjoining licence (own row) will not develop until legal disputes are settled."
+  },
+  {
+   "action": "update",
+   "id": "andrada-uis-lithium-expansion-namibia",
+   "fields": {
+    "capacity": 50000,
+    "capacity_unit": "t petalite concentrate",
+    "capacity_ref_year": 2026,
+    "status": "announced"
+   },
+   "evidence": {
+    "capacity": [
+     "R27"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Target 50,000 t/y petalite concentrate by reprocessing waste from the existing tin-tantalum concentrator; EIB cooperation signed Feb 2026 to speed the feasibility study; DFS phase during 2026 (R27). capacity_ref_year 2026 = publication-year FALLBACK (no start date) - UNDATED. Petalite concentrate grade not stated; not normalised."
+  },
+  {
+   "action": "update",
+   "id": "vulcan-lionheart-hoechst-lithium-hydroxide-germany",
+   "fields": {},
+   "evidence": {
+    "status": [
+     "S8",
+     "R12"
+    ],
+    "capacity": [
+     "S8"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "FID taken 3 Dec 2025 on a EUR 2.2bn financing package; target 24,000 t/y LiOH.H2O, commercial production scheduled 2028 after ~2.5 years' construction (S8); construction of the central lithium plant at Infraserv Hoechst began by Apr 2026 (R12, search summary). The upstream geothermal brine/DLE extraction (Upper Rhine) is not a separate row - extraction capacity is not stated separately; refining row carries the 24 kt."
+  },
+  {
+   "action": "update",
+   "id": "imerys-emili-montlucon-conversion-plant-france",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R13 Metals Wire 2026-03 search summary.] Search summaries (Feb-Mar 2026): French state (Banque des Territoires) took a EUR 50m minority stake to fund the feasibility work; PFS lifted capex to ~EUR 1.8bn from EUR 1bn and doubled mine life; commercial output moved from 2028 to 2030; FID to be taken by end-2027 after the feasibility study (early 2027) (R13). Imerys froze its UK (Cornwall) lithium project. The Beauvoir mine has no separate mining row (no mine tonnage found)."
+  },
+  {
+   "action": "update",
+   "id": "talison-greenbushes-australia",
+   "fields": {},
+   "notes": "Pipeline check (no field change): search summaries report CGP3 (~A$880m, ~500 kt/y concentrate) first ore Dec 2025, ramp-up to nameplate planned mid-2026, a fire at CGP3 on 9 Jun 2026 (IGO kept FY26 guidance 1.375-1.425 Mt; recovery timeline unquantified), and CGP4 construction start expected 2027 as part of a wider expansion to >9.5 Mtpa ore (~330 ktpa LCE in concentrate per one summary; unverified, undated). Existing row (2.14 Mt built, ref 2026) already includes CGP3; CGP4 NOT added (no sourced tonnes/date). Not opened: ASX PDF of 2026-02-12 returned binary."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-goulamina-mine-mali",
+   "fields": {},
+   "notes": "Pipeline check (no field change): Phase I 506 kt/y started Dec 2024; Phase II conflicts across sources - Mysteel gives 831 kt/y total (Phase II ~18 months after Phase I), another summary 'double to 1 million mt/year'. No 2026 Phase II construction decision/date found. Not added (D-015: undated)."
+  },
+  {
+   "action": "update",
+   "id": "hainan-mining-bougouni-mine-mali",
+   "fields": {},
+   "notes": "Pipeline check (no field change): Kodal/Hainan are updating the Phase 2 flotation-plant feasibility study, due end-2026 with an investment decision to follow; one database entry puts Stage 2 start in 2028 (unverified). Bougouni YTD Q3 2026 output 80,429 dmt at ~5.3% Li2O (search summary). No Phase 2 tonnage found - not added."
+  },
+  {
+   "action": "update",
+   "id": "sigma-lithium-grota-do-cirilo-brazil",
+   "fields": {},
+   "evidence": {},
+   "notes": "Pipeline check (no field change): Sigma resumed operations in Oct 2026 after a federal appeals court upheld its licences; Phase 2 restart planned for 2027. Targets conflict - a Jul 2026 company release gives Phase 2 = 520 kt and Phase 3 = 770 kt, other reports 580 kt / 830 kt (R31, search summary). Row keeps 520 kt (ref 2027); Phase 3 undated, not counted. PLS 'Colina' (ex-Latin Resources) and Atlas Lithium not researched (no data)."
+  },
+  {
+   "action": "update",
+   "id": "codelco-salar-de-maricunga-chile",
+   "fields": {},
+   "notes": "[Context only, no evidence link: R30 Engineering News 2026-07-16 search summary.] Search summaries: Rio Tinto to invest up to US$900m for 49.99%; US$50m of it contingent on first lithium by end-2030; plan targets Phase II beginning by 2033 reaching the full 55,000 t LCE/yr with DLE; a Jul 2026 report has Codelco saying the project becomes real 'in eight years' (~2034) (R30). Row capacity 55,000 (ref 2033) unchanged; schedule could slip a year."
+  },
+  {
+   "action": "update",
+   "id": "posco-sal-de-oro-argentina",
+   "fields": {},
+   "notes": "Conflict to resolve (no field change): a Jul 2026 search summary (ChemAnalyst; page 403) says Phase 1 (hydroxide plant) began Oct 2024 at 25,000 t and Phase 2 adds a 23,000 t LCE carbonate plant, completion expected early Aug 2026, combined ~50,000 t/y, with a 100,000 t/y long-term aim; the existing row carries 23,000 t Li2CO3 (installed as of 2026-10-06). The row may hold only the Phase 2 carbonate capacity. RIGI approval of the Sal de Oro expansion is reported (Industrial Info). Needs a company/filing check."
+  },
+  {
+   "action": "add",
+   "id": "zinnwald-lithium-zinnwald-germany",
+   "fields": {
+    "asset_name": "Zinnwald lithium project (Altenberg-Zinnwald)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium hydroxide monohydrate (mine plus planned plant)",
+    "asset_type": "underground hard-rock mine project",
+    "feedstock": "zinnwaldite",
+    "operator": "Zinnwald Lithium plc (Deutsche Lithium)",
+    "parent_company": "Zinnwald Lithium plc",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Saxony",
+    "status": "announced",
+    "capacity": 18000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2030,
+    "end_market": "battery",
+    "source_url": "https://www.tipranks.com/news/company-announcements/zinnwald-lithiums-pre-feasibility-study-reveals-strong-economic-potential-for-german-project",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-03-30"
+   },
+   "evidence": {
+    "capacity": [
+     "R14"
+    ],
+    "status": [
+     "R14"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Mar 2025 PFS: Phase 1 18,000 t/y LiOH.H2O, Phase 2 35,100 t/y (cumulative vs incremental not clear - NOT added); pre-tax NPV EUR 3.3bn. Full feasibility study not yet published (due 2026 per a Jan 2026 letter); spatial planning procedure completed Jan 2026; not selected as an EU CRMA strategic project; AMG agreed an offer for all shares in May 2026 (search summaries). Mining start 'expected 2030' (R15 page title, from a Czech energy site) -> ref year 2030, a first-production expectation. Zinnwald's Czech side (Cinovec) is a separate row. feedstock 'zinnwaldite' is the deposit's lithium mica from general knowledge - not in the quoted sources. Report source_published_date approximate (PFS Mar 2025)."
+  },
+  {
+   "action": "add",
+   "id": "critical-elements-rose-canada",
+   "fields": {
+    "asset_name": "Rose lithium-tantalum project",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "spodumene concentrate (chemical and technical grade)",
+    "asset_type": "hard-rock mine project",
+    "feedstock": "spodumene",
+    "operator": "Critical Elements Lithium Corporation",
+    "parent_company": "Critical Elements Lithium Corporation",
+    "jv_partners": null,
+    "country": "Canada",
+    "region": "North America",
+    "province_state": "Quebec",
+    "status": "announced",
+    "capacity": 203765,
+    "capacity_unit": "t spodumene concentrate",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 28700,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "https://www.nasdaq.com/press-release/critical-elements-lithium-announces-new-positive-feasibility-study-for-the-rose",
+    "source_date": "2026-11-28",
+    "source_published_date": "2023-08-29"
+   },
+   "evidence": {
+    "capacity": [
+     "R28"
+    ],
+    "status": [
+     "R29"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "Aug 2023 feasibility update: average annual production (years 2-17) 157,706 t chemical-grade (5.56%) + 46,059 t technical-grade (6.16%) spodumene concentrate = 203,765 t (sum of two grades; averages not nameplate), 17-yr life, initial capex US$471m (R28). Pre-construction: federal approval and construction authorisation held, financing (a C$115m bank-backed package was reported) not closed; analysts moved expected start to 2027 (R29) -> ref year 2027 (analyst expectation, not company guidance). capacity_norm 28,700 t LCE = 157,706 x 5.56% x 2.473 (21,684) + 46,059 x 6.16% x 2.473 (7,017), computed by me from the stated grades. 2022 FS had higher averages (173,317 + 51,369 t) - superseded. Hydroxide plant not committed (company says it cannot confirm). Date of the FS announcement taken from the search summary (29 Aug 2023); 2026 status not independently updated."
+  },
+  {
+   "action": "add",
+   "id": "ylb-uranium-one-uyuni-bolivia",
+   "fields": {
+    "asset_name": "Uyuni DLE lithium carbonate plant (YLB - Uranium One)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (direct lithium extraction, planned)",
+    "asset_type": "brine project (direct lithium extraction)",
+    "feedstock": "brine",
+    "operator": "YLB (Yacimientos de Litio Bolivianos) with Uranium One Group (Rosatom)",
+    "parent_company": "YLB (Bolivian state)",
+    "jv_partners": "Uranium One Group (Rosatom)",
+    "country": "Bolivia",
+    "region": "South America",
+    "province_state": "Potosi (Salar de Uyuni)",
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 14000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://pv-magazine.com/2025/01/16/bolivias-ylb-signs-lithium-deals-with-russian-chinese-companies",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-01-16"
+   },
+   "evidence": {
+    "capacity": [
+     "R17"
+    ],
+    "status": [
+     "R16",
+     "R17"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Contract signed Sep 2024: plant for 14,000 t/y Li2CO3, investment ~US$970m (R17). Still lacks congressional approval in 2026 (R16); a Bolivian court barred YLB and the ministry from administrative/operational steps under the contracts pending the judicial process (Mining.com, search summary, date unconfirmed). The new government (Pres. Paz) proposes a lithium law and an international tender. No construction. capacity_ref_year 2026 = publication-year FALLBACK - UNDATED; project_state paused = legally blocked. Province Potosi is the location of Uyuni (general knowledge)."
+  },
+  {
+   "action": "add",
+   "id": "ylb-cbc-uyuni-bolivia",
+   "fields": {
+    "asset_name": "Uyuni DLE lithium carbonate plants (YLB - CBC consortium)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (direct lithium extraction, planned; two plants 25,000 + 10,000 t/y)",
+    "asset_type": "brine project (direct lithium extraction)",
+    "feedstock": "brine",
+    "operator": "YLB (Yacimientos de Litio Bolivianos) with CBC consortium (CATL Brunp & CMOC)",
+    "parent_company": "YLB (Bolivian state)",
+    "jv_partners": "CBC consortium (CATL subsidiary Brunp, CMOC; press names differ)",
+    "country": "Bolivia",
+    "region": "South America",
+    "province_state": "Potosi (Salar de Uyuni)",
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 35000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://pv-magazine.com/2025/01/16/bolivias-ylb-signs-lithium-deals-with-russian-chinese-companies",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-01-16"
+   },
+   "evidence": {
+    "capacity": [
+     "R17"
+    ],
+    "status": [
+     "R16"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Contract signed Nov 2024 (~US$1.03bn per La Republica/S&P headlines): two plants, 25,000 + 10,000 t/y = 35,000 t/y (R17). Same legal/congressional blockage as the Uranium One contract (R16). Press disagrees on the partner naming (CBC vs CATL Brunp/CMOC). UNDATED (fallback ref year 2026); no construction."
+  },
+  {
+   "action": "add",
+   "id": "american-lithium-falchani-peru",
+   "fields": {
+    "asset_name": "Falchani lithium project (Macusani)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (planned)",
+    "asset_type": "lithium project (open-pit, planned)",
+    "feedstock": null,
+    "operator": "Macusani Yellowcake S.A.C. (American Lithium Corp.)",
+    "parent_company": "American Lithium Corp.",
+    "jv_partners": null,
+    "country": "Peru",
+    "region": "South America",
+    "province_state": "Puno",
+    "status": "announced",
+    "capacity": 25000,
+    "capacity_unit": "t LCE",
+    "capacity_ref_year": 2026,
+    "capacity_norm": 25000,
+    "norm_unit": "t LCE",
+    "end_market": "battery",
+    "source_url": "https://www.riotimesonline.com/falchani-lithium-puno-834-million-capex-2026/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-13"
+   },
+   "evidence": {
+    "capacity": [
+     "R18"
+    ],
+    "status": [
+     "R18"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "Search summary (Rio Times 13 Sep 2026): first-stage capex revised to US$834m (from US$625m), construction targeted 2H 2028; phased plan 25,000 t LCE/yr initially (cut from 30,000), then 44,000, then 100,000 (R18). Pilot plant commissioned Sep 2026; Peruvian decree of national importance for lithium/uranium (Jun 2026). Earlier plan was operations by 2027 - slipped. Only the first stage counted (later stages undated). capacity_ref_year 2026 = publication-year FALLBACK; construction start 2H 2028 implies production no earlier than ~2030 (inference). Deposit type/feedstock not given in the sources - left null."
+  },
+  {
+   "action": "add",
+   "id": "ganfeng-sonora-lithium-mexico",
+   "fields": {
+    "asset_name": "Sonora lithium project (Bacanora / Ganfeng)",
+    "step": "mining",
+    "commodity": "lithium",
+    "product": "lithium carbonate (battery grade, planned)",
+    "asset_type": "clay mine and processing plant (planned)",
+    "feedstock": "clay",
+    "operator": "Sonora Lithium / Bacanora Lithium (Ganfeng)",
+    "parent_company": "Ganfeng Lithium",
+    "jv_partners": null,
+    "country": "Mexico",
+    "region": "North America",
+    "province_state": "Sonora",
+    "status": "announced",
+    "project_state": "paused",
+    "capacity": 35000,
+    "capacity_unit": "t Li2CO3",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.mining.com/web/chinas-ganfeng-indefinitely-postpones-mexican-lithium-target-date-amid-govt-spat/",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "capacity": [
+     "R19"
+    ],
+    "status": [
+     "R19"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "2018 feasibility study: 35,000 t/y battery-grade Li2CO3 (R19). Mexico cancelled the project's concessions (investment-minimum grounds); Ganfeng/Bacanora/Sonora Lithium filed ICSID arbitration Jun 2024; Ganfeng said the project cannot proceed until the dispute is resolved, no timetable, and is open to a JV with Mexican authorities (R19). No 2026 update found (sources 2024-2025). UNDATED: ref year 2026 is a publication-year FALLBACK. Feedstock 'clay' (Sonora deposit) is from general knowledge, not the quoted sources."
+  }
+ ]
+}

@@ -87,3 +87,5 @@ capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plan
   mine output gaps, supply links), then a final audit and close-out.
 - 2026-11-28 03:xx lead: merged SC199 (KR/JP/West dated built capacity; CAM7 inference rejected) and SC198 (mine output:
   graphite world 10% → 36% of USGS, China 35%). 917 assets, 14/14 checks.
+- 2026-11-28 06:xx lead: merged SC200 (materials pipeline ex-China: pauses/cancellations, 3 new) and SC201 (lithium mine
+  pipeline: 34 updates, 6 new). 926 assets, 14/14 checks.
