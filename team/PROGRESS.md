@@ -82,3 +82,6 @@ capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plan
 - 23:xx lead: merged SC196 (5 dated built capacities) and SC197 (9 cobalt/HPMSM plants). 914 assets, 14/14 checks.
   CMOC HK AR 2025 fetched (HK_3993_AR2025): no per-mine cobalt split (group 117,549 t only) — stays company-level.
   Next wake: audit 5 on SC191–SC197 + reconciliation refresh; then remaining gaps per team/SC_BACKLOG.md.
+- 2026-11-28 00:xx lead: SC audit 5 (whole-DB random sample: 10% any defect, 0/20 aggregate-changing) → fixes merged.
+  914 assets, 14/14 checks. Next wakes: remaining gap passes from team/SC_BACKLOG.md (Chinese plant-level dated capacity,
+  mine output gaps, supply links), then a final audit and close-out.
