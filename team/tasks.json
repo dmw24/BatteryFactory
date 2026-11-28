@@ -4647,6 +4647,34 @@
     "by": "lead",
     "notes": "9/11 quotes found, 2 demoted; inferred zeros rejected"
    }
+  },
+  {
+   "id": "SC200",
+   "title": "Materials pipeline ex-China 2026-2030",
+   "workstream": "SC. Supply chain — pipeline",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC200.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "31 rows; 8 quotes found, 22 reported-tier (≤0.5); null ref years → publication-year fallback"
+   }
   }
  ]
 }

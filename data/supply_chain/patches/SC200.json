@@ -1,0 +1,920 @@
+{
+ "task": "SC200",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://www.batteriesinternational.com/2025/06/30/cobco-starts-up-2bn-morocco-battery-materials-plant/",
+   "publisher": "Batteries International",
+   "published": "2025-06-30",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "COBCO said on June 25 it had launched the first phase of production of NCM precursor cathode active materials"
+  },
+  "S2": {
+   "url": "https://www.umicore.com/en/newsroom/news/umicore-shares-details-on-cost-saving-measures-and-pauses-construction-of-its-battery-materials-plant-in-canada/",
+   "publisher": "Umicore press release",
+   "published": "2024-11-06",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Umicore has decided to continue to pause construction of its battery materials plant in Loyalist, Ontario, Canada."
+  },
+  "S3": {
+   "url": "https://www.geekwire.com/2026/battery-company-group14-furloughs-workers-at-washington-factory-just-as-rival-sila-ramps-up/",
+   "publisher": "GeekWire",
+   "published": "2026-01-27",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "furloughed an undisclosed number of employees at its yet-to-be-finished facility in Moses Lake, Wash."
+  },
+  "S4": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0000839470/000110465926125668/wwr-20260930x10q.htm",
+   "publisher": "Westwater Resources Form 10-Q for the quarter ended 2026-09-30",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "progressing construction activities at the Kellyton Graphite Plant at a measured level"
+  },
+  "S5": {
+   "url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+   "publisher": "Canary Media",
+   "published": "2025-03-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Apex 1 will still produce the precursors to CAM known as pCAM ... has extended its timeline for Apex 1 from the end of 2025 to the third quarter of 2026"
+  },
+  "S6": {
+   "url": "https://www.canarymedia.com/articles/batteries/facing-headwinds-ascend-shifts-plans-for-battery-recycling-in-kentucky",
+   "publisher": "Canary Media",
+   "published": "2025-03-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "scrapping plans to produce CAM there"
+  },
+  "S7": {
+   "url": "https://www.energy.gov/nepa/articles/doeea-2236-finding-no-significant-impact-june-2026",
+   "publisher": "US DOE, DOE/EA-2236 Finding of No Significant Impact (Mexichem Fluor / Koura LiPF6, St. Gabriel LA)",
+   "published": "2026-06-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "a LiPF6 manufacturing unit at Mexichem's property in St. Gabriel, Iberville Parish, Louisiana ... would produce at least 10,000 MT of LiPF6"
+  },
+  "S8": {
+   "url": "https://electrive.com/2026/05/08/hunan-yuneng-plans-cathode-material-factory-in-spain",
+   "publisher": "electrive",
+   "published": "2026-05-08",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Hunan Yuneng has now begun construction of a new LFP cathode material factory ... a plant with an annual capacity of 50,000 tonnes of LFP cathode material ... A later expansion to 300,000 tonnes per year is planned."
+  },
+  "S9": {
+   "url": "https://chemanager-online.com/de/news/cylib-skaliert-batterierecycling-auf-industriemassstab",
+   "publisher": "CHEManager (cylib)",
+   "published": "2026-09-10",
+   "accessed": "2026-11-28",
+   "language": "de",
+   "quote": "In Dormagen entsteht gerade unser Standort für die hochwertige Rohstoffrückgewinnung aus Schwarzmasse."
+  },
+  "S10": {
+   "url": "https://www.aiib.org/en/projects/details/2026/_download/Morocco/NTS_English.pdf",
+   "publisher": "AIIB project non-technical summary (BTR Mediterranean Anode, Tangier); PDF text not machine-readable by WebFetch",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): 'An AIIB project document describes an integrated synthetic graphite anode materials manufacturing facility with an annual production capacity of 60,000 tons ... in Mohammed VI Tangier Tech City'; electrive 2024 estimated construction 'around two years'."
+  },
+  "S11": {
+   "url": "https://www.lavieeco.com/affaires/batteries-tinci-materials-lance-la-construction-de-son-usine-delectrolytes-a-jorf-lasfar/",
+   "publisher": "La Vie Eco (also Medias24 2025-06-12, Telquel 2026-02-10)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "fr",
+   "tier": "reported",
+   "snippet": "title: 'Batteries: Tinci Materials lance la construction de son usine d'électrolytes à Jorf Lasfar'; web-search summary: June 2025 investment agreement for an integrated electrolyte and raw-materials base with annual capacity of 150,000 tons of electrolyte products and critical raw materials, 2.576 bn MAD (~USD 280m); Telquel 2026-02-10 cites 2.8 bn MAD."
+  },
+  "S12": {
+   "url": "https://www.koreaherald.com/article/10597156",
+   "publisher": "Korea Herald (plus GM Canada Ultium CAM project page, Global News on phase 2)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): 'Posco Future M finalized a schedule to begin phase 1 operations at its joint venture, Ultium CAM, in late October 2026'; JV 85% POSCO Future M / 15% GM, 20,000 t high-nickel cathode annually; Global News: company is 'pausing the second phase'; Vale scrapped the nickel sulfate plant for phase 2."
+  },
+  "S13": {
+   "url": "https://www.mining.com/web/albemarle-ceo-says-math-doesnt-work-for-us-lithium-refinery-project/",
+   "publisher": "Mining.com (page returned HTTP 403 to WebFetch)",
+   "published": "2025-05-02",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Albemarle paused the Richburg (Chester County, SC) plant in early 2024; planned 50,000 t/yr battery-grade lithium hydroxide with potential expansion to 100,000 t; CEO Kent Masters: 'the math doesn't work today'; 2025 strategy update defers spending."
+  },
+  "S14": {
+   "url": "https://www.barchart.com/story/news/1898611/westwater-resources-announces-first-quarter-2026-business-results",
+   "publisher": "Westwater Resources Q1 2026 results (via Barchart; also 2026-08 EXIM $25m loan release)",
+   "published": "2026-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): 'Phase I of the Kellyton Graphite Plant is designed to produce approximately 12,500 metric tons of CSPG annually'; Phase I cost estimate USD 245m of which ~USD 109m not yet incurred; company targeting commercial production in 2027; initial production expected within ~12 months of securing remaining financing."
+  },
+  "S15": {
+   "url": "https://www.skillings.net/critical-minerals-talga-group-hanwa-offtake-and-2026-outlook/",
+   "publisher": "Skillings Mining Review (plus Engineering News 2026-10-28 on Dainen Materials offtake)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Talga 'planned construction of commercial anode refinery in 2026, subject to final investment decision'; must finalize a multi-billion SEK financing package by end Q4 2026; Oct 2026 binding offtake term sheet with Dainen Materials for output of the full-scale refinery 'which will produce 19,500 t/y'; EIB EUR 150m loan, EUR 70m EU Innovation Fund grant."
+  },
+  "S16": {
+   "url": "https://www.electrive.com/2026/10/01/vianode-seeks-partner-for-cooperation-or-acquisition/",
+   "publisher": "electrive (plus electrive 2025-11-03 'Vianode to build graphite factory in Ontario')",
+   "published": "2026-10-01",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'Vianode seeks partner for cooperation or acquisition'; web-search summary: second plant 'Via Two' at St. Thomas, Ontario, site work since late 2025, ground preparation under way to enable start of production in 2028; GM multi-billion offtake (Jan 2025); Reuters-based report: first phase ~80,000 t/yr synthetic graphite by 2030 (unverified)."
+  },
+  "S17": {
+   "url": "https://www.miningweekly.com/article/vulcan-starts-building-39bn-lionheart-lithium-plant-in-frankfurt-2026-04-24",
+   "publisher": "Mining Weekly (page returned HTTP 403; also S&P Global 2026-04-24, Mining Weekly 2025-12-03 financing)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Vulcan took the final investment decision on Lionheart Phase 1 after securing a EUR 2.2bn package in Dec 2025; announced start of major construction works at its central lithium plant at Infraserv Industrial Park Hoechst, Frankfurt (April 2026); Phase 1 about 24,000 t/yr lithium hydroxide monohydrate; commercial start-up targeted 2028."
+  },
+  "S18": {
+   "url": "https://www.miningweekly.com/article/keliber-lithium-hydroxide-project-finland-update-2026-09-04",
+   "publisher": "Mining Weekly (Keliber update; also Sibanye-Stillwater July 2026 statements as relayed)",
+   "published": "2026-09-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): July 2026 Sibanye-Stillwater said the Kokkola lithium refinery 'has been constructed and is progressing through commissioning preparations'; conditional hot commissioning planned for Q4 2026; steady-state production projected from 2028; nameplate 15,000 tpa battery-grade lithium hydroxide monohydrate."
+  },
+  "S19": {
+   "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/092926-uk-backs-lithium-refinery-to-build-domestic-battery-supply-chain",
+   "publisher": "S&P Global Commodity Insights (Tees Valley Lithium / Alkemy Capital; also Yorkshire Post, ChemAnalyst 2026-07)",
+   "published": "2026-09-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): UK government funding commitment (initial grant GBP 18.3m) for Phase 1 'capable of producing 25,000 tonnes per annum of battery grade lithium hydroxide monohydrate from 2028'; Phase 1 now planned at Billingham (moved from Wilton); ChemAnalyst (July 2026) says 'under construction' but Alkemy April 2026 material cites funding uncertainty."
+  },
+  "S20": {
+   "url": "https://www.engineeringnews.co.za/article/canadian-cobalt-refinery-is-taking-shape-electra-battery-materials-confirms-2026-08-18",
+   "publisher": "Engineering News (Electra update; page returned HTTP 403; also Mining Weekly 2026-03-27 and 2026-09-04, SBIZ)",
+   "published": "2026-08-18",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): refinery designed to initially produce 5,120 t/y of contained cobalt, crystalliser nameplate up to 6,500 t/y; structural steel/concrete and equipment installation advanced since June 2026; select commissioning Q4 2026, mechanical completion Q2 2027, commercial operations near end of 2027."
+  },
+  "S21": {
+   "url": "https://www.mining.com/?p=1201446",
+   "publisher": "Mining.com 'Rio Tinto slows Quebec lithium plant build, timeline intact' (HTTP 403; also Northern Miner 'Nemaska pause clouds Quebec lithium plans', Mining Weekly 2026-02-19)",
+   "published": "2026",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Becancour plant ~60% complete end-2025, ~70% by March 2026; Rio planned to slow the build because of rising costs; later report: construction 'set to remain on hold through 2027', putting the planned 2028 start in doubt (date of that report not confirmed); sources give 32,000 t/yr capacity; Rio holds 53.9%, Investissement Quebec 46%."
+  },
+  "S22": {
+   "url": "https://www.nasdaq.com/press-release/asahi-kasei-battery-separator-corporation-breaks-ground-lithium-ion-battery-separator",
+   "publisher": "Asahi Kasei Battery Separator Corp press release via Nasdaq (also Autotech Insight 'Asahi Kasei and Honda begin construction of new EV battery separator plant in Canada', CBC)",
+   "published": "2024-11-18",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'Asahi Kasei Battery Separator Corporation Breaks Ground on Lithium-ion Battery Separator Plant in the Niagara Region'; web-search summary: construction under way since late 2024, JV with Honda, commercial production expected 2027 subject to permits; no 2026 progress update found."
+  },
+  "S23": {
+   "url": "https://www.thejakartapost.com/business/2025/04/24/govt-says-chinas-huayou-to-replace-lges-in-ev-battery-project.html",
+   "publisher": "The Jakarta Post (also Antara 'Indonesia targets 2026 groundbreaking for Huayou EV battery project')",
+   "published": "2025-04-24",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'Govt says China's Huayou to replace LGES in EV battery project'; web-search summary: LGES withdrew from the Indonesia Grand Package; Antara headline: Indonesia targets 2026 groundbreaking for Huayou project; smelter, precursor, cathode and HPAL facilities planned in East Halmahera; 2023 LG Chem-Huayou MoU precursor plant 50,000 t/yr 'still under consideration'."
+  },
+  "S24": {
+   "url": "https://news.metal.com/newscontent/103610585/Redwood-Materials-Launches-SC-Plant-Pivots-to-Energy-Storage-Amid-6B-Valuation",
+   "publisher": "SMM / Metal.com (Nov 2025; also americanbazaaronline 2025-11-27)",
+   "published": "2025-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Redwood launched production at its South Carolina plant but 'cathode material plant construction has been delayed', copper foil production scaled back, focus shifted to grid energy storage; no 2026 update found."
+  },
+  "S25": {
+   "url": "https://thepostsearchlight.com/?p=222205",
+   "publisher": "The Post-Searchlight (Bainbridge GA), 'Anovion still aiming for 2026 construction'",
+   "published": "2025-07",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'Anovion still aiming for 2026 construction'; web-search summary: July 2025 Anovion said it was targeting 2026 for the 'mini-mill' and production in 2028 for the full facility; little visible construction at the Downrange Industrial Park site; initial output 40,000 t graphite; nothing dated 2026 found."
+  },
+  "S26": {
+   "url": "https://www.engineeringnews.co.za/article/matawinie-mine-and-bcancour-battery-material-plant-phase-2-update-2026-04-17",
+   "publisher": "Engineering News (NMG Phase 2 update; also NMG Business Wire 2026-03-26 and 2026-05-13)",
+   "published": "2026-04-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Matawinie mine FID taken with construction started; company 'actively engaging with targeted financial partners for the 13-ktpa Becancour Battery Material Plant with a view to reach FID in H2-2026'; plant scaled back last year; cost estimate USD 911m."
+  },
+  "S27": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001831979/000149315226006839/form424b3.htm",
+   "publisher": "Stardust Power Inc. Form 424B3 2026 (also Q1 2026 results, 2026-04-20 non-binding LOI for up to USD 150m)",
+   "published": "2026",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): planned up to 50,000 t/yr battery-grade lithium carbonate, capex about USD 500m; ODEQ air construction permit secured early 2026; only a USD 15m bridge facility and a non-binding LOI for up to USD 150m at project level; no evidence construction financing closed or vertical construction started."
+  },
+  "S28": {
+   "url": "https://www.moroccoworldnews.com/2025/07/233005/lg-yahua-group-to-invest-mad-5-5-billion-in-lithium-refining-plant-in-morocco/",
+   "publisher": "Morocco World News (also Medias24 2025-07-24)",
+   "published": "2025-07",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): July 2025 first-phase investment over MAD 5.5bn announced for a lithium refining plant; 90,000 t/yr lithium salts nameplate including 30,000 t/yr in first phase; classed strategic by the Strategic Investment Commission; no construction news found after mid-2025."
+  },
+  "S29": {
+   "url": "https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory",
+   "publisher": "YourStory (also Autocar Pro 2025 'Altmin to set up India's first LFP cathode giga-factory with Rs 750 crore investment')",
+   "published": "2026-08",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'Altmin is building India's first factory to manufacture the cathodes inside lithium batteries'; web-search summary: 8 GWh LFP cathode plant at Divitpally, Telangana, to commence operations in Q4 2026 (not confirmed started); refinery with Singareni (30,000 t/yr Li2CO3) still a plan targeting 2027 per Swarajya Nov 2026."
+  },
+  "S30": {
+   "url": "https://www.indianchemicalnews.com/battery/tacc-bags-rs-60950-crore-government-incentive-for-synthetic-graphite-anode-plant-in-madhya-pradesh-32624",
+   "publisher": "Indian Chemical News (TACC synthetic graphite anode, Madhya Pradesh; also EVreporter)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): first phase 'with an annual production capacity of 20,000 tonnes' targeted for commissioning by June 2027; link between 'TACC' and Tata Chemicals not confirmed."
+  },
+  "S31": {
+   "url": "https://lpm.org/news/2025-04-04/ev-battery-supplier-ascend-elements-pauses-construction-on-hopkinsville-plant",
+   "publisher": "Louisville Public Media",
+   "published": "2025-04-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "title: 'EV battery supplier Ascend Elements pauses construction on Hopkinsville plant'; web-search summary: construction on hold since late 2024 because customers asked to push back pCAM deliveries 12-18 months; CEO: 'we will restart beginning in 2026'; no 2026 restart confirmed in results."
+  },
+  "S32": {
+   "url": "https://www.cassidy.senate.gov/download/mexichem",
+   "publisher": "Louisiana Economic Development / Koura (also Orbia 'US DOE commends Orbia FS battery materials site')",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "web-search result summary (not page text): Koura expected the St. Gabriel LiPF6 plant to be operational in 2026; DOE 2022 award USD 100m federal cost share; capex above USD 400m; no confirmation of construction progress."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "cngr-morocco-pcam-morocco",
+   "fields": {
+    "status": "operational",
+    "start_year": 2025
+   },
+   "evidence": {
+    "status": [
+     "S1"
+    ],
+    "start_year": [
+     "S1"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC200] COBCO (Al Mada / CNGR JV, Jorf Lasfar) launched phase-1 NCM pCAM production on 25 June 2025 (S1, Batteries International 2025-06-30). S1 states only an 'eventual annual 70 GWh' scale and gives no phase-1 tonnage; the existing capacity (120,000 t pCAM) is left unchanged and not re-confirmed here. Search results also say full plan is 120,000 t NMC pCAM plus 60,000 t LFP cathode, LFP 'as soon as a regional LFP ecosystem emerges' (no development decision, so the LFP line is NOT added as a pipeline row). A later report (SCMP, late January, year not shown in snippet) says production started in late January, probably 2026; not confirmed."
+  },
+  {
+   "action": "update",
+   "id": "btr-morocco-anode-morocco",
+   "fields": {
+    "capacity": 60000,
+    "capacity_unit": "t anode",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Tangier Tech City integrated synthetic-graphite anode plant of BTR Mediterranean Anode New Material Technology; 60,000 t/yr per AIIB project document and several press items (reported tier: AIIB PDF text not readable, figure taken from search summary). AIIB loan about USD 65m of ~USD 363m project cost. No source found confirming that construction has finished or production started; electrive (2024) estimated 2026 or 2027. A '120,000 t' figure in the task brief is not supported by any source found (existing row's 2026 ref year kept). Status under_construction retained from earlier row; physical works not independently re-confirmed in SC200. [lead] capacity_ref_year = access-year (source undated) fallback."
+  },
+  {
+   "action": "update",
+   "id": "tinci-jorf-lasfar-integrated-morocco",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2025,
+    "capacity": 150000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] Investment agreement June 2025 (Tinci Materials Jorf Lasfar SAS, Jorf Lasfar industrial park, El Jadida province): integrated base with 150,000 t/yr of 'electrolyte products and critical raw materials' (mixed scope, entered as t electrolyte; raw-material split not stated). Investment 2.576 bn MAD (2025) / 2.8 bn MAD (Telquel 2026-02-10). La Vie Eco headline says Tinci 'launches construction'; no source with site-works detail was opened, so under D-020 the status is set to announced (was under_construction). capacity_ref_year 2026 is the publication-year fallback (no due year stated; OFweek mentions Q3 2026 production but that article also describes cathode/anode scope and is not trusted). Downgrade should be reversed if works are evidenced."
+  },
+  {
+   "action": "update",
+   "id": "ultium-cam-becancour-canada",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 20000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ],
+    "capacity": [
+     "S12"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Ultium CAM (POSCO Future M 85% / GM 15%), Becancour: phase 1 20,000 t/yr high-nickel CAM, start-up schedule reported as late October 2026 (Korea Herald; GM page still says 2026). Phase 2 (reported planned totals 33,000 t CAM and 45,000 t pCAM) is paused and Vale cancelled the nickel sulfate plant for it (Global News) - no phase-2 row added (no date, total-vs-increment unclear, D-015). Source pages returned 403 / were not opened: reported tier. Hand-back flag: GM's own page's 30,000 t figure refers to the full build-out."
+  },
+  {
+   "action": "update",
+   "id": "umicore-loyalist-cam-canada",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC200] Umicore press release 2024-11-06 (S2): 'Umicore has decided to continue to pause construction of its battery materials plant in Loyalist, Ontario, Canada.' Paused, not cancelled; the AESC supply deal is to be served from Korea. No later restart found. Capacity left null (not re-confirmed)."
+  },
+  {
+   "action": "update",
+   "id": "ascend-elements-apex-1-pcam-united-states",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S31",
+     "S5"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Apex 1 (Hopkinsville, KY) will make only pCAM and lithium carbonate after the CAM line was dropped (S5, Canary Media 2025-03-05, which also says the timeline was extended to Q3 2026). Louisville Public Media 2025-04-04 headline: construction paused (S31, reported tier). No 2026 restart confirmed in search results; later reports mention a DOE grant cut and a lawsuit over unpaid construction fees (not verified). Capacity not stated in opened sources, left null."
+  },
+  {
+   "action": "update",
+   "id": "ascend-elements-apex-1-cam-united-states",
+   "fields": {
+    "status": "announced",
+    "project_state": "cancelled"
+   },
+   "evidence": {
+    "status": [
+     "S6"
+    ],
+    "project_state": [
+     "S6"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "[SC200] Canary Media 2025-03-05 (S6): Ascend is 'scrapping plans to produce CAM there' (Apex 1); it agreed with DOE to cancel the USD 164m CAM grant."
+  },
+  {
+   "action": "update",
+   "id": "albemarle-richburg-lithium-hydroxide-united-states",
+   "fields": {
+    "status": "announced",
+    "project_state": "paused",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "project_state": [
+     "S13"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC200] Richburg (Chester County, SC) lithium hydroxide plant paused since early 2024; 2025 strategy update defers spend; CEO said 'the math doesn't work today' (May 2025; Mining.com, 403 to fetch, reported tier). No 2026 resumption found. Planned 50,000 t/yr LiOH (expandable to 100,000 t) kept; capacity_ref_year set to null because the earlier 2023 value was a publication-year fallback with no due date. [lead] capacity_ref_year = 2026 publication-year fallback (no dated target; S8)."
+  },
+  {
+   "action": "update",
+   "id": "westwater-resources-kellyton-graphite-plant-united-states",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 12500,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2027
+   },
+   "evidence": {
+    "status": [
+     "S4"
+    ],
+    "capacity": [
+     "S14"
+    ],
+    "capacity_ref_year": [
+     "S14"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Westwater 10-Q (quarter ended 2026-09-30, S4): company is 'progressing construction activities at the Kellyton Graphite Plant at a measured level' while it secures funding - physical works under way but slowed (kept under_construction, active; slow-down noted). Phase I 12,500 t/yr coated spherical purified graphite, Phase I cost USD 245m with ~USD 109m not yet incurred, USD 25m EXIM loan approved Aug 2026, target commercial production 2027 / ~12 months after remaining financing (S14, reported tier from search summary). Unit 't anode' used for CSPG as in the existing row. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "group14-bam-2-moses-lake-united-states",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "project_state": [
+     "S3"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC200] GeekWire 2026-01-27 (S3): Group14 'furloughed an undisclosed number of employees at its yet-to-be-finished facility in Moses Lake, Wash.'; the page also says the facility is about 90% built, completion is being delayed, and the CEO said construction could finish in 2026. No start date or capacity stated in the opened page. Treated as paused (delay), not cancelled. FLAG: existing capacity value on this row (4,000 t) and ref year 2027 were not re-confirmed and look inconsistent with company statements of a larger BAM-2 plan; left unchanged for the lead to review."
+  },
+  {
+   "action": "update",
+   "id": "talga-lulea-anode-refinery-sweden",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "start_year": null
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] The existing row listed the Lulea anode refinery as operational (start 2022). Searches show the commercial 19,500 t/yr refinery is still pre-FID: construction 'planned in 2026, subject to final investment decision', financing package (EIB EUR 150m loan, EUR 70m EU Innovation Fund grant, ECAs/banks) to be finalised by end Q4 2026, going-concern risk flagged, and an Oct 2026 Dainen Materials offtake term sheet is for output 'of the full-scale refinery'. Any operating asset at Lulea is a small demonstration plant, not the 19,500 t commercial plant. Status set to announced; capacity 19,500 t anode and its ref year (2029) left as on the existing row. Reported tier (summaries of trade press); the lead should check which asset the old 'operational' flag referred to."
+  },
+  {
+   "action": "update",
+   "id": "vianode-st-thomas-ontario-canada",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "start_year": 2028
+   },
+   "evidence": {
+    "status": [
+     "S16"
+    ],
+    "start_year": [
+     "S16"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] Via Two, St. Thomas ON: site work/ground preparation since late 2025 to enable start of production in 2028 (kept announced under D-020 - preparatory works only, no confirmed foundations/buildings). GM multi-billion offtake (Jan 2025). Oct 2026: Vianode CEO says the company is 'reaching its limits' and seeks a partner/acquirer (electrive 2026-10-01) - funding risk. Capacity: existing row 150,000 t anode; a Reuters-based item gives ~80,000 t/yr for the first phase by 2030 - conflict, unresolved; capacity left unchanged."
+  },
+  {
+   "action": "update",
+   "id": "vulcan-lionheart-hoechst-lithium-hydroxide-germany",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 24000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2028
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ],
+    "capacity_ref_year": [
+     "S17"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Central Lithium Plant at Infraserv Industrial Park Hoechst, Frankfurt: FID on Lionheart Phase 1 after EUR 2.2bn financing (Dec 2025), start of major construction works announced April 2026, phase-1 24,000 t/yr lithium hydroxide monohydrate, commercial start-up targeted 2028 (reported tier: Mining Weekly page 403; figures from search summaries; a Mining Weekly 2025-12-03 headline confirms the EUR 2.2bn package). Offtake with Umicore, LGES, Stellantis being re-papered. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "update",
+   "id": "keliber-kokkola-lithium-hydroxide-finland",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 15000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2028
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S18"
+    ],
+    "capacity_ref_year": [
+     "S18"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Sibanye-Stillwater (July 2026): Kokkola refinery 'has been constructed and is progressing through commissioning preparations'; conditional hot commissioning planned Q4 2026; steady state from 2028, nameplate 15,000 t/yr LiOH monohydrate. Start-up is tied to mine/concentrator ramp-up and market conditions (Mining Weekly 2026-09-04). No commercial hydroxide output yet, so under_construction (built, pre-production). Reported tier (search summaries)."
+  },
+  {
+   "action": "update",
+   "id": "tees-valley-lithium-teesside-lithium-hydroxide-united-kingdom",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 25000,
+    "capacity_unit": "t LiOH",
+    "capacity_ref_year": 2028,
+    "province_state": "Teesside (Billingham)"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ],
+    "capacity_ref_year": [
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] UK government funding commitment (initial grant GBP 18.3m, late Sept 2026) for Phase 1 of 25,000 t/yr LiOH monohydrate 'from 2028'; Phase 1 moved from Wilton to Billingham Chemical Complex; E3 Lithium non-binding supply MoU July 2026. Conflict: ChemAnalyst (July 2026) says 'under construction', Alkemy (Apr 2026) and the Yorkshire Post still say 'proposed'; no FID/works evidence, so announced under D-020. Earlier 96,000 t figure belongs to the superseded Wilton plan."
+  },
+  {
+   "action": "update",
+   "id": "electra-cobalt-sulfate-refinery-canada",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 5120,
+    "capacity_unit": "t Co",
+    "capacity_norm": 5120,
+    "capacity_ref_year": 2027
+   },
+   "evidence": {
+    "status": [
+     "S20"
+    ],
+    "capacity": [
+     "S20"
+    ],
+    "capacity_ref_year": [
+     "S20"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Temiskaming Shores (ON) refinery: Aug 2026 update - structural steel, concrete and equipment installation advanced; select commissioning Q4 2026, mechanical completion Q2 2027, commercial operations near end-2027. Capacity: designed to initially produce 5,120 t/yr contained cobalt, crystalliser nameplate up to 6,500 t/y (search summary of Engineering News, page 403). The previous row stored 6,500 'CoSO4' tonnes, which would normalise to ~1,360 t Co and is believed to be a unit error; re-entered as contained cobalt 5,120 t (full nameplate 6,500 per the same source - lead to decide D-022 treatment). LGES takes 60% of output to 2029; Glencore feed to 2031."
+  },
+  {
+   "action": "update",
+   "id": "nemaska-lithium-becancour-lithium-hydroxide-canada",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S21"
+    ],
+    "project_state": [
+     "S21"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Becancour plant ~60% complete end-2025 and ~70% by March 2026; Rio Tinto (53.9% after Feb 2026) slowed/paused the build on cost; a later report says construction 'set to remain on hold through 2027', planned 2028 start in doubt (report date not confirmed; Rio earlier signalled a 2027 restart: conflict). Capacity: sources give 32,000 t/yr LiOH monohydrate, consistent with the existing 28,000 t LCE (32,000 x 0.88 = 28,160). Physical works exist, so under_construction + paused (D-020). Feedstock strategy (Whabouchi vs Galaxy) under review. Reported tier."
+  },
+  {
+   "action": "update",
+   "id": "asahi-kasei-port-colborne-canada",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity_ref_year": 2027
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity_ref_year": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] Asahi Kasei Battery Separator Corp (JV with Honda) broke ground at Port Colborne ON in Nov 2024; trade reports say construction began then and commercial production is expected in 2027 subject to permits. Search results show no 2026 progress update. Existing capacity (700 Mm2 separator) not re-confirmed. Status moved from announced to under_construction on the strength of construction-start headlines only (title/summary level, reported tier) - lead may revert under D-020 if only ceremonial."
+  },
+  {
+   "action": "update",
+   "id": "koura-st-gabriel-lipf6-united-states",
+   "fields": {
+    "capacity": 10000,
+    "capacity_unit": "t LiPF6",
+    "capacity_ref_year": 2026,
+    "status": "announced",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "capacity": [
+     "S7"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC200] DOE FONSI dated 2026-06-29 (S7) for DOE financial assistance to 'a LiPF6 manufacturing unit at Mexichem's property in St. Gabriel, Iberville Parish, Louisiana' that 'would produce at least 10,000 MT of LiPF6'. NEPA review closed only in June 2026 (draft EA May 2026), so physical works are not evidenced; status kept announced. The earlier 'operational in 2026' expectation (S32, reported tier) is unsupported; capacity_ref_year set to null (no due year stated). DOE award USD 100m, capex > USD 400m (reported). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "huayou-lg-indonesia-pcam-indonesia",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] The Indonesia precursor plant (50,000 t/yr pCAM) was a 2023 LG Chem-Huayou MoU item 'still under consideration'. LGES withdrew from the Indonesia Grand Package in April 2025 and Huayou replaces it; Antara headline: Indonesia targets 2026 groundbreaking for the Huayou project (smelter, precursor, cathode, HPAL in East Halmahera). No evidence of site works, so status reset from under_construction to announced; the 2024 ref year is stale and set to null. Reported tier (search summaries / headlines); Mining.com 2026 items that still describe an LG-led consortium look recycled. [lead] capacity_ref_year = 2026 publication-year fallback (no dated target; S8)."
+  },
+  {
+   "action": "update",
+   "id": "redwood-materials-charleston-united-states",
+   "fields": {
+    "project_state": "paused"
+   },
+   "evidence": {
+    "project_state": [
+     "S24"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] SMM/Metal.com Nov 2025: Redwood launched production at its South Carolina plant but 'cathode material plant construction has been delayed', copper foil scaled back, pivot to energy storage. Delay entered as paused; no 2026 update found. Status and capacity left as on existing row."
+  },
+  {
+   "action": "update",
+   "id": "anovion-technologies-bainbridge-united-states",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2028
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity_ref_year": [
+     "S25"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] Post-Searchlight (July 2025): Anovion still targeting 2026 for a 'mini-mill' and production in 2028 for the full facility; 'little visible construction' at the Downrange Industrial Park site; USD 117m DOE grant partly earmarked. Nothing dated 2026 found. Kept announced (D-020: no works evidenced). Ref year set to 2028 (stated full-facility production year, replacing the 2025 value); 40,000 t capacity retained from earlier row (reported)."
+  },
+  {
+   "action": "update",
+   "id": "nmg-becancour-battery-material-plant-canada",
+   "fields": {
+    "status": "announced",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC200] NMG took FID on the Matawinie mine (construction started 2026, EDC/CIB CAD 459m debt) but the 13 ktpa Becancour Battery Material Plant has no FID: company 'actively engaging with targeted financial partners ... with a view to reach FID in H2-2026'; plant scaled back last year; cost estimate USD 911m (Engineering News 2026-04-17, reported tier). No Becancour works evidenced, so announced. Existing 13,000 t anode / 2028 retained."
+  },
+  {
+   "action": "update",
+   "id": "stardust-power-muskogee-lithium-carbonate-united-states",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S27"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] Muskogee OK refinery: up to 50,000 t/yr Li2CO3, capex ~USD 500m; ODEQ air construction permit obtained early 2026; financing only a USD 15m bridge and a non-binding USD 150m project-level LOI (April 2026); no evidence of financial close or vertical construction (S27, reported tier). capacity_ref_year set to null (the earlier 2026 value was not supported by a dated plan). [lead] capacity_ref_year = 2026 publication-year fallback (no dated target; S8)."
+  },
+  {
+   "action": "update",
+   "id": "yahua-lges-morocco-lithium-refinery-morocco",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC200] July 2025: Moroccan minister announced a first-phase investment of over MAD 5.5bn (~USD 612m) for the LGES-Yahua lithium refinery: 90,000 t/yr lithium salts nameplate incl. 30,000 t/yr in the first phase; classed strategic. No construction news after mid-2025 found; no due year stated, so capacity_ref_year set to null (earlier 2025 value stale). Existing 90,000 t LCE retained (product basis 'lithium salts' not specified: hydroxide vs carbonate unresolved). [lead] capacity_ref_year = 2026 publication-year fallback (no dated target; S8)."
+  },
+  {
+   "action": "update",
+   "id": "hunan-yuneng-extremadura-spain",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC200] electrive 2026-05-08 (S8): 'Hunan Yuneng has now begun construction of a new LFP cathode material factory' in Merida (ExpacioMerida); first stage 50,000 t/yr, later expansion to 300,000 t/yr planned (undated, so excluded under D-015). CONFLICT: existing row carries 70,000 t / ref 2027; the Junta de Extremadura (13 Oct 2026) says the company raised investment and capacity in Sept 2026 (new figure not read); capacity left unchanged pending the lead's review. Argus/Adamas quote CNY 982m for 50 ktpa; Spanish outlets quote about EUR 800m total."
+  },
+  {
+   "action": "update",
+   "id": "cylib-dormagen-germany",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC200] cylib (CHEManager 2026-09-10): 'In Dormagen entsteht gerade unser Standort für die hochwertige Rohstoffrückgewinnung aus Schwarzmasse.' (hydrometallurgical black-mass refinery under construction at Chempark Dormagen; groundbreaking Sept 2024). The opened article gives no Dormagen capacity or date; the 30,000 t/yr feed / 2026 figures on the existing row (reported) are not re-confirmed and 2026 commissioning looks unlikely. CORRECTION to a search summary: the 'Q4 2026 commissioning pending BImSchG permit' and 'up to 10,000 t/yr' statements in the article refer to the Bavarian site (Wernberg-Koeblitz), not Dormagen (see added row)."
+  },
+  {
+   "action": "add",
+   "id": "cylib-wernberg-koeblitz-germany",
+   "fields": {
+    "asset_name": "cylib Wernberg-Koeblitz (Bavaria) mechanical battery recycling / black mass plant",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": "black mass",
+    "asset_type": "recycling plant",
+    "feedstock": "end-of-life Li-ion batteries",
+    "operator": "cylib GmbH",
+    "parent_company": "cylib GmbH",
+    "jv_partners": null,
+    "country": "Germany",
+    "region": "Europe",
+    "province_state": "Bavaria",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 10000,
+    "capacity_unit": "t feed",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://chemanager-online.com/de/news/cylib-skaliert-batterierecycling-auf-industriemassstab",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-10"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[SC200] Site taken over by cylib (acquired Bavarian recycling plant, per bayern-innovativ title 'cylib Takes Over Battery Recycling Plant in Bavaria'). The CHEManager article of 2026-09-10 (opened via WebFetch; model summary, not verbatim for this item) attributes 'up to 10,000 t per year' and 'commissioning Q4 2026 subject to the BImSchG permit' to Wernberg-Koeblitz. Only the Dormagen sentence was copied verbatim (S9), so this row's capacity/status are effectively reported-tier; confidence 0.3. Status announced: no works evidenced. Feeds the Dormagen refinery (mechanical pre-processing)."
+  },
+  {
+   "action": "add",
+   "id": "altmin-lfp-cathode-divitpally-india",
+   "fields": {
+    "asset_name": "Altmin LFP cathode giga-factory (Divitpally, Telangana)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "cathode plant",
+    "feedstock": null,
+    "operator": "Altmin",
+    "parent_company": "Altmin",
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": "Telangana",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "under_construction",
+    "project_state": "active",
+    "announced_year": 2025,
+    "start_year": 2026,
+    "capacity": null,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-08"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ]
+   },
+   "confidence": 0.35,
+   "notes": "[SC200] Search summaries: 8 GWh LFP cathode plant (Rs 750 crore / ~USD 90m announced Mar 2025) to commence operations in Q4 2026; YourStory Aug 2026 headline says Altmin 'is building' the factory. Capacity is stated in GWh of cells supported, not tonnes: tonnage left null (not converted). Start-up not confirmed; works detail not opened, so under_construction rests on a headline only (lead may downgrade to announced under D-020). Separate from the Altmin-SCCL 30,000 t Li2CO3 refinery (existing row, MoU stage, target 2027)."
+  },
+  {
+   "action": "add",
+   "id": "tacc-synthetic-graphite-anode-madhya-pradesh-india",
+   "fields": {
+    "asset_name": "TACC synthetic graphite anode plant (Madhya Pradesh), phase 1",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "synthetic graphite anode material",
+    "asset_type": "anode plant",
+    "feedstock": null,
+    "operator": "TACC (link to Tata Chemicals not confirmed)",
+    "parent_company": null,
+    "jv_partners": null,
+    "country": "India",
+    "region": "South Asia",
+    "province_state": "Madhya Pradesh",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 20000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2027,
+    "capacity_norm": 20000,
+    "norm_unit": "t anode",
+    "end_market": "battery",
+    "source_url": "https://www.indianchemicalnews.com/battery/tacc-bags-rs-60950-crore-government-incentive-for-synthetic-graphite-anode-plant-in-madhya-pradesh-32624",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ],
+    "capacity": [
+     "S30"
+    ],
+    "capacity_ref_year": [
+     "S30"
+    ]
+   },
+   "confidence": 0.3,
+   "notes": "[SC200] Search-result summary only (page not opened): phase 1 of 20,000 t/yr targeted for commissioning by June 2027 with a state/central incentive; ~INR 2,000 crore project per EVreporter headline. Operator identity ('TACC') and any Tata Chemicals link unverified; no construction evidence, so announced. Phase-2 tonnage not found."
+  }
+ ]
+}
