@@ -5,7 +5,7 @@ Tengyuan Cobalt,refining,2025,production,cobalt,27348.72,t Co,0,0,0,27349,301219
 Tengyuan Cobalt,refining,2025,capacity,cobalt,39500.0,t Co,0,0,1,39500,301219_2025.txt l.4040-4041,global
 Shengtun Mining,refining,2025,production,cobalt,9203.13,t Co,0,0,0,9203,600711_.txt l.850-867,global
 Shengtun Mining,refining,2025,production,nickel,49418.04,t Ni,0,0,0,49418,600711_.txt l.850-867,global
-SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,2200,3,10,12200,"002812_2025.txt l.435,439",global
+SEMCORP,separator,2025,capacity,separator,14400.0,Mm2,3800,4,11,10600,"002812_2025.txt l.435,439",global
 SEMCORP,separator,2025,production,separator,11824.0,Mm2,0,0,0,11824,002812_2025.txt l.718,global
 Senior,separator,2025,production,separator,4923.0,Mm2,0,0,0,4923,300568_2025.txt l.1224-1235,global
 Sinoma Lithium Film,separator,2025,capacity,separator,6000.0,Mm2,4320,5,7,1680,"002080_2025.txt l.502,687",china

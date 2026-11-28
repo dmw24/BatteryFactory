@@ -89,3 +89,5 @@ capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plan
   graphite world 10% → 36% of USGS, China 35%). 917 assets, 14/14 checks.
 - 2026-11-28 06:xx lead: merged SC200 (materials pipeline ex-China: pauses/cancellations, 3 new) and SC201 (lithium mine
   pipeline: 34 updates, 6 new). 926 assets, 14/14 checks.
+- 2026-11-28 ~11:30 lead: merged SC203 (nickel/cobalt pipeline) and SC202 (China materials pipeline: 25 adds incl. 9
+  cancellations, 12 updates). 956 assets, 14/14 checks. Next: audit 6 on SC198–SC203, then close-out prep.

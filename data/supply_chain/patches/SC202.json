@@ -1,0 +1,1567 @@
+{
+ "task": "SC202",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF",
+   "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 3992-3996)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "公司拟在四川泸州（长江）经济开发区投资建设“年产 30 万吨锂离子电池负极材料一体化项目”，项目计划总投资约人民币 70 亿元，分两期建设，一期项目建设年产 20 万吨锂离子电池负极材料一体化生产基地，计划投资约 47 亿元；二期项目建设年产 10 万吨"
+  },
+  "S2": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-29/1225248167.PDF",
+   "publisher": "Zhongke Electric 2025 annual report (local text team/evidence/filings/300035_2025.txt, lines 4024-4026)",
+   "published": "2026-04-29",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "海达新材料“年产 10 万吨负极材料粉体生产基地项目”延缓建设 ... 公司控股子公司海达新材料拟解散并清算"
+  },
+  "S3": {
+   "url": "https://stock.10jqka.com.cn/20260614/c677447279.shtml",
+   "publisher": "10jqka.com.cn (same-day report on Zhongke Electric announcement of 2026-06-12/13)",
+   "published": "2026-06-14",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "宣布终止甘眉工业园年产13万吨、兰州新区年产10万吨、摩洛哥年产10万吨三个暂缓建设的锂电池负极材料一体化项目 ... 此前均已处于暂缓建设状态，仅开展了部分前期筹备工作，尚未启动实质性建设与运营"
+  },
+  "S4": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF",
+   "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, lines 1141-1143)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "公司山西四期年产 20 万吨锂电池负极材料一体化项目、山西五期年产 20 万吨锂离子电池负极材料项目以及马来西亚年产 5 万吨锂离子电池负极材料项目海外基地建设均在有序推进中，预计未来两年公司总产能有望突破 70 万吨"
+  },
+  "S5": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-04-22/1225138388.PDF",
+   "publisher": "Shangtai Technology 2025 annual report (local text team/evidence/filings/001301_2025.txt, line 1439)",
+   "published": "2026-04-22",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "新设尚太锂电科技（太原）有限公司作为山西五期年产 20 万吨锂离子电池负极材料项目的运营主体"
+  },
+  "S6": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-06-26/1225390028.PDF",
+   "publisher": "Xiangfenghua 2025 annual report, corrected version (local text team/evidence/filings/300890_.txt, lines 5555-5558)",
+   "published": "2026-06-26",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "同意公司将公司“6 万吨人造石墨负极材料一体化生产基地建设项目”达到预定可使用状态的时间由 2025 年 12 月调整至 2026 年 12 月。 ... 6 万吨人造石墨负极材料一体化生产基地建设项目及研发中心建设项目尚在建设中。"
+  },
+  "S7": {
+   "url": "http://static.cninfo.com.cn/finalpage/2026-03-06/1224998510.PDF",
+   "publisher": "Putailai 2025 annual report (local text team/evidence/filings/603659_.txt, line 6698; construction-in-progress table, CNY)",
+   "published": "2026-03-06",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "安徽紫宸建设项目 271,506,779.34 271,506,779.34 77,835,333.36 77,835,333.36"
+  },
+  "S8": {
+   "url": "https://www.cls.cn/detail/2462563",
+   "publisher": "CLS (Cailian) report on Fulin Precision announcement",
+   "published": "2026-08-24",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "拟终止与德阳川发龙蟒在绵竹市德阳—阿坝生态经济产业园的“17.5万吨磷酸铁锂项目”投资合作，并签署终止协议。 ... 公司控股子公司江西升华将承接并加快推进该项目后续全部建设。"
+  },
+  "S9": {
+   "url": "https://finance.sina.cn/stock/ssgs/2026-06-30/detail-inifenry6716622.d.html",
+   "publisher": "Sina Finance (report on Chuanfa Longmang announcement)",
+   "published": "2026-06-30",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "近日，川发龙蟒发布公告，公司董事会审议通过终止德阳川发龙蟒设立全资子公司投建年产10万吨磷酸铁锂项目的议案。"
+  },
+  "S10": {
+   "url": "https://www.lanjinger.com/d/1779353106350730672",
+   "publisher": "Lanjinger (Blue Whale News) on Dynanonic project terminations",
+   "published": "2026-05-21",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "项目总投资约75亿元 ... 总投资约25亿元 ... 均处于前期筹备阶段，尚未投入建设、运营，未产生实际效益"
+  },
+  "S11": {
+   "url": "https://paper.people.com.cn/zgnyb/pc/content/202606/29/content_30166185.html",
+   "publisher": "China Energy News (people.com.cn paper), page 04",
+   "published": "2026-06-29",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "4月28日，天铁科技发布公告，终止在庐江高新区投资年产10万吨改性石墨负极材料项目，该项目原计划总投资约为14.50亿元。"
+  },
+  "S12": {
+   "url": "https://finance.sina.com.cn/roll/2026-07-03/doc-inifpyyu0302251.shtml",
+   "publisher": "Sina Finance (Securities Times e-company report on Tinci announcement)",
+   "published": "2026-07-03",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "7月3日晚，天赐材料(002709)公告称，公司子公司南通天赐终止年产24.3万吨锂电及含氟新材料项目 ... 该项目原计划总投资26.54亿元， ... 生产产品为电解液、LIFSI及含氟材料。"
+  },
+  "S13": {
+   "url": "https://stock.10jqka.com.cn/20260303/c675027869.shtml",
+   "publisher": "10jqka.com.cn (Yongtai Technology announcement of 2026-03-02)",
+   "published": "2026-03-03",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "截至公告日仍处于前期阶段，除已购置土地使用权外，未发生其他实质性投入"
+  },
+  "S14": {
+   "url": "https://stock.10jqka.com.cn/20260303/c675027869.shtml",
+   "publisher": "10jqka.com.cn (Yongtai Technology announcement of 2026-03-02)",
+   "published": "2026-03-03",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "拟在滨海沿海工业园投资5亿元建设年产20万吨锂电池电解液项目",
+   "tier": "reported",
+   "snippet": "拟在滨海沿海工业园投资5亿元建设年产20万吨锂电池电解液项目",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S15": {
+   "url": "https://mcn.solarbe.com/news/20250902/50007572.html",
+   "publisher": "Solarbe (report on Fengyuan Shares board resolution of 2025-08-29)",
+   "published": "2025-09-02",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "因政策环境等因素变化，未能办理完成项目前期审批手续，项目至今未取得实质性进展"
+  },
+  "S16": {
+   "url": "https://mcn.solarbe.com/news/20250902/50007572.html",
+   "publisher": "Search-result summary (capacity 5万吨 not seen in the opened page text)",
+   "published": "2025-09-02",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "丰元股份(2025年9月，较早的案例)：终止个旧市5万吨磷酸铁锂正极材料项目，原因是项目前期审批手续未能办理完成，项目至今未取得实质性进展。"
+  },
+  "S17": {
+   "url": "https://finance.eastmoney.com/a/202609223881331566.html",
+   "publisher": "Eastmoney (Time Weekly) on Keda Manufacturing announcement of 2026-09-21/22",
+   "published": "2026-09-22",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "福建科达新能源科技有限公司（以下简称“福建科达新能源”）拟与土默特右旗人民政府签署投资合作协议，在内蒙古包头建设年产50万吨石墨负极材料一体化项目，总投资约45亿元，包含流动资金。 ... 预计2026年10月开工，建设期10至12个月。"
+  },
+  "S18": {
+   "url": "https://news.metal.com/newscontent/104136699-65-billion-yuan-a-lithium-battery-anode-material-project-with-an-annual-output-of-600000-mt-makes-new-progress",
+   "publisher": "SMM (Shanghai Metals Market)",
+   "published": "2026-09-28",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "a construction scale of 600,000 mt of lithium battery anode material per year ... The total investment of the project is 6.5 billion yuan."
+  },
+  "S19": {
+   "url": "https://stock.10jqka.com.cn/20261016/c680770897.shtml",
+   "publisher": "10jqka.com.cn on Xiangfenghua private placement registration",
+   "published": "2026-10-16",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "本次向特定对象发行股票募集资金总额不超过人民币60,000.00万元，扣除发行费用后将投向年产9.3万吨新能源电池负极材料项目。",
+   "tier": "reported",
+   "snippet": "本次向特定对象发行股票募集资金总额不超过人民币60,000.00万元，扣除发行费用后将投向年产9.3万吨新能源电池负极材料项目。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S20": {
+   "url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+   "publisher": "Huanqiu (Global Times Finance) LFP expansion round-up (date = embedded page timestamp ~2026-04-24)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "容百科技4月16日披露，拟投资42.98亿元在贵州建设年产52万吨磷酸铁锂前驱体及34万吨磷酸铁锂项目，采用新型短流程工艺。"
+  },
+  "S21": {
+   "url": "https://m.gelonghui.com/news/5210182",
+   "publisher": "Gelonghui (Ronbay announcement of 15 April 2026)",
+   "published": "2026-04-15",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州省六盘水市六枝特区 ... 预计投资约20.07亿元 ... 由公司并购的贵州新仁负责实施 ... 预计投资约22.91亿元 ... 由公司全资子公司毕节容百锂电材料有限公司"
+  },
+  "S22": {
+   "url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+   "publisher": "Huanqiu (Global Times Finance) LFP expansion round-up (date = embedded page timestamp ~2026-04-24)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "盟固利4月9日公告，拟投资约18亿元分两期建设15万吨四代及以上磷酸铁锂一体化项目。"
+  },
+  "S23": {
+   "url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+   "publisher": "Huanqiu (Global Times Finance) LFP expansion round-up (date = embedded page timestamp ~2026-04-24)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "云天化4月17日宣布，拟与当升科技共同投资44.93亿元，建设15万吨磷酸铁锂生产线及20万吨高性能磷酸铁前驱体项目。"
+  },
+  "S24": {
+   "url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+   "publisher": "Huanqiu (Global Times Finance) LFP expansion round-up (date = embedded page timestamp ~2026-04-24)",
+   "published": "2026-04-24",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "兴发集团4月4日公告，拟投资13.81亿元建设10万吨电池级磷酸铁锂项目，建成后总产能将提升至18万吨。"
+  },
+  "S25": {
+   "url": "https://stock.10jqka.com.cn/20260521/c676848485.shtml",
+   "publisher": "Securities Times via 10jqka.com.cn (Putailai announcement of 2026-05-20)",
+   "published": "2026-05-21",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "拟投资56亿元建设年产72亿平方米锂离子电池隔膜项目。 ... 一期投资总额26亿元，由全资子公司四川卓勤新材料科技有限公司 ... 二期投资总额30亿元，由公司全资子公司四川高聚材料科技有限公司"
+  },
+  "S26": {
+   "url": "https://www.jiemian.com/article/14443170.html",
+   "publisher": "Jiemian (SEMCORP announcement of 2026-05-13)",
+   "published": "2026-05-18",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "拟在四川省自贡市荣县投资建设年产50亿平方米锂电池隔离膜项目，预计总投资额40亿元。 ... 产业合作方持股33%，恩捷股份持股67%"
+  },
+  "S27": {
+   "url": "https://wap.stockstar.com/detail/IG2026090400015522",
+   "publisher": "Securities Times via Stockstar (Foshan Plastics announcement of 2026-09-03)",
+   "published": "2026-09-04",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "韶关基地年产40亿平方米绿色高端湿法隔膜项目总投资约33.47亿元"
+  },
+  "S28": {
+   "url": "https://wap.stockstar.com/detail/IG2026090400015522",
+   "publisher": "Securities Times via Stockstar (Foshan Plastics announcement of 2026-09-03)",
+   "published": "2026-09-04",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "武安金力新能源年产40亿平方米绿色高端涂覆隔膜项目总投资约38.11亿元"
+  },
+  "S29": {
+   "url": "https://finance.eastmoney.com/a/202608173843420251.html",
+   "publisher": "Shanghai Securities News via Eastmoney (Hengtong Shares private-placement plan of 2026-08-13)",
+   "published": "2026-08-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "新建合计5万吨电解铜箔生产线 ... 此次拟新增产能中，锂电铜箔聚焦极薄化方向，高端电子铜箔聚焦低轮廓、高频高速方向。"
+  },
+  "S30": {
+   "url": "https://news.10jqka.com.cn/20260804/c678659508.shtml",
+   "publisher": "10jqka.com.cn (Shida Shenghua announcement of 2026-08-03)",
+   "published": "2026-08-04",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "项目预计总投资7.22亿元。 ... 项目建设周期为12个月。 ... 项目建设地为山东省东营市垦利区同兴路198号",
+   "tier": "reported",
+   "snippet": "项目预计总投资7.22亿元。 ... 项目建设周期为12个月。 ... 项目建设地为山东省东营市垦利区同兴路198号",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S31": {
+   "url": "https://news.10jqka.com.cn/20260804/c678659508.shtml",
+   "publisher": "10jqka.com.cn (Shida Shenghua announcement of 2026-08-03)",
+   "published": "2026-08-04",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目 ... 项目投资金额17.97亿元。",
+   "tier": "reported",
+   "snippet": "东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目 ... 项目投资金额17.97亿元。",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "S32": {
+   "url": "https://wap.stockstar.com/detail/IG2026111900007276",
+   "publisher": "BT Finance via Stockstar (media article, not a company statement)",
+   "published": "2026-11-19",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "隔膜项目占地约485亩，总投资45亿元分两期实施，一期已于2026年3月全面达产，二期首条线也在同年9月贯通投产。 ... 全面建成达产后形成16条生产线，年产16亿平方米锂电池隔离膜。"
+  },
+  "S33": {
+   "url": "https://wap.stockstar.com/detail/IG2026110500033658",
+   "publisher": "Greater Bay Area Economic Net via Stockstar (Wanrun New Energy)",
+   "published": "2026-11-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "宏迈高科7万吨/年高压实密度磷酸铁锂项目正加紧建设"
+  },
+  "S34": {
+   "url": "https://www.caiwennews.com/article/1613422.shtml",
+   "publisher": "Caiwen News (title seen in search results; page returned HTTP 503 when opened)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "tier": "reported",
+   "snippet": "安达科技:30万吨/年磷酸铁锂前驱体项目处于设备安装调试阶段 预计2026年四季度试生产"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "zhongke-haida-anqing-china",
+   "fields": {
+    "status": "announced",
+    "project_state": "cancelled"
+   },
+   "evidence": {
+    "status": [
+     "S2"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "[SC202] Zhongke Electric 2025 AR (published 2026-04-29): the Haida 10 万吨 anode-powder base project was 'delayed' (延缓建设) and the 51%-held subsidiary Anhui Haida was proposed for dissolution and liquidation (拟解散并清算). Dissolution of the project company = project cancelled; confidence 0.8 because the AR says 'proposed' (拟), the liquidation announcement itself was not opened."
+  },
+  {
+   "action": "update",
+   "id": "zhongke-morocco-morocco",
+   "fields": {
+    "status": "announced",
+    "project_state": "cancelled"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "[SC202] Not a China asset (kept here because it is part of the same Zhongke Electric termination notice). 2026-06-12/13 board resolution terminated the Ganmei 13万吨, Lanzhou 10万吨 and Morocco 10万吨 anode projects, all previously deferred (暂缓), only partial preparatory work done (S3). Previous state 'paused' -> cancelled."
+  },
+  {
+   "action": "update",
+   "id": "zhongke-luzhou-sichuan-china",
+   "fields": {
+    "capacity": 300000,
+    "capacity_unit": "t anode",
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S1"
+    ],
+    "status": [
+     "S1"
+    ]
+   },
+   "confidence": 0.8,
+   "notes": "[SC202] Confirmed from Zhongke AR 2025: investment agreement with Luzhou (Yangtze) EDZ approved by the board 2025-12-16 and the EGM 2026-01-05; 30万吨 in two phases (phase 1 20万吨, CNY ~4.7bn; phase 2 10万吨, CNY ~2.3bn). No start date and no works evidenced (the AR only says the company will 'steadily advance' the Luzhou project in 2026) -> stays announced (D-020). capacity_ref_year left at the existing publication-year fallback. Zhongke concentrated resources on Luzhou + Oman after cancelling Ganmei/Lanzhou/Morocco (S3). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "shangtai-shanxi-transformation-zone-phase-5-china",
+   "fields": {
+    "capacity": 200000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2028,
+    "status": "announced",
+    "project_state": "active"
+   },
+   "evidence": {
+    "capacity": [
+     "S4"
+    ],
+    "status": [
+     "S4",
+     "S5"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Shangtai AR 2025: phase 5 (20万吨, Shanxi Transformation Demonstration Zone) 'being advanced in an orderly way' (有序推进中) and an operating entity, Shangtai Lithium Technology (Taiyuan), was set up in 2025 (S5). It is NOT in the construction-in-progress table (CIP lists only Beisu HQ phase 2 and the Malaysia 5万吨 project), so no physical works are evidenced -> kept announced. Ref year 2028 is inferred from 'total capacity expected to exceed 700 kt within the next two years' (AR published 2026-04-22; the sentence covers phase 4 + phase 5 + Malaysia), not a phase-5-specific date."
+  },
+  {
+   "action": "update",
+   "id": "xiangfenghua-sichuan-pengxi-china",
+   "fields": {
+    "capacity": 60000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2026,
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "capacity": [
+     "S6"
+    ],
+    "status": [
+     "S6"
+    ]
+   },
+   "confidence": 0.85,
+   "notes": "[SC202] Corrected 2025 AR: the 60kt integrated base is 'still under construction' (尚在建设中); completion target postponed from Dec 2025 to Dec 2026 because land supply was late (board resolution 2025-06-13). The fundraising table shows 68.26% of the CNY 525m of committed proceeds used. Delay recorded: capacity_ref_year 2026 (December)."
+  },
+  {
+   "action": "update",
+   "id": "putailai-anhui-zichen-wuhu-china",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] Putailai AR 2025 CIP table: 'Anhui Zichen construction project' CNY 271.5m at end-2025 vs CNY 77.8m a year earlier, i.e. spending is increasing (physical works). Capacity is not disclosed in the filing; left null."
+  },
+  {
+   "action": "update",
+   "id": "fulin-deyang-mianzhu-lfp-china",
+   "fields": {
+    "operator": "Jiangxi Shenghua New Materials (江西升华新材料有限公司)",
+    "jv_partners": null,
+    "capacity": 175000,
+    "capacity_unit": "t CAM",
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S8"
+    ],
+    "status": [
+     "S8"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] 2026-08-24: Fulin Precision agreed with Deyang Chuanfa Longmang to terminate their JV cooperation on the 17.5万吨 LFP project in the Deyang-Aba eco-industrial park (Mianzhu) because the JV company had not even been set up; Jiangxi Shenghua (controlled subsidiary) 'will take over and speed up all subsequent construction'. So the JV is dead but the project continues under Jiangxi Shenghua alone: operator changed, jv_partners cleared, capacity 175 kt recorded. No works evidenced -> announced. Possible overlap with fulin-jiangxi-shenghua-35kt-project-china / -500kt-storage-lfp-china not resolved. Chuanfa Longmang separately terminated its own Deyang 100kt LFP project (see chuanfa-longmang-deyang-100kt-lfp-china). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "anda-kaiyang-450kt-lfp-precursor-china",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S34"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Search-result headline (reported tier, page not openable): the 30万吨/yr phase of the Kaiyang LFP-precursor project is at the equipment-installation and commissioning stage with trial production expected in Q4 2026. Under D-112 trial production = under_construction, so status unchanged; no installed value. A research-report summary also lists a 24万吨/yr LFP project as 'in construction' (H1 2026) - not applied to anda-hengzhou-240kt-lfp-china because the site tie was not confirmed."
+  },
+  {
+   "action": "update",
+   "id": "wanrun-hongmai-gaoke-hubei-china",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S33"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC202] Press 2026-11-05: Hongmai Gaoke's 7万吨/yr high-compaction LFP project is 'being rushed into construction' (正加紧建设); same article: Hubei 311kt and Anhui 37kt LFP already running, Binzhou phase 1 120kt running, remaining 120kt planned Dec 2026. Status unchanged, evidence added."
+  },
+  {
+   "action": "update",
+   "id": "xingfa-group-lfp-china",
+   "fields": {
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "status": "announced",
+    "project_state": "active"
+   },
+   "evidence": {
+    "capacity": [
+     "S24"
+    ],
+    "status": [
+     "S24"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Xingfa announced 2026-04-04: CNY 1.381bn for a 10万吨 battery-grade LFP project, lifting total LFP capacity to 18万吨 (so ~80 kt already exists elsewhere in the group). Site not stated in the article. Still announced (no works evidenced)."
+  },
+  {
+   "action": "update",
+   "id": "youtian-technology-lfp-china",
+   "fields": {
+    "capacity": 150000,
+    "capacity_unit": "t CAM",
+    "status": "announced",
+    "project_state": "active",
+    "capacity_ref_year": 2026
+   },
+   "evidence": {
+    "capacity": [
+     "S23"
+    ],
+    "status": [
+     "S23"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Yuntianhua announced 2026-04-17 with Dangsheng: CNY 4.493bn for a 15万吨 LFP line plus a 20万吨 high-performance FePO4 precursor project (the precursor is added as youtian-fepo4-200kt-china, part_of this row). Location not stated in the article. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "update",
+   "id": "semcorp-yuxi-china",
+   "fields": {
+    "status": "operational",
+    "capacity": 1600,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "S32"
+    ],
+    "capacity": [
+     "S32"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Media article 2026-11-19 (not a company statement): the Yuxi base (CNY 4.5bn, 485 mu, two phases) had phase 1 fully at design output in March 2026 and the first phase-2 line connected and producing in September 2026; full build = 16 lines, 1,600 Mm2/yr. Status moved under_construction -> operational (phase 1 producing). Installed capacity left null: the phase-1 line count/area is not stated. A different media piece says phase 2's 4 lines are still being commissioned in H2 2026 - phase 2 remains a build step. Verify against the SEMCORP 2026 annual report."
+  },
+  {
+   "action": "add",
+   "id": "kedaa-baotou-500kt-anode-china",
+   "fields": {
+    "asset_name": "Keda Manufacturing Baotou (Tuyouqi) 500 kt graphite anode integrated project",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "graphite anode material (graphitisation + integrated)",
+    "asset_type": "anode plant (project)",
+    "feedstock": null,
+    "operator": "Inner Mongolia Keda New Energy Technology (内蒙古科达新能源科技有限公司; wholly-owned by Fujian Keda New Energy)",
+    "parent_company": "Keda Manufacturing (科达制造, 600499.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Inner Mongolia (Baotou, Tumd Right Banner)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 500000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2027,
+    "end_market": "battery",
+    "source_url": "https://finance.eastmoney.com/a/202609223881331566.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-22"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ],
+    "capacity": [
+     "S17"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC202] Announced 2026-09-21/22: Fujian Keda New Energy to sign an investment agreement with the Tumd Right Banner government for a 500 kt/yr graphite anode integrated project, CNY ~4.5bn incl. working capital; start expected Oct 2026, 10-12 month build (S17). Ref year 2027 inferred (Oct 2026 + 10-12 months), not stated. No works evidenced -> announced. Keda's existing anode capacity was reported as 150-180 kt/yr (media, conflicting). Entity names from a second search-result summary; the opened page names only Fujian Keda New Energy and its wholly-owned subsidiary Inner Mongolia Keda New Energy. Market reaction (-9.9% next day) and funding doubts reported by media."
+  },
+  {
+   "action": "add",
+   "id": "menglianxin-erenhot-600kt-anode-china",
+   "fields": {
+    "asset_name": "Inner Mongolia Menglianxin Erenhot 600 kt lithium battery anode project",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "lithium battery anode material (box-type and crucible graphitisation furnaces)",
+    "asset_type": "anode plant (project)",
+    "feedstock": null,
+    "operator": "Inner Mongolia Menglianxin Technology Co., Ltd.",
+    "parent_company": "Inner Mongolia Xinmengxin Technology (80%)",
+    "jv_partners": "Shenzhen Shengjingxing Technology (20%)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Inner Mongolia (Erenhot Border Economic Cooperation Zone)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 600000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2029,
+    "end_market": "battery",
+    "source_url": "https://news.metal.com/newscontent/104136699-65-billion-yuan-a-lithium-battery-anode-material-project-with-an-annual-output-of-600000-mt-makes-new-progress",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-28"
+   },
+   "evidence": {
+    "status": [
+     "S18"
+    ],
+    "capacity": [
+     "S18"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC202] SMM 2026-09-28: project filed (NDRC filing approved by Erenhot Development and Reform Commission), 12 box-type + 20 crucible graphitisation lines, CNY 6.5bn, construction planned April 2027 - December 2029; project company set up Aug 2026, 80% Inner Mongolia Xinmengxin Technology / 20% Shenzhen Shengjingxing. Company names are as given in the English SMM article (Chinese names not seen). Ref year 2029 = planned end of construction. Newly formed company, no track record: speculative; no works evidenced."
+  },
+  {
+   "action": "add",
+   "id": "xiangfenghua-93kt-anode-project-china",
+   "fields": {
+    "asset_name": "Xiangfenghua 93 kt/yr new-energy battery anode project (2026 private placement)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "artificial graphite anode",
+    "asset_type": "anode plant (expansion project)",
+    "feedstock": null,
+    "operator": "Xiangfenghua (Shanghai Xiangfenghua Technology) - project entity/site not stated",
+    "parent_company": "Xiangfenghua (Shanghai Xiangfenghua Technology)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 93000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20261016/c680770897.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-10-16"
+   },
+   "evidence": {
+    "status": [
+     "S19"
+    ],
+    "capacity": [
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] CSRC registration approval (reported 2026-10-16) of a private placement of up to CNY 600m for the 'annual output 9.3万吨 new-energy battery anode project'. A search-result summary of the registration prospectus gave total investment CNY 1.36bn and a 3-year build (not confirmed on the opened page). Site not stated; may sit at Suining/Pengxi next to xiangfenghua-sichuan-pengxi-china (unconfirmed, so no part_of set). Ref year 2026 is the publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-liuzhi-fepo4-520kt-china",
+   "fields": {
+    "asset_name": "Ronbay Liuzhi (Guizhou Xinren) 520 kt LFP-precursor (FePO4) wet-process project",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "LFP precursor (iron phosphate)",
+    "asset_type": "FePO4 plant (project)",
+    "feedstock": null,
+    "operator": "Guizhou Xinren New Energy Technology (贵州新仁新能源科技; Ronbay subsidiary after acquisition)",
+    "parent_company": "Ronbay Technology (688005.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou (Liupanshui, Liuzhi Special District)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 520000,
+    "capacity_unit": "t FePO4",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S20",
+     "S21"
+    ],
+    "capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] Ronbay board (3rd board, 13th meeting; announced evening of 2026-04-15, no shareholder approval needed): CNY 4.298bn in total for the 'Liuzhi wet-process' precursor project (52万吨/yr, ~CNY 2.007bn, run by Guizhou Xinren, which Ronbay is acquiring) and the 'Bijie dry-process' 34万吨 LFP project (~CNY 2.291bn, Bijie Ronbay). '52万吨磷酸铁锂前驱体' is read as FePO4 tonnage. No start/completion date stated: ref year 2026 is the publication-year fallback. 40% own funds / 60% bank loans (search summary). Existing Guizhou Xinren 60 kt LFP plant is a separate row (ronbay-guizhou-xinren-lfp-china). The 34万吨 LFP row: ronbay-bijie-lfp-340kt-china."
+  },
+  {
+   "action": "add",
+   "id": "ronbay-bijie-lfp-340kt-china",
+   "fields": {
+    "asset_name": "Ronbay Bijie 340 kt LFP dry-process project (former Lifan site, Bijie high-tech zone)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "cathode plant (project)",
+    "feedstock": "iron phosphate from Liuzhi wet-process project",
+    "operator": "Bijie Ronbay Lithium Materials (毕节容百锂电材料有限公司)",
+    "parent_company": "Ronbay Technology (688005.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou (Bijie high-tech zone)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 340000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S20",
+     "S21"
+    ],
+    "capacity": [
+     "S20"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] See ronbay-liuzhi-fepo4-520kt-china for the joint announcement (CNY ~2.291bn for the Bijie part; the opened Gelonghui page says it will reuse the already-built workshops of the former Lifan plant in Bijie high-tech zone). One netease article claims 1,000 kt for Bijie - judged an error against the announcement (340 kt). No dates; ref year 2026 = publication-year fallback. Announced, no works evidenced."
+  },
+  {
+   "action": "add",
+   "id": "mengguli-lfp-150kt-project-china",
+   "fields": {
+    "asset_name": "Mengguli 150 kt 4th-generation-and-above LFP integrated project (two phases)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material (4th generation and above)",
+    "asset_type": "cathode plant (project)",
+    "feedstock": null,
+    "operator": "Mengguli (盟固利) - project entity and site not stated",
+    "parent_company": "Mengguli (Beijing Citic Guoan Mengguli)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 150000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ],
+    "capacity": [
+     "S22"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC202] Announced 2026-04-09: ~CNY 1.8bn in two phases for a 150 kt LFP integrated project (round-up article; site, entity and phase dates not given; the company is listed as a separate row mengguli-baodi-cathode-china). Ref year 2026 = publication-year fallback. Not cross-checked against the original announcement."
+  },
+  {
+   "action": "add",
+   "id": "youtian-fepo4-200kt-china",
+   "fields": {
+    "asset_name": "Youtian Technology 200 kt high-performance FePO4 precursor project (Yuntianhua-Dangsheng)",
+    "step": "precursor",
+    "commodity": "precursor",
+    "product": "iron phosphate (FePO4) precursor",
+    "asset_type": "FePO4 plant (project)",
+    "feedstock": null,
+    "operator": "Youtian Technology (友天科技)",
+    "parent_company": "Yuntianhua (云天化) / Dangsheng Technology (当升科技)",
+    "jv_partners": "Yuntianhua; Dangsheng Technology",
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t FePO4",
+    "capacity_ref_year": 2026,
+    "part_of": "youtian-technology-lfp-china",
+    "end_market": "battery",
+    "source_url": "https://finance.huanqiu.com/article/4RIAczVEYhx",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-04-24"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ],
+    "capacity": [
+     "S23"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Same 2026-04-17 Yuntianhua announcement as the 150 kt LFP line (CNY 4.493bn for both). part_of the LFP row (same project, capacities may be summed per D-107). Site not stated; ref year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "shida-shenghua-dongying-lihua-200kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Shida Shenghua Dongying Lihua 200 kt/yr electrolyte project (Kenli)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant (project)",
+    "feedstock": null,
+    "operator": "Dongying Shenghua Lida Chemical Technology (东营胜华利达化工科技有限公司)",
+    "parent_company": "Shida Shenghua New Materials Group (石大胜华, 603026)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong (Dongying, Kenli district)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2027,
+    "end_market": "battery",
+    "source_url": "https://news.10jqka.com.cn/20260804/c678659508.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-08-04"
+   },
+   "evidence": {
+    "status": [
+     "S30"
+    ],
+    "capacity": [
+     "S30"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] Announced 2026-08-03 together with a 230 kt liquid lithium salt project and a 12 kt additive project (same address, Tongxing Road 198, Kenli). Electrolyte: CNY 722m, 12-month build. The 200 kt figure and entity name are from the article's project headings (the verbatim quote holds the investment, period and address). Ref year 2027 = announcement + 12-month build (inferred). Shida's existing electrolyte capacity is 500 kt at ~23% utilisation (2025 AR), i.e. this expansion is not demand-led. No works evidenced. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "shida-shenghua-dongying-liquid-lithium-salt-230kt-china",
+   "fields": {
+    "asset_name": "Shida Shenghua Dongying 230 kt/yr liquid lithium salt project (Kenli)",
+    "step": "electrolyte",
+    "commodity": "LiPF6",
+    "product": "liquid lithium salt (LiPF6 solution)",
+    "asset_type": "lithium-salt plant (project)",
+    "feedstock": null,
+    "operator": "Dongying Shida Shenghua New Energy (东营石大胜华新能源有限公司)",
+    "parent_company": "Shida Shenghua New Materials Group (石大胜华, 603026)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shandong (Dongying, Kenli district)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "https://news.10jqka.com.cn/20260804/c678659508.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-08-04"
+   },
+   "evidence": {
+    "status": [
+     "S31"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] 23万吨/yr liquid lithium salt (solution tonnage; LiPF6 content not stated, so capacity left null as for the other liquid-salt rows), CNY 1.797bn, announced 2026-08-03. Shida's existing LiPF6 plant is 3.2 kt/yr at 22% utilisation (2025 AR) - this plan is 70x larger in solution tonnage. No works evidenced."
+  },
+  {
+   "action": "add",
+   "id": "yongtai-binhai-200kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Yongtai Technology Binhai (Jiangsu) 200 kt/yr lithium-ion electrolyte project",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte",
+    "asset_type": "electrolyte plant (project)",
+    "feedstock": null,
+    "operator": "Zhejiang Yongtai Technology (永太科技) - project entity not stated",
+    "parent_company": "Zhejiang Yongtai Technology (永太科技, 002326)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu (Binhai Economic Development Zone, coastal industrial park)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260303/c675027869.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-03-03"
+   },
+   "evidence": {
+    "status": [
+     "S14"
+    ],
+    "capacity": [
+     "S14"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC202] 2026-03-02: Yongtai to sign an investment agreement (not yet signed at announcement) for a 200 kt electrolyte project, CNY 500m, in the Binhai coastal industrial park; it replaces the cancelled Shaowu 200 kt project (yongtai-shaowu-200kt-electrolyte-china). A search summary adds a 12-month build period (not on the opened page). Final investment subject to government filing. Ref year 2026 = publication-year fallback. [lead] confidence capped at 0.5: key field rests on reported evidence."
+  },
+  {
+   "action": "add",
+   "id": "semcorp-zigong-rongxian-separator-china",
+   "fields": {
+    "asset_name": "SEMCORP Zigong (Rong County) 5,000 Mm2 battery separator project",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "lithium-ion battery separator",
+    "asset_type": "separator plant (project)",
+    "feedstock": "polyolefin resin",
+    "operator": "SEMCORP project company (to be formed; Yunnan Energy New Material / 恩捷股份)",
+    "parent_company": "Yunnan Energy New Material (SEMCORP, 002812)",
+    "jv_partners": "local industrial partner recommended by Zigong government (33%)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan (Zigong, Rong County)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 5000,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.jiemian.com/article/14443170.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-18"
+   },
+   "evidence": {
+    "status": [
+     "S26"
+    ],
+    "capacity": [
+     "S26"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] SEMCORP announcement of 2026-05-13: 50亿 m2/yr (= 5,000 Mm2) separator project in Rong County, Zigong, CNY 4bn, SEMCORP 67% / partner 33% (up to 10% more may go to other partners). No construction period or start date stated; ref year 2026 = publication-year fallback. Same week SEMCORP terminated a 10亿 m2 / CNY 2bn Malaysia separator project (non-China, no works; not added) and an acquisition of Zhongke Hualian. Media reports a Hungary (Debrecen) plant stoppage in June 2026 (not verified)."
+  },
+  {
+   "action": "add",
+   "id": "putailai-qionglai-separator-phase1-china",
+   "fields": {
+    "asset_name": "Putailai Sichuan Zhuoqin separator project phase 1 (3,200 Mm2, 8 base-film lines)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "base-film separator (wet) integrated with coating",
+    "asset_type": "separator plant (project)",
+    "feedstock": "polyolefin resin",
+    "operator": "Sichuan Zhuoqin New Materials Technology (四川卓勤新材料科技有限公司)",
+    "parent_company": "Putailai (Shanghai Putailai New Energy Technology Group, 603659.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 3200,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260521/c676848485.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-21"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S25"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC202] Putailai announcement of 2026-05-20: CNY 5.6bn for a 72亿 m2 (7,200 Mm2) separator project in two phases, 'base film + coating' integration. Phase 1: CNY 2.6bn, by Sichuan Zhuoqin on existing land, 8 base-film lines; the 32亿 m2 phase-1 figure comes from the opened article text but is outside the verbatim quote. No dates. Putailai AR 2025 shows Sichuan Zhuoqin already has CNY 299m CIP (down from 963m) - some of that may be earlier phases; relation not resolved. Phase 2: putailai-qionglai-separator-phase2-china."
+  },
+  {
+   "action": "add",
+   "id": "putailai-qionglai-separator-phase2-china",
+   "fields": {
+    "asset_name": "Putailai Sichuan Gaoju (Qionglai) separator project phase 2 (4,000 Mm2, 8 base-film lines)",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "base-film separator (wet) integrated with coating",
+    "asset_type": "separator plant (project)",
+    "feedstock": "polyolefin resin",
+    "operator": "Sichuan Gaoju Materials Technology (四川高聚材料科技有限公司)",
+    "parent_company": "Putailai (Shanghai Putailai New Energy Technology Group, 603659.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan (Qionglai)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 4000,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "part_of": "putailai-qionglai-separator-phase1-china",
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260521/c676848485.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-21"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ],
+    "capacity": [
+     "S25"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC202] Phase 2 of the 7,200 Mm2 programme: CNY 3.0bn, new land to be bought in Qionglai by Sichuan Gaoju; the 40亿 m2 figure is from the opened article text (outside the verbatim quote). No dates; ref year 2026 = publication-year fallback. Sum of the two phases = 7,200 Mm2 (matches the stated 72亿 m2). part_of set to phase 1 for reporting; they are different land parcels, so site counts may treat them separately."
+  },
+  {
+   "action": "add",
+   "id": "foshan-plastics-shaoguan-wet-separator-china",
+   "fields": {
+    "asset_name": "Foshan Plastics (Jinli New Energy) Shaoguan 4,000 Mm2 green high-end wet separator project",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "wet-process separator (base film)",
+    "asset_type": "separator plant (project)",
+    "feedstock": "polyolefin resin",
+    "operator": "Jinli New Energy (金力新能源) - Shaoguan entity not named",
+    "parent_company": "Foshan Plastics (佛塑科技, 000973.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong (Shaoguan)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 4000,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://wap.stockstar.com/detail/IG2026090400015522",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-04"
+   },
+   "evidence": {
+    "status": [
+     "S27"
+    ],
+    "capacity": [
+     "S27"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] Foshan Plastics announced 2026-09-03: Shaoguan 40亿 m2 wet separator (CNY 3.347bn) and Wu'an 40亿 m2 coated separator (CNY 3.811bn), total CNY 7.158bn, plus a private placement of up to CNY 4bn. No construction period stated; ref year 2026 = publication-year fallback. NOTE: the Wu'an coated line (foshan-plastics-wuan-coated-separator-china) is a coating step - do not add its 4,000 Mm2 to base-film totals (may coat Shaoguan base film)."
+  },
+  {
+   "action": "add",
+   "id": "foshan-plastics-wuan-coated-separator-china",
+   "fields": {
+    "asset_name": "Foshan Plastics (Wu'an Jinli) 4,000 Mm2 green high-end coated separator project",
+    "step": "separator",
+    "commodity": "separator",
+    "product": "coated separator",
+    "asset_type": "separator plant (project)",
+    "feedstock": "base-film separator",
+    "operator": "Wu'an Jinli New Energy (武安金力新能源)",
+    "parent_company": "Foshan Plastics (佛塑科技, 000973.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hebei (Wu'an)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 4000,
+    "capacity_unit": "Mm2 separator",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://wap.stockstar.com/detail/IG2026090400015522",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-09-04"
+   },
+   "evidence": {
+    "status": [
+     "S28"
+    ],
+    "capacity": [
+     "S28"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] Coated-separator project (CNY 3.811bn); coating capacity, not additional base-film capacity - see the Shaoguan row. Province Hebei is from the entity name 'Wu'an' (Wu'an is in Hebei; not stated in the article). Ref year 2026 = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "hengtong-copper-foil-50kt-china",
+   "fields": {
+    "asset_name": "Hengtong Shares green-energy and electronic-circuit high-end copper foil park (50 kt electrolytic foil lines)",
+    "step": "foil",
+    "commodity": "copper foil",
+    "product": "electrolytic copper foil (ultra-thin lithium foil + HVLP/RTF circuit foil)",
+    "asset_type": "copper foil plant (project)",
+    "feedstock": "cathode copper",
+    "operator": "Hengtong Shares (亨通股份) / Hengtong Copper Foil (亨通铜箔) - entity not stated",
+    "parent_company": "Hengtong Shares (亨通股份, 600226.SH)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "active",
+    "announced_year": 2026,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t copper foil",
+    "capacity_ref_year": 2026,
+    "end_market": "mixed",
+    "source_url": "https://finance.eastmoney.com/a/202608173843420251.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-08-17"
+   },
+   "evidence": {
+    "status": [
+     "S29"
+    ],
+    "capacity": [
+     "S29"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC202] Private-placement plan of 2026-08-13 (up to CNY 3.6bn): new electrolytic foil lines totalling 50 kt/yr; the battery/PCB split is not given (lithium foil 'ultra-thin', electronic foil 'low-profile, high-frequency'), so only part is battery foil. Still needs shareholder approval, SSE review and CSRC registration. Site/period not stated. Also seen but not added: Defu Technology '5万吨 high-end AI electrolytic foil' Jiujiang (CNY ~3.1bn; electronics foil, battery share unknown)."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-ganmei-anode-china",
+   "fields": {
+    "asset_name": "Zhongke Electric Ganmei Industrial Park 130 kt anode integrated project (terminated)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "synthetic graphite anode",
+    "asset_type": "anode plant (project)",
+    "feedstock": null,
+    "operator": "Zhongke Electric (Hunan Zhongke Electric) - project company not named",
+    "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": null,
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 130000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260614/c677447279.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-14"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Terminated by board resolution of 2026-06-12/13 (previously deferred; only partial preparatory work, no substantive construction). Planned CNY ~2.8bn (raised from ~2.5bn in 2022) per the China Energy News article (S11 page, summarised). Park name '甘眉工业园' - province not stated in the sources opened (not asserted). Announced year 2022 from the same source ('planned in 2022 and 2024'). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "zhongke-lanzhou-anode-china",
+   "fields": {
+    "asset_name": "Zhongke Electric Lanzhou New Area 100 kt anode integrated project (terminated)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "synthetic graphite anode",
+    "asset_type": "anode plant (project)",
+    "feedstock": null,
+    "operator": "Zhongke Electric (Hunan Zhongke Electric) - project company not named",
+    "parent_company": "Zhongke Electric (Hunan Zhongke Electric)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Gansu (Lanzhou New Area)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260614/c677447279.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-14"
+   },
+   "evidence": {
+    "status": [
+     "S3"
+    ],
+    "capacity": [
+     "S3"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Terminated 2026-06-12/13 together with Ganmei and Morocco; previously deferred, no substantive construction. Planned CNY ~2.5bn (China Energy News 2026-06-29, summarised). Province Gansu from 'Lanzhou New Area' (not stated in the article). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-qujing-jingkai-330kt-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Qujing economic zone 330 kt phosphate cathode project (terminated)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP / phosphate cathode",
+    "asset_type": "cathode plant (project)",
+    "feedstock": null,
+    "operator": "Dynanonic (德方纳米) - project entity not named",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Qujing economic development zone)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 330000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.lanjinger.com/d/1779353106350730672",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-21"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC202] Announced 2022-01-05 (CNY ~7.5bn); terminated by the board with the announcement of 2026-05-21 together with the Huize 110 kt project (44万吨, ~CNY 10bn in total). Both were still in the 'preliminary preparation stage, no construction/operation' per the company. The 330 kt figure = 44万吨 total minus 11万吨 (arithmetic from the article's totals; the article text gives 'about 100亿元 and 44万吨' for the pair). Replaced by the 2026-05 Luquan 300 kt and Qujing 200 kt plans (rows dynanonic-luquan-phosphate-lfp-china, dynanonic-qujing-hightech-20wt-lfp-china). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "dynanonic-huize-110kt-lfp-china",
+   "fields": {
+    "asset_name": "Dynanonic Huize 110 kt phosphate cathode project (terminated)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP / phosphate cathode",
+    "asset_type": "cathode plant (project)",
+    "feedstock": null,
+    "operator": "Dynanonic (德方纳米) - project entity not named",
+    "parent_company": "Dynanonic (300769.SZ)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Huize County)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 110000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://www.lanjinger.com/d/1779353106350730672",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-21"
+   },
+   "evidence": {
+    "status": [
+     "S10"
+    ],
+    "capacity": [
+     "S10"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC202] Announced 2023-03-30 (CNY ~2.5bn); terminated with the announcement of 2026-05-21; only early preparatory spending, no later funding. Province Yunnan from the existing Dynanonic rows (Huize is in Qujing prefecture; not stated in the article). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "tiantie-lujiang-100kt-anode-china",
+   "fields": {
+    "asset_name": "Tiantie Technology Lujiang 100 kt modified-graphite anode project (terminated)",
+    "step": "anode",
+    "commodity": "anode",
+    "product": "modified graphite anode",
+    "asset_type": "anode plant (project)",
+    "feedstock": null,
+    "operator": "Tiantie Technology (天铁科技)",
+    "parent_company": "Tiantie Technology (天铁科技)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Lujiang high-tech zone)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t anode",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://paper.people.com.cn/zgnyb/pc/content/202606/29/content_30166185.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-29"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S11"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC202] Terminated by announcement of 2026-04-28; planned CNY ~1.45bn; reason: more funding pressure and expected returns not achievable. Construction status not stated. Province Anhui from the Lujiang location (not stated in the article). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "tinci-nantong-243kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Nantong Tinci 243 kt lithium-battery and fluorine new-materials project (terminated)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "electrolyte, LiFSI and fluorine-containing materials",
+    "asset_type": "electrolyte plant (project)",
+    "feedstock": null,
+    "operator": "Nantong Tinci (南通天赐)",
+    "parent_company": "Tinci Materials (Guangzhou Tinci, 002709)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu (Nantong)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": null,
+    "capacity_unit": null,
+    "capacity_ref_year": null,
+    "end_market": "battery",
+    "source_url": "https://finance.sina.com.cn/roll/2026-07-03/doc-inifpyyu0302251.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-07-03"
+   },
+   "evidence": {
+    "status": [
+     "S12"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Board resolution of 2026-07-03: terminate the 24.3万吨/yr project (CNY 2.654bn planned); products = electrolyte, LiFSI and fluorine materials, no product split, so the 243 kt is NOT entered as electrolyte capacity. CIP CNY 9.36m at 2026-06-30; company says no substantive construction (a search summary adds filing 2022-08, land levelling/wall/roads done in 2024). Reason: industry over-expansion and demand below expectation. Tinci simultaneously approved a new 500 kt Dongzhi (Chizhou) electrolyte project in Nov 2026 (row tinci-chizhou-dongzhi-500kt-electrolyte-china)."
+  },
+  {
+   "action": "add",
+   "id": "yongtai-shaowu-200kt-electrolyte-china",
+   "fields": {
+    "asset_name": "Shaowu Yongtai Gaoxin 200 kt electrolyte and by-product recycling project, Jintang park (cancelled)",
+    "step": "electrolyte",
+    "commodity": "electrolyte",
+    "product": "lithium-ion battery electrolyte and materials",
+    "asset_type": "electrolyte plant (project)",
+    "feedstock": null,
+    "operator": "Shaowu Yongtai Gaoxin Materials (邵武永太高新材料)",
+    "parent_company": "Zhejiang Yongtai Technology (永太科技, 002326)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian (Shaowu)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2022,
+    "start_year": null,
+    "capacity": 200000,
+    "capacity_unit": "t electrolyte",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://stock.10jqka.com.cn/20260303/c675027869.shtml",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-03-03"
+   },
+   "evidence": {
+    "status": [
+     "S13"
+    ],
+    "capacity": [
+     "S13"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Cancelled 2026-03-02: CNY 950m, 'still at an early stage; apart from the land-use right already bought, no other substantive investment' (S13). 200 kt capacity and announced year 2022 (Aug 2022) are from the article headings / search summary, not the verbatim quote. Different from the operating 13.4万吨 liquid-lithium-salt row (yongtai-shaowu-gaoxin-lithium-salt-china). Replaced by the Binhai 200 kt plan. [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "chuanfa-longmang-deyang-100kt-lfp-china",
+   "fields": {
+    "asset_name": "Chuanfa Longmang Deyang 100 kt LFP project (terminated)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "cathode plant (project)",
+    "feedstock": null,
+    "operator": "Deyang Chuanfa Longmang (德阳川发龙蟒; planned wholly-owned subsidiary)",
+    "parent_company": "Chuanfa Longmang (川发龙蟒, 002312.SZ) / Sichuan Development",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Sichuan (Deyang)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": 2023,
+    "start_year": null,
+    "capacity": 100000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2026,
+    "end_market": "battery",
+    "source_url": "https://finance.sina.cn/stock/ssgs/2026-06-30/detail-inifenry6716622.d.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-30"
+   },
+   "evidence": {
+    "status": [
+     "S9"
+    ],
+    "capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC202] Board resolution (reported 2026-06-30): terminate the 10万吨/yr LFP project to be built by a wholly-owned Deyang subsidiary; announced Oct 2023 ('three years ago'); direct reason 'market environment changed'; the company had built only 6万吨 LFP and ran at ~21% utilisation in 2025 (search summary). The older stale row chuanfa-longmang-lfp-china (200 kt, 2022 announcement, CNY 12bn) is very probably superseded by this termination but the article does not link them, so that row is left unchanged (lead to decide). [lead] capacity_ref_year = publication-year fallback."
+  },
+  {
+   "action": "add",
+   "id": "fengyuan-gejiu-50kt-lfp-china",
+   "fields": {
+    "asset_name": "Fengyuan Shares Gejiu 50 kt LFP cathode project (terminated)",
+    "step": "cathode",
+    "commodity": "cathode",
+    "product": "LFP cathode active material",
+    "asset_type": "cathode plant (project)",
+    "feedstock": null,
+    "operator": "Fengyuan Shares wholly-owned subsidiary (丰元股份全资子公司)",
+    "parent_company": "Fengyuan Shares (丰元股份)",
+    "jv_partners": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Gejiu)",
+    "latitude": null,
+    "longitude": null,
+    "geo_precision": "none",
+    "status": "announced",
+    "project_state": "cancelled",
+    "announced_year": null,
+    "start_year": null,
+    "capacity": 50000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "end_market": "battery",
+    "source_url": "https://mcn.solarbe.com/news/20250902/50007572.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-09-02"
+   },
+   "evidence": {
+    "status": [
+     "S15"
+    ],
+    "capacity": [
+     "S16"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC202] Board resolution 2025-08-29 to terminate the wholly-owned subsidiary's outward investment: pre-project approvals could not be completed, no substantive progress; total investment CNY 1.25bn, 260 mu, 18-month build (opened page). The 5万吨 capacity and the Gejiu location are from a search-result summary only (reported tier) - the opened page quote does not state them -> confidence capped 0.45. [lead] capacity_ref_year = publication-year fallback."
+  }
+ ]
+}

@@ -4749,12 +4749,16 @@
     "path": "team/briefs/SC_RESEARCHER.md",
     "approved": true
    },
-   "status": "in_progress",
+   "status": "merged",
    "branch": null,
    "pr": null,
    "attempts": 1,
    "assumptions": [],
-   "audit": {}
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "37 rows; 28/32 quotes found, 4 demoted; 12 cancellations evidenced"
+   }
   }
  ]
 }
