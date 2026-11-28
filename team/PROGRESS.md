@@ -91,3 +91,6 @@ capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plan
   pipeline: 34 updates, 6 new). 926 assets, 14/14 checks.
 - 2026-11-28 ~11:30 lead: merged SC203 (nickel/cobalt pipeline) and SC202 (China materials pipeline: 25 adds incl. 9
   cancellations, 12 updates). 956 assets, 14/14 checks. Next: audit 6 on SC198–SC203, then close-out prep.
+- 2026-11-28 ~15:00 lead: merged SC204 (stale pipeline refresh: 2 cancelled, Chuanfa 60 kt built, 6 paused; stale 20 → 1)
+  and SC205 (57 MIIT white-list recyclers, China; MIIT 2025 recycling volume >400 kt benchmark). 1,010 assets, 14/14 checks.
+  Plan: one more gap pass if useful, then final audit 7 and close-out before the owner's 2-day window ends (~2026-11-29 19:00 UTC).
