@@ -1,0 +1,2433 @@
+{
+ "task": "SC205",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "SV": {
+   "url": "https://www.cls.cn/detail/2441580",
+   "publisher": "Cailian Press (cls.cn) report on MIIT Announcement 2026 No.20 (issued 2026-07-30)",
+   "published": "2026-07-30",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "将已公告的“梯次利用”企业移出符合新能源汽车废旧动力电池综合利用行业规范条件的企业名单，已公告的再生利用企业名单继续有效。"
+  },
+  "B1G": {
+   "url": "https://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5438758.htm",
+   "publisher": "MIIT Announcement 2018 No.40 (gov.cn copy; list is a scanned image, read visually)",
+   "published": "2018-09-03",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "符合《新能源汽车废旧动力蓄电池综合利用行业规范条件》企业名单（第一批）"
+  },
+  "A01": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost; MIIT originals not machine-readable)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广东光华科技股份有限公司 ... 再生利用"
+  },
+  "A02": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "赣州市豪鹏科技有限公司 ... 再生利用"
+  },
+  "A03": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "荆门市格林美新材料有限公司 ... 再生利用"
+  },
+  "A04": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南邦普循环科技有限公司 ... 再生利用"
+  },
+  "M2A": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal; read as rendered page images)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "天津赛德美新能源科技有限公司 ... 再生利用"
+  },
+  "M2B": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "浙江天能新材料有限公司 ... 再生利用"
+  },
+  "M2C": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南金源新材料股份有限公司 ... 再生利用"
+  },
+  "M2D": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "江门市恒创睿能环保科技有限公司 ... 再生利用"
+  },
+  "M2E": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广东佳纳能源科技有限公司 ... 再生利用"
+  },
+  "M2F": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州中伟资源循环产业发展有限公司 ... 再生利用",
+   "tier": "reported",
+   "snippet": "贵州中伟资源循环产业发展有限公司 ... 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M2G": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "厦门钨业股份有限公司 ... 再生利用"
+  },
+  "M2H": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "江西赣锋循环科技有限公司 ... 再生利用"
+  },
+  "M2I": {
+   "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+   "publisher": "MIIT list attachment 8, 第二批 (PDF hosted on Beijing municipal gov portal)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "衢州华友资源再生科技有限公司 ... 梯次利用 再生利用",
+   "tier": "reported",
+   "snippet": "衢州华友资源再生科技有限公司 ... 梯次利用 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "A31": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost; batch 3 published by MIIT 2021-12-23 per MIIT 2021 No.40 page)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "河北中化锂电科技有限公司 ... 再生利用"
+  },
+  "A32": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "南通北新新能源科技有限公司 ... 再生利用"
+  },
+  "A33": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "浙江新时代中能循环科技有限公司 ... 梯次利用、再生利用",
+   "tier": "reported",
+   "snippet": "浙江新时代中能循环科技有限公司 ... 梯次利用、再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "A34": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "池州西恩新材料科技有限公司 ... 再生利用"
+  },
+  "A35": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "福建常青新能源科技有限公司 ... 再生利用"
+  },
+  "A36": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "江西天奇金泰阁钴业有限公司 ... 再生利用"
+  },
+  "A37": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "江西睿达新能源科技有限公司 ... 再生利用"
+  },
+  "A38": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南凯地众能科技有限公司 ... 再生利用"
+  },
+  "A39": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "金驰能源材料有限公司 ... 再生利用"
+  },
+  "A3A": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南金凯循环科技有限公司 ... 再生利用"
+  },
+  "A3B": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "派尔森环保科技有限公司 ... 梯次利用、再生利用",
+   "tier": "reported",
+   "snippet": "派尔森环保科技有限公司 ... 梯次利用、再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "A41": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost; batch 4 = MIIT Announcement 2022 No.32, Dec 2022)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "河北顺境环保科技有限公司 ... 再生利用"
+  },
+  "A42": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "吉林铁阳盛日循环科技有限公司 ... 再生利用"
+  },
+  "A43": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "上海伟翔众翼新能源科技有限公司 ... 梯次利用、再生利用",
+   "tier": "reported",
+   "snippet": "上海伟翔众翼新能源科技有限公司 ... 梯次利用、再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "A44": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "浙江立鑫新材料科技有限公司 ... 再生利用"
+  },
+  "A45": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "安徽海螺川崎节能设备制造有限公司 ... 再生利用"
+  },
+  "A46": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "安徽南都华铂新材料科技有限公司 ... 再生利用"
+  },
+  "A47": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "全南县瑞隆科技有限公司 ... 再生利用"
+  },
+  "A48": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "赣州腾远钴业新材料股份有限公司 ... 再生利用"
+  },
+  "A49": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "赣州市力道新能源有限公司 ... 再生利用"
+  },
+  "A4A": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "河南科隆电源材料有限公司 ... 再生利用"
+  },
+  "A4B": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "骆驼集团资源循环襄阳有限公司 ... 再生利用"
+  },
+  "A4C": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南五创循环科技有限公司 ... 再生利用"
+  },
+  "A4D": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南天泰天润新能源科技有限公司 ... 再生利用"
+  },
+  "A4E": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州红星电子材料有限公司 ... 再生利用"
+  },
+  "A4F": {
+   "url": "https://www.automds.cn/page148?article_id=29077",
+   "publisher": "automds.cn reposting MIIT lists, batches 1-4 (secondary repost)",
+   "published": null,
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "甘肃睿思科新材料有限公司 ... 再生利用"
+  },
+  "M501": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批; read as rendered page images)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "安徽绿沃循环能源科技有限公司 ... 再生利用"
+  },
+  "M502": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "赣州吉锐新能源科技股份有限公司 ... 再生利用",
+   "tier": "reported",
+   "snippet": "赣州吉锐新能源科技股份有限公司 ... 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M503": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "赣州龙凯科技有限公司 ... 再生利用"
+  },
+  "M504": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "江西华赛新材料有限公司 ... 再生利用"
+  },
+  "M505": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "上饶市鼎鑫金属化工有限公司 ... 再生利用"
+  },
+  "M506": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "河南中鑫新材料有限公司 ... 再生利用"
+  },
+  "M507": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "河南新天力循环科技有限公司 ... 再生利用"
+  },
+  "M508": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖北融通高科先进材料集团股份有限公司 ... 再生利用",
+   "tier": "reported",
+   "snippet": "湖北融通高科先进材料集团股份有限公司 ... 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M509": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "荆门动力电池再生技术有限公司 ... 再生利用"
+  },
+  "M510": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "安化县泰森循环科技有限公司 ... 再生利用"
+  },
+  "M511": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "湖南金源新材料循环利用有限公司 ... 再生利用",
+   "tier": "reported",
+   "snippet": "湖南金源新材料循环利用有限公司 ... 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M512": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广东盛祥新材料科技有限公司 ... 再生利用"
+  },
+  "M513": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广东金晟新能源股份有限公司 ... 梯次利用 再生利用",
+   "tier": "reported",
+   "snippet": "广东金晟新能源股份有限公司 ... 梯次利用 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M514": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广东瑞科美电源技术有限公司 ... 梯次利用 再生利用",
+   "tier": "reported",
+   "snippet": "广东瑞科美电源技术有限公司 ... 梯次利用 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M515": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "广西智亮新材料股份有限公司 ... 再生利用"
+  },
+  "M516": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "埃索凯循环能源科技（广西）有限公司 ... 梯次利用 再生利用",
+   "tier": "reported",
+   "snippet": "埃索凯循环能源科技（广西）有限公司 ... 梯次利用 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M517": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州鑫茂新能源技术有限公司 ... 再生利用"
+  },
+  "M518": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州长虹鹏程新材料有限公司 ... 再生利用"
+  },
+  "M519": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "贵州磷化开瑞科技有限责任公司 ... 再生利用"
+  },
+  "M520": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "个旧圣比和实业有限公司 ... 再生利用"
+  },
+  "M521": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "曲靖市华祥科技有限公司 ... 再生利用"
+  },
+  "M522": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "兰州金川金科资源循环科技有限公司 ... 再生利用",
+   "tier": "reported",
+   "snippet": "兰州金川金科资源循环科技有限公司 ... 再生利用",
+   "lead_note": "quote not found on re-fetch by checks/verify_quotes.py (2026-11-27); demoted to reported"
+  },
+  "M523": {
+   "url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+   "publisher": "MIIT Announcement 2023 No.43, attachment 5 (第五批)",
+   "published": "2024-01-17",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "宁夏百川新材料有限公司 ... 再生利用"
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "brunp-recycling-ningxiang-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "A04",
+     "B1G",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] Operator Hunan Brunp Recycling Technology (湖南邦普循环科技有限公司) is MIIT batch-1 (2018 Announcement No.40) entity no.4 (type 再生利用 per automds repost; batch-1 image has no type column). Batch 4 separately lists 湖南邦普汽车循环有限公司 as 梯次利用 only (removed 2026, not recycling). Listing is status evidence only; capacity fields untouched. Yichang Brunp (brunp-recycling-yichang-lfp-china) is NOT a listed entity."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-recycling-xinyu-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "M2H",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] Jiangxi Ganfeng Recycling Technology (江西赣锋循环科技有限公司) is MIIT batch-2 entry no.10, type 再生利用 (read from MIIT list PDF hosted by Beijing gov). Listing is status evidence only; capacity untouched."
+  },
+  {
+   "action": "update",
+   "id": "huayou-resource-recycling-quzhou-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "M2I",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] Quzhou Huayou Resource Recycling (衢州华友资源再生科技有限公司) is MIIT batch-2 entry no.6, type 梯次利用 + 再生利用; the recycling listing remains valid after the 2026 cascade-use removal. Batch 1 (2018) separately lists 衢州华友钴新材料有限公司 (Zhejiang, 再生利用) - a differently named entity, presumed predecessor/same Quzhou recycling operation but NOT verified; not added as a separate row to avoid double counting."
+  },
+  {
+   "action": "update",
+   "id": "tengyuan-cobalt-black-mass-recycling-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "A48",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] Ganzhou Tengyuan Cobalt New Material (赣州腾远钴业新材料股份有限公司) is MIIT batch-4 entry no.20, type 再生利用 (automds repost); batch 5 lists it again as 梯次利用 only (removed 2026). Listing is status evidence only; capacity untouched."
+  },
+  {
+   "action": "update",
+   "id": "tianqi-jintaige-ganzhou-battery-recycling-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "A36",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] Jiangxi Tianqi Jintaige Cobalt (江西天奇金泰阁钴业有限公司) is MIIT batch-3 entry no.12 (2021), type 再生利用 (automds repost). Listing is status evidence only; capacity untouched. Ganzhou Tianqi Circular (the 150 kt LFP project) is NOT a listed entity."
+  },
+  {
+   "action": "update",
+   "id": "gem-china-battery-recycling-aggregate-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "A03",
+     "M509",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] GEM-group MIIT listings with 再生利用 type: 荆门市格林美新材料有限公司 (batch 1, 2018) and 荆门动力电池再生技术有限公司 (batch 5, 2024) - both added as separate Jingmen entity rows with no capacity (same-site relation to each other and to this aggregate unverified; do not add capacities). GEM entities listed as 梯次利用 only (removed 2026, out of scope): 格林美（武汉）城市矿产循环产业园开发 (b2), 格林美（无锡）能源材料 (b2), 天津动力电池再生技术有限公司 (b4), 格林美（深圳）循环科技 (b5)."
+  },
+  {
+   "action": "update",
+   "id": "cngr-china-recycling-aggregate-china",
+   "fields": {
+    "status": "operational",
+    "project_state": "active"
+   },
+   "evidence": {
+    "status": [
+     "M2F",
+     "SV"
+    ]
+   },
+   "notes": "[SC205] CNGR/Zhongwei entity 贵州中伟资源循环产业发展有限公司 (Tongren, Guizhou) is MIIT batch-2 entry no.21, type 再生利用 (batch 4 re-lists it as 梯次利用 only, removed 2026). Added as separate entity row guizhou-zhongwei-resource-recycling-china with NO capacity so this aggregate keeps all CNGR volume; do not sum the two."
+  },
+  {
+   "action": "add",
+   "id": "guangdong-guanghua-sci-tech-recycling-china",
+   "fields": {
+    "asset_name": "Guanghua Sci-Tech battery recycling (MIIT batch-1 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangdong Guanghua Sci-Tech Co., Ltd. (广东光华科技股份有限公司)",
+    "parent_company": "Guangdong Guanghua Sci-Tech Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A01",
+     "B1G",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 1 (Announcement 2018 No.40, 2018-09-03) entry no.5, region 广东省, type 再生利用. Listing is the only evidence: no capacity, site location or output found (null). Lead brief said Guanghua already exists in sc_assets.csv; no Guanghua recycling row found there, so added. Operator-level legal entity row; plant site not verified."
+  },
+  {
+   "action": "add",
+   "id": "ganzhou-haopeng-technology-recycling-china",
+   "fields": {
+    "asset_name": "Ganzhou Haopeng Technology battery recycling (MIIT batch-1 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Ganzhou Haopeng Technology Co., Ltd. (赣州市豪鹏科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A02",
+     "B1G",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 1 (2018) entry no.2, region 江西省, type 再生利用; also listed in batch 2 as 梯次利用 (removed 2026, out of scope). Listing only; no capacity/location found (null)."
+  },
+  {
+   "action": "add",
+   "id": "gem-jingmen-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "GEM Jingmen new materials battery recycling (MIIT batch-1 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jingmen GEM New Materials Co., Ltd. (荆门市格林美新材料有限公司)",
+    "parent_company": "GEM Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A03",
+     "B1G",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 1 (2018) entry no.3, region 湖北省, type 再生利用. Parent GEM inferred from the entity name and from the existing GEM aggregate row (SC105 lists Jingmen as a GEM recycling subsidiary location); not independently sourced here. OVERLAP WARNING: covered by gem-china-battery-recycling-aggregate-china (52,576 t feed 2025) and possibly the same site as 荆门动力电池再生技术有限公司 (batch 5) and gem-jingmen-base-china; no capacity set here to avoid double counting."
+  },
+  {
+   "action": "add",
+   "id": "tianjin-sedemei-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Tianjin Sedemei New Energy battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Tianjin Sedemei New Energy Technology Co., Ltd. (天津赛德美新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Tianjin",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2A",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.3 (天津), type 再生利用; batch 5 entry no.1 lists the same name as 梯次利用 (removed 2026). Listing only; no capacity/location (null). Batch-2 announcement date not confirmed (PDF is attachment 8 of an MIIT notice hosted by Beijing gov; file metadata Dec 2019/2021 unreliable)."
+  },
+  {
+   "action": "add",
+   "id": "zhejiang-tianneng-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Zhejiang Tianneng New Materials battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Zhejiang Tianneng New Materials Co., Ltd. (浙江天能新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2B",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.7 (浙江), type 再生利用; batch 3 re-lists it as 梯次利用 (removed 2026). Listing only; no capacity/location (null). Group parent (Tianneng) not stated on the list; left null."
+  },
+  {
+   "action": "add",
+   "id": "hunan-jinyuan-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Hunan Jinyuan New Materials (joint-stock) battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Jinyuan New Materials Co., Ltd. (湖南金源新材料股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2C",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.14 (湖南), type 再生利用. Batch 5 entry no.45 lists a differently named entity 湖南金源新材料循环利用有限公司 (separate row hunan-jinyuan-new-materials-recycling-utilization-china); relationship (parent/subsidiary, same site) not verified. Listing only; no capacity/location (null)."
+  },
+  {
+   "action": "add",
+   "id": "jiangmen-hengchuang-ruineng-recycling-china",
+   "fields": {
+    "asset_name": "Jiangmen Hengchuang Ruineng battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jiangmen Hengchuang Ruineng Environmental Protection Technology Co., Ltd. (江门市恒创睿能环保科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong (Jiangmen)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2D",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.18 (广东), type 再生利用. City taken from the entity name (江门市); the Huizhou sister entity (惠州市恒创睿能, batch 2 no.17) is 梯次利用 only and out of scope. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guangdong-jiana-energy-recycling-china",
+   "fields": {
+    "asset_name": "Guangdong Jiana Energy battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangdong Jiana Energy Technology Co., Ltd. (广东佳纳能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2E",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.19 (广东), type 再生利用. Listing only; no capacity/location found (null). Jiana also has cobalt/nickel materials operations not covered here."
+  },
+  {
+   "action": "add",
+   "id": "guizhou-zhongwei-resource-recycling-china",
+   "fields": {
+    "asset_name": "Guizhou Zhongwei Resource Recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guizhou Zhongwei Resource Recycling Industry Development Co., Ltd. (贵州中伟资源循环产业发展有限公司)",
+    "parent_company": "CNGR Advanced Material",
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2F",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.21 (贵州), type 再生利用; batch 4 re-lists it as 梯次利用 (removed 2026). Parent CNGR from existing row cngr-china-recycling-aggregate-china (SC105: Guizhou Zhongwei Resource Recycling (Tongren) is a CNGR recycling subsidiary); city Tongren is from that row, not from the MIIT list. OVERLAP WARNING with the CNGR aggregate row; no capacity set here."
+  },
+  {
+   "action": "add",
+   "id": "xiamen-tungsten-battery-recycling-china",
+   "fields": {
+    "asset_name": "Xiamen Tungsten battery recycling (MIIT batch-2 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Xiamen Tungsten Co., Ltd. (厦门钨业股份有限公司)",
+    "parent_company": "Xiamen Tungsten Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian (Xiamen)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202204/W020220413518937990034.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "M2G",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 2 entry no.22, region listed as 厦门 (Xiamen), type 再生利用. Listing only; which Xiamen Tungsten site does the recycling is not stated; no capacity (null). Existing xiamen-tungsten-new-energy-* rows are cathode/precursor sites, not recycling."
+  },
+  {
+   "action": "add",
+   "id": "hebei-zhonghua-lithium-battery-recycling-china",
+   "fields": {
+    "asset_name": "Hebei Zhonghua Lithium Battery Technology recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hebei Zhonghua Lithium Battery Technology Co., Ltd. (河北中化锂电科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hebei",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A31",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 (MIIT 2021 No.40, published 2021-12-23) entry no.1, type 再生利用 (automds repost; MIIT original is a .wps attachment not readable). Listing only; no capacity/location (null)."
+  },
+  {
+   "action": "add",
+   "id": "nantong-beixin-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Nantong Beixin New Energy battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Nantong Beixin New Energy Technology Co., Ltd. (南通北新新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangsu (Nantong)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A32",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.4 (江苏), type 再生利用 (automds repost). City from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "zhejiang-xinshidai-zhongneng-recycling-china",
+   "fields": {
+    "asset_name": "Zhejiang Xinshidai Zhongneng Circular Technology recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Zhejiang Xinshidai Zhongneng Circular Technology Co., Ltd. (浙江新时代中能循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A33",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.7 (浙江), type 梯次利用 + 再生利用 (dual; cascade part removed 2026, recycling listing remains). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "chizhou-xien-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Chizhou Xien New Materials battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Chizhou Xien New Materials Technology Co., Ltd. (池州西恩新材料科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Chizhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A34",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.10 (安徽), type 再生利用 (automds repost). City from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "fujian-changqing-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Fujian Changqing New Energy battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Fujian Changqing New Energy Technology Co., Ltd. (福建常青新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Fujian",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A35",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.11 (福建), type 再生利用; batch 5 entry no.16 re-lists it as 梯次利用 (removed 2026). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "jiangxi-ruida-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Jiangxi Ruida New Energy battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jiangxi Ruida New Energy Technology Co., Ltd. (江西睿达新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A37",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.13 (江西), type 再生利用; batch 4 re-lists it as 梯次利用 (removed 2026). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "hunan-kaidi-zhongneng-recycling-china",
+   "fields": {
+    "asset_name": "Hunan Kaidi Zhongneng Technology battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Kaidi Zhongneng Technology Co., Ltd. (湖南凯地众能科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A38",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.15 (湖南), type 再生利用 (automds repost). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "jinchi-energy-materials-recycling-china",
+   "fields": {
+    "asset_name": "Jinchi Energy Materials battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jinchi Energy Materials Co., Ltd. (金驰能源材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A39",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.16 (湖南), type 再生利用 (automds repost). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "hunan-jinkai-recycling-technology-china",
+   "fields": {
+    "asset_name": "Hunan Jinkai Circular Technology battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Jinkai Circular Technology Co., Ltd. (湖南金凯循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A3A",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.17 (湖南), type 再生利用 (automds repost). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "paiersen-environmental-recycling-china",
+   "fields": {
+    "asset_name": "Pai'ersen Environmental Technology battery recycling (MIIT batch-3 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Pai'ersen Environmental Technology Co., Ltd. (派尔森环保科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shaanxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": "2021-12-23"
+   },
+   "evidence": {
+    "status": [
+     "A3B",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 3 entry no.20 (陕西), type 梯次利用 + 再生利用 (dual; recycling listing remains valid after 2026). Listing only; no capacity (null). English name is a transliteration of 派尔森."
+  },
+  {
+   "action": "add",
+   "id": "hebei-shunjing-environmental-recycling-china",
+   "fields": {
+    "asset_name": "Hebei Shunjing Environmental Technology battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hebei Shunjing Environmental Technology Co., Ltd. (河北顺境环保科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hebei",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A41",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 (MIIT 2022 No.32, Dec 2022; mofcom copy dated 2022-12-07, press says formal release 16 Dec - date conflict unresolved) entry no.6 (河北), type 再生利用 (automds repost). Press (pcauto/zhihu) places it in Shijiazhuang. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "jilin-tieyang-shengri-recycling-china",
+   "fields": {
+    "asset_name": "Jilin Tieyang Shengri Circular Technology battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jilin Tieyang Shengri Circular Technology Co., Ltd. (吉林铁阳盛日循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jilin",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A42",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.8 (吉林), type 再生利用 (automds repost). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "shanghai-weixiang-zhongyi-recycling-china",
+   "fields": {
+    "asset_name": "Shanghai Weixiang Zhongyi battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Shanghai Weixiang Zhongyi New Energy Technology Co., Ltd. (上海伟翔众翼新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Shanghai",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A43",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.11 (上海), type 梯次利用 + 再生利用 (dual; recycling listing remains valid). Name variant: pcauto repost writes 上海伟翔众翼能源科技有限公司 (without 新); automds form used. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "zhejiang-lixin-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Zhejiang Lixin New Materials battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Zhejiang Lixin New Materials Technology Co., Ltd. (浙江立鑫新材料科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Zhejiang (Huzhou per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A44",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.13 (浙江), type 再生利用 (automds repost). Huzhou location only from a press repost (pcauto), not from the list. A 光大证券 note (2022-11-17) names 旺能环境's 立鑫新材料 as a recycling-type new entrant; ownership not verified here. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "anhui-conch-kawasaki-recycling-china",
+   "fields": {
+    "asset_name": "Anhui Conch Kawasaki Energy-Saving Equipment battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Anhui Conch Kawasaki Energy Conservation Equipment Manufacturing Co., Ltd. (安徽海螺川崎节能设备制造有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Wuhu per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A45",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.14 (安徽), type 再生利用 (automds repost). Wuhu location only from press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "anhui-nandu-huabo-recycling-china",
+   "fields": {
+    "asset_name": "Anhui Nandu Huabo New Materials battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Anhui Nandu Huabo New Materials Technology Co., Ltd. (安徽南都华铂新材料科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui (Jieshou per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A46",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.15 (安徽), type 再生利用 (automds repost); a 光大证券 note (2022-11-17) also names 南都华铂 as a recycling-type entrant. Jieshou location only from a press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "quannan-ruilong-technology-recycling-china",
+   "fields": {
+    "asset_name": "Quannan Ruilong Technology battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Quannan County Ruilong Technology Co., Ltd. (全南县瑞隆科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Quannan, Ganzhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A47",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.19 (江西), type 再生利用 (automds repost). County from the entity name (全南县, Ganzhou). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "ganzhou-lidao-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Ganzhou Lidao New Energy battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Ganzhou Lidao New Energy Co., Ltd. (赣州市力道新能源有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Ganzhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A49",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.21 (江西), type 再生利用 (automds repost). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "henan-kelong-power-materials-recycling-china",
+   "fields": {
+    "asset_name": "Henan Kelong Power Materials battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Henan Kelong Power Supply Materials Co., Ltd. (河南科隆电源材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan (Xinxiang per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4A",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.25 (河南), type 再生利用 (automds repost). Xinxiang location only from press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "camel-resource-recycling-xiangyang-china",
+   "fields": {
+    "asset_name": "Camel Group Resource Recycling Xiangyang battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Camel Group Resource Recycling Xiangyang Co., Ltd. (骆驼集团资源循环襄阳有限公司)",
+    "parent_company": "Camel Group (骆驼股份)",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei (Xiangyang)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4B",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.27 (湖北), type 再生利用 (automds repost; a search snippet of an STCN article also says Camel's wholly-owned subsidiary was listed with type 再生利用 - snippet tier, page not opened). Camel's 860 kt/yr figure seen in search results is waste lead-acid recycling, group-level - NOT used. Listing only; no Li-ion capacity found (null)."
+  },
+  {
+   "action": "add",
+   "id": "hunan-wuchuang-recycling-technology-china",
+   "fields": {
+    "asset_name": "Hunan Wuchuang Circular Technology battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Wuchuang Circular Technology Co., Ltd. (湖南五创循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4C",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.31 (湖南), type 再生利用 (automds repost). The batch-5 entry 湖南五创新能源科技有限公司 (no.39) is a different name, 梯次利用 only. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "hunan-tiantai-tianrun-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Hunan Tiantai Tianrun New Energy battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Tiantai Tianrun New Energy Technology Co., Ltd. (湖南天泰天润新能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan (Jinshi per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4D",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.32 (湖南), type 再生利用 (automds repost). Jinshi location only from press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guizhou-hongxing-electronic-materials-recycling-china",
+   "fields": {
+    "asset_name": "Guizhou Hongxing Electronic Materials battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guizhou Hongxing Electronic Materials Co., Ltd. (贵州红星电子材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou (Tongren per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4E",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.40 (贵州), type 再生利用 (automds repost); a 光大证券 note (2022-11-17) also mentions 红星电子 (Zhenhua New Materials stake) as a recycling-type entrant. Tongren location from press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "gansu-ruisike-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Gansu Ruisike New Materials battery recycling (MIIT batch-4 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Gansu Ruisike New Materials Co., Ltd. (甘肃睿思科新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Gansu (Baiyin per press)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.automds.cn/page148?article_id=29077",
+    "source_date": "2026-11-28",
+    "source_published_date": null
+   },
+   "evidence": {
+    "status": [
+     "A4F",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 4 entry no.41 (甘肃), type 再生利用 (automds repost). Baiyin location only from press repost. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "anhui-luwo-circular-energy-recycling-china",
+   "fields": {
+    "asset_name": "Anhui Luwo Circular Energy battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Anhui Luwo Circular Energy Technology Co., Ltd. (安徽绿沃循环能源科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Anhui",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M501",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 (Announcement 2023 No.43, published 2024-01-17) entry no.15, type 再生利用; same name was listed in batch 2 (no.8) as 梯次利用 (removed 2026). Listing only; no capacity/location (null)."
+  },
+  {
+   "action": "add",
+   "id": "ganzhou-jirui-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Ganzhou Jirui New Energy battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Ganzhou Jirui New Energy Technology Co., Ltd. (赣州吉锐新能源科技股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Ganzhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M502",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.24 (江西), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "ganzhou-longkai-technology-recycling-china",
+   "fields": {
+    "asset_name": "Ganzhou Longkai Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Ganzhou Longkai Technology Co., Ltd. (赣州龙凯科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Ganzhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M503",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.25 (江西), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "jiangxi-huasai-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Jiangxi Huasai New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jiangxi Huasai New Materials Co., Ltd. (江西华赛新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M504",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.26 (江西), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "shangrao-dingxin-metal-chemical-recycling-china",
+   "fields": {
+    "asset_name": "Shangrao Dingxin Metal Chemical battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Shangrao Dingxin Metal Chemical Co., Ltd. (上饶市鼎鑫金属化工有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Jiangxi (Shangrao)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M505",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.27 (江西), type 再生利用. City from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "henan-zhongxin-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Henan Zhongxin New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Henan Zhongxin New Materials Co., Ltd. (河南中鑫新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M506",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.34 (河南), type 再生利用; sister entity 河南中鑫电池科技 (no.33) is 梯次利用 only. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "henan-xintianli-recycling-technology-china",
+   "fields": {
+    "asset_name": "Henan Xintianli Circular Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Henan Xintianli Circular Technology Co., Ltd. (河南新天力循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Henan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M507",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.35 (河南), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "hubei-rongtong-gaoke-advanced-materials-recycling-china",
+   "fields": {
+    "asset_name": "Hubei Rongtong Gaoke Advanced Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hubei Rongtong Gaoke Advanced Materials Group Co., Ltd. (湖北融通高科先进材料集团股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M508",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.37 (湖北), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "jingmen-power-battery-regeneration-technology-china",
+   "fields": {
+    "asset_name": "Jingmen Power Battery Regeneration Technology (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Jingmen Power Battery Regeneration Technology Co., Ltd. (荆门动力电池再生技术有限公司)",
+    "parent_company": "GEM Co., Ltd.",
+    "country": "China",
+    "region": "China",
+    "province_state": "Hubei (Jingmen)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M509",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.38 (湖北), type 再生利用. Parent GEM is taken from the existing GEM aggregate row (SC105 annual-report subsidiary table lists 'Jingmen ... Power Battery Regeneration Technology' as a GEM subsidiary); not independently re-verified. OVERLAP WARNING: inside gem-china-battery-recycling-aggregate-china and possibly the same site as 荆门市格林美新材料 (batch 1); no capacity set."
+  },
+  {
+   "action": "add",
+   "id": "anhua-taisen-recycling-technology-china",
+   "fields": {
+    "asset_name": "Anhua Taisen Circular Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Anhua County Taisen Circular Technology Co., Ltd. (安化县泰森循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan (Anhua)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M510",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.44 (湖南), type 再生利用. County from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "hunan-jinyuan-new-materials-recycling-utilization-china",
+   "fields": {
+    "asset_name": "Hunan Jinyuan New Materials Recycling Utilization battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Hunan Jinyuan New Materials Recycling Utilization Co., Ltd. (湖南金源新材料循环利用有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Hunan",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M511",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.45 (湖南), type 再生利用. Possibly the same group/site as 湖南金源新材料股份有限公司 (batch 2, row hunan-jinyuan-new-materials-recycling-china) - relationship not verified; do not sum capacities if later found. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guangdong-shengxiang-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Guangdong Shengxiang New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangdong Shengxiang New Materials Technology Co., Ltd. (广东盛祥新材料科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M512",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.51 (广东), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guangdong-jinsheng-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Guangdong Jinsheng New Energy battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangdong Jinsheng New Energy Co., Ltd. (广东金晟新能源股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M513",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.52 (广东), type 梯次利用 + 再生利用 (dual; recycling listing remains valid). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guangdong-ruikemei-power-technology-recycling-china",
+   "fields": {
+    "asset_name": "Guangdong Ruikemei Power Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangdong Ruikemei Power Technology Co., Ltd. (广东瑞科美电源技术有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangdong",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M514",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.53 (广东), type 梯次利用 + 再生利用 (dual). Listing only; no capacity (null). A batch-4 entry 湖南瑞科美新能源有限责任公司 (Hunan) is a different name, 梯次利用 only."
+  },
+  {
+   "action": "add",
+   "id": "guangxi-zhiliang-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Guangxi Zhiliang New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guangxi Zhiliang New Materials Co., Ltd. (广西智亮新材料股份有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M515",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.57 (广西), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "essok-circular-energy-guangxi-recycling-china",
+   "fields": {
+    "asset_name": "Aisuokai Circular Energy (Guangxi) battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Aisuokai Circular Energy Technology (Guangxi) Co., Ltd. (埃索凯循环能源科技（广西）有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guangxi",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M516",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.58 (广西), type 梯次利用 + 再生利用 (dual). English name is a transliteration of 埃索凯. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guizhou-xinmao-new-energy-recycling-china",
+   "fields": {
+    "asset_name": "Guizhou Xinmao New Energy Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guizhou Xinmao New Energy Technology Co., Ltd. (贵州鑫茂新能源技术有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M517",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.62 (贵州), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guizhou-changhong-pengcheng-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Guizhou Changhong Pengcheng New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guizhou Changhong Pengcheng New Materials Co., Ltd. (贵州长虹鹏程新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M518",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.63 (贵州), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "guizhou-linhua-kairui-recycling-china",
+   "fields": {
+    "asset_name": "Guizhou Phosphate Chemical Kairui Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Guizhou Linhua Kairui Technology Co., Ltd. (贵州磷化开瑞科技有限责任公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Guizhou",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M519",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.64 (贵州), type 再生利用. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "gejiu-shengbihe-industry-recycling-china",
+   "fields": {
+    "asset_name": "Gejiu Shengbihe Industry battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Gejiu Shengbihe Industry Co., Ltd. (个旧圣比和实业有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Gejiu)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M520",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.65 (云南), type 再生利用. City from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "qujing-huaxiang-technology-recycling-china",
+   "fields": {
+    "asset_name": "Qujing Huaxiang Technology battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Qujing Huaxiang Technology Co., Ltd. (曲靖市华祥科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Yunnan (Qujing)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M521",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.66 (云南), type 再生利用. City from entity name. Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "lanzhou-jinchuan-jinke-resource-recycling-china",
+   "fields": {
+    "asset_name": "Lanzhou Jinchuan Jinke Resource Recycling battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Lanzhou Jinchuan Jinke Resource Circular Technology Co., Ltd. (兰州金川金科资源循环科技有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Gansu (Lanzhou)",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M522",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.67 (甘肃), type 再生利用. City from entity name; a Jinchuan Group link is suggested by the name but not stated on the list (parent null). Listing only; no capacity (null)."
+  },
+  {
+   "action": "add",
+   "id": "ningxia-baichuan-new-materials-recycling-china",
+   "fields": {
+    "asset_name": "Ningxia Baichuan New Materials battery recycling (MIIT batch-5 listed entity)",
+    "step": "recycling",
+    "commodity": "recycling",
+    "product": null,
+    "asset_type": "recycling plant",
+    "feedstock": "waste power batteries (list scope)",
+    "operator": "Ningxia Baichuan New Materials Co., Ltd. (宁夏百川新材料有限公司)",
+    "parent_company": null,
+    "country": "China",
+    "region": "China",
+    "province_state": "Ningxia",
+    "geo_precision": "none",
+    "status": "operational",
+    "project_state": "active",
+    "source_url": "https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/20238/77f5d7ade1bf4ca9b32ac9e430e2725d.pdf",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-01-17"
+   },
+   "evidence": {
+    "status": [
+     "M523",
+     "SV"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC205] MIIT batch 5 entry no.68 (宁夏), type 再生利用. Listing only; no capacity (null)."
+  }
+ ]
+}

@@ -167,3 +167,4 @@ mining,manganese,production,Brazil,2025,800000.0,t Mn,USGS MCS 2026,https://pubs
 mining,manganese,production,India,2025,790000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
 mining,manganese,production,China,2025,700000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
 mining,manganese,production,World,2025,20000000.0,t Mn,USGS MCS 2026,https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-manganese.pdf,2025=estimate,,
+recycling,recycling,production,China,2025,400000.0,t feed,"MIIT via Economic Daily/news.cn 2026-01-22 (综合利用量, lower bound 'over')",https://www.news.cn/tech/20260122/9077c48ab82f4639a8352a9a0d5469ea/c.html,,,2025年，我国新能源汽车废旧动力电池综合利用量超过40万吨，同比增长32.9%

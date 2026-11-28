@@ -163,3 +163,4 @@ mining,manganese,production,2025,Brazil,800000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,
 mining,manganese,production,2025,India,790000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,China,700000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,World,20000000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
+recycling,recycling,production,2025,China,400000.0,t feed,52576,1,100000,0,0,0,0.13,0.25,0,0,0,0,"MIIT via Economic Daily/news.cn 2026-01-22 (综合利用量, lower bound 'over')"
