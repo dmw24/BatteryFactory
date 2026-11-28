@@ -1,0 +1,594 @@
+{
+ "task": "SC204",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://www.yicai.com/news/102650355.html",
+   "publisher": "Yicai (第一财经)",
+   "published": "2025-06-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "中核钛白（002145.SZ）近日公告，终止其“年产50万吨磷酸铁项目”等募投项目。"
+  },
+  "S2": {
+   "url": "https://www.yicai.com/news/102650355.html",
+   "publisher": "Yicai (第一财经)",
+   "published": "2025-06-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "截至4月末，该项目累计投入13.09亿元，仅建成10万吨/年磷酸铁装置并实现销售。"
+  },
+  "S3": {
+   "url": "https://news.metal.com/newscontent/103274193-Gansu-200000-mt-LFP-Capacity-Investment-Plan-Terminated-Due-to-Market-Changes-and-Financial-Pressures",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2025-04-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Jinpu Titanium announced on April 7 that it decided to terminate the investment plan of its subsidiary"
+  },
+  "S4": {
+   "url": "https://news.metal.com/newscontent/103274193-Gansu-200000-mt-LFP-Capacity-Investment-Plan-Terminated-Due-to-Market-Changes-and-Financial-Pressures",
+   "publisher": "SMM (news.metal.com)",
+   "published": "2025-04-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The original plan was to build a 200,000 mt/year LFP project."
+  },
+  "S5": {
+   "url": "https://paper.people.com.cn/zgnyb/pc/content/202506/16/content_30080295.html",
+   "publisher": "China Energy News (中国能源报) via paper.people.com.cn",
+   "published": "2025-06-16",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "金浦钛业今年4月披露，其磷酸铁装置完成建设总进度的65%，但鉴于当前市场状况，磷酸铁项目已暂缓，据了解，该项目的年产能为5万吨。"
+  },
+  "S6": {
+   "url": "https://www.cls.cn/detail/2203742",
+   "publisher": "CLS (财联社)",
+   "published": "2025-11-18",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "其中德阿项目6万吨/年磷酸铁锂装置已全面建成并投产使用"
+  },
+  "S7": {
+   "url": "https://news.10jqka.com.cn/20260805/c678687771.shtml",
+   "publisher": "10jqka (同花顺)",
+   "published": "2026-08-05",
+   "accessed": "2026-11-28",
+   "language": "zh",
+   "quote": "德阿项目6万吨/年磷酸铁锂装置已实现量产量销"
+  },
+  "S8": {
+   "url": "https://www.mt.co.kr/stock/2026/08/04/2026080407509696773",
+   "publisher": "Money Today (머니투데이)",
+   "published": "2026-08-04",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "이디엘이 구축 중인 생산시설은 전해액의 핵심 원재료인 리튬염을 국내에서 생산하기 위한 프로젝트다."
+  },
+  "S9": {
+   "url": "https://www.mt.co.kr/stock/2026/08/04/2026080407509696773",
+   "publisher": "Money Today (머니투데이)",
+   "published": "2026-08-04",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "2028년 상업 생산을 목표로 하고 있으며"
+  },
+  "S10": {
+   "url": "https://www.mt.co.kr/stock/2026/08/04/2026080407509696773",
+   "publisher": "Money Today (머니투데이)",
+   "published": "2026-08-04",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "1단계 생산능력은 연간 1만톤 규모이며"
+  },
+  "S11": {
+   "url": "https://www.mining-technology.com/news/volt-signs-funding-deal-bunyu-mine/",
+   "publisher": "Mining Technology",
+   "published": "2025-12-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Upon financial close, UOF will acquire a 62% stake in VGT, with Volt retaining the remaining 38%."
+  },
+  "S12": {
+   "url": "https://www.mining-technology.com/news/volt-signs-funding-deal-bunyu-mine/",
+   "publisher": "Mining Technology",
+   "published": "2025-12-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The plan targets annual production of 40,000 tonnes (t) of graphite concentrate"
+  },
+  "S13": {
+   "url": "https://thepostsearchlight.com/?p=222205",
+   "publisher": "Post-Searchlight (Bainbridge, GA)",
+   "published": "2025-07-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "as well as production in 2028 for the full facility"
+  },
+  "S14": {
+   "url": "https://thepostsearchlight.com/?p=222205",
+   "publisher": "Post-Searchlight (Bainbridge, GA)",
+   "published": "2025-07-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "there has been little visible construction at the industrial park site"
+  },
+  "S15": {
+   "url": "https://chargedevs.com/newswire/monomyth-materials-acquires-nanograf-to-pair-siox-silicon-anodes-with-its-domestic-synthetic-graphite-platform/",
+   "publisher": "Charged EVs (Monomyth Materials newswire)",
+   "published": "2026-05-18",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "simultaneously rebranded from Anovion Technologies"
+  },
+  "S16": {
+   "url": "https://chargedevs.com/newswire/monomyth-materials-acquires-nanograf-to-pair-siox-silicon-anodes-with-its-domestic-synthetic-graphite-platform/",
+   "publisher": "Charged EVs (Monomyth Materials newswire)",
+   "published": "2026-05-18",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The Bainbridge, Georgia site is slated to be the first of several facilities"
+  },
+  "S17": {
+   "url": "https://enterpriseam.com/climate/2024/08/20/aussie-battery-player-evm-lines-up-us-private-equity-investment-for-yanbu-lithium-chemicals-plant/",
+   "publisher": "Enterprise Middle East (enterpriseam.com)",
+   "published": "2024-08-20",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "EVM is ready to start construction of the first two processing trains"
+  },
+  "S18": {
+   "url": "https://quartr.com/events/w-scope-chungju-plant-co-ltd-393890-q1-2026_FR8XZqpT",
+   "publisher": "Quartr (AI-generated earnings summary, W-Scope Chungju Plant Q1 2026)",
+   "published": "2026-06-22",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "2027-2028: Revenue expected to rise with new major clients and full production at Hungary plant.",
+   "quote": "2027-2028: Revenue expected to rise with new major clients and full production at Hungary plant."
+  },
+  "S19": {
+   "url": "https://quartr.com/events/w-scope-chungju-plant-co-ltd-393890-q1-2026_FR8XZqpT",
+   "publisher": "Quartr (AI-generated earnings summary, W-Scope Chungju Plant Q1 2026)",
+   "published": "2026-06-22",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "Ongoing expansion of production lines in Korea and Hungary to prepare for future demand recovery.",
+   "quote": "Ongoing expansion of production lines in Korea and Hungary to prepare for future demand recovery."
+  },
+  "S20": {
+   "url": "https://chemxplore.com/news/toray-completes-sale-of-stake-in-lg-toray-hungary-battery-separator-kft",
+   "publisher": "ChemXplore",
+   "published": "2025-12-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Toray completed the sale of its 50% stake in LG Toray Hungary Battery Separator Kft. on December 17, 2025."
+  },
+  "S21": {
+   "url": "https://autotechinsight.spglobal.com/news/5284459/toray-sells-complete-stake-in-lg-toray-hungary-to-lg-chem",
+   "publisher": "S&P Global Mobility (AutoTechInsight)",
+   "published": "2025-10-08",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "announced its decision to sell the remainder of its stake in the joint venture LG Toray Hungary Battery Separator Kft."
+  },
+  "S22": {
+   "url": "https://www.energy.gov/node/4852840",
+   "publisher": "US Department of Energy (Loan Programs Office)",
+   "published": "2025-09-17",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The U.S. Department of Energy (DOE) today announced the disbursement of $77,217,590 to ENTEK Lithium Separators LLC"
+  },
+  "S23": {
+   "url": "https://www.tipranks.com/news/company-announcements/critical-elements-resumes-exploration-and-advances-rose-project-funding",
+   "publisher": "TipRanks (Critical Elements company announcement summary)",
+   "published": "2025-05-12",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "working on securing funding for its flagship Rose Lithium-Tantalum project"
+  },
+  "S24": {
+   "url": "https://iedc.in.gov/events/news/details/2026/02/26/south-korea-based-manufacturer-picks-indiana-for-first-u.s.-operation-300-new-jobs",
+   "publisher": "Indiana Economic Development Corporation",
+   "published": "2026-02-26",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "joining companies like soulbrain MI"
+  },
+  "S25": {
+   "url": "https://www.evengineeringonline.com/battery-grade-manganese-sulfate-demonstrates-ultra-low-carbon-footprint/",
+   "publisher": "EV Engineering & Infrastructure (Vibrantz LCA release)",
+   "published": "2024-03-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "and planned production in Tampico, Mexico."
+  },
+  "S26": {
+   "url": "https://www.evengineeringonline.com/battery-grade-manganese-sulfate-demonstrates-ultra-low-carbon-footprint/",
+   "publisher": "EV Engineering & Infrastructure (Vibrantz LCA release)",
+   "published": "2024-03-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "up to 45,000 additional metric tons per year"
+  },
+  "S27": {
+   "url": "https://www.segye.com/newsView/20250817503829",
+   "publisher": "Segye Ilbo (세계일보)",
+   "published": "2025-08-17",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "에코프로이엠에서 생산되는 NCA 양극재 제품은 전량 삼성SDI로 납품되고 있다."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "cnnc-titanium-lfp-china",
+   "fields": {
+    "project_state": "cancelled",
+    "source_url": "https://www.yicai.com/news/102650355.html",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-06-05"
+   },
+   "evidence": {
+    "project_state": [
+     "S1",
+     "S2"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[SC204] CANCELLED. CNNC Titanium (中核钛白, 002145.SZ) announced the termination of the 'annual 500 kt iron phosphate project' and the related raised-funds projects (Yicai, 2025-06-05, S1); by end-April 2025 CNY 1.309bn had been invested and only a 100 kt/yr FePO4 line was built and selling (S2). Other press (not opened): project postponed by one year in Nov 2024; remaining raised funds CNY 1.666bn moved to working capital (search summary). The 100 kt/yr FePO4 line is a PRECURSOR (FePO4), not LFP CAM, so it does not make this LFP row operational; lead may add a separate precursor row (cnnc-titanium-fepo4-china, 100 kt, status operational as of 2025-04-30)."
+  },
+  {
+   "action": "update",
+   "id": "jinpu-titanium-lfp-china",
+   "fields": {
+    "project_state": "cancelled",
+    "source_url": "https://news.metal.com/newscontent/103274193-Gansu-200000-mt-LFP-Capacity-Investment-Plan-Terminated-Due-to-Market-Changes-and-Financial-Pressures",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-04-11"
+   },
+   "evidence": {
+    "project_state": [
+     "S3",
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC204] CANCELLED. SMM (2025-04-11, S3/S4): Jinpu Titanium (金浦钛业) announced on 7 April 2025 that it terminated its subsidiary Nanjing Titanium Dioxide's plan to set up a JV with Lanzhou Jinchuan Technology Park and a Gansu nickel fund; 'the original plan was to build a 200,000 mt/year LFP project'. Whether this Gansu JV is exactly the Mar 2022 Jinpu 200 kt LFP project is inferred from the identical 200 kt LFP size and company. China Energy News (2025-06-16, source S5 of this patch, context only): Jinpu's FePO4 unit was 65% built but the FePO4 project (5 kt/yr per that article) is on hold. No LFP capacity was ever built."
+  },
+  {
+   "action": "update",
+   "id": "chuanfa-longmang-lfp-china",
+   "fields": {
+    "asset_name": "Chuanfa Longmang De'a (Deyang) LFP plant - 60 kt built (original 200 kt LFP plan)",
+    "status": "operational",
+    "project_state": "active",
+    "capacity": 60000,
+    "capacity_unit": "t CAM",
+    "capacity_ref_year": 2025,
+    "installed_capacity": 60000,
+    "installed_as_of": "2025-11-18",
+    "source_url": "https://www.cls.cn/detail/2203742",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-11-18"
+   },
+   "evidence": {
+    "status": [
+     "S6",
+     "S7"
+    ],
+    "capacity": [
+     "S6"
+    ],
+    "capacity_ref_year": [
+     "S6"
+    ],
+    "installed_capacity": [
+     "S6",
+     "S7"
+    ]
+   },
+   "drop_evidence": {
+    "capacity": [
+     "SC011"
+    ],
+    "status": [
+     "SC011"
+    ]
+   },
+   "confidence": 0.75,
+   "notes": "[SC204] UPDATED from stale 2022 announcement (200 kt LFP, CNY 12bn). Latest: Chuanfa Longmang's De'a project 60 kt/yr LFP unit 'fully built and in production' (CLS 2025-11-18, S6) and 'mass production and sales achieved' (10jqka 2026-08-05, S7, same article also says the 100 kt/yr FePO4 unit started production). Capacity/installed set to the built 60 kt (t CAM); capacity_ref_year 2025 = publication-year fallback of the 'built' statement. The 100 kt LFP expansion was terminated by the board (separate row chuanfa-longmang-deyang-100kt-lfp-china, cancelled, SC202); the remaining ~40 kt of the original 200 kt plan has no dated source and is NOT counted (D-015). Search summaries (not opened, reported tier): 2025 utilisation of the 60 kt LFP unit only ~20.8%; Nov 2025 plan for a 175 kt/yr high-density LFP JV with Fulin Precision (富临精工) / Jiangxi Shenghua (not added, plan only). Province (Sichuan, De'a park) not stated in the quotes, left null. The 100 kt/yr FePO4 unit at De'a and the 50 kt/yr FePO4 unit at Panzhihua (both in S7) are precursor assets, not added here."
+  },
+  {
+   "action": "update",
+   "id": "enchem-saemangeum-lithium-salt-south-korea",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity": 10000,
+    "capacity_unit": "t LiPF6",
+    "capacity_ref_year": 2028,
+    "capacity_by_year_json": {
+     "2028": 10000
+    },
+    "source_url": "https://www.mt.co.kr/stock/2026/08/04/2026080407509696773",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-08-04"
+   },
+   "evidence": {
+    "status": [
+     "S8",
+     "S9"
+    ],
+    "capacity": [
+     "S10"
+    ],
+    "capacity_ref_year": [
+     "S9"
+    ],
+    "capacity_by_year_json": [
+     "S9",
+     "S10"
+    ]
+   },
+   "drop_evidence": {
+    "capacity": [
+     "SC028"
+    ],
+    "status": [
+     "SC028"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC204] UPDATED (Money Today 2026-08-04, S8-S10): Enchem subsidiary EDL's Saemangeum lithium salt (LiPF6) and LiF plant is under construction ('구축 중'); EDL signed a turnkey (책임준공) construction contract with IS Dongseo to finish the remaining works; phase 1 capacity 10,000 t/yr; commercial production targeted for 2028 (the 2026 start and 50,000 t plan from June 2023 slipped). Per the article overall construction progress is about 40% (not in a copied quote). JUDGEMENT CALL for the lead: capacity reduced from 50,000 to the 10,000 t phase 1 because 2026 source states only phase 1 with a date; the 50 kt plan has no current dated source (D-015/D-017). If the lead prefers to keep the 2023 total, set capacity 50000 with ref year 2028 undated. Article covers LiPF6 AND LiF; the 10 kt figure is for 'phase 1' of the production facility, product split not stated. Search summary (not opened): production building construction started June 2024 (Asiae 2024-06-25)."
+  },
+  {
+   "action": "update",
+   "id": "volt-resources-bunyu-tanzania",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "capacity": 40000,
+    "capacity_unit": "t graphite",
+    "capacity_ref_year": 2025,
+    "jv_partners": "Unbounded Opportunities Fund (UOF) to acquire 62% of Volt Graphite Tanzania at financial close (binding term sheet, conditional); Volt Resources retains 38%",
+    "source_url": "https://www.mining-technology.com/news/volt-signs-funding-deal-bunyu-mine/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-12-11"
+   },
+   "evidence": {
+    "status": [
+     "S11"
+    ],
+    "capacity": [
+     "S12"
+    ],
+    "capacity_ref_year": [
+     "S12"
+    ],
+    "jv_partners": [
+     "S11"
+    ]
+   },
+   "drop_evidence": {
+    "capacity": [
+     "SC015"
+    ],
+    "status": [
+     "SC015"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC204] UPDATED (Mining Technology 2025-12-11, S11/S12; also Mining Weekly/Engineering News 2025-12-10..12 in search summaries): Volt signed a binding term sheet with Unbounded Opportunities Fund (conditional US$11.1m equity for 62% of Volt Graphite Tanzania; Volt keeps 38%); UOF will update the Stage 1 feasibility study (capex ~US$37m) targeting 40,000 t/yr graphite concentrate (94% TGC per search summary) - supersedes the 2023 24,780 t/yr figure (D-017). Four-month window to definitive agreements, later extended to seven months (search summary); no news found on whether financial close happened. Status stays announced (no construction). capacity_ref_year 2025 is a publication-year fallback, not a delivery year."
+  },
+  {
+   "action": "update",
+   "id": "anovion-technologies-bainbridge-united-states",
+   "fields": {
+    "operator": "M2Graphite (formerly Anovion Technologies)",
+    "status": "announced",
+    "project_state": "active",
+    "source_url": "https://chargedevs.com/newswire/monomyth-materials-acquires-nanograf-to-pair-siox-silicon-anodes-with-its-domestic-synthetic-graphite-platform/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-05-18"
+   },
+   "evidence": {
+    "status": [
+     "S13",
+     "S14",
+     "S16"
+    ],
+    "operator": [
+     "S15"
+    ],
+    "capacity_ref_year": [
+     "S13"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC204] Newest evidence. (a) Post-Searchlight 2025-07-16 (S13/S14): Anovion 'still targeting' 2026 for the mini-mill and 2028 for full-facility production; 'little visible construction at the industrial park site'. (b) Charged EVs / Monomyth Materials newswire 2026-05-18 (S15/S16): Anovion Technologies 'simultaneously rebranded' as M2Graphite, Monomyth's synthetic graphite business; the Bainbridge, Georgia site is 'slated to be the first of several facilities', backed by three planned (not committed) >US$1bn capital programmes; no schedule or capacity given. Parent is Monomyth Materials (from the article text, not in a copied quote) - parent_company field left unchanged. No works evidenced -> stays announced (D-020). Capacity 40,000 t (reported, 2023) and ref year 2028 unchanged. A Business Wire release (2026-05-12) on the rebrand returned HTTP 403 and was not read."
+  },
+  {
+   "action": "update",
+   "id": "ev-metals-evm-arabia-yanbu-lithium-hydroxide-saudi-arabia",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "source_url": "https://enterpriseam.com/climate/2024/08/20/aussie-battery-player-evm-lines-up-us-private-equity-investment-for-yanbu-lithium-chemicals-plant/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-08-20"
+   },
+   "evidence": {
+    "status": [
+     "S17"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC204] Newest found: Enterprise (2024-08-20, S17): EVM lined up investment from Resource Capital Funds (RCF) for EVM Arabia's Yanbu lithium chemicals plant and 'is ready to start construction of the first two processing trains' - i.e. still pre-construction, financing not closed (search summaries: the RCF partnership was to 'explore' investment; est. US$906m; FEED by Mustang; Metso frame agreement). No 2025-2026 report of financial close, construction start or revised start date found in ~3 searches (no ASX/AIM announcement opened) -> kept announced; the 2026 start target from Jan 2023 is almost certainly missed. Capacity 150 kt LiOH (first two trains 50 kt) and ref year unchanged (aspirational, D-015); consider capacity 50000 if the lead wants only the funded first stage."
+  },
+  {
+   "action": "update",
+   "id": "w-scope-nyiregyhaza-hungary",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "capacity_ref_year": 2028,
+    "source_url": "https://quartr.com/events/w-scope-chungju-plant-co-ltd-393890-q1-2026_FR8XZqpT",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-06-22"
+   },
+   "evidence": {
+    "capacity_ref_year": [
+     "S18",
+     "S19"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC204] REPORTED tier (AI-generated Quartr summary of the W-Scope Chungju Plant Q1 2026 earnings call, 2026-06-22; page opened, quotes copied, but summaries can err): 'ongoing expansion of production lines in Korea and Hungary' and revenue growth in 2027-2028 with 'full production at Hungary plant' -> original 2025 mass-production target has slipped; ref year moved 2025 -> 2028 (end of the 2027-2028 window). Capacity 1,200 Mm2 unchanged. Status stays under_construction (construction began Oct 2022, SC028 A10; no operating start found). Oct 2025 industry item (search snippet, page 403): foreign investors incl. W-Scope still building in the Nyiregyhaza park. Evidence deliberately filed under capacity_ref_year only so the row's status stays on its confirmed 2022 source; the lead should obtain W-Scope Chungju's own IR slide to confirm."
+  },
+  {
+   "action": "update",
+   "id": "entek-terre-haute-united-states",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "active",
+    "source_url": "https://www.energy.gov/node/4852840",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-09-17"
+   },
+   "evidence": {
+    "status": [
+     "S22"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC204] DOE LPO (2025-09-17, S22): first disbursement of US$77,217,590 to ENTEK Lithium Separators LLC under its up-to-US$1.3bn loan to finance the Terre Haute plant (project 'once completed'), i.e. financing closed and construction funded; the page gives no capacity, timeline or production start. Search summary (not opened): IDEM public notice dated 2026-06-12 on an antidegradation demonstration for ENTEK Lithium Separators LLC at Terre Haute (initial demonstration submitted 2026-04-22) and an April 2026 report of I Squared taking a majority stake to fund the Terre Haute build - so still pre-production in mid-2026. Capacity 1,400 Mm2 / ref year 2027 unchanged (reported); production not yet started as far as found."
+  },
+  {
+   "action": "update",
+   "id": "lg-toray-hungary-battery-separator-nyergesujfalu-hungary",
+   "fields": {
+    "parent_company": "LG Chem",
+    "jv_partners": null,
+    "project_state": "active",
+    "source_url": "https://chemxplore.com/news/toray-completes-sale-of-stake-in-lg-toray-hungary-battery-separator-kft",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-12-17"
+   },
+   "evidence": {
+    "parent_company": [
+     "S20",
+     "S21"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC204] OWNERSHIP CHANGE: Toray Industries sold its remaining stake in LG Toray Hungary Battery Separator Kft to LG Chem (S&P AutoTechInsight 2025-10-08, S21: 'decision to sell the remainder of its stake', ~JPY 30bn; ChemXplore 2025-12-17, S20: sale completed 17 Dec 2025). CONFLICT: S20 calls it Toray's '50% stake' while S21 says 'remainder' (search summaries: Toray held 30% after LG Chem's 20% step-up) - the ownership split before the sale is unresolved; LG Chem is now sole owner either way, so parent_company = LG Chem and jv_partners cleared. Plant status NOT changed: the S20 page's project card says 'Under Construction' (aggregator, not company data) and S21 says Toray will keep producing separator film elsewhere; no capacity, works or commissioning source found; no 2025-26 construction news (Feb 2025 Portfolio.hu: LG Chem reconsidering the JV, search summary). Kept announced (D-020); lead may move to under_construction if the card is accepted. Capacity 800 Mm2 / 2028 target unchanged (2022 source, unconfirmed)."
+  },
+  {
+   "action": "update",
+   "id": "critical-elements-rose-canada",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "source_url": "https://www.tipranks.com/news/company-announcements/critical-elements-resumes-exploration-and-advances-rose-project-funding",
+    "source_date": "2026-11-28",
+    "source_published_date": "2025-05-12"
+   },
+   "evidence": {
+    "status": [
+     "S23"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC204] TipRanks company-announcement summary (2025-05-12, S23): Critical Elements 'working on securing funding' for Rose; Feb 2025 conditional support letter for up to US$115m (C$150m) from a Canadian financial institution plus conditional C$20m from the Critical Minerals Infrastructure Fund (Resource World, undated page opened, 'Summer 2026' drill programme to feed an MRE update in Fall 2026). Federal approval and Quebec authorisation held; no construction decision or financing close found (Stockwatch 2026-08-10 is a small working-capital raise, search summary) -> stays announced/active. Capacity (2023 FS, reported) and 2027 ref year (analyst expectation) unchanged."
+  },
+  {
+   "action": "update",
+   "id": "soulbrain-mi-kokomo-united-states",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "source_url": "https://iedc.in.gov/events/news/details/2026/02/26/south-korea-based-manufacturer-picks-indiana-for-first-u.s.-operation-300-new-jobs",
+    "source_date": "2026-11-28",
+    "source_published_date": "2026-02-26"
+   },
+   "evidence": {
+    "status": [
+     "S24"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC204] Only newer evidence: Indiana IEDC release 2026-02-26 (S24) lists soulbrain MI among companies already set up in Indiana to supply the Stellantis/Samsung SDI StarPlus Energy Kokomo plants ('joining companies like soulbrain MI ...'). It does not describe the Kokomo electrolyte plant, a start date or tonnage, so the status is NOT upgraded (D-020: no works/operation evidenced). The 2022 IEDC plan was US$75m, 30,000 sq ft, groundbreaking Mar 2023, hiring from early 2024 (search summaries). Lead may treat the 2026 IEDC wording as 'established, likely operating' and upgrade; no capacity known."
+  },
+  {
+   "action": "update",
+   "id": "vibrantz-tampico-hpmsm-mexico",
+   "fields": {
+    "status": "announced",
+    "project_state": "active",
+    "source_url": "https://www.evengineeringonline.com/battery-grade-manganese-sulfate-demonstrates-ultra-low-carbon-footprint/",
+    "source_date": "2026-11-28",
+    "source_published_date": "2024-03-04"
+   },
+   "evidence": {
+    "status": [
+     "S25"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC204] Newest found: Vibrantz life-cycle-assessment release (EV Engineering 2024-03-04, S25) still refers to 'planned production in Tampico, Mexico'; S26 says 'up to 45,000 additional metric tons per year' of battery-grade MnSO4 at Tampico. CONFLICT: the 2023-07-19 Vibrantz release says the expansion would raise Vibrantz's HPMSM capacity 'to up to 45,000 metric tons per year' (company total, possibly incl. Belgium) and 'The new facility is expected to be operational in 2026' (page opened). Capacity therefore left null here (not entered to avoid double counting with the Belgian row); lead to choose. No 2025-26 commissioning news found in 2 searches -> stays announced; the 2026 start is unverified."
+  },
+  {
+   "action": "update",
+   "id": "ecopro-bm-pohang-blue-valley-south-korea",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2023; stale. No groundbreaking, capacity or schedule found for the Blue Valley campus after the July 2023 MOU (KRW 2tn, completion 2028); EcoPro BM moved its group CAM target from 2027 to 2030 (Nov 2024, per SC012 note) and a Korean search summary of July 2026 broker/registration-statement coverage says follow-on domestic CAM9 investment is on hold and a 30 kt domestic LFP plant is under review/on hold (not opened, PDF unreadable). The Sept 2024 cancelled Blue Valley project was POSCO Future M-Huayou's KRW 1.2tn Pohang nickel/precursor JV (ddaily 2024-09-05), not EcoPro."
+  },
+  {
+   "action": "update",
+   "id": "huayou-posco-zhejiang-cam-china",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2023; stale. Only the Apr 2023 JoongAng 'under construction' item (30 kt, Zhejiang JV with Huayou) exists; no completion, capacity or termination notice found in 3 searches (POSCO Future M's disclosures say Zhejiang Pohua = 5 kt in 2023; the 2021 plan was 5 kt -> 35 kt at Tongxiang, i.e. this 30 kt is very probably the Pohua expansion - overlap with zhejiang-pohua-cathode-china unresolved). NOT the cancelled POSCO Future M-Huayou Pohang (Blue Valley) KRW 1.2tn JV (ddaily 2024-09-05, review halted 2024-09-04), which has no row in the database; lead may add it as a cancelled asset."
+  },
+  {
+   "action": "update",
+   "id": "ionway-nysa-cathode-poland",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2023; stale. No construction start, commissioning or revised schedule for the IONWAY (Umicore/PowerCo) Nysa CAM plant found in 3 searches (only the Oct 2023 site announcement, a 25 Mar 2025 Polish investment agreement mention and a Polish agency page expecting production from 2026 - unverified); Umicore's H1 2026 results coverage does not mention IONWAY. Umicore's separate Ontario CAM project was delayed in 2024 (Bloomberg, search summary). PowerCo's Salzgitter CAM supply is covered by Umicore's existing Nysa plant."
+  },
+  {
+   "action": "update",
+   "id": "cirba-solutions-columbia-south-carolina-usa",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2023; stale. Three searches (incl. 2025-2026 wording) found only the March 2023 announcement (US$300m+ phase 1, ops expected late 2024) and the DOE award-negotiation selection (up to US$200m); no groundbreaking, construction, permit or cancellation news. A HigherGov DOE-grant page opened turned out to be for another award (Indianapolis), not used."
+  },
+  {
+   "action": "update",
+   "id": "ganfeng-lithium-fengxin-china",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2022; stale. Sept 2022 Yichun framework (50 kt battery-grade lithium salt at Fengxin + mining, part of a CNY 30bn plan). Not mentioned in the Ganfeng 2023 or FY2025 annual reports (local 002460_2023.txt / 002460_2025.txt: the only Fengxin asset is the 650 t/yr lithium-metal plant, line 1467 / 1815); search for 2024-2025 progress found nothing (Ganfeng's 2025 strategy is cautious capex, Sichuan 50 kt salt line commissioned H1 2025 - different project, search summary)."
+  },
+  {
+   "action": "update",
+   "id": "gotion-fengxin-lithium-carbonate-china",
+   "fields": {
+    "project_state": "paused"
+   },
+   "notes": "[SC204] no progress reported since 2023; stale. Gotion 2023 annual report (local team/evidence/filings/002074_2023.txt) lists the subsidiary 奉新国轩锂业有限公司 (mining business, registered capital CNY 50m, 43.14% indirect; line 14326-14328; land-use right CNY 23.76m 'being processed', line 12205). It does NOT appear in the 2024 annual report's subsidiary table (002074_2024.txt lines 15371-15381 list only 宜春国轩锂业 and 宜丰国轩锂业) nor anywhere in the 2025 AR (no '奉新' match), which suggests the Fengxin vehicle was wound up or transferred - inferred, no announcement found, so paused rather than cancelled. The sibling Yifeng project is under construction (SC121). Searches for 国轩 奉新 碳酸锂 progress found nothing."
+  }
+ ]
+}

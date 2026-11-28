@@ -128,10 +128,10 @@ separator,separator,production,2024,China,21446.0,Mm2,0,0,0,0,0,0,0.0,0.0,0,0,0,
 electrolyte,electrolyte,production,2023,China,1057500.0,t electrolyte,0,0,35000,0,0,0,0.0,0.03,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
 electrolyte,electrolyte,production,2024,China,1492600.0,t electrolyte,0,0,115000,0,0,0,0.0,0.08,0,0,0,0,刘彦龙 (CIAPS) 2025年我国锂离子电池产业发展形势 Table 8 生态产业科学与磷氟工程 40(12)
 cathode,cathode,shipments,2024,China,3350000.0,t CAM,25064,2,290000,100000,75000,0,0.01,0.09,0,0,0,0,前瞻产业研究院 2025年中国锂电池行业上游原材料现状 (shipments; underlying data source not named in the text I extracted)
-cathode,cathode,production,2025,China,4971000.0,t CAM,25064,2,884060,160000,75000,0,0.01,0.18,1660833,2503608,2527072,2832821,前瞻产业研究院 2026年中国储能电池上游原材分析
-cathode,cathode,production,2025,China,4970000.0,t CAM,25064,2,884060,160000,75000,0,0.01,0.18,1660833,2503608,2527072,2832821,电池网 repost of 有色标准计量质量 (中国有色金属工业协会锂业分会 preliminary statistics)
-cathode,cathode,shipments,2025,China,4987000.0,t CAM,25064,2,884060,160000,75000,0,0.01,0.18,1660833,2503608,2527072,2832821,大公国际 report citing EVTank/伊维经济研究院 (shipments)
-cathode,cathode,capacity,2025,China,9000000.0,t CAM,25064,2,884060,160000,75000,0,0.0,0.1,1660833,2503608,2527072,2832821,电池网 repost of 有色标准计量质量 (four cathode types combined; approx.)
+cathode,cathode,production,2025,China,4971000.0,t CAM,25064,2,944060,160000,75000,0,0.01,0.19,1660833,2503608,2527072,2832821,前瞻产业研究院 2026年中国储能电池上游原材分析
+cathode,cathode,production,2025,China,4970000.0,t CAM,25064,2,944060,160000,75000,0,0.01,0.19,1660833,2503608,2527072,2832821,电池网 repost of 有色标准计量质量 (中国有色金属工业协会锂业分会 preliminary statistics)
+cathode,cathode,shipments,2025,China,4987000.0,t CAM,25064,2,944060,160000,75000,0,0.01,0.19,1660833,2503608,2527072,2832821,大公国际 report citing EVTank/伊维经济研究院 (shipments)
+cathode,cathode,capacity,2025,China,9000000.0,t CAM,25064,2,944060,160000,75000,0,0.0,0.1,1660833,2503608,2527072,2832821,电池网 repost of 有色标准计量质量 (four cathode types combined; approx.)
 anode,anode,shipments,2025,China,2900000.0,t anode,0,0,607500,580000,0,0,0.0,0.21,613343,1594612,1594612,2189456,前瞻产业研究院 2026年中国储能电池上游原材分析 (text says 石墨出货量 = graphite anode shipments)
 separator,separator,shipments,2025,China,32850.0,Mm2,0,0,900,4320,0,0,0.0,0.03,2120,3926,3926,20673,前瞻产业研究院 2026年中国储能电池上游原材分析 [328.5亿平米 = 32850 Mm2]
 electrolyte,electrolyte,shipments,2025,China,2235000.0,t electrolyte,0,0,695000,150000,0,0,0.0,0.31,300000,0,0,1320686,前瞻产业研究院 2026年中国储能电池上游原材分析 (attributed in article to EVTank)
@@ -154,7 +154,7 @@ recycling,recycling,production,2024,China,654000.0,t feed,52576,1,0,0,0,0,0.08,0
 recycling,recycling,capacity,2026,Europe,420000.0,t feed,0,0,0,0,0,0,0.0,0.0,0,0,0,0,"Fraunhofer ISI 2025-07-24 (pre-treatment, expected end-2026)"
 mining,graphite,production,2020,China (Luobei county),380000.0,t graphite,0,0,0,0,0,0,0.0,0.0,0,0,0,0,MEE inspection bulletin 2021-12-16
 mining,lithium,production,2025,World,1806300.0,t LCE,1238204,27,269920,76848,20000,0,0.69,0.15,0,5543,80810,80810,"ICC 鑫椤 via CNGR 2025 annual report (supply, all sources)"
-cathode,cathode (LFP),production,2025,World,3915000.0,t CAM,0,0,702500,60000,75000,0,0.0,0.18,0,0,0,0,ICC 鑫椤 via CNGR 2025 annual report
+cathode,cathode (LFP),production,2025,World,3915000.0,t CAM,0,0,762500,60000,75000,0,0.0,0.19,0,0,0,0,ICC 鑫椤 via CNGR 2025 annual report
 mining,manganese,production,2025,South Africa,7600000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,Gabon,5000000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
 mining,manganese,production,2025,Ghana,2000000.0,t Mn,0,0,0,0,0,0,0.0,0.0,0,0,0,0,USGS MCS 2026
