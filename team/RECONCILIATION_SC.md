@@ -5,7 +5,7 @@ Assets: 914 — by step and status (never summed across statuses):
 | step | operational | under construction | announced | paused/cancelled |
 |---|---:|---:|---:|---:|
 | anode | 40 | 10 | 16 | 2 |
-| cathode | 80 | 27 | 23 | 7 |
+| cathode | 81 | 26 | 23 | 7 |
 | electrolyte | 40 | 5 | 7 | 2 |
 | foil | 24 | 1 | 4 | 0 |
 | mining | 132 | 20 | 39 | 22 |

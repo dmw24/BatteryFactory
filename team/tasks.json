@@ -4591,6 +4591,58 @@
     "by": "lead",
     "notes": "10/13 quotes found, 3 demoted; 9 plants added"
    }
+  },
+  {
+   "id": "SC199",
+   "title": "Dated built capacity KR/JP/West cathode/anode",
+   "workstream": "SC. Supply chain — built capacity",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC199.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "merged",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {
+    "verdict": "pass",
+    "by": "lead",
+    "notes": "9 rows kept (CAM7 and derived Pohang residual rejected: inference from aggregates); 13 quotes found"
+   }
+  },
+  {
+   "id": "SC198",
+   "title": "2025 mine production gap pass",
+   "workstream": "SC. Supply chain",
+   "owner": "worker",
+   "files": [
+    "data/supply_chain/patches/SC198.json"
+   ],
+   "depends_on": [],
+   "acceptance": [
+    "sc_checks pass"
+   ],
+   "risk": "medium",
+   "contract": {
+    "path": "team/briefs/SC_RESEARCHER.md",
+    "approved": true
+   },
+   "status": "in_progress",
+   "branch": null,
+   "pr": null,
+   "attempts": 1,
+   "assumptions": [],
+   "audit": {}
   }
  ]
 }

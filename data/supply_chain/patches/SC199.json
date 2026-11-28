@@ -1,0 +1,309 @@
+{
+ "task": "SC199",
+ "verified_on": "2026-11-28",
+ "sources": {
+  "S1": {
+   "url": "https://www.etnews.com/20230918000049",
+   "publisher": "ETNews (Electronic Times) - EcoPro vertical integration feature (article URL dated 2023-09-18)",
+   "published": "2023-09-18",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "현재 에코프로 양극재 생산능력 18만톤 중 포항에서 생산되는 물량이 15만톤에 이른다."
+  },
+  "S1b": {
+   "url": "https://www.etnews.com/20230918000049",
+   "publisher": "ETNews (Electronic Times) - EcoPro vertical integration feature (article URL dated 2023-09-18)",
+   "published": "2023-09-18",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "CAM5N, CAM6, CAM7까지 양극재 공장이 차례로 들어섰다."
+  },
+  "S2": {
+   "url": "https://view.asiae.co.kr/en/article/2024022314145924543",
+   "publisher": "Asia Economy (asiae.co.kr)",
+   "published": "2024-02-23",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Combined with 150,000 tons in Pohang, EcoPro's annual cathode material production capacity reached 180,000 tons as of 2023."
+  },
+  "S3": {
+   "url": "https://view.asiae.co.kr/en/article/2024101310170312399",
+   "publisher": "Asia Economy (asiae.co.kr) - POSCO Future M ships first products from Pohang NCA plant",
+   "published": "2024-10-13",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "annual production capacity of 30,000 tons"
+  },
+  "S3b": {
+   "url": "https://view.asiae.co.kr/en/article/2024101310170312399",
+   "publisher": "Asia Economy (asiae.co.kr) - POSCO Future M ships first products from Pohang NCA plant",
+   "published": "2024-10-13",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "shipped the first products from its dedicated NCA (Nickel-Cobalt-Aluminum) cathode material plant in Pohang"
+  },
+  "S4": {
+   "url": "https://biz.heraldcorp.com/article/10932330",
+   "publisher": "Herald Business (Korea Herald group) - Gwangyang complex anchors 90,000-ton annual ternary cathode output (plant visit 2026-11-03)",
+   "published": "2026-11-10",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "an annual production capacity of 90,000 tons"
+  },
+  "S5": {
+   "url": "https://newsroom.posco.com/en/posco-future-m-to-establish-overseas-artificial-graphite-anode-plant-targeting-global-order-growth/",
+   "publisher": "POSCO Newsroom - POSCO Future M overseas artificial graphite anode plant",
+   "published": "2026-03-11",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "with an annual production capacity of 8,000 metric tons"
+  },
+  "S6": {
+   "url": "https://view.asiae.co.kr/en/article/2026030514440505298",
+   "publisher": "Asia Economy (asiae.co.kr) - POSCO Future M Vietnam artificial graphite plant",
+   "published": "2026-03-05",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "an annual capacity of 8,000 tons"
+  },
+  "S7": {
+   "url": "https://newsroom.posco.com/en/posco-future-m-secures-krw-1-trillion-artificial-graphite-anode-order-laying-the-groundwork-for-a-quantum-leap-in-the-anode-business/",
+   "publisher": "POSCO Newsroom - POSCO Future M secures KRW 1 trillion artificial graphite anode order",
+   "published": "2026-03-19",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "the completion of its artificial graphite anode material plant in Pohang in 2021, thereby establishing a full-scale mass production system"
+  },
+  "S8": {
+   "url": "https://theguru.co.kr/mobile/article.html?no=106955",
+   "publisher": "TheGuru (Korean business press) - LG Chem Tennessee cathode plant first shipment",
+   "published": "2026-09-11",
+   "accessed": "2026-11-28",
+   "language": "ko",
+   "quote": "공장 운영은 생산 및 물류 단계로 진입하게 됐다"
+  },
+  "S9": {
+   "url": "https://www.electrive.com/2023/06/29/lg-chem-mass-produces-single-crystal-cathode-materials/",
+   "publisher": "electrive.com - LG Chem mass-produces single-crystal cathode materials",
+   "published": "2023-06-29",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "a production capacity of 20,000 tonnes per year"
+  },
+  "S10": {
+   "url": "https://news.cision.com/vianode/r/vianode-inaugurates-via-one-the-world-s-most-sustainable-anode-graphite-plant-for-batteries,c4051108",
+   "publisher": "Vianode press release via Cision",
+   "published": "2024-10-15",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "The plant has four advanced full-size furnaces designed for production of synthetic anode graphite."
+  },
+  "S10b": {
+   "url": "https://news.cision.com/vianode/r/vianode-inaugurates-via-one-the-world-s-most-sustainable-anode-graphite-plant-for-batteries,c4051108",
+   "publisher": "Vianode press release via Cision",
+   "published": "2024-10-15",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "Fully ramped up, the plant will have a capacity of 2.000 tons per year."
+  },
+  "S11": {
+   "url": "https://lpm.org/news/2025-04-04/ev-battery-supplier-ascend-elements-pauses-construction-on-hopkinsville-plant",
+   "publisher": "Louisville Public Media - Ascend Elements pauses construction on Hopkinsville plant",
+   "published": "2025-04-04",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "construction is now on hold for the Apex 1 project"
+  },
+  "S12": {
+   "url": "https://www.industrialinfo.com/news/article/contractor-partnership-wins-kentucky-battery-recycling-plant-in-chapter-11-auction--359113",
+   "publisher": "IIR Energy / industrialinfo.com - Contractor partnership wins Kentucky battery recycling plant in Chapter 11 auction (release date shown as 2026-06-16)",
+   "published": "2026-06-16",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "voluntarily filed in a Texas court for protection under Chapter 11 of U.S. bankruptcy laws"
+  },
+  "S13": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001859795/000119312526378825/nvx-ex99_1.htm",
+   "publisher": "NOVONIX Ltd - Form 6-K exhibit 99.1, half-year report to 30 June 2026 (authorised for issue 2026-08-31)",
+   "published": "2026-08-31",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "continuing to build-out the Riverside facility in Chattanooga, Tennessee"
+  },
+  "S13b": {
+   "url": "https://www.sec.gov/Archives/edgar/data/0001859795/000119312526378825/nvx-ex99_1.htm",
+   "publisher": "NOVONIX Ltd - Form 6-K exhibit 99.1, half-year report to 30 June 2026 (authorised for issue 2026-08-31)",
+   "published": "2026-08-31",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "the qualifying asset has not been placed in service as of June 30, 2026"
+  },
+  "S14": {
+   "url": "https://www.ess-news.com/2024/09/09/northvolt-scraps-cam-gigafactory-plans-seeks-partners-for-storage-business-in-poland/",
+   "publisher": "ESS News (pv magazine group) - Northvolt scraps CAM gigafactory plans",
+   "published": "2024-09-09",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "quote": "was planned to start its operations in late 2024"
+  },
+  "R1": {
+   "url": "https://www.ess-news.com/2024/09/09/northvolt-scraps-cam-gigafactory-plans-seeks-partners-for-storage-business-in-poland/",
+   "publisher": "WebSearch result summary of energy-storage.news / ESS News coverage, September 2024 (Northvolt Borlange CAM plant, Northvolt Fem)",
+   "published": "2024-09-09",
+   "accessed": "2026-11-28",
+   "language": "en",
+   "tier": "reported",
+   "snippet": "In September 2024, Northvolt said it would exit its planned cathode active material facility in Borlänge, Sweden, and had signed an agreement to sell the Borlänge site."
+  }
+ },
+ "rows": [
+  {
+   "action": "update",
+   "id": "posco-future-m-pohang-cathode-south-korea",
+   "fields": {
+    "installed_capacity": 30000,
+    "installed_as_of": "2024-10-13",
+    "capacity_by_year_json": {
+     "2024": 30000
+    }
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S3",
+     "S3b"
+    ],
+    "capacity_by_year_json": [
+     "S3",
+     "S3b"
+    ]
+   },
+   "confidence": 0.6,
+   "notes": "[SC199] Asiae 2024-10-13: first products shipped from the 'dedicated NCA cathode material plant in Pohang' with 'annual production capacity of 30,000 tons' (= phase 1 of the 106,000 t plan; first shipment ~3 months ahead of schedule; trial production had started Sept 2023 per ETNews, not used). Phases 2 (30,000 t) and 2-2 (46,000 t NCMA) completion NOT found in any 2025-2026 source (checked POSCO newsroom/Korean press by search); the June 2025 precursor release and the 2026 Herald article do not give Pohang totals. CONFLICT/CAVEAT: Herald Business 2026-09-22 says part of the Pohang high-nickel line is being converted to LFP (supply from end-2026), which could lower NCM capacity; the earlier SC012 note cites a Korea Times 2026-11-09 article with ~20,000 t Pohang now rising to as much as 105,000 t by end-2027 (not re-opened by SC199, unresolved). Installed value is therefore 30 kt (phase 1 only), as of Oct 2024."
+  },
+  {
+   "action": "update",
+   "id": "posco-future-m-gwangyang-cathode-south-korea",
+   "fields": {
+    "installed_capacity": 90000,
+    "installed_as_of": "2026-11-10"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S4"
+    ]
+   },
+   "confidence": 0.7,
+   "notes": "[SC199] Herald Business 2026-11-10 (reporter plant visit 2026-11-03): Gwangyang (Yulchon) plant has 'an annual production capacity of 90,000 tons' of ternary cathode (13 lines; NCM/NCA/NCMA), i.e. unchanged since the April 2023 KED figure. Re-dates the anchor from 2023-04-24 to 2026-11-10. The separate 52,500 t Yulchon NCA plant is NOT in this figure (not mentioned as completed in the article)."
+  },
+  {
+   "action": "update",
+   "id": "posco-future-m-pohang-artificial-graphite-south-korea",
+   "fields": {
+    "installed_capacity": 8000,
+    "installed_as_of": "2026-03-05"
+   },
+   "evidence": {
+    "status": [
+     "S7"
+    ],
+    "installed_capacity": [
+     "S5",
+     "S6"
+    ]
+   },
+   "confidence": 0.65,
+   "notes": "[SC199] Two March 2026 sources (POSCO newsroom 2026-03-11; Asiae 2026-03-05) give the Pohang artificial graphite plant 'an annual (production) capacity of 8,000 (metric) tons'; POSCO newsroom 2026-03-19 states the plant was completed in 2021 'establishing a full-scale mass production system'. CONFLICT: the existing row's 16,000 t capacity (POSCO E&C project page, undated, still 'under construction') is not confirmed by any 2026 source; it is kept as the plan figure, but the 2026 company statements indicate 8,000 t is what exists. Lead may wish to treat 16,000 t as an unconfirmed expansion. Not used: search text saying company total anode capacity exceeds 80,000 t including ~16,000 t synthetic (unopened)."
+  },
+  {
+   "action": "update",
+   "id": "lg-chem-clarksville-cam-united-states",
+   "fields": {
+    "status": "operational"
+   },
+   "evidence": {
+    "status": [
+     "S8"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC199] STATUS CORRECTION on a single Korean business-press source (TheGuru 2026-09-11): after equipment installation and local hiring, LG Chem shipped the first volume from the Clarksville (Tennessee) cathode plant (shipping by Christenson Transportation 'recently') and 'plant operation has entered the production and logistics phase'; ramp-up timing and scale to be adjusted to OEM customer demand. Same article gives the plan as 60,000 t/yr phase 1 (~KRW 2 trillion) - a plan, so NO installed_capacity is set. No LG Chem press release or second source for the first shipment was found (English searches returned only the Dec 2023 groundbreaking). Lead may prefer to keep under_construction until a second source; confidence kept <=0.5."
+  },
+  {
+   "action": "update",
+   "id": "lg-chem-cheongju-cathode-south-korea",
+   "fields": {
+    "installed_capacity": 20000,
+    "installed_as_of": "2023-06-29"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S9"
+    ]
+   },
+   "confidence": 0.45,
+   "notes": "[SC199] electrive 2023-06-29 (present tense, mass production of single-crystal high-nickel cathode started at Cheongju in June 2023): LG Chem 'has a production capacity of 20,000 tonnes per year' across its two existing Korean sites (Cheongju and Iksan). Scope caveat unchanged: single-crystal material, two sites combined, so Cheongju-only or all-chemistry totals are unknown. LG Chem's earlier company-wide figure of 80,000 t (Jan 2022 release, 'currently 80,000 t, 260,000 t by 2026') is not plant-level and is not used. Gumi (60,000 t planned, 2027 single-crystal line, total Korea >50,000 t per 2023 coverage) has no completion statement and no row here."
+  },
+  {
+   "action": "update",
+   "id": "vianode-via-one-heroya-norway",
+   "fields": {
+    "installed_capacity": 2000,
+    "installed_as_of": "2024-10-15"
+   },
+   "evidence": {
+    "installed_capacity": [
+     "S10",
+     "S10b"
+    ]
+   },
+   "confidence": 0.55,
+   "notes": "[SC199] Vianode release 2024-10-15 (inauguration): first full-scale plant opened with four full-size furnaces; capacity 2,000 t/yr when fully ramped up. Installed is set to that design capacity as of inauguration (built, ramping); actual 2025-2026 output and utilisation not found (Vianode seeking a partner or acquirer per electrive 2026-10-01, search listing only). Treat as built capacity, not as producing at 2,000 t/yr."
+  },
+  {
+   "action": "update",
+   "id": "ascend-elements-apex-1-pcam-united-states",
+   "fields": {
+    "status": "under_construction",
+    "project_state": "paused"
+   },
+   "evidence": {
+    "status": [
+     "S11",
+     "S12"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC199] Status re-confirmed with dated sources: Louisville Public Media 2025-04-04 'construction is now on hold for the Apex 1 project' (pCAM start pushed back at customer request); IIR Energy 2026-06-16: Apex 'voluntarily filed in a Texas court for protection under Chapter 11' (per that article on 2026-04-09) and the court approved the Turner-Kokosing JV $31.7m bid on 2026-06-04 (ABAT challenged the selection) - plant described as under construction, halted in 2024. No capacity tonnage or built figure exists. Kept paused rather than cancelled: the asset is being sold, no source says the pCAM line was abandoned."
+  },
+  {
+   "action": "update",
+   "id": "novonix-riverside-chattanooga-united-states",
+   "fields": {
+    "status": "under_construction"
+   },
+   "evidence": {
+    "status": [
+     "S13",
+     "S13b"
+    ]
+   },
+   "confidence": 0.5,
+   "notes": "[SC199] NOVONIX half-year report to 30 June 2026 (6-K, authorised 2026-08-31): 'continuing to build-out the Riverside facility in Chattanooga, Tennessee'; the qualifying asset (first 11,000 tpa) 'has not been placed in service as of June 30, 2026'; planned 20,000 tpa; Panasonic mass production expected 2H 2027 subject to qualification (paraphrase). So no installed capacity (D-112); supports under_construction. Enterprise South not mentioned in the opened text."
+  },
+  {
+   "action": "update",
+   "id": "northvolt-skelleftea-cam-sweden",
+   "fields": {
+    "province_state": "Borlange"
+   },
+   "evidence": {
+    "status": [
+     "S14",
+     "R1"
+    ]
+   },
+   "confidence": 0.4,
+   "notes": "[SC199] IDENTITY CORRECTION (reported tier for the location): the cancelled Northvolt CAM project that sold its land is the Borlange (former Kvarnsveden paper mill, 'Northvolt Fem', >100 GWh cathode plan, planned start late 2024 per ESS News 2024-09-09), not Skelleftea. The row id says skelleftea but the earlier SC013 note already stated Skelleftea was not confirmed; province_state set to the town 'Borlange' (Sweden); county not stated in the opened source. Separate asset NOT in sc_assets.csv: 'Northvolt Ett Upstream 1' CAM production facility at Skelleftea, whose operations Northvolt said (ESS News 2024-09-09) it would 'pause ... until further notice' (a pilot-scale operating plant; later Lyten acquired Northvolt Ett per electrive/electrek 2026-02-27, search text only). Candidate add row for the lead (no capacity tonnage found). [lead] row is the Borlänge (Northvolt Fem) CAM project; id kept for stability."
+  }
+ ]
+}
