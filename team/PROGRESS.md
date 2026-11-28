@@ -85,3 +85,5 @@ capacity, China processing bases) and SC197 (China cobalt refineries, HPMSM plan
 - 2026-11-28 00:xx lead: SC audit 5 (whole-DB random sample: 10% any defect, 0/20 aggregate-changing) → fixes merged.
   914 assets, 14/14 checks. Next wakes: remaining gap passes from team/SC_BACKLOG.md (Chinese plant-level dated capacity,
   mine output gaps, supply links), then a final audit and close-out.
+- 2026-11-28 03:xx lead: merged SC199 (KR/JP/West dated built capacity; CAM7 inference rejected) and SC198 (mine output:
+  graphite world 10% → 36% of USGS, China 35%). 917 assets, 14/14 checks.
